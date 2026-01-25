@@ -106,9 +106,43 @@ class MainScraper:
     
     def _save_index(self):
         """Save index to file."""
+        if not self.index.get("comics") and os.path.exists(self.index_path):
+            print("Warning: Attempted to save empty index. Safety check triggered, skipping save.")
+            return
+            
         self.index["last_updated"] = datetime.now().isoformat()
         with open(self.index_path, "w", encoding="utf-8") as f:
             json.dump(self.index, f, ensure_ascii=False, indent=2)
+
+    def rebuild_index(self):
+        """Rebuild index.json from existing comic metadata files."""
+        print("Rebuilding index from existing comics...")
+        all_comics = []
+        
+        if not os.path.exists(self.comics_dir):
+            return
+            
+        for slug in os.listdir(self.comics_dir):
+            metadata_path = os.path.join(self.comics_dir, slug, "metadata.json")
+            if os.path.exists(metadata_path):
+                try:
+                    with open(metadata_path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                        all_comics.append({
+                            "slug": slug,
+                            "title": data.get("title", ""),
+                            "type": data.get("type", ""),
+                            "status": data.get("status", ""),
+                            "rating": data.get("rating", 0),
+                            "total_chapters": data.get("total_chapters", 0)
+                        })
+                except Exception as e:
+                    print(f"Error reading metadata for {slug}: {e}")
+        
+        self.index["comics"] = all_comics
+        self.index["total_comics"] = len(all_comics)
+        self._save_index()
+        print(f"Index rebuilt with {len(all_comics)} comics.")
 
     def warm_up(self):
         """
@@ -511,13 +545,24 @@ class MainScraper:
                     "total_chapters": comic.get("total_chapters", 0)
                 })
         
-        # Update index
-        self.index["comics"] = all_comics
-        self.index["total_comics"] = len(all_comics)
+        # Merge new comics into index
+        existing_slugs = {c["slug"] for c in self.index.get("comics", [])}
+        for comic in all_comics:
+            if comic["slug"] not in existing_slugs:
+                self.index["comics"].append(comic)
+            else:
+                # Update existing entry
+                for i, existing in enumerate(self.index["comics"]):
+                    if existing["slug"] == comic["slug"]:
+                        self.index["comics"][i] = comic
+                        break
+        
+        self.index["total_comics"] = len(self.index["comics"])
         self._save_index()
         
         print(f"\n=== Scraping complete! ===")
-        print(f"Total comics scraped: {len(all_comics)}")
+        print(f"Scraped/Updated {len(all_comics)} comics.")
+        print(f"Total comics in index: {self.index['total_comics']}")
         print(f"Data saved to: {self.data_dir}")
 
 
@@ -534,11 +579,16 @@ def main():
     parser.add_argument("--images", action="store_true", help="Also scrape chapter images (requires --chapters)")
     parser.add_argument("--comic", type=str, default=None, help="Scrape a specific comic by URL or slug")
     parser.add_argument("--force", action="store_true", help="Force re-scrape even if data exists")
+    parser.add_argument("--rebuild-index", action="store_true", help="Rebuild index.json from existing data")
     
     args = parser.parse_args()
     
     scraper = MainScraper(data_dir=args.data_dir, delay=args.delay, force=args.force)
     
+    if args.rebuild_index:
+        scraper.rebuild_index()
+        return
+
     if args.comic:
         # Perform session warm-up
         scraper.warm_up()
