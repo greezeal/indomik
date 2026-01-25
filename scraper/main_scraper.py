@@ -81,17 +81,8 @@ class MainScraper:
         self.force = force
         self.session = requests.Session(impersonate="chrome120")
         self.session.headers.update({
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
             "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
-            "Referer": self.BASE_URL,
-            "Sec-Ch-Ua": '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-            "Sec-Ch-Ua-Mobile": "?0",
-            "Sec-Ch-Ua-Platform": '"Windows"',
-            "Sec-Fetch-Dest": "document",
-            "Sec-Fetch-Mode": "navigate",
-            "Sec-Fetch-Site": "same-origin",
-            "Sec-Fetch-User": "?1",
-            "Upgrade-Insecure-Requests": "1"
+            "Referer": self.BASE_URL
         })
         
         # Create directories
@@ -124,9 +115,15 @@ class MainScraper:
         try:
             time.sleep(self.delay)
             response = self.session.get(url, timeout=30)
+            
+            if response.status_code == 403:
+                print(f"Access Denied (403) for {url}. The site may be blocking this server's IP.")
+                # You can log response.text here if you want to see the challenge page
+                return None
+                
             response.raise_for_status()
             return BeautifulSoup(response.text, "html.parser")
-        except requests.RequestException as e:
+        except Exception as e:
             print(f"Error fetching {url}: {e}")
             return None
     
