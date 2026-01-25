@@ -78,19 +78,11 @@ class MainScraper:
         print("Configuring browser impersonation...")
         self.session = requests.Session(impersonate="chrome120")
         print("Scraper initialized successfully.")
+        
+        # We rely more on curl_cffi's impersonate than manual headers to avoid inconsistencies
         self.session.headers.update({
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
             "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
-            "Referer": "https://www.google.com/",
-            "Sec-Ch-Ua": '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-            "Sec-Ch-Ua-Mobile": "?0",
-            "Sec-Ch-Ua-Platform": '"Windows"',
-            "Sec-Fetch-Dest": "document",
-            "Sec-Fetch-Mode": "navigate",
-            "Sec-Fetch-Site": "cross-site",
-            "Sec-Fetch-User": "?1",
-            "Upgrade-Insecure-Requests": "1",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            "Referer": "https://www.google.com/"
         })
         
         # Create directories
@@ -121,24 +113,38 @@ class MainScraper:
     def warm_up(self):
         """
         Perform a warm-up request to the home page to establish session/cookies.
+        Includes retries and alternative impersonation if needed.
         """
-        print(f"Performing warm-up request to {self.BASE_URL}...")
-        try:
-            # First visit from "google"
-            self.session.headers.update({"Referer": "https://www.google.com/"})
-            response = self.session.get(self.BASE_URL, timeout=30)
-            
-            if response.status_code == 200:
-                print("Warm-up successful.")
-                # Update referer to BASE_URL for subsequent requests
-                self.session.headers.update({"Referer": self.BASE_URL})
-                return True
-            else:
-                print(f"Warm-up returned status: {response.status_code}")
-                return False
-        except Exception as e:
-            print(f"Warm-up failed: {e}")
-            return False
+        targets = [
+            {"impersonate": "chrome120", "url": self.BASE_URL},
+            {"impersonate": "safari15", "url": self.BASE_URL},
+        ]
+        
+        for attempt, target in enumerate(targets, 1):
+            print(f"Performing warm-up request (Attempt {attempt}, {target['impersonate']})...")
+            try:
+                self.session = requests.Session(impersonate=target['impersonate'])
+                self.session.headers.update({
+                    "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
+                    "Referer": "https://www.google.com/"
+                })
+                
+                response = self.session.get(target['url'], timeout=30)
+                
+                if response.status_code == 200:
+                    print("Warm-up successful.")
+                    self.session.headers.update({"Referer": self.BASE_URL})
+                    return True
+                else:
+                    print(f"Warm-up returned status: {response.status_code}")
+                    if "Just a moment" in response.text:
+                        print("Cloudflare 'Just a moment' challenge detected.")
+                    
+                time.sleep(self.delay * 2)
+            except Exception as e:
+                print(f"Warm-up attempt {attempt} failed: {e}")
+                
+        return False
     
     def _fetch(self, url: str) -> Optional[BeautifulSoup]:
         """Fetch a URL and return BeautifulSoup object."""
