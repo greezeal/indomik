@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-25T08:28:32.087509",
-  "total_comics": 45,
+  "last_updated": "2026-01-25T10:08:05.097975",
+  "total_comics": 62,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -332,35 +332,171 @@
     },
     {
       "slug": "magic-emperor",
-      "title": "Komik\n              Magic Emperor",
+      "title": "Magic Emperor",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 8.3,
-      "total_chapters": 817
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "noble-lady-reformation-guide",
-      "title": "Komik\n              Noble Lady Reformation Guide",
+      "title": "Noble Lady Reformation Guide",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 1
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
-      "title": "Komik\n              Heavenly Grand Archive’s Young Master",
+      "title": "Heavenly Grand Archive’s Young Master",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 163
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "children-of-the-rune",
-      "title": "Komik\n              Children of the Rune",
+      "title": "Children of the Rune",
+      "type": "Manhwa",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "archmage-curriculum",
+      "title": "Komik\n              Archmage Curriculum",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.11,
-      "total_chapters": 45
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "evolution-begins-with-a-big-tree",
+      "title": "Komik\n              Evolution Begins With A Big Tree",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 486
+    },
+    {
+      "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
+      "title": "Komik\n              Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.82,
+      "total_chapters": 11
+    },
+    {
+      "slug": "beethoven-reborn",
+      "title": "Komik\n              Beethoven Reborn",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 87
+    },
+    {
+      "slug": "male-god-your-persona-has-collapsed",
+      "title": "Komik\n              Male God, Your Persona Has Collapsed!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 25
+    },
+    {
+      "slug": "167225-subscribing-to-the-transcendents-channel",
+      "title": "Komik\n              Subscribing to the Transcendent’s Channel",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 93
+    },
+    {
+      "slug": "the-apex-of-dragon-mastery",
+      "title": "Komik\n              The Apex of Dragon Mastery",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 169
+    },
+    {
+      "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
+      "title": "Komik\n              Tsuma ga Kanpeki sugiru no de, Chotto Midashite Ii desu ka?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.32,
+      "total_chapters": 36
+    },
+    {
+      "slug": "the-suspicious-little-prince-is-the-worlds-greatest-teenage-master",
+      "title": "Komik\n              The Suspicious Little Prince is the World’s Greatest Teenage Master",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 71
+    },
+    {
+      "slug": "269600-the-little-brother-is-the-academys-hotshot",
+      "title": "Komik\n              The Little Brother Is the Academy’s Hotshot",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 110
+    },
+    {
+      "slug": "mikoto-chan-wa-kirawaretakunai",
+      "title": "Komik\n              Mikoto-chan wa Kirawaretakunai!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.85,
+      "total_chapters": 37
+    },
+    {
+      "slug": "war-of-corpses",
+      "title": "Komik\n              War of Corpses",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 0.0,
+      "total_chapters": 22
+    },
+    {
+      "slug": "invincible-under-heaven-reborn-as-the-enemy",
+      "title": "Komik\n              Invincible Under Heaven: Reborn as the Enemy",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "demons-crest-2",
+      "title": "Komik\n              Demons’ Crest",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 33
+    },
+    {
+      "slug": "mayonaka-heart-tune",
+      "title": "Komik\n              Mayonaka Heart Tune",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.89,
+      "total_chapters": 102
+    },
+    {
+      "slug": "627456-return-of-the-mad-demon",
+      "title": "Komik\n              Return of the Mad Demon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.49,
+      "total_chapters": 188
+    },
+    {
+      "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
+      "title": "Komik\n              Takou no Koori Hime wo Tasuketara, Otomodachi kara Hajimeru Koto ni Narimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 25
     }
   ]
 }
