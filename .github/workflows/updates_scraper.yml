@@ -27,7 +27,7 @@ jobs:
 
       - name: Run Scraper (Page 1 Updates)
         run: |
-          python scraper/main_scraper.py --start-page 1 --end-page 1 --chapters --images --delay 2
+          python -u scraper/main_scraper.py --start-page 1 --end-page 1 --chapters --images --delay 2
 
       - name: Commit and Push Changes
         run: |

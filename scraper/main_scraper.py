@@ -70,16 +70,14 @@ class MainScraper:
     def __init__(self, data_dir: str = DEFAULT_DATA_DIR, delay: float = 1.0, force: bool = False):
         """
         Initialize the scraper.
-        
-        Args:
-            data_dir: Directory to save scraped data
-            delay: Delay between requests in seconds to avoid rate limiting
-            force: Whether to re-scrape even if data exists
         """
+        print(f"Initializing Scraper (data_dir: {data_dir})")
         self.data_dir = data_dir
         self.delay = delay
         self.force = force
+        print("Configuring browser impersonation...")
         self.session = requests.Session(impersonate="chrome120")
+        print("Scraper initialized successfully.")
         self.session.headers.update({
             "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
             "Referer": self.BASE_URL
@@ -481,6 +479,7 @@ class MainScraper:
 
 
 def main():
+    print("Scraper script started.")
     import argparse
     
     parser = argparse.ArgumentParser(description="Universal Comic Scraper")

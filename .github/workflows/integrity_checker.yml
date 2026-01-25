@@ -27,7 +27,7 @@ jobs:
 
       - name: Run Integrity Checker (All Existing Comics)
         run: |
-          python scraper/integrity_checker.py --all --delay 2
+          python -u scraper/integrity_checker.py --all --delay 2
 
       - name: Commit and Push Changes
         run: |
