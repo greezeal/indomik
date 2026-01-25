@@ -79,8 +79,18 @@ class MainScraper:
         self.session = requests.Session(impersonate="chrome120")
         print("Scraper initialized successfully.")
         self.session.headers.update({
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
             "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
-            "Referer": self.BASE_URL
+            "Referer": "https://www.google.com/",
+            "Sec-Ch-Ua": '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+            "Sec-Ch-Ua-Mobile": "?0",
+            "Sec-Ch-Ua-Platform": '"Windows"',
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "cross-site",
+            "Sec-Fetch-User": "?1",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         })
         
         # Create directories
@@ -107,6 +117,28 @@ class MainScraper:
         self.index["last_updated"] = datetime.now().isoformat()
         with open(self.index_path, "w", encoding="utf-8") as f:
             json.dump(self.index, f, ensure_ascii=False, indent=2)
+
+    def warm_up(self):
+        """
+        Perform a warm-up request to the home page to establish session/cookies.
+        """
+        print(f"Performing warm-up request to {self.BASE_URL}...")
+        try:
+            # First visit from "google"
+            self.session.headers.update({"Referer": "https://www.google.com/"})
+            response = self.session.get(self.BASE_URL, timeout=30)
+            
+            if response.status_code == 200:
+                print("Warm-up successful.")
+                # Update referer to BASE_URL for subsequent requests
+                self.session.headers.update({"Referer": self.BASE_URL})
+                return True
+            else:
+                print(f"Warm-up returned status: {response.status_code}")
+                return False
+        except Exception as e:
+            print(f"Warm-up failed: {e}")
+            return False
     
     def _fetch(self, url: str) -> Optional[BeautifulSoup]:
         """Fetch a URL and return BeautifulSoup object."""
@@ -116,7 +148,9 @@ class MainScraper:
             
             if response.status_code == 403:
                 print(f"Access Denied (403) for {url}. The site may be blocking this server's IP.")
-                # You can log response.text here if you want to see the challenge page
+                # Log a snippet of the response to diagnose Cloudflare/blocking
+                snippet = response.text[:500].replace('\n', ' ')
+                print(f"Response snippet: {snippet}")
                 return None
                 
             response.raise_for_status()
@@ -393,6 +427,9 @@ class MainScraper:
             end_page = self.get_total_pages()
             print(f"Total pages found: {end_page}")
         
+        # Perform session warm-up
+        self.warm_up()
+        
         all_comics = []
         
         for page in range(start_page, end_page + 1):
@@ -497,6 +534,9 @@ def main():
     scraper = MainScraper(data_dir=args.data_dir, delay=args.delay, force=args.force)
     
     if args.comic:
+        # Perform session warm-up
+        scraper.warm_up()
+        
         # Scrape single comic
         if not args.comic.startswith("http"):
             comic_url = f"{MainScraper.BASE_URL}/komik/{args.comic}/"
