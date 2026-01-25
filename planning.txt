@@ -1,0 +1,1083 @@
+target web scraping
+https://komikindo.ch/daftar-manga/
+
+struktur html
+<div class="postbody">
+        <section class="whites">
+            <div class="widget-title">
+                <h1 class="page-title" itemprop="headline">
+                    Daftar Komik                </h1>
+                                        <div class="modex">
+                            <a href="?list">
+                                Text Mode                            </a>
+                        </div>
+                                </div>
+                <div class="advancedsearch">
+        <div class="quickfilter">
+            <form action="https://komikindo.ch/daftar-manga/" class="filters" method="GET">
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Genre <span id="filtercount">All</span> <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c4">
+                                    <li><input type="checkbox" id="genre-action" name="genre[]" value="action"> <label for="genre-action" class="checkboxx">Action</label></li>
+                    <li><input type="checkbox" id="genre-adventure" name="genre[]" value="adventure"> <label for="genre-adventure" class="checkboxx">Adventure</label></li>
+                    <li><input type="checkbox" id="genre-boys-love" name="genre[]" value="boys-love"> <label for="genre-boys-love" class="checkboxx">Boys' Love</label></li>
+                    <li><input type="checkbox" id="genre-comedy" name="genre[]" value="comedy"> <label for="genre-comedy" class="checkboxx">Comedy</label></li>
+                    <li><input type="checkbox" id="genre-crime" name="genre[]" value="crime"> <label for="genre-crime" class="checkboxx">Crime</label></li>
+                    <li><input type="checkbox" id="genre-drama" name="genre[]" value="drama"> <label for="genre-drama" class="checkboxx">Drama</label></li>
+                    <li><input type="checkbox" id="genre-ecchi" name="genre[]" value="ecchi"> <label for="genre-ecchi" class="checkboxx">Ecchi</label></li>
+                    <li><input type="checkbox" id="genre-fantasy" name="genre[]" value="fantasy"> <label for="genre-fantasy" class="checkboxx">Fantasy</label></li>
+                    <li><input type="checkbox" id="genre-girls-love" name="genre[]" value="girls-love"> <label for="genre-girls-love" class="checkboxx">Girls' Love</label></li>
+                    <li><input type="checkbox" id="genre-harem" name="genre[]" value="harem"> <label for="genre-harem" class="checkboxx">Harem</label></li>
+                    <li><input type="checkbox" id="genre-historical" name="genre[]" value="historical"> <label for="genre-historical" class="checkboxx">Historical</label></li>
+                    <li><input type="checkbox" id="genre-horror" name="genre[]" value="horror"> <label for="genre-horror" class="checkboxx">Horror</label></li>
+                    <li><input type="checkbox" id="genre-isekai" name="genre[]" value="isekai"> <label for="genre-isekai" class="checkboxx">Isekai</label></li>
+                    <li><input type="checkbox" id="genre-josei" name="genre[]" value="josei"> <label for="genre-josei" class="checkboxx">Josei</label></li>
+                    <li><input type="checkbox" id="genre-life" name="genre[]" value="life"> <label for="genre-life" class="checkboxx">Life</label></li>
+                    <li><input type="checkbox" id="genre-magical-girls" name="genre[]" value="magical-girls"> <label for="genre-magical-girls" class="checkboxx">Magical Girls</label></li>
+                    <li><input type="checkbox" id="genre-martial-arts" name="genre[]" value="martial-arts"> <label for="genre-martial-arts" class="checkboxx">Martial Arts</label></li>
+                    <li><input type="checkbox" id="genre-mecha" name="genre[]" value="mecha"> <label for="genre-mecha" class="checkboxx">Mecha</label></li>
+                    <li><input type="checkbox" id="genre-medical" name="genre[]" value="medical"> <label for="genre-medical" class="checkboxx">Medical</label></li>
+                    <li><input type="checkbox" id="genre-music" name="genre[]" value="music"> <label for="genre-music" class="checkboxx">Music</label></li>
+                    <li><input type="checkbox" id="genre-mystery" name="genre[]" value="mystery"> <label for="genre-mystery" class="checkboxx">Mystery</label></li>
+                    <li><input type="checkbox" id="genre-philosophical" name="genre[]" value="philosophical"> <label for="genre-philosophical" class="checkboxx">Philosophical</label></li>
+                    <li><input type="checkbox" id="genre-psychological" name="genre[]" value="psychological"> <label for="genre-psychological" class="checkboxx">Psychological</label></li>
+                    <li><input type="checkbox" id="genre-romance" name="genre[]" value="romance"> <label for="genre-romance" class="checkboxx">Romance</label></li>
+                    <li><input type="checkbox" id="genre-school" name="genre[]" value="school"> <label for="genre-school" class="checkboxx">School</label></li>
+                    <li><input type="checkbox" id="genre-school-life" name="genre[]" value="school-life"> <label for="genre-school-life" class="checkboxx">School Life</label></li>
+                    <li><input type="checkbox" id="genre-sci-fi" name="genre[]" value="sci-fi"> <label for="genre-sci-fi" class="checkboxx">Sci-Fi</label></li>
+                    <li><input type="checkbox" id="genre-seinen" name="genre[]" value="seinen"> <label for="genre-seinen" class="checkboxx">Seinen</label></li>
+                    <li><input type="checkbox" id="genre-shoujo" name="genre[]" value="shoujo"> <label for="genre-shoujo" class="checkboxx">Shoujo</label></li>
+                    <li><input type="checkbox" id="genre-shoujo-ai" name="genre[]" value="shoujo-ai"> <label for="genre-shoujo-ai" class="checkboxx">Shoujo Ai</label></li>
+                    <li><input type="checkbox" id="genre-shounen" name="genre[]" value="shounen"> <label for="genre-shounen" class="checkboxx">Shounen</label></li>
+                    <li><input type="checkbox" id="genre-shounen-ai" name="genre[]" value="shounen-ai"> <label for="genre-shounen-ai" class="checkboxx">Shounen Ai</label></li>
+                    <li><input type="checkbox" id="genre-slice-of-life" name="genre[]" value="slice-of-life"> <label for="genre-slice-of-life" class="checkboxx">Slice of Life</label></li>
+                    <li><input type="checkbox" id="genre-sports" name="genre[]" value="sports"> <label for="genre-sports" class="checkboxx">Sports</label></li>
+                    <li><input type="checkbox" id="genre-superhero" name="genre[]" value="superhero"> <label for="genre-superhero" class="checkboxx">Superhero</label></li>
+                    <li><input type="checkbox" id="genre-supernatural" name="genre[]" value="supernatural"> <label for="genre-supernatural" class="checkboxx">Supernatural</label></li>
+                    <li><input type="checkbox" id="genre-thriller" name="genre[]" value="thriller"> <label for="genre-thriller" class="checkboxx">Thriller</label></li>
+                    <li><input type="checkbox" id="genre-traged" name="genre[]" value="traged"> <label for="genre-traged" class="checkboxx">Traged</label></li>
+                    <li><input type="checkbox" id="genre-tragedy" name="genre[]" value="tragedy"> <label for="genre-tragedy" class="checkboxx">Tragedy</label></li>
+                    <li><input type="checkbox" id="genre-wuxia" name="genre[]" value="wuxia"> <label for="genre-wuxia" class="checkboxx">Wuxia</label></li>
+                    <li><input type="checkbox" id="genre-yuri" name="genre[]" value="yuri"> <label for="genre-yuri" class="checkboxx">Yuri</label></li>
+                            </ul>
+                </div>
+
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Demografis <span id="filtercount">All</span> <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c4">
+                                    <li><input type="checkbox" id="demografis-josei" name="demografis[]" value="josei"> <label for="demografis-josei" class="checkboxx">Josei</label></li>
+                    <li><input type="checkbox" id="demografis-seinen" name="demografis[]" value="seinen"> <label for="demografis-seinen" class="checkboxx">Seinen</label></li>
+                    <li><input type="checkbox" id="demografis-shoujo" name="demografis[]" value="shoujo"> <label for="demografis-shoujo" class="checkboxx">Shoujo</label></li>
+                    <li><input type="checkbox" id="demografis-shounen" name="demografis[]" value="shounen"> <label for="demografis-shounen" class="checkboxx">Shounen</label></li>
+                            </ul>
+                </div>
+
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Konten <span id="filtercount">All</span> <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c4">
+                                    <li><input type="checkbox" id="konten-ecchi" name="konten[]" value="ecchi"> <label for="konten-ecchi" class="checkboxx">Ecchi</label></li>
+                    <li><input type="checkbox" id="konten-gore" name="konten[]" value="gore"> <label for="konten-gore" class="checkboxx">Gore</label></li>
+                    <li><input type="checkbox" id="konten-sexual-violence" name="konten[]" value="sexual-violence"> <label for="konten-sexual-violence" class="checkboxx">Sexual Violence</label></li>
+                    <li><input type="checkbox" id="konten-smut" name="konten[]" value="smut"> <label for="konten-smut" class="checkboxx">Smut</label></li>
+                            </ul>
+                </div>
+
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Tema <span id="filtercount">All</span>
+                        <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c4">
+                                    <li><input type="checkbox" id="tema-aliens" name="tema[]" value="aliens"> <label for="tema-aliens" class="checkboxx">Aliens</label></li>
+                    <li><input type="checkbox" id="tema-animals" name="tema[]" value="animals"> <label for="tema-animals" class="checkboxx">Animals</label></li>
+                    <li><input type="checkbox" id="tema-cooking" name="tema[]" value="cooking"> <label for="tema-cooking" class="checkboxx">Cooking</label></li>
+                    <li><input type="checkbox" id="tema-crossdressing" name="tema[]" value="crossdressing"> <label for="tema-crossdressing" class="checkboxx">Crossdressing</label></li>
+                    <li><input type="checkbox" id="tema-delinquents" name="tema[]" value="delinquents"> <label for="tema-delinquents" class="checkboxx">Delinquents</label></li>
+                    <li><input type="checkbox" id="tema-demons" name="tema[]" value="demons"> <label for="tema-demons" class="checkboxx">Demons</label></li>
+                    <li><input type="checkbox" id="tema-ecchi" name="tema[]" value="ecchi"> <label for="tema-ecchi" class="checkboxx">Ecchi</label></li>
+                    <li><input type="checkbox" id="tema-genderswap" name="tema[]" value="genderswap"> <label for="tema-genderswap" class="checkboxx">Genderswap</label></li>
+                    <li><input type="checkbox" id="tema-ghosts" name="tema[]" value="ghosts"> <label for="tema-ghosts" class="checkboxx">Ghosts</label></li>
+                    <li><input type="checkbox" id="tema-gore" name="tema[]" value="gore"> <label for="tema-gore" class="checkboxx">Gore</label></li>
+                    <li><input type="checkbox" id="tema-gyaru" name="tema[]" value="gyaru"> <label for="tema-gyaru" class="checkboxx">Gyaru</label></li>
+                    <li><input type="checkbox" id="tema-harem" name="tema[]" value="harem"> <label for="tema-harem" class="checkboxx">Harem</label></li>
+                    <li><input type="checkbox" id="tema-incest" name="tema[]" value="incest"> <label for="tema-incest" class="checkboxx">Incest</label></li>
+                    <li><input type="checkbox" id="tema-loli" name="tema[]" value="loli"> <label for="tema-loli" class="checkboxx">Loli</label></li>
+                    <li><input type="checkbox" id="tema-mafia" name="tema[]" value="mafia"> <label for="tema-mafia" class="checkboxx">Mafia</label></li>
+                    <li><input type="checkbox" id="tema-magic" name="tema[]" value="magic"> <label for="tema-magic" class="checkboxx">Magic</label></li>
+                    <li><input type="checkbox" id="tema-martial-arts" name="tema[]" value="martial-arts"> <label for="tema-martial-arts" class="checkboxx">Martial Arts</label></li>
+                    <li><input type="checkbox" id="tema-military" name="tema[]" value="military"> <label for="tema-military" class="checkboxx">Military</label></li>
+                    <li><input type="checkbox" id="tema-monster-girls" name="tema[]" value="monster-girls"> <label for="tema-monster-girls" class="checkboxx">Monster Girls</label></li>
+                    <li><input type="checkbox" id="tema-monsters" name="tema[]" value="monsters"> <label for="tema-monsters" class="checkboxx">Monsters</label></li>
+                    <li><input type="checkbox" id="tema-music" name="tema[]" value="music"> <label for="tema-music" class="checkboxx">Music</label></li>
+                    <li><input type="checkbox" id="tema-ninja" name="tema[]" value="ninja"> <label for="tema-ninja" class="checkboxx">Ninja</label></li>
+                    <li><input type="checkbox" id="tema-office-workers" name="tema[]" value="office-workers"> <label for="tema-office-workers" class="checkboxx">Office Workers</label></li>
+                    <li><input type="checkbox" id="tema-police" name="tema[]" value="police"> <label for="tema-police" class="checkboxx">Police</label></li>
+                    <li><input type="checkbox" id="tema-post-apocalyptic" name="tema[]" value="post-apocalyptic"> <label for="tema-post-apocalyptic" class="checkboxx">Post-Apocalyptic</label></li>
+                    <li><input type="checkbox" id="tema-reincarnation" name="tema[]" value="reincarnation"> <label for="tema-reincarnation" class="checkboxx">Reincarnation</label></li>
+                    <li><input type="checkbox" id="tema-reverse-harem" name="tema[]" value="reverse-harem"> <label for="tema-reverse-harem" class="checkboxx">Reverse Harem</label></li>
+                    <li><input type="checkbox" id="tema-samurai" name="tema[]" value="samurai"> <label for="tema-samurai" class="checkboxx">Samurai</label></li>
+                    <li><input type="checkbox" id="tema-school-life" name="tema[]" value="school-life"> <label for="tema-school-life" class="checkboxx">School Life</label></li>
+                    <li><input type="checkbox" id="tema-shota" name="tema[]" value="shota"> <label for="tema-shota" class="checkboxx">Shota</label></li>
+                    <li><input type="checkbox" id="tema-smut" name="tema[]" value="smut"> <label for="tema-smut" class="checkboxx">Smut</label></li>
+                    <li><input type="checkbox" id="tema-supernatural" name="tema[]" value="supernatural"> <label for="tema-supernatural" class="checkboxx">Supernatural</label></li>
+                    <li><input type="checkbox" id="tema-survival" name="tema[]" value="survival"> <label for="tema-survival" class="checkboxx">Survival</label></li>
+                    <li><input type="checkbox" id="tema-time-travel" name="tema[]" value="time-travel"> <label for="tema-time-travel" class="checkboxx">Time Travel</label></li>
+                    <li><input type="checkbox" id="tema-traditional-games" name="tema[]" value="traditional-games"> <label for="tema-traditional-games" class="checkboxx">Traditional Games</label></li>
+                    <li><input type="checkbox" id="tema-vampires" name="tema[]" value="vampires"> <label for="tema-vampires" class="checkboxx">Vampires</label></li>
+                    <li><input type="checkbox" id="tema-video-games" name="tema[]" value="video-games"> <label for="tema-video-games" class="checkboxx">Video Games</label></li>
+                    <li><input type="checkbox" id="tema-villainess" name="tema[]" value="villainess"> <label for="tema-villainess" class="checkboxx">Villainess</label></li>
+                    <li><input type="checkbox" id="tema-virtual-reality" name="tema[]" value="virtual-reality"> <label for="tema-virtual-reality" class="checkboxx">Virtual Reality</label></li>
+                    <li><input type="checkbox" id="tema-zombies" name="tema[]" value="zombies"> <label for="tema-zombies" class="checkboxx">Zombies</label></li>
+                            </ul>
+                </div>
+
+
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Status <span id="filtercount">All</span> <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c1">
+                        <li><input type="radio" id="status-all" name="status" value="" checked=""> <label for="status-all" class="checkradiox">All</label></li>        <li> <input type="radio" id="status-Ongoing" name="status" value="Ongoing"> <label for="status-Ongoing" class="checkradiox">Ongoing</label></li>
+                <li> <input type="radio" id="status-Completed" name="status" value="Completed"> <label for="status-Completed" class="checkradiox">Completed</label></li>
+                            </ul>
+                </div>
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Jenis Komik <span id="filtercount">All</span> <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c1">
+                        <li><input type="radio" id="type-all" name="type" value="" checked=""> <label for="type-all" class="checkradiox">All</label></li>        <li> <input type="radio" id="type-Manga" name="type" value="Manga"> <label for="type-Manga" class="checkradiox">Manga</label></li>
+                <li> <input type="radio" id="type-Manhwa" name="type" value="Manhwa"> <label for="type-Manhwa" class="checkradiox">Manhwa</label></li>
+                <li> <input type="radio" id="type-Manhua" name="type" value="Manhua"> <label for="type-Manhua" class="checkradiox">Manhua</label></li>
+                            </ul>
+                </div>
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Format <span id="filtercount">All</span> <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c1">
+                        <li><input type="radio" id="format-all" name="format" value="" checked=""> <label for="format-all" class="checkradiox">All</label></li>        <li> <input type="radio" id="format-Hitam Putih" name="format" value="bw"> <label for="format-Hitam Putih" class="checkradiox">Hitam Putih</label></li>
+                <li> <input type="radio" id="format-Berwarna" name="format" value="colorized"> <label for="format-Berwarna" class="checkradiox">Berwarna</label></li>
+                            </ul>
+                </div>
+                <div class="filter dropdown">
+                    <button type="button" class="dropdown-toggle" data-toggle="dropdown"> Order by <span id="filtercount">All</span> <i class="dashicons dashicons-arrow-down-alt2"></i> </button>
+                    <ul class="dropdown-menu c1">
+                        <li><input type="radio" id="order-all" name="order" value="" checked=""> <label for="order-all" class="checkradiox">All</label></li>        <li> <input type="radio" id="order-A-Z" name="order" value="title"> <label for="order-A-Z" class="checkradiox">A-Z</label></li>
+                <li> <input type="radio" id="order-Z-A" name="order" value="titlereverse"> <label for="order-Z-A" class="checkradiox">Z-A</label></li>
+                <li> <input type="radio" id="order-Latest Update" name="order" value="update"> <label for="order-Latest Update" class="checkradiox">Latest Update</label></li>
+                <li> <input type="radio" id="order-Latest Added" name="order" value="latest"> <label for="order-Latest Added" class="checkradiox">Latest Added</label></li>
+                <li> <input type="radio" id="order-Popular" name="order" value="popular"> <label for="order-Popular" class="checkradiox">Popular</label></li>
+                            </ul>
+                </div>
+                <div class="filter">
+                    <input type="text" class="inputx" name="title" placeholder="Search..." autocomplete="off" value="">
+                </div>
+                <div class="filter submit"> <button type="submit" class="btn btn-custom-search"><i class="dashicons dashicons-filter"></i> Search</button></div>
+            </form>
+        </div>
+    </div>
+<div class="listupd">
+  <div class="film-list">
+    <div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/50kg-cinderella/" itemprop="url" title="Komik -50kg Cinderella" alt="Komik -50kg Cinderella" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/09/Komik-50kg-Cinderella-224x319.jpg" title="Komik -50kg Cinderella" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/50kg-cinderella/" itemprop="url" title="Komik -50kg Cinderella" alt="Komik -50kg Cinderella" rel="bookmark">
+                        -50kg Cinderella                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:80%"></span></div></div></div></div>  <i>8.01</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/aoppella-hajimari-no-playlist/" itemprop="url" title="Komik -Aoppella!?- Hajimari no Playlist" alt="Komik -Aoppella!?- Hajimari no Playlist" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2021/11/Komik-Aoppella-Hajimari-no-Playlist-226x319.jpg" title="Komik -Aoppella!?- Hajimari no Playlist" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/aoppella-hajimari-no-playlist/" itemprop="url" title="Komik -Aoppella!?- Hajimari no Playlist" alt="Komik -Aoppella!?- Hajimari no Playlist" rel="bookmark">
+                        -Aoppella!?- Hajimari no Playlist                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/rank-no-ura-soubi-musou/" itemprop="url" title="Komik ??? Rank no Ura Soubi Musou" alt="Komik ??? Rank no Ura Soubi Musou" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2024/04/Komik-Rank-no-Ura-Soubi-Musou-223x319.jpg" title="Komik ??? Rank no Ura Soubi Musou" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/rank-no-ura-soubi-musou/" itemprop="url" title="Komik ??? Rank no Ura Soubi Musou" alt="Komik ??? Rank no Ura Soubi Musou" rel="bookmark">
+                        ??? Rank no Ura Soubi Musou                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken/" itemprop="url" title="Komik “Bijin de Okane Mochi no Kanojo ga Hoshii” to Ittara, Wake Ari Joshi ga Yattekita Ken" alt="Komik “Bijin de Okane Mochi no Kanojo ga Hoshii” to Ittara, Wake Ari Joshi ga Yattekita Ken" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2023/02/Komik-Bijin-de-Okane-Mochi-no-Kanojo-ga-Hosh-to-Ittara-Wake-Ari-Joshi-ga-Yattekita-Ken-222x319.jpg" title="Komik “Bijin de Okane Mochi no Kanojo ga Hoshii” to Ittara, Wake Ari Joshi ga Yattekita Ken" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken/" itemprop="url" title="Komik “Bijin de Okane Mochi no Kanojo ga Hoshii” to Ittara, Wake Ari Joshi ga Yattekita Ken" alt="Komik “Bijin de Okane Mochi no Kanojo ga Hoshii” to Ittara, Wake Ari Joshi ga Yattekita Ken" rel="bookmark">
+                        “Bijin de Okane Mochi no Kanojo ga Hoshii” to Ittara, Wake Ari Joshi ga Yattekita Ken                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:60%"></span></div></div></div></div>  <i>6.73</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/cold/" itemprop="url" title="Komik “Cold”" alt="Komik “Cold”" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2023/04/Komik-Cold-226x319.jpg" title="Komik “Cold”" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/cold/" itemprop="url" title="Komik “Cold”" alt="Komik “Cold”" rel="bookmark">
+                        “Cold”                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.56</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/honyaku-no-sainou-de-ore-dake-ga-sekai-wo-kaihen-dekiru-ken/" itemprop="url" title="Komik “Honyaku” no Sainou de Ore Dake ga Sekai wo Kaihen Dekiru Ken" alt="Komik “Honyaku” no Sainou de Ore Dake ga Sekai wo Kaihen Dekiru Ken" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/06/Komik-Honyaku-no-Sainou-de-Ore-Dake-ga-Sekai-wo-Kaihen-Dekiru-Ken-224x319.webp" title="Komik “Honyaku” no Sainou de Ore Dake ga Sekai wo Kaihen Dekiru Ken" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/honyaku-no-sainou-de-ore-dake-ga-sekai-wo-kaihen-dekiru-ken/" itemprop="url" title="Komik “Honyaku” no Sainou de Ore Dake ga Sekai wo Kaihen Dekiru Ken" alt="Komik “Honyaku” no Sainou de Ore Dake ga Sekai wo Kaihen Dekiru Ken" rel="bookmark">
+                        “Honyaku” no Sainou de Ore Dake ga Sekai wo Kaihen Dekiru Ken                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/issho-ni-netaindesu-yo-ne-senpai-to-amaku-sasayakarete-konya-mo-nemurenai/" itemprop="url" title="Komik “Issho ni Netaindesu yo Ne, Senpai?” to Amaku Sasayakarete Kon’ya mo Nemurenai" alt="Komik “Issho ni Netaindesu yo Ne, Senpai?” to Amaku Sasayakarete Kon’ya mo Nemurenai" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2025/05/Komik-Issho-ni-Netaindesu-yo-Ne-Senpai-to-Amaku-Sasayakarete-Konya-mo-Nemurenai-224x319.jpg" title="Komik “Issho ni Netaindesu yo Ne, Senpai?” to Amaku Sasayakarete Kon’ya mo Nemurenai" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/issho-ni-netaindesu-yo-ne-senpai-to-amaku-sasayakarete-konya-mo-nemurenai/" itemprop="url" title="Komik “Issho ni Netaindesu yo Ne, Senpai?” to Amaku Sasayakarete Kon’ya mo Nemurenai" alt="Komik “Issho ni Netaindesu yo Ne, Senpai?” to Amaku Sasayakarete Kon’ya mo Nemurenai" rel="bookmark">
+                        “Issho ni Netaindesu yo Ne, Senpai?” to Amaku Sasayakarete Kon’ya mo Nemurenai                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.57</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/its-too-precious-and-hard-to-read-4p-short-stories/" itemprop="url" title="Komik “It’s too precious and hard to read !!” 4P Short Stories" alt="Komik “It’s too precious and hard to read !!” 4P Short Stories" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2021/05/Komik-Its-too-precious-and-hard-to-read-4P-Short-Stories-225x319.jpg" title="Komik “It’s too precious and hard to read !!” 4P Short Stories" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/its-too-precious-and-hard-to-read-4p-short-stories/" itemprop="url" title="Komik “It’s too precious and hard to read !!” 4P Short Stories" alt="Komik “It’s too precious and hard to read !!” 4P Short Stories" rel="bookmark">
+                        “It’s too precious and hard to read !!” 4P Short Stories                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.35</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/jako-ni-wa-kaji-ga-oniaida-www-to-iwareta-kaji-level-9999-no-ore-tsuihousareta-no-de-boukensha-ni-tenshoku-suru-saikyou-de-musou-shinagara-guild-de-tanoshiku-kurashimasu/" itemprop="url" title="Komik “Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu" alt="Komik “Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2023/11/Komik-Jako-ni-wa-Kaji-ga-Oniai-da-www-to-Iwareta-Kaji-Level-9999-no-Ore-Tsuihousareta-no-de-Boukensha-ni-Tenshokusuru-Saikyou-Buki-de-Musou-Shinagara-Guild-de-Tanoshiku-Kurashimasu-224x319.jpg" title="Komik “Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/jako-ni-wa-kaji-ga-oniaida-www-to-iwareta-kaji-level-9999-no-ore-tsuihousareta-no-de-boukensha-ni-tenshoku-suru-saikyou-de-musou-shinagara-guild-de-tanoshiku-kurashimasu/" itemprop="url" title="Komik “Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu" alt="Komik “Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu" rel="bookmark">
+                        “Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:60%"></span></div></div></div></div>  <i>6.52</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/kawaii-wa-kimi-no-mono/" itemprop="url" title="Komik “Kawaii” wa Kimi no mono" alt="Komik “Kawaii” wa Kimi no mono" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2021/09/Komik-The-Cute-One-Is-You-224x319.jpg" title="Komik “Kawaii” wa Kimi no mono" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/kawaii-wa-kimi-no-mono/" itemprop="url" title="Komik “Kawaii” wa Kimi no mono" alt="Komik “Kawaii” wa Kimi no mono" rel="bookmark">
+                        “Kawaii” wa Kimi no mono                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.58</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/koko-wa-makasete-sakini-ike-wo-shitai-shinitagari-no-nozomanu-uchuu-gekokujou/" itemprop="url" title="Komik “Koko wa Makasete Sakini Ike!” wo shitai Shinitagari no Nozomanu Uchuu Gekokujou" alt="Komik “Koko wa Makasete Sakini Ike!” wo shitai Shinitagari no Nozomanu Uchuu Gekokujou" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2024/09/Komik-Koko-wa-Makasete-Sakini-Ike-wo-shitai-Shinitagari-no-Nozomanu-Uchuu-Gekokujou-224x319.jpg" title="Komik “Koko wa Makasete Sakini Ike!” wo shitai Shinitagari no Nozomanu Uchuu Gekokujou" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/koko-wa-makasete-sakini-ike-wo-shitai-shinitagari-no-nozomanu-uchuu-gekokujou/" itemprop="url" title="Komik “Koko wa Makasete Sakini Ike!” wo shitai Shinitagari no Nozomanu Uchuu Gekokujou" alt="Komik “Koko wa Makasete Sakini Ike!” wo shitai Shinitagari no Nozomanu Uchuu Gekokujou" rel="bookmark">
+                        “Koko wa Makasete Sakini Ike!” wo shitai Shinitagari no Nozomanu Uchuu Gekokujou                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.45</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/kukuku-he-is-the-weakest-of-the-four-heavenly-monarchs-i-was-dismissed-from-my-job-but-somehow-i-became-the-master-of-a-hero-and-a-holy-maiden/" itemprop="url" title="Komik “Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden." alt="Komik “Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden." rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2021/03/Komik-Kukuku-He-is-the-weakest-of-the-Four-Heavenly-Monarchs-I-was-dismissed-from-my-job-but-somehow-I-became-the-master-of-a-hero-and-a-holy-maiden-216x319.jpg" title="Komik “Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden." itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/kukuku-he-is-the-weakest-of-the-four-heavenly-monarchs-i-was-dismissed-from-my-job-but-somehow-i-became-the-master-of-a-hero-and-a-holy-maiden/" itemprop="url" title="Komik “Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden." alt="Komik “Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden." rel="bookmark">
+                        “Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden.                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:80%"></span></div></div></div></div>  <i>7.95</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/love-live-nijigasaki-x-uma-musume-hoenn-pixiv-collection/" itemprop="url" title="Komik “Love Live Nijigasaki x Uma Musume” Hoenn Pixiv Collection" alt="Komik “Love Live Nijigasaki x Uma Musume” Hoenn Pixiv Collection" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/03/Komik-Love-Live-Nijigasaki-x-Uma-Musume-Hoenn-Pixiv-Collection-226x319.jpg" title="Komik “Love Live Nijigasaki x Uma Musume” Hoenn Pixiv Collection" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/love-live-nijigasaki-x-uma-musume-hoenn-pixiv-collection/" itemprop="url" title="Komik “Love Live Nijigasaki x Uma Musume” Hoenn Pixiv Collection" alt="Komik “Love Live Nijigasaki x Uma Musume” Hoenn Pixiv Collection" rel="bookmark">
+                        “Love Live Nijigasaki x Uma Musume” Hoenn Pixiv Collection                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/mou-hatarakitakunaindesu-boukensha-nanka-yamete-yaru-imasara-taiguu-wo-kaerukara-to-onegai-sarete-mo-okotowaridesu-boku-wa-zettai-hatarakimasen/" itemprop="url" title="Komik “Mou…. Hatarakitakunaindesu” Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen." alt="Komik “Mou…. Hatarakitakunaindesu” Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen." rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2021/10/Komik-I-Dont-Want-to-Work-Anymore-I-Quit-Being-an-Adventurer-Even-if-You-Treat-Me-Better-Now-I-Wont-Do-It-I-Will-NEVER-Work-Again-224x319.png" title="Komik “Mou…. Hatarakitakunaindesu” Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen." itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/mou-hatarakitakunaindesu-boukensha-nanka-yamete-yaru-imasara-taiguu-wo-kaerukara-to-onegai-sarete-mo-okotowaridesu-boku-wa-zettai-hatarakimasen/" itemprop="url" title="Komik “Mou…. Hatarakitakunaindesu” Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen." alt="Komik “Mou…. Hatarakitakunaindesu” Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen." rel="bookmark">
+                        “Mou…. Hatarakitakunaindesu” Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen.                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.53</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/osananajimi-ga-hoshii-to-tsubuyaitara-yoku-issho-ni-asobu-onna-tomodachi-no-yousu-ga-hen-ni-nattanda-ga/" itemprop="url" title="Komik “Osananajimi ga Hoshii” to Tsubuyaitara Yoku Issho ni Asobu Onna Tomodachi no Yousu ga Hen ni Nattanda ga" alt="Komik “Osananajimi ga Hoshii” to Tsubuyaitara Yoku Issho ni Asobu Onna Tomodachi no Yousu ga Hen ni Nattanda ga" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2025/02/Komik-Osananajimi-ga-Hoshii-to-Tsubuyaitara-Yoku-Issho-ni-Asobu-Onna-Tomodachi-no-Yousu-ga-Hen-ni-Nattanda-ga-224x319.jpg" title="Komik “Osananajimi ga Hoshii” to Tsubuyaitara Yoku Issho ni Asobu Onna Tomodachi no Yousu ga Hen ni Nattanda ga" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/osananajimi-ga-hoshii-to-tsubuyaitara-yoku-issho-ni-asobu-onna-tomodachi-no-yousu-ga-hen-ni-nattanda-ga/" itemprop="url" title="Komik “Osananajimi ga Hoshii” to Tsubuyaitara Yoku Issho ni Asobu Onna Tomodachi no Yousu ga Hen ni Nattanda ga" alt="Komik “Osananajimi ga Hoshii” to Tsubuyaitara Yoku Issho ni Asobu Onna Tomodachi no Yousu ga Hen ni Nattanda ga" rel="bookmark">
+                        “Osananajimi ga Hoshii” to Tsubuyaitara Yoku Issho ni Asobu Onna Tomodachi no Yousu ga Hen ni Nattanda ga                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.38</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/shop-skill-sae-areba-dungeon-ka-shita-sekai-demo-rakushou-da/" itemprop="url" title="Komik “Shop” Skill Sae Areba, Dungeon-ka Shita Sekai Demo Rakushou da" alt="Komik “Shop” Skill Sae Areba, Dungeon-ka Shita Sekai Demo Rakushou da" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/04/Komik-Shop-Skill-Sae-Areba-Dungeon-ka-Shita-Sekai-Demo-Rakushou-da-236x209.jpg" title="Komik “Shop” Skill Sae Areba, Dungeon-ka Shita Sekai Demo Rakushou da" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/shop-skill-sae-areba-dungeon-ka-shita-sekai-demo-rakushou-da/" itemprop="url" title="Komik “Shop” Skill Sae Areba, Dungeon-ka Shita Sekai Demo Rakushou da" alt="Komik “Shop” Skill Sae Areba, Dungeon-ka Shita Sekai Demo Rakushou da" rel="bookmark">
+                        “Shop” Skill Sae Areba, Dungeon-ka Shita Sekai Demo Rakushou da                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/zombie-sagashitemasu/" itemprop="url" title="Komik #Zombie Sagashitemasu" alt="Komik #Zombie Sagashitemasu" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/12/Komik-Zombie-Sagashitemasu-222x319.jpg" title="Komik #Zombie Sagashitemasu" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/zombie-sagashitemasu/" itemprop="url" title="Komik #Zombie Sagashitemasu" alt="Komik #Zombie Sagashitemasu" rel="bookmark">
+                        #Zombie Sagashitemasu                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:80%"></span></div></div></div></div>  <i>8.2</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/393629-99-wooden-stick/" itemprop="url" title="Komik +99 Wooden Stick" alt="Komik +99 Wooden Stick" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manhwa"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/03/Komik-99-Wooden-Stick-220x319.jpg" title="Komik +99 Wooden Stick" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/393629-99-wooden-stick/" itemprop="url" title="Komik +99 Wooden Stick" alt="Komik +99 Wooden Stick" rel="bookmark">
+                        +99 Wooden Stick                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/0-magic-a-high-spirit-and-a-demonic-sword/" itemprop="url" title="Komik 0 Magic, a High Spirit, and a Demonic Sword" alt="Komik 0 Magic, a High Spirit, and a Demonic Sword" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/08/Komik-0-Magic-a-High-Spirit-and-a-Demonic-Sword-224x319.jpg" title="Komik 0 Magic, a High Spirit, and a Demonic Sword" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/0-magic-a-high-spirit-and-a-demonic-sword/" itemprop="url" title="Komik 0 Magic, a High Spirit, and a Demonic Sword" alt="Komik 0 Magic, a High Spirit, and a Demonic Sword" rel="bookmark">
+                        0 Magic, a High Spirit, and a Demonic Sword                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.56</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/0-saiji-start-dash-monogatari/" itemprop="url" title="Komik 0 Saiji Start Dash Monogatari" alt="Komik 0 Saiji Start Dash Monogatari" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2023/06/Komik-0-sai-Ji-Start-Dash-Monogatari-224x319.jpg" title="Komik 0 Saiji Start Dash Monogatari" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/0-saiji-start-dash-monogatari/" itemprop="url" title="Komik 0 Saiji Start Dash Monogatari" alt="Komik 0 Saiji Start Dash Monogatari" rel="bookmark">
+                        0 Saiji Start Dash Monogatari                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.89</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/136271-07-ghost/" itemprop="url" title="Komik 07-Ghost" alt="Komik 07-Ghost" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2020/11/Komik-07-Ghost-224x319.jpg" title="Komik 07-Ghost" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/136271-07-ghost/" itemprop="url" title="Komik 07-Ghost" alt="Komik 07-Ghost" rel="bookmark">
+                        07-Ghost                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:80%"></span></div></div></div></div>  <i>8.2</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/1-million-times-attack-speed/" itemprop="url" title="Komik 1 Million Times Attack Speed" alt="Komik 1 Million Times Attack Speed" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manhua"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2023/07/Komik-1-Million-Times-Attack-Speed-236x315.png" title="Komik 1 Million Times Attack Speed" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/1-million-times-attack-speed/" itemprop="url" title="Komik 1 Million Times Attack Speed" alt="Komik 1 Million Times Attack Speed" rel="bookmark">
+                        1 Million Times Attack Speed                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/1-rt-de-nakawarui-nonke-joshi-tachi-ga-1-byou-kiss-suru/" itemprop="url" title="Komik 1 RT de Nakawarui Nonke Joshi-tachi ga 1-byou Kiss suru" alt="Komik 1 RT de Nakawarui Nonke Joshi-tachi ga 1-byou Kiss suru" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2022/09/Komik-For-Each-Retweet-Two-Straight-Girls-Who-Dont-Get-Along-Will-Kiss-for-One-Second-226x319.jpg" title="Komik 1 RT de Nakawarui Nonke Joshi-tachi ga 1-byou Kiss suru" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/1-rt-de-nakawarui-nonke-joshi-tachi-ga-1-byou-kiss-suru/" itemprop="url" title="Komik 1 RT de Nakawarui Nonke Joshi-tachi ga 1-byou Kiss suru" alt="Komik 1 RT de Nakawarui Nonke Joshi-tachi ga 1-byou Kiss suru" rel="bookmark">
+                        1 RT de Nakawarui Nonke Joshi-tachi ga 1-byou Kiss suru                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.26</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/176317-1-second/" itemprop="url" title="Komik 1 Second" alt="Komik 1 Second" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manhwa"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2021/02/Komik-1-Second-222x319.png" title="Komik 1 Second" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/176317-1-second/" itemprop="url" title="Komik 1 Second" alt="Komik 1 Second" rel="bookmark">
+                        1 Second                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:80%"></span></div></div></div></div>  <i>8.38</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/1-nen-a-gumi-no-monster/" itemprop="url" title="Komik 1-nen A-gumi no Monster" alt="Komik 1-nen A-gumi no Monster" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2020/12/Komik-1-nen-A-gumi-no-Monster-224x319.jpg" title="Komik 1-nen A-gumi no Monster" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/1-nen-a-gumi-no-monster/" itemprop="url" title="Komik 1-nen A-gumi no Monster" alt="Komik 1-nen A-gumi no Monster" rel="bookmark">
+                        1-nen A-gumi no Monster                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.1</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/10-kaime-no-kokuhaku-de-tsukiau-osananajimi/" itemprop="url" title="Komik 10 Kaime no Kokuhaku de Tsukiau Osananajimi" alt="Komik 10 Kaime no Kokuhaku de Tsukiau Osananajimi" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2023/07/Komik-Childhood-Friend-Dating-at-the-10th-Confession-226x319.jpg" title="Komik 10 Kaime no Kokuhaku de Tsukiau Osananajimi" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/10-kaime-no-kokuhaku-de-tsukiau-osananajimi/" itemprop="url" title="Komik 10 Kaime no Kokuhaku de Tsukiau Osananajimi" alt="Komik 10 Kaime no Kokuhaku de Tsukiau Osananajimi" rel="bookmark">
+                        10 Kaime no Kokuhaku de Tsukiau Osananajimi                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.64</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/10-nen-buri-ni-saikai-shita-kusogaki-wa-seijun-bishoujo-jk-ni-seichou-shiteita/" itemprop="url" title="Komik 10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita" alt="Komik 10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2025/01/Komik-10-Nen-Buri-ni-Saikai-shita-Kusogaki-wa-Seijun-Bishoujo-JK-ni-Seichou-shiteita-224x319.jpg" title="Komik 10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/10-nen-buri-ni-saikai-shita-kusogaki-wa-seijun-bishoujo-jk-ni-seichou-shiteita/" itemprop="url" title="Komik 10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita" alt="Komik 10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita" rel="bookmark">
+                        10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.66</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/10-nenmae-ni-time-leap-shite-osananajimi-no-ojousama-wo-tasuketara-iinazuke-ni-narimashita/" itemprop="url" title="Komik 10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita" alt="Komik 10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2025/05/Komik-10-nenmae-ni-Time-Leap-shite-Osananajimi-no-Ojousama-wo-Tasuketara-Iinazuke-ni-Narimashita-224x319.jpg" title="Komik 10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/10-nenmae-ni-time-leap-shite-osananajimi-no-ojousama-wo-tasuketara-iinazuke-ni-narimashita/" itemprop="url" title="Komik 10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita" alt="Komik 10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita" rel="bookmark">
+                        10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.52</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/100-nichigo-ni-s%e2%97%8bx-suru-tsuinte-chan/" itemprop="url" title="Komik 100 Nichigo ni S○X suru Tsuinte-chan" alt="Komik 100 Nichigo ni S○X suru Tsuinte-chan" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manga"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2021/02/Komik-100-Nichigo-ni-SX-suru-Tsuinte-chan-236x229.png" title="Komik 100 Nichigo ni S○X suru Tsuinte-chan" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/100-nichigo-ni-s%e2%97%8bx-suru-tsuinte-chan/" itemprop="url" title="Komik 100 Nichigo ni S○X suru Tsuinte-chan" alt="Komik 100 Nichigo ni S○X suru Tsuinte-chan" rel="bookmark">
+                        100 Nichigo ni S○X suru Tsuinte-chan                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.89</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="animepost">
+    <div class="animposx">
+                    <a href="https://komikindo.ch/komik/100-years-old-top-chef/" itemprop="url" title="Komik 100 Years Old Top Chef" alt="Komik 100 Years Old Top Chef" rel="bookmark">
+                <div class="limit">
+                    <div class="ply"></div>
+        <div class="warnalabel"><i class="fas fa-palette"></i> Warna</div>
+<span class="typeflag Manhwa"></span>
+<img src="https://komikindo.ch/wp-content/uploads/2023/05/Komik-100-Year-Old-Top-Chef-226x319.png" title="Komik 100 Years Old Top Chef" itemprop="image">                </div>
+            </a>
+                <div class="bigors">
+            <div class="tt">
+                <h3>
+                    <a href="https://komikindo.ch/komik/100-years-old-top-chef/" itemprop="url" title="Komik 100 Years Old Top Chef" alt="Komik 100 Years Old Top Chef" rel="bookmark">
+                        100 Years Old Top Chef                    </a>
+                </h3>
+            </div>
+            <div class="adds">
+                                    <div class="rating">
+                         <div class="rtg"><div class="clearfix archiveanime-rating"><div class="archiveanime-rating-content"><div class="archiveanime-rating-bar"><span style="width:70%"></span></div></div></div></div>  <i>7.1</i>                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+  </div>
+  <div class="pagination">
+    <span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://komikindo.ch/daftar-manga/page/2/">2</a>
+<a class="page-numbers" href="https://komikindo.ch/daftar-manga/page/3/">3</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="https://komikindo.ch/daftar-manga/page/272/">272</a>
+<a class="next page-numbers" href="https://komikindo.ch/daftar-manga/page/2/">Berikutnya »</a>  </div>
+  </div>        </section>
+    </div>
+
+contoh detail komik
+https://komikindo.ch/komik/50kg-cinderella/
+
+struktur html
+<div class="infox">
+              <div class="spe">
+                <span><b>Judul Alternatif:</b>
+                  -50kg no Cinderella, -50kgのシンデレラ                </span>
+                <span><b>Status:</b>
+                  Berjalan                </span>
+                <span><b>Pengarang:</b>
+                  Mochizuki Iku                </span>
+                <span><b>Ilustrator:</b>
+                  Kouzuki Rito                </span>
+                                  <span><b>Grafis:</b>
+                    <a href="https://komikindo.ch/demografis/josei/" rel="tag">Josei</a>                  </span>
+                                                  <span><b>Tema:</b>
+                    <a href="https://komikindo.ch/tema/office-workers/" rel="tag">Office Workers</a>                  </span>
+                
+                
+                                  <span><b>Jenis Komik:</b>
+                    <a href="/manga">
+                      Manga                    </a>
+                  </span>
+                
+                <span><b>Retail:</b><div class="informan"><div class="person"><div class="img"><a href="https://www.amazon.co.jp/-/en/%E7%B4%85%E6%9C%88%E3%82%8A%E3%81%A8%E3%80%82-ebook/dp/B07CH4HNGY/ref=sr_1_1?dchild=1&amp;" rel="nofollow"><img alt="qid=1606710904&amp;" src="https://s2.googleusercontent.com/s2/favicons?domain=amazon.co.jp"></a></div><div class="data"><div class="name"><a href="https://www.amazon.co.jp/-/en/%E7%B4%85%E6%9C%88%E3%82%8A%E3%81%A8%E3%80%82-ebook/dp/B07CH4HNGY/ref=sr_1_1?dchild=1&amp;" rel="nofollow">qid=1606710904&amp;</a></div></div></div><div class="person"><div class="img"><a href="https://bookwalker.jp/deee0eb1f5-3199-4bea-92a0-1acd02fe3028" rel="nofollow"><img alt="Bookwalker" src="https://s2.googleusercontent.com/s2/favicons?domain=bookwalker.jp"></a></div><div class="data"><div class="name"><a href="https://bookwalker.jp/deee0eb1f5-3199-4bea-92a0-1acd02fe3028" rel="nofollow">Bookwalker</a></div></div></div></div></span><span><b>Informasi:</b><div class="informan"><div class="person"><div class="img"><a href="https://www.mangaupdates.com/series.html?id=158265" rel="nofollow"><img alt="MangaUpdates" src="https://s2.googleusercontent.com/s2/favicons?domain=mangaupdates.com"></a></div><div class="data"><div class="name"><a href="https://www.mangaupdates.com/series.html?id=158265" rel="nofollow">MangaUpdates</a></div></div></div><div class="person"><div class="img"><a href="" rel="nofollow"><img alt="" src="https://s2.googleusercontent.com/s2/favicons?domain="></a></div><div class="data"><div class="name"><a href="" rel="nofollow"></a></div></div></div></div></span>              </div>
+
+              <div class="genre-info ">
+                                    <a href="/genres/drama" rel="tag" title="Drama">Drama</a>
+                                    <a href="/genres/romance" rel="tag" title="Romance">Romance</a>
+                                    <a href="/genres/slice-of-life" rel="tag" title="Slice of Life">Slice of Life</a>
+                              </div>
+
+              <div class="shortcsc sht2">
+                <p>
+                  -50kg Cinderella                  Manga adalah serial komik yang bertemakan
+                  Office Workers dan juga mengandung demografis
+                  Josei.
+                  Update chapter terbaru komik
+                  -50kg Cinderella adalah tanggal
+                  September 15, 2022.
+                </p>
+              </div>
+
+            </div>
+
+<div class="thumb" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+              <img src="https://komikindo.ch/wp-content/uploads/2022/09/Komik-50kg-Cinderella-224x319.jpg" title="Komik -50kg Cinderella" itemprop="image">              <div class="rt">
+                <div class="ratingmanga">
+                  <meta itemprop="name" content="Komik -50kg Cinderella">
+                                      <div class="rtg">
+                      <div class="clearfix archiveanime-rating" itemscope="itemscope" itemprop="aggregateRating" itemtype="//schema.org/AggregateRating">
+                        <i itemprop="ratingValue">
+                          8.01                        </i>
+                        <meta itemprop="worstRating" content="1">
+                        <meta itemprop="ratingCount" content="10">
+                        <meta itemprop="bestRating" content="10">
+                        <div class="archiveanime-rating-content">
+                          <div class="archiveanime-rating-bar"><span style="width:80%"></span>
+                          </div>
+                                                    <div class="votescount">
+                            2 Orang
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  
+                          <form id="add-bookmark-form" method="POST">
+            <button type="submit" class="bokfav showlogin" data-post-id="203929">
+                <div class="favbut">
+                    <span class="fico" aria-hidden="true"><i class="fa fa-heart"></i></span>
+                    <span class="bool">
+                        <span class="textfavs" data-add-text="Tambahkan ke Favorit" data-remove-text="Hapus dari Favorit">Tambahkan ke Favorit</span>
+                    </span>
+                </div>
+            </button>
+            <input type="hidden" name="post_id" value="203929">
+            <input type="hidden" name="action" value="ki_toggle_bookmark">
+            <input type="hidden" name="_wpnonce" id="ki_toggle_bookmark_nonce" value="">
+        </form>
+                </div>
+
+              </div>
+
+            </div>
+
+
+<div id="sinopsis" class="widget_senction" style="">
+            <section class="whites">
+              <div class="desc">
+                <div class="widget-title">
+                  <h2>Sinopsis
+                    Manga                    -50kg Cinderella Bahasa Indonesia
+                  </h2>
+                </div>
+                <div class="entry-content entry-content-single" itemprop="description">
+                  <p>
+                    Manga                    -50kg Cinderella yang dibuat oleh komikus bernama
+                    Mochizuki Iku ini bercerita tentang
+                    Hime Saeki, seorang gadis yang agak berat, adalah seorang mahasiswa yang sedang mencari pekerjaan. Pada briefing perusahaan, dia terluka dan menemukan dirinya diselamatkan oleh seorang karyawan dari meja informasi, Osamu. Karena Osamu hampir seperti seorang pangeran, Hime jatuh cinta pada pandangan pertama.
+
+"Aku ingin bertemu dengannya lagi..."
+
+Untuk mewujudkannya, Hime memutuskan bahwa segala sesuatunya harus berubah. Dia melakukan diet ketat dan berhasil menurunkan 50kg! Dia dipekerjakan di perusahaan yang sama, tetapi bahkan setelah satu tahun, Osamu tidak terlihat.
+
+Tiba-tiba, suatu hari, pria paling tampan di perusahaan, dikabarkan sebagai putra CEO, pindah ke departemen Hime… dan itu adalah Osamu! Namun, kebahagiaannya di reuni mereka berumur pendek ketika Osamu mengatakan kepadanya bahwa dia memiliki seorang wanita yang dia minati ...
+
+Tapi entah kenapa, Osamu terus memeluknya, membisikkan kata-kata manis padanya, dan memperlakukannya berbeda. Akankah Hime tetap bergantung pada belas kasihannya yang tak terduga…?                  </p>
+
+                </div>
+              </div>
+            </section>
+          </div>
+
+<div class="eps_lst">
+            <div class="listeps">
+              <div class="searcch">
+                <input type="text" id="searchchapter" onkeyup="searchlistchapt()" placeholder="Search by Chapter Ex: 99">
+              </div>
+
+              <div class="bxcl scrolling" id="chapter_list">
+                <ul>
+                  <li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-16/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 16">
+            Chapter <chapter>16</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-16/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-15/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 15">
+            Chapter <chapter>15</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-15/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-14/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 14">
+            Chapter <chapter>14</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-14/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-13/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 13">
+            Chapter <chapter>13</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-13/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-12/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 12">
+            Chapter <chapter>12</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-12/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-11/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 11">
+            Chapter <chapter>11</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-11/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-10/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 10">
+            Chapter <chapter>10</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-10/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-9/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 9">
+            Chapter <chapter>9</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-9/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-8/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 8">
+            Chapter <chapter>8</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-8/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-7/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 7">
+            Chapter <chapter>7</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-7/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-6/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 6">
+            Chapter <chapter>6</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-6/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-5/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 5">
+            Chapter <chapter>5</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-5/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-4/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 4">
+            Chapter <chapter>4</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-4/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-3/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 3">
+            Chapter <chapter>3</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-3/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-2-2/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 2.2">
+            Chapter <chapter>2.2</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-2-2/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-2-1/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 2.1">
+            Chapter <chapter>2.1</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-2-1/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-1-2/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 1.2">
+            Chapter <chapter>1.2</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-1-2/">3 tahun yang lalu</a></span>
+    </li><li>
+    <span class="lchx">
+        <a href="https://komikindo.ch/50kg-cinderella-chapter-1-1/" itemprop="url" rel="bookmark" title="Komik -50kg Cinderella Chapter 1.1">
+            Chapter <chapter>1.1</chapter></a></span>
+            <span class="dt"><a href="https://komikindo.ch/50kg-cinderella-chapter-1-1/">3 tahun yang lalu</a></span>
+    </li>                </ul>
+              </div>
+            </div>
+          </div>
+
+contoh chapter 1.1
+https://komikindo.ch/50kg-cinderella-chapter-1-1/
+
+struktur html
+<div class="chapter-image eastengine bc" id="Baca_Komik">
+    
+    <div class="img-landmine">
+        <div id="chimg-auh">
+            <img src="https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/rGgOApsvE1na4tM8TMNPc42vfu7CETmo2wBS4L5H.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/rGgOApsvE1na4tM8TMNPc42vfu7CETmo2wBS4L5H.jpeg';"><img src="https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/khbZidXbwOsx6vroqSGdNhNrv2AUrZiUEEQOmZ1P.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/khbZidXbwOsx6vroqSGdNhNrv2AUrZiUEEQOmZ1P.jpeg';"><img src="https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/UiN6QRqxBt3UYPCGU2VirlYPjYrxOGNpI67aCS9X.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/UiN6QRqxBt3UYPCGU2VirlYPjYrxOGNpI67aCS9X.jpeg';"><img src="https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/ifnsVKZkGzeXLwAsOUAPweCb24MSlswoLHW3AQE1.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/ifnsVKZkGzeXLwAsOUAPweCb24MSlswoLHW3AQE1.jpeg';"><img src="https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/qFLLXlu6TwTmCjefZjXXMwgLFZpjNFuigIrt4sCe.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/qFLLXlu6TwTmCjefZjXXMwgLFZpjNFuigIrt4sCe.jpeg';"><img src="https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/vLv7kxbqQGBxGZHktMw9eAVHRpan2E3oxfUke41Q.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/vLv7kxbqQGBxGZHktMw9eAVHRpan2E3oxfUke41Q.jpeg';"><img src="https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/vgfbZHZhzhdaYTHoT79nog47oH4kFunCmx40V6E6.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/vgfbZHZhzhdaYTHoT79nog47oH4kFunCmx40V6E6.jpeg';"><img src="https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/gUJIECng4AWY92EadS2aTScnr9InYJ4mfsUk3VGn.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/gUJIECng4AWY92EadS2aTScnr9InYJ4mfsUk3VGn.jpeg';"><img src="https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/lLc0wFkp9vcWO2D7ITWJqDC2PT2q2JRlw5UKjMxf.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/lLc0wFkp9vcWO2D7ITWJqDC2PT2q2JRlw5UKjMxf.jpeg';"><img src="https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/iKbm6RcTmHHk995VRHEfEMEnw83GEXDGodfeLGgN.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/iKbm6RcTmHHk995VRHEfEMEnw83GEXDGodfeLGgN.jpeg';"><img src="https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/pPPxKa8QTBjuPFs3L4z6S9bIuXhuFOVQy0k3LIBu.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/pPPxKa8QTBjuPFs3L4z6S9bIuXhuFOVQy0k3LIBu.jpeg';"><img src="https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/a9UHt9gaakz9NeKRBbHNXfFjTdSN71FyOwYaAjIa.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/a9UHt9gaakz9NeKRBbHNXfFjTdSN71FyOwYaAjIa.jpeg';"><img src="https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/GBIPYSH9f5NC86Mj8l8BNiLR5Bu51Fg5U8Wf5rrV.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/GBIPYSH9f5NC86Mj8l8BNiLR5Bu51Fg5U8Wf5rrV.jpeg';"><img src="https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/r2c1bGzmLXitXIpiOIxmf6pm7Uq4XlruHvuNAdJg.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/r2c1bGzmLXitXIpiOIxmf6pm7Uq4XlruHvuNAdJg.jpeg';"><img src="https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/XgJa8zCVR45t5pUootsvf47lHU6Uz4CBQOef3Knl.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/XgJa8zCVR45t5pUootsvf47lHU6Uz4CBQOef3Knl.jpeg';"><img src="https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/USthdnpFVRpoPRqB4ACdHuh3PCktIsski2ID8LQw.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/USthdnpFVRpoPRqB4ACdHuh3PCktIsski2ID8LQw.jpeg';"><img src="https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/spZEQvJaZBvyiaNbEDgEHcXvap0E5TJTaQbCDvdv.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/spZEQvJaZBvyiaNbEDgEHcXvap0E5TJTaQbCDvdv.jpeg';"><img src="https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/NfhQooU5HTJNTjtnd6QiaBshSglIFTT1MzWGRYPe.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/NfhQooU5HTJNTjtnd6QiaBshSglIFTT1MzWGRYPe.jpeg';"><img src="https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/Fuqm9qlxvgC7trcm3WvvhsmC8D9Kd6gqMkEmd7r0.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://imageainewgeneration.lol/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/Fuqm9qlxvgC7trcm3WvvhsmC8D9Kd6gqMkEmd7r0.jpeg';"><img src="https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/z2QZGyIqFLqVYGfBayZUk7tjlkg6LrxgwT7FAIZo.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://himmga.lat/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/z2QZGyIqFLqVYGfBayZUk7tjlkg6LrxgwT7FAIZo.jpeg';"><img src="https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/kG3m8Esw3I4zThsUwQ3XVlmCH6HIerMkCVLDGQAa.jpeg" alt="-50kg Cinderella Chapter 1.1" onerror="this.onerror=null;this.src='https://gaimgame.pics/data/91164060/1.1/8f65547cb490bca2fc5422e6220491be/kG3m8Esw3I4zThsUwQ3XVlmCH6HIerMkCVLDGQAa.jpeg';">        </div>
+    </div>
+
+</div>

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Data
+# Secara default, data disimpan di root agar disync ke GitHub
+# Jika data terlalu besar (>100MB per file), gunakan Git LFS atau ignore folder ini.
+# data/
+
+# Logs
+logs/
+*.log
