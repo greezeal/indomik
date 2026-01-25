@@ -22,6 +22,16 @@ from typing import Optional, Dict, List, Any
 
 SENSITIVE_DOMAINS = [base64.b64decode("a29taWtpbmRv").decode()]
 
+# Daftar "sidik jari" browser yang didukung oleh curl_cffi.
+# Jangan asal menambah versi (misal chrome113) jika library belum mendukungnya.
+IMPERSONATION_ROTATION = [
+    "edge101",      # Prioritas 1: Cocok dengan Windows Runner
+    "chrome119",    # Alternatif modern
+    "chrome110",    # Versi stabil agak lama
+    "chrome100",    # Versi lama (kadang lebih dipercaya)
+    "edge99"        # Alternatif Edge
+]
+
 
 def encode_url(url: str) -> str:
     """Encode URL to base64 if it contains sensitive domain."""
@@ -150,25 +160,19 @@ class MainScraper:
         Perform a warm-up request to the home page to establish session/cookies.
         Includes retries and alternative impersonation if needed.
         """
-        targets = [
-            {"impersonate": "edge101", "url": self.BASE_URL},
-            {"impersonate": "chrome110", "url": self.BASE_URL},
-            {"impersonate": "chrome100", "url": self.BASE_URL},
-        ]
-        
-        for attempt, target in enumerate(targets, 1):
-            print(f"Performing warm-up request (Attempt {attempt}, {target['impersonate']})...")
+        for attempt, impersonate_ver in enumerate(IMPERSONATION_ROTATION, 1):
+            print(f"Performing warm-up request (Attempt {attempt}, {impersonate_ver})...")
             try:
-                self.session = requests.Session(impersonate=target['impersonate'])
+                self.session = requests.Session(impersonate=impersonate_ver)
                 self.session.headers.update({
                     "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
                     "Referer": "https://www.google.com/"
                 })
                 
-                response = self.session.get(target['url'], timeout=30)
+                response = self.session.get(self.BASE_URL, timeout=30)
                 
                 if response.status_code == 200:
-                    print("Warm-up successful.")
+                    print(f"Warm-up successful using {impersonate_ver}.")
                     self.session.headers.update({"Referer": self.BASE_URL})
                     return True
                 else:
@@ -178,7 +182,7 @@ class MainScraper:
                     
                 time.sleep(self.delay * 2)
             except Exception as e:
-                print(f"Warm-up attempt {attempt} failed: {e}")
+                print(f"Warm-up attempt {attempt} ({impersonate_ver}) failed: {e}")
                 
         return False
     
