@@ -1,5 +1,326 @@
 {
-  "last_updated": "2026-01-25T02:01:38.330092",
-  "total_comics": 0,
-  "comics": []
+  "last_updated": "2026-01-25T05:08:04.377344",
+  "total_comics": 40,
+  "comics": [
+    {
+      "slug": "226919-academys-undercover-professor",
+      "title": "Komik\n              Academy’s Undercover Professor",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 155
+    },
+    {
+      "slug": "the-legendary-hero-is-an-academy-honors-student",
+      "title": "Komik\n              The Legendary Hero is an Academy Honors Student",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.75,
+      "total_chapters": 69
+    },
+    {
+      "slug": "gokugoku-futsuu-no-fuufu-no-hanashi",
+      "title": "Gokugoku Futsuu no Fuufu no Hanashi",
+      "type": "Manga",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "godly-strange-world-i-possess-unique-enlightment",
+      "title": "Komik\n              Godly Strange World, I Possess Unique Enlightment",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 24
+    },
+    {
+      "slug": "remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta",
+      "title": "Komik\n              Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.92,
+      "total_chapters": 18
+    },
+    {
+      "slug": "castle-2-on-top-of-everyone",
+      "title": "Komik\n              Castle 2: On Top of Everyone",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 121
+    },
+    {
+      "slug": "surviving-the-heat-apocalypse-with-my-god-tier-safehouse",
+      "title": "Komik\n              Surviving the Heat Apocalypse with My God-Tier Safehouse",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "return-of-the-devourer",
+      "title": "Komik\n              Return of the Devourer",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 11
+    },
+    {
+      "slug": "renai-no-jugyou",
+      "title": "Komik\n              Renai no Jugyou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.56,
+      "total_chapters": 24
+    },
+    {
+      "slug": "the-mad-dog-of-the-dukes-estate",
+      "title": "Komik\n              The Mad Dog of the Duke’s Estate",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 40
+    },
+    {
+      "slug": "ming-dynastys-failure",
+      "title": "Komik\n              Ming Dynasty’s Failure",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 84
+    },
+    {
+      "slug": "134898-mercenary-enrollment",
+      "title": "Komik\n              Mercenary Enrollment",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 9.1,
+      "total_chapters": 273
+    },
+    {
+      "slug": "831172-the-hero-returns",
+      "title": "Komik\n              The Hero Returns",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 139
+    },
+    {
+      "slug": "idle-player-returns-as-a-god",
+      "title": "Komik\n              Idle Player Returns as a God",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
+    },
+    {
+      "slug": "iron-ladies",
+      "title": "Komik\n              Iron Ladies",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 8.26,
+      "total_chapters": 705
+    },
+    {
+      "slug": "healing-life-through-camping-in-another-world",
+      "title": "Komik\n              Healing Life Through Camping In Another World",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.83,
+      "total_chapters": 91
+    },
+    {
+      "slug": "583721-swordmasters-youngest-son",
+      "title": "Komik\n              Swordmaster’s Youngest Son",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 195
+    },
+    {
+      "slug": "genius-blacksmiths-game",
+      "title": "Komik\n              Genius Blacksmith’s Game",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.38,
+      "total_chapters": 38
+    },
+    {
+      "slug": "the-player-of-the-fallen-family",
+      "title": "Komik\n              The Player of the Fallen Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 30
+    },
+    {
+      "slug": "becoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family",
+      "title": "Komik\n              Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 106
+    },
+    {
+      "slug": "after-rebirth-i-used-mirror-reversal-for-vengeance",
+      "title": "Komik\n              After Rebirth, I Used Mirror Reversal For Vengeance",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 40
+    },
+    {
+      "slug": "462789-the-tutorial-is-too-hard",
+      "title": "Komik\n              The Tutorial is Too Hard",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.28,
+      "total_chapters": 249
+    },
+    {
+      "slug": "kizokuka-sannan-no-nariagari-life",
+      "title": "Komik\n              Kizokuka Sannan no Nariagari Life",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.48,
+      "total_chapters": 8
+    },
+    {
+      "slug": "maou-sama-retry-r",
+      "title": "Komik\n              Maou-sama, Retry! R",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.55,
+      "total_chapters": 69
+    },
+    {
+      "slug": "isekai-yakkyoku",
+      "title": "Komik\n              Isekai Yakkyoku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.45,
+      "total_chapters": 71
+    },
+    {
+      "slug": "593213-the-lords-coins-arent-decreasing",
+      "title": "Komik\n              The Lord’s Coins Aren’t Decreasing?!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 187
+    },
+    {
+      "slug": "the-heavenly-path-is-not-stupid",
+      "title": "Komik\n              The Heavenly Path Is Not Stupid",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 162
+    },
+    {
+      "slug": "a-hero-who-does-everything-well",
+      "title": "Komik\n              A Hero Who Does Everything Well",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.19,
+      "total_chapters": 70
+    },
+    {
+      "slug": "427649-the-delusional-hunter-in-another-world",
+      "title": "Komik\n              The Delusional Hunter in Another World",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 66
+    },
+    {
+      "slug": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
+      "title": "Komik\n              Reincarnated as a Genius Prodigy of a Prestigious Family",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 75
+    },
+    {
+      "slug": "oukoku-e-tsuzuku-michi",
+      "title": "Komik\n              Oukoku E Tsuzuku Michi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.77,
+      "total_chapters": 105
+    },
+    {
+      "slug": "549490-martial-wild-west",
+      "title": "Komik\n              Martial Wild West",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 110
+    },
+    {
+      "slug": "the-worlds-best-kunlun-tavern",
+      "title": "Komik\n              The World’s Best Kunlun Tavern",
+      "type": "Manhwa",
+      "status": "Tamat",
+      "rating": 7.13,
+      "total_chapters": 95
+    },
+    {
+      "slug": "786730-underworld-restaurant",
+      "title": "Komik\n              Underworld Restaurant",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 99
+    },
+    {
+      "slug": "the-return-of-the-corpse-king",
+      "title": "Komik\n              The Return of the Corpse King",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.21,
+      "total_chapters": 9
+    },
+    {
+      "slug": "infinite-evolution-starting-from-zero",
+      "title": "Komik\n              Infinite Evolution Starting From Zero",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 55
+    },
+    {
+      "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto",
+      "title": "Komik\n              Silent Witch Chinmoku no Majo no Kakushigoto",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 27
+    },
+    {
+      "slug": "moriagaranai-date",
+      "title": "Komik\n              Moriagaranai Date",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.97,
+      "total_chapters": 6
+    },
+    {
+      "slug": "in-the-land-of-leadale",
+      "title": "Komik\n              In the Land of Leadale",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.74,
+      "total_chapters": 14
+    },
+    {
+      "slug": "151235-reincarnation-of-the-murim-clans-former-ranker",
+      "title": "Komik\n              Reincarnation of the Murim Clan’s Former Ranker",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 186
+    }
+  ]
 }
