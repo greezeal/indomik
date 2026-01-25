@@ -76,7 +76,8 @@ class MainScraper:
         self.delay = delay
         self.force = force
         print("Configuring browser impersonation...")
-        self.session = requests.Session(impersonate="chrome120")
+        # Use Edge as default since we are on Windows runner
+        self.session = requests.Session(impersonate="edge101")
         print("Scraper initialized successfully.")
         
         # We rely more on curl_cffi's impersonate than manual headers to avoid inconsistencies
@@ -150,8 +151,9 @@ class MainScraper:
         Includes retries and alternative impersonation if needed.
         """
         targets = [
-            {"impersonate": "chrome120", "url": self.BASE_URL},
-            {"impersonate": "safari15", "url": self.BASE_URL},
+            {"impersonate": "edge101", "url": self.BASE_URL},
+            {"impersonate": "chrome110", "url": self.BASE_URL},
+            {"impersonate": "chrome100", "url": self.BASE_URL},
         ]
         
         for attempt, target in enumerate(targets, 1):
