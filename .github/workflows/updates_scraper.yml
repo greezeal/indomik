@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
   schedule:
-    - cron: "0 */4 * * *" # Diubah ke 4 jam sekali untuk memancing trigger ulang
+    - cron: "*/7 * * * *" # UJICOBA: Menjalankan setiap 7 menit sekali
   workflow_dispatch:
 
 jobs:
