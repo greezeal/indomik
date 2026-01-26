@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-25T10:08:05.097975",
-  "total_comics": 62,
+  "last_updated": "2026-01-26T03:33:00.401060",
+  "total_comics": 91,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -44,11 +44,11 @@
     },
     {
       "slug": "50kg-cinderella",
-      "title": "Komik\n              -50kg Cinderella",
+      "title": "-50kg Cinderella",
       "type": "Manga",
-      "status": "Berjalan",
+      "status": "",
       "rating": 8.01,
-      "total_chapters": 18
+      "total_chapters": 0
     },
     {
       "slug": "549490-martial-wild-west",
@@ -497,6 +497,238 @@
       "status": "Berjalan",
       "rating": 7.54,
       "total_chapters": 25
+    },
+    {
+      "slug": "aoppella-hajimari-no-playlist",
+      "title": "Komik\n              -Aoppella!?- Hajimari no Playlist",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "rank-no-ura-soubi-musou",
+      "title": "Komik\n              ??? Rank no Ura Soubi Musou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 80
+    },
+    {
+      "slug": "bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken",
+      "title": "Komik\n              “Bijin de Okane Mochi no Kanojo ga Hoshii” to Ittara, Wake Ari Joshi ga Yattekita Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.73,
+      "total_chapters": 1
+    },
+    {
+      "slug": "cold",
+      "title": "Komik\n              “Cold”",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.56,
+      "total_chapters": 1
+    },
+    {
+      "slug": "honyaku-no-sainou-de-ore-dake-ga-sekai-wo-kaihen-dekiru-ken",
+      "title": "Komik\n              “Honyaku” no Sainou de Ore Dake ga Sekai wo Kaihen Dekiru Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 45
+    },
+    {
+      "slug": "issho-ni-netaindesu-yo-ne-senpai-to-amaku-sasayakarete-konya-mo-nemurenai",
+      "title": "Komik\n              “Issho ni Netaindesu yo Ne, Senpai?” to Amaku Sasayakarete Kon’ya mo Nemurenai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 4
+    },
+    {
+      "slug": "its-too-precious-and-hard-to-read-4p-short-stories",
+      "title": "Komik\n              “It’s too precious and hard to read !!” 4P Short Stories",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.35,
+      "total_chapters": 36
+    },
+    {
+      "slug": "jako-ni-wa-kaji-ga-oniaida-www-to-iwareta-kaji-level-9999-no-ore-tsuihousareta-no-de-boukensha-ni-tenshoku-suru-saikyou-de-musou-shinagara-guild-de-tanoshiku-kurashimasu",
+      "title": "Komik\n              “Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.52,
+      "total_chapters": 27
+    },
+    {
+      "slug": "kawaii-wa-kimi-no-mono",
+      "title": "Komik\n              “Kawaii” wa Kimi no mono",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.58,
+      "total_chapters": 10
+    },
+    {
+      "slug": "koko-wa-makasete-sakini-ike-wo-shitai-shinitagari-no-nozomanu-uchuu-gekokujou",
+      "title": "Komik\n              “Koko wa Makasete Sakini Ike!” wo shitai Shinitagari no Nozomanu Uchuu Gekokujou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.45,
+      "total_chapters": 5
+    },
+    {
+      "slug": "kukuku-he-is-the-weakest-of-the-four-heavenly-monarchs-i-was-dismissed-from-my-job-but-somehow-i-became-the-master-of-a-hero-and-a-holy-maiden",
+      "title": "Komik\n              “Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.95,
+      "total_chapters": 20
+    },
+    {
+      "slug": "love-live-nijigasaki-x-uma-musume-hoenn-pixiv-collection",
+      "title": "Komik\n              “Love Live Nijigasaki x Uma Musume” Hoenn Pixiv Collection",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "mou-hatarakitakunaindesu-boukensha-nanka-yamete-yaru-imasara-taiguu-wo-kaerukara-to-onegai-sarete-mo-okotowaridesu-boku-wa-zettai-hatarakimasen",
+      "title": "Komik\n              “Mou…. Hatarakitakunaindesu” Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.53,
+      "total_chapters": 3
+    },
+    {
+      "slug": "osananajimi-ga-hoshii-to-tsubuyaitara-yoku-issho-ni-asobu-onna-tomodachi-no-yousu-ga-hen-ni-nattanda-ga",
+      "title": "Komik\n              “Osananajimi ga Hoshii” to Tsubuyaitara Yoku Issho ni Asobu Onna Tomodachi no Yousu ga Hen ni Nattanda ga",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.38,
+      "total_chapters": 6
+    },
+    {
+      "slug": "shop-skill-sae-areba-dungeon-ka-shita-sekai-demo-rakushou-da",
+      "title": "Komik\n              “Shop” Skill Sae Areba, Dungeon-ka Shita Sekai Demo Rakushou da",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 32
+    },
+    {
+      "slug": "zombie-sagashitemasu",
+      "title": "Komik\n              #Zombie Sagashitemasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.2,
+      "total_chapters": 9
+    },
+    {
+      "slug": "393629-99-wooden-stick",
+      "title": "Komik\n              +99 Wooden Stick",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 99
+    },
+    {
+      "slug": "0-magic-a-high-spirit-and-a-demonic-sword",
+      "title": "Komik\n              0 Magic, a High Spirit, and a Demonic Sword",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.56,
+      "total_chapters": 2
+    },
+    {
+      "slug": "0-saiji-start-dash-monogatari",
+      "title": "Komik\n              0 Saiji Start Dash Monogatari",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.89,
+      "total_chapters": 6
+    },
+    {
+      "slug": "136271-07-ghost",
+      "title": "Komik\n              07-Ghost",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 8.2,
+      "total_chapters": 40
+    },
+    {
+      "slug": "1-million-times-attack-speed",
+      "title": "Komik\n              1 Million Times Attack Speed",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 105
+    },
+    {
+      "slug": "1-rt-de-nakawarui-nonke-joshi-tachi-ga-1-byou-kiss-suru",
+      "title": "Komik\n              1 RT de Nakawarui Nonke Joshi-tachi ga 1-byou Kiss suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.26,
+      "total_chapters": 11
+    },
+    {
+      "slug": "176317-1-second",
+      "title": "Komik\n              1 Second",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.38,
+      "total_chapters": 43
+    },
+    {
+      "slug": "1-nen-a-gumi-no-monster",
+      "title": "Komik\n              1-nen A-gumi no Monster",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 87
+    },
+    {
+      "slug": "10-kaime-no-kokuhaku-de-tsukiau-osananajimi",
+      "title": "Komik\n              10 Kaime no Kokuhaku de Tsukiau Osananajimi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.64,
+      "total_chapters": 2
+    },
+    {
+      "slug": "10-nen-buri-ni-saikai-shita-kusogaki-wa-seijun-bishoujo-jk-ni-seichou-shiteita",
+      "title": "Komik\n              10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.66,
+      "total_chapters": 27
+    },
+    {
+      "slug": "10-nenmae-ni-time-leap-shite-osananajimi-no-ojousama-wo-tasuketara-iinazuke-ni-narimashita",
+      "title": "Komik\n              10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 7
+    },
+    {
+      "slug": "100-nichigo-ni-s%e2%97%8bx-suru-tsuinte-chan",
+      "title": "Komik\n              100 Nichigo ni S○X suru Tsuinte-chan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.89,
+      "total_chapters": 7
+    },
+    {
+      "slug": "100-years-old-top-chef",
+      "title": "Komik\n              100 Years Old Top Chef",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 57
     }
   ]
 }
