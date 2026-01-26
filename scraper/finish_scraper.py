@@ -13,6 +13,7 @@ import json
 import time
 import re
 import base64
+import sys
 from curl_cffi import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
@@ -575,6 +576,9 @@ class MainScraper:
 def main():
     print("Scraper script started.")
     import argparse
+    
+    # Force UTF-8 encoding for stdout (fix for Windows runners)
+    sys.stdout.reconfigure(encoding='utf-8')
     
     parser = argparse.ArgumentParser(description="Universal Comic Scraper")
     parser.add_argument("--data-dir", default=DEFAULT_DATA_DIR, help="Directory to save data")
