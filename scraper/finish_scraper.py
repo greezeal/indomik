@@ -514,11 +514,31 @@ class MainScraper:
                 
                 # Scrape chapters if requested
                 if scrape_chapters and detail and "chapters" in detail:
-                    # Apply chapter limit if set
-                    chapters_to_scrape = detail["chapters"]
+                    # Smart Limit: Filter chapters first
+                    chapters_all = detail["chapters"]
+                    chapters_to_scrape = []
+                    
                     if self.limit_chapters:
-                        print(f"    - Limiting scrape to last {self.limit_chapters} chapters")
-                        chapters_to_scrape = chapters_to_scrape[:self.limit_chapters]
+                        count = 0
+                        for ch in chapters_all:
+                            # Check if chapter already exists
+                            chapter_num = ch["chapter"]
+                            chapter_filename = f"chapter-{chapter_num.replace('.', '-')}.json"
+                            chapter_path = os.path.join(self.comics_dir, slug, "chapters", chapter_filename)
+                            
+                            is_missing = not os.path.exists(chapter_path)
+                            
+                            if self.force or is_missing:
+                                chapters_to_scrape.append(ch)
+                                count += 1
+                                
+                            if count >= self.limit_chapters:
+                                break
+                        
+                        if count > 0:
+                            print(f"    - Smart Limit: Queueing {count} chapters (prioritizing missing/newest)...")
+                    else:
+                        chapters_to_scrape = chapters_all
 
                     for ch in chapters_to_scrape:
                         chapter_num = ch["chapter"]
