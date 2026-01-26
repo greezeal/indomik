@@ -78,7 +78,7 @@ class MainScraper:
     BASE_URL = base64.b64decode("aHR0cHM6Ly9rb21pa2luZG8uY2g=").decode()
     LIST_URL = f"{BASE_URL}/komik-terbaru/"
     
-    def __init__(self, data_dir: str = DEFAULT_DATA_DIR, delay: float = 1.0, force: bool = False):
+    def __init__(self, data_dir: str = DEFAULT_DATA_DIR, delay: float = 1.0, force: bool = False, limit_chapters: int = None):
         """
         Initialize the scraper.
         """
@@ -86,6 +86,7 @@ class MainScraper:
         self.data_dir = data_dir
         self.delay = delay
         self.force = force
+        self.limit_chapters = limit_chapters
         print("Configuring browser impersonation...")
         # Use Edge as default since we are on Windows runner
         self.session = requests.Session(impersonate="edge101")
@@ -513,7 +514,13 @@ class MainScraper:
                 
                 # Scrape chapters if requested
                 if scrape_chapters and detail and "chapters" in detail:
-                    for ch in detail["chapters"]:
+                    # Apply chapter limit if set
+                    chapters_to_scrape = detail["chapters"]
+                    if self.limit_chapters:
+                        print(f"    - Limiting scrape to last {self.limit_chapters} chapters")
+                        chapters_to_scrape = chapters_to_scrape[:self.limit_chapters]
+
+                    for ch in chapters_to_scrape:
                         chapter_num = ch["chapter"]
                         chapter_filename = f"chapter-{chapter_num.replace('.', '-')}.json"
                         chapter_path = os.path.join(self.comics_dir, slug, "chapters", chapter_filename)
@@ -590,10 +597,11 @@ def main():
     parser.add_argument("--comic", type=str, default=None, help="Scrape a specific comic by URL or slug")
     parser.add_argument("--force", action="store_true", help="Force re-scrape even if data exists")
     parser.add_argument("--rebuild-index", action="store_true", help="Rebuild index.json from existing data")
+    parser.add_argument("--limit-chapters", type=int, default=None, help="Limit number of chapters to scrape per comic")
     
     args = parser.parse_args()
     
-    scraper = MainScraper(data_dir=args.data_dir, delay=args.delay, force=args.force)
+    scraper = MainScraper(data_dir=args.data_dir, delay=args.delay, force=args.force, limit_chapters=args.limit_chapters)
     
     if args.rebuild_index:
         scraper.rebuild_index()
