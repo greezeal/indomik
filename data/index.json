@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-26T04:26:52.096635",
-  "total_comics": 121,
+  "last_updated": "2026-01-26T11:06:32.604621",
+  "total_comics": 156,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -420,11 +420,11 @@
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
-      "title": "Komik\n              Tsuma ga Kanpeki sugiru no de, Chotto Midashite Ii desu ka?",
+      "title": "Tsuma ga Kanpeki sugiru no de, Chotto Midashite Ii desu ka?",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.32,
-      "total_chapters": 36
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-suspicious-little-prince-is-the-worlds-greatest-teenage-master",
@@ -444,19 +444,19 @@
     },
     {
       "slug": "mikoto-chan-wa-kirawaretakunai",
-      "title": "Komik\n              Mikoto-chan wa Kirawaretakunai!",
+      "title": "Mikoto-chan wa Kirawaretakunai!",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.85,
-      "total_chapters": 37
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "war-of-corpses",
-      "title": "Komik\n              War of Corpses",
+      "title": "War of Corpses",
       "type": "Manhwa",
-      "status": "Berjalan",
+      "status": "",
       "rating": 0.0,
-      "total_chapters": 22
+      "total_chapters": 0
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -492,11 +492,11 @@
     },
     {
       "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
-      "title": "Komik\n              Takou no Koori Hime wo Tasuketara, Otomodachi kara Hajimeru Koto ni Narimashita",
+      "title": "Takou no Koori Hime wo Tasuketara, Otomodachi kara Hajimeru Koto ni Narimashita",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.54,
-      "total_chapters": 25
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "aoppella-hajimari-no-playlist",
@@ -969,6 +969,286 @@
       "status": "Berjalan",
       "rating": 6.62,
       "total_chapters": 10
+    },
+    {
+      "slug": "ikemen-ni-tensei-shita-kedo-cheat-wa-dekimasen-shita",
+      "title": "Komik\n              Ikemen ni Tensei Shita kedo Cheat wa Dekimasen Shita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.75,
+      "total_chapters": 18
+    },
+    {
+      "slug": "507405-villain-to-kill",
+      "title": "Komik\n              Villain To Kill",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 222
+    },
+    {
+      "slug": "leveling-in-the-future",
+      "title": "Komik\n              Leveling In The Future",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.02,
+      "total_chapters": 291
+    },
+    {
+      "slug": "gachi-koi-maou-sama",
+      "title": "Komik\n              Gachi Koi Maou-sama",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 25
+    },
+    {
+      "slug": "sakamoto-days",
+      "title": "Komik\n              Sakamoto Days",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.39,
+      "total_chapters": 245
+    },
+    {
+      "slug": "momose-akira-no-hatsukoi-hatan-chuu",
+      "title": "Komik\n              Momose Akira no Hatsukoi Hatan-chuu.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.71,
+      "total_chapters": 34
+    },
+    {
+      "slug": "raidorl-seiken-senki",
+      "title": "Komik\n              Raidorl Seiken Senki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.55,
+      "total_chapters": 6
+    },
+    {
+      "slug": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
+      "title": "Komik\n              Top Tier Providence: Secretly Cultivate for a Thousand Years",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 248
+    },
+    {
+      "slug": "douyara-ore-wa-imadoki-gal-na-toshiue-osananajimi-kara-gekiomokanjou-wo-mukerareteirurashii",
+      "title": "Komik\n              Douyara Ore wa imadoki Gal na Toshiue Osananajimi kara Gekiomokanjou wo Mukerareteirurashii",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 16
+    },
+    {
+      "slug": "magic-lord",
+      "title": "Komik\n              Magic Lord",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 48
+    },
+    {
+      "slug": "950994-isekai-wa-smartphone-to-tomo-ni",
+      "title": "Komik\n              Isekai wa Smartphone to Tomo ni.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.54,
+      "total_chapters": 111
+    },
+    {
+      "slug": "all-hail-the-sect-leader",
+      "title": "Komik\n              All Hail the Sect Leader",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 491
+    },
+    {
+      "slug": "marriagetoxin",
+      "title": "Komik\n              MARRIAGETOXIN",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.83,
+      "total_chapters": 74
+    },
+    {
+      "slug": "isshou-senkin",
+      "title": "Komik\n              Isshou Senkin",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 67
+    },
+    {
+      "slug": "isekai-no-binbou-nouka-ni-tensei-shita-node-renga-wo-tsukutte-shiro-wo-tateru-koto-ni-shimashita",
+      "title": "Komik\n              Isekai no Binbou Nouka ni Tensei Shita Node, Renga wo Tsukutte Shiro wo Tateru Koto ni Shimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.65,
+      "total_chapters": 35
+    },
+    {
+      "slug": "tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru",
+      "title": "Komik\n              Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.04,
+      "total_chapters": 86
+    },
+    {
+      "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
+      "title": "Komik\n              I Was More Overpowered Than the Hero, so I Hid My Power!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 96
+    },
+    {
+      "slug": "exorcist-wo-otosenai",
+      "title": "Komik\n              Exorcist wo Otosenai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.89,
+      "total_chapters": 83
+    },
+    {
+      "slug": "322911-rookie-but-one-in-a-million-actor",
+      "title": "Komik\n              Rookie but One-in-a-Million Actor",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.29,
+      "total_chapters": 73
+    },
+    {
+      "slug": "turning-into-a-tentacle-monster-made-me-crazier",
+      "title": "Komik\n              Turning Into A Tentacle Monster, Made Me Crazier",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 32
+    },
+    {
+      "slug": "i-became-the-villain-the-hero-is-obsessed-with",
+      "title": "Komik\n              I Became The Villain The Hero Is Obsessed With",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 38
+    },
+    {
+      "slug": "643745-ranger-reject",
+      "title": "Komik\n              Ranger Reject",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 64
+    },
+    {
+      "slug": "chronicles-of-the-lazy-sovereign",
+      "title": "Komik\n              Chronicles of the Lazy Sovereign",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.19,
+      "total_chapters": 32
+    },
+    {
+      "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
+      "title": "Komik\n              The Regressed Son of a Duke is an Assassin",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 111
+    },
+    {
+      "slug": "758554-the-great-mage-returns-after-4000-years",
+      "title": "Komik\n              The Great Mage Returns After 4000 Years",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.49,
+      "total_chapters": 241
+    },
+    {
+      "slug": "830221-player-who-returned-10000-years-later",
+      "title": "Komik\n              Player Who Returned 10,000 Years Later",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 144
+    },
+    {
+      "slug": "the-demon-king-overrun-by-heroes",
+      "title": "Komik\n              The Demon King Overrun by Heroes",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.29,
+      "total_chapters": 14
+    },
+    {
+      "slug": "368745-the-regressed-life-of-a-back-alley-mage",
+      "title": "Komik\n              The Regressed Life Of A Back Alley Mage",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 31
+    },
+    {
+      "slug": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru",
+      "title": "Komik\n              Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.23,
+      "total_chapters": 133
+    },
+    {
+      "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
+      "title": "Komik\n              Kage no Jitsuryokusha ni Naritakute",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.99,
+      "total_chapters": 86
+    },
+    {
+      "slug": "serpent-ancestor",
+      "title": "Komik\n              Serpent Ancestor",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.35,
+      "total_chapters": 72
+    },
+    {
+      "slug": "my-empress-disciple-is-about-to-turn-dark",
+      "title": "Komik\n              My Empress Disciple Is About to Turn Dark",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 59
+    },
+    {
+      "slug": "687103-the-genius-grandson-of-namgung-clan",
+      "title": "Komik\n              The Genius Grandson of Namgung Clan",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 78
+    },
+    {
+      "slug": "strength-through-adversity-my-cultivation-knows-no-limits",
+      "title": "Komik\n              Strength Through Adversity, My Cultivation Knows No Limits",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 95
+    },
+    {
+      "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
+      "title": "Komik\n              Global Superpowers: Awakening the Zixiao Divine Thunder at the Beginning",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
     }
   ]
 }
