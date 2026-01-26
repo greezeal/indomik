@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-26T11:29:33.442343",
-  "total_comics": 156,
+  "last_updated": "2026-01-26T22:21:30.407103",
+  "total_comics": 188,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -436,11 +436,11 @@
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
-      "title": "Komik\n              The Little Brother Is the Academy’s Hotshot",
+      "title": "The Little Brother Is the Academy’s Hotshot",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 110
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "mikoto-chan-wa-kirawaretakunai",
@@ -1249,6 +1249,262 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "879493-a-dragonslayers-peerless-regression",
+      "title": "Komik\n              A Dragonslayer’s Peerless Regression",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.5,
+      "total_chapters": 69
+    },
+    {
+      "slug": "overlord-of-sichuan",
+      "title": "Komik\n              Overlord Of Sichuan",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "848336-the-max-leveled-hero-will-return",
+      "title": "Komik\n              The MAX leveled hero will return!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.29,
+      "total_chapters": 225
+    },
+    {
+      "slug": "397466-the-last-adventurer",
+      "title": "Komik\n              The Last Adventurer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 107
+    },
+    {
+      "slug": "sea-of-blood-mountain-of-bones",
+      "title": "Komik\n              Sea of Blood Mountain of Bones",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 8.14,
+      "total_chapters": 22
+    },
+    {
+      "slug": "194784-baek-xx",
+      "title": "Komik\n              Baek XX",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 160
+    },
+    {
+      "slug": "game-online-unrivaled-in-the-world-remake",
+      "title": "Komik\n              Game Online: Unrivaled In The World (Remake)",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
+    },
+    {
+      "slug": "outside-of-time",
+      "title": "Komik\n              Outside of Time",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 14
+    },
+    {
+      "slug": "305039-the-youngest-son-of-a-rich-family",
+      "title": "Komik\n              The Youngest Son Of A Rich Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 185
+    },
+    {
+      "slug": "soloist-in-a-cage",
+      "title": "Komik\n              Soloist in a Cage",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "the-butcher-blade-that-pierces-all-realms",
+      "title": "Komik\n              The Butcher Blade That Pierces All Realms",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 26
+    },
+    {
+      "slug": "495189-heavenly-inquisition-sword",
+      "title": "Komik\n              Heavenly Inquisition Sword",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 146
+    },
+    {
+      "slug": "next-life",
+      "title": "Komik\n              Next Life",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.96,
+      "total_chapters": 69
+    },
+    {
+      "slug": "guest-gun",
+      "title": "Komik\n              Guest Gun",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.08,
+      "total_chapters": 66
+    },
+    {
+      "slug": "the-genius-midfielders-pass-is-special",
+      "title": "Komik\n              The Genius Midfielder’s Pass Is Special",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 40
+    },
+    {
+      "slug": "i-became-a-munchkin-skill-thief",
+      "title": "Komik\n              I Became a Munchkin Skill Thief",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 19
+    },
+    {
+      "slug": "ryuuzaki-san-ga-ore-no-mae-dake-de-dereru-riyuu",
+      "title": "Komik\n              Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "the-mage-next-door",
+      "title": "Komik\n              The Mage Next Door",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "rebirth-in-the-apocalypse-i-reach-the-top-by-opening-boxes",
+      "title": "Komik\n              Rebirth in the Apocalypse: I Reach the Top by Opening Boxes",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.06,
+      "total_chapters": 84
+    },
+    {
+      "slug": "leveling-up-with-skills",
+      "title": "Komik\n              Leveling Up with Skills",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 137
+    },
+    {
+      "slug": "my-clone-is-the-space-bug-king",
+      "title": "Komik\n              My Clone is the Space Bug King",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 70
+    },
+    {
+      "slug": "i-took-over-the-system-players",
+      "title": "Komik\n              I Took Over The System Players",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.96,
+      "total_chapters": 165
+    },
+    {
+      "slug": "my-female-apprentices-are-all-big-shots-from-the-future",
+      "title": "Komik\n              My Female Apprentices Are All Big Shots From the Future",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 376
+    },
+    {
+      "slug": "extremely-evil-game",
+      "title": "Komik\n              Extremely Evil Game",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.06,
+      "total_chapters": 13
+    },
+    {
+      "slug": "muteki-no-ansatsu-ma-shirube-shi-last-boss-musume-to-tabi-wo-suru",
+      "title": "Komik\n              Muteki No Ansatsu Ma Shirube Shi, Last Boss Musume to Tabi Wo Suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "heavenly-demon-goes-to-high-school",
+      "title": "Komik\n              Heavenly Demon Goes to High School",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "warrior-of-the-sword-heart",
+      "title": "Komik\n              Warrior of The Sword Heart",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "663834-death-god",
+      "title": "Komik\n              Death God",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.08,
+      "total_chapters": 126
+    },
+    {
+      "slug": "shiunji-ke-no-kodomo-tachi",
+      "title": "Komik\n              Shiunji-ke no kodomo-tachi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.78,
+      "total_chapters": 64
+    },
+    {
+      "slug": "houkago-no-luminous",
+      "title": "Komik\n              Houkago no Luminous",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "limit-breaking-genius-mage",
+      "title": "Komik\n              Limit-Breaking Genius Mage",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 43
+    },
+    {
+      "slug": "sayonara-piano-sonata",
+      "title": "Komik\n              Sayonara Piano Sonata",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
     }
   ]
 }
