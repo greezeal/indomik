@@ -1,0 +1,34 @@
+{
+  "slug": "25-years-apart",
+  "title": "Komik\n              25 Years Apart",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvMjUteWVhcnMtYXBhcnQv",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDEvS29taWstMjUtWWVhcnMtQXBhcnQtMjI5eDMxOS5wbmc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.89,
+  "scraped_at": "2026-01-26T04:18:50.003495",
+  "alternative_titles": "25歳差百合",
+  "status": "Berjalan",
+  "author": "Mikawa Miso",
+  "illustrator": "Mikawa Miso",
+  "genres": [
+    "Romance",
+    "Yuri"
+  ],
+  "synopsis": "Manga                    25 Years Apart yang dibuat oleh komikus bernama\n                    Mikawa Miso ini bercerita tentang\n                    25 Tahun Terpisah",
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Komik 25 Years Apart Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMjUteWVhcnMtYXBhcnQtY2hhcHRlci0xLw==",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "00",
+      "title": "Komik 25 Years Apart Chapter 00",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMjUteWVhcnMtYXBhcnQtY2hhcHRlci0wMC8=",
+      "date": "5 tahun yang lalu"
+    }
+  ],
+  "total_chapters": 2
+}
