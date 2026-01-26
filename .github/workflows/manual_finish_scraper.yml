@@ -18,6 +18,11 @@ on:
         required: true
         default: "2"
         type: string
+      limit_chapters:
+        description: "Limit Chapters (0 for ALL)"
+        required: true
+        default: "0"
+        type: string
 
 jobs:
   scrape_finish:
@@ -44,7 +49,15 @@ jobs:
         shell: bash
         run: |
           echo "Running Finish Scraper for Page ${{ inputs.start_page }} to ${{ inputs.end_page }}"
-          python -u scraper/finish_scraper.py --start-page ${{ inputs.start_page }} --end-page ${{ inputs.end_page }} --delay ${{ inputs.delay }} --chapters --images
+          LIMIT_ARG=""
+          if [ "${{ inputs.limit_chapters }}" != "0" ]; then
+            LIMIT_ARG="--limit-chapters ${{ inputs.limit_chapters }}"
+            echo "Limiting to last ${{ inputs.limit_chapters }} chapters"
+          else
+            echo "Scraping ALL chapters (Full Finish)"
+          fi
+
+          python -u scraper/finish_scraper.py --start-page ${{ inputs.start_page }} --end-page ${{ inputs.end_page }} --delay ${{ inputs.delay }} --chapters --images $LIMIT_ARG
 
       - name: Commit and Push Changes
         shell: bash
