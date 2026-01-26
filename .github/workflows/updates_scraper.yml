@@ -1,9 +1,11 @@
 name: Latest Comic Updates
 
 on:
+  push:
+    branches: ["main"]
   schedule:
-    - cron: "0 */3 * * *" # Menjalankan setiap 3 jam sekali
-  workflow_dispatch: # Memungkinkan menjalankan manual dari tab Actions
+    - cron: "0 */4 * * *" # Diubah ke 4 jam sekali untuk memancing trigger ulang
+  workflow_dispatch:
 
 jobs:
   scrape:
