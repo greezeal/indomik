@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-27T07:57:18.679334",
-  "total_comics": 255,
+  "last_updated": "2026-01-27T08:24:53.257571",
+  "total_comics": 258,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2041,6 +2041,30 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "hima-ten",
+      "title": "Komik\n              Hima-Ten!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 75
+    },
+    {
+      "slug": "doomsday-game-rise-of-the-villain",
+      "title": "Komik\n              Doomsday Game: Rise of the Villain",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 29
+    },
+    {
+      "slug": "the-crown-prince-that-sells-medicine",
+      "title": "Komik\n              The Crown Prince That Sells Medicine",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 93
     }
   ]
 }
