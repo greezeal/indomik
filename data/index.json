@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-27T02:10:03.883738",
-  "total_comics": 236,
+  "last_updated": "2026-01-27T03:22:59.476566",
+  "total_comics": 249,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -932,11 +932,11 @@
     },
     {
       "slug": "35-sai-dokushin-yamada-isekai-mura-ni-risou-no-sekando-hausu-o-tsukuritai-%e3%80%9c-isekai-to-genjitsu-no-ii-tokodori-raifu-%e3%80%9c",
-      "title": "Komik\n              35-sai dokushin Yamada, isekai mura ni risou no sekando hausu o tsukuritai 〜 isekai to genjitsu no ii tokodori raifu 〜",
+      "title": "35-sai dokushin Yamada, isekai mura ni risou no sekando hausu o tsukuritai 〜 isekai to genjitsu no ii tokodori raifu 〜",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 11
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "44th-period-survival-class",
@@ -1889,6 +1889,110 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "931897-reborn-as-the-enemy-prince",
+      "title": "Komik\n              Reborn As The Enemy Prince",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 88
+    },
+    {
+      "slug": "938340-ao-ashi",
+      "title": "Komik\n              Ao Ashi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.12,
+      "total_chapters": 112
+    },
+    {
+      "slug": "shibou-yuugi-de-meshi-wo-kuu",
+      "title": "Komik\n              Shibou Yuugi de Meshi wo Kuu.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 17
+    },
+    {
+      "slug": "178312-fairy-tail-100-years-quest",
+      "title": "Komik\n              Fairy Tail: 100 Years Quest",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.91,
+      "total_chapters": 194
+    },
+    {
+      "slug": "wakaba-sanchi-no-aoi-koi",
+      "title": "Komik\n              Wakaba-sanchi no Aoi Koi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 38
+    },
+    {
+      "slug": "genkai-ol-san-wa-akuyaku-reijou-sama-ni-tsukaetai",
+      "title": "Komik\n              Genkai OL-san wa Akuyaku Reijou-sama ni Tsukaetai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.22,
+      "total_chapters": 18
+    },
+    {
+      "slug": "848042-bocchi-the-rock-gaiden-hiroi-kikuri-no-fukazake-nikki",
+      "title": "Komik\n              Bocchi the Rock! Gaiden – Hiroi Kikuri no Fukazake Nikki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.25,
+      "total_chapters": 79
+    },
+    {
+      "slug": "ruri-dragon",
+      "title": "Komik\n              Ruri Dragon",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 8.11,
+      "total_chapters": 47
+    },
+    {
+      "slug": "391015-uzaki-chan-wa-asobitai",
+      "title": "Komik\n              Uzaki-chan wa Asobitai!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.38,
+      "total_chapters": 145
+    },
+    {
+      "slug": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru",
+      "title": "Komik\n              Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.5,
+      "total_chapters": 43
+    },
+    {
+      "slug": "versatile-sword-cultivator",
+      "title": "Komik\n              Versatile Sword Cultivator",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.41,
+      "total_chapters": 128
+    },
+    {
+      "slug": "the-villain-of-destiny",
+      "title": "Komik\n              The Villain Of Destiny",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 308
+    },
+    {
+      "slug": "113835-the-player-hides-his-past",
+      "title": "Komik\n              The Player Hides His Past",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 105
     }
   ]
 }
