@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-27T23:17:19.048768",
-  "total_comics": 300,
+  "last_updated": "2026-01-27T23:26:52.907491",
+  "total_comics": 328,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1255,7 +1255,7 @@
       "title": "A Dragonslayer’s Peerless Regression",
       "type": "Manhwa",
       "status": "",
-      "rating": 0.0,
+      "rating": 6.5,
       "total_chapters": 0
     },
     {
@@ -2039,7 +2039,7 @@
       "title": "A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished",
       "type": "Manga",
       "status": "",
-      "rating": 0.0,
+      "rating": 7.0,
       "total_chapters": 0
     },
     {
@@ -2401,6 +2401,230 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "a-city-called-nowhere",
+      "title": "Komik\n              A City Called Nowhere",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.09,
+      "total_chapters": 14
+    },
+    {
+      "slug": "a-clean-freak-girls-exception",
+      "title": "Komik\n              A Clean-Freak Girl’s Exception",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.21,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-cliche-story-with-a-childhood-friend-onee-san",
+      "title": "Komik\n              A Cliche Story with a Childhood Friend Onee-san.",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.14,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-comic-artists-survival-guide",
+      "title": "Komik\n              A Comic Artist’s Survival Guide",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.5,
+      "total_chapters": 25
+    },
+    {
+      "slug": "a-cool-type-step-sister-who-is-aiming-at-her-step-brotherss-virginity",
+      "title": "Komik\n              A Cool-Type Step-Sister Who Is Aiming at Her Step-Brothers’s Virginity",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.5,
+      "total_chapters": 6
+    },
+    {
+      "slug": "a-couple-that-might-break-up",
+      "title": "Komik\n              A Couple That Might Break up",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.22,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-crawling-slime-%e2%86%92-a-slime-fell-in-love",
+      "title": "Komik\n              A crawling slime → A slime fell in love",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.71,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-cross-dressing-boy-who-wants-an-excuse-to-cross-dress",
+      "title": "Komik\n              A Cross-dressing Boy Who Wants an Excuse to Cross-dress",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.68,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-crossdressing-aniki-and-his-underling",
+      "title": "Komik\n              A Crossdressing Aniki and His Underling",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.02,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-cute-girlfriend",
+      "title": "Komik\n              A Cute Girlfriend",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.85,
+      "total_chapters": 31
+    },
+    {
+      "slug": "a-cute-guy",
+      "title": "Komik\n              A Cute Guy",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.31,
+      "total_chapters": 8
+    },
+    {
+      "slug": "a-day-in-the-life-of-a-stupid-gyaru-and-a-glamourous-gyaru",
+      "title": "Komik\n              A Day in the Life of a Stupid Gyaru and a Glamourous Gyaru",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-day-like-a-shit",
+      "title": "Komik\n              A Day Like a Shit",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "a-demonic-heart",
+      "title": "Komik\n              A Demonic Heart",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 119
+    },
+    {
+      "slug": "a-devil-with-crippled-wings-falls-in-love-with-a-one-winged-angel",
+      "title": "Komik\n              A Devil With Crippled Wings Falls in Love With a One-Winged Angel",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.23,
+      "total_chapters": 1
+    },
+    {
+      "slug": "990492-a-disaster-class-hero-has-returned",
+      "title": "Komik\n              A Disaster-Class Hero Has Returned",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.54,
+      "total_chapters": 162
+    },
+    {
+      "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
+      "title": "Komik\n              A Disturbing Girlfriend Who Hates Visiting a Shrine for New Year’s Eve",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.24,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-first-year-high-school-boy-whose-hobby-is-cross-dressing",
+      "title": "Komik\n              A First-Year High School Boy Whose Hobby Is Cross-Dressing",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.47,
+      "total_chapters": 41
+    },
+    {
+      "slug": "a-friend-with-no-sense-of-personal-space",
+      "title": "Komik\n              A Friend with No Sense of Personal Space",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.43,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-fun-and-friendly-workplace",
+      "title": "Komik\n              A Fun and Friendly Workplace",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.66,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-gate-opened-on-my-first-day-as-a-politician",
+      "title": "Komik\n              A Gate Opened on my First Day as a Politician",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 39
+    },
+    {
+      "slug": "a-genius-writers-random-workplace",
+      "title": "Komik\n              A Genius Writer’s Random Workplace",
+      "type": "Manhwa",
+      "status": "Tamat",
+      "rating": 6.48,
+      "total_chapters": 100
+    },
+    {
+      "slug": "a-ghost-and-the-life-of-a-girl",
+      "title": "Komik\n              A Ghost and the Life of a Girl",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.33,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-girl-confesses-her-feelings-with-the-help-of-alcohol",
+      "title": "Komik\n              A Girl Confesses Her Feelings With the Help of Alcohol",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.29,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-girl-meets-sex-toys-akane-oguri-indulge-in-onanism",
+      "title": "Komik\n              A Girl Meets Sex Toys: Akane Oguri Indulge In Onanism",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.76,
+      "total_chapters": 4
+    },
+    {
+      "slug": "a-girl-sleeping-at-school",
+      "title": "Komik\n              A Girl Sleeping at School",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.51,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-girl-that-can-see-ghosts",
+      "title": "Komik\n              A Girl That Can See Ghosts",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-girl-who-hasnt-adjusted-to-life-in-tokyo",
+      "title": "Komik\n              A Girl Who Hasn’t Adjusted to Life in Tokyo",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.4,
+      "total_chapters": 1
     }
   ]
 }
