@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-27T05:29:13.011296",
-  "total_comics": 249,
+  "last_updated": "2026-01-27T05:44:53.657226",
+  "total_comics": 255,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1993,6 +1993,54 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "age-of-terror",
+      "title": "Komik\n              Age of Terror",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 298
+    },
+    {
+      "slug": "welcome-to-cheap-restaurant-of-outcasts",
+      "title": "Komik\n              Welcome to Cheap Restaurant of Outcasts!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.85,
+      "total_chapters": 60
+    },
+    {
+      "slug": "hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
+      "title": "Komik\n              Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.08,
+      "total_chapters": 97
+    },
+    {
+      "slug": "enishi-kun-wa-masho-harem-taishitsu-ni-mezamemashita",
+      "title": "Komik\n              Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 38
+    },
+    {
+      "slug": "somebody-stop-the-pope",
+      "title": "Komik\n              Somebody Stop the Pope",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 60
+    },
+    {
+      "slug": "a-court-magician-who-was-focused-on-supportive-magic-because-his-allies-were-too-weak-aims-to-become-the-strongest-after-being-banished",
+      "title": "Komik\n              A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 185
     }
   ]
 }
