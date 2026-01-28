@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-28T05:22:15.027037",
-  "total_comics": 328,
+  "last_updated": "2026-01-28T05:54:12.532340",
+  "total_comics": 343,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2625,6 +2625,126 @@
       "status": "",
       "rating": 7.4,
       "total_chapters": 0
+    },
+    {
+      "slug": "the-return-of-the-mythical-archmage",
+      "title": "Komik\n              The Return of the Mythical Archmage",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 79
+    },
+    {
+      "slug": "devious-son-of-heaven",
+      "title": "Komik\n              Devious Son Of Heaven",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 155
+    },
+    {
+      "slug": "riches-cant-buy-loyalty",
+      "title": "Komik\n              Riches Can’t Buy Loyalty",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 70
+    },
+    {
+      "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
+      "title": "Komik\n              To Hell With Being A Saint, I’m A Doctor",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.8,
+      "total_chapters": 147
+    },
+    {
+      "slug": "seoul-ghost-story-civil-complaints-department",
+      "title": "Komik\n              Seoul Ghost Story Civil Complaints Department",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 10
+    },
+    {
+      "slug": "the-wandering-knights-survival-manual",
+      "title": "Komik\n              The Wandering Knight’s Survival Manual",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 22
+    },
+    {
+      "slug": "reincarnated-as-the-archdukes-son",
+      "title": "Komik\n              Reincarnated as the Archduke’s Son",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.17,
+      "total_chapters": 15
+    },
+    {
+      "slug": "the-youngest-hides-way-too-much",
+      "title": "Komik\n              The Youngest Hides Way Too Much",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.16,
+      "total_chapters": 27
+    },
+    {
+      "slug": "heavenly-demon-tavern",
+      "title": "Komik\n              Heavenly Demon Tavern",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "return-of-the-apocalypse-class-death-knight",
+      "title": "Komik\n              Return Of The Apocalypse-Class Death Knight",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.17,
+      "total_chapters": 55
+    },
+    {
+      "slug": "peerless-soul",
+      "title": "Komik\n              Peerless Soul",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.44,
+      "total_chapters": 725
+    },
+    {
+      "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
+      "title": "Komik\n              Garbage Brave: Isekai ni Shoukan Sare Suterareta Yuusha no Fukushuu Monogatari",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.91,
+      "total_chapters": 52
+    },
+    {
+      "slug": "kiraware-majo-to-karada-ga-irekawatta-keredo-watashi-wa-kyou-mo-genki-ni-kurashiteimasu",
+      "title": "Komik\n              Kiraware Majo to Karada ga Irekawatta Keredo, Watashi wa Kyou mo Genki ni Kurashiteimasu!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 10
+    },
+    {
+      "slug": "846048-eleceed",
+      "title": "Komik\n              Eleceed",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.89,
+      "total_chapters": 387
+    },
+    {
+      "slug": "god-of-martial-arts",
+      "title": "Komik\n              God of Martial Arts",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.84,
+      "total_chapters": 1038
     }
   ]
 }
