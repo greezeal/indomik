@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-28T11:21:36.642150",
-  "total_comics": 343,
+  "last_updated": "2026-01-28T11:36:14.859892",
+  "total_comics": 352,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2745,6 +2745,78 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
+      "title": "Komik\n              The Heavenly Demon Can’t Live a Normal Life",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 187
+    },
+    {
+      "slug": "151515-omniscient-readers-viewpoint",
+      "title": "Komik\n              Omniscient Reader’s Viewpoint",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 9.17,
+      "total_chapters": 302
+    },
+    {
+      "slug": "744328-the-dark-magician-transmigrates-after-66666-years",
+      "title": "Komik\n              The Dark Magician Transmigrates After 66666 Years",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 168
+    },
+    {
+      "slug": "sword-devouring-swordmaster",
+      "title": "Komik\n              Sword Devouring Swordmaster",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.5,
+      "total_chapters": 13
+    },
+    {
+      "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
+      "title": "Komik\n              Mob Shisai Dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine wo Ikusei Shimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.34,
+      "total_chapters": 5
+    },
+    {
+      "slug": "master-of-all-skills",
+      "title": "Komik\n              Master of All Skills",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 44
+    },
+    {
+      "slug": "lord-of-summons-sudden-mutation",
+      "title": "Komik\n              Lord of Summons! Sudden Mutation",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 80
+    },
+    {
+      "slug": "my-simulated-path-to-immortality",
+      "title": "Komik\n              My Simulated Path to Immortality",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.6,
+      "total_chapters": 29
+    },
+    {
+      "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
+      "title": "Komik\n              Golden Core Is a Star You Call This Cultivating Immortality",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 19
     }
   ]
 }
