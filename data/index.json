@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T01:13:00.103774",
-  "total_comics": 384,
+  "last_updated": "2026-01-29T01:33:43.022706",
+  "total_comics": 413,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -95,7 +95,7 @@
       "title": "A Hero Who Does Everything Well",
       "type": "Manhwa",
       "status": "",
-      "rating": 0.0,
+      "rating": 7.19,
       "total_chapters": 0
     },
     {
@@ -3073,6 +3073,238 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "a-girl-who-only-appears-on-snowy-days",
+      "title": "Komik\n              A Girl Who Only Appears on Snowy Days",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-girl-whose-breasts-are-a-little-big-and-is-kinda-pretty",
+      "title": "Komik\n              A Girl Whose Breasts Are a Little Big and Is Kinda Pretty",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 3
+    },
+    {
+      "slug": "305456-a-girl-whose-dark-circles-in-her-eyes-disappear-as-the-story-progresses",
+      "title": "Komik\n              A Girl Whose Dark Circles in Her Eyes Disappear As the Story Progresses.",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.68,
+      "total_chapters": 13
+    },
+    {
+      "slug": "732676-a-girl-with-a-high-melting-point",
+      "title": "Komik\n              A Girl With a High Melting Point.",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.24,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-girl-with-abnormally-sensitive-ears",
+      "title": "Komik\n              A Girl With Abnormally Sensitive Ears",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.35,
+      "total_chapters": 1
+    },
+    {
+      "slug": "844843-a-grandcross-story",
+      "title": "Komik\n              A Grandcross Story",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 8
+    },
+    {
+      "slug": "a-guide-to-proper-dating",
+      "title": "Komik\n              A Guide to Proper Dating",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.44,
+      "total_chapters": 103
+    },
+    {
+      "slug": "272927-a-guide-to-the-right-life-for-rankers",
+      "title": "Komik\n              A Guide to the Right Life for Rankers",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.27,
+      "total_chapters": 19
+    },
+    {
+      "slug": "a-gyaru-and-otaku-who-have-entered-a-school-where-they-will-have-to-dropout-if-they-cannot-get-a-lover",
+      "title": "Komik\n              A Gyaru and Otaku who have entered a school where they will have to dropout if they cannot get a lover!",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-heartfelt-andante",
+      "title": "Komik\n              A Heartfelt Andante",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.22,
+      "total_chapters": 11
+    },
+    {
+      "slug": "a-helpless-childhood-friend",
+      "title": "Komik\n              A Helpless Childhood Friend",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.43,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-hero-with-a-dissociative-disorder",
+      "title": "Komik\n              A Hero With a Dissociative Disorder",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.02,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-heroic-tale-about-starting-with-a-personal-relations-cheat-ability-and-letting-others-do-the-job",
+      "title": "Komik\n              A Heroic Tale About Starting With a Personal Relations Cheat (Ability) and Letting Others Do the Job",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.39,
+      "total_chapters": 7
+    },
+    {
+      "slug": "a-high-school-girl-and-a-private-teacher",
+      "title": "Komik\n              A High School Girl and a Private Teacher",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.03,
+      "total_chapters": 10
+    },
+    {
+      "slug": "a-kouhai-who-always-has-a-poker-face-challenged-me-to-a-game-of-old-maid",
+      "title": "Komik\n              A Kouhai Who Always Has A Poker Face Challenged Me to A Game of Old Maid",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 8.28,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-lanterns-light",
+      "title": "Komik\n              A Lantern’s Light",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.98,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-lawyer-killler-killer-lawyer",
+      "title": "Komik\n              A Lawyer Killler (Killer Lawyer)",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
+    },
+    {
+      "slug": "a-lazy-guy-woke-up-as-a-girl-one-morning",
+      "title": "Komik\n              A Lazy Guy Woke Up as a Girl One Morning",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.36,
+      "total_chapters": 28
+    },
+    {
+      "slug": "a-little-secret-recipe",
+      "title": "Komik\n              A Little Secret Recipe",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.96,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-lost-child-taken-away",
+      "title": "Komik\n              A Lost Child Taken Away",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.27,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-maid-with-special-circumstances-and-the-young-miss-who-wants-to-get-along",
+      "title": "Komik\n              A Maid With Special Circumstances and the Young Miss Who Wants to Get Along",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 2
+    },
+    {
+      "slug": "a-man-meets-a-kuchisake-onna",
+      "title": "Komik\n              A man meets a kuchisake onna",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 6.61,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-manga-about-a-gyaru-that-loves-a-gyaru-thats-friendly-to-otaku",
+      "title": "Komik\n              A Manga About A Gyaru That Loves a Gyaru That’s Friendly to Otaku",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-manga-where-the-cutest-girl-in-my-school-might-like-me",
+      "title": "Komik\n              A manga where the cutest girl in my school might like me",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.63,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-manga-world-that-gets-one-page-once-a-year",
+      "title": "Komik\n              A Manga World That Gets One Page Once a Year",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.26,
+      "total_chapters": 5
+    },
+    {
+      "slug": "a-manhwa-about-dating-a-disabled-girl",
+      "title": "Komik\n              A Manhwa About Dating a Disabled Girl",
+      "type": "Manhwa",
+      "status": "Tamat",
+      "rating": 7.28,
+      "total_chapters": 1
+    },
+    {
+      "slug": "a-million-sub-gym-influencer-becomes-a-webtoon-loser",
+      "title": "Komik\n              A Million-Sub Gym Influencer Becomes A Webtoon Loser?",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 14
+    },
+    {
+      "slug": "a-mistress-who-tempts-her-maid",
+      "title": "Komik\n              A Mistress Who Tempts Her Maid",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.04,
+      "total_chapters": 10
+    },
+    {
+      "slug": "a-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-who-i-used-to-play-with-thinking-she-was-a-boy",
+      "title": "Komik\n              A Neat and Pretty Girl at My New School Is a Childhood Friend Who I Used To Play With Thinking She Was a Boy",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 37
     }
   ]
 }
