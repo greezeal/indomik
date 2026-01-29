@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T10:52:41.122560",
-  "total_comics": 450,
+  "last_updated": "2026-01-29T11:37:05.164354",
+  "total_comics": 474,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -559,7 +559,7 @@
       "title": "“Jako ni wa Kaji ga Oniaida www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshoku suru – Saikyou de Musou Shinagara Guild de Tanoshiku Kurashimasu",
       "type": "Manga",
       "status": "",
-      "rating": 6.52,
+      "rating": 0.0,
       "total_chapters": 0
     },
     {
@@ -3601,6 +3601,198 @@
       "status": "Berjalan",
       "rating": 6.73,
       "total_chapters": 3
+    },
+    {
+      "slug": "breakers",
+      "title": "Komik\n              Breakers",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 50
+    },
+    {
+      "slug": "tang-clan-legend",
+      "title": "Komik\n              Tang Clan Legend",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
+    },
+    {
+      "slug": "653378-skeleton-soldier-couldnt-protect-the-dungeon",
+      "title": "Komik\n              Skeleton Soldier Couldn’t Protect the Dungeon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.13,
+      "total_chapters": 366
+    },
+    {
+      "slug": "701827-emperor-of-solo-play",
+      "title": "Komik\n              Emperor of Solo Play",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.14,
+      "total_chapters": 51
+    },
+    {
+      "slug": "trait-hoarder",
+      "title": "Komik\n              Trait Hoarder",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 75
+    },
+    {
+      "slug": "reborn-on-the-demonic-cult-battlefield",
+      "title": "Komik\n              Reborn on the Demonic Cult Battlefield",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 27
+    },
+    {
+      "slug": "special-civil-servant",
+      "title": "Komik\n              Special Civil Servant",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 50
+    },
+    {
+      "slug": "905942-reincarnated-escort-warrior",
+      "title": "Komik\n              Reincarnated Escort Warrior",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 139
+    },
+    {
+      "slug": "undead-unluck",
+      "title": "Komik\n              Undead Unluck",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.78,
+      "total_chapters": 80
+    },
+    {
+      "slug": "ato-wa-gojiyuu-ni-douzo-tutorial-de-kami-sama-ga-last-boss-wo-taoshi-chatta-node-watashi-wa-suki-houdai-ikiteiku",
+      "title": "Komik\n              Ato wa Gojiyuu ni Douzo! ~Tutorial de Kami-sama ga Last Boss wo Taoshi Chatta node Watashi wa Suki Houdai Ikiteiku~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 12
+    },
+    {
+      "slug": "tensei-shite-high-elf-ni-narimashitaga-slow-life-wa-120-nen-de-akimashita",
+      "title": "Komik\n              Tensei Shite High Elf ni Narimashitaga, Slow Life wa 120-nen de Akimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 43
+    },
+    {
+      "slug": "touhou-chireikiden-hansoku-tantei-satori",
+      "title": "Komik\n              Touhou Chireikiden ~ Hansoku Tantei Satori",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 8
+    },
+    {
+      "slug": "the-counts-youngest-son-is-a-player",
+      "title": "Komik\n              The Count’s Youngest Son Is A Player",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 142
+    },
+    {
+      "slug": "tamagawa-san-detemashita",
+      "title": "Komik\n              Tamagawa-san Detemashita?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "legend-of-star-general",
+      "title": "Komik\n              Legend of Star General",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 349
+    },
+    {
+      "slug": "lostend",
+      "title": "Komik\n              LOSTEND",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 34
+    },
+    {
+      "slug": "get-some-honey-by-copying-skills",
+      "title": "Komik\n              Get Some Honey by Copying Skills",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.77,
+      "total_chapters": 15
+    },
+    {
+      "slug": "706428-genius-martial-arts-trainer",
+      "title": "Komik\n              Genius Martial Arts Trainer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 93
+    },
+    {
+      "slug": "gal-yome-no-himitsu",
+      "title": "Komik\n              Gal Yome no Himitsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.26,
+      "total_chapters": 55
+    },
+    {
+      "slug": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru",
+      "title": "Komik\n              Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 175
+    },
+    {
+      "slug": "im-the-hero-but-the-main-heroines-are-trying-to-kill-me",
+      "title": "Komik\n              Im the Hero but the Main Heroines Are Trying to Kill Me",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 37
+    },
+    {
+      "slug": "826573-ill-retire-after-saving-the-world",
+      "title": "Komik\n              I’ll Retire After Saving the World",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 84
+    },
+    {
+      "slug": "high-school-musical-genius-is-paganini-reincarnated",
+      "title": "Komik\n              High School Musical Genius Is Paganini Reincarnated",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 80
+    },
+    {
+      "slug": "103355-shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+      "title": "Komik\n              Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.61,
+      "total_chapters": 252
     }
   ]
 }
