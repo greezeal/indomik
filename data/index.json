@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T14:18:19.458053",
+  "last_updated": "2026-01-29T15:08:11.107414",
   "total_comics": 485,
   "comics": [
     {
@@ -3852,35 +3852,35 @@
     },
     {
       "slug": "kaji-daikou-no-arubaito-wo-hajimetara-gakuen-ichi-no-bishoujo-no-kazoku-ni-kiniirarechaimashita",
-      "title": "Komik\n              Kaji Daikou no Arubaito wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiniirarechaimashita",
+      "title": "Kaji Daikou no Arubaito wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiniirarechaimashita",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.88,
-      "total_chapters": 14
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "562437-kanojo-okarishimasu",
-      "title": "Komik\n              Kanojo, Okarishimasu",
+      "title": "Kanojo, Okarishimasu",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.34,
-      "total_chapters": 411
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "uesugi-kun-wa-onnanoko-wo-yametai",
-      "title": "Komik\n              Uesugi-kun wa Onnanoko wo Yametai",
+      "title": "Uesugi-kun wa Onnanoko wo Yametai",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.3,
-      "total_chapters": 31
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "futari-bus",
-      "title": "Komik\n              Futari Bus",
+      "title": "Futari Bus",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.4,
-      "total_chapters": 16
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
