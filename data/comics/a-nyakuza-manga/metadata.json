@@ -1,0 +1,32 @@
+{
+  "slug": "a-nyakuza-manga",
+  "title": "Komik\n              A Nyakuza Manga",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYS1ueWFrdXphLW1hbmdhLw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDUvS29taWstQS1OeWFrdXphLU1hbmdhLTIyOHgzMTkucG5n",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.82,
+  "scraped_at": "2026-01-29T06:04:26.592833",
+  "alternative_titles": "Nyakuza no manga desu., This is a Nyakuza Manga., にゃくざの漫画です。",
+  "status": "Tamat",
+  "author": "Kotobuki",
+  "illustrator": "Kotobuki",
+  "themes": [
+    "Animals",
+    "Mafia"
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "synopsis": "Manga                    A Nyakuza Manga yang dibuat oleh komikus bernama\n                    Kotobuki ini bercerita tentang\n                    Ini adalah Manga Nyakuza.",
+  "chapters": [
+    {
+      "chapter": "00",
+      "title": "Komik A Nyakuza Manga Chapter 00",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1ueWFrdXphLW1hbmdhLWNoYXB0ZXItMDAv",
+      "date": "3 tahun yang lalu"
+    }
+  ],
+  "total_chapters": 1
+}
