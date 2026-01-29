@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T04:59:50.499537",
+  "last_updated": "2026-01-29T05:44:24.726020",
   "total_comics": 420,
   "comics": [
     {
@@ -3308,59 +3308,59 @@
     },
     {
       "slug": "royal-family",
-      "title": "Komik\n              Royal Family",
+      "title": "Royal Family",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 3
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "martial-evolution-start-by-awakening-the-king-of-monsters",
-      "title": "Komik\n              Martial Evolution: Start by Awakening the King of Monsters",
+      "title": "Martial Evolution: Start by Awakening the King of Monsters",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 89
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "i-am-with-the-music-immortals",
-      "title": "Komik\n              I Am With the Music Immortals",
+      "title": "I Am With the Music Immortals",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 6.57,
-      "total_chapters": 111
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "mirror-mong-woo",
-      "title": "Komik\n              Mirror (Mong-woo)",
+      "title": "Mirror (Mong-woo)",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 12
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "477459-absolute-sword-sense",
-      "title": "Komik\n              Absolute Sword Sense",
+      "title": "Absolute Sword Sense",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.01,
-      "total_chapters": 168
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "i-start-with-13-hidden-traits",
-      "title": "Komik\n              I Start With 13 Hidden Traits",
+      "title": "I Start With 13 Hidden Traits",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 15
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-demon-god",
-      "title": "Komik\n              The Demon God",
+      "title": "The Demon God",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 3
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
