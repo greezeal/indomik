@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T16:43:25.347247",
+  "last_updated": "2026-01-29T17:29:40.579123",
   "total_comics": 490,
   "comics": [
     {
@@ -3884,43 +3884,43 @@
     },
     {
       "slug": "729096-shinka-tokusei-de-saikyou-necromancer",
-      "title": "Komik\n              Shinka Tokusei de Saikyou Necromancer",
+      "title": "Shinka Tokusei de Saikyou Necromancer",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 109
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "in-the-face-of-mental-illness-ghosts-are-nothing",
-      "title": "Komik\n              In the Face of Mental Illness, Ghosts Are Nothing",
+      "title": "In the Face of Mental Illness, Ghosts Are Nothing",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 6.81,
-      "total_chapters": 145
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "reverend-insanity-remake",
-      "title": "Komik\n              Reverend Insanity (Remake)",
+      "title": "Reverend Insanity (Remake)",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 15
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "925565-player-from-today-onwards",
-      "title": "Komik\n              Player From Today Onwards",
+      "title": "Player From Today Onwards",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.24,
-      "total_chapters": 136
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "my-wife-is-from-a-thousand-years-ago",
-      "title": "Komik\n              My Wife Is From a Thousand Years Ago",
+      "title": "My Wife Is From a Thousand Years Ago",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 447
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
