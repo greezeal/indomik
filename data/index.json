@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T12:06:28.216987",
-  "total_comics": 474,
+  "last_updated": "2026-01-29T13:27:18.050885",
+  "total_comics": 481,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -3793,6 +3793,62 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "surviving-as-a-genius-on-borrowed-time",
+      "title": "Komik\n              Surviving as a Genius on Borrowed Time",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 71
+    },
+    {
+      "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
+      "title": "Komik\n              The Heavenly Demon Wants A Quiet Life",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 67
+    },
+    {
+      "slug": "the-delivery-man-from-murim",
+      "title": "Komik\n              The Delivery Man From Murim",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 88
+    },
+    {
+      "slug": "im-being-misunderstood-as-a-soccer-genius",
+      "title": "Komik\n              I’m Being Misunderstood as a Soccer Genius",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 60
+    },
+    {
+      "slug": "kingdom",
+      "title": "Komik\n              Kingdom",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.26,
+      "total_chapters": 864
+    },
+    {
+      "slug": "yotaka-futatabi",
+      "title": "Komik\n              Yotaka Futatabi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
+      "title": "Komik\n              Koi to Yobu ni wa Sasayaka desu ga",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
     }
   ]
 }
