@@ -31,7 +31,7 @@ jobs:
       - name: Run Scraper (Page 1 Updates)
         shell: bash
         run: |
-          python -u scraper/main_scraper.py --start-page 1 --end-page 1 --chapters --images --delay 2 --limit-chapters 5
+          python -u scraper/main_scraper.py --start-page 1 --end-page 1 --chapters --images --delay 2 --limit-chapters 10
 
       - name: Commit and Push Changes
         shell: bash
