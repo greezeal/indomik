@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T04:15:48.215994",
-  "total_comics": 413,
+  "last_updated": "2026-01-29T04:59:50.499537",
+  "total_comics": 420,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2039,7 +2039,7 @@
       "title": "A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished",
       "type": "Manga",
       "status": "",
-      "rating": 7.0,
+      "rating": 0.0,
       "total_chapters": 0
     },
     {
@@ -3305,6 +3305,62 @@
       "status": "",
       "rating": 7.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "royal-family",
+      "title": "Komik\n              Royal Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "martial-evolution-start-by-awakening-the-king-of-monsters",
+      "title": "Komik\n              Martial Evolution: Start by Awakening the King of Monsters",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 89
+    },
+    {
+      "slug": "i-am-with-the-music-immortals",
+      "title": "Komik\n              I Am With the Music Immortals",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.57,
+      "total_chapters": 111
+    },
+    {
+      "slug": "mirror-mong-woo",
+      "title": "Komik\n              Mirror (Mong-woo)",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
+    },
+    {
+      "slug": "477459-absolute-sword-sense",
+      "title": "Komik\n              Absolute Sword Sense",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.01,
+      "total_chapters": 168
+    },
+    {
+      "slug": "i-start-with-13-hidden-traits",
+      "title": "Komik\n              I Start With 13 Hidden Traits",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
+    },
+    {
+      "slug": "the-demon-god",
+      "title": "Komik\n              The Demon God",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "royal-family",
+  "title": "Komik\n              Royal Family",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvcm95YWwtZmFtaWx5Lw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDEvS29taWstUm95YWwtRmFtaWx5LTIyMHgzMTkuanBn",
+  "type": "Manhwa",
+  "is_colored": true,
+  "rating": 7.0,
+  "scraped_at": "2026-01-29T04:55:41.429350",
+  "alternative_titles": "Gia Tộc Tài Phiệt, 로열패밀리",
+  "status": "Berjalan",
+  "author": "MAJOR Ok, Handol",
+  "illustrator": "Ok Handol",
+  "genres": [
+    "Action",
+    "Drama",
+    "Seinen"
+  ],
+  "synopsis": "Manhwa                    Royal Family yang dibuat oleh komikus bernama\n                    MAJOR Ok, Handol ini bercerita tentang\n                    Kang Jihyuk adalah cucu tertua dari Taesung, konglomerat terbesar di Korea Selatan.\r\n\r\nSeharusnya ia mewarisi semua kekayaan Taesung, tetapi karena konspirasi seseorang, ia kehilangan orang tuanya dan ditinggalkan di panti asuhan.\r\n\r\n20 tahun kemudian, ia kembali ke Taesung dengan nama 'Seo Jihyuk'... dan balas dendamnya pun dimulai.",
+  "chapters": [
+    {
+      "chapter": "03",
+      "title": "Komik Royal Family Chapter 03",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm95YWwtZmFtaWx5LWNoYXB0ZXItMDMv",
+      "date": "9 menit yang lalu"
+    },
+    {
+      "chapter": "02",
+      "title": "Komik Royal Family Chapter 02",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm95YWwtZmFtaWx5LWNoYXB0ZXItMDIv",
+      "date": "9 menit yang lalu"
+    },
+    {
+      "chapter": "01",
+      "title": "Komik Royal Family Chapter 01",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm95YWwtZmFtaWx5LWNoYXB0ZXItMDEv",
+      "date": "9 menit yang lalu"
+    }
+  ],
+  "total_chapters": 3
+}
