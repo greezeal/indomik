@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T23:44:49.964433",
-  "total_comics": 490,
+  "last_updated": "2026-01-30T00:06:54.615670",
+  "total_comics": 499,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -3921,6 +3921,78 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "kimi-wa-yakamashi-tojite-yo-kuchi-wo",
+      "title": "Komik\n              Kimi wa Yakamashi Tojite yo Kuchi wo!",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.56,
+      "total_chapters": 66
+    },
+    {
+      "slug": "the-devil-classroom",
+      "title": "Komik\n              The Devil Classroom",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 10
+    },
+    {
+      "slug": "950565-lookism",
+      "title": "Komik\n              Lookism",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.24,
+      "total_chapters": 594
+    },
+    {
+      "slug": "prepaid-dragon-king-tanks-everything",
+      "title": "Komik\n              Prepaid Dragon King Tanks Everything!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.33,
+      "total_chapters": 27
+    },
+    {
+      "slug": "becoming-a-god-in-apocalypse-glossary",
+      "title": "Komik\n              Becoming a God in Apocalypse Glossary",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.14,
+      "total_chapters": 31
+    },
+    {
+      "slug": "i-took-over-the-academy-with-a-single-sashimi-knife",
+      "title": "Komik\n              I Took Over the Academy With a Single Sashimi Knife",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.34,
+      "total_chapters": 66
+    },
+    {
+      "slug": "559645-the-world-after-the-fall",
+      "title": "Komik\n              The World After the Fall",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 220
+    },
+    {
+      "slug": "absolute-regression",
+      "title": "Komik\n              Absolute Regression",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 86
+    },
+    {
+      "slug": "the-third-prince-of-the-fallen-kingdom-has-regressed",
+      "title": "Komik\n              The Third Prince Of The Fallen Kingdom has Regressed",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 54
     }
   ]
 }
