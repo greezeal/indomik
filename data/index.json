@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T04:27:22.033388",
-  "total_comics": 551,
+  "last_updated": "2026-01-31T05:22:56.618679",
+  "total_comics": 560,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4409,6 +4409,78 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "bad-business",
+      "title": "Komik\n              Bad Business",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "face-genius-0-year-old-top-star",
+      "title": "Komik\n              Face Genius, 0 Year-Old Top Star",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 41
+    },
+    {
+      "slug": "712275-killer-peter",
+      "title": "Komik\n              Killer Peter",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 115
+    },
+    {
+      "slug": "arifureta-shokugyou-de-sekai-saikyou",
+      "title": "Komik\n              Arifureta Shokugyou de Sekai Saikyou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 94
+    },
+    {
+      "slug": "i-am-the-virus-monarch",
+      "title": "Komik\n              I Am the Virus Monarch",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 88
+    },
+    {
+      "slug": "845199-btooom",
+      "title": "Komik\n              BTOOOM!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.43,
+      "total_chapters": 140
+    },
+    {
+      "slug": "the-crazy-genius-composer-returns",
+      "title": "Komik\n              The Crazy Genius Composer Returns",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 95
+    },
+    {
+      "slug": "imasara-desu-ga-osananajimi-wo-suki-ni-natte-shimaimashita",
+      "title": "Komik\n              Imasara desu ga, Osananajimi wo Suki ni Natte Shimaimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 35
+    },
+    {
+      "slug": "kurotsuki-no-yaergnacht",
+      "title": "Komik\n              Kurotsuki no Yaergnacht",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 36
     }
   ]
 }
