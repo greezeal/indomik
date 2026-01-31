@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T08:49:24.661051",
-  "total_comics": 565,
+  "last_updated": "2026-01-31T09:27:16.783914",
+  "total_comics": 573,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4521,6 +4521,70 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "saikyou-de-saisoku-no-mugen-level-up",
+      "title": "Komik\n              Saikyou de Saisoku no Mugen Level Up",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.17,
+      "total_chapters": 68
+    },
+    {
+      "slug": "single-dad-in-another-world",
+      "title": "Komik\n              Single Dad in Another World",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
+    },
+    {
+      "slug": "death-penalty",
+      "title": "Komik\n              Death Penalty",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 80
+    },
+    {
+      "slug": "s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-con-deshita",
+      "title": "Komik\n              S Rank Boukensha de aru Ore no Musume-tachi wa Juudo no Father Con deshita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 58
+    },
+    {
+      "slug": "i-became-the-berserker-of-the-world-i-created",
+      "title": "Komik\n              I Became the Berserker of the World I Created",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore",
+      "title": "Komik\n              Shut Up, Evil Dragon, I Don’t Want to Raise a Child With You Anymore",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 79
+    },
+    {
+      "slug": "colorist",
+      "title": "Komik\n              Colorist",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
+      "title": "Komik\n              Scoring the Sacred Body of the Ancients from the Get-go",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 138
     }
   ]
 }
