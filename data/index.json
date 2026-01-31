@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T10:20:16.771114",
-  "total_comics": 573,
+  "last_updated": "2026-01-31T10:55:54.471145",
+  "total_comics": 579,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4585,6 +4585,54 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "885552-manager-kim",
+      "title": "Komik\n              Manager Kim",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 250
+    },
+    {
+      "slug": "aishiteru-game-wo-owarasetai",
+      "title": "Komik\n              Aishiteru Game wo Owarasetai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 71
+    },
+    {
+      "slug": "osananajimi%e2%99%82-wo-onnanoko-ni-shiteshimatta",
+      "title": "Komik\n              Osananajimi(♂) wo Onnanoko ni Shiteshimatta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.58,
+      "total_chapters": 146
+    },
+    {
+      "slug": "global-gao-wu",
+      "title": "Komik\n              Global Gao Wu",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.73,
+      "total_chapters": 323
+    },
+    {
+      "slug": "reincarnation-of-the-fist-king",
+      "title": "Komik\n              Reincarnation Of The Fist King",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 37
+    },
+    {
+      "slug": "712877-regressor-of-the-fallen-family",
+      "title": "Komik\n              Regressor of the Fallen Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 118
     }
   ]
 }
