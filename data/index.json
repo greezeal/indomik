@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T15:01:09.646097",
-  "total_comics": 582,
+  "last_updated": "2026-01-31T15:41:13.486841",
+  "total_comics": 590,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4657,6 +4657,70 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "548836-eternally-regressing-knight",
+      "title": "Komik\n              Eternally Regressing Knight",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 95
+    },
+    {
+      "slug": "734821-chronicles-of-the-demon-faction",
+      "title": "Komik\n              Chronicles of the Demon Faction",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 156
+    },
+    {
+      "slug": "the-supreme-demon-swordmaster",
+      "title": "Komik\n              The Supreme Demon Swordmaster",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "ogami-tsumiki-to-kinichijou",
+      "title": "Komik\n              Ogami Tsumiki to Kinichijou.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 66
+    },
+    {
+      "slug": "past-life-regressor-2022",
+      "title": "Komik\n              Past Life Regressor (2022)",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.16,
+      "total_chapters": 156
+    },
+    {
+      "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
+      "title": "Komik\n              The Eldest Son of the Marquis House is a Martial Artist",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 34
+    },
+    {
+      "slug": "619762-mookhyang-dark-lady",
+      "title": "Komik\n              MookHyang – Dark Lady",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.25,
+      "total_chapters": 281
+    },
+    {
+      "slug": "the-zero-magic-savior-using-my-unique-skill-to-save-the-world",
+      "title": "Komik\n              The Zero-Magic Savior: Using My Unique Skill to Save the World",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
     }
   ]
 }
