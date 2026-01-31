@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T13:55:15.744941",
+  "last_updated": "2026-01-31T14:36:37.270343",
   "total_comics": 582,
   "comics": [
     {
@@ -4644,19 +4644,19 @@
     },
     {
       "slug": "713196-otherworldly-sword-kings-survival-records",
-      "title": "Komik\n              Otherworldly Sword King’s Survival Records",
+      "title": "Otherworldly Sword King’s Survival Records",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 8.54,
-      "total_chapters": 278
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-demon-slayers-restauran",
-      "title": "Komik\n              The Demon Slayer’s Restaurant",
+      "title": "The Demon Slayer’s Restaurant",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 42
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
