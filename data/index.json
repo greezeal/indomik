@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T07:03:28.074845",
-  "total_comics": 560,
+  "last_updated": "2026-01-31T07:45:48.254625",
+  "total_comics": 565,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4481,6 +4481,46 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "kininatteru-hito-ga-otoko-jyanakatta",
+      "title": "Komik\n              Kininatteru Hito ga Otoko Jyanakatta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.05,
+      "total_chapters": 105
+    },
+    {
+      "slug": "455620-return-of-the-high-ranking-civil-servant",
+      "title": "Komik\n              Return of the High-Ranking Civil Servant",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 76
+    },
+    {
+      "slug": "voice-phishing-turns-your-life-around",
+      "title": "Komik\n              Voice Phishing Turns Your Life Around",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 71
+    },
+    {
+      "slug": "tsuihou-sareta-tenshou-juu-kishi-ha-gemu-chishiki-de-musou-suru",
+      "title": "Komik\n              Tsuihou Sareta Tenshou Juu Kishi ha Gemu chishiki de Musou Suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 147
+    },
+    {
+      "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
+      "title": "Komik\n              Moto Yuusha Wa Shizuka Ni Kurashitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 72
     }
   ]
 }
