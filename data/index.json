@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T13:10:16.614033",
-  "total_comics": 580,
+  "last_updated": "2026-01-31T13:55:15.744941",
+  "total_comics": 582,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -364,11 +364,11 @@
     },
     {
       "slug": "archmage-curriculum",
-      "title": "Komik\n              Archmage Curriculum",
+      "title": "Archmage Curriculum",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 13
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "evolution-begins-with-a-big-tree",
@@ -4641,6 +4641,22 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "713196-otherworldly-sword-kings-survival-records",
+      "title": "Komik\n              Otherworldly Sword King’s Survival Records",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.54,
+      "total_chapters": 278
+    },
+    {
+      "slug": "the-demon-slayers-restauran",
+      "title": "Komik\n              The Demon Slayer’s Restaurant",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 42
     }
   ]
 }
