@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T11:45:27.887747",
+  "last_updated": "2026-01-31T12:00:29.001245",
   "total_comics": 580,
   "comics": [
     {
@@ -4636,11 +4636,11 @@
     },
     {
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
-      "title": "Komik\n              Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+      "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 1
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
