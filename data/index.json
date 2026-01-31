@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T07:45:48.254625",
+  "last_updated": "2026-01-31T08:04:36.348683",
   "total_comics": 565,
   "comics": [
     {
@@ -4484,43 +4484,43 @@
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
-      "title": "Komik\n              Kininatteru Hito ga Otoko Jyanakatta",
+      "title": "Kininatteru Hito ga Otoko Jyanakatta",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 8.05,
-      "total_chapters": 105
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "455620-return-of-the-high-ranking-civil-servant",
-      "title": "Komik\n              Return of the High-Ranking Civil Servant",
+      "title": "Return of the High-Ranking Civil Servant",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 76
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "voice-phishing-turns-your-life-around",
-      "title": "Komik\n              Voice Phishing Turns Your Life Around",
+      "title": "Voice Phishing Turns Your Life Around",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 71
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "tsuihou-sareta-tenshou-juu-kishi-ha-gemu-chishiki-de-musou-suru",
-      "title": "Komik\n              Tsuihou Sareta Tenshou Juu Kishi ha Gemu chishiki de Musou Suru",
+      "title": "Tsuihou Sareta Tenshou Juu Kishi ha Gemu chishiki de Musou Suru",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 147
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
-      "title": "Komik\n              Moto Yuusha Wa Shizuka Ni Kurashitai",
+      "title": "Moto Yuusha Wa Shizuka Ni Kurashitai",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 72
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
