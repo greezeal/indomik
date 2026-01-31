@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T00:02:48.131291",
-  "total_comics": 545,
+  "last_updated": "2026-01-31T02:49:59.916386",
+  "total_comics": 551,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4361,6 +4361,54 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "250964-the-extras-academy-survival-guide",
+      "title": "Komik\n              The Extra’s Academy Survival Guide",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 90
+    },
+    {
+      "slug": "345461-overgeared",
+      "title": "Komik\n              Overgeared",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.59,
+      "total_chapters": 311
+    },
+    {
+      "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
+      "title": "Komik\n              Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 8
+    },
+    {
+      "slug": "inko-demo-seishun-shitai",
+      "title": "Komik\n              Inko demo Seishun Shitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.32,
+      "total_chapters": 19
+    },
+    {
+      "slug": "the-demonic-sect-masters-secret-apprentice",
+      "title": "Komik\n              The Demonic Sect Master’s Secret Apprentice",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 24
+    },
+    {
+      "slug": "one-piece-id",
+      "title": "Komik\n              One Piece",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.33,
+      "total_chapters": 1218
     }
   ]
 }
