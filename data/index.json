@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T10:55:54.471145",
+  "last_updated": "2026-01-31T11:18:12.776851",
   "total_comics": 579,
   "comics": [
     {
@@ -4588,51 +4588,51 @@
     },
     {
       "slug": "885552-manager-kim",
-      "title": "Komik\n              Manager Kim",
+      "title": "Manager Kim",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 250
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "aishiteru-game-wo-owarasetai",
-      "title": "Komik\n              Aishiteru Game wo Owarasetai",
+      "title": "Aishiteru Game wo Owarasetai",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 71
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "osananajimi%e2%99%82-wo-onnanoko-ni-shiteshimatta",
-      "title": "Komik\n              Osananajimi(♂) wo Onnanoko ni Shiteshimatta",
+      "title": "Osananajimi(♂) wo Onnanoko ni Shiteshimatta",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 8.58,
-      "total_chapters": 146
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "global-gao-wu",
-      "title": "Komik\n              Global Gao Wu",
+      "title": "Global Gao Wu",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.73,
-      "total_chapters": 323
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "reincarnation-of-the-fist-king",
-      "title": "Komik\n              Reincarnation Of The Fist King",
+      "title": "Reincarnation Of The Fist King",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 37
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "712877-regressor-of-the-fallen-family",
-      "title": "Komik\n              Regressor of the Fallen Family",
+      "title": "Regressor of the Fallen Family",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 118
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
