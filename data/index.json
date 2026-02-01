@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-01T16:02:12.777221",
-  "total_comics": 627,
+  "last_updated": "2026-02-01T16:47:47.698762",
+  "total_comics": 630,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -12,11 +12,11 @@
     },
     {
       "slug": "151235-reincarnation-of-the-murim-clans-former-ranker",
-      "title": "Komik\n              Reincarnation of the Murim Clan’s Former Ranker",
+      "title": "Reincarnation of the Murim Clan’s Former Ranker",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 186
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "226919-academys-undercover-professor",
@@ -1703,7 +1703,7 @@
       "title": "A Cadet Becomes A Prophet?!",
       "type": "Manhwa",
       "status": "",
-      "rating": 7.0,
+      "rating": 0.0,
       "total_chapters": 0
     },
     {
@@ -5017,6 +5017,30 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "my-unbeatable-passive-skill-lets-me-deal-massive-damage",
+      "title": "Komik\n              My Unbeatable Passive Skill Lets Me Deal Massive Damage!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 100
+    },
+    {
+      "slug": "im-a-super-rich-guy-so-its-reasonable-for-me-to-be-a-scumbag",
+      "title": "Komik\n              I’m a Super Rich Guy, So It’s Reasonable For Me to Be a Scumbag",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 24
+    },
+    {
+      "slug": "infinite-level-up-in-murim",
+      "title": "Komik\n              Infinite Level Up in Murim",
+      "type": "Manhwa",
+      "status": "Tamat",
+      "rating": 8.07,
+      "total_chapters": 251
     }
   ]
 }
