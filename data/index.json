@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-01T07:18:07.828823",
-  "total_comics": 612,
+  "last_updated": "2026-02-01T07:58:22.897229",
+  "total_comics": 613,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -388,11 +388,11 @@
     },
     {
       "slug": "beethoven-reborn",
-      "title": "Komik\n              Beethoven Reborn",
+      "title": "Beethoven Reborn",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 87
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
@@ -4876,27 +4876,35 @@
     },
     {
       "slug": "284443-meccha-shoukan-sareta-ken",
-      "title": "Komik\n              Meccha Shoukan Sareta Ken",
+      "title": "Meccha Shoukan Sareta Ken",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 8.67,
-      "total_chapters": 73
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "what-a-bountiful-harvest-demon-lord",
-      "title": "Komik\n              What a Bountiful Harvest, Demon Lord!",
+      "title": "What a Bountiful Harvest, Demon Lord!",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 52
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "office-worker-who-sees-fate",
-      "title": "Komik\n              Office Worker Who Sees Fate",
+      "title": "Office Worker Who Sees Fate",
       "type": "Manhwa",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "isekai-ojisan",
+      "title": "Komik\n              Isekai Ojisan",
+      "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.25,
-      "total_chapters": 163
+      "rating": 7.91,
+      "total_chapters": 102
     }
   ]
 }
