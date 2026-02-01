@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-01T06:18:28.842413",
-  "total_comics": 609,
+  "last_updated": "2026-02-01T07:18:07.828823",
+  "total_comics": 612,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4873,6 +4873,30 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "284443-meccha-shoukan-sareta-ken",
+      "title": "Komik\n              Meccha Shoukan Sareta Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.67,
+      "total_chapters": 73
+    },
+    {
+      "slug": "what-a-bountiful-harvest-demon-lord",
+      "title": "Komik\n              What a Bountiful Harvest, Demon Lord!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 52
+    },
+    {
+      "slug": "office-worker-who-sees-fate",
+      "title": "Komik\n              Office Worker Who Sees Fate",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 163
     }
   ]
 }
