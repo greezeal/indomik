@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-02T09:05:11.635174",
-  "total_comics": 630,
+  "last_updated": "2026-02-02T10:18:14.986450",
+  "total_comics": 649,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -5041,6 +5041,158 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "issho-watashi-no-joshu-de-ite",
+      "title": "Komik\n              Issho Watashi no Joshu de ite!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 12
+    },
+    {
+      "slug": "ore-yuusha-janai-desu-kara-vr-sekai-no-chouten-ni-kunrin-seshi-otoko-tenseishi-level-1-no-mushoku-kara-restart-suru",
+      "title": "Komik\n              Ore, Yuusha janai desu kara. – VR Sekai no Chouten ni Kunrin Seshi Otoko. Tenseishi, Level 1 no Mushoku kara Restart suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.63,
+      "total_chapters": 45
+    },
+    {
+      "slug": "963068-god-of-blackfield",
+      "title": "Komik\n              God of Blackfield",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.13,
+      "total_chapters": 304
+    },
+    {
+      "slug": "kajiya-de-hajimeru-isekai-slow-life",
+      "title": "Komik\n              Kajiya de Hajimeru Isekai Slow Life",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.56,
+      "total_chapters": 33
+    },
+    {
+      "slug": "the-boss-is-too-strong",
+      "title": "Komik\n              The Boss Is Too Strong",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 22
+    },
+    {
+      "slug": "898970-regressor-instruction-manual",
+      "title": "Komik\n              Regressor Instruction Manual",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 175
+    },
+    {
+      "slug": "shinobi-undercover",
+      "title": "Komik\n              Shinobi Undercover",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.41,
+      "total_chapters": 66
+    },
+    {
+      "slug": "sekai-ni-hitori-zenzokusei-mahou-no-tsukaite",
+      "title": "Komik\n              Sekai ni Hitori, Zenzokusei Mahou no Tsukaite",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 48
+    },
+    {
+      "slug": "blood-wing-hunter",
+      "title": "Komik\n              Blood Wing Hunter",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
+    },
+    {
+      "slug": "perhaps-invincible",
+      "title": "Komik\n              Perhaps Invincible",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.27,
+      "total_chapters": 29
+    },
+    {
+      "slug": "become-the-lord-of-cthulhu",
+      "title": "Komik\n              Become The Lord Of Cthulhu",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.81,
+      "total_chapters": 33
+    },
+    {
+      "slug": "the-dark-swordsman-returns",
+      "title": "Komik\n              The Dark Swordsman Returns",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 34
+    },
+    {
+      "slug": "130565-playing-the-perfect-fox-eyed-villain",
+      "title": "Komik\n              Playing the Perfect Fox-Eyed Villain",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 48
+    },
+    {
+      "slug": "266533-apocalyptic-chef-awakening",
+      "title": "Komik\n              Apocalyptic Chef Awakening",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.02,
+      "total_chapters": 96
+    },
+    {
+      "slug": "breaking-into-the-body-of-the-emperors-daughter",
+      "title": "Komik\n              Breaking Into The Body of The Emperor’s Daughter",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 66
+    },
+    {
+      "slug": "a-thousand-faces",
+      "title": "Komik\n              A Thousand Faces",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 57
+    },
+    {
+      "slug": "im-really-not-the-demon-gods-lackey",
+      "title": "Komik\n              I’m Really Not The Demon God’s Lackey",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 175
+    },
+    {
+      "slug": "city-of-sin",
+      "title": "Komik\n              City of Sin",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
+    },
+    {
+      "slug": "545921-revenge-of-the-iron-blooded-sword-hound",
+      "title": "Komik\n              Revenge Of The Iron-Blooded Sword Hound",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 149
     }
   ]
 }
