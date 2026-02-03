@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-03T06:10:06.686641",
-  "total_comics": 659,
+  "last_updated": "2026-02-03T07:22:37.792709",
+  "total_comics": 675,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1255,7 +1255,7 @@
       "title": "A Dragonslayer’s Peerless Regression",
       "type": "Manhwa",
       "status": "",
-      "rating": 6.5,
+      "rating": 0.0,
       "total_chapters": 0
     },
     {
@@ -5273,6 +5273,134 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "one-hundred-thousand-years-of-tribulation-by-heavenly-thunder",
+      "title": "Komik\n              One Hundred Thousand Years of Tribulation by Heavenly Thunder",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 30
+    },
+    {
+      "slug": "gray-ash-a-new-life-in-the-dungeon-city",
+      "title": "Komik\n              Gray Ash: A New Life in the Dungeon City",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 16
+    },
+    {
+      "slug": "netoge-no-yome-ga-ninki-idol-datta",
+      "title": "Komik\n              Netoge no Yome ga Ninki Idol datta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.49,
+      "total_chapters": 36
+    },
+    {
+      "slug": "global-beast-tamer-i-can-see-the-path-of-evolution",
+      "title": "Komik\n              Global Beast Tamer: I Can See the Path of Evolution",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 53
+    },
+    {
+      "slug": "bill-the-blacksmith",
+      "title": "Komik\n              Bill The Blacksmith",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 10
+    },
+    {
+      "slug": "kimi-no-kokoro-wo-kanjitai",
+      "title": "Komik\n              Kimi no Kokoro wo Kanjitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.49,
+      "total_chapters": 12
+    },
+    {
+      "slug": "game-sekai-no-mobu-akuyaku-ni-tensei-shita-node-last-bos-wo-mezashite-mita",
+      "title": "Komik\n              Game Sekai no mobu akuyaku ni tensei shita node Last bos wo mezashite mita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 10
+    },
+    {
+      "slug": "the-rebel-of-the-tyrant-noble-family",
+      "title": "Komik\n              The Rebel Of The Tyrant Noble Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
+      "title": "Komik\n              The Unbeatable Dungeon’s Lazy Boss Monster",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 113
+    },
+    {
+      "slug": "the-vehement-emperor-of-steel",
+      "title": "Komik\n              The Vehement Emperor of Steel",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 32
+    },
+    {
+      "slug": "legend",
+      "title": "Komik\n              Legend",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.49,
+      "total_chapters": 111
+    },
+    {
+      "slug": "212491-the-ultimate-shut-in",
+      "title": "Komik\n              The Ultimate Shut-In",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 64
+    },
+    {
+      "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
+      "title": "Komik\n              Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 14
+    },
+    {
+      "slug": "reset-life-of-regression-police",
+      "title": "Komik\n              Reset Life of Regression Police",
+      "type": "Manhua",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 144
+    },
+    {
+      "slug": "252876-murim-login",
+      "title": "Komik\n              Murim Login",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.68,
+      "total_chapters": 251
+    },
+    {
+      "slug": "939344-magic-academys-genius-blinker",
+      "title": "Komik\n              Magic Academy’s Genius Blinker",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.72,
+      "total_chapters": 85
     }
   ]
 }
