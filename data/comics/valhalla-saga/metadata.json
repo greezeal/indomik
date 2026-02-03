@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.3,
-  "scraped_at": "2026-02-01T13:56:20.241326",
+  "scraped_at": "2026-02-03T23:49:35.817402",
   "alternative_titles": "발할라 사가",
   "status": "Berjalan",
   "author": "J-Sun (현가)",
@@ -31,10 +31,16 @@
   "synopsis": "Manhwa                    Valhalla Saga yang dibuat oleh komikus bernama\n                    J-Sun (현가) ini bercerita tentang\n                    Kekuatan para prajurit Valhalla disebut Saga. Kekuatan ini merupakan kekuatan magis yang dahsyat yang lahir dari prestasi dan perbuatan mereka di kehidupan sebelumnya. Dengan demikian, semakin banyak cerita dan legenda tentang para prajurit ini tersebar dan membekas di hati banyak orang, semakin kuat pula Saga mereka.\r\n\r\nTae Ho sendiri jelas bukan seorang prajurit. Akan tetapi, ia adalah gamer profesional papan atas dunia. Di dunia gim Dark Age, karakternya, Dragon Knight Kalsted, dapat disebut sebagai legenda tersendiri.\r\n\r\nPrestasinya, kisahnya.\r\n\r\nSemua prestasi yang telah dikumpulkan oleh Dragon Knight Kalsted dalam gim ini!\r\n\r\n[Saga: Immortal Warrior] Kisah prajurit abadi, Lee Tae Ho, terungkap di medan perang para dewa, Valhalla. Untuk mengakhiri Ragnarok, yang mengancam keberadaan dunia, Saga baru dimulai saat ini juga.",
   "chapters": [
     {
+      "chapter": "64",
+      "title": "Komik Valhalla Saga Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTY0Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "63",
       "title": "Komik Valhalla Saga Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTYzLw==",
-      "date": "7 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "62",
@@ -202,7 +208,7 @@
       "chapter": "35",
       "title": "Komik Valhalla Saga Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTM1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -409,5 +415,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.59,
-  "scraped_at": "2026-01-29T11:30:01.951541",
+  "scraped_at": "2026-02-03T23:44:38.690686",
   "alternative_titles": "転生してハイエルフになりましたが、スローライフは１２０年で飽きました, Growing Tired of the Lazy High Elf Life After 120 Years, I Was Reborn and Became a High Elf, but I Got Tired of My Slow Life after 120 Years",
   "status": "Berjalan",
   "author": "Rarutori",
@@ -22,16 +22,22 @@
   "synopsis": "Manga                    Tensei Shite High Elf ni Narimashitaga, Slow Life wa 120-nen de Akimashita yang dibuat oleh komikus bernama\n                    Rarutori ini bercerita tentang\n                    Aesir sudah menghabiskan 120 tahun kehidupan barunya sebagai peri kelas atas yang menjalani gaya hidup lesu yang diharapkan darinya. Ini tentang semua yang bisa dia ambil. Dengan lebih banyak waktu daripada yang dia tahu apa yang harus dilakukan, dia memutuskan untuk berangkat dan menjelajahi dunia tempat dia menghabiskan satu abad dan masih tidak tahu apa-apa.",
   "chapters": [
     {
+      "chapter": "43",
+      "title": "Komik Tensei Shite High Elf ni Narimashitaga, Slow Life wa 120-nen de Akimashita Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXNoaXRlLWhpZ2gtZWxmLW5pLW5hcmltYXNoaXRhZ2Etc2xvdy1saWZlLXdhLTEyMC1uZW4tZGUtYWtpbWFzaGl0YS1jaGFwdGVyLTQzLw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik Tensei Shite High Elf ni Narimashitaga, Slow Life wa 120-nen de Akimashita Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXNoaXRlLWhpZ2gtZWxmLW5pLW5hcmltYXNoaXRhZ2Etc2xvdy1saWZlLXdhLTEyMC1uZW4tZGUtYWtpbWFzaGl0YS1jaGFwdGVyLTQyLw==",
-      "date": "34 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Tensei Shite High Elf ni Narimashitaga, Slow Life wa 120-nen de Akimashita Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXNoaXRlLWhpZ2gtZWxmLW5pLW5hcmltYXNoaXRhZ2Etc2xvdy1saWZlLXdhLTEyMC1uZW4tZGUtYWtpbWFzaGl0YS1jaGFwdGVyLTQxLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "40",
@@ -43,7 +49,7 @@
       "chapter": "39",
       "title": "Komik Tensei Shite High Elf ni Narimashitaga, Slow Life wa 120-nen de Akimashita Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXNoaXRlLWhpZ2gtZWxmLW5pLW5hcmltYXNoaXRhZ2Etc2xvdy1saWZlLXdhLTEyMC1uZW4tZGUtYWtpbWFzaGl0YS1jaGFwdGVyLTM5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -280,5 +286,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 43
+  "total_chapters": 44
 }
