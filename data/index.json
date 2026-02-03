@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-03T12:31:04.551472",
-  "total_comics": 679,
+  "last_updated": "2026-02-03T13:52:09.744984",
+  "total_comics": 687,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -5433,6 +5433,70 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "780759-isekai-walking",
+      "title": "Komik\n              Isekai Walking",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.81,
+      "total_chapters": 41
+    },
+    {
+      "slug": "houkago-kitaku-biyori",
+      "title": "Komik\n              Houkago Kitaku Biyori",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.33,
+      "total_chapters": 50
+    },
+    {
+      "slug": "supreme-academy-genius",
+      "title": "Komik\n              Supreme Academy Genius",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
+    },
+    {
+      "slug": "seikenshi-sama-no-maken-chan",
+      "title": "Komik\n              Seikenshi-Sama No Maken-Chan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 14
+    },
+    {
+      "slug": "the-ghostly-doctor",
+      "title": "Komik\n              The Ghostly Doctor",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 8.03,
+      "total_chapters": 616
+    },
+    {
+      "slug": "843187-i-regressed-but-the-world-didnt-end",
+      "title": "Komik\n              I Regressed, but the World didn’t End",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 52
+    },
+    {
+      "slug": "165297-legendary-youngest-son-of-the-marquis-house",
+      "title": "Komik\n              Legendary Youngest Son of the Marquis House",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 158
+    },
+    {
+      "slug": "saijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-noryoku-kaimu-o-kagenagara-osewa-suru-koto-ni-narimashita",
+      "title": "Komik\n              Saijo no Osewa ~Takane no Hana Darakena Meimon Kou de, Gakuin Ichi no Ojou-sama (Seikatsu Noryoku Kaimu) o Kagenagara Osewa suru Koto ni Narimashita~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
     }
   ]
 }
