@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-03T09:00:13.327528",
-  "total_comics": 676,
+  "last_updated": "2026-02-03T10:01:14.892638",
+  "total_comics": 679,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -5404,8 +5404,32 @@
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
-      "title": "Komik\n              Becoming the Cheon Clan’s Mad Dog",
+      "title": "Becoming the Cheon Clan’s Mad Dog",
       "type": "Manhwa",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "484033-mikadono-sanshimai-wa-angai-choroi",
+      "title": "Komik\n              Mikadono Sanshimai wa Angai, Choroi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.94,
+      "total_chapters": 192
+    },
+    {
+      "slug": "100402-solo-farming-in-the-tower",
+      "title": "Komik\n              Solo Farming In The Tower",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 111
+    },
+    {
+      "slug": "hochiya-san-wa-amariaru",
+      "title": "Komik\n              Hochiya-san wa Amariaru",
+      "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 2
