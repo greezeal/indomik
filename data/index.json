@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-03T14:41:09.090168",
-  "total_comics": 687,
+  "last_updated": "2026-02-03T15:40:26.980396",
+  "total_comics": 692,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -412,11 +412,11 @@
     },
     {
       "slug": "the-apex-of-dragon-mastery",
-      "title": "Komik\n              The Apex of Dragon Mastery",
+      "title": "The Apex of Dragon Mastery",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 169
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -5497,6 +5497,46 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "itsuka-fukushuu-suru-so-no-tame-ni",
+      "title": "Komik\n              Itsuka Fukushuu Suru so no Tame ni",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.29,
+      "total_chapters": 31
+    },
+    {
+      "slug": "virus-girlfriend",
+      "title": "Komik\n              Virus Girlfriend",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.36,
+      "total_chapters": 376
+    },
+    {
+      "slug": "domestication-of-divine-beasts-at-the-beginning",
+      "title": "Komik\n              Domestication of Divine Beasts at the Beginning",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.78,
+      "total_chapters": 55
+    },
+    {
+      "slug": "absolute-dominion",
+      "title": "Komik\n              Absolute Dominion",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 77
+    },
+    {
+      "slug": "job-change-log",
+      "title": "Komik\n              Job Change Log",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.35,
+      "total_chapters": 48
     }
   ]
 }
