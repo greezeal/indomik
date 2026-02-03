@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T10:01:14.892638",
+  "last_updated": "2026-02-03T10:58:00.839246",
   "total_comics": 679,
   "comics": [
     {
@@ -5412,27 +5412,27 @@
     },
     {
       "slug": "484033-mikadono-sanshimai-wa-angai-choroi",
-      "title": "Komik\n              Mikadono Sanshimai wa Angai, Choroi",
+      "title": "Mikadono Sanshimai wa Angai, Choroi",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.94,
-      "total_chapters": 192
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "100402-solo-farming-in-the-tower",
-      "title": "Komik\n              Solo Farming In The Tower",
+      "title": "Solo Farming In The Tower",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 111
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "hochiya-san-wa-amariaru",
-      "title": "Komik\n              Hochiya-san wa Amariaru",
+      "title": "Hochiya-san wa Amariaru",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 2
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
