@@ -492,24 +492,13 @@ class MainScraper:
                 metadata_path = os.path.join(self.comics_dir, slug, "metadata.json")
                 detail = None
                 
-                if not self.force and os.path.exists(metadata_path):
-                    with open(metadata_path, "r", encoding="utf-8") as f:
-                        saved_data = json.load(f)
-                        detail = {k: decode_url(v) if isinstance(v, str) and k in ["url", "cover_url"] else v 
-                                 for k, v in saved_data.items()}
-                        # Deep decode for chapters
-                        if "chapters" in detail:
-                            for ch in detail["chapters"]:
-                                if "url" in ch:
-                                    ch["url"] = decode_url(ch["url"])
-                    print(f"  [{i}/{len(comics)}] Using existing metadata for: {comic['title']}")
-                else:
-                    print(f"  [{i}/{len(comics)}] Processing: {comic['title']}")
-                    detail = self.scrape_comic_detail(comic["url"])
-                    if detail:
-                        # Merge basic info with detail
-                        comic.update(detail)
-                    # Save comic
+                # Always scrape detail to check for updates
+                print(f"  [{i}/{len(comics)}] Processing: {comic['title']}")
+                detail = self.scrape_comic_detail(comic["url"])
+                if detail:
+                    # Merge basic info with detail
+                    comic.update(detail)
+                    # Save comic (updates scraped_at)
                     self.save_comic(comic)
                 
                 # Scrape chapters if requested
