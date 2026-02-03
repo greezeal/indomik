@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-03T08:06:13.231517",
-  "total_comics": 675,
+  "last_updated": "2026-02-03T09:00:13.327528",
+  "total_comics": 676,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -5401,6 +5401,14 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "becoming-the-cheon-clans-mad-dog",
+      "title": "Komik\n              Becoming the Cheon Clan’s Mad Dog",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }
