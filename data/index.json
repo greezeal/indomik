@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T15:40:26.980396",
+  "last_updated": "2026-02-03T16:41:32.934386",
   "total_comics": 692,
   "comics": [
     {
@@ -5500,43 +5500,43 @@
     },
     {
       "slug": "itsuka-fukushuu-suru-so-no-tame-ni",
-      "title": "Komik\n              Itsuka Fukushuu Suru so no Tame ni",
+      "title": "Itsuka Fukushuu Suru so no Tame ni",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.29,
-      "total_chapters": 31
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "virus-girlfriend",
-      "title": "Komik\n              Virus Girlfriend",
+      "title": "Virus Girlfriend",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.36,
-      "total_chapters": 376
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
-      "title": "Komik\n              Domestication of Divine Beasts at the Beginning",
+      "title": "Domestication of Divine Beasts at the Beginning",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 6.78,
-      "total_chapters": 55
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "absolute-dominion",
-      "title": "Komik\n              Absolute Dominion",
+      "title": "Absolute Dominion",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 77
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "job-change-log",
-      "title": "Komik\n              Job Change Log",
+      "title": "Job Change Log",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.35,
-      "total_chapters": 48
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
