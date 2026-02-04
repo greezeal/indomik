@@ -25,14 +25,35 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scraper/requirements.txt
 
-      - name: Run Integrity Checker (All Existing Comics)
-        run: |
-          python -u scraper/integrity_checker.py --all --delay 2
-
-      - name: Commit and Push Changes
+      - name: Run Integrity Checker (One Comic at a Time with Commits)
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/
-          git diff-index --quiet HEAD || git commit -m "chore: integrity check results [$(date +'%Y-%m-%d %H:%M')]"
-          git push
+
+          # Get list of all comics
+          COMICS=$(ls -1 data/comics/)
+
+          for COMIC in $COMICS; do
+            echo "=========================================="
+            echo "Checking: $COMIC"
+            echo "=========================================="
+            
+            # Run integrity checker for this comic only
+            python -u scraper/integrity_checker.py --comic "$COMIC" --delay 2
+            
+            # Check if there are changes and commit immediately
+            if ! git diff-index --quiet HEAD -- "data/comics/$COMIC/"; then
+              git add "data/comics/$COMIC/"
+              git commit -m "fix: integrity update for $COMIC [$(date +'%Y-%m-%d %H:%M')]"
+              git push
+              echo "[✓] Changes committed for $COMIC"
+            else
+              echo "[=] No changes for $COMIC"
+            fi
+            
+            echo ""
+          done
+
+          echo "=========================================="
+          echo "All comics checked!"
+          echo "=========================================="
