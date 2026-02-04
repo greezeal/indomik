@@ -258,7 +258,7 @@ class MainScraper:
                     continue
                 
                 comic_url = link_elem.get("href", "")
-                title = link_elem.get("title", "").replace("Komik ", "")
+                title = re.sub(r'^\s*Komik\s+', '', link_elem.get("title", "")).strip()
                 
                 # Get cover image
                 img_elem = post.select_one("img")
@@ -323,7 +323,7 @@ class MainScraper:
             # Get title from page
             title_elem = soup.select_one(".entry-title")
             if title_elem:
-                metadata["title"] = title_elem.get_text().strip().replace("Komik ", "")
+                metadata["title"] = re.sub(r'^\s*Komik\s+', '', title_elem.get_text()).strip()
             
             # Parse info section
             info_section = soup.select_one(".spe")
