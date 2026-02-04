@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-04T13:51:57.647682",
-  "total_comics": 709,
+  "last_updated": "2026-02-04T14:41:12.100484",
+  "total_comics": 715,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1222,9 +1222,9 @@
       "slug": "my-empress-disciple-is-about-to-turn-dark",
       "title": "My Empress Disciple Is About to Turn Dark",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 60
     },
     {
       "slug": "687103-the-genius-grandson-of-namgung-clan",
@@ -1406,9 +1406,9 @@
       "slug": "leveling-up-with-skills",
       "title": "Leveling Up with Skills",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 138
     },
     {
       "slug": "my-clone-is-the-space-bug-king",
@@ -2062,9 +2062,9 @@
       "slug": "the-crown-prince-that-sells-medicine",
       "title": "The Crown Prince That Sells Medicine",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 94
     },
     {
       "slug": "witchriv",
@@ -2382,9 +2382,9 @@
       "slug": "my-disciples-are-all-big-villains",
       "title": "My Disciples Are All Big Villains",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 473
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2686,17 +2686,17 @@
       "slug": "the-youngest-hides-way-too-much",
       "title": "The Youngest Hides Way Too Much",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.16,
+      "total_chapters": 28
     },
     {
       "slug": "heavenly-demon-tavern",
       "title": "Heavenly Demon Tavern",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -4038,9 +4038,9 @@
       "slug": "the-art-student-who-lived-twice",
       "title": "The Art Student Who Lived Twice",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 54
     },
     {
       "slug": "316904-disastrous-necromancer",
@@ -4342,9 +4342,9 @@
       "slug": "the-rebirth-of-the-heros-partys-archmage",
       "title": "The Rebirth of the Hero’s Party’s Archmage",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 124
     },
     {
       "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors",
@@ -5224,7 +5224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 219
+      "total_chapters": 220
     },
     {
       "slug": "864104-i-killed-an-academy-player",
@@ -5312,7 +5312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "kimi-no-kokoro-wo-kanjitai",
@@ -5430,9 +5430,9 @@
       "slug": "hochiya-san-wa-amariaru",
       "title": "Hochiya-san wa Amariaru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
     },
     {
       "slug": "780759-isekai-walking",
@@ -5673,6 +5673,54 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 9
+    },
+    {
+      "slug": "slime-saint",
+      "title": "Slime Saint",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 23
+    },
+    {
+      "slug": "divine-leveling-system",
+      "title": "Divine Leveling System",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 193
+    },
+    {
+      "slug": "urenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita",
+      "title": "Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 29
+    },
+    {
+      "slug": "solo-resurrection",
+      "title": "Solo Resurrection",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.08,
+      "total_chapters": 81
+    },
+    {
+      "slug": "kimi-no-risou-no-maid-ni-naru",
+      "title": "Kimi no Risou no Maid ni Naru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.78,
+      "total_chapters": 11
+    },
+    {
+      "slug": "yuusha-party-wo-kubi-ni-natta-node-kokyou-ni-kaettara-member-zenin-ga-tsuitekitandaga",
+      "title": "Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuitekitandaga",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
     }
   ]
 }

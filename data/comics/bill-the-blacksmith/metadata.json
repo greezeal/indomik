@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-04T00:46:41.977369",
+  "scraped_at": "2026-02-04T14:38:26.936549",
   "alternative_titles": "빌",
   "status": "Berjalan",
   "author": "",
@@ -22,16 +22,22 @@
   "synopsis": "Manhwa                    Bill The Blacksmith yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Bill Back, blacksmith yang menempa pedang sang hero, ia merasa puas menjalani kehidupan yang biasa. Namun, meningkatnya keresahan di seluruh kerajaan yang mulai mengancam keberadaannya, hingga akhirnya ia terseret ke dalam spiral peristiwa yang tak terkendali saat situasi memburuk dengan cepat.",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Bill The Blacksmith Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTEyLw==",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Bill The Blacksmith Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTExLw==",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Bill The Blacksmith Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTEwLw==",
-      "date": "9 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "9",
@@ -88,5 +94,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }
