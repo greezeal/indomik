@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-04T09:08:21.391472",
-  "total_comics": 703,
+  "last_updated": "2026-02-04T10:11:40.312368",
+  "total_comics": 707,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -396,11 +396,11 @@
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
-      "title": "Komik\n              Male God, Your Persona Has Collapsed!",
+      "title": "Male God, Your Persona Has Collapsed!",
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "167225-subscribing-to-the-transcendents-channel",
@@ -1246,9 +1246,9 @@
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
       "title": "Global Superpowers: Awakening the Zixiao Divine Thunder at the Beginning",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -2134,9 +2134,9 @@
       "slug": "the-ultimate-of-all-ages",
       "title": "The Ultimate of All Ages",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 499
     },
     {
       "slug": "game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau",
@@ -3326,9 +3326,9 @@
       "slug": "i-am-with-the-music-immortals",
       "title": "I Am With the Music Immortals",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.57,
+      "total_chapters": 112
     },
     {
       "slug": "mirror-mong-woo",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -3726,9 +3726,9 @@
       "slug": "lostend",
       "title": "LOSTEND",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 40
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -3934,9 +3934,9 @@
       "slug": "the-devil-classroom",
       "title": "The Devil Classroom",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
     },
     {
       "slug": "950565-lookism",
@@ -4478,9 +4478,9 @@
       "slug": "kurotsuki-no-yaergnacht",
       "title": "Kurotsuki no Yaergnacht",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 37
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
@@ -4734,9 +4734,9 @@
       "slug": "my-wife-comes-from-the-thousand-year-old-underworld",
       "title": "My Wife Comes From the Thousand-Year-Old Underworld",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 43
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5625,6 +5625,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 69
+    },
+    {
+      "slug": "kakkou-no-iinazuke",
+      "title": "Kakkou no Iinazuke",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.66,
+      "total_chapters": 280
+    },
+    {
+      "slug": "the-chosen-sss-rank",
+      "title": "The Chosen SSS-Rank",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "mr-war%ea%9e%89-the-strongest-ex-soldier",
+      "title": "Mr. War꞉ The Strongest Ex-Soldier",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 42
+    },
+    {
+      "slug": "sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru",
+      "title": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.45,
+      "total_chapters": 47
     }
   ]
 }
