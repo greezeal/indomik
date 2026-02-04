@@ -14,11 +14,17 @@ from main_scraper import MainScraper, decode_url, DEFAULT_DATA_DIR
 
 class IntegrityChecker(MainScraper):
     def __init__(self, data_dir: str = DEFAULT_DATA_DIR, delay: float = 1.0):
+        print("=" * 50)
+        print("INTEGRITY CHECKER - Mode: Check Existing Chapters")
+        print("=" * 50)
         super().__init__(data_dir=data_dir, delay=delay, force=True)
+        print("Integrity Checker ready.\n")
 
     def check_comic(self, slug: str):
         """Check all chapters of a specific comic for updates."""
-        print(f"\n--- Checking Integrity for: {slug} ---")
+        print(f"\n{'='*50}")
+        print(f"CHECKING: {slug}")
+        print(f"{'='*50}")
         
         metadata_path = os.path.join(self.comics_dir, slug, "metadata.json")
         if not os.path.exists(metadata_path):
