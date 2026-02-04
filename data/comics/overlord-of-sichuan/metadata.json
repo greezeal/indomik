@@ -1,12 +1,12 @@
 {
   "slug": "overlord-of-sichuan",
-  "title": "Komik\n              Overlord Of Sichuan",
+  "title": "Overlord Of Sichuan",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvb3ZlcmxvcmQtb2Ytc2ljaHVhbi8=",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDEvT3ZlcmxvcmQtT2YtU2ljaHVhbi0yMzZ4MzA2LmpwZw==",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-01-26T22:14:27.363562",
+  "scraped_at": "2026-02-04T01:59:35.374680",
   "alternative_titles": "사천패왕",
   "status": "Berjalan",
   "author": "Sa Do Yeon, San Bo",
@@ -22,59 +22,71 @@
   "synopsis": "Manhwa                    Overlord Of Sichuan yang dibuat oleh komikus bernama\n                    Sa Do Yeon, San Bo ini bercerita tentang\n                    Pada hari ketika Zaman Praktisi Iblis turun ke dunia, Tang Sewoon, pengrajin iblis yang pernah disebut sebagai pengrajin ilahi paling menakutkan di bawah langit, menemui ajalnya.",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Overlord Of Sichuan Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTExLw==",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Overlord Of Sichuan Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTEwLw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Overlord Of Sichuan Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTkv",
-      "date": "3 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Overlord Of Sichuan Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTgv",
-      "date": "4 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Overlord Of Sichuan Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTcv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Overlord Of Sichuan Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTYv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Overlord Of Sichuan Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Overlord Of Sichuan Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTQv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Overlord Of Sichuan Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTMv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Overlord Of Sichuan Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTIv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Overlord Of Sichuan Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 11
 }
