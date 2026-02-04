@@ -61,8 +61,35 @@ class IntegrityChecker(MainScraper):
             live_images = self.scrape_chapter_images(ch["url"])
             live_img_count = len(live_images)
 
+            # Get local images for URL comparison
+            local_images = local_data.get("images", [])
+            
+            # Check for URL changes (even if count is same)
+            urls_changed = False
+            changed_urls = []
+            if live_img_count == local_img_count and live_img_count > 0:
+                for i, (local_url, live_url) in enumerate(zip(local_images, live_images)):
+                    if local_url != live_url:
+                        urls_changed = True
+                        changed_urls.append(i + 1)  # 1-indexed for display
+
+            needs_update = False
+            update_reason = ""
+
             if live_img_count > local_img_count:
-                print(f"  [!] UPDATE FOUND: Chapter {chapter_num} (Local: {local_img_count} -> Live: {live_img_count})")
+                needs_update = True
+                update_reason = f"MORE IMAGES (Local: {local_img_count} -> Live: {live_img_count})"
+            elif urls_changed:
+                needs_update = True
+                if len(changed_urls) <= 5:
+                    update_reason = f"URL CHANGED at position(s): {changed_urls}"
+                else:
+                    update_reason = f"URL CHANGED at {len(changed_urls)} position(s)"
+            elif live_img_count < local_img_count and live_img_count > 0:
+                print(f"  [W] Warning: Chapter {chapter_num} has fewer images live ({live_img_count}) than local ({local_img_count}). Skipping update.")
+
+            if needs_update:
+                print(f"  [!] UPDATE FOUND: Chapter {chapter_num} - {update_reason}")
                 
                 updated_data = {
                     "chapter": chapter_num,
@@ -72,15 +99,11 @@ class IntegrityChecker(MainScraper):
                     "scraped_at": datetime.now().isoformat(),
                     "images": live_images,
                     "total_images": live_img_count,
-                    "updated_via": "integrity_checker"
+                    "updated_via": "integrity_checker",
+                    "update_reason": update_reason
                 }
                 self.save_chapter(slug, chapter_num, updated_data)
                 updated_count += 1
-            elif live_img_count < local_img_count and live_img_count > 0:
-                print(f"  [W] Warning: Chapter {chapter_num} has fewer images live ({live_img_count}) than local ({local_img_count}). Skipping update.")
-            else:
-                # No change or same count
-                pass
 
         print(f"\nIntegrity check complete for {slug}.")
         print(f"Checked: {total_checked}, Updated: {updated_count}")
