@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-04T16:17:22.653038",
-  "total_comics": 715,
+  "last_updated": "2026-02-04T17:19:29.771606",
+  "total_comics": 719,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -484,11 +484,11 @@
     },
     {
       "slug": "627456-return-of-the-mad-demon",
-      "title": "Komik\n              Return of the Mad Demon",
+      "title": "Return of the Mad Demon",
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 188
+      "total_chapters": 189
     },
     {
       "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
@@ -2526,9 +2526,9 @@
       "slug": "990492-a-disaster-class-hero-has-returned",
       "title": "A Disaster-Class Hero Has Returned",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.54,
+      "total_chapters": 164
     },
     {
       "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
@@ -2774,9 +2774,9 @@
       "slug": "sword-devouring-swordmaster",
       "title": "Sword Devouring Swordmaster",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.5,
+      "total_chapters": 14
     },
     {
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
@@ -2958,9 +2958,9 @@
       "slug": "989844-grim-reaper-of-the-drifting-moon",
       "title": "Grim Reaper of the Drifting Moon",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.14,
+      "total_chapters": 126
     },
     {
       "slug": "asura-no-sata",
@@ -3310,9 +3310,9 @@
       "slug": "royal-family",
       "title": "Royal Family",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
     },
     {
       "slug": "martial-evolution-start-by-awakening-the-king-of-monsters",
@@ -4630,9 +4630,9 @@
       "slug": "712877-regressor-of-the-fallen-family",
       "title": "Regressor of the Fallen Family",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 119
     },
     {
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
@@ -5216,7 +5216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 580
+      "total_chapters": 581
     },
     {
       "slug": "680574-doctors-rebirth",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 376
+      "total_chapters": 381
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5721,6 +5721,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 13
+    },
+    {
+      "slug": "the-new-employee-kim-chul-soo",
+      "title": "The New Employee Kim Chul-Soo",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 135
+    },
+    {
+      "slug": "zombie-papa",
+      "title": "Zombie papa",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 30
+    },
+    {
+      "slug": "kidnapped-dragons",
+      "title": "Kidnapped Dragons",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 28
+    },
+    {
+      "slug": "981277-spy-x-family",
+      "title": "Spy X Family",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.09,
+      "total_chapters": 159
     }
   ]
 }
