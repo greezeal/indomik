@@ -1,12 +1,12 @@
 {
   "slug": "154181-majo-to-youhei",
-  "title": "Komik\n              Majo to Youhei",
+  "title": "Majo to Youhei",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvMTU0MTgxLW1ham8tdG8teW91aGVpLw==",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDgvS29taWstVGhlLVdpdGNoLWFuZC10aGUtTWVyY2VuYXJ5LTIyNHgzMTkuanBn",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.58,
-  "scraped_at": "2026-01-30T13:41:31.046567",
+  "scraped_at": "2026-02-04T11:46:23.008538",
   "alternative_titles": "魔女と傭兵, The Witch and the Mercenary, WITCH AND MERCENARY, Ведьма и наёмник, La bruja y el mercenario",
   "status": "Berjalan",
   "author": "Chouhoukiteki Kaeru",
@@ -26,10 +26,16 @@
   "synopsis": "Manga                    Majo to Youhei yang dibuat oleh komikus bernama\n                    Chouhoukiteki Kaeru ini bercerita tentang\n                    Zig—seorang tentara bayaran bertubuh tinggi dan berbahu lebar—ikut serta dalam perburuan penyihir. Setelah duel sengit dengan penyihir yang mematikan itu, ia mengetahui keinginan penyihir itu. “Aku ingin kau melindungiku,” pintanya, lelah hidupnya diremehkan. Mencari tempat untuk bertahan hidup, penyihir dan tentara bayaran itu mengarahkan pandangan mereka ke benua yang tidak dikenal!",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Majo to Youhei Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0yNC8=",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Majo to Youhei Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0yMy8=",
-      "date": "21 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "22",
@@ -155,14 +161,14 @@
       "chapter": "2",
       "title": "Komik Majo to Youhei Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0yLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Majo to Youhei Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0xLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }

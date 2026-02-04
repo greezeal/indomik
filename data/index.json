@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-04T11:04:38.173105",
-  "total_comics": 707,
+  "last_updated": "2026-02-04T11:52:36.857600",
+  "total_comics": 709,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1462,9 +1462,9 @@
       "slug": "warrior-of-the-sword-heart",
       "title": "Warrior of The Sword Heart",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 14
     },
     {
       "slug": "663834-death-god",
@@ -4230,9 +4230,9 @@
       "slug": "154181-majo-to-youhei",
       "title": "Majo to Youhei",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.58,
+      "total_chapters": 24
     },
     {
       "slug": "survive-as-the-heros-husband",
@@ -5488,7 +5488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 158
+      "total_chapters": 159
     },
     {
       "slug": "saijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-noryoku-kaimu-o-kagenagara-osewa-suru-koto-ni-narimashita",
@@ -5657,6 +5657,22 @@
       "status": "Berjalan",
       "rating": 7.45,
       "total_chapters": 47
+    },
+    {
+      "slug": "eiyuu-to-majo-no-tensei-rabu-kome",
+      "title": "Eiyuu to Majo no Tensei Rabu Kome",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.85,
+      "total_chapters": 33
+    },
+    {
+      "slug": "hyoukaku-no-meteoria",
+      "title": "Hyoukaku no Meteoria",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
     }
   ]
 }
