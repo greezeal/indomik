@@ -2,7 +2,7 @@ name: Chapter Integrity Checker
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # Menjalankan setiap 10 meni
+    - cron: "*/15 * * * *" # Menjalankan setiap 10 meni
   workflow_dispatch: # Memungkinkan menjalankan manual dari tab Actions
 
 jobs:
