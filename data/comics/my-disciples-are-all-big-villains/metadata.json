@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.1,
-  "scraped_at": "2026-02-05T06:16:04.389938",
+  "scraped_at": "2026-02-05T13:58:07.088153",
   "alternative_titles": "我的徒弟都是大反派, Wo De Tudi Dou Shi Da Fanpai, Wǒ De Túdì Dōu Shì Dà Fǎnpài, My Apprentices Are All Great Villains",
   "status": "Berjalan",
   "author": "【月天】",
@@ -26,10 +26,16 @@
   "synopsis": "Manhua                    My Disciples Are All Big Villains yang dibuat oleh komikus bernama\n                    【月天】 ini bercerita tentang\n                    Lu Zhou bangun untuk menjadi Patriark jahat paling kuat dan tertua di dunia, dan menemukan bahwa dia memiliki sembilan murid terkenal yang penuh dengan kejahatan. Murid tertuanya adalah pemimpin Sekte Nether dengan ribuan antek-antek, dan murid keduanya—Pedang Iblis—selalu membantai orang lain dengan perselisihan sekecil apa pun…",
   "chapters": [
     {
+      "chapter": "473",
+      "title": "Komik My Disciples Are All Big Villains Chapter 473",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItNDczLw==",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "472",
       "title": "Komik My Disciples Are All Big Villains Chapter 472",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItNDcyLw==",
-      "date": "16 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "471",
@@ -41,7 +47,7 @@
       "chapter": "470",
       "title": "Komik My Disciples Are All Big Villains Chapter 470",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItNDcwLw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "469",
@@ -65,13 +71,13 @@
       "chapter": "466",
       "title": "Komik My Disciples Are All Big Villains Chapter  466",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItNDY2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "465",
       "title": "Komik My Disciples Are All Big Villains Chapter  465",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItNDY1Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "464",
@@ -125,7 +131,7 @@
       "chapter": "456",
       "title": "Komik My Disciples Are All Big Villains Chapter 456",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItNDU2Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "455",
@@ -215,7 +221,7 @@
       "chapter": "441",
       "title": "Komik My Disciples Are All Big Villains Chapter 441",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItNDQxLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "440",
@@ -563,7 +569,7 @@
       "chapter": "384",
       "title": "Komik My Disciples Are All Big Villains Chapter 384",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGlzY2lwbGVzLWFyZS1hbGwtYmlnLXZpbGxhaW5zLWNoYXB0ZXItMzg0Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "383.2",
@@ -2864,5 +2870,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 473
+  "total_chapters": 474
 }

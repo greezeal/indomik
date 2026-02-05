@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.3,
-  "scraped_at": "2026-02-04T00:45:55.437712",
+  "scraped_at": "2026-02-05T13:59:09.297261",
   "alternative_titles": "발할라 사가",
   "status": "Berjalan",
   "author": "J-Sun (현가)",
@@ -31,22 +31,28 @@
   "synopsis": "Manhwa                    Valhalla Saga yang dibuat oleh komikus bernama\n                    J-Sun (현가) ini bercerita tentang\n                    Kekuatan para prajurit Valhalla disebut Saga. Kekuatan ini merupakan kekuatan magis yang dahsyat yang lahir dari prestasi dan perbuatan mereka di kehidupan sebelumnya. Dengan demikian, semakin banyak cerita dan legenda tentang para prajurit ini tersebar dan membekas di hati banyak orang, semakin kuat pula Saga mereka.\r\n\r\nTae Ho sendiri jelas bukan seorang prajurit. Akan tetapi, ia adalah gamer profesional papan atas dunia. Di dunia gim Dark Age, karakternya, Dragon Knight Kalsted, dapat disebut sebagai legenda tersendiri.\r\n\r\nPrestasinya, kisahnya.\r\n\r\nSemua prestasi yang telah dikumpulkan oleh Dragon Knight Kalsted dalam gim ini!\r\n\r\n[Saga: Immortal Warrior] Kisah prajurit abadi, Lee Tae Ho, terungkap di medan perang para dewa, Valhalla. Untuk mengakhiri Ragnarok, yang mengancam keberadaan dunia, Saga baru dimulai saat ini juga.",
   "chapters": [
     {
+      "chapter": "65",
+      "title": "Komik Valhalla Saga Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTY1Lw==",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "64",
       "title": "Komik Valhalla Saga Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTY0Lw==",
-      "date": "2 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Valhalla Saga Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTYzLw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Valhalla Saga Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTYyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "61",
@@ -58,13 +64,13 @@
       "chapter": "60",
       "title": "Komik Valhalla Saga Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTYwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Valhalla Saga Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTU5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "58",
@@ -142,7 +148,7 @@
       "chapter": "46",
       "title": "Komik Valhalla Saga Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTQ2Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "45",
@@ -232,7 +238,7 @@
       "chapter": "31",
       "title": "Komik Valhalla Saga Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTMxLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -262,7 +268,7 @@
       "chapter": "26",
       "title": "Komik Valhalla Saga Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTI2Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -310,7 +316,7 @@
       "chapter": "18",
       "title": "Komik Valhalla Saga Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTE4Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "17",
@@ -415,5 +421,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 65
 }

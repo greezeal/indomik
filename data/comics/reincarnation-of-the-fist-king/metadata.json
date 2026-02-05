@@ -1,12 +1,12 @@
 {
   "slug": "reincarnation-of-the-fist-king",
-  "title": "Komik\n              Reincarnation Of The Fist King",
+  "title": "Reincarnation Of The Fist King",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLw==",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDYvS29taWstUmVpbmNhcm5hdGlvbi1PZi1UaGUtRmlzdC1LaW5nLTIzNngzMDYuanBn",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-01-31T10:49:26.722187",
+  "scraped_at": "2026-02-05T13:57:52.845864",
   "alternative_titles": "권왕환생",
   "status": "Berjalan",
   "author": "유진성 ∙",
@@ -25,22 +25,28 @@
   "synopsis": "Manhwa                    Reincarnation Of The Fist King yang dibuat oleh komikus bernama\n                    유진성 ∙ ini bercerita tentang\n                    Dan Woo-seong, seorang pria yang telah menaklukkan dunia seni bela diri hanya dengan satu tinju.\r\n\r\nTiba-tiba bertemu kematian dari iblis,\r\ndan membuka matanya lagi di tubuh pangeran agung yang kaya dari Bima Sakti.\r\n\r\n“Saya tidak ingin bebas dari kebaikan.\r\nJika ada kebaikan, saya harus membalasnya, dan jika ada dendam, saya harus membalasnya.”\r\n\r\nMeskipun pangeran agung tidak memiliki apa-apa selain uang,\r\ndia menggunakan kekayaannya yang melimpah dan seni bela diri dari kehidupan masa lalunya sebagai batu loncatan untuk membalas dendam lagi.",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Reincarnation Of The Fist King Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItMzgv",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Reincarnation Of The Fist King Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItMzcv",
-      "date": "25 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Reincarnation Of The Fist King Chapter  36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItMzYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Reincarnation Of The Fist King Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItMzUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "34",
@@ -82,7 +88,7 @@
       "chapter": "28",
       "title": "Komik Reincarnation Of The Fist King Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItMjgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -130,7 +136,7 @@
       "chapter": "20",
       "title": "Komik Reincarnation Of The Fist King Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItMjAv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -184,7 +190,7 @@
       "chapter": "11",
       "title": "Komik Reincarnation Of The Fist King Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItMTEv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -208,7 +214,7 @@
       "chapter": "7",
       "title": "Komik Reincarnation Of The Fist King Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtZmlzdC1raW5nLWNoYXB0ZXItNy8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -247,5 +253,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 37
+  "total_chapters": 38
 }

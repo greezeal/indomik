@@ -1,12 +1,12 @@
 {
   "slug": "898970-regressor-instruction-manual",
-  "title": "Komik\n              Regressor Instruction Manual",
+  "title": "Regressor Instruction Manual",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvODk4OTcwLXJlZ3Jlc3Nvci1pbnN0cnVjdGlvbi1tYW51YWwv",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMTAvS29taWstUmVncmVzc29yLUluc3RydWN0aW9uLU1hbnVhbC0yMjh4MzE5LmpwZw==",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-02T10:09:29.675396",
+  "scraped_at": "2026-02-05T13:59:13.867757",
   "alternative_titles": "회귀자 사용설명서",
   "status": "Berjalan",
   "author": "흙수저",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    Regressor Instruction Manual yang dibuat oleh komikus bernama\n                    흙수저 ini bercerita tentang\n                    Suatu hari, dia dipanggil ke dunia lain. Binatang buas mengalir keluar, dan krisis yang luar biasa akan datang. Bakat Anda ada di bawah. [Tingkat bakat pemain adalah yang terendah.] [Hampir semua angka putus asa.] Prajurit terpilih atau penyihir berbakat. Seorang regressor yang kembali ke masa lalu. Anda harus menggunakan semuanya. Untuk bertahan hidup. Panduan Pengguna Regressor \"Bagaimana jika itu sampah? Apa yang tidak bisa Anda lakukan untuk bertahan hidup?\"",
   "chapters": [
     {
+      "chapter": "175",
+      "title": "Komik Regressor Instruction Manual Chapter 175",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE3NS8=",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "174",
       "title": "Komik Regressor Instruction Manual Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE3NC8=",
-      "date": "23 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "173",
       "title": "Komik Regressor Instruction Manual Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE3My8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "172",
@@ -65,7 +71,7 @@
       "chapter": "167",
       "title": "Komik Regressor Instruction Manual Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE2Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "166",
@@ -89,7 +95,7 @@
       "chapter": "163",
       "title": "Komik Regressor Instruction Manual Chapter 163",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE2My8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "162",
@@ -113,7 +119,7 @@
       "chapter": "159",
       "title": "Komik Regressor Instruction Manual Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE1OS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "158",
@@ -1070,5 +1076,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 175
+  "total_chapters": 176
 }

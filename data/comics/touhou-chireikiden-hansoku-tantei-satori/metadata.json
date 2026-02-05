@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.46,
-  "scraped_at": "2026-02-04T16:16:42.876566",
+  "scraped_at": "2026-02-05T13:58:16.422090",
   "alternative_titles": "Eastern Strange Legend of Wise Spirits ~ Cheating Detective Satori, Eastern Strange Legend of Wise Spirits ~ Foul Detective Satori, Estranha Lenda dos Sábios Espíritos Orientais ~ Satori Detetive Trapaceira, 東方智霊奇伝　反則探偵さとり",
   "status": "Berjalan",
   "author": "ZUN",
@@ -25,46 +25,52 @@
   "synopsis": "Manga                    Touhou Chireikiden ~ Hansoku Tantei Satori yang dibuat oleh komikus bernama\n                    ZUN ini bercerita tentang\n                    Manga Touhou resmi kelima (dan komik web pertama) yang ditulis oleh ZUN dan aslinya digambar oleh Ginmokusei.\r\n\r\nTouhou Chireikiden berfokus pada upaya Satori Komeiji sebagai detektif, memecahkan misteri seputar Gensokyo.",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTExLw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTEwLw==",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "9.5",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 9.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTktNS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTkv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTgv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTcv",
-      "date": "6 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "06",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 06",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTA2Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4.5",
@@ -82,7 +88,7 @@
       "chapter": "3.5",
       "title": "Komik Touhou Chireikiden ~ Hansoku Tantei Satori Chapter 3.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91aG91LWNoaXJlaWtpZGVuLWhhbnNva3UtdGFudGVpLXNhdG9yaS1jaGFwdGVyLTMtNS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
@@ -103,5 +109,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }
