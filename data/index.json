@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-05T14:05:09.723633",
-  "total_comics": 732,
+  "last_updated": "2026-02-05T15:04:36.014850",
+  "total_comics": 741,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -262,9 +262,9 @@
       "slug": "return-of-the-devourer",
       "title": "Return of the Devourer",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 13
     },
     {
       "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto",
@@ -404,11 +404,11 @@
     },
     {
       "slug": "167225-subscribing-to-the-transcendents-channel",
-      "title": "Komik\n              Subscribing to the Transcendent’s Channel",
+      "title": "Subscribing to the Transcendent’s Channel",
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "the-apex-of-dragon-mastery",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -3782,9 +3782,9 @@
       "slug": "high-school-musical-genius-is-paganini-reincarnated",
       "title": "High School Musical Genius Is Paganini Reincarnated",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 81
     },
     {
       "slug": "103355-shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
@@ -4678,9 +4678,9 @@
       "slug": "the-supreme-demon-swordmaster",
       "title": "The Supreme Demon Swordmaster",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 18
     },
     {
       "slug": "ogami-tsumiki-to-kinichijou",
@@ -4744,7 +4744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "i-love-the-demon-lord-so-much-that-even-my-female-disciples-want-to-kill-me",
@@ -5200,7 +5200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 102
+      "total_chapters": 103
     },
     {
       "slug": "psychopath-in-murim",
@@ -5857,6 +5857,78 @@
       "status": "Berjalan",
       "rating": 7.3,
       "total_chapters": 72
+    },
+    {
+      "slug": "to-save-seven-villainesses-i-went-full-harem",
+      "title": "To Save Seven Villainesses, I Went Full Harem!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 20
+    },
+    {
+      "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
+      "title": "Sowing Shadows, Harvesting Eternity (I’m a Farmer Who Raises the Undead)",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "isekai-shoukan-oji-san-no-juumusou-life-sabage-suki-salaryman-wa-kaisha-owari-ni-isekai-e-chokki-suru",
+      "title": "Isekai Shoukan Oji-san no Juumusou Life – Sabage Suki Salaryman wa Kaisha Owari ni Isekai e Chokki suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.17,
+      "total_chapters": 71
+    },
+    {
+      "slug": "koko-jidai-ni-gomandatta-jou-sama-to-no-dousei-seikatsu-wa-igaito-igokochi-ga-warukunai",
+      "title": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.63,
+      "total_chapters": 29
+    },
+    {
+      "slug": "164577-kim-ohjins-adventures-with-strange-animals",
+      "title": "Kim Ohjin’s Adventures With Strange Animals",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.16,
+      "total_chapters": 47
+    },
+    {
+      "slug": "osananananajimi",
+      "title": "Osananananajimi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.16,
+      "total_chapters": 8
+    },
+    {
+      "slug": "876366-gokurakugai",
+      "title": "Gokurakugai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.55,
+      "total_chapters": 35
+    },
+    {
+      "slug": "war-of-the-adults",
+      "title": "War of the Adults",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 38
+    },
+    {
+      "slug": "the-tale-of-the-skeleton-messenger",
+      "title": "The Tale of the Skeleton Messenger",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
     }
   ]
 }

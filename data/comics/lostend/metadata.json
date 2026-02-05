@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-04T16:16:35.185125",
+  "scraped_at": "2026-02-05T14:56:08.748624",
   "alternative_titles": "ロストエンド, Lost End",
   "status": "Berjalan",
   "author": "Makoto Nosu",
@@ -25,64 +25,70 @@
   "synopsis": "Manga                    LOSTEND yang dibuat oleh komikus bernama\n                    Makoto Nosu ini bercerita tentang\n                    Tantanglah. Sesering yang dibutuhkan hingga semangatmu pudar. Demi menghidupkan kembali kehidupan yang telah padam, di pegunungan dunia bawah yang keras dan kejam — Sebuah epik bertahan hidup yang kelam dan mencengangkan, digambarkan dengan keterampilan artistik yang luar biasa.",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik LOSTEND Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTQyLw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik LOSTEND Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTQxLw==",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik LOSTEND Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTQwLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik LOSTEND Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTM5Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik LOSTEND Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTM4Lw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik LOSTEND Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTM3Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik LOSTEND Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTM2Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik LOSTEND Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTM1Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik LOSTEND Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTM0Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik LOSTEND Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTMzLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik LOSTEND Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTMyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "31",
@@ -118,7 +124,7 @@
       "chapter": "26",
       "title": "Komik LOSTEND Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTI2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
@@ -265,5 +271,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }
