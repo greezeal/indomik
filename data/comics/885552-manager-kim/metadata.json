@@ -1,12 +1,12 @@
 {
   "slug": "885552-manager-kim",
-  "title": "Komik\n              Manager Kim",
+  "title": "Manager Kim",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvODg1NTUyLW1hbmFnZXIta2ltLw==",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMTEvS29taWstTWFuYWdlci1LaW0tMjIweDMxOS5qcGc=",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-01-31T10:47:22.356769",
+  "scraped_at": "2026-02-05T00:58:18.779463",
   "alternative_titles": "Director Kim, 김부장",
   "status": "Berjalan",
   "author": "Park Tae-Jun Comics Company",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    Manager Kim yang dibuat oleh komikus bernama\n                    Park Tae-Jun Comics Company ini bercerita tentang\n                    “Tolong jangan sentuh pria berkacamata…””Kepala departemen Kim, yang berhenti dari pekerjaannya sebagai agen khusus hanya untuk putrinya Minji dan memilih untuk menjadi normal.” Kemudian suatu hari, Minji menghilang tanpa suara, dan Manajer Kim mulai temukan putrinya dengan mengubah negara yang mengawasinya menjadi musuh.[Lookism] [How to Fight] dan [Life Destination] Pandangan dunia tentang spin-off!",
   "chapters": [
     {
+      "chapter": "228",
+      "title": "Komik Manager Kim Chapter 228",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFuYWdlci1raW0tY2hhcHRlci0yMjgv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "227",
       "title": "Komik Manager Kim Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFuYWdlci1raW0tY2hhcHRlci0yMjcv",
-      "date": "4 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik Manager Kim Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFuYWdlci1raW0tY2hhcHRlci0yMjYv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "225",
       "title": "Komik Manager Kim Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFuYWdlci1raW0tY2hhcHRlci0yMjUv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "224",
       "title": "Komik Manager Kim Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFuYWdlci1raW0tY2hhcHRlci0yMjQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik Manager Kim Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFuYWdlci1raW0tY2hhcHRlci0yMjMv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "222",
@@ -1122,7 +1128,7 @@
       "chapter": "45",
       "title": "Komik Manager Kim Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFuYWdlci1raW0tY2hhcHRlci00NS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "44",
@@ -1521,5 +1527,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 250
+  "total_chapters": 251
 }

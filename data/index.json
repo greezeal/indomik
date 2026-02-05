@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-04T23:52:38.721287",
-  "total_comics": 719,
+  "last_updated": "2026-02-05T01:04:35.029118",
+  "total_comics": 724,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1646,9 +1646,9 @@
       "slug": "a-bad-person",
       "title": "A Bad Person",
       "type": "Manhwa",
-      "status": "",
+      "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 0
+      "total_chapters": 296
     },
     {
       "slug": "a-banished-failure-survives-in-the-borderland-and-becomes-an-s-ranked-exorcist",
@@ -1856,7 +1856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 78
     },
     {
       "slug": "323809-ill-resign-and-have-a-fresh-start-in-this-world",
@@ -1910,9 +1910,9 @@
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
       "title": "Shibou Yuugi de Meshi wo Kuu.",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 22
     },
     {
       "slug": "178312-fairy-tail-100-years-quest",
@@ -2182,17 +2182,17 @@
       "slug": "tower-of-god-side-story-urek-mazino",
       "title": "Tower Of God: Side Story Urek Mazino",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 48
     },
     {
       "slug": "563439-kowloon-saroka",
       "title": "Kowloon: Saroka",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
     },
     {
       "slug": "fun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic",
@@ -2934,9 +2934,9 @@
       "slug": "783596-pick-me-up",
       "title": "Pick Me Up!",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.26,
+      "total_chapters": 187
     },
     {
       "slug": "720516-terminally-ill-genius-dark-knight",
@@ -2950,9 +2950,9 @@
       "slug": "155895-nano-machine",
       "title": "Nano Machine",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.54,
+      "total_chapters": 298
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -4590,9 +4590,9 @@
       "slug": "885552-manager-kim",
       "title": "Manager Kim",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 251
     },
     {
       "slug": "aishiteru-game-wo-owarasetai",
@@ -5753,6 +5753,46 @@
       "status": "Berjalan",
       "rating": 9.09,
       "total_chapters": 159
+    },
+    {
+      "slug": "the-end-has-come",
+      "title": "The End Has Come",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 45
+    },
+    {
+      "slug": "18-year-old-demon-king",
+      "title": "18-Year-Old Demon King",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "konyaku-haki-made-10-nikkan",
+      "title": "Konyaku Haki made 10-Nikkan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.22,
+      "total_chapters": 7
+    },
+    {
+      "slug": "fated-to-be-loved-by-villains",
+      "title": "Fated to Be Loved by Villains",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 53
+    },
+    {
+      "slug": "hiding-a-logistics-center-in-the-apocalypse",
+      "title": "Hiding a Logistics Center in the Apocalypse",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 77
     }
   ]
 }
