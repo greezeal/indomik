@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.86,
-  "scraped_at": "2026-02-05T06:15:53.770621",
+  "scraped_at": "2026-02-05T07:31:20.474006",
   "alternative_titles": "売れ残りの奴隷エルフを拾ったので、娘にすることにした, Urenokori no Dorei Elf o Hirotta no de, Musume ni Suru Koto ni shita, My Daughter Was an Unsold Enslaved Elf, My daughter was an unsold slave elf.",
   "status": "Berjalan",
   "author": "Haruka Touko",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita yang dibuat oleh komikus bernama\n                    Haruka Touko ini bercerita tentang\n                    Weiss, seorang penyihir yang tinggal di Zenith yang penuh bajingan, menemukan seorang gadis elf tinggi untuk dijual, spesies elf tingkat tinggi yang dikatakan telah punah.\r\n\r\nIa memutuskan untuk membelinya dan membesarkannya sebagai putrinya. Elf tinggi itu bahkan tidak tahu cara berbicara bahasa itu, tetapi kerja keras Weiss dalam membesarkannya tampaknya membuahkan hasil...?\r\n\r\nFantasi hangat dan lembut yang menampilkan ayah pemula Weiss dan putri elf kecilnya yang lucu!",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yMi8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yMS8=",
-      "date": "16 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yMC8=",
-      "date": "16 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "19",
@@ -199,5 +205,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }

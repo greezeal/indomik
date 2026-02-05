@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-05T06:16:17.761780",
-  "total_comics": 724,
+  "last_updated": "2026-02-05T07:37:28.261193",
+  "total_comics": 731,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -80,7 +80,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "831172-the-hero-returns",
@@ -1286,9 +1286,9 @@
       "slug": "sea-of-blood-mountain-of-bones",
       "title": "Sea of Blood Mountain of Bones",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.14,
+      "total_chapters": 23
     },
     {
       "slug": "194784-baek-xx",
@@ -1334,9 +1334,9 @@
       "slug": "the-butcher-blade-that-pierces-all-realms",
       "title": "The Butcher Blade That Pierces All Realms",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 27
     },
     {
       "slug": "495189-heavenly-inquisition-sword",
@@ -1974,9 +1974,9 @@
       "slug": "versatile-sword-cultivator",
       "title": "Versatile Sword Cultivator",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.41,
+      "total_chapters": 129
     },
     {
       "slug": "the-villain-of-destiny",
@@ -2054,9 +2054,9 @@
       "slug": "doomsday-game-rise-of-the-villain",
       "title": "Doomsday Game: Rise of the Villain",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 32
     },
     {
       "slug": "the-crown-prince-that-sells-medicine",
@@ -2270,9 +2270,9 @@
       "slug": "office-worker-in-the-ice-age-apocalypse",
       "title": "Office Worker in the Ice Age Apocalypse",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 46
     },
     {
       "slug": "104140-talent-swallowing-magician",
@@ -2790,17 +2790,17 @@
       "slug": "master-of-all-skills",
       "title": "Master of All Skills",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 45
     },
     {
       "slug": "lord-of-summons-sudden-mutation",
       "title": "Lord of Summons! Sudden Mutation",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 82
     },
     {
       "slug": "my-simulated-path-to-immortality",
@@ -3838,9 +3838,9 @@
       "slug": "yotaka-futatabi",
       "title": "Yotaka Futatabi",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
     },
     {
       "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
@@ -4190,9 +4190,9 @@
       "slug": "201905-boundless-necromancer",
       "title": "Boundless Necromancer",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.18,
+      "total_chapters": 173
     },
     {
       "slug": "120051-player-who-cant-level-up",
@@ -4510,9 +4510,9 @@
       "slug": "tsuihou-sareta-tenshou-juu-kishi-ha-gemu-chishiki-de-musou-suru",
       "title": "Tsuihou Sareta Tenshou Juu Kishi ha Gemu chishiki de Musou Suru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 150
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -5158,9 +5158,9 @@
       "slug": "breaking-into-the-body-of-the-emperors-daughter",
       "title": "Breaking Into The Body of The Emperor’s Daughter",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 68
     },
     {
       "slug": "a-thousand-faces",
@@ -5696,7 +5696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "solo-resurrection",
@@ -5752,7 +5752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.09,
-      "total_chapters": 159
+      "total_chapters": 160
     },
     {
       "slug": "the-end-has-come",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 13
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -5793,6 +5793,62 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 77
+    },
+    {
+      "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
+      "title": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.3,
+      "total_chapters": 59
+    },
+    {
+      "slug": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+      "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba ii?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.68,
+      "total_chapters": 76
+    },
+    {
+      "slug": "ura-dungeon-okusan",
+      "title": "Ura Dungeon Okusan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 0.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "172125-zombie-apocalypse-82-08",
+      "title": "Zombie Apocalypse 82-08",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 102
+    },
+    {
+      "slug": "my-wife-is-the-demonic-cult-leader",
+      "title": "My Wife is the Demonic Cult Leader",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.12,
+      "total_chapters": 48
+    },
+    {
+      "slug": "i-became-an-evolving-space-monster",
+      "title": "I Became an Evolving Space Monster",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.33,
+      "total_chapters": 54
+    },
+    {
+      "slug": "lord-of-money",
+      "title": "Lord of Money",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.33,
+      "total_chapters": 286
     }
   ]
 }

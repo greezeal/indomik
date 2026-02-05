@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-04T13:51:48.957592",
+  "scraped_at": "2026-02-05T07:35:04.067476",
   "alternative_titles": "Restaurant in the After Life ,저승식당",
   "status": "Berjalan",
   "author": "ASSAM HY, UNG Sangjun",
@@ -22,16 +22,22 @@
   "synopsis": "Manhwa                    Underworld Restaurant yang dibuat oleh komikus bernama\n                    ASSAM HY, UNG Sangjun ini bercerita tentang\n                    “8, 8, 8, 8,2 miliar?!” 8,2 miliar bangunan tiba-tiba muncul dalam kehidupan sendok bumi!! Dan… restoran? Perilaku pelanggan yang datang ke restoran mencurigakan, dan mereka hanya mengatakan hal-hal yang tidak diketahui… … . terjadi di jantung kota Seoul Kisah menyentuh yang mengerikan. Setiap malam dari jam sebelas sampai jam satu. Restoran Jeoseung buka sekarang! Restoran dunia bawah buka sekarang!",
   "chapters": [
     {
+      "chapter": "102",
+      "title": "Komik Underworld Restaurant Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTAyLw==",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "101",
       "title": "Komik Underworld Restaurant Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTAxLw==",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik Underworld Restaurant Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTAwLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "99",
@@ -73,7 +79,7 @@
       "chapter": "93",
       "title": "Komik Underworld Restaurant Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItOTMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "92",
@@ -628,5 +634,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 101
+  "total_chapters": 102
 }
