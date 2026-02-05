@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T07:37:28.261193",
+  "last_updated": "2026-02-05T11:09:05.063808",
   "total_comics": 731,
   "comics": [
     {
@@ -1094,9 +1094,9 @@
       "slug": "tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru",
       "title": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.04,
+      "total_chapters": 87
     },
     {
       "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
@@ -3030,9 +3030,9 @@
       "slug": "regression-of-the-yong-clan-heir",
       "title": "Regression of the Yong Clan Heir",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 45
     },
     {
       "slug": "510508-the-regressed-mercenarys-machinations",
@@ -5414,9 +5414,9 @@
       "slug": "484033-mikadono-sanshimai-wa-angai-choroi",
       "title": "Mikadono Sanshimai wa Angai, Choroi",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.94,
+      "total_chapters": 193
     },
     {
       "slug": "100402-solo-farming-in-the-tower",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 280
+      "total_chapters": 281
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 25
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -5790,9 +5790,9 @@
       "slug": "hiding-a-logistics-center-in-the-apocalypse",
       "title": "Hiding a Logistics Center in the Apocalypse",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 77
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",

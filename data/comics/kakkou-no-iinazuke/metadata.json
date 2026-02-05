@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.66,
-  "scraped_at": "2026-02-04T23:51:30.521949",
+  "scraped_at": "2026-02-05T11:02:09.322393",
   "alternative_titles": "A Noiva do Cuco, Cuckoo no Iinazuke, Cuckoo's Fiancé, Cuckoo's Fiance, Cuckoo's Forgiveness, A Couple of Cuckoos, La prometida del cuco, Le fiancé du coucou, The Cuckoo's Fiancée, The Cuckoo's Fiance, The Cuckoo's Fiancee, Una pareja de cucos, Обрученные,",
   "status": "Berjalan",
   "author": "Yoshikawa Miki",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Kakkou no Iinazuke yang dibuat oleh komikus bernama\n                    Yoshikawa Miki ini bercerita tentang\n                    Nagi Umino secara keliru beralih saat lahir, dan sekarang bersekolah di sekolah menengah swasta bergengsi. Suatu hari, dia memiliki kesempatan untuk bertemu dengan Erika Amano, seorang gadis sekolah menengah atas yang mengaku sedang dalam perjalanan untuk bertemu tunangannya, dan yang meminta / memaksanya untuk menjadi pacar palsunya. Tak satu pun dari mereka, pada saat itu, memahami pentingnya pertemuan mereka bagi Erika adalah gadis yang ditukar dengan Nagi saat lahir, dan Nagi adalah calon tunangan Erika! Tirai diangkat pada komedi romantis tentang takdir yang saling terkait yang dimulai dengan ditukar saat lahir!",
   "chapters": [
     {
+      "chapter": "279",
+      "title": "Komik Kakkou no Iinazuke Chapter 279",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjc5Lw==",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "278",
       "title": "Komik Kakkou no Iinazuke Chapter 278",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjc4Lw==",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "277",
@@ -1703,5 +1709,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 280
+  "total_chapters": 281
 }
