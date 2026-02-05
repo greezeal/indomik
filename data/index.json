@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-05T15:04:36.014850",
-  "total_comics": 741,
+  "last_updated": "2026-02-05T15:58:42.662048",
+  "total_comics": 744,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -214,9 +214,9 @@
       "slug": "ming-dynastys-failure",
       "title": "Ming Dynasty’s Failure",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 86
     },
     {
       "slug": "moriagaranai-date",
@@ -2662,9 +2662,9 @@
       "slug": "seoul-ghost-story-civil-complaints-department",
       "title": "Seoul Ghost Story Civil Complaints Department",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
     },
     {
       "slug": "the-wandering-knights-survival-manual",
@@ -3630,17 +3630,17 @@
       "slug": "701827-emperor-of-solo-play",
       "title": "Emperor of Solo Play",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.14,
+      "total_chapters": 52
     },
     {
       "slug": "trait-hoarder",
       "title": "Trait Hoarder",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 76
     },
     {
       "slug": "reborn-on-the-demonic-cult-battlefield",
@@ -3662,9 +3662,9 @@
       "slug": "905942-reincarnated-escort-warrior",
       "title": "Reincarnated Escort Warrior",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 140
     },
     {
       "slug": "undead-unluck",
@@ -3886,9 +3886,9 @@
       "slug": "729096-shinka-tokusei-de-saikyou-necromancer",
       "title": "Shinka Tokusei de Saikyou Necromancer",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 110
     },
     {
       "slug": "in-the-face-of-mental-illness-ghosts-are-nothing",
@@ -3990,9 +3990,9 @@
       "slug": "the-third-prince-of-the-fallen-kingdom-has-regressed",
       "title": "The Third Prince Of The Fallen Kingdom has Regressed",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 55
     },
     {
       "slug": "my-death-flags-show-no-sign-of-ending",
@@ -4062,9 +4062,9 @@
       "slug": "to-hell-with-the-status-window",
       "title": "To Hell With the Status Window",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
     },
     {
       "slug": "when-a-genius-office-worker-goes-too-far",
@@ -5206,9 +5206,9 @@
       "slug": "psychopath-in-murim",
       "title": "Psychopath in Murim",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
     },
     {
       "slug": "soul-land-ii",
@@ -5929,6 +5929,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 23
+    },
+    {
+      "slug": "446359-my-exclusive-tower-guide",
+      "title": "My Exclusive Tower Guide",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.81,
+      "total_chapters": 103
+    },
+    {
+      "slug": "shikkoku-tsukai-no-saikyo-yusha-nakama-zenin-ni-uragira-retanode-saikyo-no-mamono",
+      "title": "Shikkoku Tsukai no Saikyo Yusha Nakama Zen’in ni Uragira Retanode Saikyo no Mamono",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 106
+    },
+    {
+      "slug": "fantasy-induction-center",
+      "title": "Fantasy Induction Center",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
     }
   ]
 }
