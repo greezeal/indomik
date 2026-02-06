@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-06T05:47:50.016014",
-  "total_comics": 748,
+  "last_updated": "2026-02-06T08:31:17.268078",
+  "total_comics": 751,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -334,9 +334,9 @@
       "slug": "magic-emperor",
       "title": "Magic Emperor",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.3,
+      "total_chapters": 821
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -1894,9 +1894,9 @@
       "slug": "931897-reborn-as-the-enemy-prince",
       "title": "Reborn As The Enemy Prince",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 91
     },
     {
       "slug": "938340-ao-ashi",
@@ -1998,9 +1998,9 @@
       "slug": "age-of-terror",
       "title": "Age of Terror",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 303
     },
     {
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
@@ -2030,9 +2030,9 @@
       "slug": "somebody-stop-the-pope",
       "title": "Somebody Stop the Pope",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
     },
     {
       "slug": "a-court-magician-who-was-focused-on-supportive-magic-because-his-allies-were-too-weak-aims-to-become-the-strongest-after-being-banished",
@@ -3830,9 +3830,9 @@
       "slug": "kingdom",
       "title": "Kingdom",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 9.26,
+      "total_chapters": 865
     },
     {
       "slug": "yotaka-futatabi",
@@ -4054,9 +4054,9 @@
       "slug": "from-goblin-to-goblin-god",
       "title": "From Goblin to Goblin God",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 96
     },
     {
       "slug": "to-hell-with-the-status-window",
@@ -4406,9 +4406,9 @@
       "slug": "one-piece-id",
       "title": "One Piece",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 9.33,
+      "total_chapters": 1219
     },
     {
       "slug": "bad-business",
@@ -4512,7 +4512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 150
+      "total_chapters": 151
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -5936,7 +5936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 103
+      "total_chapters": 104
     },
     {
       "slug": "shikkoku-tsukai-no-saikyo-yusha-nakama-zenin-ni-uragira-retanode-saikyo-no-mamono",
@@ -5960,7 +5960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 20
     },
     {
       "slug": "reincarnated-as-the-strongest-monster-eater-revenge-on-the-tyrant-dragon",
@@ -5985,6 +5985,30 @@
       "status": "Berjalan",
       "rating": 7.27,
       "total_chapters": 46
+    },
+    {
+      "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
+      "title": "Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 31
+    },
+    {
+      "slug": "king-of-snow",
+      "title": "King Of Snow",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
+    },
+    {
+      "slug": "reborn-as-the-heavenly-demon",
+      "title": "Reborn as The Heavenly Demon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 105
     }
   ]
 }

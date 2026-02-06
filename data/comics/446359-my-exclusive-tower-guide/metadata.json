@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.81,
-  "scraped_at": "2026-02-06T05:46:56.895671",
+  "scraped_at": "2026-02-06T08:25:02.209570",
   "alternative_titles": "나만 보는 탑 공략집, My Very Own Tower Strategy Guide, A Collection of Top Strategies That Only I See",
   "status": "Berjalan",
   "author": "Sado (사도)",
@@ -27,16 +27,22 @@
   "synopsis": "Manhwa                    My Exclusive Tower Guide yang dibuat oleh komikus bernama\n                    Sado (사도) ini bercerita tentang\n                    [Apakah Anda ingin menggunakan buku pedoman?]\r\nSuatu hari, sebuah pesan misterius datang kepada kami, dan permainan bertahan hidup pun dimulai.\r\n\r\nSebuah menara yang menyebabkan satu sama lain 'tidak percaya', 'perselisihan', dan 'kehancuran'.\r\n\r\nSaya tidak akan pernah goyah. Bersama mereka yang percaya padaku, aku akan membentuk akhir menara ini.",
   "chapters": [
     {
+      "chapter": "104",
+      "title": "Komik My Exclusive Tower Guide Chapter 104",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTA0Lw==",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "103",
       "title": "Komik My Exclusive Tower Guide Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTAzLw==",
-      "date": "8 jam yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik My Exclusive Tower Guide Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTAyLw==",
-      "date": "8 jam yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "101",
@@ -645,5 +651,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 103
+  "total_chapters": 104
 }
