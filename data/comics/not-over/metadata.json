@@ -1,12 +1,12 @@
 {
   "slug": "not-over",
-  "title": "Komik\n              Not Over",
+  "title": "Not Over",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvbm90LW92ZXIv",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMTEvS29taWstTm90LU92ZXItMjIweDMxOS5qcGc=",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-01-30T13:42:54.915525",
+  "scraped_at": "2026-02-06T13:48:39.779495",
   "alternative_titles": "9局下半NOT OVER, 낫오버",
   "status": "Berjalan",
   "author": "Doll seok",
@@ -22,34 +22,40 @@
   "synopsis": "Manhwa                    Not Over yang dibuat oleh komikus bernama\n                    Doll seok ini bercerita tentang\n                    Noeul, yang ingin menunjukkan bakatnya kepada dunia,\r\nDabin, yang melempar bola untuk menjadi orang yang berguna, bertemu sebagai satu tim!\r\nKisah perjuangan tim bisbol Sekolah Menengah Daejang saat mereka berusaha memenangkan kejuaraan nasional!",
   "chapters": [
     {
+      "chapter": "66",
+      "title": "Komik Not Over Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci02Ni8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "65",
       "title": "Komik Not Over Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci02NS8=",
-      "date": "32 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Not Over Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci02NC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Not Over Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci02My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Not Over Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci02Mi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Not Over Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci02MS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "60",
@@ -127,19 +133,19 @@
       "chapter": "48",
       "title": "Komik Not Over Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci00OC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Not Over Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci00Ny8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Not Over Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci00Ni8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "45",
@@ -151,7 +157,7 @@
       "chapter": "44",
       "title": "Komik Not Over Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci00NC8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "43",
@@ -175,7 +181,7 @@
       "chapter": "40",
       "title": "Komik Not Over Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm90LW92ZXItY2hhcHRlci00MC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -412,5 +418,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 65
+  "total_chapters": 66
 }

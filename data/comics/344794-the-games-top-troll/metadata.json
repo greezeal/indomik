@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.13,
-  "scraped_at": "2026-02-04T00:46:27.191080",
+  "scraped_at": "2026-02-06T13:49:23.794675",
   "alternative_titles": "World's Strongest Troll, 게임 최강 트롤러",
   "status": "Berjalan",
   "author": "Gunmandumeogja, Park Jong Suk",
@@ -24,16 +24,22 @@
   "synopsis": "Manhwa                    The Game’s Top Troll yang dibuat oleh komikus bernama\n                    Gunmandumeogja, Park Jong Suk ini bercerita tentang\n                    Game paling masuk akal di dunia.\r\n\r\nAjin Electronics, Sillicoff Industry, dan Argos Corporation.\r\n\r\nArcadia, game Realitas Virtual pertama untuk umat manusia, dibuat oleh upaya bersama dari konglomerat terkemuka dunia.\r\n\r\n[Selamat datang di Dunia Fantasi, Arcadia.]\r\n\r\nKisah-kisah gila akan terjadi di dunia itu.\r\n\r\nMereka semua mulai sekarang!",
   "chapters": [
     {
+      "chapter": "166",
+      "title": "Komik The Game’s Top Troll Chapter 166",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE2Ni8=",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "165",
       "title": "Komik The Game’s Top Troll Chapter 165",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE2NS8=",
-      "date": "2 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "164",
       "title": "Komik The Game’s Top Troll Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE2NC8=",
-      "date": "2 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "163",
@@ -75,19 +81,19 @@
       "chapter": "157",
       "title": "Komik The Game’s Top Troll Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE1Ny8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "156",
       "title": "Komik The Game’s Top Troll Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE1Ni8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "155",
       "title": "Komik The Game’s Top Troll Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE1NS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "154",
@@ -141,7 +147,7 @@
       "chapter": "146",
       "title": "Komik The Game’s Top Troll Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE0Ni8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "145",
@@ -189,7 +195,7 @@
       "chapter": "137",
       "title": "Komik The Game’s Top Troll Chapter 137",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTEzNy8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "136",
@@ -225,13 +231,13 @@
       "chapter": "131",
       "title": "Komik The Game’s Top Troll Chapter 131",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTEzMS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "130",
       "title": "Komik The Game’s Top Troll Chapter 130",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTEzMC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "129",
@@ -285,7 +291,7 @@
       "chapter": "121",
       "title": "Komik The Game’s Top Troll Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTEyMS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "120",
@@ -1008,5 +1014,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 164
+  "total_chapters": 165
 }

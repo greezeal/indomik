@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.2,
-  "scraped_at": "2026-02-05T22:54:28.735933",
+  "scraped_at": "2026-02-06T13:49:18.756991",
   "alternative_titles": "우주천마 3077, Space Heavenly Demon 3077, Cosmic Demon 3077",
   "status": "Berjalan",
   "author": "Sanha",
@@ -30,16 +30,22 @@
   "synopsis": "Manhwa                    Cosmic Heavenly Demon 3077 yang dibuat oleh komikus bernama\n                    Sanha ini bercerita tentang\n                    Setelah bertahun-tahun yang tak terhitung jumlahnya, Iblis Surgawi yang tersegel di dalam Gunung Tai akhirnya terbangun, hanya untuk mengetahui bahwa umat manusia telah lama meninggalkan Bumi yang penuh radiasi dan kini menjelajahi pelosok galaksi.",
   "chapters": [
     {
+      "chapter": "75",
+      "title": "Komik Cosmic Heavenly Demon 3077 Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci03NS8=",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "74",
       "title": "Komik Cosmic Heavenly Demon 3077 Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci03NC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Cosmic Heavenly Demon 3077 Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci03My8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "72",
@@ -69,7 +75,7 @@
       "chapter": "68",
       "title": "Komik Cosmic Heavenly Demon 3077 Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci02OC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "67",
@@ -474,5 +480,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 74
+  "total_chapters": 75
 }

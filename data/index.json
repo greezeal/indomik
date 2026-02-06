@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-06T12:37:12.852635",
-  "total_comics": 752,
+  "last_updated": "2026-02-06T13:55:54.858985",
+  "total_comics": 755,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -230,9 +230,9 @@
       "slug": "oukoku-e-tsuzuku-michi",
       "title": "Oukoku E Tsuzuku Michi",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.77,
+      "total_chapters": 107
     },
     {
       "slug": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
@@ -1838,9 +1838,9 @@
       "slug": "kanan-sama-wa-akumade-choroi",
       "title": "Kanan-sama wa Akumade Choroi",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 168
     },
     {
       "slug": "228639-martial-god-regressed-to-level-2",
@@ -2158,9 +2158,9 @@
       "slug": "the-veteran-healer-is-overpowered",
       "title": "The Veteran Healer Is Overpowered",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.44,
+      "total_chapters": 66
     },
     {
       "slug": "everyone-loves-her",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -4246,17 +4246,17 @@
       "slug": "weapon-eating-bastard",
       "title": "Weapon-Eating Bastard",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 73
     },
     {
       "slug": "not-over",
       "title": "Not Over",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 66
     },
     {
       "slug": "976370-reality-quest",
@@ -4542,9 +4542,9 @@
       "slug": "death-penalty",
       "title": "Death Penalty",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 81
     },
     {
       "slug": "s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-con-deshita",
@@ -4952,7 +4952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "cosmic-heavenly-demon-3077",
@@ -4960,7 +4960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "344794-the-games-top-troll",
@@ -4968,7 +4968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 164
+      "total_chapters": 165
     },
     {
       "slug": "tsugihagi-darake-no-saikyou-yuusha",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5472,7 +5472,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 618
+      "total_chapters": 620
     },
     {
       "slug": "843187-i-regressed-but-the-world-didnt-end",
@@ -6017,6 +6017,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 186
+    },
+    {
+      "slug": "yami-ochi-rasu-bosu-reijou-no-osananajimi-ni-tensei-shita-ore-ga-shindara-bad-end-kakutei-na-node-saikyou-ni-natta-kedo-mou-yami-ochi-yandere-ka-shitemasen-ka",
+      "title": "Yami-ochi Rasu Bosu Reijou No Osananajimi Ni Tensei Shita. Ore Ga Shindara Bad End Kakutei Na Node Saikyou Ni Natta Kedo, Mou Yami-ochi “yandere-ka” Shitemasen Ka?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.53,
+      "total_chapters": 8
+    },
+    {
+      "slug": "792245-i-reincarnated-as-a-legendary-surgeon",
+      "title": "I Reincarnated as a Legendary Surgeon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 212
+    },
+    {
+      "slug": "the-postman-walking-through-the-apocalypse",
+      "title": "The Postman Walking Through the Apocalypse",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.03,
-  "scraped_at": "2026-02-05T22:54:31.553699",
+  "scraped_at": "2026-02-06T13:48:44.801528",
   "alternative_titles": "Gui Yi Feng Jiu, Mesmerizing Ghost Doctor, 鬼医凤九",
   "status": "Berjalan",
   "author": "Feng Jiong",
@@ -25,28 +25,40 @@
   "synopsis": "Manhua                    The Ghostly Doctor yang dibuat oleh komikus bernama\n                    Feng Jiong ini bercerita tentang\n                    Dia, pemimpin sekte tersembunyi, berspesialisasi dalam racun dan pembunuhan. Seorang jenius, dan orang aneh, di mata orang lain. Setelah meninggal karena kecelakaan, dia terlahir kembali dalam tubuh wanita yang cacat. Setelah identitasnya berubah dan tidak dapat kembali ke keluarganya, dia meninggalkan mereka, tetapi, jika dia tidak membalas dendam pada mereka yang menyebabkan kerugiannya, apakah dia layak mendapatkan gelar \"The Ghostly Doctor\"? Saat awan berkumpul, para pahlawan bertarung untuk menjadi yang terkuat! Bagaimana dia akan menaklukkan dunia dengan jubah merah, dan bertarung di antara para pahlawan yang kuat ?!",
   "chapters": [
     {
+      "chapter": "630",
+      "title": "Komik The Ghostly Doctor Chapter 630",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjMwLw==",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "629",
+      "title": "Komik The Ghostly Doctor Chapter 629",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjI5Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "628",
       "title": "Komik The Ghostly Doctor Chapter 628",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjI4Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "627",
       "title": "Komik The Ghostly Doctor Chapter 627",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjI3Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "626",
       "title": "Komik The Ghostly Doctor Chapter 626",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjI2Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "625",
       "title": "Komik The Ghostly Doctor Chapter 625",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjI1Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "624",
@@ -3733,5 +3745,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 618
+  "total_chapters": 620
 }
