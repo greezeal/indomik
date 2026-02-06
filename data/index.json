@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-05T22:55:07.482230",
-  "total_comics": 744,
+  "last_updated": "2026-02-06T02:56:53.561061",
+  "total_comics": 748,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -478,9 +478,9 @@
       "slug": "mayonaka-heart-tune",
       "title": "Mayonaka Heart Tune",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.89,
+      "total_chapters": 104
     },
     {
       "slug": "627456-return-of-the-mad-demon",
@@ -1318,9 +1318,9 @@
       "slug": "305039-the-youngest-son-of-a-rich-family",
       "title": "The Youngest Son Of A Rich Family",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 187
     },
     {
       "slug": "soloist-in-a-cage",
@@ -1856,7 +1856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 80
     },
     {
       "slug": "323809-ill-resign-and-have-a-fresh-start-in-this-world",
@@ -2918,17 +2918,17 @@
       "slug": "674703-star-embracing-swordmaster",
       "title": "Star-Embracing Swordmaster",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 109
     },
     {
       "slug": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
       "title": "Regressing As The Reincarnated Bastard Of The Sword Clan",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.04,
+      "total_chapters": 81
     },
     {
       "slug": "783596-pick-me-up",
@@ -3942,9 +3942,9 @@
       "slug": "950565-lookism",
       "title": "Lookism",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.24,
+      "total_chapters": 595
     },
     {
       "slug": "prepaid-dragon-king-tanks-everything",
@@ -3974,17 +3974,17 @@
       "slug": "559645-the-world-after-the-fall",
       "title": "The World After the Fall",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 221
     },
     {
       "slug": "absolute-regression",
       "title": "Absolute Regression",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 87
     },
     {
       "slug": "the-third-prince-of-the-fallen-kingdom-has-regressed",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 246
+      "total_chapters": 247
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4070,9 +4070,9 @@
       "slug": "when-a-genius-office-worker-goes-too-far",
       "title": "When a Genius Office Worker Goes Too Far",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 29
     },
     {
       "slug": "kurai-anoko-to-shitai-koto",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 381
+      "total_chapters": 386
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5953,6 +5953,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 11
+    },
+    {
+      "slug": "the-bathroom-ghost",
+      "title": "The Bathroom Ghost",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "reincarnated-as-the-strongest-monster-eater-revenge-on-the-tyrant-dragon",
+      "title": "Reincarnated as the Strongest Monster Eater: Revenge on the Tyrant Dragon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 30
+    },
+    {
+      "slug": "owari-no-seraph",
+      "title": "Owari no Seraph",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.02,
+      "total_chapters": 152
+    },
+    {
+      "slug": "itsudemo-jitaku-ni-kaerareru-ore-wa-isekai-de-gyoushounin-o-hajimemashita",
+      "title": "Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.27,
+      "total_chapters": 46
     }
   ]
 }

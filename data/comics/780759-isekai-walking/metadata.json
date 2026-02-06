@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.81,
-  "scraped_at": "2026-02-04T06:35:38.404288",
+  "scraped_at": "2026-02-06T02:53:29.290123",
   "alternative_titles": "Walking in Another World, 異世界ウォーキング",
   "status": "Berjalan",
   "author": "Aruku Hito",
@@ -20,16 +20,22 @@
   "synopsis": "Manga                    Isekai Walking yang dibuat oleh komikus bernama\n                    Aruku Hito ini bercerita tentang\n                    Sora, seorang anak laki-laki Jepang yang dipanggil ke dunia lain, memperoleh keterampilan \"Berjalan\". Efeknya adalah \"tidak peduli berapa banyak dia berjalan, dia tidak pernah lelah\". Karena skill yang lemah ini, raja mengeluarkannya dari kelompok pahlawan yang dipanggil. Tapi saat Sora mulai berjalan di dunia lain, dia tiba-tiba naik level!\r\n\r\nBerjalan memiliki efek tersembunyi \"mendapatkan 1 EXP untuk setiap langkah yang diambil\". Dia memperoleh keterampilan yang berguna seperti 'Penilaian', 'Alkimia', dan sihir penyembuhan ...\r\n\r\nMendapatkan satu demi satu keterampilan, dia menjadi berbakat hanya dengan berjalan! Petualangan untuk bertemu dan menyentuh yang tidak diketahui akan segera dimulai!",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik Isekai Walking Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00Mi8=",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik Isekai Walking Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00MS8=",
-      "date": "17 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Isekai Walking Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00MC8=",
-      "date": "17 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "39",
@@ -266,5 +272,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 42
 }
