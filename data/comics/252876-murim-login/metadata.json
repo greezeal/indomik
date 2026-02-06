@@ -1,12 +1,12 @@
 {
   "slug": "252876-murim-login",
-  "title": "Komik\n              Murim Login",
+  "title": "Murim Login",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvMjUyODc2LW11cmltLWxvZ2luLw==",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTIvS29taWstTXVyaW0tTG9naW4tMjI1eDMxOS5qcGc=",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.68,
-  "scraped_at": "2026-02-03T07:20:02.929446",
+  "scraped_at": "2026-02-06T17:06:52.842171",
   "alternative_titles": "Login Murim, 로그인 무림",
   "status": "Berjalan",
   "author": "Zerobic",
@@ -27,10 +27,16 @@
   "synopsis": "Manhwa                    Murim Login yang dibuat oleh komikus bernama\n                    Zerobic ini bercerita tentang\n                    Monster dalam jumlah besar keluar dari gerbang yang merupakan batas dunia. Setelah banyak pengorbanan, Orang-orang memenangkan pertarungan melawan monster melalui kebangkitan mereka. Jin Taekyung masih hidup sebagai 'pemburu kelas F' yang merupakan level terendah. Setelah Jin mengalami masa-masa sulit, dia mendapat kapsul tua kemudian dia masuk ke kapsul yang merupakan dunia pahlawan bela diri. Dan sistem permainan memberinya kemampuan khusus, dia mulai tumbuh menjadi pahlawan bela diri terbaik.",
   "chapters": [
     {
+      "chapter": "250",
+      "title": "Komik Murim Login Chapter 250",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci0yNTAv",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "249",
       "title": "Komik Murim Login Chapter 249",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci0yNDkv",
-      "date": "43 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "248",
@@ -42,7 +48,7 @@
       "chapter": "247",
       "title": "Komik Murim Login Chapter 247",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci0yNDcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "246",
@@ -54,7 +60,7 @@
       "chapter": "245",
       "title": "Komik Murim Login Chapter 245",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci0yNDUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "244",
@@ -114,7 +120,7 @@
       "chapter": "235",
       "title": "Komik Murim Login Chapter 235",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci0yMzUv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "234",
@@ -198,13 +204,13 @@
       "chapter": "221",
       "title": "Komik Murim Login Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci0yMjEv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "220",
       "title": "Komik Murim Login Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci0yMjAv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "219",
@@ -1134,7 +1140,7 @@
       "chapter": "67",
       "title": "Komik Murim Login Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW0tbG9naW4tY2hhcHRlci02Ny8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "66",
@@ -1533,5 +1539,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 251
+  "total_chapters": 252
 }

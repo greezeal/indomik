@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-06T16:13:27.594948",
-  "total_comics": 755,
+  "last_updated": "2026-02-06T17:11:33.863058",
+  "total_comics": 758,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -118,9 +118,9 @@
       "slug": "castle-2-on-top-of-everyone",
       "title": "Castle 2: On Top of Everyone",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 123
     },
     {
       "slug": "genius-blacksmiths-game",
@@ -1182,9 +1182,9 @@
       "slug": "the-demon-king-overrun-by-heroes",
       "title": "The Demon King Overrun by Heroes",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.29,
+      "total_chapters": 16
     },
     {
       "slug": "368745-the-regressed-life-of-a-back-alley-mage",
@@ -2150,9 +2150,9 @@
       "slug": "ascension-from-water-spirit-to-deity",
       "title": "Ascension: From Water Spirit to Deity",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 59
     },
     {
       "slug": "the-veteran-healer-is-overpowered",
@@ -2310,9 +2310,9 @@
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
       "title": "I Become Invincible Black Dragon Boss At The Start",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 92
     },
     {
       "slug": "420654-infinite-mage",
@@ -2654,9 +2654,9 @@
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
       "title": "To Hell With Being A Saint, I’m A Doctor",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.8,
+      "total_chapters": 148
     },
     {
       "slug": "seoul-ghost-story-civil-complaints-department",
@@ -2854,9 +2854,9 @@
       "slug": "155258-juvenile-prison",
       "title": "Juvenile Prison",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.12,
+      "total_chapters": 78
     },
     {
       "slug": "245396-dark-gathering",
@@ -4158,9 +4158,9 @@
       "slug": "level-999-goblin",
       "title": "Level 999 Goblin",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 39
     },
     {
       "slug": "bocchi-tenseiki",
@@ -4318,9 +4318,9 @@
       "slug": "how-to-live-as-the-vampire-lord-crimson-reset",
       "title": "How to Live as the Vampire Lord (Crimson Reset)",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 29
     },
     {
       "slug": "became-the-patron-of-villains",
@@ -5390,9 +5390,9 @@
       "slug": "252876-murim-login",
       "title": "Murim Login",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.68,
+      "total_chapters": 252
     },
     {
       "slug": "939344-magic-academys-genius-blinker",
@@ -5760,7 +5760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "18-year-old-demon-king",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6041,6 +6041,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 2
+    },
+    {
+      "slug": "224625-the-nebulas-civilization",
+      "title": "The Nebula’s Civilization",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 113
+    },
+    {
+      "slug": "ice-lord",
+      "title": "Ice Lord",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
+    },
+    {
+      "slug": "holy-emperors-grandson-is-a-necromancer",
+      "title": "Holy Emperor’s Grandson is a Necromancer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 100
     }
   ]
 }
