@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-06T08:31:17.268078",
-  "total_comics": 751,
+  "last_updated": "2026-02-06T11:08:03.304446",
+  "total_comics": 752,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -446,9 +446,9 @@
       "slug": "mikoto-chan-wa-kirawaretakunai",
       "title": "Mikoto-chan wa Kirawaretakunai!",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.85,
+      "total_chapters": 42
     },
     {
       "slug": "war-of-corpses",
@@ -1070,9 +1070,9 @@
       "slug": "marriagetoxin",
       "title": "MARRIAGETOXIN",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.83,
+      "total_chapters": 85
     },
     {
       "slug": "isshou-senkin",
@@ -2766,9 +2766,9 @@
       "slug": "744328-the-dark-magician-transmigrates-after-66666-years",
       "title": "The Dark Magician Transmigrates After 66666 Years",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 169
     },
     {
       "slug": "sword-devouring-swordmaster",
@@ -4286,9 +4286,9 @@
       "slug": "the-regressed-extra-becomes-a-genius",
       "title": "The Regressed Extra Becomes a Genius",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.17,
+      "total_chapters": 30
     },
     {
       "slug": "686339-i-obtained-a-mythic-item",
@@ -5366,9 +5366,9 @@
       "slug": "212491-the-ultimate-shut-in",
       "title": "The Ultimate Shut-In",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 65
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -6009,6 +6009,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 105
+    },
+    {
+      "slug": "archmage-transcending-through-regression",
+      "title": "Archmage Transcending Through Regression",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 186
     }
   ]
 }

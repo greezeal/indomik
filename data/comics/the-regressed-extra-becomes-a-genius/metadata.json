@@ -1,12 +1,12 @@
 {
   "slug": "the-regressed-extra-becomes-a-genius",
-  "title": "Komik\n              The Regressed Extra Becomes a Genius",
+  "title": "The Regressed Extra Becomes a Genius",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLw==",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTIvS29taWstVGhlLVJlZ3Jlc3NlZC1FeHRyYS1CZWNvbWVzLWEtR2VuaXVzLTIyM3gzMTkuanBn",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.17,
-  "scraped_at": "2026-01-30T13:45:25.228661",
+  "scraped_at": "2026-02-06T11:01:02.193760",
   "alternative_titles": "O Extra Regressado é Um Gênio, The Returned Extra Becomes a Genius, 회귀한 엑스트라가 천재가 됨",
   "status": "Berjalan",
   "author": "Texgol",
@@ -23,34 +23,40 @@
   "synopsis": "Manhwa                    The Regressed Extra Becomes a Genius yang dibuat oleh komikus bernama\n                    Texgol ini bercerita tentang\n                    Kisah ini mengupas kehidupan Kim Seon-woo, yang terjerumus ke dalam sebuah novel terkenal dan memutuskan untuk menjalani kehidupan yang tenang sebagai karakter sampingan. Suatu hari, tokoh utama novel tersebut meninggal…\"Kau pikir aku akan percaya?\"Ia akhirnya kembali ke masa lalu – kembali ke hari pertamanya di dalam novel.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik The Regressed Extra Becomes a Genius Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLWNoYXB0ZXItMzAv",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik The Regressed Extra Becomes a Genius Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLWNoYXB0ZXItMjkv",
-      "date": "40 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Regressed Extra Becomes a Genius Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLWNoYXB0ZXItMjgv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Regressed Extra Becomes a Genius Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLWNoYXB0ZXItMjcv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Regressed Extra Becomes a Genius Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLWNoYXB0ZXItMjYv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Regressed Extra Becomes a Genius Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLWNoYXB0ZXItMjUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -62,7 +68,7 @@
       "chapter": "23",
       "title": "Komik The Regressed Extra Becomes a Genius Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1leHRyYS1iZWNvbWVzLWEtZ2VuaXVzLWNoYXB0ZXItMjMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -197,5 +203,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }
