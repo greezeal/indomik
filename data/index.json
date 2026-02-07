@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T10:40:22.836641",
-  "total_comics": 761,
+  "last_updated": "2026-02-07T11:05:44.172733",
+  "total_comics": 765,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -5102,9 +5102,9 @@
       "slug": "sekai-ni-hitori-zenzokusei-mahou-no-tsukaite",
       "title": "Sekai ni Hitori, Zenzokusei Mahou no Tsukaite",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 49
     },
     {
       "slug": "blood-wing-hunter",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 281
+      "total_chapters": 282
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -6089,6 +6089,38 @@
       "status": "Berjalan",
       "rating": 7.07,
       "total_chapters": 116
+    },
+    {
+      "slug": "chronicle-of-runes",
+      "title": "Chronicle of Runes",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 28
+    },
+    {
+      "slug": "289209-battle-through-the-heavens",
+      "title": "Battle Through the Heavens",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 8.36,
+      "total_chapters": 505
+    },
+    {
+      "slug": "the-sword-master-who-travels-through-time",
+      "title": "The Sword Master Who Travels Through Time",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 30
+    },
+    {
+      "slug": "taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta",
+      "title": "Taida na Akujo Kizoku ni Tensei Shita Ore, Shinario o Bukko wa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
     }
   ]
 }
