@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T00:07:00.478080",
-  "total_comics": 758,
+  "last_updated": "2026-02-07T02:56:42.241896",
+  "total_comics": 759,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 821
+      "total_chapters": 822
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -488,7 +488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
@@ -1814,9 +1814,9 @@
       "slug": "tougen-anki",
       "title": "Tougen Anki",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.74,
+      "total_chapters": 227
     },
     {
       "slug": "dungeon-crawler-carl",
@@ -1840,7 +1840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 168
+      "total_chapters": 169
     },
     {
       "slug": "228639-martial-god-regressed-to-level-2",
@@ -1856,7 +1856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 80
+      "total_chapters": 81
     },
     {
       "slug": "323809-ill-resign-and-have-a-fresh-start-in-this-world",
@@ -2160,7 +2160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 66
+      "total_chapters": 68
     },
     {
       "slug": "everyone-loves-her",
@@ -3022,9 +3022,9 @@
       "slug": "333015-chronicles-of-the-martial-gods-return",
       "title": "Chronicles Of The Martial God’s Return",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.12,
+      "total_chapters": 148
     },
     {
       "slug": "regression-of-the-yong-clan-heir",
@@ -3654,9 +3654,9 @@
       "slug": "special-civil-servant",
       "title": "Special Civil Servant",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 56
     },
     {
       "slug": "905942-reincarnated-escort-warrior",
@@ -3688,7 +3688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "touhou-chireikiden-hansoku-tantei-satori",
@@ -3814,9 +3814,9 @@
       "slug": "the-delivery-man-from-murim",
       "title": "The Delivery Man From Murim",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 91
     },
     {
       "slug": "im-being-misunderstood-as-a-soccer-genius",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 84
+      "total_chapters": 85
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -4310,9 +4310,9 @@
       "slug": "153017-solo-max-level-newbie",
       "title": "Solo Max-Level Newbie",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 245
     },
     {
       "slug": "how-to-live-as-the-vampire-lord-crimson-reset",
@@ -4374,9 +4374,9 @@
       "slug": "345461-overgeared",
       "title": "Overgeared",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.59,
+      "total_chapters": 312
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -4430,9 +4430,9 @@
       "slug": "712275-killer-peter",
       "title": "Killer Peter",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 116
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 386
+      "total_chapters": 391
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -6065,6 +6065,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 100
+    },
+    {
+      "slug": "157285-regressing-with-the-kings-power",
+      "title": "Regressing with the Kings Power",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.81,
+      "total_chapters": 128
     }
   ]
 }
