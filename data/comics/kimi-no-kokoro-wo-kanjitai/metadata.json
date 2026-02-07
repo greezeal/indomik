@@ -1,12 +1,12 @@
 {
   "slug": "kimi-no-kokoro-wo-kanjitai",
-  "title": "Komik\n              Kimi no Kokoro wo Kanjitai",
+  "title": "Kimi no Kokoro wo Kanjitai",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsva2ltaS1uby1rb2tvcm8td28ta2Fuaml0YWkv",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDMvS29taWstS2ltaS1uby1Lb2tvcm8td28tS2Fuaml0YWktMjI1eDMxOS5qcGc=",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.49,
-  "scraped_at": "2026-02-03T07:15:00.851361",
+  "scraped_at": "2026-02-07T13:09:12.933586",
   "alternative_titles": "君の心を漢字たい",
   "status": "Berjalan",
   "author": "Suga Atsushi",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Kimi no Kokoro wo Kanjitai yang dibuat oleh komikus bernama\n                    Suga Atsushi ini bercerita tentang\n                    Seorang anak SMA, Yomi Hashiba, sedang bermasalah. Dia tidak dapat memahami apa yang dipikirkan Mizuki Hanai, seorang gadis keren yang menjadi pacarnya sebulan yang lalu... Suatu hari, ketika dia mengkhawatirkan hubungannya dengan Mizuki Hanai, dia mulai memahami \"Kanji\" -nya... ? (pengucapan yang sama dengan perasaan) Ini adalah awal dari komedi romantis dewasa yang mendebarkan tentang cinta dan kanji!",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Kimi no Kokoro wo Kanjitai Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb2tvcm8td28ta2Fuaml0YWktY2hhcHRlci0xMi8=",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Kimi no Kokoro wo Kanjitai Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb2tvcm8td28ta2Fuaml0YWktY2hhcHRlci0xMS8=",
-      "date": "11 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "10",
@@ -44,7 +50,7 @@
       "chapter": "8.5",
       "title": "Komik Kimi no Kokoro wo Kanjitai Chapter 8.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb2tvcm8td28ta2Fuaml0YWktY2hhcHRlci04LTUv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -95,5 +101,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }

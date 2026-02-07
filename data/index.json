@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T11:58:18.062252",
-  "total_comics": 765,
+  "last_updated": "2026-02-07T13:11:31.935615",
+  "total_comics": 767,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -280,7 +280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "the-heavenly-path-is-not-stupid",
@@ -448,7 +448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "war-of-corpses",
@@ -990,9 +990,9 @@
       "slug": "leveling-in-the-future",
       "title": "Leveling In The Future",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.02,
+      "total_chapters": 293
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 43
+      "total_chapters": 45
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5318,9 +5318,9 @@
       "slug": "kimi-no-kokoro-wo-kanjitai",
       "title": "Kimi no Kokoro wo Kanjitai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.49,
+      "total_chapters": 13
     },
     {
       "slug": "game-sekai-no-mobu-akuyaku-ni-tensei-shita-node-last-bos-wo-mezashite-mita",
@@ -6064,7 +6064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 100
+      "total_chapters": 101
     },
     {
       "slug": "157285-regressing-with-the-kings-power",
@@ -6121,6 +6121,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 21
+    },
+    {
+      "slug": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+      "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.65,
+      "total_chapters": 64
+    },
+    {
+      "slug": "ancestor-is-beautiful-and-elegant",
+      "title": "Ancestor is Beautiful and Elegant",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.16,
+      "total_chapters": 71
     }
   ]
 }

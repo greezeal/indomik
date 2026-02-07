@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-07T08:05:55.524013",
+  "scraped_at": "2026-02-07T13:09:07.894688",
   "alternative_titles": "Grandson of the Holy Emperor Is a Necromancer, 성황의 손자는 네크로맨서",
   "status": "Berjalan",
   "author": "Geulim Jakkun, Studio Neulbom",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Holy Emperor’s Grandson is a Necromancer yang dibuat oleh komikus bernama\n                    Geulim Jakkun, Studio Neulbom ini bercerita tentang\n                    MC kita meninggal karena sengatan listrik yang tidak disengaja dan akhirnya menghuni tubuh seorang pangeran muda di dunia lain, profesi barunya adalah Necromancer yang dia pilih dalam game yang dia mainkan sebelum kematiannya. Namun, hal-hal tidak seperti yang terlihat – termasuk keterampilan Necromancy miliknya!",
   "chapters": [
     {
+      "chapter": "101",
+      "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 101",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTAxLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "100",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTAwLw==",
-      "date": "12 jam yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "99",
@@ -620,5 +626,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 100
+  "total_chapters": 101
 }
