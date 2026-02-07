@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T15:41:35.607283",
+  "last_updated": "2026-02-07T16:03:10.257007",
   "total_comics": 770,
   "comics": [
     {
@@ -62,9 +62,9 @@
       "slug": "583721-swordmasters-youngest-son",
       "title": "Swordmaster’s Youngest Son",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 197
     },
     {
       "slug": "593213-the-lords-coins-arent-decreasing",
@@ -302,9 +302,9 @@
       "slug": "the-mad-dog-of-the-dukes-estate",
       "title": "The Mad Dog of the Duke’s Estate",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 42
     },
     {
       "slug": "the-player-of-the-fallen-family",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 391
+      "total_chapters": 396
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
