@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T02:56:42.241896",
-  "total_comics": 759,
+  "last_updated": "2026-02-07T04:30:37.802751",
+  "total_comics": 761,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2806,9 +2806,9 @@
       "slug": "my-simulated-path-to-immortality",
       "title": "My Simulated Path to Immortality",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.6,
+      "total_chapters": 31
     },
     {
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
@@ -4198,9 +4198,9 @@
       "slug": "120051-player-who-cant-level-up",
       "title": "Player Who Can’t Level Up",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.03,
+      "total_chapters": 218
     },
     {
       "slug": "kyoukai-meikyuu-to-ikai-no-majutsushi",
@@ -4294,9 +4294,9 @@
       "slug": "686339-i-obtained-a-mythic-item",
       "title": "I Obtained a Mythic Item",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 167
     },
     {
       "slug": "976292-i-became-the-tyrant-of-a-defense-game",
@@ -4566,9 +4566,9 @@
       "slug": "shut-up-evil-dragon-i-dont-want-to-raise-a-child-with-you-anymore",
       "title": "Shut Up, Evil Dragon, I Don’t Want to Raise a Child With You Anymore",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 80
     },
     {
       "slug": "colorist",
@@ -5134,9 +5134,9 @@
       "slug": "the-dark-swordsman-returns",
       "title": "The Dark Swordsman Returns",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
     },
     {
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
@@ -6000,7 +6000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "reborn-as-the-heavenly-demon",
@@ -6008,7 +6008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 105
+      "total_chapters": 106
     },
     {
       "slug": "archmage-transcending-through-regression",
@@ -6073,6 +6073,22 @@
       "status": "Berjalan",
       "rating": 6.81,
       "total_chapters": 128
+    },
+    {
+      "slug": "urban-dragon-revealed",
+      "title": "Urban Dragon Revealed",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 31
+    },
+    {
+      "slug": "archmage-restaurant",
+      "title": "Archmage Restaurant",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.07,
+      "total_chapters": 116
     }
   ]
 }

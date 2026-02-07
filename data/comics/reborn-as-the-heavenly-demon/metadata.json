@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-06T16:12:19.153535",
+  "scraped_at": "2026-02-07T04:26:33.098457",
   "alternative_titles": "환생천마",
   "status": "Berjalan",
   "author": "JP",
@@ -24,10 +24,16 @@
   "synopsis": "Manhwa                    Reborn as The Heavenly Demon yang dibuat oleh komikus bernama\n                    JP ini bercerita tentang\n                    Tian Hejin, orang yang lebih dikenal sebagai “Iron-Blooded Alliance Leader,” terbangun di dalam tubuh “Bi Liduan,” seorang aib keluarga!\r\n\r\nHobinya adalah berjudi, dan dia sudah dikurung di dalam gudang cukup lama.\r\nHanya dalam semalam, Tian Hejin yang dianggap sebagai master murim terkuat dari jianghu menjadi sampah yang bahkan tidak bisa seni beladiri.\r\n\r\nMari kita mulai semuanya dari awal dan berusaha mencapai pencapaian di kehidupan pertamaku.",
   "chapters": [
     {
+      "chapter": "107",
+      "title": "Komik Reborn as The Heavenly Demon Chapter 107",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1oZWF2ZW5seS1kZW1vbi1jaGFwdGVyLTEwNy8=",
+      "date": "33 menit yang lalu"
+    },
+    {
       "chapter": "106",
       "title": "Komik Reborn as The Heavenly Demon Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1oZWF2ZW5seS1kZW1vbi1jaGFwdGVyLTEwNi8=",
-      "date": "10 jam yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "105",
@@ -654,5 +660,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 105
+  "total_chapters": 106
 }
