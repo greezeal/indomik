@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T16:49:48.584074",
-  "total_comics": 770,
+  "last_updated": "2026-02-07T17:21:19.424229",
+  "total_comics": 773,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -200,7 +200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.48,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "maou-sama-retry-r",
@@ -1456,7 +1456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "warrior-of-the-sword-heart",
@@ -2056,7 +2056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "the-crown-prince-that-sells-medicine",
@@ -2166,9 +2166,9 @@
       "slug": "everyone-loves-her",
       "title": "Everyone Loves Her",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.88,
+      "total_chapters": 49
     },
     {
       "slug": "675722-i-am-player-who-suck-alone",
@@ -3734,9 +3734,9 @@
       "slug": "get-some-honey-by-copying-skills",
       "title": "Get Some Honey by Copying Skills",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.77,
+      "total_chapters": 17
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -5278,9 +5278,9 @@
       "slug": "one-hundred-thousand-years-of-tribulation-by-heavenly-thunder",
       "title": "One Hundred Thousand Years of Tribulation by Heavenly Thunder",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 31
     },
     {
       "slug": "gray-ash-a-new-life-in-the-dungeon-city",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -5952,7 +5952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "the-bathroom-ghost",
@@ -6161,6 +6161,30 @@
       "status": "Berjalan",
       "rating": 9.12,
       "total_chapters": 152
+    },
+    {
+      "slug": "the-politician-who-sees-the-future",
+      "title": "The Politician Who Sees the Future",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "girl-go",
+      "title": "Girl-Go",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 17
+    },
+    {
+      "slug": "remonster",
+      "title": "Re:Monster",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.55,
+      "total_chapters": 117
     }
   ]
 }

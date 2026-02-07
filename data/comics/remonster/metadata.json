@@ -1,0 +1,736 @@
+{
+  "slug": "remonster",
+  "title": "Re:Monster",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvcmVtb25zdGVyLw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDEvS29taWstUmVNb25zdGVyLTIyNHgzMTkuanBn",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.55,
+  "scraped_at": "2026-02-07T17:16:38.195781",
+  "alternative_titles": "Re Monster, Re:Monster ราชันชาติอสูร, ReMonster, Перерождение: Монстр, リ・モンスター",
+  "status": "Berjalan",
+  "author": "Kanekiru Kogitsune",
+  "illustrator": "Kobayakawa Haruyoshi",
+  "demographic": "Seinen",
+  "themes": [
+    "Demons",
+    "Harem",
+    "Magic",
+    "Monsters",
+    "Reincarnation"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Isekai",
+    "Romance"
+  ],
+  "synopsis": "Manga                    Re:Monster yang dibuat oleh komikus bernama\n                    Kanekiru Kogitsune ini bercerita tentang\n                    Tomokui Kanata telah bereinkarnasi menjadi ras terlemah, goblin, dan diberi nama baru, Rou, setelah mengalami kematian yang tidak menguntungkan.\r\nNamun, goblin Rou telah mempertahankan ingatan dan kemampuan hidupnya sebelumnya untuk mempelajari keterampilan dari apa yang dia makan.\r\nDi dunia alternatif survival of the fittest ini, berbagai peristiwa terungkap. Akankah pesta goblin menjadi pahlawan dunia ini, dengan sentuhan yang menyenangkan dari skenario biasa Anda?\r\nAdaptasi dari seri novel ringan yang ditulis oleh Kanekiru Kogitsune.",
+  "chapters": [
+    {
+      "chapter": "116",
+      "title": "Komik Re:Monster Chapter 116",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTE2Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "115",
+      "title": "Komik Re:Monster Chapter 115",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTE1Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "114",
+      "title": "Komik Re:Monster Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTE0Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "113",
+      "title": "Komik Re:Monster Chapter 113",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTEzLw==",
+      "date": "6 bulan yang lalu"
+    },
+    {
+      "chapter": "112",
+      "title": "Komik Re:Monster Chapter 112",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTEyLw==",
+      "date": "6 bulan yang lalu"
+    },
+    {
+      "chapter": "111",
+      "title": "Komik Re:Monster Chapter 111",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTExLw==",
+      "date": "6 bulan yang lalu"
+    },
+    {
+      "chapter": "110",
+      "title": "Komik Re:Monster Chapter 110",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTEwLw==",
+      "date": "8 bulan yang lalu"
+    },
+    {
+      "chapter": "109",
+      "title": "Komik Re:Monster Chapter 109",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA5Lw==",
+      "date": "8 bulan yang lalu"
+    },
+    {
+      "chapter": "108",
+      "title": "Komik Re:Monster Chapter 108",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA4Lw==",
+      "date": "8 bulan yang lalu"
+    },
+    {
+      "chapter": "107",
+      "title": "Komik Re:Monster Chapter 107",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA3Lw==",
+      "date": "8 bulan yang lalu"
+    },
+    {
+      "chapter": "106",
+      "title": "Komik Re:Monster Chapter 106",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA2Lw==",
+      "date": "8 bulan yang lalu"
+    },
+    {
+      "chapter": "105",
+      "title": "Komik Re:Monster Chapter 105",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA1Lw==",
+      "date": "1 tahun yang lalu"
+    },
+    {
+      "chapter": "104",
+      "title": "Komik Re:Monster Chapter 104",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA0Lw==",
+      "date": "1 tahun yang lalu"
+    },
+    {
+      "chapter": "103",
+      "title": "Komik Re:Monster Chapter 103",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTAzLw==",
+      "date": "1 tahun yang lalu"
+    },
+    {
+      "chapter": "102",
+      "title": "Komik Re:Monster Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTAyLw==",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "101",
+      "title": "Komik Re:Monster Chapter 101",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTAxLw==",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "100",
+      "title": "Komik Re:Monster Chapter 100",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTAwLw==",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "99",
+      "title": "Komik Re:Monster Chapter 99",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTkv",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "98",
+      "title": "Komik Re:Monster Chapter 98",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTgv",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "97",
+      "title": "Komik Re:Monster Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTcv",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "96",
+      "title": "Komik Re:Monster Chapter 96",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTYv",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "95",
+      "title": "Komik Re:Monster Chapter 95",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTUv",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "94",
+      "title": "Komik Re:Monster Chapter 94",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTQv",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "93",
+      "title": "Komik Re:Monster Chapter 93",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTMv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "92",
+      "title": "Komik Re:Monster Chapter 92",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTIv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "91",
+      "title": "Komik Re:Monster Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTEv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "90",
+      "title": "Komik Re:Monster Chapter 90",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItOTAv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "89",
+      "title": "Komik Re:Monster Chapter 89",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODkv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "88",
+      "title": "Komik Re:Monster Chapter 88",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODgv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "87",
+      "title": "Komik Re:Monster Chapter 87",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODcv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "86",
+      "title": "Komik Re:Monster Chapter 86",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODYv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "85",
+      "title": "Komik Re:Monster Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODUv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik Re:Monster Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODQv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "83",
+      "title": "Komik Re:Monster Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODMv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "82",
+      "title": "Komik Re:Monster Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODIv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "81",
+      "title": "Komik Re:Monster Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODEv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "80",
+      "title": "Komik Re:Monster Chapter 80",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItODAv",
+      "date": "3 tahun yang lalu"
+    },
+    {
+      "chapter": "79",
+      "title": "Komik Re:Monster Chapter 79",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzkv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "78",
+      "title": "Komik Re:Monster Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzgv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "77",
+      "title": "Komik Re:Monster Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzcv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "76",
+      "title": "Komik Re:Monster Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzYv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "75",
+      "title": "Komik Re:Monster Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzUv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "74",
+      "title": "Komik Re:Monster Chapter 74",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzQv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "73",
+      "title": "Komik Re:Monster Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzMv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "72",
+      "title": "Komik Re:Monster Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzIv",
+      "date": "4 tahun yang lalu"
+    },
+    {
+      "chapter": "71",
+      "title": "Komik Re:Monster Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzEv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "70",
+      "title": "Komik Re:Monster Chapter 70",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNzAv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "69",
+      "title": "Komik Re:Monster Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjkv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "68",
+      "title": "Komik Re:Monster Chapter 68",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjgv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "67",
+      "title": "Komik Re:Monster Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjcv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "66",
+      "title": "Komik Re:Monster Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjYv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "65",
+      "title": "Komik Re:Monster Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjUv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "64",
+      "title": "Komik Re:Monster Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjQv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "63",
+      "title": "Komik Re:Monster Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjMv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "62",
+      "title": "Komik Re:Monster Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjIv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "61",
+      "title": "Komik Re:Monster Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjEv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "60",
+      "title": "Komik Re:Monster Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNjAv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "59",
+      "title": "Komik Re:Monster Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTkv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "58",
+      "title": "Komik Re:Monster Chapter 58",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTgv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "57",
+      "title": "Komik Re:Monster Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTcv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "56",
+      "title": "Komik Re:Monster Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTYv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "55",
+      "title": "Komik Re:Monster Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTUv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "54",
+      "title": "Komik Re:Monster Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTQv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "53",
+      "title": "Komik Re:Monster Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTMv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "52",
+      "title": "Komik Re:Monster Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTIv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "51",
+      "title": "Komik Re:Monster Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTEv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "50",
+      "title": "Komik Re:Monster Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNTAv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "49",
+      "title": "Komik Re:Monster Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDkv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik Re:Monster Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDgv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik Re:Monster Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDcv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik Re:Monster Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDYv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik Re:Monster Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDUv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "44",
+      "title": "Komik Re:Monster Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDQv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Re:Monster Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDMv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Re:Monster Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDIv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik Re:Monster Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDEv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "40",
+      "title": "Komik Re:Monster Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItNDAv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "39.2",
+      "title": "Komik Re:Monster Chapter 39.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzktMi8=",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "39.1",
+      "title": "Komik Re:Monster Chapter 39.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzktMS8=",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik Re:Monster Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzgv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "37",
+      "title": "Komik Re:Monster Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzcv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Re:Monster Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzYv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik Re:Monster Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzUv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Re:Monster Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzQv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik Re:Monster Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzMv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik Re:Monster Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzIv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "31",
+      "title": "Komik Re:Monster Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzEv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "30",
+      "title": "Komik Re:Monster Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMzAv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Re:Monster Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjkv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik Re:Monster Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjgv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Re:Monster Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjcv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Re:Monster Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjYv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik Re:Monster Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjUv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "24",
+      "title": "Komik Re:Monster Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjQv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Re:Monster Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjMv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik Re:Monster Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjIv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Re:Monster Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjEv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Re:Monster Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMjAv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik Re:Monster Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTkv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Re:Monster Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTgv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Re:Monster Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTcv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Re:Monster Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTYv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Re:Monster Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTUv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Re:Monster Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTQv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Re:Monster Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTMv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Re:Monster Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTIv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Re:Monster Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTEv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Re:Monster Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTAv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "09",
+      "title": "Komik Re:Monster Chapter 09",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDkv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "08",
+      "title": "Komik Re:Monster Chapter 08",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDgv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "07",
+      "title": "Komik Re:Monster Chapter 07",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDcv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "06",
+      "title": "Komik Re:Monster Chapter 06",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDYv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "05",
+      "title": "Komik Re:Monster Chapter 05",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDUv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "04",
+      "title": "Komik Re:Monster Chapter 04",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDQv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "03",
+      "title": "Komik Re:Monster Chapter 03",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDMv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "02",
+      "title": "Komik Re:Monster Chapter 02",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDIv",
+      "date": "5 tahun yang lalu"
+    },
+    {
+      "chapter": "01",
+      "title": "Komik Re:Monster Chapter 01",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMDEv",
+      "date": "5 tahun yang lalu"
+    }
+  ],
+  "total_chapters": 117
+}
