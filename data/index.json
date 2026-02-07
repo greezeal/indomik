@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T13:57:23.733903",
-  "total_comics": 767,
+  "last_updated": "2026-02-07T14:40:45.096927",
+  "total_comics": 770,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -102,9 +102,9 @@
       "slug": "after-rebirth-i-used-mirror-reversal-for-vengeance",
       "title": "After Rebirth, I Used Mirror Reversal For Vengeance",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 42
     },
     {
       "slug": "becoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family",
@@ -2800,7 +2800,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "my-simulated-path-to-immortality",
@@ -2808,7 +2808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
@@ -3062,9 +3062,9 @@
       "slug": "tanbo-de-hirotta-onna-kishi-inaka-de-ore-no-yome-da-to-omowareteiru",
       "title": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.53,
+      "total_chapters": 35
     },
     {
       "slug": "tensei-shitara-sainou-ga-atta-ken-isekai-itte-mo-doryoku-suru",
@@ -3806,9 +3806,9 @@
       "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
       "title": "The Heavenly Demon Wants A Quiet Life",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 68
     },
     {
       "slug": "the-delivery-man-from-murim",
@@ -3966,9 +3966,9 @@
       "slug": "i-took-over-the-academy-with-a-single-sashimi-knife",
       "title": "I Took Over the Academy With a Single Sashimi Knife",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.34,
+      "total_chapters": 67
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -4366,9 +4366,9 @@
       "slug": "250964-the-extras-academy-survival-guide",
       "title": "The Extra’s Academy Survival Guide",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 92
     },
     {
       "slug": "345461-overgeared",
@@ -4494,9 +4494,9 @@
       "slug": "455620-return-of-the-high-ranking-civil-servant",
       "title": "Return of the High-Ranking Civil Servant",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 77
     },
     {
       "slug": "voice-phishing-turns-your-life-around",
@@ -5160,7 +5160,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "a-thousand-faces",
@@ -5680,7 +5680,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "divine-leveling-system",
@@ -6137,6 +6137,30 @@
       "status": "Berjalan",
       "rating": 7.16,
       "total_chapters": 71
+    },
+    {
+      "slug": "god-killer",
+      "title": "God Killer",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 94
+    },
+    {
+      "slug": "774935-i-reincarnated-as-the-crazed-heir",
+      "title": "I Reincarnated As The Crazed Heir",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 163
+    },
+    {
+      "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
+      "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.12,
+      "total_chapters": 152
     }
   ]
 }

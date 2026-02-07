@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.59,
-  "scraped_at": "2026-02-05T06:15:14.500289",
+  "scraped_at": "2026-02-07T14:37:06.306500",
   "alternative_titles": "スライム聖女, Slime Seijo",
   "status": "Berjalan",
   "author": "Yao Aira",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Slime Saint yang dibuat oleh komikus bernama\n                    Yao Aira ini bercerita tentang\n                    Iblis (slime) terlemah yang ingin menjadi manusia bereinkarnasi sebagai orang suci, tetapi dengan karakter terburuk dari semuanya, seorang gadis bangsawan yang jahat. Dari status terendah, dibenci dan dibenci; sebuah eksistensi di mana dia akan segera dilenyapkan jika identitas aslinya sebagai slime diketahui, dia akan menjadi orang suci tercinta agar dapat menjalani kehidupan yang aman dan tenteram!",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Slime Saint Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0yNC8=",
+      "date": "36 menit yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Slime Saint Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0yMy8=",
-      "date": "16 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "22",
@@ -160,5 +166,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }
