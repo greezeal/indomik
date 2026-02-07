@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.2,
-  "scraped_at": "2026-02-07T08:05:17.750896",
+  "scraped_at": "2026-02-07T08:51:25.321140",
   "alternative_titles": "슬기로운 문명생활",
   "status": "Berjalan",
   "author": "Wirae (위래)",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    The Nebula’s Civilization yang dibuat oleh komikus bernama\n                    Wirae (위래) ini bercerita tentang\n                    Choi Seong-woon, meraih peringkat teratas dalam game “Lost World”, berhasil menyelesaikan semua pencapaian game tersebut. Namun, kegembiraannya tidak bertahan lama ketika dia menerima email mencurigakan dan dipanggil ke “Dunia Hilang” yang sebenarnya, di mana dia memulai kompetisi untuk menjadi “dewa.”",
   "chapters": [
     {
+      "chapter": "114",
+      "title": "Komik The Nebula’s Civilization Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lYnVsYXMtY2l2aWxpemF0aW9uLWNoYXB0ZXItMTE0Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "113",
       "title": "Komik The Nebula’s Civilization Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lYnVsYXMtY2l2aWxpemF0aW9uLWNoYXB0ZXItMTEzLw==",
-      "date": "11 jam yang lalu"
+      "date": "16 jam yang lalu"
     },
     {
       "chapter": "112",
@@ -697,5 +703,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 113
+  "total_chapters": 114
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T08:06:01.742807",
+  "last_updated": "2026-02-07T08:54:37.523966",
   "total_comics": 761,
   "comics": [
     {
@@ -232,7 +232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 107
+      "total_chapters": 108
     },
     {
       "slug": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
@@ -310,9 +310,9 @@
       "slug": "the-player-of-the-fallen-family",
       "title": "The Player of the Fallen Family",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 32
     },
     {
       "slug": "the-return-of-the-corpse-king",
@@ -1214,9 +1214,9 @@
       "slug": "serpent-ancestor",
       "title": "Serpent Ancestor",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.35,
+      "total_chapters": 74
     },
     {
       "slug": "my-empress-disciple-is-about-to-turn-dark",
@@ -1830,9 +1830,9 @@
       "slug": "kaiten-no-albus",
       "title": "Kaiten no Albus",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.8,
+      "total_chapters": 78
     },
     {
       "slug": "kanan-sama-wa-akumade-choroi",
@@ -2638,9 +2638,9 @@
       "slug": "devious-son-of-heaven",
       "title": "Devious Son Of Heaven",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 156
     },
     {
       "slug": "riches-cant-buy-loyalty",
@@ -4326,9 +4326,9 @@
       "slug": "became-the-patron-of-villains",
       "title": "Became The Patron Of Villains",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
     },
     {
       "slug": "it-all-starts-with-trillions-of-nether-currency",
@@ -4512,7 +4512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 151
+      "total_chapters": 152
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -4582,9 +4582,9 @@
       "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
       "title": "Scoring the Sacred Body of the Ancients from the Get-go",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 139
     },
     {
       "slug": "885552-manager-kim",
@@ -5094,9 +5094,9 @@
       "slug": "shinobi-undercover",
       "title": "Shinobi Undercover",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.41,
+      "total_chapters": 67
     },
     {
       "slug": "sekai-ni-hitori-zenzokusei-mahou-no-tsukaite",
@@ -6048,7 +6048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 113
+      "total_chapters": 114
     },
     {
       "slug": "ice-lord",
