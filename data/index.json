@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-08T09:23:58.401676",
-  "total_comics": 781,
+  "last_updated": "2026-02-08T10:27:38.052283",
+  "total_comics": 786,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1062,9 +1062,9 @@
       "slug": "all-hail-the-sect-leader",
       "title": "All Hail the Sect Leader",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 494
     },
     {
       "slug": "marriagetoxin",
@@ -1110,9 +1110,9 @@
       "slug": "exorcist-wo-otosenai",
       "title": "Exorcist wo Otosenai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.89,
+      "total_chapters": 87
     },
     {
       "slug": "322911-rookie-but-one-in-a-million-actor",
@@ -2334,9 +2334,9 @@
       "slug": "defective-reincarnator-becomes-the-ultimate-teacher",
       "title": "Defective Reincarnator Becomes The Ultimate Teacher",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 27
     },
     {
       "slug": "world-saving-is-a-skill",
@@ -2374,9 +2374,9 @@
       "slug": "surviving-in-a-school-of-ghost-stories",
       "title": "Surviving in a School of Ghost Stories",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 37
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -3766,9 +3766,9 @@
       "slug": "im-the-hero-but-the-main-heroines-are-trying-to-kill-me",
       "title": "Im the Hero but the Main Heroines Are Trying to Kill Me",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 39
     },
     {
       "slug": "826573-ill-retire-after-saving-the-world",
@@ -6249,6 +6249,46 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 85
+    },
+    {
+      "slug": "inaka-no-home-center-otoko-no-jiyuu-na-isekai-seikatsu",
+      "title": "Inaka no Home Center Otoko no Jiyuu na Isekai Seikatsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.02,
+      "total_chapters": 29
+    },
+    {
+      "slug": "jibun-no-koto-o-shujinkouda-to-shinjite-yamanai-fumidai-ga-shujinkou-o-fumidai-da-to-kanchigai-shite-yuushou-shite-shimau-o-hanashi-desu",
+      "title": "Jibun no koto o shujinkouda to shinjite yamanai fumidai ga, shujinkou o fumidai da to kanchigai shite, yuushou shite shimau o-hanashi desu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.45,
+      "total_chapters": 6
+    },
+    {
+      "slug": "cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite",
+      "title": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni Shite Shimatta Ken ni Tsuite",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.68,
+      "total_chapters": 20
+    },
+    {
+      "slug": "deretai-kanojo-no-uraomote",
+      "title": "Deretai Kanojo no Uraomote",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "the-cleaners-agent",
+      "title": "The Cleaners Agent",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 23
     }
   ]
 }
