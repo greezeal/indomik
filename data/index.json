@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-02-08T06:13:55.922471",
-  "total_comics": 773,
+  "last_updated": "2026-02-08T07:16:54.037242",
+  "total_comics": 780,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
       "title": "Mercenary Enrollment",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 9.1,
+      "total_chapters": 275
     },
     {
       "slug": "151235-reincarnation-of-the-murim-clans-former-ranker",
@@ -22,9 +22,9 @@
       "slug": "226919-academys-undercover-professor",
       "title": "Academy’s Undercover Professor",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 156
     },
     {
       "slug": "427649-the-delusional-hunter-in-another-world",
@@ -126,9 +126,9 @@
       "slug": "genius-blacksmiths-game",
       "title": "Genius Blacksmith’s Game",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.38,
+      "total_chapters": 41
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 822
+      "total_chapters": 823
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -1280,7 +1280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 108
+      "total_chapters": 109
     },
     {
       "slug": "sea-of-blood-mountain-of-bones",
@@ -2942,9 +2942,9 @@
       "slug": "720516-terminally-ill-genius-dark-knight",
       "title": "Terminally-Ill Genius Dark Knight",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 136
     },
     {
       "slug": "155895-nano-machine",
@@ -3342,9 +3342,9 @@
       "slug": "477459-absolute-sword-sense",
       "title": "Absolute Sword Sense",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.01,
+      "total_chapters": 169
     },
     {
       "slug": "i-start-with-13-hidden-traits",
@@ -4200,7 +4200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 218
+      "total_chapters": 219
     },
     {
       "slug": "kyoukai-meikyuu-to-ikai-no-majutsushi",
@@ -4654,25 +4654,25 @@
       "slug": "the-demon-slayers-restauran",
       "title": "The Demon Slayer’s Restaurant",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 44
     },
     {
       "slug": "548836-eternally-regressing-knight",
       "title": "Eternally Regressing Knight",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 96
     },
     {
       "slug": "734821-chronicles-of-the-demon-faction",
       "title": "Chronicles of the Demon Faction",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 157
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -5398,9 +5398,9 @@
       "slug": "939344-magic-academys-genius-blinker",
       "title": "Magic Academy’s Genius Blinker",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.72,
+      "total_chapters": 86
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -6185,6 +6185,62 @@
       "status": "Berjalan",
       "rating": 7.55,
       "total_chapters": 117
+    },
+    {
+      "slug": "tales-of-the-moonlit-night",
+      "title": "Tales of the Moonlit Night",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "ano-shima-no-umine-sou",
+      "title": "Ano Shima no Umine-sou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "monogatari-no-kuromaku-ni-tensei-shite",
+      "title": "Monogatari no Kuromaku ni Tensei shite",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 42
+    },
+    {
+      "slug": "the-genius-who-sees-through-the-world",
+      "title": "The Genius Who Sees Through the World",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.39,
+      "total_chapters": 49
+    },
+    {
+      "slug": "yuusha-party-o-oida-sareta-kiyou-binbou",
+      "title": "Yuusha Party O Oida Sareta Kiyou Binbou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 60
+    },
+    {
+      "slug": "i-will-raise-this-family",
+      "title": "I Will Raise This Family!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 57
+    },
+    {
+      "slug": "375645-the-knight-king-who-returned-with-a-god",
+      "title": "The Knight King Who Returned with a God",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 150
     }
   ]
 }

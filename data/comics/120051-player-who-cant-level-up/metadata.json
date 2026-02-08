@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.03,
-  "scraped_at": "2026-02-07T13:57:05.630897",
+  "scraped_at": "2026-02-08T07:14:37.127060",
   "alternative_titles": "The Player That Can't Level Up, Игрок, который не может повысить уровень, 레벨업 못하는 플레이어",
   "status": "Berjalan",
   "author": "Garbinji",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Player Who Can’t Level Up yang dibuat oleh komikus bernama\n                    Garbinji ini bercerita tentang\n                    Kim GiGyu terbangun sebagai pemain pada usia 18 tahun. Dia mengira hidupnya berada di jalur menuju kesuksesan, memanjat 'menara' dan menutup 'gerbang' ... Tetapi bahkan setelah menyelesaikan tutorial, dia berada di level 1. Dia membunuh seorang goblin sehari, dan dia masih level 1. Bahkan setelah 5 tahun, dia masih level 1. \"Siapa yang mengira bahwa pemain seperti ini akan ada.\" Tidak ada yang tahu.",
   "chapters": [
     {
+      "chapter": "219",
+      "title": "Komik Player Who Can’t Level Up Chapter 219",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMjE5Lw==",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "218",
       "title": "Komik Player Who Can’t Level Up Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMjE4Lw==",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "217",
@@ -1328,5 +1334,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 218
+  "total_chapters": 219
 }
