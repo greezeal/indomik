@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-08T07:16:54.037242",
-  "total_comics": 780,
+  "last_updated": "2026-02-08T09:23:58.401676",
+  "total_comics": 781,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 41
+      "total_chapters": 40
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -294,9 +294,9 @@
       "slug": "the-legendary-hero-is-an-academy-honors-student",
       "title": "The Legendary Hero is an Academy Honors Student",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.75,
+      "total_chapters": 71
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -366,9 +366,9 @@
       "slug": "archmage-curriculum",
       "title": "Archmage Curriculum",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
     },
     {
       "slug": "evolution-begins-with-a-big-tree",
@@ -448,7 +448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "war-of-corpses",
@@ -1374,9 +1374,9 @@
       "slug": "i-became-a-munchkin-skill-thief",
       "title": "I Became a Munchkin Skill Thief",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
     },
     {
       "slug": "ryuuzaki-san-ga-ore-no-mae-dake-de-dereru-riyuu",
@@ -1816,7 +1816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.74,
-      "total_chapters": 227
+      "total_chapters": 229
     },
     {
       "slug": "dungeon-crawler-carl",
@@ -4718,9 +4718,9 @@
       "slug": "the-zero-magic-savior-using-my-unique-skill-to-save-the-world",
       "title": "The Zero-Magic Savior: Using My Unique Skill to Save the World",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
     },
     {
       "slug": "jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyou-to-shitara-betsu-no-tatakai-ga-hajimatta",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5030,9 +5030,9 @@
       "slug": "im-a-super-rich-guy-so-its-reasonable-for-me-to-be-a-scumbag",
       "title": "I’m a Super Rich Guy, So It’s Reasonable For Me to Be a Scumbag",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 25
     },
     {
       "slug": "infinite-level-up-in-murim",
@@ -6241,6 +6241,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 150
+    },
+    {
+      "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-o-kuratte-tsuyoku-naru",
+      "title": "Mamono Kurai no Boukensha ~Ore Dake Mamono o Kuratte Tsuyoku Naru~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 85
     }
   ]
 }
