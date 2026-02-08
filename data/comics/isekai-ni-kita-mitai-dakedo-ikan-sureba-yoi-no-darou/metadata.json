@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.59,
-  "scraped_at": "2026-02-07T00:06:27.020938",
-  "alternative_titles": "Il semblerait que je sois arrivé dans un nouveau monde. Et maintenant, qu'es-que je fais ?, Isekai ni Kita Mitai dakedo Ikanisureba Yoi no Darou, Isekai ni Kita Mitai Dakedo Dousureba Yoi no Darou, Isekai ni Kita Mitai dakedo dou sureba Yoi no Darou, It Seems I Came to Another World. Now What Should I Do?, Ngayon Ano Kaya ang Gagawin Ko, Sa Tingin ko Napadpad ako sa Kabilang Mundo, What Should I Do In A Different world?, 異世界に来たみたいだけど如何すれば良いのだろう, What Should I Do in Different World?",
+  "scraped_at": "2026-02-08T11:58:00.268257",
+  "alternative_titles": "Il semblerait que je sois arrivé dans un nouveau monde. Et maintenant, qu'es-que je fais ?, Isekai ni Kita Mitai dakedo Ikanisureba Yoi no Darou, Isekai ni Kita Mitai Dakedo Dousureba Yoi no Darou, Isekai ni Kita Mitai dakedo dou sureba Yoi no Darou, It S",
   "status": "Berjalan",
   "author": "Mai",
   "illustrator": "Mori Yukinatsu",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou yang dibuat oleh komikus bernama\n                    Mai ini bercerita tentang\n                    Akihiro adalah pegawai biasa berusia 35 tahun yang menyukai makanannya. Selama rutinitas hariannya yang biasa, dia tiba-tiba dipindahkan ke dunia lain. Saat mencari makanan, dia menemukan Lisatia, seorang gadis muda yang sedang berburu di hutan. Setelah menyelamatkannya dari bahaya, dia akhirnya secara tidak sengaja melamarnya dan mereka bertunangan. Maka dimulailah laifu barunya dengan waifu barunya dan kesibukan sehari-hari untuk menjaga perutnya tetap kenyang.\r\n\r\nTautan:",
   "chapters": [
     {
+      "chapter": "31",
+      "title": "Komik Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5pLWtpdGEtbWl0YWktZGFrZWRvLWlrYW4tc3VyZWJhLXlvaS1uby1kYXJvdS1jaGFwdGVyLTMxLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "30",
       "title": "Komik Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5pLWtpdGEtbWl0YWktZGFrZWRvLWlrYW4tc3VyZWJhLXlvaS1uby1kYXJvdS1jaGFwdGVyLTMwLw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "29",
@@ -207,5 +213,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 31
+  "total_chapters": 32
 }

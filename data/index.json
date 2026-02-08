@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-08T11:37:03.032924",
-  "total_comics": 786,
+  "last_updated": "2026-02-08T12:00:29.745068",
+  "total_comics": 791,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -200,7 +200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.48,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "maou-sama-retry-r",
@@ -1134,9 +1134,9 @@
       "slug": "i-became-the-villain-the-hero-is-obsessed-with",
       "title": "I Became The Villain The Hero Is Obsessed With",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 40
     },
     {
       "slug": "643745-ranger-reject",
@@ -1198,9 +1198,9 @@
       "slug": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru",
       "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.23,
+      "total_chapters": 134
     },
     {
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2886,9 +2886,9 @@
       "slug": "my-fake-girlfriends-are-using-me-as-a-shield",
       "title": "My Fake Girlfriends are using me as a Shield",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.22,
+      "total_chapters": 83
     },
     {
       "slug": "supreme-curse-master",
@@ -2902,9 +2902,9 @@
       "slug": "soshiki-no-shukuteki-to-kekkon-shitara-mecha-amai",
       "title": "Soshiki no Shukuteki to Kekkon Shitara Mecha Amai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 6
     },
     {
       "slug": "811607-the-sword-god-from-a-fallen-world",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 44
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -4982,9 +4982,9 @@
       "slug": "superstar-from-age-0",
       "title": "Superstar From Age 0",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.18,
+      "total_chapters": 84
     },
     {
       "slug": "822659-black-corporation-joseon",
@@ -5286,9 +5286,9 @@
       "slug": "gray-ash-a-new-life-in-the-dungeon-city",
       "title": "Gray Ash: A New Life in the Dungeon City",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 17
     },
     {
       "slug": "netoge-no-yome-ga-ninki-idol-datta",
@@ -5640,7 +5640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "mr-war%ea%9e%89-the-strongest-ex-soldier",
@@ -5672,7 +5672,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "slime-saint",
@@ -5992,7 +5992,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "king-of-snow",
@@ -6289,6 +6289,46 @@
       "status": "Berjalan",
       "rating": 7.09,
       "total_chapters": 23
+    },
+    {
+      "slug": "spirit-realm-wanderer",
+      "title": "Spirit Realm Wanderer",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "welcome-home-papa",
+      "title": "Welcome Home, Papa",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.27,
+      "total_chapters": 45
+    },
+    {
+      "slug": "counterattacking-system-available-at-the-grand-ascension-stage",
+      "title": "Counterattacking System Available At The Grand Ascension Stage",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.1,
+      "total_chapters": 72
+    },
+    {
+      "slug": "isekai-rakuraku-mujintou-life-class-teni-de-craft-ability-o-eranda-ore-dake-ga-bishoujo-tachi-to-slow-life-o-okureru-ppoi",
+      "title": "Isekai Rakuraku Mujintou Life: Class Ten’i de Craft Ability o Eranda Ore Dake ga, Bishoujo Tachi to Slow Life o Okureru-ppoi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "i-was-mistaken-for-the-villain",
+      "title": "I Was Mistaken for the Villain",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
     }
   ]
 }
