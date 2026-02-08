@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-08T13:12:42.138219",
-  "total_comics": 791,
+  "last_updated": "2026-02-08T14:00:44.145431",
+  "total_comics": 794,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -54,9 +54,9 @@
       "slug": "549490-martial-wild-west",
       "title": "Martial Wild West",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 112
     },
     {
       "slug": "583721-swordmasters-youngest-son",
@@ -238,9 +238,9 @@
       "slug": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
       "title": "Reincarnated as a Genius Prodigy of a Prestigious Family",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 78
     },
     {
       "slug": "remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta",
@@ -1446,9 +1446,9 @@
       "slug": "muteki-no-ansatsu-ma-shirube-shi-last-boss-musume-to-tabi-wo-suru",
       "title": "Muteki No Ansatsu Ma Shirube Shi, Last Boss Musume to Tabi Wo Suru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
     },
     {
       "slug": "heavenly-demon-goes-to-high-school",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "938340-ao-ashi",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -2894,9 +2894,9 @@
       "slug": "supreme-curse-master",
       "title": "Supreme Curse Master",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 47
     },
     {
       "slug": "soshiki-no-shukuteki-to-kekkon-shitara-mecha-amai",
@@ -4502,9 +4502,9 @@
       "slug": "voice-phishing-turns-your-life-around",
       "title": "Voice Phishing Turns Your Life Around",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 72
     },
     {
       "slug": "tsuihou-sareta-tenshou-juu-kishi-ha-gemu-chishiki-de-musou-suru",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4952,7 +4952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "cosmic-heavenly-demon-3077",
@@ -4990,9 +4990,9 @@
       "slug": "822659-black-corporation-joseon",
       "title": "Black Corporation: Joseon",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 133
     },
     {
       "slug": "death-game-ni-makikomareta-yamamoto-san-kimama-ni-game-balance-wo-houkaisaseru",
@@ -6040,7 +6040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "224625-the-nebulas-civilization",
@@ -6152,7 +6152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 163
+      "total_chapters": 164
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -6329,6 +6329,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 6
+    },
+    {
+      "slug": "287895-dungeon-odyssey",
+      "title": "Dungeon Odyssey",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.14,
+      "total_chapters": 146
+    },
+    {
+      "slug": "807679-the-returned-c-rank-tank-wont-die",
+      "title": "The Returned C-Rank Tank Won’t Die!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.24,
+      "total_chapters": 45
+    },
+    {
+      "slug": "the-ultimate-wantless-godly-rich-system",
+      "title": "The Ultimate Wantless Godly Rich System",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.82,
+      "total_chapters": 80
     }
   ]
 }

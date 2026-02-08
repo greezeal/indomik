@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.3,
-  "scraped_at": "2026-02-07T02:55:59.423896",
+  "scraped_at": "2026-02-08T13:56:51.702409",
   "alternative_titles": "발할라 사가",
   "status": "Berjalan",
   "author": "J-Sun (현가)",
@@ -31,28 +31,34 @@
   "synopsis": "Manhwa                    Valhalla Saga yang dibuat oleh komikus bernama\n                    J-Sun (현가) ini bercerita tentang\n                    Kekuatan para prajurit Valhalla disebut Saga. Kekuatan ini merupakan kekuatan magis yang dahsyat yang lahir dari prestasi dan perbuatan mereka di kehidupan sebelumnya. Dengan demikian, semakin banyak cerita dan legenda tentang para prajurit ini tersebar dan membekas di hati banyak orang, semakin kuat pula Saga mereka.\r\n\r\nTae Ho sendiri jelas bukan seorang prajurit. Akan tetapi, ia adalah gamer profesional papan atas dunia. Di dunia gim Dark Age, karakternya, Dragon Knight Kalsted, dapat disebut sebagai legenda tersendiri.\r\n\r\nPrestasinya, kisahnya.\r\n\r\nSemua prestasi yang telah dikumpulkan oleh Dragon Knight Kalsted dalam gim ini!\r\n\r\n[Saga: Immortal Warrior] Kisah prajurit abadi, Lee Tae Ho, terungkap di medan perang para dewa, Valhalla. Untuk mengakhiri Ragnarok, yang mengancam keberadaan dunia, Saga baru dimulai saat ini juga.",
   "chapters": [
     {
+      "chapter": "67",
+      "title": "Komik Valhalla Saga Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTY3Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "66",
       "title": "Komik Valhalla Saga Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTY2Lw==",
-      "date": "14 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik Valhalla Saga Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTY1Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Valhalla Saga Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTY0Lw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Valhalla Saga Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTYzLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "62",
@@ -142,7 +148,7 @@
       "chapter": "48",
       "title": "Komik Valhalla Saga Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTQ4Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "47",
@@ -166,7 +172,7 @@
       "chapter": "44",
       "title": "Komik Valhalla Saga Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmFsaGFsbGEtc2FnYS1jaGFwdGVyLTQ0Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "43",
@@ -427,5 +433,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 66
+  "total_chapters": 67
 }
