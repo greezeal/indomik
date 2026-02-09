@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-09T05:57:20.510631",
-  "total_comics": 804,
+  "last_updated": "2026-02-09T07:02:18.845431",
+  "total_comics": 807,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -5104,7 +5104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "blood-wing-hunter",
@@ -6433,6 +6433,30 @@
       "status": "Berjalan",
       "rating": 8.86,
       "total_chapters": 187
+    },
+    {
+      "slug": "kyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru",
+      "title": "Kyou Senshina Mob, Mujikaku ni Honpen wo Hakai Suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.24,
+      "total_chapters": 23
+    },
+    {
+      "slug": "datenshi-no-karte",
+      "title": "Datenshi no Karte",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 7
+    },
+    {
+      "slug": "starting-with-ten-billion-spirit-stones-i-buy-out-the-fantasy-world",
+      "title": "Starting with Ten Billion Spirit Stones, I Buy Out the Fantasy World",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 17
     }
   ]
 }
