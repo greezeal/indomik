@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.09,
-  "scraped_at": "2026-02-08T13:11:42.346090",
+  "scraped_at": "2026-02-09T04:12:46.135740",
   "alternative_titles": "Cleaning Staff, Hidden Inheritance, 청소요원",
   "status": "Berjalan",
   "author": "조롱이",
@@ -25,10 +25,16 @@
   "synopsis": "Manhwa                    The Cleaners Agent yang dibuat oleh komikus bernama\n                    조롱이 ini bercerita tentang\n                    Suatu hari, Jin Yisu disergap oleh penyerang tak dikenal dan kehilangan ayahnya, satu-satunya keluarga yang dimilikinya. Seiring berjalannya waktu, ia mulai menyadari bahwa ayahnya bukanlah orang biasa.\r\n\r\nKetika para penyerang kembali beraksi dan nyawa Jin berada di ujung tanduk, sebuah kelompok yang mengaku sebagai mantan rekan ayahnya muncul. Melalui mereka, Jin mengetahui identitas para penyerang: Kelompok \"Cheongdo\".\r\n\r\nCheongdo berusaha memobilisasi para operatornya untuk memperluas dan membangun kembali distrik-distrik kota yang dikelola perusahaan secara ilegal, yang pada akhirnya mengamankan pijakan politik. Setelah mengetahui bahwa ayah dan mantan rekan kerjanya adalah agen rahasia yang melawan sistem dan kekerasan Cheongdo, Jin Yisu memutuskan untuk bergabung dengan mereka.",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik The Cleaners Agent Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsZWFuZXJzLWFnZW50LWNoYXB0ZXItMjUv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik The Cleaners Agent Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsZWFuZXJzLWFnZW50LWNoYXB0ZXItMjQv",
-      "date": "3 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "23",
@@ -163,5 +169,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }

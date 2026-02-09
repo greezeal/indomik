@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-09T01:30:46.710116",
-  "total_comics": 794,
+  "last_updated": "2026-02-09T04:20:41.321566",
+  "total_comics": 800,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -24,7 +24,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 156
+      "total_chapters": 157
     },
     {
       "slug": "427649-the-delusional-hunter-in-another-world",
@@ -110,9 +110,9 @@
       "slug": "becoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family",
       "title": "Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 109
     },
     {
       "slug": "castle-2-on-top-of-everyone",
@@ -342,9 +342,9 @@
       "slug": "noble-lady-reformation-guide",
       "title": "Noble Lady Reformation Guide",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -374,9 +374,9 @@
       "slug": "evolution-begins-with-a-big-tree",
       "title": "Evolution Begins With A Big Tree",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 490
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1150,9 +1150,9 @@
       "slug": "chronicles-of-the-lazy-sovereign",
       "title": "Chronicles of the Lazy Sovereign",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.19,
+      "total_chapters": 34
     },
     {
       "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
@@ -1160,7 +1160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "758554-the-great-mage-returns-after-4000-years",
@@ -1494,9 +1494,9 @@
       "slug": "limit-breaking-genius-mage",
       "title": "Limit-Breaking Genius Mage",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 46
     },
     {
       "slug": "sayonara-piano-sonata",
@@ -1800,15 +1800,15 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "centuria",
       "title": "Centuria",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 82
     },
     {
       "slug": "tougen-anki",
@@ -1856,7 +1856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 83
     },
     {
       "slug": "323809-ill-resign-and-have-a-fresh-start-in-this-world",
@@ -1912,7 +1912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "178312-fairy-tail-100-years-quest",
@@ -1990,9 +1990,9 @@
       "slug": "113835-the-player-hides-his-past",
       "title": "The Player Hides His Past",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 107
     },
     {
       "slug": "age-of-terror",
@@ -2302,9 +2302,9 @@
       "slug": "reincarnation-of-the-demonic-god",
       "title": "Reincarnation Of The Demonic God",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 28
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -2326,9 +2326,9 @@
       "slug": "reincarnators-stream",
       "title": "Reincarnator’s Stream",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
     },
     {
       "slug": "defective-reincarnator-becomes-the-ultimate-teacher",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -2630,9 +2630,9 @@
       "slug": "the-return-of-the-mythical-archmage",
       "title": "The Return of the Mythical Archmage",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 80
     },
     {
       "slug": "devious-son-of-heaven",
@@ -2646,9 +2646,9 @@
       "slug": "riches-cant-buy-loyalty",
       "title": "Riches Can’t Buy Loyalty",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 72
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -2830,9 +2830,9 @@
       "slug": "the-omni-guardian",
       "title": "The Omni Guardian",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 63
     },
     {
       "slug": "fighting-ward",
@@ -3318,9 +3318,9 @@
       "slug": "martial-evolution-start-by-awakening-the-king-of-monsters",
       "title": "Martial Evolution: Start by Awakening the King of Monsters",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 90
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -4094,9 +4094,9 @@
       "slug": "828805-the-long-way-of-the-warrior",
       "title": "The Long Way of the Warrior",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.59,
+      "total_chapters": 115
     },
     {
       "slug": "soukyuu-no-shihai-sha-isekai-oppai-musouden",
@@ -4142,9 +4142,9 @@
       "slug": "the-eight-empresses-betrayed-me-only-to-deeply-regret-it-after-being-reborn",
       "title": "The Eight Empresses Betrayed Me, Only to Deeply Regret It After Being Reborn",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
     },
     {
       "slug": "the-absolute-scholar",
@@ -4262,9 +4262,9 @@
       "slug": "976370-reality-quest",
       "title": "Reality Quest",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 192
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -4758,9 +4758,9 @@
       "slug": "unrivaled-spear-demon",
       "title": "Unrivaled Spear Demon",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
     },
     {
       "slug": "tales-of-demons-and-gods",
@@ -5190,9 +5190,9 @@
       "slug": "545921-revenge-of-the-iron-blooded-sword-hound",
       "title": "Revenge Of The Iron-Blooded Sword Hound",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 150
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5238,9 +5238,9 @@
       "slug": "dukedoms-legendary-prodigy",
       "title": "Dukedom’s Legendary Prodigy",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
     },
     {
       "slug": "miyu-chan-wa-zutto-tomodachi",
@@ -5342,9 +5342,9 @@
       "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
       "title": "The Unbeatable Dungeon’s Lazy Boss Monster",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 114
     },
     {
       "slug": "the-vehement-emperor-of-steel",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 396
+      "total_chapters": 401
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6040,7 +6040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 6
     },
     {
       "slug": "224625-the-nebulas-civilization",
@@ -6192,7 +6192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 20
     },
     {
       "slug": "ano-shima-no-umine-sou",
@@ -6288,7 +6288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "spirit-realm-wanderer",
@@ -6353,6 +6353,54 @@
       "status": "Berjalan",
       "rating": 6.82,
       "total_chapters": 80
+    },
+    {
+      "slug": "the-great-villain-senior-brother-and-all-of-his-yandere-junior-sisters",
+      "title": "The Great Villain Senior Brother and All of His Yandere Junior Sisters",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.32,
+      "total_chapters": 169
+    },
+    {
+      "slug": "the-last-all-knowing-man-collected-trillions-of-stuff-from-day-one",
+      "title": "The Last All-Knowing Man Collected Trillions of Stuff from Day One",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 93
+    },
+    {
+      "slug": "fair-trade-committee",
+      "title": "Fair Trade Committee",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 49
+    },
+    {
+      "slug": "kagurabachi",
+      "title": "Kagurabachi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.41,
+      "total_chapters": 114
+    },
+    {
+      "slug": "the-great-heavenly-demon-sovereign",
+      "title": "The Great Heavenly Demon Sovereign",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 39
+    },
+    {
+      "slug": "anta-to-osananajimitte-dake-demo-iyananoni-zekkou-kara-hajimaru-s-kyuu-bishoujo-to-no-gakuen-nariagari-seikatsu",
+      "title": "Anta to Osananajimitte dake demo Iyananoni! ~Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.63,
+      "total_chapters": 10
     }
   ]
 }
