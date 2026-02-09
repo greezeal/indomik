@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T11:18:04.993082",
+  "last_updated": "2026-02-09T12:05:18.014322",
   "total_comics": 807,
   "comics": [
     {
@@ -6286,9 +6286,9 @@
       "slug": "the-cleaners-agent",
       "title": "The Cleaners Agent",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.09,
-      "total_chapters": 24
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "spirit-realm-wanderer",
