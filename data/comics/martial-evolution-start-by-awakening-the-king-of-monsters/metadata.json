@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-09T12:04:59.420310",
+  "scraped_at": "2026-02-09T13:43:55.388091",
   "alternative_titles": "高武进化：从觉醒怪兽之王开始, Evolución de Alto Nivel: Comenzando como el Rey de los Monstruos",
   "status": "Berjalan",
   "author": "两套金漫画",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    Martial Evolution: Start by Awakening the King of Monsters yang dibuat oleh komikus bernama\n                    两套金漫画 ini bercerita tentang\n                    Seorang pemuda bernama Yi He terlahir kembali ke dunia seni bela diri yang kuat dan membangkitkan Raja Monster dengan garis keturunan terkuat!",
   "chapters": [
     {
+      "chapter": "91",
+      "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTEv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "90",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTAv",
-      "date": "4 jam yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "89",
@@ -146,7 +152,7 @@
       "chapter": "70",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItNzAv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "69",
@@ -362,7 +368,7 @@
       "chapter": "34",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItMzQv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -563,5 +569,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 90
+  "total_chapters": 91
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-09T12:05:18.014322",
-  "total_comics": 807,
+  "last_updated": "2026-02-09T13:48:44.315897",
+  "total_comics": 810,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 490
+      "total_chapters": 491
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "938340-ao-ashi",
@@ -2056,7 +2056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "the-crown-prince-that-sells-medicine",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -5352,7 +5352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "legend",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 282
+      "total_chapters": 283
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -6286,9 +6286,9 @@
       "slug": "the-cleaners-agent",
       "title": "The Cleaners Agent",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 24
     },
     {
       "slug": "spirit-realm-wanderer",
@@ -6457,6 +6457,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 17
+    },
+    {
+      "slug": "demon-god-of-apocalyptic-behemoth",
+      "title": "Demon God of Apocalyptic Behemoth",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 60
+    },
+    {
+      "slug": "how-to-live-as-a-civil-servant-in-murim",
+      "title": "How to Live as a Civil Servant in Murim",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.08,
+      "total_chapters": 16
+    },
+    {
+      "slug": "289682-to-not-die",
+      "title": "To Not Die",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 205
     }
   ]
 }
