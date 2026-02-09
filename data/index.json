@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-09T14:48:36.004175",
-  "total_comics": 810,
+  "last_updated": "2026-02-09T15:47:19.585329",
+  "total_comics": 811,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 309
+      "total_chapters": 310
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -3798,9 +3798,9 @@
       "slug": "surviving-as-a-genius-on-borrowed-time",
       "title": "Surviving as a Genius on Borrowed Time",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 72
     },
     {
       "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
@@ -3950,17 +3950,17 @@
       "slug": "prepaid-dragon-king-tanks-everything",
       "title": "Prepaid Dragon King Tanks Everything!",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.33,
+      "total_chapters": 28
     },
     {
       "slug": "becoming-a-god-in-apocalypse-glossary",
       "title": "Becoming a God in Apocalypse Glossary",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.14,
+      "total_chapters": 32
     },
     {
       "slug": "i-took-over-the-academy-with-a-single-sashimi-knife",
@@ -4238,9 +4238,9 @@
       "slug": "survive-as-the-heros-husband",
       "title": "Survive As The Hero’s Husband",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 325
     },
     {
       "slug": "weapon-eating-bastard",
@@ -4350,17 +4350,17 @@
       "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors",
       "title": "High-Martial World: One Hand to Overwhelm Three Thousand Emperors!",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 10
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
       "title": "Keep A Low Profile, Sect Leader",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 590
     },
     {
       "slug": "250964-the-extras-academy-survival-guide",
@@ -4398,9 +4398,9 @@
       "slug": "the-demonic-sect-masters-secret-apprentice",
       "title": "The Demonic Sect Master’s Secret Apprentice",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 25
     },
     {
       "slug": "one-piece-id",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6481,6 +6481,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 205
+    },
+    {
+      "slug": "360193-true-education",
+      "title": "True Education",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.32,
+      "total_chapters": 234
     }
   ]
 }
