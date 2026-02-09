@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.74,
-  "scraped_at": "2026-02-08T13:12:27.244523",
+  "scraped_at": "2026-02-09T05:51:26.837112",
   "alternative_titles": "桃源暗鬼",
   "status": "Berjalan",
   "author": "Urushibara Yura",
@@ -22,34 +22,46 @@
   "synopsis": "Manga                    Tougen Anki yang dibuat oleh komikus bernama\n                    Urushibara Yura ini bercerita tentang\n                    Ichinose Shiki, pewaris darah Oni telah menjalani seluruh masa kecilnya tanpa menyadari fakta ini. Namun, ketika seorang pria tak dikenal datang bergegas ke rumahnya dalam upaya untuk membunuhnya, ayah angkatnya akhirnya mengungkapkan kebenarannya. Di dunia di mana Oni dan Momotarou tidak pernah bisa hidup berdampingan, bergabunglah dengan Ichinose dalam perjuangannya untuk merebut kekuasaan dan mempersatukan dua ras!",
   "chapters": [
     {
+      "chapter": "227",
+      "title": "Komik Tougen Anki Chapter 227",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjcv",
+      "date": "34 menit yang lalu"
+    },
+    {
+      "chapter": "226",
+      "title": "Komik Tougen Anki Chapter 226",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjYv",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "225",
       "title": "Komik Tougen Anki Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjUv",
-      "date": "3 jam yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "224",
       "title": "Komik Tougen Anki Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjQv",
-      "date": "3 jam yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik Tougen Anki Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjMv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "222",
       "title": "Komik Tougen Anki Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjIv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "221",
       "title": "Komik Tougen Anki Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjEv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "220",
@@ -1396,5 +1408,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 229
+  "total_chapters": 231
 }

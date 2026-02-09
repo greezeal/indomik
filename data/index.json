@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-09T04:20:41.321566",
-  "total_comics": 800,
+  "last_updated": "2026-02-09T05:57:20.510631",
+  "total_comics": 804,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -390,9 +390,9 @@
       "slug": "beethoven-reborn",
       "title": "Beethoven Reborn",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 89
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
@@ -1006,9 +1006,9 @@
       "slug": "sakamoto-days",
       "title": "Sakamoto Days",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.39,
+      "total_chapters": 247
     },
     {
       "slug": "momose-akira-no-hatsukoi-hatan-chuu",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 494
+      "total_chapters": 495
     },
     {
       "slug": "marriagetoxin",
@@ -1816,7 +1816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.74,
-      "total_chapters": 229
+      "total_chapters": 231
     },
     {
       "slug": "dungeon-crawler-carl",
@@ -1870,9 +1870,9 @@
       "slug": "jujutsu-kaisen-modulo",
       "title": "Jujutsu Kaisen Modulo",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.11,
+      "total_chapters": 21
     },
     {
       "slug": "770794-zombie-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
@@ -2342,9 +2342,9 @@
       "slug": "world-saving-is-a-skill",
       "title": "World-Saving Is A Skill",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 14
     },
     {
       "slug": "my-bias-gets-on-the-last-train",
@@ -4296,7 +4296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "976292-i-became-the-tyrant-of-a-defense-game",
@@ -6208,7 +6208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "the-genius-who-sees-through-the-world",
@@ -6401,6 +6401,38 @@
       "status": "Berjalan",
       "rating": 7.63,
       "total_chapters": 10
+    },
+    {
+      "slug": "shitai-katsugi-no-nemu",
+      "title": "Shitai Katsugi no Nemu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
+    },
+    {
+      "slug": "322513-the-31st-piece-turns-the-tables",
+      "title": "The 31st Piece Turns the Tables",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.06,
+      "total_chapters": 101
+    },
+    {
+      "slug": "monopolizing-all-opportunities",
+      "title": "Monopolizing All Opportunities",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 42
+    },
+    {
+      "slug": "shuumatsu-no-valkyrie",
+      "title": "Shuumatsu no Valkyrie",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.86,
+      "total_chapters": 187
     }
   ]
 }

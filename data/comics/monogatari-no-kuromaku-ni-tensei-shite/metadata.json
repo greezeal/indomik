@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.52,
-  "scraped_at": "2026-02-08T11:33:59.966954",
+  "scraped_at": "2026-02-09T05:49:43.792871",
   "alternative_titles": "Reincarnated as the Mastermind of the Story, 物語の黒幕に転生して～進化する魔剣とゲーム知識ですべてをねじ伏せる～",
   "status": "Berjalan",
   "author": "Yuuki Ryou (結城涼)",
@@ -26,10 +26,16 @@
   "synopsis": "Manga                    Monogatari no Kuromaku ni Tensei shite yang dibuat oleh komikus bernama\n                    Yuuki Ryou (結城涼) ini bercerita tentang\n                    Ada game yang populer secara global yang disebut \"The Legend of the Seven Heroes\".\r\nRen menyelesaikan sekuel game itu dengan rekor tercepat di dunia, dan dengan demikian ia memperoleh bonus data khusus.\r\nNamun, di mana pun dia melihat ke dalam game, dia tidak dapat menemukan datanya.\r\nSaat Ren hendak menyerah mencari, dia memutuskan untuk mulai memainkan putaran kedua permainan.\r\nTiba-tiba, pesan notifikasi “Do you want to start a special story?” muncul di layar.\r\nSaat Ren memilih \"Ya\" tanpa ragu, dia kehilangan kesadaran, dan saat dia bangun, dia masih bayi. —-\r\nMungkinkah ia bereinkarnasi sebagai salah satu pahlawan dalam \"The Legend of the Seven Heroes\"?\r\nRen, yang menganggap hal seperti itu tidak mungkin, tidak dapat mempercayai telinganya ketika mendengar namanya dari mulut ibunya.\r\nItu adalah nama teman sekelas yang mengkhianati para pahlawan di tengah cerita.\r\nTentu saja, dia ingin hidup damai.\r\nNamun di dalam game, dia bertemu dengan seorang suci yang hidupnya harus dia ambil, dan ternyata tidak.\r\nTerlebih lagi, dia akhirnya menyelamatkan karakter (bos dari keluarga bangsawan besar) yang seharusnya mati.\r\nSemua hal ini menciptakan perkembangan yang dia tidak tahu tentang datang untuk bermain…",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Monogatari no Kuromaku ni Tensei shite Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9ub2dhdGFyaS1uby1rdXJvbWFrdS1uaS10ZW5zZWktc2hpdGUtY2hhcHRlci0zOC8=",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Monogatari no Kuromaku ni Tensei shite Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9ub2dhdGFyaS1uby1rdXJvbWFrdS1uaS10ZW5zZWktc2hpdGUtY2hhcHRlci0zNy8=",
-      "date": "4 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "36",
@@ -278,5 +284,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 43
 }
