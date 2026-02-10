@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-10T14:12:05.543577",
+  "scraped_at": "2026-02-10T15:38:54.914759",
   "alternative_titles": "保知矢さんはあまりある, Hochiya-san tem mais do que o suficiente., Hochiya-san is a Handful, Hochiya-san has more than enough., Hochiya\\'s a Handful, Nhiều quá rồi đó, Hochiya-san à!!",
   "status": "Berjalan",
   "author": "misekiss",
@@ -23,22 +23,46 @@
   "synopsis": "Manga                    Hochiya-san wa Amariaru yang dibuat oleh komikus bernama\n                    misekiss ini bercerita tentang\n                    Norito Yonezawa adalah seorang siswa SMA yang lesu dan kurang tertarik pada kenyataan. Ia tak bisa berhenti memikirkan teman sekelasnya, Hochiya. Hochiya adalah kebalikan dari dirinya, makan kapan pun dan di mana pun ia mau tanpa mempedulikan orang-orang di sekitarnya. Meskipun begitu, entah kenapa, ia tak bisa mengalihkan pandangannya...",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Hochiya-san wa Amariaru Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9jaGl5YS1zYW4td2EtYW1hcmlhcnUtY2hhcHRlci0xMS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Hochiya-san wa Amariaru Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9jaGl5YS1zYW4td2EtYW1hcmlhcnUtY2hhcHRlci0xMC8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Hochiya-san wa Amariaru Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9jaGl5YS1zYW4td2EtYW1hcmlhcnUtY2hhcHRlci05Lw==",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Hochiya-san wa Amariaru Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9jaGl5YS1zYW4td2EtYW1hcmlhcnUtY2hhcHRlci04Lw==",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Hochiya-san wa Amariaru Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9jaGl5YS1zYW4td2EtYW1hcmlhcnUtY2hhcHRlci03Lw==",
-      "date": "5 jam yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Hochiya-san wa Amariaru Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9jaGl5YS1zYW4td2EtYW1hcmlhcnUtY2hhcHRlci02Lw==",
-      "date": "5 jam yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Hochiya-san wa Amariaru Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9jaGl5YS1zYW4td2EtYW1hcmlhcnUtY2hhcHRlci01Lw==",
-      "date": "5 jam yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "4",
@@ -65,5 +89,5 @@
       "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 11
 }

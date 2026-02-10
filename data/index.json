@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T14:16:00.590086",
+  "last_updated": "2026-02-10T15:42:12.929095",
   "total_comics": 825,
   "comics": [
     {
@@ -86,9 +86,9 @@
       "slug": "831172-the-hero-returns",
       "title": "The Hero Returns",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 141
     },
     {
       "slug": "a-hero-who-does-everything-well",
@@ -480,7 +480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.89,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "627456-return-of-the-mad-demon",
@@ -1254,9 +1254,9 @@
       "slug": "879493-a-dragonslayers-peerless-regression",
       "title": "A Dragonslayer’s Peerless Regression",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.5,
+      "total_chapters": 71
     },
     {
       "slug": "overlord-of-sichuan",
@@ -1264,7 +1264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "848336-the-max-leveled-hero-will-return",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "938340-ao-ashi",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 310
+      "total_chapters": 311
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2088,7 +2088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "keiyaku-shimai",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2752,7 +2752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 188
+      "total_chapters": 189
     },
     {
       "slug": "151515-omniscient-readers-viewpoint",
@@ -3358,9 +3358,9 @@
       "slug": "the-demon-god",
       "title": "The Demon God",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
     },
     {
       "slug": "a-new-living-arrangement-with-my-friend-%e2%99%82-turned-succubus",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 46
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -5432,7 +5432,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 11
     },
     {
       "slug": "780759-isekai-walking",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -6248,7 +6248,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 85
+      "total_chapters": 87
     },
     {
       "slug": "inaka-no-home-center-otoko-no-jiyuu-na-isekai-seikatsu",
