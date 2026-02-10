@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-10T05:19:01.405631",
+  "scraped_at": "2026-02-10T08:37:18.343637",
   "alternative_titles": "Cong Da Shu Kaishi De Jinhua, Evolution From the Big Tree, 从大树开始的进化",
   "status": "Berjalan",
   "author": "绯红之夜",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Evolution Begins With A Big Tree yang dibuat oleh komikus bernama\n                    绯红之夜 ini bercerita tentang\n                    Terlahir kembali sebagai pohon willow! ? Kebangkitan energi spiritual, munculnya segala sesuatu. Willow yang terlahir kembali juga telah memulai jalur evolusi. Itu bisa berevolusi tanpa batas, apakah itu “kekuatan ilahi” atau “kutukan”?",
   "chapters": [
     {
+      "chapter": "493",
+      "title": "Komik Evolution Begins With A Big Tree Chapter 493",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWJlZ2lucy13aXRoLWEtYmlnLXRyZWUtY2hhcHRlci00OTMv",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "492",
       "title": "Komik Evolution Begins With A Big Tree Chapter 492",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWJlZ2lucy13aXRoLWEtYmlnLXRyZWUtY2hhcHRlci00OTIv",
-      "date": "15 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "491",
@@ -459,7 +465,7 @@
       "chapter": "420",
       "title": "Komik Evolution Begins With A Big Tree Chapter 420",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWJlZ2lucy13aXRoLWEtYmlnLXRyZWUtY2hhcHRlci00MjAv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "419",
@@ -2970,5 +2976,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 491
+  "total_chapters": 492
 }

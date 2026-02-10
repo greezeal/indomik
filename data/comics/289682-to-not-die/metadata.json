@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-10T05:18:26.489109",
+  "scraped_at": "2026-02-10T08:40:46.250979",
   "alternative_titles": "죽지 않으려면",
   "status": "Berjalan",
   "author": "Parae",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    To Not Die yang dibuat oleh komikus bernama\n                    Parae ini bercerita tentang\n                    Aku Dajun adalah siswa SMA yang setiap hari di-bully di sekolah. Dia menemukan sebuah wawancara di TV tepat ketika dia hampir menyerah pada kehidupan. Itu dengan seorang pembunuh yang membunuh teman-teman sekelas yang menggertaknya. Dajun menjadi terinspirasi oleh apa yang dia lihat dan memutuskan untuk membalas dendam juga. Balas dendamnya berhasil. Namun, hidupnya mengarah ke arah yang tidak diinginkan. Im Dajun, meninggalkan sekolah, akhirnya bergabung dengan Runaway Fam yang aneh. Pelarian muda, Im Dajun, tidak lagi menderita dari pengganggu di sekolahnya. Sebaliknya, dia sekarang harus bertahan melawan preman yang lebih ganas di jalanan.",
   "chapters": [
     {
+      "chapter": "203",
+      "title": "Komik To Not Die Chapter 203",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8tbm90LWRpZS1jaGFwdGVyLTIwMy8=",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "202",
       "title": "Komik To Not Die Chapter 202",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8tbm90LWRpZS1jaGFwdGVyLTIwMi8=",
-      "date": "15 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "201",
       "title": "Komik To Not Die Chapter 201",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8tbm90LWRpZS1jaGFwdGVyLTIwMS8=",
-      "date": "15 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "200",
@@ -150,7 +156,7 @@
       "chapter": "182",
       "title": "Komik To Not Die Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8tbm90LWRpZS1jaGFwdGVyLTE4Mi8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "181",
@@ -1251,5 +1257,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 205
+  "total_chapters": 206
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.22,
-  "scraped_at": "2026-02-05T12:48:56.846147",
+  "scraped_at": "2026-02-10T08:41:46.873120",
   "alternative_titles": "婚約破棄までの10日間, 10 Days Until the Engagement is Broken, 婚约作废前的十天, 婚約作廢前的十天",
   "status": "Berjalan",
   "author": "Kobato Kosuzu",
@@ -20,16 +20,34 @@
   "synopsis": "Manga                    Konyaku Haki made 10-Nikkan yang dibuat oleh komikus bernama\n                    Kobato Kosuzu ini bercerita tentang\n                    Sombong dan egois, putri seorang earl yang terkenal, Elena Boulder, kehilangan ingatannya dalam kecelakaan aneh tak lama setelah tunangannya, Viscount Oscar West, membatalkan pertunangan mereka.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Konyaku Haki made 10-Nikkan Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29ueWFrdS1oYWtpLW1hZGUtMTAtbmlra2FuLWNoYXB0ZXItMTAv",
+      "date": "49 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Konyaku Haki made 10-Nikkan Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29ueWFrdS1oYWtpLW1hZGUtMTAtbmlra2FuLWNoYXB0ZXItOS8=",
+      "date": "52 menit yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Konyaku Haki made 10-Nikkan Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29ueWFrdS1oYWtpLW1hZGUtMTAtbmlra2FuLWNoYXB0ZXItOC8=",
+      "date": "52 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Konyaku Haki made 10-Nikkan Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29ueWFrdS1oYWtpLW1hZGUtMTAtbmlra2FuLWNoYXB0ZXItNy8=",
-      "date": "12 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Konyaku Haki made 10-Nikkan Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29ueWFrdS1oYWtpLW1hZGUtMTAtbmlra2FuLWNoYXB0ZXItNi8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "5",
@@ -62,5 +80,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 10
 }

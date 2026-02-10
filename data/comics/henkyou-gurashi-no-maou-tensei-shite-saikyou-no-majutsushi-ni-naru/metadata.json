@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.3,
-  "scraped_at": "2026-02-05T14:02:35.093576",
-  "alternative_titles": "〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜, 〜愛されながら成り上がる元魔王は、人間を知りたい〜, ~The Former Demon King Who Grows Up While Being Loved, Wants to Know Humans~, Henkyō-gurashi no Maō, Tensei Shite Saikyō no Majutsu-shi ni Naru, The Demon King of the Frontier Life, Reincarnated to Become the Strongest Mage, 辺境ぐらしの魔王、転生して最強の魔術師になる",
+  "scraped_at": "2026-02-10T08:39:00.854850",
+  "alternative_titles": "〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜, 〜愛されながら成り上がる元魔王は、人間を知りたい〜, ~The Former Demon King Who Grows Up While Being Loved, Wants to Know Humans~, Henkyō-gurashi no Maō, Tensei Shite Saikyō no Majutsu-shi ni Naru, The Demon King of the Fron",
   "status": "Berjalan",
   "author": "Sakaki SENGETSU",
   "illustrator": "Muraichi",
@@ -24,10 +24,16 @@
   "synopsis": "Manga                    Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru yang dibuat oleh komikus bernama\n                    Sakaki SENGETSU ini bercerita tentang\n                    Ada seorang penyihir bernama 'The Lone Demon King' di perbatasan.\r\nDia hanyalah makhluk yang tidak pernah menjadi tua, tetapi dia dicintai oleh penduduk desa sebagai dewa penjaga.\r\nNamun, dia dihancurkan oleh organisasi sihir yang menganggap keberadaannya berbahaya.\r\n200 tahun kemudian, dia bereinkarnasi sebagai putra kedua seorang bangsawan dan memperoleh kekuatan sihir terkuat.\r\n“Mari berpura-pura menjadi manusia kali ini”\r\nNamun, sebagai pecinta manusia, dia tidak terlalu memikirkan balas dendam dan memutuskan untuk berpura-pura menjadi manusia dalam kehidupan ini.\r\nDi kehidupan sebelumnya, dia adalah dewa penjaga suatu wilayah, dan dalam kehidupan ini, dia adalah bangsawan lokal, tetapi dia tidak tahu akal sehat. Dia tidak tahu bagaimana caranya santai.\r\nSebagai putra kedua dari seorang bangsawan, dia dicintai oleh keluarga dan teman-temannya, dan sementara dia dianggap sebagai ahli sihir di serikat sihir, dia menjadi seorang 'Penyihir Abadi' di belakang layar.",
   "chapters": [
     {
+      "chapter": "59",
+      "title": "Komik Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1ndXJhc2hpLW5vLW1hb3UtdGVuc2VpLXNoaXRlLXNhaWt5b3Utbm8tbWFqdXRzdXNoaS1uaS1uYXJ1LWNoYXB0ZXItNTkv",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1ndXJhc2hpLW5vLW1hb3UtdGVuc2VpLXNoaXRlLXNhaWt5b3Utbm8tbWFqdXRzdXNoaS1uaS1uYXJ1LWNoYXB0ZXItNTgv",
-      "date": "6 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "57",
@@ -87,7 +93,7 @@
       "chapter": "48",
       "title": "Komik Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1ndXJhc2hpLW5vLW1hb3UtdGVuc2VpLXNoaXRlLXNhaWt5b3Utbm8tbWFqdXRzdXNoaS1uaS1uYXJ1LWNoYXB0ZXItNDgv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "47",
@@ -378,5 +384,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 60
 }

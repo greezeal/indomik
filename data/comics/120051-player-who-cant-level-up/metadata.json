@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.03,
-  "scraped_at": "2026-02-08T11:35:56.723656",
+  "scraped_at": "2026-02-10T08:41:41.801233",
   "alternative_titles": "The Player That Can't Level Up, Игрок, который не может повысить уровень, 레벨업 못하는 플레이어",
   "status": "Berjalan",
   "author": "Garbinji",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    Player Who Can’t Level Up yang dibuat oleh komikus bernama\n                    Garbinji ini bercerita tentang\n                    Kim GiGyu terbangun sebagai pemain pada usia 18 tahun. Dia mengira hidupnya berada di jalur menuju kesuksesan, memanjat 'menara' dan menutup 'gerbang' ... Tetapi bahkan setelah menyelesaikan tutorial, dia berada di level 1. Dia membunuh seorang goblin sehari, dan dia masih level 1. Bahkan setelah 5 tahun, dia masih level 1. \"Siapa yang mengira bahwa pemain seperti ini akan ada.\" Tidak ada yang tahu.",
   "chapters": [
     {
+      "chapter": "220",
+      "title": "Komik Player Who Can’t Level Up Chapter 220",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMjIwLw==",
+      "date": "59 menit yang lalu"
+    },
+    {
       "chapter": "219",
       "title": "Komik Player Who Can’t Level Up Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMjE5Lw==",
-      "date": "4 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "218",
       "title": "Komik Player Who Can’t Level Up Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMjE4Lw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "217",
@@ -41,7 +47,7 @@
       "chapter": "216",
       "title": "Komik Player Who Can’t Level Up Chapter 216",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMjE2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "215",
@@ -149,7 +155,7 @@
       "chapter": "198",
       "title": "Komik Player Who Can’t Level Up Chapter 198",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMTk4Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "197",
@@ -239,7 +245,7 @@
       "chapter": "183",
       "title": "Komik Player Who Can’t Level Up Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMTgzLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "182",
@@ -275,7 +281,7 @@
       "chapter": "177",
       "title": "Komik Player Who Can’t Level Up Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLXdoby1jYW50LWxldmVsLXVwLWNoYXB0ZXItMTc3Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "176",
@@ -1334,5 +1340,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 219
+  "total_chapters": 220
 }
