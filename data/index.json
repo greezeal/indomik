@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-10T10:48:20.570746",
-  "total_comics": 822,
+  "last_updated": "2026-02-10T11:46:47.123661",
+  "total_comics": 825,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1112,7 +1112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "322911-rookie-but-one-in-a-million-actor",
@@ -1902,9 +1902,9 @@
       "slug": "938340-ao-ashi",
       "title": "Ao Ashi",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.12,
+      "total_chapters": 117
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -4270,9 +4270,9 @@
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
       "title": "Kaoru Hana Wa Rin To Saku",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 184
     },
     {
       "slug": "becoming-a-legendary-ace-employee",
@@ -4382,9 +4382,9 @@
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
       "title": "Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 11
     },
     {
       "slug": "inko-demo-seishun-shitai",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -6040,7 +6040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "224625-the-nebulas-civilization",
@@ -6577,6 +6577,30 @@
       "status": "Berjalan",
       "rating": 7.22,
       "total_chapters": 29
+    },
+    {
+      "slug": "henkyou-no-yakushi-miyako-de-s-rank-boukensha-to-naru",
+      "title": "Henkyou no Yakushi, Miyako de S Rank Boukensha to naru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 46
+    },
+    {
+      "slug": "hello-fluffy-griffin",
+      "title": "Hello, Fluffy Griffin!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 30
+    },
+    {
+      "slug": "revenger-apocalypse-of-vengeance",
+      "title": "Revenger: Apocalypse of Vengeance",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
     }
   ]
 }
