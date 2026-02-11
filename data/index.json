@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T07:50:46.486833",
+  "last_updated": "2026-02-11T08:38:57.465876",
   "total_comics": 832,
   "comics": [
     {
@@ -1046,9 +1046,9 @@
       "slug": "magic-lord",
       "title": "Magic Lord",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 50
     },
     {
       "slug": "950994-isekai-wa-smartphone-to-tomo-ni",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 85
+      "total_chapters": 88
     },
     {
       "slug": "isshou-senkin",
@@ -2000,7 +2000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 304
+      "total_chapters": 305
     },
     {
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5728,7 +5728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 135
+      "total_chapters": 136
     },
     {
       "slug": "zombie-papa",
@@ -5784,7 +5784,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "hiding-a-logistics-center-in-the-apocalypse",
@@ -6072,7 +6072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 128
+      "total_chapters": 129
     },
     {
       "slug": "urban-dragon-revealed",
@@ -6496,7 +6496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.55,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "214767-the-novels-extra",
