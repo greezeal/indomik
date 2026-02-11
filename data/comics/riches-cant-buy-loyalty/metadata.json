@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-10T05:20:11.570202",
+  "scraped_at": "2026-02-11T06:48:19.560168",
   "alternative_titles": "Caifu Ziyou Hou, Tamen Xianshangle Zhongcheng, After Becoming Financially Free, They Offered Their Loyalty, 财富自由后，她们献上了忠诚",
   "status": "Berjalan",
   "author": "肥狸骑士",
@@ -21,16 +21,22 @@
   "synopsis": "Manhua                    Riches Can’t Buy Loyalty yang dibuat oleh komikus bernama\n                    肥狸骑士 ini bercerita tentang\n                    Shen Yuan, pemuda tampan dan kaya, mengalami kebangkrutan keluarga. Dia menjadi “anak orang kaya gagal” dan dibuang pacarnya yang berpikiran materialistis. Namun, nasib baik datang ketika dia mendapatkan “Sistem Kehidupan Impian”.",
   "chapters": [
     {
+      "chapter": "73",
+      "title": "Komik Riches Can’t Buy Loyalty Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmljaGVzLWNhbnQtYnV5LWxveWFsdHktY2hhcHRlci03My8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "72",
       "title": "Komik Riches Can’t Buy Loyalty Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmljaGVzLWNhbnQtYnV5LWxveWFsdHktY2hhcHRlci03Mi8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Riches Can’t Buy Loyalty Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmljaGVzLWNhbnQtYnV5LWxveWFsdHktY2hhcHRlci03MS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "70",
@@ -78,7 +84,7 @@
       "chapter": "63",
       "title": "Komik Riches Can’t Buy Loyalty Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmljaGVzLWNhbnQtYnV5LWxveWFsdHktY2hhcHRlci02My8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "62",
@@ -216,7 +222,7 @@
       "chapter": "40",
       "title": "Komik Riches Can’t Buy Loyalty Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmljaGVzLWNhbnQtYnV5LWxveWFsdHktY2hhcHRlci00MC8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -342,7 +348,7 @@
       "chapter": "19",
       "title": "Komik Riches Can’t Buy Loyalty Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmljaGVzLWNhbnQtYnV5LWxveWFsdHktY2hhcHRlci0xOS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -453,5 +459,5 @@
       "date": "12 bulan yang lalu"
     }
   ],
-  "total_chapters": 72
+  "total_chapters": 73
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-11T05:51:48.838139",
-  "total_comics": 827,
+  "last_updated": "2026-02-11T06:53:37.868110",
+  "total_comics": 832,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -152,7 +152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.83,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "idle-player-returns-as-a-god",
@@ -408,7 +408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "the-apex-of-dragon-mastery",
@@ -1022,9 +1022,9 @@
       "slug": "raidorl-seiken-senki",
       "title": "Raidorl Seiken Senki",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.55,
+      "total_chapters": 9
     },
     {
       "slug": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
@@ -1832,7 +1832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "kanan-sama-wa-akumade-choroi",
@@ -2128,7 +2128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "the-ultimate-of-all-ages",
@@ -2272,7 +2272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "104140-talent-swallowing-magician",
@@ -2648,7 +2648,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -3632,7 +3632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "trait-hoarder",
@@ -3976,7 +3976,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 221
+      "total_chapters": 222
     },
     {
       "slug": "absolute-regression",
@@ -5200,7 +5200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "psychopath-in-murim",
@@ -5336,7 +5336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
@@ -5408,7 +5408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "484033-mikadono-sanshimai-wa-angai-choroi",
@@ -6617,6 +6617,46 @@
       "status": "Berjalan",
       "rating": 7.86,
       "total_chapters": 66
+    },
+    {
+      "slug": "isshiki-san-wa-koi-wo-shiritai",
+      "title": "Isshiki-san wa Koi wo shiritai.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.53,
+      "total_chapters": 49
+    },
+    {
+      "slug": "eiyuu-kyoushitsu",
+      "title": "Eiyuu Kyoushitsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.84,
+      "total_chapters": 63
+    },
+    {
+      "slug": "tsumi-to-batsu-no-spica",
+      "title": "Tsumi to Batsu no Spica",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.4,
+      "total_chapters": 34
+    },
+    {
+      "slug": "hazure-hantei-kara-hajimatta-cheat-majutsushi-seikatsu",
+      "title": "Hazure Hantei kara Hajimatta Cheat Majutsushi Seikatsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 78
+    },
+    {
+      "slug": "isekai-meikyuu-no-saishinbu-o-mezasou",
+      "title": "Isekai Meikyuu no Saishinbu o Mezasou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 42
     }
   ]
 }
