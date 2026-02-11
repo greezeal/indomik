@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-11T14:09:39.002855",
-  "total_comics": 841,
+  "last_updated": "2026-02-11T15:21:36.597173",
+  "total_comics": 844,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -70,9 +70,9 @@
       "slug": "593213-the-lords-coins-arent-decreasing",
       "title": "The Lord’s Coins Aren’t Decreasing?!",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 190
     },
     {
       "slug": "786730-underworld-restaurant",
@@ -1366,9 +1366,9 @@
       "slug": "the-genius-midfielders-pass-is-special",
       "title": "The Genius Midfielder’s Pass Is Special",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 41
     },
     {
       "slug": "i-became-a-munchkin-skill-thief",
@@ -1408,7 +1408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 138
+      "total_chapters": 139
     },
     {
       "slug": "my-clone-is-the-space-bug-king",
@@ -1496,7 +1496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "sayonara-piano-sonata",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "938340-ao-ashi",
@@ -3640,7 +3640,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "reborn-on-the-demonic-cult-battlefield",
@@ -3888,7 +3888,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 111
     },
     {
       "slug": "in-the-face-of-mental-illness-ghosts-are-nothing",
@@ -4344,7 +4344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 124
+      "total_chapters": 125
     },
     {
       "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors",
@@ -4968,7 +4968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 165
+      "total_chapters": 166
     },
     {
       "slug": "tsugihagi-darake-no-saikyou-yuusha",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -6729,6 +6729,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 116
+    },
+    {
+      "slug": "i-am-worried-that-my-childhood-friend-is-too-cute",
+      "title": "I Am Worried That My Childhood Friend Is Too Cute!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 34
+    },
+    {
+      "slug": "scarlet-star",
+      "title": "Scarlet Star",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "koisuru-futari-wa-kiba-o-kakusu-gap-ga-arisugiru-couple-no-hanashi",
+      "title": "Koisuru Futari wa Kiba o Kakusu: Gap ga Arisugiru Couple no Hanashi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }
