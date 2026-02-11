@@ -1,99 +1,112 @@
 {
+  "slug": "gokugoku-futsuu-no-fuufu-no-hanashi",
+  "title": "Gokugoku Futsuu no Fuufu no Hanashi",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGkv",
-  "scraped_at": "2026-01-25T08:48:44.566939",
-  "title": "Komik\n              Gokugoku Futsuu no Fuufu no Hanashi",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTIvS29taWstR29rdWdva3UtRnV0c3V1LW5vLUZ1dWZ1LW5vLUhhbmFzaGktMjI2eDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-02-11T12:34:20.476044",
   "alternative_titles": "ごくごく普通の夫婦の話, Câu chuyện về một cặp đôi rất đỗi bình thường, 如胶似漆小夫妻, A Story of an Utterly Ordinary Couple, Історія про Звичайну Пару",
   "status": "Berjalan",
   "author": "Tokixwa",
   "illustrator": "Tokixwa",
-  "type": "Manga",
   "genres": [
     "Romance",
     "Slice of Life"
   ],
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTIvS29taWstR29rdWdva3UtRnV0c3V1LW5vLUZ1dWZ1LW5vLUhhbmFzaGktMjI2eDMxOS5qcGc=",
-  "rating": 7.0,
   "synopsis": "Manga                    Gokugoku Futsuu no Fuufu no Hanashi yang dibuat oleh komikus bernama\n                    Tokixwa ini bercerita tentang\n                    Kelanjutan dari *Kisah Tentang Seorang Pria dan Seorang Wanita dan Ketika Mereka Tidur Bersama, Uang Muncul Entah dari Mana* yang diposting oleh penulis di pixiv.",
   "chapters": [
+    {
+      "chapter": "14",
+      "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0xNC8=",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0xMy8=",
+      "date": "2 minggu yang lalu"
+    },
     {
       "chapter": "12",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0xMi8=",
-      "date": "7 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0xMS8=",
-      "date": "3 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0xMC8=",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci05Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci04Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci03Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "6.5",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 6.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci02LTUv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci02Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci01Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci00Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0zLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0yLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Gokugoku Futsuu no Fuufu no Hanashi Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdWdva3UtZnV0c3V1LW5vLWZ1dWZ1LW5vLWhhbmFzaGktY2hhcHRlci0xLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 13,
-  "slug": "gokugoku-futsuu-no-fuufu-no-hanashi"
+  "total_chapters": 15
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.66,
-  "scraped_at": "2026-02-10T05:18:18.268525",
+  "scraped_at": "2026-02-11T12:39:20.372404",
   "alternative_titles": "A Noiva do Cuco, Cuckoo no Iinazuke, Cuckoo's Fiancé, Cuckoo's Fiance, Cuckoo's Forgiveness, A Couple of Cuckoos, La prometida del cuco, Le fiancé du coucou, The Cuckoo's Fiancée, The Cuckoo's Fiance, The Cuckoo's Fiancee, Una pareja de cucos, Обрученные,",
   "status": "Berjalan",
   "author": "Yoshikawa Miki",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Kakkou no Iinazuke yang dibuat oleh komikus bernama\n                    Yoshikawa Miki ini bercerita tentang\n                    Nagi Umino secara keliru beralih saat lahir, dan sekarang bersekolah di sekolah menengah swasta bergengsi. Suatu hari, dia memiliki kesempatan untuk bertemu dengan Erika Amano, seorang gadis sekolah menengah atas yang mengaku sedang dalam perjalanan untuk bertemu tunangannya, dan yang meminta / memaksanya untuk menjadi pacar palsunya. Tak satu pun dari mereka, pada saat itu, memahami pentingnya pertemuan mereka bagi Erika adalah gadis yang ditukar dengan Nagi saat lahir, dan Nagi adalah calon tunangan Erika! Tirai diangkat pada komedi romantis tentang takdir yang saling terkait yang dimulai dengan ditukar saat lahir!",
   "chapters": [
     {
+      "chapter": "282",
+      "title": "Komik Kakkou no Iinazuke Chapter 282",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjgyLw==",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "281",
       "title": "Komik Kakkou no Iinazuke Chapter 281",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjgxLw==",
-      "date": "15 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "280",
       "title": "Komik Kakkou no Iinazuke Chapter 280",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjgwLw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "279",
       "title": "Komik Kakkou no Iinazuke Chapter 279",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjc5Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "278",
       "title": "Komik Kakkou no Iinazuke Chapter 278",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjc4Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "277",
@@ -80,7 +86,7 @@
       "chapter": "272",
       "title": "Komik Kakkou no Iinazuke Chapter 272",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjcyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "271",
@@ -98,7 +104,7 @@
       "chapter": "269",
       "title": "Komik Kakkou no Iinazuke Chapter 269",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjY5Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "268",
@@ -326,13 +332,13 @@
       "chapter": "231",
       "title": "Komik Kakkou no Iinazuke Chapter 231",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjMxLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "230",
       "title": "Komik Kakkou no Iinazuke Chapter 230",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjMwLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "229",
@@ -704,7 +710,7 @@
       "chapter": "168",
       "title": "Komik Kakkou no Iinazuke Chapter 168",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMTY4Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "167",
@@ -1721,5 +1727,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 283
+  "total_chapters": 284
 }

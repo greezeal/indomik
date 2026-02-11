@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-11T11:35:08.544108",
-  "total_comics": 832,
+  "last_updated": "2026-02-11T12:40:59.656891",
+  "total_comics": 841,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -142,9 +142,9 @@
       "slug": "gokugoku-futsuu-no-fuufu-no-hanashi",
       "title": "Gokugoku Futsuu no Fuufu no Hanashi",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
     },
     {
       "slug": "healing-life-through-camping-in-another-world",
@@ -448,7 +448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "war-of-corpses",
@@ -1136,7 +1136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "643745-ranger-reject",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 20
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -3014,9 +3014,9 @@
       "slug": "i-quit-the-heros-party",
       "title": "I Quit The Heros Party",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 131
     },
     {
       "slug": "333015-chronicles-of-the-martial-gods-return",
@@ -3718,9 +3718,9 @@
       "slug": "legend-of-star-general",
       "title": "Legend of Star General",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 350
     },
     {
       "slug": "lostend",
@@ -3736,7 +3736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -3750,9 +3750,9 @@
       "slug": "gal-yome-no-himitsu",
       "title": "Gal Yome no Himitsu",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.26,
+      "total_chapters": 56
     },
     {
       "slug": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 253
+      "total_chapters": 254
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -4040,7 +4040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "316904-disastrous-necromancer",
@@ -4150,9 +4150,9 @@
       "slug": "the-absolute-scholar",
       "title": "The Absolute Scholar",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
     },
     {
       "slug": "level-999-goblin",
@@ -4646,9 +4646,9 @@
       "slug": "713196-otherworldly-sword-kings-survival-records",
       "title": "Otherworldly Sword King’s Survival Records",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.54,
+      "total_chapters": 279
     },
     {
       "slug": "the-demon-slayers-restauran",
@@ -4750,9 +4750,9 @@
       "slug": "i-love-the-demon-lord-so-much-that-even-my-female-disciples-want-to-kill-me",
       "title": "I Love the Demon Lord So Much That Even My Female Disciples Want to Kill Me",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 101
     },
     {
       "slug": "unrivaled-spear-demon",
@@ -4886,9 +4886,9 @@
       "slug": "what-a-bountiful-harvest-demon-lord",
       "title": "What a Bountiful Harvest, Demon Lord!",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 53
     },
     {
       "slug": "office-worker-who-sees-fate",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 283
+      "total_chapters": 284
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -5656,7 +5656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.45,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "eiyuu-to-majo-no-tensei-rabu-kome",
@@ -5712,7 +5712,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.78,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "yuusha-party-wo-kubi-ni-natta-node-kokyou-ni-kaettara-member-zenin-ga-tsuitekitandaga",
@@ -5856,7 +5856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "to-save-seven-villainesses-i-went-full-harem",
@@ -6584,7 +6584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.54,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "hello-fluffy-griffin",
@@ -6600,7 +6600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "level-1-kara-hajimaru-shoukan-musou",
@@ -6657,6 +6657,78 @@
       "status": "Berjalan",
       "rating": 7.57,
       "total_chapters": 42
+    },
+    {
+      "slug": "lu-bus-life-simulator",
+      "title": "Lu Bu’s Life Simulator",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.02,
+      "total_chapters": 152
+    },
+    {
+      "slug": "magical-realm-shopkeeper",
+      "title": "Magical Realm Shopkeeper",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 90
+    },
+    {
+      "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu",
+      "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. ~Madousho no Chikara de Sokoku wo Tataki Tsubushimasu~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 0.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "kaifukushoku-no-akuyaku-reijou",
+      "title": "Kaifukushoku no Akuyaku Reijou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 20
+    },
+    {
+      "slug": "kaketa-tsuki-no-mercedes-kyuuketsuki-no-kizoku-ni-tensei-shitakedo-sute-rare-sounanode-dungeon-o-seiha-suru",
+      "title": "Kaketa Tsuki no Mercedes ~Kyuuketsuki no Kizoku ni Tensei Shitakedo Sute Rare Sounanode Dungeon o Seiha Suru~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "kimi-ni-koisuru-sanshimai",
+      "title": "Kimi ni Koisuru Sanshimai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.8,
+      "total_chapters": 14
+    },
+    {
+      "slug": "612685-divine-beast-kindergarten",
+      "title": "Divine Beast Kindergarten",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 50
+    },
+    {
+      "slug": "kami-chi-no-kyuuseishu-0-00000001-o-hikiate-saikyou-e",
+      "title": "Kami Chi no Kyuuseishu -0. 00000001% o Hikiate Saikyou e-",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.92,
+      "total_chapters": 119
+    },
+    {
+      "slug": "654785-im-not-that-kind-of-talent",
+      "title": "I’m Not That Kind of Talent",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 116
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.3,
-  "scraped_at": "2026-02-05T15:02:28.025298",
+  "scraped_at": "2026-02-11T12:39:56.772299",
   "alternative_titles": "My Younger Sibling Was a Genius, 동생이 천재였다",
   "status": "Berjalan",
   "author": "Geon-il,Siha",
@@ -23,28 +23,34 @@
   "synopsis": "Manhwa                    My Younger Sister Was a Genius yang dibuat oleh komikus bernama\n                    Geon-il,Siha ini bercerita tentang\n                    Yoon Hajoon, yang berjuang untuk mengejar karir musiknya meskipun bakatnya rapuh dan akhirnya mengorbankan keluarganya sendiri, \"Kalau saja aku bisa memutar kembali waktu...!\" Suatu hari, setelah hidup dengan penyesalan dan alkohol untuk sementara waktu , dia bangun dan mendapati dirinya telah kembali ke masa lalu. Saat itu, dia sadar. Fakta bahwa adik perempuanku adalah seorang jenius musik...! Kini saatnya mengubah hidupku, yaitu dengan melahirkan adik perempuanku menjadi penyanyi terbaik!",
   "chapters": [
     {
+      "chapter": "73",
+      "title": "Komik My Younger Sister Was a Genius Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXkteW91bmdlci1zaXN0ZXItd2FzLWEtZ2VuaXVzLWNoYXB0ZXItNzMv",
+      "date": "32 menit yang lalu"
+    },
+    {
       "chapter": "72",
       "title": "Komik My Younger Sister Was a Genius Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXkteW91bmdlci1zaXN0ZXItd2FzLWEtZ2VuaXVzLWNoYXB0ZXItNzIv",
-      "date": "2 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik My Younger Sister Was a Genius Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXkteW91bmdlci1zaXN0ZXItd2FzLWEtZ2VuaXVzLWNoYXB0ZXItNzEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik My Younger Sister Was a Genius Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXkteW91bmdlci1zaXN0ZXItd2FzLWEtZ2VuaXVzLWNoYXB0ZXItNzAv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik My Younger Sister Was a Genius Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXkteW91bmdlci1zaXN0ZXItd2FzLWEtZ2VuaXVzLWNoYXB0ZXItNjkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "68",
@@ -86,7 +92,7 @@
       "chapter": "62",
       "title": "Komik My Younger Sister Was a Genius Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXkteW91bmdlci1zaXN0ZXItd2FzLWEtZ2VuaXVzLWNoYXB0ZXItNjIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "61",
@@ -236,7 +242,7 @@
       "chapter": "37",
       "title": "Komik My Younger Sister Was a Genius Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXkteW91bmdlci1zaXN0ZXItd2FzLWEtZ2VuaXVzLWNoYXB0ZXItMzcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "36",
@@ -455,5 +461,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 72
+  "total_chapters": 73
 }

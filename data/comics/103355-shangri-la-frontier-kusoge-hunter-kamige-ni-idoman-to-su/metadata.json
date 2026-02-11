@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.61,
-  "scraped_at": "2026-02-05T15:03:02.272634",
+  "scraped_at": "2026-02-11T12:32:44.517680",
   "alternative_titles": "Shangri-La Frontier, Shangri-La Frontier ~ Crappy Game Hunter Challenges God-Tier Game, Рубеж Шангри-Ла: любитель игрошлака бросает вызов топ игре, シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～",
   "status": "Berjalan",
   "author": "Kata Rina",
@@ -37,40 +37,46 @@
   "synopsis": "Manga                    Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ yang dibuat oleh komikus bernama\n                    Kata Rina ini bercerita tentang\n                    Siswa sekolah menengah tahun kedua Rakurou Hizutome hanya tertarik pada satu hal: menemukan \"permainan menyebalkan\" dan mengalahkannya. Keterampilan bermainnya tidak ada duanya, dan tidak ada permainan yang terlalu buruk untuk dia nikmati. Jadi, ketika dia diperkenalkan ke game VR baru Shangri-La Frontier, dia melakukan yang terbaik—min-maks dan melewatkan prolog untuk langsung beraksi. Namun, dapatkah seorang gamer ahli seperti Rakurou menemukan semua rahasia yang disembunyikan Shangri-La Frontier...?",
   "chapters": [
     {
+      "chapter": "254",
+      "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 254",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNTQv",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "253",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 253",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNTMv",
-      "date": "2 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "252",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 252",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNTIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "251",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 251",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNTEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "250",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 250",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNTAv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "249",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 249",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNDkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "248",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 248",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNDgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "247",
@@ -112,7 +118,7 @@
       "chapter": "241",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 241",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yNDEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "240",
@@ -154,13 +160,13 @@
       "chapter": "234",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 234",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMzQv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "233",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 233",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMzMv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "232",
@@ -202,7 +208,7 @@
       "chapter": "226",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMjYv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "225",
@@ -244,7 +250,7 @@
       "chapter": "219",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMTkv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "218",
@@ -268,37 +274,37 @@
       "chapter": "215",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 215",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMTUv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "214",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 214",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMTQv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "213",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 213",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMTMv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "212",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 212",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMTIv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "211",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMTEv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "210",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 210",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0yMTAv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "209",
@@ -430,19 +436,19 @@
       "chapter": "188",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0xODgv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "187",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0xODcv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "186",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0xODYv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "185",
@@ -940,19 +946,19 @@
       "chapter": "103",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0xMDMv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0xMDIv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "101",
       "title": "Komik Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~ Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbmdyaS1sYS1mcm9udGllci1rdXNvZ2UtaHVudGVyLWthbWlnZS1uaS1pZG9tYW4tdG8tc3UtY2hhcHRlci0xMDEv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "100",
@@ -1555,5 +1561,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 253
+  "total_chapters": 254
 }
