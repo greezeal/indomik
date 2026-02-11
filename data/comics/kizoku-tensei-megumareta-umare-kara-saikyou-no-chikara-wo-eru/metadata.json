@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.65,
-  "scraped_at": "2026-02-08T06:13:04.068236",
+  "scraped_at": "2026-02-11T04:10:10.104896",
   "alternative_titles": "Kizoku Tensei, Noble Reincarnation ~Blessed With the Strongest Power From Birth~, 貴族転生, 貴族転生 ～恵まれた生まれから最強の力を得る～",
   "status": "Berjalan",
   "author": "Miki Nazuna",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru yang dibuat oleh komikus bernama\n                    Miki Nazuna ini bercerita tentang\n                    Dilahirkan sebagai Pangeran Ketigabelas, Nuh pada awalnya berada dalam posisi yang disingkirkan dari suksesi kekaisaran, jadi dia dengan bebas menghabiskan waktunya di wilayah yang diberikan kepadanya.\r\n\r\nNamun, Putra Mahkota meninggal sebelum Kaisar. Suksesi kekaisaran akan diperebutkan secara adil di antara para pangeran yang tersisa.\r\n\r\nNuh, menjadi yang terkuat meski hidup bebas, mengalahkan pangeran lain dan akhirnya menjadi Kaisar dengan kekuatan terbesar di dunia.",
   "chapters": [
     {
+      "chapter": "40.1",
+      "title": "Komik Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru Chapter 40.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2l6b2t1LXRlbnNlaS1tZWd1bWFyZXRhLXVtYXJlLWthcmEtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLWVydS1jaGFwdGVyLTQwLTEv",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "39",
       "title": "Komik Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2l6b2t1LXRlbnNlaS1tZWd1bWFyZXRhLXVtYXJlLWthcmEtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLWVydS1jaGFwdGVyLTM5Lw==",
-      "date": "17 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "38",
@@ -58,7 +64,7 @@
       "chapter": "35",
       "title": "Komik Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2l6b2t1LXRlbnNlaS1tZWd1bWFyZXRhLXVtYXJlLWthcmEtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLWVydS1jaGFwdGVyLTM1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -112,7 +118,7 @@
       "chapter": "27",
       "title": "Komik Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2l6b2t1LXRlbnNlaS1tZWd1bWFyZXRhLXVtYXJlLWthcmEtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLWVydS1jaGFwdGVyLTI3Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "26.5",
@@ -409,5 +415,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 65
 }
