@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.21,
-  "scraped_at": "2026-02-09T01:30:44.405086",
+  "scraped_at": "2026-02-12T14:41:02.379136",
   "alternative_titles": "I'm a Hero, but the Heroines Are Trying to Kill Me, The Main Heroines Are Trying to Kill Me, 勇者ですが、ヒロインたちに命を狙われています, 메인 히로인들이 나를 죽이려 한다",
   "status": "Berjalan",
   "author": "Kimmamo,yongjing jeon",
@@ -29,28 +29,34 @@
   "synopsis": "Manga                    Im the Hero but the Main Heroines Are Trying to Kill Me yang dibuat oleh komikus bernama\n                    Kimmamo,yongjing jeon ini bercerita tentang\n                    Frey Raon Starlight adalah pahlawan yang membunuh keluarga dan rekan-rekannya serta menghancurkan dunia. Tujuannya adalah untuk kembali ke masa lalu, membuka \"rute tersembunyi\" untuk benar-benar menyelamatkan dunia, dan mencapai perdamaian.\r\n\r\nSesuai rencana, ia berhasil kembali ke masa lalu dan memperoleh akses ke rute tersembunyi tersebut. Namun, kelegaannya tidak berlangsung lama karena ia dihadapkan dengan kebenaran yang tak terduga: kelima pahlawan wanita yang ia bunuh di kehidupan sebelumnya masih memiliki ingatan mereka dan kini mencoba membunuhnya...!\r\n\r\nBisakah Frey, dalam keadaan yang sangat ekstrem seperti itu, menyelamatkan dunia kali ini?",
   "chapters": [
     {
+      "chapter": "40",
+      "title": "Komik Im the Hero but the Main Heroines Are Trying to Kill Me Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tdGhlLWhlcm8tYnV0LXRoZS1tYWluLWhlcm9pbmVzLWFyZS10cnlpbmctdG8ta2lsbC1tZS1jaGFwdGVyLTQwLw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "39",
       "title": "Komik Im the Hero but the Main Heroines Are Trying to Kill Me Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tdGhlLWhlcm8tYnV0LXRoZS1tYWluLWhlcm9pbmVzLWFyZS10cnlpbmctdG8ta2lsbC1tZS1jaGFwdGVyLTM5Lw==",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Im the Hero but the Main Heroines Are Trying to Kill Me Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tdGhlLWhlcm8tYnV0LXRoZS1tYWluLWhlcm9pbmVzLWFyZS10cnlpbmctdG8ta2lsbC1tZS1jaGFwdGVyLTM4Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Im the Hero but the Main Heroines Are Trying to Kill Me Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tdGhlLWhlcm8tYnV0LXRoZS1tYWluLWhlcm9pbmVzLWFyZS10cnlpbmctdG8ta2lsbC1tZS1jaGFwdGVyLTM3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Im the Hero but the Main Heroines Are Trying to Kill Me Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tdGhlLWhlcm8tYnV0LXRoZS1tYWluLWhlcm9pbmVzLWFyZS10cnlpbmctdG8ta2lsbC1tZS1jaGFwdGVyLTM2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "35",
@@ -110,7 +116,7 @@
       "chapter": "26",
       "title": "Komik Im the Hero but the Main Heroines Are Trying to Kill Me Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tdGhlLWhlcm8tYnV0LXRoZS1tYWluLWhlcm9pbmVzLWFyZS10cnlpbmctdG8ta2lsbC1tZS1jaGFwdGVyLTI2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "25",
@@ -263,5 +269,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 39
+  "total_chapters": 40
 }

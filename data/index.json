@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-12T13:49:33.492681",
-  "total_comics": 859,
+  "last_updated": "2026-02-12T14:48:05.825609",
+  "total_comics": 866,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -72,7 +72,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 190
+      "total_chapters": 191
     },
     {
       "slug": "786730-underworld-restaurant",
@@ -280,7 +280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "the-heavenly-path-is-not-stupid",
@@ -400,7 +400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "167225-subscribing-to-the-transcendents-channel",
@@ -1432,7 +1432,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 377
+      "total_chapters": 378
     },
     {
       "slug": "extremely-evil-game",
@@ -1862,9 +1862,9 @@
       "slug": "323809-ill-resign-and-have-a-fresh-start-in-this-world",
       "title": "I’ll Resign and Have a Fresh Start in This World",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 153
     },
     {
       "slug": "jujutsu-kaisen-modulo",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "938340-ao-ashi",
@@ -2528,7 +2528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.54,
-      "total_chapters": 164
+      "total_chapters": 165
     },
     {
       "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -3768,7 +3768,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "826573-ill-retire-after-saving-the-world",
@@ -4480,7 +4480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
@@ -4694,9 +4694,9 @@
       "slug": "past-life-regressor-2022",
       "title": "Past Life Regressor (2022)",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.16,
+      "total_chapters": 158
     },
     {
       "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
@@ -4766,9 +4766,9 @@
       "slug": "tales-of-demons-and-gods",
       "title": "Tales of Demons and Gods",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.62,
+      "total_chapters": 940
     },
     {
       "slug": "obshchaka",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4960,7 +4960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "344794-the-games-top-troll",
@@ -4968,7 +4968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 166
+      "total_chapters": 167
     },
     {
       "slug": "tsugihagi-darake-no-saikyou-yuusha",
@@ -5208,7 +5208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "soul-land-ii",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5616,7 +5616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.05,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "entomologist-in-sichuan-tang-clan",
@@ -5696,7 +5696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "solo-resurrection",
@@ -5824,7 +5824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 102
+      "total_chapters": 103
     },
     {
       "slug": "my-wife-is-the-demonic-cult-leader",
@@ -6328,7 +6328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "287895-dungeon-odyssey",
@@ -6584,7 +6584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.54,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "hello-fluffy-griffin",
@@ -6873,6 +6873,62 @@
       "status": "Berjalan",
       "rating": 8.62,
       "total_chapters": 112
+    },
+    {
+      "slug": "immortal-fairy-please-listen-to-my-explanation",
+      "title": "Immortal Fairy, Please Listen to My Explanation",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 28
+    },
+    {
+      "slug": "the-congressman-gives-me-good-news",
+      "title": "The Congressman Gives Me Good News!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 47
+    },
+    {
+      "slug": "831070-memoir-of-the-king-of-war",
+      "title": "Memoir Of The King Of War",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 239
+    },
+    {
+      "slug": "make-heroine-o-katasetai",
+      "title": "Make Heroine o Katasetai!!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
+    },
+    {
+      "slug": "jitsu-wa-ore-saikyou-deshita",
+      "title": "Jitsu wa Ore, Saikyou Deshita?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 157
+    },
+    {
+      "slug": "yui-can-only-live-in-the-shadows",
+      "title": "Yui Can Only Live In the Shadows",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "genius-hitter-hits-fastball",
+      "title": "Genius Hitter Hits Fastball",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 102
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.05,
-  "scraped_at": "2026-02-04T13:51:46.819133",
+  "scraped_at": "2026-02-12T14:45:09.902968",
   "alternative_titles": "Dear Diary... I Married a Killer, Haikei... Koroshiya-san to Kekkon Shimashita, Сэр… Я женился на убийце, 拝啓…殺し屋さんと結婚しました",
   "status": "Berjalan",
   "author": "Kousaka Donten",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Dear Sir… Married to a Killer yang dibuat oleh komikus bernama\n                    Kousaka Donten ini bercerita tentang\n                    Profesi sebagai istri yang kalem dan kalem ... pembunuh !?\r\nTapi hidupku bersama istriku yang tidak bisa membunuh emosinya di depan suaminya sangat mengasyikkan dalam banyak hal ♪\r\nSaya ingin cukup dicintai untuk dibunuh oleh pengantinku. Komedi cinta pembunuh yang sudah menikah!",
   "chapters": [
     {
+      "chapter": "53",
+      "title": "Komik Dear Sir… Married to a Killer Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTUzLw==",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "52",
       "title": "Komik Dear Sir… Married to a Killer Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTUyLw==",
-      "date": "5 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "51",
@@ -60,7 +66,7 @@
       "chapter": "46",
       "title": "Komik Dear Sir… Married to a Killer Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTQ2Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "45",
@@ -228,7 +234,7 @@
       "chapter": "18",
       "title": "Komik Dear Sir… Married to a Killer Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTE4Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "17",
@@ -333,5 +339,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 52
+  "total_chapters": 53
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.81,
-  "scraped_at": "2026-02-11T01:17:52.618999",
+  "scraped_at": "2026-02-12T14:42:31.558945",
   "alternative_titles": "Walking in Another World, 異世界ウォーキング",
   "status": "Berjalan",
   "author": "Aruku Hito",
@@ -20,22 +20,28 @@
   "synopsis": "Manga                    Isekai Walking yang dibuat oleh komikus bernama\n                    Aruku Hito ini bercerita tentang\n                    Sora, seorang anak laki-laki Jepang yang dipanggil ke dunia lain, memperoleh keterampilan \"Berjalan\". Efeknya adalah \"tidak peduli berapa banyak dia berjalan, dia tidak pernah lelah\". Karena skill yang lemah ini, raja mengeluarkannya dari kelompok pahlawan yang dipanggil. Tapi saat Sora mulai berjalan di dunia lain, dia tiba-tiba naik level!\r\n\r\nBerjalan memiliki efek tersembunyi \"mendapatkan 1 EXP untuk setiap langkah yang diambil\". Dia memperoleh keterampilan yang berguna seperti 'Penilaian', 'Alkimia', dan sihir penyembuhan ...\r\n\r\nMendapatkan satu demi satu keterampilan, dia menjadi berbakat hanya dengan berjalan! Petualangan untuk bertemu dan menyentuh yang tidak diketahui akan segera dimulai!",
   "chapters": [
     {
+      "chapter": "45",
+      "title": "Komik Isekai Walking Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00NS8=",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik Isekai Walking Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00NC8=",
-      "date": "11 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Isekai Walking Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00My8=",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Isekai Walking Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00Mi8=",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "41",
@@ -284,5 +290,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 44
+  "total_chapters": 45
 }

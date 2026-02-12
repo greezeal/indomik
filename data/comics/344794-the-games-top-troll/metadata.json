@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.13,
-  "scraped_at": "2026-02-12T06:44:40.144374",
+  "scraped_at": "2026-02-12T14:42:56.772326",
   "alternative_titles": "World's Strongest Troll, 게임 최강 트롤러",
   "status": "Berjalan",
   "author": "Gunmandumeogja, Park Jong Suk",
@@ -24,10 +24,16 @@
   "synopsis": "Manhwa                    The Game’s Top Troll yang dibuat oleh komikus bernama\n                    Gunmandumeogja, Park Jong Suk ini bercerita tentang\n                    Game paling masuk akal di dunia.\r\n\r\nAjin Electronics, Sillicoff Industry, dan Argos Corporation.\r\n\r\nArcadia, game Realitas Virtual pertama untuk umat manusia, dibuat oleh upaya bersama dari konglomerat terkemuka dunia.\r\n\r\n[Selamat datang di Dunia Fantasi, Arcadia.]\r\n\r\nKisah-kisah gila akan terjadi di dunia itu.\r\n\r\nMereka semua mulai sekarang!",
   "chapters": [
     {
+      "chapter": "168",
+      "title": "Komik The Game’s Top Troll Chapter 168",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE2OC8=",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "167",
       "title": "Komik The Game’s Top Troll Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE2Ny8=",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "166",
@@ -255,7 +261,7 @@
       "chapter": "128",
       "title": "Komik The Game’s Top Troll Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTEyOC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "127",
@@ -1020,5 +1026,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 166
+  "total_chapters": 167
 }

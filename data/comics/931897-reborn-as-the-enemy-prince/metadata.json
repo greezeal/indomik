@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-12T06:44:50.126278",
+  "scraped_at": "2026-02-12T14:42:48.013708",
   "alternative_titles": "How to Live as the Enemy Prince, 적국의 왕자로 사는 법",
   "status": "Berjalan",
   "author": "Ja Seo Hyeon",
@@ -26,10 +26,16 @@
   "synopsis": "Manhwa                    Reborn As The Enemy Prince yang dibuat oleh komikus bernama\n                    Ja Seo Hyeon ini bercerita tentang\n                    Bayangkan menjadi saudara dengan musuh bebuyutan Anda.\r\nTewas dalam pertempuran saat membela negaranya, Bern terbangun di tubuh pangeran musuh, Kalian, dan bersumpah untuk membalaskan dendam rakyatnya. Namun antara menjinakkan saudara tirinya yang kejam dan selamat dari jaringan intrik mematikan ibunya, balas dendam yang manis tampaknya semakin lepas dari genggamannya di setiap kesempatan.",
   "chapters": [
     {
+      "chapter": "95",
+      "title": "Komik Reborn As The Enemy Prince Chapter 95",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci05NS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "94",
       "title": "Komik Reborn As The Enemy Prince Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci05NC8=",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "93",
@@ -155,7 +161,7 @@
       "chapter": "73",
       "title": "Komik Reborn As The Enemy Prince Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci03My8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "72",
@@ -596,5 +602,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 95
+  "total_chapters": 96
 }
