@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.54,
-  "scraped_at": "2026-02-12T03:50:18.620083",
+  "scraped_at": "2026-02-12T05:23:31.141708",
   "alternative_titles": "Igye Geomwang Saengjongi, Survival Story of a Sword King in a Fantasy World, Survival of the Sword King, The Survival Record of the Sword King in Another World, 拔剑九亿次, 異世界剣王生存記, 이계 검왕 생존기",
   "status": "Berjalan",
   "author": "권순규, 임경배",
@@ -28,10 +28,16 @@
   "synopsis": "Manhwa                    Otherworldly Sword King’s Survival Records yang dibuat oleh komikus bernama\n                    권순규, 임경배 ini bercerita tentang\n                    \"Anda telah dipilih sebagai yang terkuat\"\r\n\"Dengan kemampuanmu, tingkat kelangsungan hidup di Selha Latna kurang dari [5%].\"\r\n\"Apakah kamu ingin bunuh diri? Y / T\"\r\n\"X-\"\r\nKemungkinan bertahan hidup kurang dari 5%. 22 tahun. Pertempuran yang tak terhitung jumlahnya dengan anjing iblis. Di neraka ini; Saya bertahan hidup sendiri.\r\nTersembunyi di balik level 5, bersama dengan statistik tersembunyi yang keterlaluan!\r\nRekor kelangsungan hidup ekstrim pendekar pedang level 5 terkuat Ryu han bin yang terlempar ke dunia lain ini hanya dengan sebilah pedang.",
   "chapters": [
     {
+      "chapter": "279",
+      "title": "Komik Otherworldly Sword King’s Survival Records Chapter 279",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3RoZXJ3b3JsZGx5LXN3b3JkLWtpbmdzLXN1cnZpdmFsLXJlY29yZHMtY2hhcHRlci0yNzkv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "278",
       "title": "Komik Otherworldly Sword King’s Survival Records Chapter 278",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3RoZXJ3b3JsZGx5LXN3b3JkLWtpbmdzLXN1cnZpdmFsLXJlY29yZHMtY2hhcHRlci0yNzgv",
-      "date": "16 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "277",
@@ -1702,5 +1708,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 279
+  "total_chapters": 280
 }

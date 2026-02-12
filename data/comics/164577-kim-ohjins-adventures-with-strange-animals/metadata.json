@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.16,
-  "scraped_at": "2026-02-06T05:47:45.343996",
+  "scraped_at": "2026-02-12T05:24:37.124176",
   "alternative_titles": "김오진과 이상한 동물들, Kim O-jin and the Strange Animals",
   "status": "Berjalan",
   "author": "Kisun",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Kim Ohjin’s Adventures With Strange Animals yang dibuat oleh komikus bernama\n                    Kisun ini bercerita tentang\n                    Dokter hewan Kim Ohjin tiba-tiba dipanggil oleh seekor naga. Setelah berhasil merawat hewan peliharaan naga itu, ia kembali ke rumah... hanya untuk menemukan dirinya di dunia lain.\r\n\r\n\"Hewan di dunia lain tetaplah hewan, kan?\" Saya adalah seorang dokter hewan yang nyaris tidak bisa bertahan hidup di dunia nyata, tetapi sekarang, di dunia baru yang aneh ini, saya menjadi dokter terkenal?\r\n\r\nKarena klinik lama saya hampir tutup, saya mengarahkan pandangan saya pada peluang baru—klinik kedua saya, dan mudah-mudahan, sukses besar!",
   "chapters": [
     {
+      "chapter": "48",
+      "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItNDgv",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "47",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItNDcv",
-      "date": "9 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "46",
@@ -41,7 +47,7 @@
       "chapter": "44",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItNDQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "43",
@@ -155,13 +161,13 @@
       "chapter": "25",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItMjUv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItMjQv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -191,7 +197,7 @@
       "chapter": "19",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItMTkv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -215,13 +221,13 @@
       "chapter": "15",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItMTUv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItMTQv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -302,5 +308,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 47
+  "total_chapters": 48
 }

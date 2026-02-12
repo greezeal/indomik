@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-12T03:51:43.296209",
-  "total_comics": 844,
+  "last_updated": "2026-02-12T05:26:43.557673",
+  "total_comics": 849,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -264,7 +264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto",
@@ -1238,9 +1238,9 @@
       "slug": "strength-through-adversity-my-cultivation-knows-no-limits",
       "title": "Strength Through Adversity, My Cultivation Knows No Limits",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 97
     },
     {
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
@@ -1456,7 +1456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "warrior-of-the-sword-heart",
@@ -1856,7 +1856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "323809-ill-resign-and-have-a-fresh-start-in-this-world",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 42
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -2688,7 +2688,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "heavenly-demon-tavern",
@@ -2920,7 +2920,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 110
     },
     {
       "slug": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
@@ -2928,7 +2928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "783596-pick-me-up",
@@ -2936,7 +2936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.26,
-      "total_chapters": 187
+      "total_chapters": 188
     },
     {
       "slug": "720516-terminally-ill-genius-dark-knight",
@@ -2952,7 +2952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 298
+      "total_chapters": 299
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -3024,7 +3024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 148
+      "total_chapters": 149
     },
     {
       "slug": "regression-of-the-yong-clan-heir",
@@ -4304,7 +4304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 165
+      "total_chapters": 166
     },
     {
       "slug": "153017-solo-max-level-newbie",
@@ -4534,9 +4534,9 @@
       "slug": "single-dad-in-another-world",
       "title": "Single Dad in Another World",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
     },
     {
       "slug": "death-penalty",
@@ -4648,7 +4648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 279
+      "total_chapters": 280
     },
     {
       "slug": "the-demon-slayers-restauran",
@@ -4822,9 +4822,9 @@
       "slug": "after-the-high-school-goddess-dumped-me-i-became-a-martial-arts-god",
       "title": "After the High School Goddess Dumped Me I Became a Martial Arts God",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 48
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -5022,9 +5022,9 @@
       "slug": "my-unbeatable-passive-skill-lets-me-deal-massive-damage",
       "title": "My Unbeatable Passive Skill Lets Me Deal Massive Damage!",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 101
     },
     {
       "slug": "im-a-super-rich-guy-so-its-reasonable-for-me-to-be-a-scumbag",
@@ -5368,7 +5368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 411
+      "total_chapters": 416
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5528,7 +5528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "job-change-log",
@@ -5576,7 +5576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 80
+      "total_chapters": 81
     },
     {
       "slug": "party-kara-tsuihou-sareta-sono-chiyushi-jitsuha-saikyou-nitsuki",
@@ -5744,7 +5744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "981277-spy-x-family",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -5896,7 +5896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "osananananajimi",
@@ -6753,6 +6753,46 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 2
+    },
+    {
+      "slug": "berserk-of-gluttony",
+      "title": "Berserk of Gluttony",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.77,
+      "total_chapters": 75
+    },
+    {
+      "slug": "579305-auto-hunting-with-clones",
+      "title": "Auto-Hunting With Clones",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.04,
+      "total_chapters": 168
+    },
+    {
+      "slug": "zodiac-girl",
+      "title": "Zodiac Girl",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 32
+    },
+    {
+      "slug": "invincible-in-the-apocalypse-proposing-marriage-at-your-doorstep",
+      "title": "Invincible in the Apocalypse: Proposing Marriage at Your Doorstep",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
+    },
+    {
+      "slug": "megami-to-kekkon-shite-isekai-de-shinkon-seikatsu",
+      "title": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }
