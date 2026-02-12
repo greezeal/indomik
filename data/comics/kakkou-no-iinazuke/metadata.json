@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.66,
-  "scraped_at": "2026-02-12T03:51:33.005470",
+  "scraped_at": "2026-02-12T11:25:45.139246",
   "alternative_titles": "A Noiva do Cuco, Cuckoo no Iinazuke, Cuckoo's Fiancé, Cuckoo's Fiance, Cuckoo's Forgiveness, A Couple of Cuckoos, La prometida del cuco, Le fiancé du coucou, The Cuckoo's Fiancée, The Cuckoo's Fiance, The Cuckoo's Fiancee, Una pareja de cucos, Обрученные,",
   "status": "Berjalan",
   "author": "Yoshikawa Miki",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Kakkou no Iinazuke yang dibuat oleh komikus bernama\n                    Yoshikawa Miki ini bercerita tentang\n                    Nagi Umino secara keliru beralih saat lahir, dan sekarang bersekolah di sekolah menengah swasta bergengsi. Suatu hari, dia memiliki kesempatan untuk bertemu dengan Erika Amano, seorang gadis sekolah menengah atas yang mengaku sedang dalam perjalanan untuk bertemu tunangannya, dan yang meminta / memaksanya untuk menjadi pacar palsunya. Tak satu pun dari mereka, pada saat itu, memahami pentingnya pertemuan mereka bagi Erika adalah gadis yang ditukar dengan Nagi saat lahir, dan Nagi adalah calon tunangan Erika! Tirai diangkat pada komedi romantis tentang takdir yang saling terkait yang dimulai dengan ditukar saat lahir!",
   "chapters": [
     {
+      "chapter": "283",
+      "title": "Komik Kakkou no Iinazuke Chapter 283",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjgzLw==",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "282",
       "title": "Komik Kakkou no Iinazuke Chapter 282",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjgyLw==",
-      "date": "16 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "281",
@@ -44,7 +50,7 @@
       "chapter": "279",
       "title": "Komik Kakkou no Iinazuke Chapter 279",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjc5Lw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "278",
@@ -1727,5 +1733,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 284
+  "total_chapters": 285
 }

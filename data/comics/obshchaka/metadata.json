@@ -1,12 +1,12 @@
 {
   "slug": "obshchaka",
-  "title": "Komik\n              Obshchaka",
+  "title": "Obshchaka",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvb2JzaGNoYWthLw==",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvS29taWstT2JzaGNoYWthLTIyMHgzMTkuanBn",
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-01T05:16:55.673352",
+  "scraped_at": "2026-02-12T11:26:02.857548",
   "alternative_titles": "Obchaka, Ovcharka, Общака, 오브차카",
   "status": "Berjalan",
   "author": "Sergeant",
@@ -18,23 +18,41 @@
   "synopsis": "Manhwa                    Obshchaka yang dibuat oleh komikus bernama\n                    Sergeant ini bercerita tentang\n                    Spin-off pertama dari Baek XXX Upaya pembunuhan terhadap Big Boss mafia Rusia. Pengkhianatan yang mengincar kekuasaan menghancurkan organisasi. Obshchak Boris memilih balas dendam di hadapan darah sahabat terdekatnya.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Obshchaka Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItNi8=",
+      "date": "28 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Obshchaka Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItNS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Obshchaka Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItNC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Obshchaka Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMy8=",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Obshchaka Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMi8=",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Obshchaka Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMS8=",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 6
 }

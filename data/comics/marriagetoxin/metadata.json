@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.83,
-  "scraped_at": "2026-02-11T14:09:13.385151",
+  "scraped_at": "2026-02-12T11:26:30.063619",
   "alternative_titles": "マリッジトキシン, Брачный токсин",
   "status": "Berjalan",
   "author": "Joumyaku",
@@ -25,34 +25,46 @@
   "synopsis": "Manga                    MARRIAGETOXIN yang dibuat oleh komikus bernama\n                    Joumyaku ini bercerita tentang\n                    Seorang pembunuh bayaran dan penipu pernikahan memulai pertempuran paling melelahkan di dunia untuk pernikahan! Gero adalah seorang pemuda dari klan pembunuh bayaran, yang telah ada selama ratusan tahun. Sebagai seseorang yang tidak pernah bersekolah dan menjalani hidupnya berurusan dengan sisi gelap bisnis, dia menganggap dirinya “tidak memiliki prospek dengan wanita” dan pernikahan sebagai “sesuatu yang bukan untuknya.” Namun, suatu hari, karena takut garis keturunan mereka akan bubar, klannya memperingatkan Gero bahwa jika dia tidak menikah dan menghasilkan ahli waris, mereka tidak punya pilihan selain … memaksa adik perempuannya melakukan “itu”. Didorong habis-habisan, Gero meminta target pekerjaannya, penipu pernikahan, untuk…",
   "chapters": [
     {
+      "chapter": "84",
+      "title": "Komik MARRIAGETOXIN Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTg0Lw==",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "83",
+      "title": "Komik MARRIAGETOXIN Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTgzLw==",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "82",
       "title": "Komik MARRIAGETOXIN Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTgyLw==",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "81.5",
       "title": "Komik MARRIAGETOXIN Chapter 81.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTgxLTUv",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik MARRIAGETOXIN Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTgxLw==",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik MARRIAGETOXIN Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTgwLw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik MARRIAGETOXIN Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTc5Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "78",
@@ -124,13 +136,13 @@
       "chapter": "67",
       "title": "Komik MARRIAGETOXIN Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTY3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik MARRIAGETOXIN Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTY2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "65",
@@ -184,13 +196,13 @@
       "chapter": "57",
       "title": "Komik MARRIAGETOXIN Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTU3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik MARRIAGETOXIN Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2V0b3hpbi1jaGFwdGVyLTU2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "55",
@@ -553,5 +565,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 88
+  "total_chapters": 90
 }

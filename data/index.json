@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-12T10:32:39.445786",
-  "total_comics": 857,
+  "last_updated": "2026-02-12T11:32:17.829231",
+  "total_comics": 859,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -448,7 +448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 45
+      "total_chapters": 47
     },
     {
       "slug": "war-of-corpses",
@@ -1014,9 +1014,9 @@
       "slug": "momose-akira-no-hatsukoi-hatan-chuu",
       "title": "Momose Akira no Hatsukoi Hatan-chuu.",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.71,
+      "total_chapters": 38
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 88
+      "total_chapters": 90
     },
     {
       "slug": "isshou-senkin",
@@ -2856,7 +2856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 78
+      "total_chapters": 80
     },
     {
       "slug": "245396-dark-gathering",
@@ -3784,7 +3784,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "103355-shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
@@ -3998,9 +3998,9 @@
       "slug": "my-death-flags-show-no-sign-of-ending",
       "title": "My Death Flags Show No Sign of Ending",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.76,
+      "total_chapters": 91
     },
     {
       "slug": "the-art-of-leaving-work-on-time",
@@ -4720,7 +4720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyou-to-shitara-betsu-no-tatakai-ga-hajimatta",
@@ -4774,9 +4774,9 @@
       "slug": "obshchaka",
       "title": "Obshchaka",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
     },
     {
       "slug": "tsuihousareru-tabi-ni-skill-wo-te-ni-ireta-ore-ga-100-no-isekai-de-2-shuume-musou",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 284
+      "total_chapters": 285
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -6857,6 +6857,22 @@
       "status": "Berjalan",
       "rating": 8.27,
       "total_chapters": 69
+    },
+    {
+      "slug": "top-star-sent-by-god",
+      "title": "Top Star Sent by God",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.83,
+      "total_chapters": 41
+    },
+    {
+      "slug": "240216-oroka-na-tenshi-wa-akuma-to-odoru",
+      "title": "Oroka na Tenshi wa Akuma to Odoru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.62,
+      "total_chapters": 112
     }
   ]
 }
