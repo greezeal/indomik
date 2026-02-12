@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-04T23:51:11.936519",
+  "scraped_at": "2026-02-12T07:46:19.865957",
   "alternative_titles": "빌",
   "status": "Berjalan",
   "author": "",
@@ -22,28 +22,34 @@
   "synopsis": "Manhwa                    Bill The Blacksmith yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Bill Back, blacksmith yang menempa pedang sang hero, ia merasa puas menjalani kehidupan yang biasa. Namun, meningkatnya keresahan di seluruh kerajaan yang mulai mengancam keberadaannya, hingga akhirnya ia terseret ke dalam spiral peristiwa yang tak terkendali saat situasi memburuk dengan cepat.",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Bill The Blacksmith Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTEzLw==",
+      "date": "57 menit yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik Bill The Blacksmith Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTEyLw==",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Bill The Blacksmith Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTExLw==",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Bill The Blacksmith Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTEwLw==",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Bill The Blacksmith Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -94,5 +100,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-12T06:44:50.164021",
-  "total_comics": 849,
+  "last_updated": "2026-02-12T07:49:43.780402",
+  "total_comics": 857,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2056,7 +2056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "the-crown-prince-that-sells-medicine",
@@ -2960,7 +2960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 126
+      "total_chapters": 127
     },
     {
       "slug": "asura-no-sata",
@@ -3614,9 +3614,9 @@
       "slug": "tang-clan-legend",
       "title": "Tang Clan Legend",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 37
     },
     {
       "slug": "653378-skeleton-soldier-couldnt-protect-the-dungeon",
@@ -3688,7 +3688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "touhou-chireikiden-hansoku-tantei-satori",
@@ -3880,7 +3880,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.4,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "729096-shinka-tokusei-de-saikyou-necromancer",
@@ -5312,7 +5312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "kimi-no-kokoro-wo-kanjitai",
@@ -6264,7 +6264,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.45,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite",
@@ -6552,7 +6552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "the-princess-goes-to-school",
@@ -6793,6 +6793,70 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "shuumatsu-no-valkyrie-kitan-jack-the-ripper-no-jikenbo",
+      "title": "Shuumatsu no Valkyrie Kitan – Jack the Ripper no Jikenbo",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.29,
+      "total_chapters": 61
+    },
+    {
+      "slug": "zombie-no-afureta-sekai-ore-dake-ga-osowarenai",
+      "title": "Zombie no Afureta Sekai Ore Dake ga Osowarenai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.62,
+      "total_chapters": 46
+    },
+    {
+      "slug": "kanojo-no-tomodachi",
+      "title": "Kanojo no Tomodachi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 119
+    },
+    {
+      "slug": "yurufuwa-nouka-no-mojibake-skill-isekai-de-katarogu-tsuuhan-yattemasu",
+      "title": "Yurufuwa Nouka no Mojibake Skill ~Isekai de Katarogu Tsuuhan Yattemasu~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.41,
+      "total_chapters": 31
+    },
+    {
+      "slug": "adachi-to-shimamura-yuzuhara-moke",
+      "title": "Adachi to Shimamura (YUZUHARA Moke)",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.18,
+      "total_chapters": 30
+    },
+    {
+      "slug": "maria-no-danzai",
+      "title": "Maria no Danzai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.48,
+      "total_chapters": 63
+    },
+    {
+      "slug": "hotaru-no-yomeiri",
+      "title": "Hotaru no Yomeiri",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.62,
+      "total_chapters": 95
+    },
+    {
+      "slug": "364752-tsue-to-tsurugi-no-wistoria",
+      "title": "Tsue to Tsurugi no Wistoria",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.27,
+      "total_chapters": 69
     }
   ]
 }
