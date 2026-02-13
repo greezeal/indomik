@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.77,
-  "scraped_at": "2026-02-12T13:48:42.385131",
+  "scraped_at": "2026-02-13T06:18:01.503307",
   "alternative_titles": "Berserk de la Gourmandise : Celui qui surpasse le concept même de niveaux, Berserk obżarstwa, Berserk of Gluttony: The One That Exceeds The Concept Of Levels, Boushoku no Berserk: Ore Dake Level to Iu Gainen o Toppa Suru, Ненасытный Берсерк, 暴食のベルセルク ～俺だけ",
   "status": "Berjalan",
   "author": "Isshiki Ichika",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Berserk of Gluttony yang dibuat oleh komikus bernama\n                    Isshiki Ichika ini bercerita tentang\n                    Di dunia ini, ada dua tipe orang. Mereka yang memiliki \"keterampilan\" yang kuat, dan mereka yang tidak. Orang yang lahir dengan keterampilan yang kuat, membasmi monster untuk naik level dan menjadi sukses, sementara orang tanpa mereka, menjadi gagal, yang diperlakukan kasar oleh masyarakat. Ikuti kisah Fate, seorang pria yang bekerja sebagai penjaga gerbang, dan satu-satunya keahliannya adalah rakus, keterampilan yang hanya membuatnya lapar.",
   "chapters": [
     {
+      "chapter": "73",
+      "title": "Komik Berserk of Gluttony Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVyc2Vyay1vZi1nbHV0dG9ueS1jaGFwdGVyLTczLw==",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "72",
       "title": "Komik Berserk of Gluttony Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVyc2Vyay1vZi1nbHV0dG9ueS1jaGFwdGVyLTcyLw==",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "71",
@@ -40,7 +46,7 @@
       "chapter": "70",
       "title": "Komik Berserk of Gluttony Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVyc2Vyay1vZi1nbHV0dG9ueS1jaGFwdGVyLTcwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "69",
@@ -475,5 +481,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 75
+  "total_chapters": 76
 }

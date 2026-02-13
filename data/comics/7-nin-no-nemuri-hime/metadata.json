@@ -1,12 +1,12 @@
 {
   "slug": "7-nin-no-nemuri-hime",
-  "title": "Komik\n              7-Nin no Nemuri Hime",
+  "title": "7-Nin no Nemuri Hime",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvNy1uaW4tbm8tbmVtdXJpLWhpbWUv",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDYvS29taWstNy1OaW4tbm8tTmVtdXJpLUhpbWUtMjM2eDE3MC5qcGc=",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.69,
-  "scraped_at": "2026-01-26T22:38:22.174921",
+  "scraped_at": "2026-02-13T06:16:15.838279",
   "alternative_titles": "7人の眠り姫, The Seven Sleeping Beauties, Las Siete Bellas Durmientes, Les Sept Princesses Endormies, Shichinin no Nemurihime",
   "status": "Berjalan",
   "author": "Fiok Lee",
@@ -22,6 +22,12 @@
   ],
   "synopsis": "Manga                    7-Nin no Nemuri Hime yang dibuat oleh komikus bernama\n                    Fiok Lee ini bercerita tentang\n                    Seorang pangeran pengembara akan mematahkan kutukan kuno yang menyihir Kerajaan Amaryllis dengan membangunkan sang putri dengan ciuman cinta sejati. Namun tidak ada yang memberitahunya bahwa ada 7 putri untuk dicium dan dia sekarang harus bertanggung jawab dengan tinggal bersama mereka sementara mereka mencari tahu mengapa orang-orang Amaryllis tidak dapat bangun. Akankah mereka mencapai kebahagiaan selamanya?",
   "chapters": [
+    {
+      "chapter": "17",
+      "title": "Komik 7-Nin no Nemuri Hime Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0xNy8=",
+      "date": "4 menit yang lalu"
+    },
     {
       "chapter": "16",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 16",
@@ -119,5 +125,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }
