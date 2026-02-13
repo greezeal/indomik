@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T16:19:03.184710",
+  "last_updated": "2026-02-13T17:13:43.970714",
   "total_comics": 879,
   "comics": [
     {
@@ -2190,9 +2190,9 @@
       "slug": "563439-kowloon-saroka",
       "title": "Kowloon: Saroka",
       "type": "Manhwa",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "fun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic",
@@ -4248,7 +4248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "not-over",
@@ -4320,7 +4320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "became-the-patron-of-villains",
@@ -4368,7 +4368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "345461-overgeared",
@@ -4408,7 +4408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.33,
-      "total_chapters": 1219
+      "total_chapters": 1220
     },
     {
       "slug": "bad-business",
@@ -4422,9 +4422,9 @@
       "slug": "face-genius-0-year-old-top-star",
       "title": "Face Genius, 0 Year-Old Top Star",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 43
     },
     {
       "slug": "712275-killer-peter",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 421
+      "total_chapters": 426
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -6552,7 +6552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "the-princess-goes-to-school",
@@ -6784,7 +6784,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "megami-to-kekkon-shite-isekai-de-shinkon-seikatsu",
