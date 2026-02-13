@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.59,
-  "scraped_at": "2026-02-09T01:30:21.674812",
+  "scraped_at": "2026-02-13T03:24:46.071072",
   "alternative_titles": "Il semblerait que je sois arrivé dans un nouveau monde. Et maintenant, qu'es-que je fais ?, Isekai ni Kita Mitai dakedo Ikanisureba Yoi no Darou, Isekai ni Kita Mitai Dakedo Dousureba Yoi no Darou, Isekai ni Kita Mitai dakedo dou sureba Yoi no Darou, It S",
   "status": "Berjalan",
   "author": "Mai",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou yang dibuat oleh komikus bernama\n                    Mai ini bercerita tentang\n                    Akihiro adalah pegawai biasa berusia 35 tahun yang menyukai makanannya. Selama rutinitas hariannya yang biasa, dia tiba-tiba dipindahkan ke dunia lain. Saat mencari makanan, dia menemukan Lisatia, seorang gadis muda yang sedang berburu di hutan. Setelah menyelamatkannya dari bahaya, dia akhirnya secara tidak sengaja melamarnya dan mereka bertunangan. Maka dimulailah laifu barunya dengan waifu barunya dan kesibukan sehari-hari untuk menjaga perutnya tetap kenyang.\r\n\r\nTautan:",
   "chapters": [
     {
+      "chapter": "32",
+      "title": "Komik Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5pLWtpdGEtbWl0YWktZGFrZWRvLWlrYW4tc3VyZWJhLXlvaS1uby1kYXJvdS1jaGFwdGVyLTMyLw==",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5pLWtpdGEtbWl0YWktZGFrZWRvLWlrYW4tc3VyZWJhLXlvaS1uby1kYXJvdS1jaGFwdGVyLTMxLw==",
-      "date": "2 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5pLWtpdGEtbWl0YWktZGFrZWRvLWlrYW4tc3VyZWJhLXlvaS1uby1kYXJvdS1jaGFwdGVyLTMwLw==",
-      "date": "2 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "29",
@@ -90,13 +96,13 @@
       "chapter": "20",
       "title": "Komik Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5pLWtpdGEtbWl0YWktZGFrZWRvLWlrYW4tc3VyZWJhLXlvaS1uby1kYXJvdS1jaGFwdGVyLTIwLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5pLWtpdGEtbWl0YWktZGFrZWRvLWlrYW4tc3VyZWJhLXlvaS1uby1kYXJvdS1jaGFwdGVyLTE5Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -213,5 +219,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }

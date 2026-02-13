@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-13T00:05:15.332738",
-  "total_comics": 866,
+  "last_updated": "2026-02-13T03:28:16.317366",
+  "total_comics": 870,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -112,7 +112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 112
     },
     {
       "slug": "castle-2-on-top-of-everyone",
@@ -134,9 +134,9 @@
       "slug": "godly-strange-world-i-possess-unique-enlightment",
       "title": "Godly Strange World, I Possess Unique Enlightment",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 26
     },
     {
       "slug": "gokugoku-futsuu-no-fuufu-no-hanashi",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 823
+      "total_chapters": 824
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -582,9 +582,9 @@
       "slug": "kukuku-he-is-the-weakest-of-the-four-heavenly-monarchs-i-was-dismissed-from-my-job-but-somehow-i-became-the-master-of-a-hero-and-a-holy-maiden",
       "title": "“Kukuku ……. He is the weakest of the Four Heavenly Monarchs.” I was dismissed from my job, but somehow I became the master of a hero and a holy maiden.",
       "type": "Manga",
-      "status": "",
+      "status": "Berjalan",
       "rating": 7.95,
-      "total_chapters": 0
+      "total_chapters": 22
     },
     {
       "slug": "love-live-nijigasaki-x-uma-musume-hoenn-pixiv-collection",
@@ -1240,7 +1240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
@@ -1648,7 +1648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 296
+      "total_chapters": 297
     },
     {
       "slug": "a-banished-failure-survives-in-the-borderland-and-becomes-an-s-ranked-exorcist",
@@ -1856,7 +1856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "323809-ill-resign-and-have-a-fresh-start-in-this-world",
@@ -1886,9 +1886,9 @@
       "slug": "fog-land",
       "title": "Fog Land",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 24
     },
     {
       "slug": "931897-reborn-as-the-enemy-prince",
@@ -2336,7 +2336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "world-saving-is-a-skill",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -2944,7 +2944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 136
+      "total_chapters": 137
     },
     {
       "slug": "155895-nano-machine",
@@ -3944,7 +3944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.24,
-      "total_chapters": 595
+      "total_chapters": 596
     },
     {
       "slug": "prepaid-dragon-king-tanks-everything",
@@ -3992,7 +3992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 55
+      "total_chapters": 57
     },
     {
       "slug": "my-death-flags-show-no-sign-of-ending",
@@ -4384,7 +4384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "inko-demo-seishun-shitai",
@@ -4550,9 +4550,9 @@
       "slug": "s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-con-deshita",
       "title": "S Rank Boukensha de aru Ore no Musume-tachi wa Juudo no Father Con deshita",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 59
     },
     {
       "slug": "i-became-the-berserker-of-the-world-i-created",
@@ -4632,7 +4632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
@@ -4806,9 +4806,9 @@
       "slug": "639169-one-punch-man",
       "title": "One Punch-Man",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 9.29,
+      "total_chapters": 324
     },
     {
       "slug": "the-apocalypses-ultimate-veteran",
@@ -4870,9 +4870,9 @@
       "slug": "584967-genius-grandson-of-the-loan-shark-king",
       "title": "Genius Grandson of the Loan Shark King",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.85,
+      "total_chapters": 89
     },
     {
       "slug": "284443-meccha-shoukan-sareta-ken",
@@ -5088,7 +5088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 176
+      "total_chapters": 177
     },
     {
       "slug": "shinobi-undercover",
@@ -5288,7 +5288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.54,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "netoge-no-yome-ga-ninki-idol-datta",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 416
+      "total_chapters": 421
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5576,7 +5576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "party-kara-tsuihou-sareta-sono-chiyushi-jitsuha-saikyou-nitsuki",
@@ -5816,7 +5816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 3
+      "total_chapters": 5
     },
     {
       "slug": "172125-zombie-apocalypse-82-08",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -5992,7 +5992,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "king-of-snow",
@@ -6176,7 +6176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "remonster",
@@ -6192,7 +6192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "ano-shima-no-umine-sou",
@@ -6552,7 +6552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 4
     },
     {
       "slug": "the-princess-goes-to-school",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "maria-no-danzai",
@@ -6929,6 +6929,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 102
+    },
+    {
+      "slug": "danjohi-139-no-heikou-sekai-wa-omoi-no-hoka-futsuu",
+      "title": "Danjohi 1:39 no Heikou Sekai wa Omoi no Hoka Futsuu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.42,
+      "total_chapters": 263
+    },
+    {
+      "slug": "magia-record-mahou-shoujo-madoka%e2%98%86magica-gaiden",
+      "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.59,
+      "total_chapters": 75
+    },
+    {
+      "slug": "998548-margraves-bastard-son-was-the-emperor",
+      "title": "Margrave’s Bastard Son was The Emperor",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
+    },
+    {
+      "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
+      "title": "Doomsday: The Emperor’s Banner Invites All Female Disciples to Take Their Seats",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 41
     }
   ]
 }

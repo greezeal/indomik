@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-08T13:12:39.985760",
+  "scraped_at": "2026-02-13T03:24:31.774747",
   "alternative_titles": "Time-Limited Genius Dark Knight, 시한부 천재 암흑기사",
   "status": "Berjalan",
   "author": "Jung Seon-yul",
@@ -24,10 +24,16 @@
   "synopsis": "Manhwa                    Terminally-Ill Genius Dark Knight yang dibuat oleh komikus bernama\n                    Jung Seon-yul ini bercerita tentang\n                     adalah RPG fantasi yang terkenal karena tingkat kesulitannya yang ekstrim.\r\n\r\nNamun, bagi Yoo Chan, yang didiagnosis menderita penyakit mematikan di usia muda, game ini adalah seluruh hidupnya dan kini telah menjadi kenyataan.\r\n\r\nMulai sekarang, Yoo Chan harus bertahan hidup di dunia ini sebagai Nox von Reinharber, penjahat terburuk di babak pertama game. Akankah dia bisa mencapai akhir cerita dengan aman?",
   "chapters": [
     {
+      "chapter": "137",
+      "title": "Komik Terminally-Ill Genius Dark Knight Chapter 137",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItMTM3Lw==",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "136",
       "title": "Komik Terminally-Ill Genius Dark Knight Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItMTM2Lw==",
-      "date": "6 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "135",
@@ -63,7 +69,7 @@
       "chapter": "130",
       "title": "Komik Terminally-Ill Genius Dark Knight Chapter 130",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItMTMwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "129",
@@ -117,7 +123,7 @@
       "chapter": "121",
       "title": "Komik Terminally-Ill Genius Dark Knight Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItMTIxLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "120",
@@ -141,7 +147,7 @@
       "chapter": "117",
       "title": "Komik Terminally-Ill Genius Dark Knight Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItMTE3Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "116",
@@ -159,13 +165,13 @@
       "chapter": "114",
       "title": "Komik Terminally-Ill Genius Dark Knight Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItMTE0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "113",
       "title": "Komik Terminally-Ill Genius Dark Knight Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItMTEzLw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "112",
@@ -261,7 +267,7 @@
       "chapter": "97",
       "title": "Komik Terminally-Ill Genius Dark Knight Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVybWluYWxseS1pbGwtZ2VuaXVzLWRhcmsta25pZ2h0LWNoYXB0ZXItOTcv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "96",
@@ -840,5 +846,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 136
+  "total_chapters": 137
 }
