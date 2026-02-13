@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-13T15:27:29.407085",
-  "total_comics": 872,
+  "last_updated": "2026-02-13T16:19:03.184710",
+  "total_comics": 879,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -104,7 +104,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "becoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family",
@@ -326,9 +326,9 @@
       "slug": "the-worlds-best-kunlun-tavern",
       "title": "The World’s Best Kunlun Tavern",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Tamat",
+      "rating": 7.13,
+      "total_chapters": 96
     },
     {
       "slug": "magic-emperor",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 171
+      "total_chapters": 172
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -470,9 +470,9 @@
       "slug": "demons-crest-2",
       "title": "Demons’ Crest",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 42
     },
     {
       "slug": "mayonaka-heart-tune",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 294
+      "total_chapters": 295
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 90
+      "total_chapters": 92
     },
     {
       "slug": "isshou-senkin",
@@ -1464,7 +1464,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "663834-death-god",
@@ -1864,7 +1864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 153
+      "total_chapters": 154
     },
     {
       "slug": "jujutsu-kaisen-modulo",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "938340-ao-ashi",
@@ -1992,7 +1992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 107
+      "total_chapters": 108
     },
     {
       "slug": "age-of-terror",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 475
+      "total_chapters": 476
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2870,9 +2870,9 @@
       "slug": "ao-no-hako",
       "title": "Ao no Hako",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.79,
+      "total_chapters": 221
     },
     {
       "slug": "i-build-an-industrial-empire-on-the-magic-continent",
@@ -2974,9 +2974,9 @@
       "slug": "extraordinary-world-me-a-vampire",
       "title": "Extraordinary World?! Me… A Vampire?!",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 39
     },
     {
       "slug": "become-the-strongest-hero-through-the-cheat-system",
@@ -3000,7 +3000,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "different-kings",
@@ -3206,9 +3206,9 @@
       "slug": "a-lawyer-killler-killer-lawyer",
       "title": "A Lawyer Killler (Killer Lawyer)",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 19
     },
     {
       "slug": "a-lazy-guy-woke-up-as-a-girl-one-morning",
@@ -3656,7 +3656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 56
+      "total_chapters": 58
     },
     {
       "slug": "905942-reincarnated-escort-warrior",
@@ -3862,9 +3862,9 @@
       "slug": "562437-kanojo-okarishimasu",
       "title": "Kanojo, Okarishimasu",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.34,
+      "total_chapters": 414
     },
     {
       "slug": "uesugi-kun-wa-onnanoko-wo-yametai",
@@ -4078,9 +4078,9 @@
       "slug": "kurai-anoko-to-shitai-koto",
       "title": "Kurai Anoko to Shitai koto",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 96
     },
     {
       "slug": "the-berserkers-second-playthrough",
@@ -4096,7 +4096,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.59,
-      "total_chapters": 115
+      "total_chapters": 116
     },
     {
       "slug": "soukyuu-no-shihai-sha-isekai-oppai-musouden",
@@ -4288,7 +4288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "686339-i-obtained-a-mythic-item",
@@ -4328,7 +4328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "it-all-starts-with-trillions-of-nether-currency",
@@ -4384,7 +4384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "inko-demo-seishun-shitai",
@@ -4624,7 +4624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "712877-regressor-of-the-fallen-family",
@@ -4696,7 +4696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 158
+      "total_chapters": 159
     },
     {
       "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 49
+      "total_chapters": 51
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4968,7 +4968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "tsugihagi-darake-no-saikyou-yuusha",
@@ -5302,9 +5302,9 @@
       "slug": "global-beast-tamer-i-can-see-the-path-of-evolution",
       "title": "Global Beast Tamer: I Can See the Path of Evolution",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 54
     },
     {
       "slug": "bill-the-blacksmith",
@@ -5520,7 +5520,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.78,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "absolute-dominion",
@@ -5662,9 +5662,9 @@
       "slug": "eiyuu-to-majo-no-tensei-rabu-kome",
       "title": "Eiyuu to Majo no Tensei Rabu Kome",
       "type": "Manga",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 7.85,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "hyoukaku-no-meteoria",
@@ -6680,7 +6680,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "kaifukushoku-no-akuyaku-reijou",
@@ -6688,7 +6688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "kaketa-tsuki-no-mercedes-kyuuketsuki-no-kizoku-ni-tensei-shitakedo-sute-rare-sounanode-dungeon-o-seiha-suru",
@@ -6720,7 +6720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.92,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "654785-im-not-that-kind-of-talent",
@@ -6977,6 +6977,62 @@
       "status": "Berjalan",
       "rating": 7.51,
       "total_chapters": 15
+    },
+    {
+      "slug": "ani-ni-koisuru-watashitachi",
+      "title": "Ani ni Koisuru Watashitachi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "home-center-goto-yobidasareta-watashi-no-daimeikyuu-renovation",
+      "title": "Home Center-goto Yobidasareta Watashi no Daimeikyuu Renovation!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.83,
+      "total_chapters": 11
+    },
+    {
+      "slug": "438651-alone-necromancer",
+      "title": "Alone Necromancer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 212
+    },
+    {
+      "slug": "please-bully-me-miss-villainess",
+      "title": "Please Bully Me, Miss Villainess!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.96,
+      "total_chapters": 138
+    },
+    {
+      "slug": "the-girl-who-see-it",
+      "title": "The Girl Who See It",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.24,
+      "total_chapters": 77
+    },
+    {
+      "slug": "i-became-an-s-rank-hunter-with-the-demon-lord-app",
+      "title": "I Became an S-Rank Hunter With the Demon Lord App",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 96
+    },
+    {
+      "slug": "i-created-an-urban-legend",
+      "title": "I Created an Urban Legend!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 82
     }
   ]
 }

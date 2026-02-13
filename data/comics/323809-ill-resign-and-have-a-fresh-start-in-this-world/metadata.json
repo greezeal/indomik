@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-13T00:04:45.990796",
+  "scraped_at": "2026-02-13T16:19:00.460380",
   "alternative_titles": "사표내고 이계에서 힐링합니다",
   "status": "Berjalan",
   "author": "Deep Black, Dumbo",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    I’ll Resign and Have a Fresh Start in This World yang dibuat oleh komikus bernama\n                    Deep Black, Dumbo ini bercerita tentang\n                    Karakter utama, Cho Isu, menjalani kehidupan biasa tapi bahagia. Lima tahun yang lalu, dia tiba-tiba kehilangan orang tuanya, dan menjadi pria yang hancur, saat dia berjuang setiap hari. Ketika dia kelelahan dari kehidupan sehari-hari yang menyesakkan, sebuah portal terbuka di ruangan itu. Tempat yang belum pernah dia kunjungi, tempat yang mungkin dia tidak tahu. Kehidupan penyembuhan untuk dinikmati di dunia yang berbeda dimulai sebagai orang biasa dan berubah menjadi tuan feodal.",
   "chapters": [
     {
+      "chapter": "154",
+      "title": "Komik I’ll Resign and Have a Fresh Start in This World Chapter 154",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJlc2lnbi1hbmQtaGF2ZS1hLWZyZXNoLXN0YXJ0LWluLXRoaXMtd29ybGQtY2hhcHRlci0xNTQv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "153",
       "title": "Komik I’ll Resign and Have a Fresh Start in This World Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJlc2lnbi1hbmQtaGF2ZS1hLWZyZXNoLXN0YXJ0LWluLXRoaXMtd29ybGQtY2hhcHRlci0xNTMv",
-      "date": "51 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "152",
@@ -36,13 +42,13 @@
       "chapter": "151",
       "title": "Komik I’ll Resign and Have a Fresh Start in This World Chapter 151",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJlc2lnbi1hbmQtaGF2ZS1hLWZyZXNoLXN0YXJ0LWluLXRoaXMtd29ybGQtY2hhcHRlci0xNTEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "150",
       "title": "Komik I’ll Resign and Have a Fresh Start in This World Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJlc2lnbi1hbmQtaGF2ZS1hLWZyZXNoLXN0YXJ0LWluLXRoaXMtd29ybGQtY2hhcHRlci0xNTAv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "149",
@@ -939,5 +945,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 153
+  "total_chapters": 154
 }

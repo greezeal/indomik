@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.86,
-  "scraped_at": "2026-02-12T03:50:38.836506",
+  "scraped_at": "2026-02-13T16:14:53.301642",
   "alternative_titles": "回復職の悪役令嬢, Villainess Healer",
   "status": "Berjalan",
   "author": "Puni-Chan",
@@ -27,10 +27,16 @@
   "synopsis": "Manga                    Kaifukushoku no Akuyaku Reijou yang dibuat oleh komikus bernama\n                    Puni-Chan ini bercerita tentang\n                    Charlotte menemukan bahwa dia berada di dunia game yang dia mainkan di kehidupan sebelumnya ketika pertunangannya terputus. Dengan pengetahuan cheatnya, dia melarikan diri dari skenario dan mengubah pekerjaannya menjadi  di negara musuh, dan menikmati kehidupan petualangan yang bebas!",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Kaifukushoku no Akuyaku Reijou Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpZnVrdXNob2t1LW5vLWFrdXlha3UtcmVpam91LWNoYXB0ZXItMjAv",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Kaifukushoku no Akuyaku Reijou Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpZnVrdXNob2t1LW5vLWFrdXlha3UtcmVpam91LWNoYXB0ZXItMTkv",
-      "date": "16 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -147,5 +153,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 21
 }

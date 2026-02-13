@@ -1,12 +1,12 @@
 {
   "slug": "ao-no-hako",
-  "title": "Komik\n              Ao no Hako",
+  "title": "Ao no Hako",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYW8tbm8taGFrby8=",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTIvS29taWstQW8tbm8tSGFrby0yMTl4MzE5LmpwZw==",
   "type": "Manga",
   "is_colored": false,
   "rating": 8.79,
-  "scraped_at": "2026-01-28T13:54:25.906234",
+  "scraped_at": "2026-02-13T16:16:32.253557",
   "alternative_titles": "Blue Box, Box Biru, アオのハコ, 青色之箱, 푸른 상자 단편",
   "status": "Berjalan",
   "author": "Kouji Miura",
@@ -22,16 +22,22 @@
   "synopsis": "Manga                    Ao no Hako yang dibuat oleh komikus bernama\n                    Kouji Miura ini bercerita tentang\n                    Seorang anak laki-laki dari tim bola voli datang lebih awal ke gym setiap hari, dan jatuh cinta dengan senpai dari tim bola basket putri yang juga selalu berlatih di sana.",
   "chapters": [
     {
+      "chapter": "220",
+      "title": "Komik Ao no Hako Chapter 220",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIyMC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "219",
       "title": "Komik Ao no Hako Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxOS8=",
-      "date": "23 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "218",
       "title": "Komik Ao no Hako Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxOC8=",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "217",
@@ -43,7 +49,7 @@
       "chapter": "216",
       "title": "Komik Ao no Hako Chapter 216",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxNi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "215",
@@ -55,31 +61,31 @@
       "chapter": "214",
       "title": "Komik Ao no Hako Chapter 214",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxNC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "213",
       "title": "Komik Ao no Hako Chapter 213",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxMy8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "212",
       "title": "Komik Ao no Hako Chapter 212",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxMi8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "211",
       "title": "Komik Ao no Hako Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxMS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "210",
       "title": "Komik Ao no Hako Chapter 210",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxMC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "209",
@@ -103,7 +109,7 @@
       "chapter": "206",
       "title": "Komik Ao no Hako Chapter 206",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIwNi8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "205",
@@ -115,19 +121,19 @@
       "chapter": "204",
       "title": "Komik Ao no Hako Chapter 204",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIwNC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "203",
       "title": "Komik Ao no Hako Chapter 203",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIwMy8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "202",
       "title": "Komik Ao no Hako Chapter 202",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIwMi8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "201",
@@ -145,13 +151,13 @@
       "chapter": "199",
       "title": "Komik Ao no Hako Chapter 199",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5OS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "198",
       "title": "Komik Ao no Hako Chapter 198",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5OC8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "197",
@@ -169,31 +175,31 @@
       "chapter": "195",
       "title": "Komik Ao no Hako Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5NS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "194",
       "title": "Komik Ao no Hako Chapter 194",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5NC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "193",
       "title": "Komik Ao no Hako Chapter 193",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5My8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "192",
       "title": "Komik Ao no Hako Chapter 192",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5Mi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "191",
       "title": "Komik Ao no Hako Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5MS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "190",
@@ -211,13 +217,13 @@
       "chapter": "188",
       "title": "Komik Ao no Hako Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4OC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "187",
       "title": "Komik Ao no Hako Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4Ny8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "186",
@@ -235,13 +241,13 @@
       "chapter": "184",
       "title": "Komik Ao no Hako Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4NC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "183",
       "title": "Komik Ao no Hako Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4My8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "182",
@@ -259,13 +265,13 @@
       "chapter": "180",
       "title": "Komik Ao no Hako Chapter 180",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4MC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "179",
       "title": "Komik Ao no Hako Chapter 179",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE3OS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "178",
@@ -277,13 +283,13 @@
       "chapter": "177",
       "title": "Komik Ao no Hako Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE3Ny8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "176",
       "title": "Komik Ao no Hako Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE3Ni8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "175",
@@ -793,7 +799,7 @@
       "chapter": "90",
       "title": "Komik Ao no Hako Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTkwLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "89",
@@ -1093,13 +1099,13 @@
       "chapter": "41",
       "title": "Komik Ao no Hako Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTQxLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Ao no Hako Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTQwLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "39",
@@ -1255,7 +1261,7 @@
       "chapter": "14",
       "title": "Komik Ao no Hako Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE0Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "13",
@@ -1342,5 +1348,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 220
+  "total_chapters": 221
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-07T13:57:10.792339",
+  "scraped_at": "2026-02-13T16:17:25.837297",
   "alternative_titles": "별정직 공무원",
   "status": "Berjalan",
   "author": "Kwon Sora, Seo Jaewon",
@@ -20,46 +20,58 @@
   "synopsis": "Manhwa                    Special Civil Servant yang dibuat oleh komikus bernama\n                    Kwon Sora, Seo Jaewon ini bercerita tentang\n                    Setelah empat kali gagal dalam ujian pegawai negeri sipil Kelas Sembilan dan melalui banyak liku-liku, Han Maru akhirnya berhasil menjadi pegawai negeri sipil khusus di bawah Kementerian Lingkungan Hidup. Selamat tinggal, gosiwon! Selamat tinggal, kotak makan siang toko serba ada! Namun kegembiraan saat melewatinya hanya berumur pendek. Ternyata itu adalah pekerjaan rahasia nasional yang mengancam jiwa?! Bersamaan dengan debu kuning datanglah iblis, makhluk yang membunuh dan memakan manusia. Pekerjaan pegawai negeri khusus Kelas 9 melibatkan peperangan melawan iblis-iblis ini! Karir pegawai negeri sipil yang mengancam jiwa Han Maru dimulai.",
   "chapters": [
     {
+      "chapter": "58",
+      "title": "Komik Special Civil Servant Chapter 58",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTgv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "57",
+      "title": "Komik Special Civil Servant Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTcv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "56",
       "title": "Komik Special Civil Servant Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTYv",
-      "date": "11 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Special Civil Servant Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTUv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Special Civil Servant Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTQv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Special Civil Servant Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Special Civil Servant Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Special Civil Servant Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTEv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Special Civil Servant Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNTAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "49",
@@ -119,7 +131,7 @@
       "chapter": "40",
       "title": "Komik Special Civil Servant Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BlY2lhbC1jaXZpbC1zZXJ2YW50LWNoYXB0ZXItNDAv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "39",
@@ -356,5 +368,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 58
 }
