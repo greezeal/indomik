@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-10T05:19:39.081575",
+  "scraped_at": "2026-02-14T06:32:21.869434",
   "alternative_titles": "기연독식, Monopolizing All Opportunities",
   "status": "Berjalan",
   "author": "Myogeum",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Monopolizing All Opportunities yang dibuat oleh komikus bernama\n                    Myogeum ini bercerita tentang\n                    Do Tong-dal, seorang pria berusia enam puluh tahun, berada di ambang kematian. Setelah mengabdikan empat puluh dua tahun hidupnya untuk dunia kriminal, yang tersisa baginya hanyalah lima belas koin.Tanpa menghasilkan apa-apa, ia bersiap menemui ajalnya, menghembuskan napas terakhirnya saat terkubur salju di jalan setapak pegunungan...Namun ia mengalami kemunduran seiring waktu, dan kehidupan baru sebagai pemuda berusia delapan belas tahun menyambutnya.‘Hidup ini akan berbeda.’Bertekad untuk meninggalkan masa lalunya yang menyedihkan, Do Tong-dal memutuskan untuk menggunakan pengetahuan tentang kehidupan yang telah dijalaninya!Ia berencana untuk memonopoli setiap kesempatan yang beruntung dan menempa jalan baru untuk dirinya sendiri.“Dari puncak tertinggi malam, dengan kekuatan terbesar! Mari kita jalani hidup yang panjang dan sejahtera!”",
   "chapters": [
     {
+      "chapter": "43",
+      "title": "Komik Monopolizing All Opportunities Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9ub3BvbGl6aW5nLWFsbC1vcHBvcnR1bml0aWVzLWNoYXB0ZXItNDMv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik Monopolizing All Opportunities Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9ub3BvbGl6aW5nLWFsbC1vcHBvcnR1bml0aWVzLWNoYXB0ZXItNDIv",
-      "date": "23 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "41",
@@ -37,13 +43,13 @@
       "chapter": "40",
       "title": "Komik Monopolizing All Opportunities Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9ub3BvbGl6aW5nLWFsbC1vcHBvcnR1bml0aWVzLWNoYXB0ZXItNDAv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Monopolizing All Opportunities Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9ub3BvbGl6aW5nLWFsbC1vcHBvcnR1bml0aWVzLWNoYXB0ZXItMzkv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "38",
@@ -274,5 +280,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 43
 }

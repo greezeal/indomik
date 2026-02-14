@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-14T04:49:19.881238",
-  "total_comics": 879,
+  "last_updated": "2026-02-14T06:34:32.745723",
+  "total_comics": 891,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 824
+      "total_chapters": 825
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -1240,7 +1240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
@@ -3646,9 +3646,9 @@
       "slug": "reborn-on-the-demonic-cult-battlefield",
       "title": "Reborn on the Demonic Cult Battlefield",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 28
     },
     {
       "slug": "special-civil-servant",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 67
+      "total_chapters": 68
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -4222,9 +4222,9 @@
       "slug": "f-class-destiny-hunter",
       "title": "F-Class Destiny Hunter",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 121
     },
     {
       "slug": "154181-majo-to-youhei",
@@ -4278,9 +4278,9 @@
       "slug": "becoming-a-legendary-ace-employee",
       "title": "Becoming a Legendary Ace Employee",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.85,
+      "total_chapters": 115
     },
     {
       "slug": "the-regressed-extra-becomes-a-genius",
@@ -4496,7 +4496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "voice-phishing-turns-your-life-around",
@@ -4544,7 +4544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-con-deshita",
@@ -4584,7 +4584,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 139
+      "total_chapters": 140
     },
     {
       "slug": "885552-manager-kim",
@@ -4664,7 +4664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "734821-chronicles-of-the-demon-faction",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 116
+      "total_chapters": 117
     },
     {
       "slug": "chronicle-of-runes",
@@ -6424,7 +6424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "shuumatsu-no-valkyrie",
@@ -6768,7 +6768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 168
+      "total_chapters": 169
     },
     {
       "slug": "zodiac-girl",
@@ -7033,6 +7033,102 @@
       "status": "Berjalan",
       "rating": 7.05,
       "total_chapters": 82
+    },
+    {
+      "slug": "goblin-slayer-side-story-year-one",
+      "title": "Goblin Slayer: Side Story Year One",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.44,
+      "total_chapters": 130
+    },
+    {
+      "slug": "tachi-nomi-izakaya-de-kei-joshidaisei-ga-tonari-ni-kuru-hanashi",
+      "title": "Tachi Nomi Izakaya De Kei Joshidaisei Ga Tonari Ni Kuru Hanashi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
+    },
+    {
+      "slug": "onna-tomodachi-wa-tanomeba-igaito-yarasete-kureru",
+      "title": "Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.41,
+      "total_chapters": 22
+    },
+    {
+      "slug": "kimi-wa-yotsuba-no-clover",
+      "title": "Kimi wa Yotsuba no Clover",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.37,
+      "total_chapters": 64
+    },
+    {
+      "slug": "inkya-no-ore-ga-sekigae-de-s-kyuu-bishoujo-ni-kakomaretara-himitsu-no-kankei-ga-hajimatta",
+      "title": "Inkya no Ore ga Sekigae de S-kyuu Bishoujo ni Kakomaretara Himitsu no Kankei ga Hajimatta.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 10
+    },
+    {
+      "slug": "game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai",
+      "title": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 29
+    },
+    {
+      "slug": "211615-souzai-saishuka-no-isekai-ryokouki",
+      "title": "Souzai Saishuka no Isekai Ryokouki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.35,
+      "total_chapters": 65
+    },
+    {
+      "slug": "ushiro-no-seki-no-gal-ni-sukarete-shimatta",
+      "title": "Ushiro no Seki no Gal ni Sukarete Shimatta.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.87,
+      "total_chapters": 24
+    },
+    {
+      "slug": "goblin-slayer",
+      "title": "Goblin Slayer",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.55,
+      "total_chapters": 107
+    },
+    {
+      "slug": "secret-family",
+      "title": "Secret Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 36
+    },
+    {
+      "slug": "return-of-the-first-patriarch-the-strongest-reincarnates-into-his-descendant-1000-years-later",
+      "title": "Return of the First Patriarch: The Strongest Reincarnates into His Descendant 1000 Years Later",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "demon-evolution",
+      "title": "Demon Evolution",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.07,
+      "total_chapters": 130
     }
   ]
 }
