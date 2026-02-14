@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-11T01:18:59.855741",
+  "scraped_at": "2026-02-14T14:38:20.180862",
   "alternative_titles": "Dao of the Bizarre Immortal, 道诡异仙",
   "status": "Berjalan",
   "author": "阅文漫画",
@@ -25,10 +25,16 @@
   "synopsis": "Manhua                    Dao of the Bizarre Immortal yang dibuat oleh komikus bernama\n                    阅文漫画 ini bercerita tentang\n                    Li Huowang tidak dapat mengambil keputusan. Apakah dia berada di rumah sakit atau di dunia fantasi yang berjuang untuk bertahan hidup? Kedua belah pihak mengklaim bahwa mereka nyata sementara yang lain adalah halusinasi. Ikuti petualangan Li Huowang saat ia mencoba memahami apa yang terjadi padanya. Jelajahi dunia para pembudidaya aneh dan kengerian yang penuh dengan hal-hal gaib saat semua orang mencoba bertahan hidup di dalamnya.\r\n\r\nJalan aneh menuju surga, dewa-dewi dan makhluk abadi yang tidak normal. Apakah itu nyata? Atau palsu? Li Huowang tidak dapat membedakan keduanya dalam kebingungannya. Namun, bukan itu saja yang menyebabkannya tidak dapat membedakan keduanya. Ada juga penyakitnya sendiri, yang melemahkan.",
   "chapters": [
     {
+      "chapter": "71",
+      "title": "Komik Dao of the Bizarre Immortal Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItNzEv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "70",
       "title": "Komik Dao of the Bizarre Immortal Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItNzAv",
-      "date": "8 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "69",
@@ -40,7 +46,7 @@
       "chapter": "68",
       "title": "Komik Dao of the Bizarre Immortal Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItNjgv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "67",
@@ -52,7 +58,7 @@
       "chapter": "66",
       "title": "Komik Dao of the Bizarre Immortal Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItNjYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "65",
@@ -142,7 +148,7 @@
       "chapter": "51",
       "title": "Komik Dao of the Bizarre Immortal Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItNTEv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -166,7 +172,7 @@
       "chapter": "47",
       "title": "Komik Dao of the Bizarre Immortal Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItNDcv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -220,7 +226,7 @@
       "chapter": "38",
       "title": "Komik Dao of the Bizarre Immortal Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItMzgv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -244,7 +250,7 @@
       "chapter": "34",
       "title": "Komik Dao of the Bizarre Immortal Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItMzQv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -274,7 +280,7 @@
       "chapter": "29",
       "title": "Komik Dao of the Bizarre Immortal Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItMjkv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -445,5 +451,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 70
+  "total_chapters": 71
 }

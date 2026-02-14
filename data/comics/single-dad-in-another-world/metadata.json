@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-12T13:49:25.786556",
+  "scraped_at": "2026-02-14T14:39:08.999591",
   "alternative_titles": "이세계 싱글대디",
   "status": "Berjalan",
   "author": "Watcha",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Single Dad in Another World yang dibuat oleh komikus bernama\n                    Watcha ini bercerita tentang\n                    Suatu hari, istri saya menghilang. Putri saya yang masih kecil menderita penyakit langka yang belum sembuh, dan hidup seakan tak memberi kesempatan untuk bernapas. Tepat ketika saya hampir menyerah pada segalanya—tiba-tiba saya mendapati diri saya terhanyut ke dunia lain bersama putri saya. Dan bukan sembarang dunia... melainkan novel fantasi gelap dan mengerikan yang ditulis istri saya! Saya harus menyelamatkan putri saya, apa pun yang terjadi.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Single Dad in Another World Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMzcv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Single Dad in Another World Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMzYv",
-      "date": "7 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "35",
@@ -113,7 +119,7 @@
       "chapter": "21",
       "title": "Komik Single Dad in Another World Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMjEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -236,5 +242,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }

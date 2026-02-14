@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-13T03:28:13.705497",
+  "scraped_at": "2026-02-14T14:41:23.756474",
   "alternative_titles": "Fairy Please Listen to My Explanation, Tiên Tử Xin Hãy Nghe Ta Giải Thích, 仙子請聽我解釋, 仙子请听我解释",
   "status": "Berjalan",
   "author": "爱豆喵漫画",
@@ -20,40 +20,52 @@
   "synopsis": "Manhua                    Immortal Fairy, Please Listen to My Explanation yang dibuat oleh komikus bernama\n                    爱豆喵漫画 ini bercerita tentang\n                    Xu Yuan secara tidak sengaja berpindah ke dalam game Cang Yuan, hanya untuk menjadi putra ketiga dari bos terakhir?!\r\nDan yang lebih buruk lagi, dia diburu oleh Ran Qingmo, murid perempuan dari pemimpin Sekte Pedang!\r\nMenghadapi pengejaran mematikan dari karakter favoritnya, Xu Yuan harus menulis ulang takdir buruk sang penjahat!",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTMwLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTI5Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTI4Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTI3Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTI2Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTI1Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTI0Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Immortal Fairy, Please Listen to My Explanation Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWwtZmFpcnktcGxlYXNlLWxpc3Rlbi10by1teS1leHBsYW5hdGlvbi1jaGFwdGVyLTIzLw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "22",
@@ -188,5 +200,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 30
 }
