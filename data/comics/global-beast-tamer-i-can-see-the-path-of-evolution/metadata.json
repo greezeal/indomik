@@ -6,8 +6,8 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-14T00:02:31.277695",
-  "alternative_titles": "Quanqiu Yushou: Wo Neng Kanjian Jinhua Luxian, Beast Taming: I Can See the Evolution Paths, Controle Global de Bestas: Eu Posso Ver as Rotas de Evolução, Global Beastmaster ฉันมองเห็นเส้นทางแห่งวิวัฒนาการ, Quánqiú Yùshòu: Wǒ Néng Kànjiàn Jìnhuà Lùxiàn, To",
+  "scraped_at": "2026-02-15T13:16:58.511888",
+  "alternative_titles": "Quanqiu Yushou: Wo Neng Kanjian Jinhua Luxian, Beast Taming: I Can See the Evolution Paths, Controle Global de Bestas: Eu Posso Ver as Rotas de Evolução, Global Beastmaster ฉันมองเห็นเส้นทางแห่งวิวัฒนาการ, Quánqiú Yùshòu: Wǒ Néng Kànjiàn Jìnhuà Lùxiàn, Toàn Cầu Ngự Thú: Ta Có Thể Nhìn Thấy Lộ Trình Tiến Hóa, 全球御兽：我能看见进化路线",
   "status": "Berjalan",
   "author": "柠檬复制体",
   "illustrator": "Long-spotted Woodpecker",
@@ -20,16 +20,22 @@
   "synopsis": "Manhua                    Global Beast Tamer: I Can See the Path of Evolution yang dibuat oleh komikus bernama\n                    柠檬复制体 ini bercerita tentang\n                    Setelah menjelajah waktu, aku mendapatkan bola salju kecil terlemah sebagai hewan peliharaanku, yang bahkan tidak bisa berevolusi? Apakah aku benar-benar harus menjadi sampah seumur hidupku? Ding! Sistem menyala! Apa! Aku benar-benar melihat rute evolusi tersembunyi! Siapa bilang itu yang terlemah! Berevolusi! Ratu Es!",
   "chapters": [
     {
+      "chapter": "55",
+      "title": "Komik Global Beast Tamer: I Can See the Path of Evolution Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWJlYXN0LXRhbWVyLWktY2FuLXNlZS10aGUtcGF0aC1vZi1ldm9sdXRpb24tY2hhcHRlci01NS8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "54",
       "title": "Komik Global Beast Tamer: I Can See the Path of Evolution Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWJlYXN0LXRhbWVyLWktY2FuLXNlZS10aGUtcGF0aC1vZi1ldm9sdXRpb24tY2hhcHRlci01NC8=",
-      "date": "2 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Global Beast Tamer: I Can See the Path of Evolution Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWJlYXN0LXRhbWVyLWktY2FuLXNlZS10aGUtcGF0aC1vZi1ldm9sdXRpb24tY2hhcHRlci01My8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "52",
@@ -257,13 +263,13 @@
       "chapter": "15",
       "title": "Komik Global Beast Tamer: I Can See the Path of Evolution Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWJlYXN0LXRhbWVyLWktY2FuLXNlZS10aGUtcGF0aC1vZi1ldm9sdXRpb24tY2hhcHRlci0xNS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Global Beast Tamer: I Can See the Path of Evolution Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWJlYXN0LXRhbWVyLWktY2FuLXNlZS10aGUtcGF0aC1vZi1ldm9sdXRpb24tY2hhcHRlci0xNC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -344,5 +350,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 55
 }

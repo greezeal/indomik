@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.71,
-  "scraped_at": "2026-02-13T00:05:06.967581",
-  "alternative_titles": "百瀬アキラの初恋破綻中。, Momose Akira's First Love Struggles., Mối Tình Đầu Của Akira Momose Đang Trên Bờ Vực Đổ Vỡ, Momose Akira'nın İlk Aşk Maceraları, O Primeiro Amor de Momose Akira em Ruínas, Momose Akira's First Love Is Coming Apart., Les difficultés du premier amour de Momose Akira., Неудавшаяся первая любовь Акиры Момосэ",
+  "scraped_at": "2026-02-15T13:17:02.617970",
+  "alternative_titles": "百瀬アキラの初恋破綻中。, Momose Akira's First Love Struggles., Mối Tình Đầu Của Akira Momose Đang Trên Bờ Vực Đổ Vỡ, Momose Akira'nın İlk Aşk Maceraları, O Primeiro Amor de Momose Akira em Ruínas, Momose Akira's First Love Is Coming Apart., Les difficultés du premie",
   "status": "Berjalan",
   "author": "Harekawa Shinta",
   "illustrator": "Harekawa Shinta",
@@ -23,16 +23,28 @@
   "synopsis": "Manga                    Momose Akira no Hatsukoi Hatan-chuu. yang dibuat oleh komikus bernama\n                    Harekawa Shinta ini bercerita tentang\n                    Kugayama Hajime, seorang anak laki-laki yang tinggal di pedesaan, kembali bertemu dengan teman sekelas lamanya, Momose Akira, yang dulu ia kagumi.\r\n\r\nSaat ia hendak mengamatinya dari jauh dan menikmati masa mudanya yang manis dan masam, Akira datang secara tak terduga.\r\n\r\nDan terjadilah \"takdir\" yang lebih dari yang dapat ia bayangkan.",
   "chapters": [
     {
+      "chapter": "40",
+      "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci00MC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "39",
+      "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci0zOS8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "38",
       "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci0zOC8=",
-      "date": "4 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci0zNy8=",
-      "date": "4 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "36",
@@ -50,7 +62,7 @@
       "chapter": "34",
       "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci0zNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "33",
@@ -62,7 +74,7 @@
       "chapter": "32",
       "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci0zMi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31",
@@ -128,7 +140,7 @@
       "chapter": "21",
       "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci0yMS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -251,5 +263,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 38
+  "total_chapters": 40
 }

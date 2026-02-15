@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.69,
-  "scraped_at": "2026-02-13T06:16:15.838279",
+  "scraped_at": "2026-02-15T13:18:11.431614",
   "alternative_titles": "7人の眠り姫, The Seven Sleeping Beauties, Las Siete Bellas Durmientes, Les Sept Princesses Endormies, Shichinin no Nemurihime",
   "status": "Berjalan",
   "author": "Fiok Lee",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    7-Nin no Nemuri Hime yang dibuat oleh komikus bernama\n                    Fiok Lee ini bercerita tentang\n                    Seorang pangeran pengembara akan mematahkan kutukan kuno yang menyihir Kerajaan Amaryllis dengan membangunkan sang putri dengan ciuman cinta sejati. Namun tidak ada yang memberitahunya bahwa ada 7 putri untuk dicium dan dia sekarang harus bertanggung jawab dengan tinggal bersama mereka sementara mereka mencari tahu mengapa orang-orang Amaryllis tidak dapat bangun. Akankah mereka mencapai kebahagiaan selamanya?",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik 7-Nin no Nemuri Hime Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0xOC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0xNy8=",
-      "date": "4 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "16",
@@ -125,5 +131,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }

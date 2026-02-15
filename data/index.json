@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-15T12:00:10.269441",
-  "total_comics": 902,
+  "last_updated": "2026-02-15T13:19:13.882340",
+  "total_comics": 907,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -64,7 +64,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 197
+      "total_chapters": 198
     },
     {
       "slug": "593213-the-lords-coins-arent-decreasing",
@@ -88,7 +88,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 141
+      "total_chapters": 142
     },
     {
       "slug": "a-hero-who-does-everything-well",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "magic-emperor",
@@ -392,7 +392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 38
+      "total_chapters": 40
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -1078,9 +1078,9 @@
       "slug": "isshou-senkin",
       "title": "Isshou Senkin",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 68
     },
     {
       "slug": "isekai-no-binbou-nouka-ni-tensei-shita-node-renga-wo-tsukutte-shiro-wo-tateru-koto-ni-shimashita",
@@ -1118,9 +1118,9 @@
       "slug": "322911-rookie-but-one-in-a-million-actor",
       "title": "Rookie but One-in-a-Million Actor",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.29,
+      "total_chapters": 74
     },
     {
       "slug": "turning-into-a-tentacle-monster-made-me-crazier",
@@ -1438,9 +1438,9 @@
       "slug": "extremely-evil-game",
       "title": "Extremely Evil Game",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.06,
+      "total_chapters": 21
     },
     {
       "slug": "muteki-no-ansatsu-ma-shirube-shi-last-boss-musume-to-tabi-wo-suru",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "70-meter-girl",
@@ -2118,9 +2118,9 @@
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
       "title": "Kurasu no Daikirai na Joshi to Kekkon Suru Koto ni Natta",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 62
     },
     {
       "slug": "even-the-absolute-being-is-a-first-time-dad",
@@ -2224,7 +2224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "653805-return-of-the-sss-class-ranker",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -3736,7 +3736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -4144,7 +4144,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "the-absolute-scholar",
@@ -4232,7 +4232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.58,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "survive-as-the-heros-husband",
@@ -4696,7 +4696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 159
+      "total_chapters": 160
     },
     {
       "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 52
+      "total_chapters": 54
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5304,7 +5304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "bill-the-blacksmith",
@@ -5704,7 +5704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.08,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "kimi-no-risou-no-maid-ni-naru",
@@ -5872,7 +5872,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "isekai-shoukan-oji-san-no-juumusou-life-sabage-suki-salaryman-wa-kaisha-owari-ni-isekai-e-chokki-suru",
@@ -6200,7 +6200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 5
     },
     {
       "slug": "monogatari-no-kuromaku-ni-tensei-shite",
@@ -6624,7 +6624,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.53,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "eiyuu-kyoushitsu",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 31
+      "total_chapters": 33
     },
     {
       "slug": "maria-no-danzai",
@@ -6920,7 +6920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "genius-hitter-hits-fastball",
@@ -7120,7 +7120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 9
     },
     {
       "slug": "demon-evolution",
@@ -7217,6 +7217,46 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 32
+    },
+    {
+      "slug": "887850-jungle-juice",
+      "title": "Jungle Juice",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 8.19,
+      "total_chapters": 192
+    },
+    {
+      "slug": "osoraku-kanojo-wa-ore-no-aniki-wo-neratteru",
+      "title": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.53,
+      "total_chapters": 38
+    },
+    {
+      "slug": "gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero",
+      "title": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.39,
+      "total_chapters": 79
+    },
+    {
+      "slug": "marchen-crown",
+      "title": "Marchen Crown",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.4,
+      "total_chapters": 32
+    },
+    {
+      "slug": "initializing-the-sect-system",
+      "title": "Initializing the Sect System",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 25
     }
   ]
 }

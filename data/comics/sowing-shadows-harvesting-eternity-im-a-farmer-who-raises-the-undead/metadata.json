@@ -6,8 +6,8 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-14T23:37:48.454494",
-  "alternative_titles": "I\\'m a Farmer Who Raises the Undead, O Fazendeiro de Mortos-Vivos, Ta Là Nông Phu Trồng Vong Linh, Фермер, выращивающий нежить, เมื่อชาวนาอย่างข้ากลายเป็นเจ้าแห่งความตาย, 我，农夫，种植亡灵,",
+  "scraped_at": "2026-02-15T13:18:23.794709",
+  "alternative_titles": "I'm a Farmer Who Raises the Undead, O Fazendeiro de Mortos-Vivos, Ta Là Nông Phu Trồng Vong Linh, Фермер, выращивающий нежить, เมื่อชาวนาอย่างข้ากลายเป็นเจ้าแห่งความตาย, 我，农夫，种植亡灵,",
   "status": "Berjalan",
   "author": "汇聚点漫画",
   "illustrator": "汇聚点漫画",
@@ -19,10 +19,16 @@
   "synopsis": "Manhua                    Sowing Shadows, Harvesting Eternity (I’m a Farmer Who Raises the Undead) yang dibuat oleh komikus bernama\n                    汇聚点漫画 ini bercerita tentang\n                    Saat Lin Feng, seorang petani tingkat maksimal, sedang bekerja di ladang, ia tanpa diduga terjebak dalam pemberontakan yang dipimpin oleh seorang ahli sihir necromancer dengan profesi warisan. Dalam momen krisis, ia malah secara tidak sengaja membunuh necromancer tersebut, dan mendapatkan kelas kedua, yaitu kemampuan untuk mengolah mayat hidup. Sejak saat itu, ia memulai perjalanannya menuju puncak, mengubah hidupnya dan mendaki hingga ke puncak kejayaan.",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik Sowing Shadows, Harvesting Eternity (I’m a Farmer Who Raises the Undead) Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc293aW5nLXNoYWRvd3MtaGFydmVzdGluZy1ldGVybml0eS1pbS1hLWZhcm1lci13aG8tcmFpc2VzLXRoZS11bmRlYWQtY2hhcHRlci0xNS8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "14",
       "title": "Komik Sowing Shadows, Harvesting Eternity (I’m a Farmer Who Raises the Undead) Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc293aW5nLXNoYWRvd3MtaGFydmVzdGluZy1ldGVybml0eS1pbS1hLWZhcm1lci13aG8tcmFpc2VzLXRoZS11bmRlYWQtY2hhcHRlci0xNC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "13",
@@ -103,5 +109,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 14
+  "total_chapters": 15
 }

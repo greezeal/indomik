@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.77,
-  "scraped_at": "2026-02-11T14:09:10.934907",
+  "scraped_at": "2026-02-15T13:14:01.971387",
   "alternative_titles": "스킬 복사로 꿀 빱니다",
   "status": "Berjalan",
   "author": "YeongSu (영수),Kim Hyun-jun (김현준)",
@@ -23,22 +23,34 @@
   "synopsis": "Manhwa                    Get Some Honey by Copying Skills yang dibuat oleh komikus bernama\n                    YeongSu (영수),Kim Hyun-jun (김현준) ini bercerita tentang\n                    Perjalanan Junhyuk yang tak kenal lelah untuk sepenuhnya menulis ulang masa lalu yang penuh penyesalan dimulai. Setelah akhirnya mendapatkan Batu Regresi dengan susah payah, Junhyuk dengan hati-hati mempersiapkan diri untuk kembali ke masa lalu. Namun, krisis mendesak terjadi, memaksanya untuk memulai regresi hanya dengan persiapan yang telah ia lakukan sejauh ini.\r\n\r\n“Haha, kalau begitu mari kita bertemu di masa lalu.” Meninggalkan mereka yang ingin membunuhnya, Junhyuk melakukan regresi ke masa lalu. “Ini adalah awal dari sesuatu yang baru.” Berbekal indra yang diasah dan kemampuan untuk meniru, Junhyuk memulai misi berani untuk memperbaiki masa lalu yang penuh penyesalan.",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Get Some Honey by Copying Skills Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LXNvbWUtaG9uZXktYnktY29weWluZy1za2lsbHMtY2hhcHRlci0yMC8=",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik Get Some Honey by Copying Skills Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LXNvbWUtaG9uZXktYnktY29weWluZy1za2lsbHMtY2hhcHRlci0xOS8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Get Some Honey by Copying Skills Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LXNvbWUtaG9uZXktYnktY29weWluZy1za2lsbHMtY2hhcHRlci0xOC8=",
-      "date": "36 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Get Some Honey by Copying Skills Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LXNvbWUtaG9uZXktYnktY29weWluZy1za2lsbHMtY2hhcHRlci0xNy8=",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Get Some Honey by Copying Skills Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LXNvbWUtaG9uZXktYnktY29weWluZy1za2lsbHMtY2hhcHRlci0xNi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
@@ -131,5 +143,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 20
 }
