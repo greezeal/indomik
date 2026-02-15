@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-15T18:17:51.422508",
-  "total_comics": 907,
+  "last_updated": "2026-02-15T19:04:44.523132",
+  "total_comics": 908,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -176,7 +176,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 61
     },
     {
       "slug": "iron-ladies",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 157
+      "total_chapters": 158
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 150
+      "total_chapters": 151
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -6768,7 +6768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 169
+      "total_chapters": 170
     },
     {
       "slug": "zodiac-girl",
@@ -7048,7 +7048,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "onna-tomodachi-wa-tanomeba-igaito-yarasete-kureru",
@@ -7257,6 +7257,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 25
+    },
+    {
+      "slug": "crimson-heart-wanderer",
+      "title": "Crimson Heart Wanderer",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 37
     }
   ]
 }

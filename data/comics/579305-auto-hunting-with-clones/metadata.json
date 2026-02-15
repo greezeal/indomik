@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.04,
-  "scraped_at": "2026-02-14T08:48:21.610128",
+  "scraped_at": "2026-02-15T19:00:10.383328",
   "alternative_titles": "Auto Hunting With My Clones, 분신으로 자동사냥",
   "status": "Berjalan",
   "author": "오팔, 차씨",
@@ -25,16 +25,22 @@
   "synopsis": "Manhwa                    Auto-Hunting With Clones yang dibuat oleh komikus bernama\n                    오팔, 차씨 ini bercerita tentang\n                    Sangwoo, seorang mahasiswa, memutuskan untuk mengikuti program kebangkitan pada hari biasa.\r\n\r\nSebuah sistem yang memungkinkan bahkan orang biasa untuk mempelajari keterampilan. Pemerintah telah melanjutkan program kebangkitan ini sejak beberapa tahun lalu. Dengan demikian sebagian besar penduduk mengambil program dan terbangun sekarang.\r\n\r\nSangwoo juga berpartisipasi dalam program seperti yang lain dan mendapatkan keterampilan kloning.\r\n\r\nOrang-orang di sekitarnya mengira kloningan itu hanyalah ilusi, tetapi Sangwoo menyadari kloning itu nyata dan memutuskan untuk menjadi pemburu.\r\nSaat Sangwoo hidup dengan baik, menggunakan keahliannya, Jumper George Lucas muncul di depannya.\r\nSetelah melihat keterampilan kloning Sangwoo, dia melihat potensinya dan dengan demikian mulai tertarik pada Sangwoo.\r\nKetika Sangwoo memperhatikan apa yang dipikirkan Lucas, dia merasa itu adalah bagian dari rencana besar dan tidak bisa menahan diri untuk tidak gugup.\r\n\r\nAkhirnya, saat Sangwoo hidup sebagai pemburu, dia menemukan rencana Lucas dan rahasia gelap di baliknya…",
   "chapters": [
     {
+      "chapter": "171",
+      "title": "Komik Auto-Hunting With Clones Chapter 171",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTcxLw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "170",
       "title": "Komik Auto-Hunting With Clones Chapter 170",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTcwLw==",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "169",
       "title": "Komik Auto-Hunting With Clones Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTY5Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "168",
@@ -46,7 +52,7 @@
       "chapter": "167",
       "title": "Komik Auto-Hunting With Clones Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTY3Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "166",
@@ -76,7 +82,7 @@
       "chapter": "162",
       "title": "Komik Auto-Hunting With Clones Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTYyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "161",
@@ -124,7 +130,7 @@
       "chapter": "154",
       "title": "Komik Auto-Hunting With Clones Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTU0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "153",
@@ -148,7 +154,7 @@
       "chapter": "150",
       "title": "Komik Auto-Hunting With Clones Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTUwLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "149",
@@ -250,7 +256,7 @@
       "chapter": "133",
       "title": "Komik Auto-Hunting With Clones Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXV0by1odW50aW5nLXdpdGgtY2xvbmVzLWNoYXB0ZXItMTMzLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "132",
@@ -1039,5 +1045,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 169
+  "total_chapters": 170
 }
