@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.07,
-  "scraped_at": "2026-02-14T08:49:01.382462",
+  "scraped_at": "2026-02-15T07:15:33.606438",
   "alternative_titles": "Wo, Jinhua, Emo, Me, Evolution, and the Demons, 我，进化，恶魔",
   "status": "Berjalan",
   "author": "黑鸟社",
@@ -25,22 +25,28 @@
   "synopsis": "Manhua                    Demon Evolution yang dibuat oleh komikus bernama\n                    黑鸟社 ini bercerita tentang\n                    Aang, pejuang manusia terkuat di ambang kematian, secara misterius telah melakukan perjalanan 60 tahun ke masa lalu, dengan pedang bermata dua dari kekuatan \"iblis terkuat\" yang tersembunyi di dalam dirinya. “Satu-satunya cara untuk menghindari nasib masa lalu adalah berevolusi. Aang: “Jangan biarkan dirimu menjadi budak batasmu, bebaskan diri dan jadilah iblis yang berkuasa!",
   "chapters": [
     {
+      "chapter": "131",
+      "title": "Komik Demon Evolution Chapter 131",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItMTMxLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "130",
       "title": "Komik Demon Evolution Chapter 130",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItMTMwLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "129",
       "title": "Komik Demon Evolution Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItMTI5Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "128",
       "title": "Komik Demon Evolution Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItMTI4Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "127",
@@ -112,7 +118,7 @@
       "chapter": "116",
       "title": "Komik Demon Evolution Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItMTE2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "115",
@@ -136,7 +142,7 @@
       "chapter": "112",
       "title": "Komik Demon Evolution Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItMTEyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "111",
@@ -220,7 +226,7 @@
       "chapter": "98",
       "title": "Komik Demon Evolution Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItOTgv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "97",
@@ -262,7 +268,7 @@
       "chapter": "91",
       "title": "Komik Demon Evolution Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItOTEv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "90",
@@ -400,7 +406,7 @@
       "chapter": "68",
       "title": "Komik Demon Evolution Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tZXZvbHV0aW9uLWNoYXB0ZXItNjgv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "67",
@@ -805,5 +811,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 130
+  "total_chapters": 131
 }

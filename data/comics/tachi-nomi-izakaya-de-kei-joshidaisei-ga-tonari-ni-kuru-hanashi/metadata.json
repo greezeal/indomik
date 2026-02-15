@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-14T23:40:28.733283",
+  "scraped_at": "2026-02-15T07:12:06.604227",
   "alternative_titles": "立ち飲み居酒屋でクーデレダウナー系女子大生が隣に来る話",
   "status": "Berjalan",
   "author": "Suri Nokoshi",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Tachi Nomi Izakaya De Kei Joshidaisei Ga Tonari Ni Kuru Hanashi yang dibuat oleh komikus bernama\n                    Suri Nokoshi ini bercerita tentang\n                    Tonami Seiya adalah seorang pekerja kantoran berusia tiga puluhan. Rutinitas Jumat malamnya adalah minum-minum santai sendirian di bar favoritnya. Namun, suatu hari, setelah ia membantu seorang mahasiswi yang digoda di bar, ia mulai minum di sampingnya setiap hari. Meskipun hanya obrolan santai tentang hal-hal sepele dan keluhan ringan, Anda akan tertawa di sampingnya - sebuah komedi cinta di bar yang akan membuat Anda menantikan Jumat malam seperti itu, dan akan membuat Anda merasa mabuk.",
   "chapters": [
     {
+      "chapter": "11.1",
+      "title": "Komik Tachi Nomi Izakaya De Kei Joshidaisei Ga Tonari Ni Kuru Hanashi Chapter 11.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFjaGktbm9taS1pemFrYXlhLWRlLWtlaS1qb3NoaWRhaXNlaS1nYS10b25hcmktbmkta3VydS1oYW5hc2hpLWNoYXB0ZXItMTEtMS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "10.2",
       "title": "Komik Tachi Nomi Izakaya De Kei Joshidaisei Ga Tonari Ni Kuru Hanashi Chapter 10.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFjaGktbm9taS1pemFrYXlhLWRlLWtlaS1qb3NoaWRhaXNlaS1nYS10b25hcmktbmkta3VydS1oYW5hc2hpLWNoYXB0ZXItMTAtMi8=",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "10",
@@ -94,5 +100,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }

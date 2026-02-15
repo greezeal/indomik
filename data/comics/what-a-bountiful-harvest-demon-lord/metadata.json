@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-12T03:50:56.732839",
+  "scraped_at": "2026-02-15T07:09:13.737142",
   "alternative_titles": "Pungjagieyo, Mawangnim!, 풍작이에요, 마왕님!",
   "status": "Berjalan",
   "author": "BK_Moon, Lee Hyun Min",
@@ -24,10 +24,16 @@
   "synopsis": "Manhwa                    What a Bountiful Harvest, Demon Lord! yang dibuat oleh komikus bernama\n                    BK_Moon, Lee Hyun Min ini bercerita tentang\n                    Aku telah menjadi Raja Iblis, Bos Terakhir dalam sebuah permainan, tetapi...\r\n\r\nJika aku menyerbu dunia manusia? Aku akan dibunuh oleh Tokoh Utama tingkat Maksimum yang kubesarkan.\r\n\r\nJika aku menghentikan penyerbuan? Aku akan dimangsa oleh Jenderal Iblisku yang kelaparan.\r\n\r\n...Karena itu, satu-satunya jawaban adalah bertani.",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik What a Bountiful Harvest, Demon Lord! Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hhdC1hLWJvdW50aWZ1bC1oYXJ2ZXN0LWRlbW9uLWxvcmQtY2hhcHRlci01NC8=",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "53",
       "title": "Komik What a Bountiful Harvest, Demon Lord! Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hhdC1hLWJvdW50aWZ1bC1oYXJ2ZXN0LWRlbW9uLWxvcmQtY2hhcHRlci01My8=",
-      "date": "16 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "52",
@@ -87,7 +93,7 @@
       "chapter": "43",
       "title": "Komik What a Bountiful Harvest, Demon Lord! Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hhdC1hLWJvdW50aWZ1bC1oYXJ2ZXN0LWRlbW9uLWxvcmQtY2hhcHRlci00My8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -213,7 +219,7 @@
       "chapter": "22",
       "title": "Komik What a Bountiful Harvest, Demon Lord! Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hhdC1hLWJvdW50aWZ1bC1oYXJ2ZXN0LWRlbW9uLWxvcmQtY2hhcHRlci0yMi8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -297,13 +303,13 @@
       "chapter": "8",
       "title": "Komik What a Bountiful Harvest, Demon Lord! Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hhdC1hLWJvdW50aWZ1bC1oYXJ2ZXN0LWRlbW9uLWxvcmQtY2hhcHRlci04Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik What a Bountiful Harvest, Demon Lord! Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hhdC1hLWJvdW50aWZ1bC1oYXJ2ZXN0LWRlbW9uLWxvcmQtY2hhcHRlci03Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -342,5 +348,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 53
+  "total_chapters": 54
 }

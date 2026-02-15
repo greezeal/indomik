@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.25,
-  "scraped_at": "2026-02-13T00:04:12.919712",
+  "scraped_at": "2026-02-15T07:09:32.748547",
   "alternative_titles": "¿En realidad soy el más fuerte?, Am I Actually the Strongest?, На самом деле, я самый сильный?, 実は俺、最強でした?",
   "status": "Berjalan",
   "author": "Sumimori Sai",
@@ -27,10 +27,16 @@
   "synopsis": "Manga                    Jitsu wa Ore, Saikyou Deshita? yang dibuat oleh komikus bernama\n                    Sumimori Sai ini bercerita tentang\n                    Seorang yang tertutup terlahir kembali ke dunia lain dengan janji kehidupan yang damai. Meski terlahir dari keluarga bangsawan, karena sihirnya tampak lemah, orang tuanya meninggalkannya tanpa berpikir di hutan untuk dimangsa monster. Namun, sihirnya sebenarnya sangat kuat. Apa yang harus dia lakukan untuk mencapai kehidupan damai yang dia inginkan?",
   "chapters": [
     {
+      "chapter": "137",
+      "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 137",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTEzNy8=",
+      "date": "36 menit yang lalu"
+    },
+    {
       "chapter": "136",
       "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTEzNi8=",
-      "date": "59 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "135",
@@ -969,5 +975,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 157
+  "total_chapters": 158
 }

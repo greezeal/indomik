@@ -1,12 +1,12 @@
 {
   "slug": "witchriv",
-  "title": "Komik\n              WITCHRIV",
+  "title": "WITCHRIV",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvd2l0Y2hyaXYv",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTIvS29taWstV0lUQ0hSSVYtMjEzeDMxOS5qcGc=",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-01-27T11:13:18.282160",
+  "scraped_at": "2026-02-15T07:11:11.539002",
   "alternative_titles": "Витчрив",
   "status": "Berjalan",
   "author": "Hakuri",
@@ -26,40 +26,52 @@
   "synopsis": "Manga                    WITCHRIV yang dibuat oleh komikus bernama\n                    Hakuri ini bercerita tentang\n                    Seorang gadis bernama Nona hidup tanpa diketahui manusia, menyembunyikan identitas aslinya sebagai penyihir sambil menghabiskan hari-harinya dengan damai bersama sahabatnya, Lovi. Namun suatu hari, Nona menggunakan sihir untuk memperbaiki kacamata Lovi dan kemudian menarik perhatian Biro Pengawasan Sihir. Sebuah kebaikan sederhana menjadi pemicu yang menggerakkan takdir Nona...",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik WITCHRIV Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0xNS8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik WITCHRIV Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0xNC8=",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik WITCHRIV Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0xMy8=",
-      "date": "5 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik WITCHRIV Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0xMi8=",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik WITCHRIV Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0xMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik WITCHRIV Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0xMC8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik WITCHRIV Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci05Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik WITCHRIV Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci04Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -116,5 +128,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 17
 }

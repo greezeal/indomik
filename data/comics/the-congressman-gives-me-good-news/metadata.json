@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-13T03:28:16.293502",
+  "scraped_at": "2026-02-15T07:13:33.921231",
   "alternative_titles": "The Congressman Sends My Condolences, 의원님이 보우하사",
   "status": "Berjalan",
   "author": "Kim Hyunbin, Raeyu",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    The Congressman Gives Me Good News! yang dibuat oleh komikus bernama\n                    Kim Hyunbin, Raeyu ini bercerita tentang\n                    Aku, Gu Young-jin, anggota DPR yang menjabat selama 6 periode. Puncak Korea, harapan politik! Suatu hari di tahun 2008, Aku bunuh diri saat sedang diselidiki oleh KPK karena pengkhianatan dari rekan dekatku sendiri. Dan tempat ini dimana aku membuka mataku… Seoul 10 tahun yang lalu?! Ketika aku menjadi hantu, tidak ada yang bisa melihat ataupun mendengar suaraku. Kecuali satu orang saja, Cha Jae-rim, seorang PNS level 9 berusia 25 tahun. Dia berada di lingkungan yang buruk tanpa uang atau dukungan, tetapi mata itu, semangat itu… Aku menyukainya! Aku akan menjadikannya sebagai partnerku, Gu Young-jin apa pun yang terjadi. “Kau harus terjun ke dunia politik.” Dan demi balas dendamku juga. Permainan kombinasi antara Gu Young-jin, hantu politik tingkat 9 yang ‘mempunyai informasi masa depan’, dan Cha Jae-rim, seorang pria muda yang ‘tidak tahu banyak tentang politik’",
   "chapters": [
     {
+      "chapter": "45",
+      "title": "Komik The Congressman Gives Me Good News! Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmdyZXNzbWFuLWdpdmVzLW1lLWdvb2QtbmV3cy1jaGFwdGVyLTQ1Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik The Congressman Gives Me Good News! Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmdyZXNzbWFuLWdpdmVzLW1lLWdvb2QtbmV3cy1jaGFwdGVyLTQ0Lw==",
-      "date": "13 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik The Congressman Gives Me Good News! Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmdyZXNzbWFuLWdpdmVzLW1lLWdvb2QtbmV3cy1jaGFwdGVyLTQzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik The Congressman Gives Me Good News! Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmdyZXNzbWFuLWdpdmVzLW1lLWdvb2QtbmV3cy1jaGFwdGVyLTQyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "41",
@@ -304,5 +310,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 47
+  "total_chapters": 48
 }
