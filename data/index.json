@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-16T12:03:17.375227",
-  "total_comics": 911,
+  "last_updated": "2026-02-16T13:45:21.462731",
+  "total_comics": 915,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 493
+      "total_chapters": 495
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -472,7 +472,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "mayonaka-heart-tune",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 496
+      "total_chapters": 497
     },
     {
       "slug": "marriagetoxin",
@@ -1200,7 +1200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 134
+      "total_chapters": 135
     },
     {
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
@@ -1408,7 +1408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 139
+      "total_chapters": 140
     },
     {
       "slug": "my-clone-is-the-space-bug-king",
@@ -1432,7 +1432,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 378
+      "total_chapters": 379
     },
     {
       "slug": "extremely-evil-game",
@@ -1888,7 +1888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "931897-reborn-as-the-enemy-prince",
@@ -2336,7 +2336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "world-saving-is-a-skill",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -4102,9 +4102,9 @@
       "slug": "soukyuu-no-shihai-sha-isekai-oppai-musouden",
       "title": "Soukyuu no Shihai-sha ~ Isekai Oppai Musouden",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.29,
+      "total_chapters": 14
     },
     {
       "slug": "sakigake-no-hana-miko",
@@ -4384,7 +4384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "inko-demo-seishun-shitai",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4816,7 +4816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "after-the-high-school-goddess-dumped-me-i-became-a-martial-arts-god",
@@ -4838,9 +4838,9 @@
       "slug": "212320-bad-born-blood",
       "title": "Bad Born Blood",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 74
     },
     {
       "slug": "i-became-the-rouge-first-prince",
@@ -4984,7 +4984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 84
+      "total_chapters": 85
     },
     {
       "slug": "822659-black-corporation-joseon",
@@ -5352,7 +5352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "legend",
@@ -5648,7 +5648,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru",
@@ -6672,7 +6672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu",
@@ -6704,7 +6704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "612685-divine-beast-kindergarten",
@@ -7232,7 +7232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 38
+      "total_chapters": 40
     },
     {
       "slug": "gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero",
@@ -7289,6 +7289,38 @@
       "status": "Berjalan",
       "rating": 7.35,
       "total_chapters": 55
+    },
+    {
+      "slug": "the-genius-girl-who-hides-the-martial-worlds-public-enemy",
+      "title": "The Genius Girl Who Hides the Martial World’s Public Enemy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
+    },
+    {
+      "slug": "aishisugiru-niizuma",
+      "title": "Aishisugiru Niizuma",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "ore-dake-saikyou-chouetsusha-zen-sekai-no-cheat-shishou-ni-mitomerareta",
+      "title": "Ore Dake Saikyou Chouetsusha – Zen Sekai no Cheat Shishou ni Mitomerareta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 72
+    },
+    {
+      "slug": "dungeons-and-crayons",
+      "title": "Dungeons and Crayons",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 58
     }
   ]
 }

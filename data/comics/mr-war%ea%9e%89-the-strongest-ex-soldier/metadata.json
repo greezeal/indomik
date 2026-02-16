@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-04T16:16:30.056811",
+  "scraped_at": "2026-02-16T13:39:51.580069",
   "alternative_titles": "Mr. War: The Ultimate Ex-Soldier",
   "status": "Berjalan",
   "author": "Minto Studio",
@@ -19,28 +19,40 @@
   "synopsis": "Manga                    Mr. War꞉ The Strongest Ex-Soldier yang dibuat oleh komikus bernama\n                    Minto Studio ini bercerita tentang\n                    George, seorang prajurit pasukan khusus legendaris yang ditakuti oleh sekutu dan musuh, mendapat julukan \"Mr. War\" karena kehebatan tempurnya yang tak tertandingi.Namun, karena dikhianati oleh rekan-rekannya sendiri, ia menemui ajalnya di medan perang dalam sebuah konspirasi yang mematikan.Diduga tewas, ia tiba-tiba terbangun di daerah kumuh kumuh yang dikenal sebagai Pulau Limbah Industri... zona tanpa hukum yang diperintah oleh kekerasan dan eksploitasi.Terlahir kembali sebagai Michio, seorang pekerja budak yang tak berdaya, ia mendapati dirinya berada di dasar masyarakat.Namun dengan pikirannya yang cemerlang dan keterampilan yang mematikan, Mr. War siap untuk kembali ke puncak... dan membuat musuh-musuhnya membayar.",
   "chapters": [
     {
+      "chapter": "44",
+      "title": "Komik Mr. War꞉ The Strongest Ex-Soldier Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItd2FyJWVhJTllJTg5LXRoZS1zdHJvbmdlc3QtZXgtc29sZGllci1jaGFwdGVyLTQ0Lw==",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Mr. War꞉ The Strongest Ex-Soldier Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItd2FyJWVhJTllJTg5LXRoZS1zdHJvbmdlc3QtZXgtc29sZGllci1jaGFwdGVyLTQzLw==",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik Mr. War꞉ The Strongest Ex-Soldier Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItd2FyJWVhJTllJTg5LXRoZS1zdHJvbmdlc3QtZXgtc29sZGllci1jaGFwdGVyLTQyLw==",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Mr. War꞉ The Strongest Ex-Soldier Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItd2FyJWVhJTllJTg5LXRoZS1zdHJvbmdlc3QtZXgtc29sZGllci1jaGFwdGVyLTQxLw==",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Mr. War꞉ The Strongest Ex-Soldier Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItd2FyJWVhJTllJTg5LXRoZS1zdHJvbmdlc3QtZXgtc29sZGllci1jaGFwdGVyLTQwLw==",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Mr. War꞉ The Strongest Ex-Soldier Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItd2FyJWVhJTllJTg5LXRoZS1zdHJvbmdlc3QtZXgtc29sZGllci1jaGFwdGVyLTM5Lw==",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "38",
@@ -271,5 +283,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 44
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.21,
-  "scraped_at": "2026-02-13T16:17:07.061839",
+  "scraped_at": "2026-02-16T13:41:47.739694",
   "alternative_titles": "どれだけ努力しても万年レベル０の俺は追放された～神の敵と呼ばれた少年は、社畜女神と出会って最強の力を手に入れる～, No Matter How Hard I Tried, I was Banished from Level 0 for a Thousand Years: The Boy Who was Called the Enemy of God Meets the Goddess of Company Slaves and Gains the Strongest Power",
   "status": "Berjalan",
   "author": "Hasuike Tarou",
@@ -25,22 +25,28 @@
   "synopsis": "Manga                    Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~ yang dibuat oleh komikus bernama\n                    Hasuike Tarou ini bercerita tentang\n                    Sekeras apa pun ia berusaha, petualang Tinto tidak dapat meningkatkan levelnya, dan ia dijuluki [Musuh Tuhan]. Ketika ia akhirnya dikeluarkan dari kelompok, dewi Ester muncul di hadapannya - dan berlutut. Yang mengejutkannya, Tinto masih di level 0 karena kesalahannya!",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~ Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9yZS1kYWtlLWRvcnlva3Utc2hpdGUtbW8tbWFubmVuLWxldmVsLTAtbm8tb3JlLXdhLXRzdWlob3Utc2FyZXRhLXNoaW4tbm8tdGVraS10by15b2JhcmV0YS1zaG91bmVuLXdhLXNoYWNoaWt1LW1lZ2FtaS10by1kZWF0dGUtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLXRlLW5pLWlyZXJ1LWNoYXB0ZXItMTQv",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~ Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9yZS1kYWtlLWRvcnlva3Utc2hpdGUtbW8tbWFubmVuLWxldmVsLTAtbm8tb3JlLXdhLXRzdWlob3Utc2FyZXRhLXNoaW4tbm8tdGVraS10by15b2JhcmV0YS1zaG91bmVuLXdhLXNoYWNoaWt1LW1lZ2FtaS10by1kZWF0dGUtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLXRlLW5pLWlyZXJ1LWNoYXB0ZXItMTMv",
-      "date": "3 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~ Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9yZS1kYWtlLWRvcnlva3Utc2hpdGUtbW8tbWFubmVuLWxldmVsLTAtbm8tb3JlLXdhLXRzdWlob3Utc2FyZXRhLXNoaW4tbm8tdGVraS10by15b2JhcmV0YS1zaG91bmVuLXdhLXNoYWNoaWt1LW1lZ2FtaS10by1kZWF0dGUtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLXRlLW5pLWlyZXJ1LWNoYXB0ZXItMTIv",
-      "date": "13 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~ Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9yZS1kYWtlLWRvcnlva3Utc2hpdGUtbW8tbWFubmVuLWxldmVsLTAtbm8tb3JlLXdhLXRzdWlob3Utc2FyZXRhLXNoaW4tbm8tdGVraS10by15b2JhcmV0YS1zaG91bmVuLXdhLXNoYWNoaWt1LW1lZ2FtaS10by1kZWF0dGUtc2Fpa3lvdS1uby1jaGlrYXJhLXdvLXRlLW5pLWlyZXJ1LWNoYXB0ZXItMTEv",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "10",
@@ -103,5 +109,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }

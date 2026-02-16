@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.8,
-  "scraped_at": "2026-02-12T03:50:43.940119",
+  "scraped_at": "2026-02-16T13:40:59.775852",
   "alternative_titles": "キミに恋する三姉妹, Three Sisters in Love with You",
   "status": "Berjalan",
   "author": "saku",
@@ -23,10 +23,22 @@
   "synopsis": "Manga                    Kimi ni Koisuru Sanshimai yang dibuat oleh komikus bernama\n                    saku ini bercerita tentang\n                    Di tengah dunia yang penuh dedikasi untuk belajar setiap hari, ada Itsuki, seorang siswa SMA. Alasan ia begitu tekun belajar adalah untuk bertemu kembali dengan cinta pertamanya, seorang gadis bernama Amane, dan berkencan dengannya. Di tengah kesibukannya belajar, karena suatu kebetulan, ia akhirnya tinggal bersama Amane dan saudara-saudara perempuannya, Shion dan Mone...!?",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE1Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE0Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTEzLw==",
-      "date": "16 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "12",
@@ -104,8 +116,8 @@
       "chapter": "1",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 14
+  "total_chapters": 16
 }

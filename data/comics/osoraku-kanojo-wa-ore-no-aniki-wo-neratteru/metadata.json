@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.53,
-  "scraped_at": "2026-02-16T03:18:57.013250",
+  "scraped_at": "2026-02-16T13:40:32.024811",
   "alternative_titles": "おそらくカノジョは俺の兄貴を狙ってる, Osoraku Kanojoha Oreno Anikiwo Neratteru, She's Likely Aiming for My Older Brother",
   "status": "Berjalan",
   "author": "Ise Maruno",
@@ -23,16 +23,28 @@
   "synopsis": "Manga                    Osoraku Kanojo wa Ore no Aniki wo Neratteru yang dibuat oleh komikus bernama\n                    Ise Maruno ini bercerita tentang\n                    Seorang pria SMA yang tidak lagi memercayai gadis-gadis telah ditipu berkali-kali oleh gadis-gadis yang hanya ingin dekat dengan kakak laki-lakinya yang tampan. Setelah semua itu, ia memutuskan tidak akan pernah memercayai seorang gadis lagi.\r\n\r\nNamun, seorang gadis cantik di kelasnya tiba-tiba mulai banyak berbicara dengannya. Apakah ia hanya mencoba mendekati kakaknya juga…? Atau apakah ia sebenarnya bermaksud sesuatu yang lain?",
   "chapters": [
     {
+      "chapter": "21.5",
+      "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 21.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTIxLTUv",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTIxLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "20.5",
       "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 20.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTIwLTUv",
-      "date": "3 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTIwLw==",
-      "date": "3 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "19.5",
@@ -251,5 +263,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 38
+  "total_chapters": 40
 }

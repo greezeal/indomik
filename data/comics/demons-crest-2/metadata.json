@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-14T00:02:26.261094",
-  "alternative_titles": "デモンズ・クレスト, Demons' Crest",
+  "scraped_at": "2026-02-16T13:42:51.672657",
+  "alternative_titles": "デモンズ・クレスト, Demons\\' Crest",
   "status": "Berjalan",
   "author": "Kawahara Reki",
   "illustrator": "Tomoe (TOもえ)",
@@ -25,16 +25,28 @@
   "synopsis": "Manga                    Demons’ Crest yang dibuat oleh komikus bernama\n                    Kawahara Reki ini bercerita tentang\n                    Pada tahun 2031, seorang siswa sekolah dasar bernama Yuma Ashihara berpartisipasi dalam uji beta dari VRMMO-RPG full-dive pertama di dunia yang disebut \"Actual Magic (AM)\", namun ia kehilangan kesadaran saat bermain dan terbangun di dunia di mana permainan dan realitas telah menyatu. Sebuah permainan maut pun terjadi dalam \"realitas campuran\".",
   "chapters": [
     {
+      "chapter": "44",
+      "title": "Komik Demons’ Crest Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb25zLWNyZXN0LWNoYXB0ZXItNDQv",
+      "date": "26 menit yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Demons’ Crest Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb25zLWNyZXN0LWNoYXB0ZXItNDMv",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik Demons’ Crest Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb25zLWNyZXN0LWNoYXB0ZXItNDIv",
-      "date": "2 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Demons’ Crest Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb25zLWNyZXN0LWNoYXB0ZXItNDEv",
-      "date": "2 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "40",
@@ -277,5 +289,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 44
 }
