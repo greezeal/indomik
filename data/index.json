@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-16T15:24:34.584157",
-  "total_comics": 915,
+  "last_updated": "2026-02-16T16:15:26.031268",
+  "total_comics": 917,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -164,11 +164,11 @@
     },
     {
       "slug": "in-the-land-of-leadale",
-      "title": "Komik\n              In the Land of Leadale",
+      "title": "In the Land of Leadale",
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.74,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "infinite-evolution-starting-from-zero",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "magic-emperor",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 172
+      "total_chapters": 173
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 295
+      "total_chapters": 296
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1224,7 +1224,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 60
+      "total_chapters": 62
     },
     {
       "slug": "687103-the-genius-grandson-of-namgung-clan",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1336,7 +1336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "495189-heavenly-inquisition-sword",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -6752,7 +6752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 7
     },
     {
       "slug": "berserk-of-gluttony",
@@ -6768,7 +6768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "zodiac-girl",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "maria-no-danzai",
@@ -7008,7 +7008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.96,
-      "total_chapters": 138
+      "total_chapters": 140
     },
     {
       "slug": "the-girl-who-see-it",
@@ -7321,6 +7321,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 58
+    },
+    {
+      "slug": "the-demon-king-who-lost-his-job",
+      "title": "The Demon King Who Lost His Job",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.02,
+      "total_chapters": 454
+    },
+    {
+      "slug": "322250-juujika-no-rokunin",
+      "title": "Juujika no Rokunin",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.37,
+      "total_chapters": 228
     }
   ]
 }
