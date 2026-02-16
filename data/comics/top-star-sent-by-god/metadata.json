@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.83,
-  "scraped_at": "2026-02-13T00:05:11.129615",
+  "scraped_at": "2026-02-16T05:16:41.542867",
   "alternative_titles": "Godsent Top Star, A Estrela Enviada por Deus, 신이 내린 탑스타",
   "status": "Berjalan",
   "author": "Dongjeon Pass,Kwon Yeongjun",
@@ -21,28 +21,34 @@
   "synopsis": "Manhwa                    Top Star Sent by God yang dibuat oleh komikus bernama\n                    Dongjeon Pass,Kwon Yeongjun ini bercerita tentang\n                    Dengan kemampuan spiritual bawaannya, Kang Yeon-woo ditakdirkan untuk menjadi dukun atau penghibur. Setelah selamat dari peristiwa yang mengancam jiwa, ia memperoleh kemampuan untuk memperpanjang hidupnya dengan menyelesaikan dendam. Hidupnya berubah total ketika ia bertemu bintang top Kwon Sung-hyun saat menangani permintaan",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik Top Star Sent by God Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00Mi8=",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik Top Star Sent by God Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00MS8=",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Top Star Sent by God Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00MC8=",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Top Star Sent by God Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci0zOS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Top Star Sent by God Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci0zOC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -66,7 +72,7 @@
       "chapter": "34",
       "title": "Komik Top Star Sent by God Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci0zNC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -267,5 +273,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 42
 }

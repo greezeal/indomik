@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-16T03:20:48.680767",
+  "scraped_at": "2026-02-16T05:14:41.747276",
   "alternative_titles": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
   "status": "Berjalan",
   "author": "Alto",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished yang dibuat oleh komikus bernama\n                    Alto ini bercerita tentang\n                    Party ini tidak butuh penyihir tidak cakap yang bisanya cuma menggunakan sihir pendukung.\r\nkau dipecat, alec huguette. tiba-tiba, alec, seorang penyihir istana yang menjadi anggota party pangeran untuk membantu beliau menaklukan dungeon– dikeluarkan dari party.\r\ntidak cuma dari party, penindasan pangeran pun berlanjut dengan mengusirnya dari istana, tapi teman dari “akademi sihir” mengundang alec,\r\nyang sudah mulai kehilangan kesabaran, “–hei, alec, apa kau mau mencoba menaklukan dungeon lagi bersama kami?”\r\nlalu bersama dengan teman-teman satu party-nya, dimulailah jalan hidup kedua alec.\r\nini adalah cerita tentang mantan penyihir kerajaan yang dikhianati.\r\nempat tahun yang lalu, “lasting period” party beranggotakan empat orang yang dijuluki “legenda” perlahan mampu mengaungkan namanya ke seluruh penjuru dunia.",
   "chapters": [
     {
+      "chapter": "190",
+      "title": "Komik A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished Chapter 190",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1jb3VydC1tYWdpY2lhbi13aG8td2FzLWZvY3VzZWQtb24tc3VwcG9ydGl2ZS1tYWdpYy1iZWNhdXNlLWhpcy1hbGxpZXMtd2VyZS10b28td2Vhay1haW1zLXRvLWJlY29tZS10aGUtc3Ryb25nZXN0LWFmdGVyLWJlaW5nLWJhbmlzaGVkLWNoYXB0ZXItMTkwLw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "189",
       "title": "Komik A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished Chapter 189",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1jb3VydC1tYWdpY2lhbi13aG8td2FzLWZvY3VzZWQtb24tc3VwcG9ydGl2ZS1tYWdpYy1iZWNhdXNlLWhpcy1hbGxpZXMtd2VyZS10b28td2Vhay1haW1zLXRvLWJlY29tZS10aGUtc3Ryb25nZXN0LWFmdGVyLWJlaW5nLWJhbmlzaGVkLWNoYXB0ZXItMTg5Lw==",
-      "date": "10 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "188",
@@ -56,7 +62,7 @@
       "chapter": "184",
       "title": "Komik A Court Magician, Who Was Focused On Supportive Magic Because His Allies Were Too Weak, Aims To Become The Strongest After Being Banished Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1jb3VydC1tYWdpY2lhbi13aG8td2FzLWZvY3VzZWQtb24tc3VwcG9ydGl2ZS1tYWdpYy1iZWNhdXNlLWhpcy1hbGxpZXMtd2VyZS10b28td2Vhay1haW1zLXRvLWJlY29tZS10aGUtc3Ryb25nZXN0LWFmdGVyLWJlaW5nLWJhbmlzaGVkLWNoYXB0ZXItMTg0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "183",
@@ -1169,5 +1175,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 191
+  "total_chapters": 192
 }

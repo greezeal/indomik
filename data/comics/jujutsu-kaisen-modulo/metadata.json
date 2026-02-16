@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.11,
-  "scraped_at": "2026-02-10T05:19:36.396974",
+  "scraped_at": "2026-02-16T05:14:54.222904",
   "alternative_titles": "呪術廻戦≡, 呪術廻戦≡ (モジュロ), Магическая битва: Модзюро, Jujutsu Kaisen: Módulo",
   "status": "Berjalan",
   "author": "Akutami Gege",
@@ -24,34 +24,40 @@
   "synopsis": "Manga                    Jujutsu Kaisen Modulo yang dibuat oleh komikus bernama\n                    Akutami Gege ini bercerita tentang\n                    Sudah 68 tahun sejak Permainan Pemusnahan. Pada tahun 2086, ras alien yang dikenal sebagai Simurian tiba di Bumi dengan pesawat luar angkasa.\r\nNasib dunia berada di tangan dua penyihir jujutsu, Yuka dan Tsurugi Okkotsu.\r\n\r\nPenyihir jujutsu dan alien, kekacauan apa yang akan muncul dari pertemuan ini?",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Jujutsu Kaisen Modulo Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItMjIv",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Jujutsu Kaisen Modulo Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItMjEv",
-      "date": "23 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Jujutsu Kaisen Modulo Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItMjAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Jujutsu Kaisen Modulo Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItMTkv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Jujutsu Kaisen Modulo Chapter  18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItMTgv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Jujutsu Kaisen Modulo Chapter  17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItMTcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "16",
@@ -75,7 +81,7 @@
       "chapter": "13",
       "title": "Komik Jujutsu Kaisen Modulo Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItMTMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -99,7 +105,7 @@
       "chapter": "9",
       "title": "Komik Jujutsu Kaisen Modulo Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItOS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -129,7 +135,7 @@
       "chapter": "4",
       "title": "Komik Jujutsu Kaisen Modulo Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVqdXRzdS1rYWlzZW4tbW9kdWxvLWNoYXB0ZXItNC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "3",
@@ -150,5 +156,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 22
 }

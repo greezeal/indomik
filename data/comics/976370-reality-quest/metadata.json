@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-09T12:05:04.535519",
+  "scraped_at": "2026-02-16T05:16:01.135138",
   "alternative_titles": "Real Life Quest, 현실퀘스트",
   "status": "Berjalan",
   "author": "Lee Joo-woon",
@@ -23,28 +23,34 @@
   "synopsis": "Manhwa                    Reality Quest yang dibuat oleh komikus bernama\n                    Lee Joo-woon ini bercerita tentang\n                    Karena ancaman pengganggu sekolah untuk memberinya item game, Ha Do-wan, shuttle game yang tidak beruntung, meninggal setelah bermain game sepanjang malam selama seminggu. Saat dia meninggal, dia dibangkitkan kembali ke ruang kelas satu minggu sebelum dia meninggal... Semuanya sama seperti hari itu. Satu-satunya hal yang berubah adalah mengambang di depannya! Apa? Gunakan keterampilan permainan yang saya mainkan sejauh ini untuk mengalahkan pengganggu?!?!",
   "chapters": [
     {
+      "chapter": "192",
+      "title": "Komik Reality Quest Chapter 192",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE5Mi8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "191",
       "title": "Komik Reality Quest Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE5MS8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "190",
       "title": "Komik Reality Quest Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE5MC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "189",
       "title": "Komik Reality Quest Chapter 189",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE4OS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "188",
       "title": "Komik Reality Quest Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE4OC8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "187",
@@ -56,13 +62,13 @@
       "chapter": "186",
       "title": "Komik Reality Quest Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE4Ni8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "185",
       "title": "Komik Reality Quest Chapter 185",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE4NS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "184",
@@ -200,7 +206,7 @@
       "chapter": "162",
       "title": "Komik Reality Quest Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE2Mi8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "161",
@@ -218,7 +224,7 @@
       "chapter": "159",
       "title": "Komik Reality Quest Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE1OS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "158",
@@ -242,7 +248,7 @@
       "chapter": "155",
       "title": "Komik Reality Quest Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE1NS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "154",
@@ -260,7 +266,7 @@
       "chapter": "152",
       "title": "Komik Reality Quest Chapter 152",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTE1Mi8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "151",
@@ -890,7 +896,7 @@
       "chapter": "47",
       "title": "Komik Reality Quest Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhbGl0eS1xdWVzdC1jaGFwdGVyLTQ3Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "46",
@@ -1175,5 +1181,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 192
+  "total_chapters": 193
 }
