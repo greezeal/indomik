@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.17,
-  "scraped_at": "2026-02-11T11:34:51.651826",
+  "scraped_at": "2026-02-17T08:13:59.627714",
   "alternative_titles": "Reencarnado como o terceiro filho do Grão-Duque, 환생했더니 대공의 셋째 아들",
   "status": "Berjalan",
   "author": "BELF",
@@ -23,28 +23,34 @@
   "synopsis": "Manhwa                    Reincarnated as the Archduke’s Son yang dibuat oleh komikus bernama\n                    BELF ini bercerita tentang\n                    Seorang kapten tentara bayaran tewas di medan perang, tanpa pernah mencapai kemajuan dalam hidup karena garis keturunannya yang rendah. Ketika ia membuka matanya kembali, ia mengetahui bahwa ia telah bereinkarnasi sebagai putra ketiga seorang adipati agung — kini diberkati dengan keluarga bergengsi, status, dan bakat bawaan yang selalu ia impikan.\r\n\r\nDengan pengalaman tempur sebagai mantan komandan tentara bayaran dan keuntungan dari kelahiran bangsawan, ia memutuskan hanya ada satu jalan tersisa: mendaki sampai ke puncak.\r\n\r\nDemikianlah dimulainya kehidupan beraninya, \"dari mantan tentara bayaran menjadi bangsawan tinggi,\" saat ia mengguncang masyarakat aristokrat sambil hidup sebagai putra ketiga adipati agung.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Reincarnated as the Archduke’s Son Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLXRoZS1hcmNoZHVrZXMtc29uLWNoYXB0ZXItMTgv",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik Reincarnated as the Archduke’s Son Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLXRoZS1hcmNoZHVrZXMtc29uLWNoYXB0ZXItMTcv",
-      "date": "7 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Reincarnated as the Archduke’s Son Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLXRoZS1hcmNoZHVrZXMtc29uLWNoYXB0ZXItMTYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Reincarnated as the Archduke’s Son Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLXRoZS1hcmNoZHVrZXMtc29uLWNoYXB0ZXItMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Reincarnated as the Archduke’s Son Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLXRoZS1hcmNoZHVrZXMtc29uLWNoYXB0ZXItMTQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
@@ -125,5 +131,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }

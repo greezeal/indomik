@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-14T23:36:23.758544",
+  "scraped_at": "2026-02-17T08:12:36.746591",
   "alternative_titles": "The Hero's Younger Brother Is a Deceased Person in the Academy, 용사 동생은 아카데미 고인물",
   "status": "Berjalan",
   "author": "Bae Hanul",
@@ -25,16 +25,22 @@
   "synopsis": "Manhwa                    The Little Brother Is the Academy’s Hotshot yang dibuat oleh komikus bernama\n                    Bae Hanul ini bercerita tentang\n                    dalam pertarungan terakhir dengan raja dari ras naga yang membunuh ribuan manusia, rudd denatos kehilangan teman dan kakak kandungnya, aesir denatos. pada saat dia membunuh naga tak dikenal yang muncul di hadapannya, dia malah kembali ke masa lalunya sebagai mudrid akademi. tapi, kakaknya, aesir, sang ksatria jenius tak ada di masa lalu tempat rudd kembali. dengan mencoba mengisi kekosongan aesir, rudd berusaha mempersiapkan diri sebaik mungkin sebelum raja naga terkuat, naga ketujuh, muncul. apakah rudd bisa menemukan kakaknya dan membalaskan dendam orang tuanya?",
   "chapters": [
     {
+      "chapter": "114",
+      "title": "Komik The Little Brother Is the Academy’s Hotshot Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxpdHRsZS1icm90aGVyLWlzLXRoZS1hY2FkZW15cy1ob3RzaG90LWNoYXB0ZXItMTE0Lw==",
+      "date": "37 menit yang lalu"
+    },
+    {
       "chapter": "113",
       "title": "Komik The Little Brother Is the Academy’s Hotshot Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxpdHRsZS1icm90aGVyLWlzLXRoZS1hY2FkZW15cy1ob3RzaG90LWNoYXB0ZXItMTEzLw==",
-      "date": "5 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik The Little Brother Is the Academy’s Hotshot Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxpdHRsZS1icm90aGVyLWlzLXRoZS1hY2FkZW15cy1ob3RzaG90LWNoYXB0ZXItMTEyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "111",
@@ -58,13 +64,13 @@
       "chapter": "108",
       "title": "Komik The Little Brother Is the Academy’s Hotshot Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxpdHRsZS1icm90aGVyLWlzLXRoZS1hY2FkZW15cy1ob3RzaG90LWNoYXB0ZXItMTA4Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik The Little Brother Is the Academy’s Hotshot Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxpdHRsZS1icm90aGVyLWlzLXRoZS1hY2FkZW15cy1ob3RzaG90LWNoYXB0ZXItMTA3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "106",
@@ -130,7 +136,7 @@
       "chapter": "96",
       "title": "Komik The Little Brother Is the Academy’s Hotshot Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxpdHRsZS1icm90aGVyLWlzLXRoZS1hY2FkZW15cy1ob3RzaG90LWNoYXB0ZXItOTYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "95",
@@ -709,5 +715,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 114
+  "total_chapters": 115
 }

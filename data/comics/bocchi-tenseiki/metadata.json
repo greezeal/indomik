@@ -1,12 +1,12 @@
 {
   "slug": "bocchi-tenseiki",
-  "title": "Komik\n              Bocchi Tenseiki",
+  "title": "Bocchi Tenseiki",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYm9jY2hpLXRlbnNlaWtpLw==",
   "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvS29taWstQm9jY2hpLVRlbnNlaWtpLTIyNHgzMTkuanBn",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.55,
-  "scraped_at": "2026-01-30T09:57:54.274369",
+  "scraped_at": "2026-02-17T08:09:04.563008",
   "alternative_titles": "Botchi Tenseiki, The Reincarnation Record of Bocchi, ぼっち転生記, 孤独转生记",
   "status": "Berjalan",
   "author": "Fast, MIDORIKAWA You",
@@ -26,16 +26,28 @@
   "synopsis": "Manga                    Bocchi Tenseiki yang dibuat oleh komikus bernama\n                    Fast, MIDORIKAWA You ini bercerita tentang\n                    Seorang pria kesepian 29 tahun yang menganggur dan perjaka yang memiliki ketidakpercayaan yang sangat dalam terhadap manusia sedang mencoba menyelamatkan seorang wanita yang hampir diperkosa. Dia ditikam di dada oleh penyerang dan dibiarkan mati sendirian sambil mengutuk manusia. Ketika dia sadar, dia menyadari bahwa dia telah bereinkarnasi di dunia lain sebagai putra kedua dari keluarga bangsawan yang lebih rendah di mana sihir dan roh ada sebagai bayi manusia bernama Ash Hawkwood.\r\n\r\nTanpa bakat untuk [Sihir Sejati] atau [Ilmu Pedang], inilah cerita tentang bagaimana dia membangun kerajaannya sendiri dari awal dengan menggunakan kekuatannya sendiri!",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Bocchi Tenseiki Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9jY2hpLXRlbnNlaWtpLWNoYXB0ZXItMzgv",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "37",
+      "title": "Komik Bocchi Tenseiki Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9jY2hpLXRlbnNlaWtpLWNoYXB0ZXItMzcv",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Bocchi Tenseiki Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9jY2hpLXRlbnNlaWtpLWNoYXB0ZXItMzYv",
-      "date": "34 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Bocchi Tenseiki Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9jY2hpLXRlbnNlaWtpLWNoYXB0ZXItMzUv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -185,7 +197,7 @@
       "chapter": "12",
       "title": "Komik Bocchi Tenseiki Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9jY2hpLXRlbnNlaWtpLWNoYXB0ZXItMTIv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "11",
@@ -266,5 +278,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 42
 }

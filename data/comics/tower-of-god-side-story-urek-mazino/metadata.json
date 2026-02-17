@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-15T14:43:04.089747",
+  "scraped_at": "2026-02-17T08:10:36.447497",
   "alternative_titles": "Urek Mazino, Tower of God: Urek's Ascent, 우렉 마지노",
   "status": "Berjalan",
   "author": "SIU",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    Tower Of God: Side Story Urek Mazino yang dibuat oleh komikus bernama\n                    SIU ini bercerita tentang\n                    Sebelum ia menjadi legenda, sebelum Menara berguncang mendengar namanya—\r\n\r\nUrek Mazino hanyalah seorang Regular lainnya, yang memanjat Menara untuk tujuan yang lebih besar daripada sekadar kekuatan:\r\n\r\nUntuk mengejar makhluk misterius, Phantaminum.\r\n\r\nIni adalah kisah yang tak terungkap dari hari-hari awal Urek—cobaan, pertempuran, dan semangat pantang menyerahnya sebagai seorang Regular terpilih.\r\n\r\nSaksikan kebangkitan pria yang suatu hari akan mengguncang fondasi Menara itu sendiri.\r\n\r\nLegenda Urek Mazino dimulai di sini.",
   "chapters": [
     {
+      "chapter": "50",
+      "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci01MC8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "49",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci00OS8=",
-      "date": "7 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "48",
@@ -192,7 +198,7 @@
       "chapter": "21",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci0yMS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -315,5 +321,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 50
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-09T05:57:20.488529",
+  "scraped_at": "2026-02-17T08:11:18.026406",
   "alternative_titles": "槍鬼無双, 창귀무쌍",
   "status": "Berjalan",
   "author": "Burying Beetles, S.J",
@@ -22,34 +22,40 @@
   "synopsis": "Manhwa                    Unrivaled Spear Demon yang dibuat oleh komikus bernama\n                    Burying Beetles, S.J ini bercerita tentang\n                    Shuji, seorang prajurit yang menari dengan kematian berkali-kali saat berada di medan perang, dirasuki oleh dendam dan kebencian terhadap orang-orang yang telah ia bunuh. Dia juga akhirnya terbunuh, tetapi entah bagaimana dia terbangun dalam versi dirinya yang lebih muda.\r\n\r\nDia kembali ke masa ketika dia masih menjadi pesuruh, tidak berpengalaman dalam perang, tetapi mempertahankan ingatannya. Teringat akan Kyo Aiyo, rekan dan penyelamatnya, Shuji melakukan perjalanan ke Sekte ‘Lubang Harimau’. Namun, alih-alih bertemu dengan wanita yang kuat dan dapat diandalkan, ia justru bertemu dengan seorang gadis yang ceria dan mungil. Dia teringat masa lalu yang tragis yang menyebabkan dia mengabdikan dirinya untuk menjadi tentara, di mana dalam kehidupan sebelumnya keluarganya telah berantakan karena rumor palsu.\r\n\r\n“Kali ini, saya akan melindungimu.\r\n\r\nDia bersumpah untuk membalas kebaikan yang dia terima di kehidupan sebelumnya dengan mengubah nasibnya. Dengan tombak di tangan kanannya, Shuji melangkah ke medan perang sekali lagi, menjadi Iblis Tombak yang tak tertandingi.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Unrivaled Spear Demon Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMzcv",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Unrivaled Spear Demon Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMzYv",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Unrivaled Spear Demon Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMzUv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Unrivaled Spear Demon Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMzQv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Unrivaled Spear Demon Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMzMv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Unrivaled Spear Demon Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMzIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -61,7 +67,7 @@
       "chapter": "30",
       "title": "Komik Unrivaled Spear Demon Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMzAv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "29",
@@ -115,7 +121,7 @@
       "chapter": "21",
       "title": "Komik Unrivaled Spear Demon Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5yaXZhbGVkLXNwZWFyLWRlbW9uLWNoYXB0ZXItMjEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -238,5 +244,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }
