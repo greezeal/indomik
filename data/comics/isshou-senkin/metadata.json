@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.51,
-  "scraped_at": "2026-02-16T03:20:16.405812",
+  "scraped_at": "2026-02-17T17:45:41.160209",
   "alternative_titles": "一勝千金, ST✰R: Strike it Rich, STAR: Strike it Rich, Звезда: Бей, богатей, Бесценная Победа",
   "status": "Berjalan",
   "author": "Sandrovich Yabako",
@@ -24,10 +24,16 @@
   "synopsis": "Manga                    Isshou Senkin yang dibuat oleh komikus bernama\n                    Sandrovich Yabako ini bercerita tentang\n                    \"Ya! Lambat seperti yang kukira.\"\r\n\r\nSetelah pensiun dari pertarungan publik dan dipecat dari pertarungan bawah tanah, semangat hidup Tenma Nozomi yang berusia 27 tahun perlahan memudar. Sulit untuk berada di posisi terbawah tanpa tujuan, dan di situlah dia dan kedua temannya berada. Namun, Nozomi menemukan ide yang mungkin bisa menyelesaikan semua masalah mereka: mereka bisa membuat sirkuit pertarungan bawah tanah mereka sendiri untuk wanita, dan memasuki pasar yang belum tereksplorasi. Kedengarannya bagus, tetapi desakannya untuk mengikutsertakan Hongou Hina yang tidak dikenal mungkin terbukti lebih dari yang dia harapkan...",
   "chapters": [
     {
+      "chapter": "67",
+      "title": "Komik Isshou Senkin Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LXNlbmtpbi1jaGFwdGVyLTY3Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "66",
       "title": "Komik Isshou Senkin Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LXNlbmtpbi1jaGFwdGVyLTY2Lw==",
-      "date": "5 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "65",
@@ -39,13 +45,13 @@
       "chapter": "64",
       "title": "Komik Isshou Senkin Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LXNlbmtpbi1jaGFwdGVyLTY0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Isshou Senkin Chapter  63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LXNlbmtpbi1jaGFwdGVyLTYzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "62",
@@ -129,7 +135,7 @@
       "chapter": "49",
       "title": "Komik Isshou Senkin Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LXNlbmtpbi1jaGFwdGVyLTQ5Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "48",
@@ -153,13 +159,13 @@
       "chapter": "45",
       "title": "Komik Isshou Senkin Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LXNlbmtpbi1jaGFwdGVyLTQ1Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Isshou Senkin Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LXNlbmtpbi1jaGFwdGVyLTQ0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "43",
@@ -432,5 +438,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 68
+  "total_chapters": 69
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-17T16:39:58.455229",
-  "total_comics": 921,
+  "last_updated": "2026-02-17T17:48:01.040439",
+  "total_comics": 927,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -318,9 +318,9 @@
       "slug": "the-return-of-the-corpse-king",
       "title": "The Return of the Corpse King",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.21,
+      "total_chapters": 10
     },
     {
       "slug": "the-worlds-best-kunlun-tavern",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 99
+      "total_chapters": 100
     },
     {
       "slug": "magic-emperor",
@@ -488,7 +488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 190
+      "total_chapters": 191
     },
     {
       "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
@@ -1080,7 +1080,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "isekai-no-binbou-nouka-ni-tensei-shita-node-renga-wo-tsukutte-shiro-wo-tateru-koto-ni-shimashita",
@@ -1160,7 +1160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 113
+      "total_chapters": 114
     },
     {
       "slug": "758554-the-great-mage-returns-after-4000-years",
@@ -1240,7 +1240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
@@ -1256,7 +1256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.5,
-      "total_chapters": 71
+      "total_chapters": 72
     },
     {
       "slug": "overlord-of-sichuan",
@@ -1288,7 +1288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.14,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "194784-baek-xx",
@@ -1832,7 +1832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "kanan-sama-wa-akumade-choroi",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 311
+      "total_chapters": 312
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2088,7 +2088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 105
+      "total_chapters": 106
     },
     {
       "slug": "keiyaku-shimai",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 120
+      "total_chapters": 121
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2120,7 +2120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "even-the-absolute-being-is-a-first-time-dad",
@@ -2328,7 +2328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "defective-reincarnator-becomes-the-ultimate-teacher",
@@ -2344,7 +2344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "my-bias-gets-on-the-last-train",
@@ -2752,7 +2752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "151515-omniscient-readers-viewpoint",
@@ -3352,7 +3352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "the-demon-god",
@@ -4296,7 +4296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 168
+      "total_chapters": 169
     },
     {
       "slug": "976292-i-became-the-tyrant-of-a-defense-game",
@@ -4592,7 +4592,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 251
+      "total_chapters": 253
     },
     {
       "slug": "aishiteru-game-wo-owarasetai",
@@ -5048,7 +5048,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "ore-yuusha-janai-desu-kara-vr-sekai-no-chouten-ni-kunrin-seshi-otoko-tenseishi-level-1-no-mushoku-kara-restart-suru",
@@ -5336,7 +5336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
@@ -5432,7 +5432,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "780759-isekai-walking",
@@ -5984,7 +5984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 46
+      "total_chapters": 48
     },
     {
       "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
@@ -6504,7 +6504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 149
+      "total_chapters": 150
     },
     {
       "slug": "367309-the-necromancer-familys-young-heir",
@@ -7369,6 +7369,54 @@
       "status": "Berjalan",
       "rating": 7.89,
       "total_chapters": 164
+    },
+    {
+      "slug": "rakudai-kenja-gakuin-no-msou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
+      "title": "Rakudai Kenja Gakuin no Msou ~ Nidome no Tensei, S Rank Cheat Majutsushi Boukenroku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.39,
+      "total_chapters": 83
+    },
+    {
+      "slug": "demon-lords-martial-arts-ascension",
+      "title": "Demon Lord’s Martial Arts Ascension",
+      "type": "Manhwa",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
+      "title": "Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "empyreal-cabinet",
+      "title": "Empyreal Cabinet",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
+      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.04,
+      "total_chapters": 210
+    },
+    {
+      "slug": "the-black-haired-american-grand-marshal",
+      "title": "The Black-Haired American Grand Marshal",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 20
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.27,
-  "scraped_at": "2026-02-06T12:36:43.736761",
+  "scraped_at": "2026-02-17T17:45:46.257664",
   "alternative_titles": "いつでも自宅に帰れる俺は、異世界で行商人をはじめました",
   "status": "Berjalan",
   "author": "SHIMOTSUKI Hiiro",
@@ -25,22 +25,34 @@
   "synopsis": "Manga                    Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita yang dibuat oleh komikus bernama\n                    SHIMOTSUKI Hiiro ini bercerita tentang\n                    Amanta Shirou, belum lama ini keluar dari sebuah perusahaan gelap dan pindah ke rumah peninggalan neneknya yang hilang 7 tahun lalu. Namun, ada ruangan di rumah itu yang terhubung dengan dunia lain! Berpegang pada nasihat neneknya, shirou pun mulai menjelajahi dunia tersebut, dan mencoba untuk mengumpulkan kekayaan..",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWRlbW8taml0YWt1LW5pLWthZXJhcmVydS1vcmUtd2EtaXNla2FpLWRlLWd5b3VzaG91bmluLW8taGFqaW1lbWFzaGl0YS1jaGFwdGVyLTQ3Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWRlbW8taml0YWt1LW5pLWthZXJhcmVydS1vcmUtd2EtaXNla2FpLWRlLWd5b3VzaG91bmluLW8taGFqaW1lbWFzaGl0YS1jaGFwdGVyLTQ2Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "45",
       "title": "Komik Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWRlbW8taml0YWt1LW5pLWthZXJhcmVydS1vcmUtd2EtaXNla2FpLWRlLWd5b3VzaG91bmluLW8taGFqaW1lbWFzaGl0YS1jaGFwdGVyLTQ1Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWRlbW8taml0YWt1LW5pLWthZXJhcmVydS1vcmUtd2EtaXNla2FpLWRlLWd5b3VzaG91bmluLW8taGFqaW1lbWFzaGl0YS1jaGFwdGVyLTQ0Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWRlbW8taml0YWt1LW5pLWthZXJhcmVydS1vcmUtd2EtaXNla2FpLWRlLWd5b3VzaG91bmluLW8taGFqaW1lbWFzaGl0YS1jaGFwdGVyLTQzLw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "42",
@@ -148,13 +160,13 @@
       "chapter": "25",
       "title": "Komik Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWRlbW8taml0YWt1LW5pLWthZXJhcmVydS1vcmUtd2EtaXNla2FpLWRlLWd5b3VzaG91bmluLW8taGFqaW1lbWFzaGl0YS1jaGFwdGVyLTI1Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Itsudemo Jitaku Ni Kaerareru Ore Wa, Isekai De Gyoushounin O Hajimemashita Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWRlbW8taml0YWt1LW5pLWthZXJhcmVydS1vcmUtd2EtaXNla2FpLWRlLWd5b3VzaG91bmluLW8taGFqaW1lbWFzaGl0YS1jaGFwdGVyLTI0Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "23",
@@ -301,5 +313,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 46
+  "total_chapters": 48
 }
