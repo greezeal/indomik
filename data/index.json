@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-18T06:15:51.313607",
-  "total_comics": 927,
+  "last_updated": "2026-02-18T07:40:31.900519",
+  "total_comics": 934,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -120,7 +120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 123
+      "total_chapters": 124
     },
     {
       "slug": "genius-blacksmiths-game",
@@ -344,7 +344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -1190,9 +1190,9 @@
       "slug": "368745-the-regressed-life-of-a-back-alley-mage",
       "title": "The Regressed Life Of A Back Alley Mage",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
     },
     {
       "slug": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru",
@@ -1264,7 +1264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "848336-the-max-leveled-hero-will-return",
@@ -1342,9 +1342,9 @@
       "slug": "495189-heavenly-inquisition-sword",
       "title": "Heavenly Inquisition Sword",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 149
     },
     {
       "slug": "next-life",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 18
+      "total_chapters": 19
     },
     {
       "slug": "70-meter-girl",
@@ -1648,7 +1648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 297
+      "total_chapters": 298
     },
     {
       "slug": "a-banished-failure-survives-in-the-borderland-and-becomes-an-s-ranked-exorcist",
@@ -2032,7 +2032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "a-court-magician-who-was-focused-on-supportive-magic-because-his-allies-were-too-weak-aims-to-become-the-strongest-after-being-banished",
@@ -2152,7 +2152,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "the-veteran-healer-is-overpowered",
@@ -2246,9 +2246,9 @@
       "slug": "233489-the-dark-mages-return-to-enlistment",
       "title": "The Dark Mage’s Return to Enlistment",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 69
     },
     {
       "slug": "the-rebellious-apostle-of-the-harvest-goddess",
@@ -2280,7 +2280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 129
+      "total_chapters": 130
     },
     {
       "slug": "308020-leveling-with-the-gods",
@@ -2296,7 +2296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 231
+      "total_chapters": 232
     },
     {
       "slug": "reincarnation-of-the-demonic-god",
@@ -2312,7 +2312,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "420654-infinite-mage",
@@ -2320,7 +2320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 155
+      "total_chapters": 156
     },
     {
       "slug": "reincarnators-stream",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "peerless-soul",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 388
+      "total_chapters": 389
     },
     {
       "slug": "god-of-martial-arts",
@@ -3032,7 +3032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "510508-the-regressed-mercenarys-machinations",
@@ -3040,7 +3040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -4518,9 +4518,9 @@
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
       "title": "Moto Yuusha Wa Shizuka Ni Kurashitai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 75
     },
     {
       "slug": "saikyou-de-saisoku-no-mugen-level-up",
@@ -4912,7 +4912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "sss-level-paladin-who-breaks-all-logic",
@@ -5326,9 +5326,9 @@
       "slug": "game-sekai-no-mobu-akuyaku-ni-tensei-shita-node-last-bos-wo-mezashite-mita",
       "title": "Game Sekai no mobu akuyaku ni tensei shita node Last bos wo mezashite mita",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 11
     },
     {
       "slug": "the-rebel-of-the-tyrant-noble-family",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 441
+      "total_chapters": 446
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5600,7 +5600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "oshi-no-teki-ni-natta-node",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -5920,7 +5920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "the-tale-of-the-skeleton-messenger",
@@ -6008,7 +6008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "archmage-transcending-through-regression",
@@ -6456,7 +6456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 19
     },
     {
       "slug": "demon-god-of-apocalyptic-behemoth",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7040,7 +7040,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.44,
-      "total_chapters": 130
+      "total_chapters": 131
     },
     {
       "slug": "tachi-nomi-izakaya-de-kei-joshidaisei-ga-tonari-ni-kuru-hanashi",
@@ -7128,7 +7128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 133
+      "total_chapters": 134
     },
     {
       "slug": "gods-scalpel",
@@ -7417,6 +7417,62 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 20
+    },
+    {
+      "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
+      "title": "Jitsu wa Gimai (Imouto) deshita. ~Saikin de Kitagiri no Otouto no Kyorikan ga Yatara Chikaiwake~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 19
+    },
+    {
+      "slug": "seian",
+      "title": "Seian",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 38
+    },
+    {
+      "slug": "greetings-sect-leader",
+      "title": "Greetings, Sect Leader",
+      "type": "Manhua",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "kimi-ni-sasageru-otokomae",
+      "title": "Kimi ni Sasageru Otokomae",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "himitsu-no-otsukiai-wo-shiteimasu",
+      "title": "Himitsu no Otsukiai wo Shiteimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "808815-my-school-life-pretending-to-be-a-worthless-person",
+      "title": "My School Life Pretending to Be a Worthless Person",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 149
+    },
+    {
+      "slug": "303616-chainsaw-man",
+      "title": "Chainsaw Man",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.41,
+      "total_chapters": 230
     }
   ]
 }
