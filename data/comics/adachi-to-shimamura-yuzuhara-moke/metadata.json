@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.18,
-  "scraped_at": "2026-02-16T20:48:54.347259",
+  "scraped_at": "2026-02-18T20:25:57.791964",
   "alternative_titles": "Adachi and Shimamura, Adachi et Shimamura, Adashima, Адачи и Шимамура, 安达与岛村, 安達としまむら",
   "status": "Berjalan",
   "author": "Iruma Hitoma",
@@ -23,40 +23,58 @@
   "synopsis": "Manga                    Adachi to Shimamura (YUZUHARA Moke) yang dibuat oleh komikus bernama\n                    Iruma Hitoma ini bercerita tentang\n                    Di tengah hari sekolah, di lantai dua gym.\r\nDi sinilah keduanya datang untuk bolos kelas, dan di situlah persahabatan mereka dimulai.\r\nKisah dua gadis sekolah menengah, bermain pingpong dan mengobrol saat mereka menghabiskan masa kejayaan masa muda mereka.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMzAtMi8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "30",
+      "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMzAv",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "29.1",
+      "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 29.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMjktMS8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMjgv",
-      "date": "26 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "27.2",
       "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 27.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMjctMi8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "27.1",
       "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 27.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMjctMS8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMjYv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMjUv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Adachi to Shimamura (YUZUHARA Moke) Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWRhY2hpLXRvLXNoaW1hbXVyYS15dXp1aGFyYS1tb2tlLWNoYXB0ZXItMjQv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "23",
@@ -227,5 +245,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 34
+  "total_chapters": 37
 }

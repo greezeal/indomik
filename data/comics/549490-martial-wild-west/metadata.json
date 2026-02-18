@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-14T23:36:36.213553",
+  "scraped_at": "2026-02-18T20:24:26.258405",
   "alternative_titles": "무림서부",
   "status": "Berjalan",
   "author": "웨스트, 정한길, 컵라면",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    Martial Wild West yang dibuat oleh komikus bernama\n                    웨스트, 정한길, 컵라면 ini bercerita tentang\n                    Ketika kaisar mempertahankan kekaisaran selama seribu tahun dengan aturan berdarah besi melalui seni bela diri, hanya tentara kekaisaran, mu-gong, yang bertahan sebagai kekuatan dan hukumnya, dan seni bela diri klasik runtuh. Jang Geon, sang protagonis, adalah seorang maniak seni bela diri yang telah bereinkarnasi di dunia ini. Akankah dia mampu menghidupkan kembali seni bela diri klasik yang selama ini dia rindukan? Inti dari seni bela diri otentik yang terjadi di perbatasan Benua Barat!",
   "chapters": [
     {
+      "chapter": "112",
+      "title": "Komik Martial Wild West Chapter 112",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMTIv",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "111",
       "title": "Komik Martial Wild West Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMTEv",
-      "date": "2 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "110",
       "title": "Komik Martial Wild West Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMTAv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "109",
@@ -44,7 +50,7 @@
       "chapter": "108",
       "title": "Komik Martial Wild West Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMDgv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "107",
@@ -92,13 +98,13 @@
       "chapter": "100",
       "title": "Komik Martial Wild West Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMDAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "99",
       "title": "Komik Martial Wild West Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci05OS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "98",
@@ -212,7 +218,7 @@
       "chapter": "80",
       "title": "Komik Martial Wild West Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci04MC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "79",
@@ -242,7 +248,7 @@
       "chapter": "75",
       "title": "Komik Martial Wild West Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci03NS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -314,7 +320,7 @@
       "chapter": "63",
       "title": "Komik Martial Wild West Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci02My8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "62.5",
@@ -701,5 +707,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 113
+  "total_chapters": 114
 }

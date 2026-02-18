@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.02,
-  "scraped_at": "2026-02-16T20:47:31.339411",
+  "scraped_at": "2026-02-18T20:23:16.871785",
   "alternative_titles": "Jobless Demon King, 失业魔王",
   "status": "Berjalan",
   "author": "Ye Wu",
@@ -23,10 +23,22 @@
   "synopsis": "Manhua                    The Demon King Who Lost His Job yang dibuat oleh komikus bernama\n                    Ye Wu ini bercerita tentang\n                    Dia adalah Raja Iblis yang dimakzulkan. Dia adalah pahlawan pemberani yang di-PHK karena ekspedisi yang gagal. Terikat oleh takdir, keduanya memulai petualangan untuk melunasi hutang mereka.",
   "chapters": [
     {
+      "chapter": "456",
+      "title": "Komik The Demon King Who Lost His Job Chapter 456",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ1Ni8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "455",
+      "title": "Komik The Demon King Who Lost His Job Chapter 455",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ1NS8=",
+      "date": "10 jam yang lalu"
+    },
+    {
       "chapter": "454",
       "title": "Komik The Demon King Who Lost His Job Chapter 454",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ1NC8=",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "453",
@@ -50,7 +62,7 @@
       "chapter": "450",
       "title": "Komik The Demon King Who Lost His Job Chapter 450",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ1MC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "449",
@@ -110,7 +122,7 @@
       "chapter": "440",
       "title": "Komik The Demon King Who Lost His Job Chapter 440",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ0MC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "439",
@@ -2747,5 +2759,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 454
+  "total_chapters": 456
 }
