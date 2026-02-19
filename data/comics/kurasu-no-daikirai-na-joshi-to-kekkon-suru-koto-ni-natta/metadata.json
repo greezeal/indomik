@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-18T05:10:28.189620",
+  "scraped_at": "2026-02-19T17:43:16.316411",
   "alternative_titles": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta., クラスの大嫌いな女子と結婚することになった",
   "status": "Berjalan",
   "author": "AMANO Seiju",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Kurasu no Daikirai na Joshi to Kekkon Suru Koto ni Natta yang dibuat oleh komikus bernama\n                    AMANO Seiju ini bercerita tentang\n                    Seorang pelajar SMA, Saito Houjo menikah dengan teman sekelasnya. Apalagi, wanita yang ia nikahi itu adalah gadis yang paling ia benci di sekolah yang sudah seperti musuh bebuyutannya, Akane Sakuramori. Keseharian sekolah mereka selalu dipenuhi dengan keriuhan pertikaian diantara mereka berdua. Mereka berdua yang tidak bisa saling jujur terhadap perasaannya dipersatukan dalam sebuah pernikahan yang diatur oleh Kakeknya Saito dan Neneknya Akane yang pada saat muda dulu sama seperti mereka berdua, saling menyukai namun tidak pernah saling jujur satu sama lain hingga akhirnya masing-masing dari mereka menikah dengan orang yang berbeda. Meski pernikahan tersebut menghasilkan kehidupan yang membahagiakan bagi mereka berdua, masih terdapat sebuah penyesalan yang masih mereka pikirkan hingga sekarang, yaitu “Andai saja sejak awal kami berjodohan, kehidupan kami pasti akan sangat membahagiakan”. Dan untuk memenuhi perasaan mereka yang tidak terpenuhi saat masih muda dulu, mereka menikahkan kedua cucu mereka. Kehidupan penganti baru yang masih menjadi pelajar dan tidak bisa saling jujur satu sama lain dimulai!",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Kurasu no Daikirai na Joshi to Kekkon Suru Koto ni Natta Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VyYXN1LW5vLWRhaWtpcmFpLW5hLWpvc2hpLXRvLWtla2tvbi1zdXJ1LWtvdG8tbmktbmF0dGEtY2hhcHRlci00OS8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Kurasu no Daikirai na Joshi to Kekkon Suru Koto ni Natta Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VyYXN1LW5vLWRhaWtpcmFpLW5hLWpvc2hpLXRvLWtla2tvbi1zdXJ1LWtvdG8tbmktbmF0dGEtY2hhcHRlci00OC8=",
-      "date": "13 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Kurasu no Daikirai na Joshi to Kekkon Suru Koto ni Natta Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VyYXN1LW5vLWRhaWtpcmFpLW5hLWpvc2hpLXRvLWtla2tvbi1zdXJ1LWtvdG8tbmktbmF0dGEtY2hhcHRlci00Ny8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "46",
@@ -401,5 +407,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }

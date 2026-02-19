@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-17T08:12:26.758735",
+  "scraped_at": "2026-02-19T17:40:54.099720",
   "alternative_titles": "Возвращающиеся темные мечники 2 раунда в день не вооружены., 回帰した暗黒剣士２周日は無双する",
   "status": "Berjalan",
   "author": "N/A",
@@ -20,16 +20,22 @@
   "synopsis": "Manga                    The Dark Swordsman Returns yang dibuat oleh komikus bernama\n                    N/A ini bercerita tentang\n                    Di medan perang yang hampir hancur, prajurit tak dikenal Gray Lee dadanya tertusuk—dan dia menunggu kematian.\r\n\r\nHanya pahlawan terkuat umat manusia—Sang Pedang Suci, Sang Pemanah Ilahi, Sang Bijak Agung, dan Perisai Tertinggi—yang memiliki kesempatan melawan \"Liquidator,\" musuh mematikan yang mampu membakar seluruh benua dalam satu hari.\r\n\r\nNamun, bahkan para pahlawan itu pun tumbang, satu per satu, hingga semua harapan sirna...\r\n\r\n...Setidaknya, begitulah seharusnya.\r\n\r\n\"Jantungku tertusuk, tetapi aku masih hidup?\"\r\n\r\nGray tidak mati. Sebaliknya, dia dibimbing oleh Chronos, Sang Penguasa Waktu. Dia dianugerahi kekuatan tak dikenal, dan dengan kekuatan itu dia memberikan pukulan dahsyat kepada sang Liquidator, mengguncang benang takdir itu sendiri.\r\n\r\nNamun, saat peluang kemenangan muncul, seberkas cahaya lain menyambar, tubuh Gray hancur menjadi ketiadaan...\r\n\r\n...dan suara Chronos menggelegar, \"Aku akan mengirimmu ke masa lalu. Selamatkan dunia ini.\"\r\n\r\nHal berikutnya yang Gray ketahui, ia terbangun di kota kelahirannya, yang seharusnya sudah lama hancur. Di sanalah ia memulai hidupnya sebagai seorang pecundang—dan kini menjadi panggung untuk kesempatan keduanya.\r\n\r\n\"Kali ini, aku akan selamat!\"\r\n\r\nDengan kekuatan untuk melampaui waktu dan ingatannya tentang masa depan, Gray bertekad untuk menjadi seorang pejuang yang bahkan lebih kuat dari para pahlawan.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik The Dark Swordsman Returns Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstc3dvcmRzbWFuLXJldHVybnMtY2hhcHRlci0zNy8=",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik The Dark Swordsman Returns Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstc3dvcmRzbWFuLXJldHVybnMtY2hhcHRlci0zNi8=",
-      "date": "32 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik The Dark Swordsman Returns Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstc3dvcmRzbWFuLXJldHVybnMtY2hhcHRlci0zNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "34",
@@ -47,7 +53,7 @@
       "chapter": "32",
       "title": "Komik The Dark Swordsman Returns Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstc3dvcmRzbWFuLXJldHVybnMtY2hhcHRlci0zMi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -179,7 +185,7 @@
       "chapter": "10",
       "title": "Komik The Dark Swordsman Returns Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstc3dvcmRzbWFuLXJldHVybnMtY2hhcHRlci0xMC8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -236,5 +242,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }

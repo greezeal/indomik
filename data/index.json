@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-19T16:32:02.998898",
-  "total_comics": 949,
+  "last_updated": "2026-02-19T17:45:49.666284",
+  "total_comics": 962,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -216,7 +216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "moriagaranai-date",
@@ -1792,7 +1792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "prosecutor-kim-seojin",
@@ -2120,7 +2120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "even-the-absolute-being-is-a-first-time-dad",
@@ -2640,7 +2640,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 156
+      "total_chapters": 157
     },
     {
       "slug": "riches-cant-buy-loyalty",
@@ -2648,7 +2648,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -2768,7 +2768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "sword-devouring-swordmaster",
@@ -2776,7 +2776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.5,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
@@ -2920,7 +2920,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 111
     },
     {
       "slug": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
@@ -2952,7 +2952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 299
+      "total_chapters": 301
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -3640,7 +3640,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "reborn-on-the-demonic-cult-battlefield",
@@ -3664,7 +3664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 140
+      "total_chapters": 142
     },
     {
       "slug": "undead-unluck",
@@ -3704,7 +3704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 144
+      "total_chapters": 145
     },
     {
       "slug": "tamagawa-san-detemashita",
@@ -3744,7 +3744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 101
     },
     {
       "slug": "gal-yome-no-himitsu",
@@ -3784,7 +3784,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "103355-shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 254
+      "total_chapters": 255
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -3888,7 +3888,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 111
+      "total_chapters": 112
     },
     {
       "slug": "in-the-face-of-mental-illness-ghosts-are-nothing",
@@ -3992,7 +3992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "my-death-flags-show-no-sign-of-ending",
@@ -4344,7 +4344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 125
+      "total_chapters": 126
     },
     {
       "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors",
@@ -4360,7 +4360,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 590
+      "total_chapters": 591
     },
     {
       "slug": "250964-the-extras-academy-survival-guide",
@@ -4854,9 +4854,9 @@
       "slug": "184308-judge-lee-han-young",
       "title": "Judge Lee Han Young",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.65,
+      "total_chapters": 193
     },
     {
       "slug": "invincible-after-shocking-my-empress-wife",
@@ -5136,7 +5136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
@@ -5472,7 +5472,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 620
+      "total_chapters": 622
     },
     {
       "slug": "843187-i-regressed-but-the-world-didnt-end",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 451
+      "total_chapters": 456
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -6000,7 +6000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "reborn-as-the-heavenly-demon",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 69
+      "total_chapters": 70
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -7336,7 +7336,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.37,
-      "total_chapters": 228
+      "total_chapters": 231
     },
     {
       "slug": "boukensha-license-wo-hakudatsu-sareta-ossan-dakedo-manamusume-ga-dekita-no-de-nonbiri-jinsei-wo-oukasuru",
@@ -7440,7 +7440,7 @@
       "type": "Manhua",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "kimi-ni-sasageru-otokomae",
@@ -7593,6 +7593,110 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 10
+    },
+    {
+      "slug": "tsuki-ga-michibiku-isekai-douchuu",
+      "title": "Tsuki ga Michibiku Isekai Douchuu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.53,
+      "total_chapters": 114
+    },
+    {
+      "slug": "460308-grand-blue",
+      "title": "Grand Blue",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.34,
+      "total_chapters": 137
+    },
+    {
+      "slug": "i-who-have-the-natural-charismatic-traits-was-targeted-by-yandere-disciples",
+      "title": "I, Who Have the Natural Charismatic Traits, Was Targeted by Yandere Disciples",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.18,
+      "total_chapters": 27
+    },
+    {
+      "slug": "wu-dong-qian-kun",
+      "title": "Wu Dong Qian Kun",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 8.18,
+      "total_chapters": 251
+    },
+    {
+      "slug": "120078-the-former-mercenarys-life-as-a-prosecutor",
+      "title": "The Former Mercenary’s Life as a Prosecutor",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 13
+    },
+    {
+      "slug": "the-stray-dogs-war",
+      "title": "The Stray Dogs War",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
+      "title": "Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.72,
+      "total_chapters": 27
+    },
+    {
+      "slug": "yarikonda-renai-game-no-akuyaku-ni-tensei-shitanode-gensaku-chishiki-de-heroine-wo-kouryaku-shimasu",
+      "title": "Yarikonda Renai Game no Akuyaku ni Tensei shitanode, Gensaku Chishiki de Heroine wo Kouryaku shimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 39
+    },
+    {
+      "slug": "uchi-no-seiso-kei-iinchou-ga-katsute-chuunibyou-idol-datta-koto-o-ore-dake-ga-shitteiru",
+      "title": "Uchi no Seiso-kei Iinchou ga Katsute Chuunibyou Idol datta Koto o Ore Dake ga Shitteiru.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 12
+    },
+    {
+      "slug": "kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
+      "title": "Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.6,
+      "total_chapters": 19
+    },
+    {
+      "slug": "mememe-no-mememe",
+      "title": "Mememe no Mememe",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.11,
+      "total_chapters": 5
+    },
+    {
+      "slug": "mutsuko-seiwo-tsukemasu",
+      "title": "Mutsuko, Seiwo Tsukemasu!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 3
+    },
+    {
+      "slug": "madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
+      "title": "Madogiwa henshuu to baka ni sareta ore ga, futago JK to doukyo suru koto ni natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 19
     }
   ]
 }

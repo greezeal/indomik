@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.86,
-  "scraped_at": "2026-02-18T07:35:29.307008",
+  "scraped_at": "2026-02-19T17:37:06.667588",
   "alternative_titles": "のあ先輩はともだち。, Noa Is My Senior, and My Friend., Ноа-сэмпай — моя подруга",
   "status": "Berjalan",
   "author": "Akiyama Enma",
@@ -23,22 +23,28 @@
   "synopsis": "Manga                    Noa-senpai wa Tomodachi. yang dibuat oleh komikus bernama\n                    Akiyama Enma ini bercerita tentang\n                    Kehidupan orang dewasa yang pahit dan menyakitkan membutuhkan “teman”. Bertempat di sebuah perusahaan game, Rihito Otsuka (23), yang merupakan pegawai harian Anda, dan Noa Saotome (27), wanita karir terbaik. Dua karakter yang kehidupannya tidak seharusnya bersinggungan menjadi \"teman\" secara kebetulan. Komedi \"teman\" kantor yang sedikit manis dan sedikit berat dimulai!",
   "chapters": [
     {
+      "chapter": "69",
+      "title": "Komik Noa-senpai wa Tomodachi. Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci02OS8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "68.3",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 68.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci02OC0zLw==",
-      "date": "52 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci02OC8=",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci02Ny8=",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "66",
@@ -437,5 +443,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 69
+  "total_chapters": 70
 }
