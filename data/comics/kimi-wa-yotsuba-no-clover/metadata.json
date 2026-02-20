@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.37,
-  "scraped_at": "2026-02-14T23:40:33.400014",
+  "scraped_at": "2026-02-20T04:01:28.643548",
   "alternative_titles": "You are a Four Leaf Clover, Cậu là cỏ 4 lá, きみは四葉のクローバー",
   "status": "Berjalan",
   "author": "Koushi",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Kimi wa Yotsuba no Clover yang dibuat oleh komikus bernama\n                    Koushi ini bercerita tentang\n                    Uichi dulunya populer, tapi sekarang dia ditindas secara ekstrim. Cinta pertamanya, Yoha, tiba-tiba muncul di hadapannya. Apa tujuan gadis cantik dan sehat ini...!?",
   "chapters": [
     {
+      "chapter": "65",
+      "title": "Komik Kimi wa Yotsuba no Clover Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTY1Lw==",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "64",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTY0Lw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTYzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "62",
@@ -159,7 +165,7 @@
       "chapter": "42",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTQyLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "41",
@@ -207,7 +213,7 @@
       "chapter": "34",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTM0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -249,13 +255,13 @@
       "chapter": "27",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTI3Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTI2Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -267,7 +273,7 @@
       "chapter": "24",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTI0Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "23",
@@ -408,5 +414,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 65
 }

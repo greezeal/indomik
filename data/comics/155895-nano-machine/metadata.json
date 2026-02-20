@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.54,
-  "scraped_at": "2026-02-19T20:02:26.509925",
+  "scraped_at": "2026-02-20T04:03:40.455579",
   "alternative_titles": "Nano Mashin, 喇勞 魔神, 奈米魔神, 나노마신",
   "status": "Berjalan",
   "author": "한중월야, 현절무",
@@ -26,14 +26,8 @@
     {
       "chapter": "300",
       "title": "Komik Nano Machine Chapter 300",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFuby1tYWNoaW5lLWNoYXB0ZXItMzAwLTIv",
-      "date": "3 menit yang lalu"
-    },
-    {
-      "chapter": "300",
-      "title": "Komik Nano Machine Chapter 300",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFuby1tYWNoaW5lLWNoYXB0ZXItMzAwLw==",
-      "date": "4 menit yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "299",
@@ -1830,5 +1824,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 301
+  "total_chapters": 300
 }

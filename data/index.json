@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-20T01:26:33.286412",
-  "total_comics": 962,
+  "last_updated": "2026-02-20T04:06:58.884286",
+  "total_comics": 967,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 826
+      "total_chapters": 827
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -1126,9 +1126,9 @@
       "slug": "turning-into-a-tentacle-monster-made-me-crazier",
       "title": "Turning Into A Tentacle Monster, Made Me Crazier",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 49
     },
     {
       "slug": "i-became-the-villain-the-hero-is-obsessed-with",
@@ -2248,7 +2248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 69
+      "total_chapters": 71
     },
     {
       "slug": "the-rebellious-apostle-of-the-harvest-goddess",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2952,7 +2952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 301
+      "total_chapters": 300
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -3944,7 +3944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.24,
-      "total_chapters": 596
+      "total_chapters": 597
     },
     {
       "slug": "prepaid-dragon-king-tanks-everything",
@@ -4056,7 +4056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "to-hell-with-the-status-window",
@@ -4312,7 +4312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 246
+      "total_chapters": 247
     },
     {
       "slug": "how-to-live-as-the-vampire-lord-crimson-reset",
@@ -4480,7 +4480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -6192,7 +6192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "ano-shima-no-umine-sou",
@@ -6560,7 +6560,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 14
     },
     {
       "slug": "after-improperly-licking-a-dog-i-became-a-billionaire",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 37
+      "total_chapters": 40
     },
     {
       "slug": "maria-no-danzai",
@@ -7064,7 +7064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.37,
-      "total_chapters": 64
+      "total_chapters": 65
     },
     {
       "slug": "inkya-no-ore-ga-sekigae-de-s-kyuu-bishoujo-ni-kakomaretara-himitsu-no-kankei-ga-hajimatta",
@@ -7256,7 +7256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "crimson-heart-wanderer",
@@ -7697,6 +7697,46 @@
       "status": "Berjalan",
       "rating": 7.52,
       "total_chapters": 19
+    },
+    {
+      "slug": "554734-return-of-the-greatest-lancer",
+      "title": "Return of The Greatest Lancer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 186
+    },
+    {
+      "slug": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
+      "title": "Muboubi Kawaii Pajama Sugata no Bishoujo to Heya de Futarikiri",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "mugen-no-majutsu-shi-maryoku-nashi-de-heimin-no-ko-to-hakugai-sareta-ore-jitsuha-mugen-no-maryoku-mochi",
+      "title": "Mugen no Majutsu Shi Maryoku Nashi de Heimin no Ko to Hakugai Sareta Ore. Jitsuha Mugen no Maryoku Mochi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "akanabe-sensei-wa-tereshirazu",
+      "title": "Akanabe-sensei wa Tereshirazu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 36
+    },
+    {
+      "slug": "reborn-in-the-water-margin-world-as-the-strongest-wu-dalang",
+      "title": "Reborn in the Water Margin World as the Strongest Wu Dalang",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 31
     }
   ]
 }

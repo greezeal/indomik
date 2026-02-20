@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-16T03:20:38.298202",
+  "scraped_at": "2026-02-20T04:02:19.555508",
   "alternative_titles": "Starting the Clan System, 문파시스템을 시작합니다",
   "status": "Berjalan",
   "author": "CHOI Yoon-Jin",
@@ -21,22 +21,28 @@
   "synopsis": "Manhwa                    Initializing the Sect System yang dibuat oleh komikus bernama\n                    CHOI Yoon-Jin ini bercerita tentang\n                    Sang protagonis, yang telah bekerja keras di Aliansi Murim, akhirnya pensiun dan kembali ke kampung halamannya untuk mewujudkan mimpinya menjadi pemimpin sekte.Karena tabungannya yang terbatas, ia akhirnya membeli sebuah rumah besar yang mencurigakan, yang konon katanya berhantu.Namun, sebuah sistem yang tidak dikenalnya tiba-tiba muncul di hadapannya.Meskipun awalnya terkejut, sang protagonis segera mulai menggunakan sistem tersebut untuk merekrut pengikut secara efisien dan mengelola keuangan serta sumber daya sekte.Seiring waktu, dengan bantuan sistem tersebut, sektenya berkembang pesat, sedemikian rupa sehingga mulai menarik perhatian, kewaspadaan, dan permusuhan dari faksi-faksi Murim lainnya…",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik Initializing the Sect System Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTI2Lw==",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Initializing the Sect System Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTI1Lw==",
-      "date": "5 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Initializing the Sect System Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTI0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Initializing the Sect System Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -48,13 +54,13 @@
       "chapter": "21",
       "title": "Komik Initializing the Sect System Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTIxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Initializing the Sect System Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTIwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -171,5 +177,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }
