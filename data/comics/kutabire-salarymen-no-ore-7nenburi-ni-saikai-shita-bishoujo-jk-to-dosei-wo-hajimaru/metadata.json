@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.05,
-  "scraped_at": "2026-02-19T01:01:11.936427",
+  "scraped_at": "2026-02-20T21:51:31.532869",
   "alternative_titles": "くたびれサラリーマンな俺、7年ぶりに再会した美少女JKと同棲を始める, I, a Tired Office Worker, Start Living Together with a Beautiful Highschool Girl whom I Met Again After 7 Years",
   "status": "Berjalan",
   "author": "Natsuki Uemura",
@@ -20,10 +20,16 @@
   "synopsis": "Manga                    Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru yang dibuat oleh komikus bernama\n                    Natsuki Uemura ini bercerita tentang\n                    Amae Yuuya, seorang pekerja kantoran di tahun ketiga bekerja, benar-benar kelelahan dengan pekerjaan sehari-hari. Kemudian, untuk pertama kalinya dalam tujuh tahun, Yuuya bertemu Aoi Shiratori, seorang gadis delapan tahun lebih muda darinya yang dulu tinggal di lingkungannya. Dia tumbuh menjadi gadis JK cantik yang pandai dalam pekerjaan rumah tangga, dan dia berkata kepadanya,\r\n\r\n“Yuuya-kun, maukah kamu tinggal bersamaku dengan alasan pernikahan?”\r\n\r\nAoi sangat ingin tinggal bersama Yuuya, cinta pertamanya. Yuuya yang kebingungan setuju untuk tinggal bersama Aoi sebagai wali untuk saat ini, namun pendekatan agresif Aoi membuatnya sangat gugup.",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3V0YWJpcmUtc2FsYXJ5bWVuLW5vLW9yZS03bmVuYnVyaS1uaS1zYWlrYWktc2hpdGEtYmlzaG91am8tamstdG8tZG9zZWktd28taGFqaW1hcnUtY2hhcHRlci0yMi8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3V0YWJpcmUtc2FsYXJ5bWVuLW5vLW9yZS03bmVuYnVyaS1uaS1zYWlrYWktc2hpdGEtYmlzaG91am8tamstdG8tZG9zZWktd28taGFqaW1hcnUtY2hhcHRlci0yMS8=",
-      "date": "7 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "20",
@@ -53,7 +59,7 @@
       "chapter": "16",
       "title": "Komik Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3V0YWJpcmUtc2FsYXJ5bWVuLW5vLW9yZS03bmVuYnVyaS1uaS1zYWlrYWktc2hpdGEtYmlzaG91am8tamstdG8tZG9zZWktd28taGFqaW1hcnUtY2hhcHRlci0xNi8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -77,7 +83,7 @@
       "chapter": "12",
       "title": "Komik Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3V0YWJpcmUtc2FsYXJ5bWVuLW5vLW9yZS03bmVuYnVyaS1uaS1zYWlrYWktc2hpdGEtYmlzaG91am8tamstdG8tZG9zZWktd28taGFqaW1hcnUtY2hhcHRlci0xMi8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -152,5 +158,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-19T01:01:07.649328",
+  "scraped_at": "2026-02-20T21:50:11.700954",
   "alternative_titles": "レベル1から始まる召喚無双~俺だけ使える裏ダンジョンで、全ての転生者をぶっちぎる, Level 1 kara Hajimaru Shoukan Musou: Ore dake Tsukaeru Ura Dungeon de, Subete no Tenseisha o Bucchigiru",
   "status": "Berjalan",
   "author": "Shiraishi Arata",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Level 1 kara Hajimaru Shoukan Musou yang dibuat oleh komikus bernama\n                    Shiraishi Arata ini bercerita tentang\n                    Shinobu Iijima kehilangan nyawanya bersama adik perempuan,\r\nKetika dia bangun, dia sudah bereinkarnasi di dunia game yang dia mainkan.\r\nShinobu putus asa untuk memulai permainan dari awal setelah ayah angkatnya menghapus data gamenya, tetapi dia mengetahui bahwa adik perempuannya akan segera bereinkarnasi di dunia ini juga.\r\nUntuk menghentikan ayah tirinya menjadi pemain top yang mengincar tubuh adik perempuannya, dia akan memulai jalan menuju yang paling menyakitkan ...!",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci04Lw==",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci03Lw==",
-      "date": "7 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "6",
@@ -42,7 +48,7 @@
       "chapter": "4",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci00Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
@@ -69,5 +75,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.85,
-  "scraped_at": "2026-02-14T08:48:56.429282",
+  "scraped_at": "2026-02-20T21:49:11.836258",
   "alternative_titles": "Become a Legend as an All-Rounder, Becoming the Legend of the All-Around Employee, The Legendary All-Rounder, 만능사원 전설이 되다",
   "status": "Berjalan",
   "author": "JRobin,BONGUN",
@@ -26,28 +26,34 @@
   "synopsis": "Manhwa                    Becoming a Legendary Ace Employee yang dibuat oleh komikus bernama\n                    JRobin,BONGUN ini bercerita tentang\n                    Kim Tae-seok, yang bekerja di lokasi konstruksi, menerima pemberitahuan lulus pemeriksaan dokumen untuk perusahaan besar El Sung. Pada saat yang sama, sebuah pesan muncul di depannya: 'Anda telah memasuki jalur untuk menjadi karyawan tetap tutorial. Apakah Anda ingin melanjutkan?' Ikuti perjuangan Kim Tae-seok untuk menjadi karyawan serba bisa yang legendaris dalam petualangan korporat ini!",
   "chapters": [
     {
+      "chapter": "116",
+      "title": "Komik Becoming a Legendary Ace Employee Chapter 116",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItMTE2Lw==",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "115",
       "title": "Komik Becoming a Legendary Ace Employee Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItMTE1Lw==",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "114",
       "title": "Komik Becoming a Legendary Ace Employee Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItMTE0Lw==",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "113",
       "title": "Komik Becoming a Legendary Ace Employee Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItMTEzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Becoming a Legendary Ace Employee Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItMTEyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "111",
@@ -227,7 +233,7 @@
       "chapter": "82",
       "title": "Komik Becoming a Legendary Ace Employee Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItODIv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "81",
@@ -269,7 +275,7 @@
       "chapter": "75",
       "title": "Komik Becoming a Legendary Ace Employee Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItNzUv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -716,5 +722,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 115
+  "total_chapters": 116
 }

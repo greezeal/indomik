@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.55,
-  "scraped_at": "2026-02-14T08:47:17.362479",
+  "scraped_at": "2026-02-20T21:50:26.765666",
   "alternative_titles": "GOBLİN AVCISI, Убийца Гоблинов, ゴブリンスレイヤー, 고블린 슬레이어",
   "status": "Berjalan",
   "author": "Kagyu Kumo",
@@ -29,10 +29,16 @@
   "synopsis": "Manga                    Goblin Slayer yang dibuat oleh komikus bernama\n                    Kagyu Kumo ini bercerita tentang\n                    Seorang pendeta wanita muda telah membentuk kelompok petualangan pertamanya, tetapi mereka segera menemukan diri mereka dalam kesulitan. Beruntung baginya, Pembunuh Goblin memilih tempat itu sebagai tempat pembunuhan berikutnya - seorang pria yang mendedikasikan hidupnya untuk memusnahkan semua goblin, dengan cara apa pun yang diperlukan. Dan ketika rumor tentang prestasinya mulai beredar, tidak ada yang tahu siapa yang akan menelepon berikutnya.",
   "chapters": [
     {
+      "chapter": "106",
+      "title": "Komik Goblin Slayer Chapter 106",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTEwNi8=",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "105",
       "title": "Komik Goblin Slayer Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTEwNS8=",
-      "date": "1 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "104",
@@ -50,31 +56,31 @@
       "chapter": "102",
       "title": "Komik Goblin Slayer Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTEwMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "101",
       "title": "Komik Goblin Slayer Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTEwMS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik Goblin Slayer Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTEwMC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "99",
       "title": "Komik Goblin Slayer Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTk5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "98",
       "title": "Komik Goblin Slayer Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTk4Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "97",
@@ -86,13 +92,13 @@
       "chapter": "96",
       "title": "Komik Goblin Slayer Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTk2Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik Goblin Slayer Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29ibGluLXNsYXllci1jaGFwdGVyLTk1Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "94",
@@ -671,5 +677,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 107
+  "total_chapters": 108
 }

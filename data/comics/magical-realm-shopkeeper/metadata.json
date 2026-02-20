@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-16T20:49:37.378685",
+  "scraped_at": "2026-02-20T21:46:46.136921",
   "alternative_titles": "Convenience Store Worker From Another World, Isekai Convenience Store Worker, 이세계 편돌이",
   "status": "Berjalan",
   "author": "Seulpeunbang Ulbaem",
@@ -21,22 +21,28 @@
   "synopsis": "Manhwa                    Magical Realm Shopkeeper yang dibuat oleh komikus bernama\n                    Seulpeunbang Ulbaem ini bercerita tentang\n                    Protagonis Chan, yang sedang mencari pekerjaan paruh waktu setelah perusahaan sebelumnya bangkrut, secara kebetulan menemukan sebuah toko serba ada. Terpikat oleh upah per jam yang sangat tinggi, ia memutuskan untuk menjadi pekerja paruh waktu sejak hari itu. Tapi pelanggan yang datang sepertinya agak aneh. Vampir, kobold, dan bahkan succubi??",
   "chapters": [
     {
+      "chapter": "93",
+      "title": "Komik Magical Realm Shopkeeper Chapter 93",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTMv",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "92",
       "title": "Komik Magical Realm Shopkeeper Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTIv",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Magical Realm Shopkeeper Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTEv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik Magical Realm Shopkeeper Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTAv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "89",
@@ -48,7 +54,7 @@
       "chapter": "88",
       "title": "Komik Magical Realm Shopkeeper Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItODgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "87",
@@ -138,7 +144,7 @@
       "chapter": "73",
       "title": "Komik Magical Realm Shopkeeper Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItNzMv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "72",
@@ -156,7 +162,7 @@
       "chapter": "70",
       "title": "Komik Magical Realm Shopkeeper Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItNzAv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "69",
@@ -180,7 +186,7 @@
       "chapter": "66",
       "title": "Komik Magical Realm Shopkeeper Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItNjYv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "65",
@@ -567,5 +573,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 91
+  "total_chapters": 92
 }
