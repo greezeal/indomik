@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-18T07:36:07.593359",
+  "scraped_at": "2026-02-20T09:03:33.969532",
   "alternative_titles": "변경백 서자는 황제였다",
   "status": "Berjalan",
   "author": "Ki Jun Seok",
@@ -19,28 +19,40 @@
   "synopsis": "Manhwa                    Margrave’s Bastard Son was The Emperor yang dibuat oleh komikus bernama\n                    Ki Jun Seok ini bercerita tentang\n                    “Kaisar yang mati menyedihkan menjadi seorang anak bajingan!”\r\n\r\nIan, seorang penyihir dari Kekaisaran Bariel, menjadi seorang kaisar di usianya yang muda, tapi berakhir dijebloskan ke dalam penjara karena pemberontakan yang dilakukan keponakannya.\r\nNamun, dia diselamatkan oleh seorang penyihir, Naum, menggunakan sihir ruang dan waktu. Sihir ini membuat kaisar Ian kembali ke 100 tahun yang lalu, dan merasuki si bajingan Ian, anak haram dari keluarga margrave yang runtuh 100 tahun yang lalu.\r\n\r\nIan si bajingan hampir dijadikan sandera oleh barbarian! Ian akan terbawa dalam konspirasi berdarah.",
   "chapters": [
     {
+      "chapter": "66",
+      "title": "Komik Margrave’s Bastard Son was The Emperor Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyZ3JhdmVzLWJhc3RhcmQtc29uLXdhcy10aGUtZW1wZXJvci1jaGFwdGVyLTY2Lw==",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "65",
+      "title": "Komik Margrave’s Bastard Son was The Emperor Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyZ3JhdmVzLWJhc3RhcmQtc29uLXdhcy10aGUtZW1wZXJvci1jaGFwdGVyLTY1Lw==",
+      "date": "20 jam yang lalu"
+    },
+    {
       "chapter": "64",
       "title": "Komik Margrave’s Bastard Son was The Emperor Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyZ3JhdmVzLWJhc3RhcmQtc29uLXdhcy10aGUtZW1wZXJvci1jaGFwdGVyLTY0Lw==",
-      "date": "57 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Margrave’s Bastard Son was The Emperor Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyZ3JhdmVzLWJhc3RhcmQtc29uLXdhcy10aGUtZW1wZXJvci1jaGFwdGVyLTYzLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Margrave’s Bastard Son was The Emperor Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyZ3JhdmVzLWJhc3RhcmQtc29uLXdhcy10aGUtZW1wZXJvci1jaGFwdGVyLTYyLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Margrave’s Bastard Son was The Emperor Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyZ3JhdmVzLWJhc3RhcmQtc29uLXdhcy10aGUtZW1wZXJvci1jaGFwdGVyLTYxLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "60",
@@ -403,5 +415,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 66
 }

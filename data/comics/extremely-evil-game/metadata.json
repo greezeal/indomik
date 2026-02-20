@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.06,
-  "scraped_at": "2026-02-16T05:19:47.345152",
+  "scraped_at": "2026-02-20T08:56:31.803897",
   "alternative_titles": "The Evil Game, Most Evil Game, 极恶游戏",
   "status": "Berjalan",
   "author": "Zhiyin Animation",
@@ -26,28 +26,40 @@
   "synopsis": "Manhua                    Extremely Evil Game yang dibuat oleh komikus bernama\n                    Zhiyin Animation ini bercerita tentang\n                    Lu Yao, seorang pasien yang sakit parah, secara tidak sengaja mendapat akun misterius dan melakukan perjalanan ke dunia lain yang disebut \"Game Sangat Jahat\" untuk melanjutkan hidupnya secara paksa. Begitu dia tiba di tempat kejadian, dia menjadi No. 1 dalam daftar yang sangat jahat dan menjadi buronan publik. Sebagai seorang pemula, pertama kali yang harus saya hadapi adalah uji coba level \"kejam\" yang paling berbahaya - tarikan ekstrim dengan kelompok gadis monster yang sangat jahat ... Ayo ke sini, lebih baik bermain yang besar! Bukankah itu kebahagiaan hidup?",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Extremely Evil Game Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXh0cmVtZWx5LWV2aWwtZ2FtZS1jaGFwdGVyLTIyLw==",
+      "date": "22 menit yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Extremely Evil Game Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXh0cmVtZWx5LWV2aWwtZ2FtZS1jaGFwdGVyLTIxLw==",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Extremely Evil Game Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXh0cmVtZWx5LWV2aWwtZ2FtZS1jaGFwdGVyLTIwLw==",
-      "date": "15 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Extremely Evil Game Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXh0cmVtZWx5LWV2aWwtZ2FtZS1jaGFwdGVyLTE5Lw==",
-      "date": "15 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Extremely Evil Game Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXh0cmVtZWx5LWV2aWwtZ2FtZS1jaGFwdGVyLTE4Lw==",
-      "date": "15 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Extremely Evil Game Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXh0cmVtZWx5LWV2aWwtZ2FtZS1jaGFwdGVyLTE3Lw==",
-      "date": "15 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "16",
@@ -77,7 +89,7 @@
       "chapter": "12",
       "title": "Komik Extremely Evil Game Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXh0cmVtZWx5LWV2aWwtZ2FtZS1jaGFwdGVyLTEyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "11",
@@ -152,5 +164,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 23
 }

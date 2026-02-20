@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-12T06:44:20.080468",
+  "scraped_at": "2026-02-20T08:56:38.484784",
   "alternative_titles": "女神と結婚して異世界で新婚生活, Marrying a Goddess and Living as Newlyweds in Another World, Menikahi Dewi dan Menjalani Kehidupan Pengantin Baru di Dunia Lain",
   "status": "Berjalan",
   "author": "Kishima Kiraku",
@@ -26,11 +26,35 @@
   "synopsis": "Manga                    Megami to Kekkon Shite Isekai de Shinkon Seikatsu yang dibuat oleh komikus bernama\n                    Kishima Kiraku ini bercerita tentang\n                    Katou Manabu, seorang karyawan yang kelelahan karena terlalu banyak bekerja, meninggal dan bertemu dengan seorang dewi yang menawarkan reinkarnasi kepadanya di dunia lain. Dia jatuh cinta padanya dan memintanya untuk menikahinya. Sang dewi setuju, dan mereka memulai kehidupan pernikahan mereka bersama di dunia fantasi. Kisah ini berfokus pada percintaan, kehidupan sehari-hari, dan petualangan ringan.",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Megami to Kekkon Shite Isekai de Shinkon Seikatsu Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVnYW1pLXRvLWtla2tvbi1zaGl0ZS1pc2VrYWktZGUtc2hpbmtvbi1zZWlrYXRzdS1jaGFwdGVyLTUv",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Megami to Kekkon Shite Isekai de Shinkon Seikatsu Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVnYW1pLXRvLWtla2tvbi1zaGl0ZS1pc2VrYWktZGUtc2hpbmtvbi1zZWlrYXRzdS1jaGFwdGVyLTQv",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Megami to Kekkon Shite Isekai de Shinkon Seikatsu Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVnYW1pLXRvLWtla2tvbi1zaGl0ZS1pc2VrYWktZGUtc2hpbmtvbi1zZWlrYXRzdS1jaGFwdGVyLTMv",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Megami to Kekkon Shite Isekai de Shinkon Seikatsu Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVnYW1pLXRvLWtla2tvbi1zaGl0ZS1pc2VrYWktZGUtc2hpbmtvbi1zZWlrYXRzdS1jaGFwdGVyLTIv",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Megami to Kekkon Shite Isekai de Shinkon Seikatsu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVnYW1pLXRvLWtla2tvbi1zaGl0ZS1pc2VrYWktZGUtc2hpbmtvbi1zZWlrYXRzdS1jaGFwdGVyLTEv",
-      "date": "34 menit yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 5
 }

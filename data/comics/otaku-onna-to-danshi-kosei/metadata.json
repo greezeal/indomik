@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.55,
-  "scraped_at": "2026-02-19T01:01:03.493800",
+  "scraped_at": "2026-02-20T08:57:13.931618",
   "alternative_titles": "Otaku Girl and High School Boy, Otaku Onna to Danshikousei, Wotaku Girl and High School Boy, オタク女と男子高生",
   "status": "Berjalan",
   "author": "Arimura Yui",
@@ -20,22 +20,28 @@
   "synopsis": "Manga                    Otaku Onna to Danshi Kosei yang dibuat oleh komikus bernama\n                    Arimura Yui ini bercerita tentang\n                    Seorang senpai kutu buku di tempat kerja yang kecanduan game otome dan kouhai-nya, seorang anak SMA yang mirip dengan karakter game otome.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Otaku Onna to Danshi Kosei Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Rha3Utb25uYS10by1kYW5zaGkta29zZWktY2hhcHRlci04Lw==",
+      "date": "53 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Otaku Onna to Danshi Kosei Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Rha3Utb25uYS10by1kYW5zaGkta29zZWktY2hhcHRlci03Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Otaku Onna to Danshi Kosei Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Rha3Utb25uYS10by1kYW5zaGkta29zZWktY2hhcHRlci02Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Otaku Onna to Danshi Kosei Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Rha3Utb25uYS10by1kYW5zaGkta29zZWktY2hhcHRlci01Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "4",
@@ -68,5 +74,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }
