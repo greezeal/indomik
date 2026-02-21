@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.78,
-  "scraped_at": "2026-02-19T00:59:44.608053",
+  "scraped_at": "2026-02-21T20:00:38.628347",
   "alternative_titles": "キミの理想のメイドになる！, Become Your Ideal Maid!",
   "status": "Berjalan",
   "author": "Karui Hiroshi",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Kimi no Risou no Maid ni Naru yang dibuat oleh komikus bernama\n                    Karui Hiroshi ini bercerita tentang\n                    Untuk membalas kebaikan tuannya, tujuannya adalah menjadi pelayan yang ideal.\r\n\r\nKomedi romantis klasik tentang cinta dengan kandungan gula yang sempurna dimulai!\r\n\r\nBeberapa bulan setelah kehidupan sekolah menengahnya, Renya Nijou tidak memiliki teman atau pacar dan menghabiskan hari-harinya hidup sendirian. Namun suatu hari, ia menyaksikan bagaimana Maya Kamishiro, gadis tercantik di kelasnya, hendak diculik oleh pria misterius berpakaian hitam, rupanya Maya dijual oleh orang tuanya untuk membayar utangnya, sehingga Renya memutuskan untuk membantunya. sumber keuangan yang dia dapatkan melalui investasi, tetapi Maya mau tidak mau ingin membalas budi, dan menyatakan bahwa dia akan menjadi pembantu Renya...?",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Kimi no Risou no Maid ni Naru Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1yaXNvdS1uby1tYWlkLW5pLW5hcnUtY2hhcHRlci0xNC8=",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Kimi no Risou no Maid ni Naru Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1yaXNvdS1uby1tYWlkLW5pLW5hcnUtY2hhcHRlci0xMy8=",
-      "date": "14 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "12",
@@ -100,5 +106,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }

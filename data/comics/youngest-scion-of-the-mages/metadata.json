@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.16,
-  "scraped_at": "2026-02-21T04:54:25.507713",
+  "scraped_at": "2026-02-21T19:56:35.111298",
   "alternative_titles": "Youngest Son of the Renowned Magic Clan, The Youngest Son of a Magician, 마법명가 막내아들",
   "status": "Berjalan",
   "author": "Bichyu",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    Youngest Scion of the Mages yang dibuat oleh komikus bernama\n                    Bichyu ini bercerita tentang\n                    Plotline tipis dan pengaturan sampah.\r\nSerangkaian kata yang terlalu memalukan untuk disebut novel.\r\nNamun saya berakhir di dalam halaman novel yang sama yang saya tulis.\r\nDan sebagai Rasen Mayten tidak kurang, bajingan dari karakter sampingan yang terbunuh pada usia 17 tahun.\r\n\r\nSebagai penulis dan pencipta dunia ini, saya sekarang akan menciptakan kembali dunia karakter 'Rasen Mayten'.",
   "chapters": [
     {
+      "chapter": "78",
+      "title": "Komik Youngest Scion of the Mages Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItNzgv",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "77",
       "title": "Komik Youngest Scion of the Mages Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItNzcv",
-      "date": "8 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Youngest Scion of the Mages Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItNzYv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "75",
@@ -485,5 +491,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 77
+  "total_chapters": 78
 }

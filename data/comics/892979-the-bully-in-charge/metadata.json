@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-19T00:58:33.298906",
+  "scraped_at": "2026-02-21T19:57:34.785862",
   "alternative_titles": "Iljin in Charge Iljin, 일진담당일진",
   "status": "Berjalan",
   "author": "GRIMZO",
@@ -19,10 +19,22 @@
   "synopsis": "Manhwa                    The Bully In Charge yang dibuat oleh komikus bernama\n                    GRIMZO ini bercerita tentang\n                    Setelah putus sekolah, Kwon Daegun sedang mempersiapkan ujian kualifikasinya. Saat bekerja paruh waktu di sebuah toko serba ada, dia berkelahi dengan beberapa preman. Daegun, yang dengan mudah mengalahkan mereka, ditawari sebuah proyek yang disebut “Iljin in Charge/The Bully In Charge” oleh Educational Foundation, yang telah mengawasinya sejak lama. Dia, yang menerima tawaran itu setelah banyak pertimbangan, memasuki sekolah menengah milik yayasan dan mengalahkan pengganggu inti sekolah ini satu per satu sesuai dengan urutan yayasan.",
   "chapters": [
     {
+      "chapter": "171",
+      "title": "Komik The Bully In Charge Chapter 171",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJ1bGx5LWluLWNoYXJnZS1jaGFwdGVyLTE3MS8=",
+      "date": "24 menit yang lalu"
+    },
+    {
+      "chapter": "170",
+      "title": "Komik The Bully In Charge Chapter 170",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJ1bGx5LWluLWNoYXJnZS1jaGFwdGVyLTE3MC8=",
+      "date": "3 hari yang lalu"
+    },
+    {
       "chapter": "169",
       "title": "Komik The Bully In Charge Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJ1bGx5LWluLWNoYXJnZS1jaGFwdGVyLTE2OS8=",
-      "date": "3 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "168",
@@ -262,7 +274,7 @@
       "chapter": "129",
       "title": "Komik The Bully In Charge Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJ1bGx5LWluLWNoYXJnZS1jaGFwdGVyLTEyOS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "128",
@@ -676,19 +688,19 @@
       "chapter": "59",
       "title": "Komik The Bully In Charge Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJ1bGx5LWluLWNoYXJnZS1jaGFwdGVyLTU5Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik The Bully In Charge Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJ1bGx5LWluLWNoYXJnZS1jaGFwdGVyLTU4Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik The Bully In Charge Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJ1bGx5LWluLWNoYXJnZS1jaGFwdGVyLTU3Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "56",
@@ -1027,5 +1039,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 168
+  "total_chapters": 170
 }

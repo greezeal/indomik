@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-21T19:33:35.814427",
-  "total_comics": 1005,
+  "last_updated": "2026-02-21T20:02:18.087632",
+  "total_comics": 1011,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -312,7 +312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "the-return-of-the-corpse-king",
@@ -1112,7 +1112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "322911-rookie-but-one-in-a-million-actor",
@@ -1264,7 +1264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 15
     },
     {
       "slug": "848336-the-max-leveled-hero-will-return",
@@ -2248,7 +2248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 71
+      "total_chapters": 72
     },
     {
       "slug": "the-rebellious-apostle-of-the-harvest-goddess",
@@ -2742,9 +2742,9 @@
       "slug": "god-of-martial-arts",
       "title": "God of Martial Arts",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.84,
+      "total_chapters": 1059
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -2808,7 +2808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 34
+      "total_chapters": 36
     },
     {
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
@@ -3360,7 +3360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "a-new-living-arrangement-with-my-friend-%e2%99%82-turned-succubus",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -3822,9 +3822,9 @@
       "slug": "im-being-misunderstood-as-a-soccer-genius",
       "title": "I’m Being Misunderstood as a Soccer Genius",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 62
     },
     {
       "slug": "kingdom",
@@ -3952,7 +3952,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.33,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "becoming-a-god-in-apocalypse-glossary",
@@ -3960,7 +3960,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "i-took-over-the-academy-with-a-single-sashimi-knife",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -4368,7 +4368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "345461-overgeared",
@@ -4462,9 +4462,9 @@
       "slug": "the-crazy-genius-composer-returns",
       "title": "The Crazy Genius Composer Returns",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 98
     },
     {
       "slug": "imasara-desu-ga-osananajimi-wo-suki-ni-natte-shimaimashita",
@@ -4832,7 +4832,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 141
+      "total_chapters": 143
     },
     {
       "slug": "212320-bad-born-blood",
@@ -4864,7 +4864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "584967-genius-grandson-of-the-loan-shark-king",
@@ -4952,7 +4952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 67
+      "total_chapters": 68
     },
     {
       "slug": "cosmic-heavenly-demon-3077",
@@ -5208,7 +5208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "soul-land-ii",
@@ -5400,7 +5400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.72,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 461
+      "total_chapters": 466
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5712,7 +5712,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.78,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "yuusha-party-wo-kubi-ni-natta-node-kokyou-ni-kaettara-member-zenin-ga-tsuitekitandaga",
@@ -6072,7 +6072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 129
+      "total_chapters": 131
     },
     {
       "slug": "urban-dragon-revealed",
@@ -6464,7 +6464,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "how-to-live-as-a-civil-servant-in-murim",
@@ -6704,7 +6704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 16
+      "total_chapters": 20
     },
     {
       "slug": "612685-divine-beast-kindergarten",
@@ -6784,7 +6784,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 16
     },
     {
       "slug": "megami-to-kekkon-shite-isekai-de-shinkon-seikatsu",
@@ -7304,7 +7304,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "ore-dake-saikyou-chouetsusha-zen-sekai-no-cheat-shishou-ni-mitomerareta",
@@ -7408,7 +7408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 210
+      "total_chapters": 211
     },
     {
       "slug": "the-black-haired-american-grand-marshal",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -7480,7 +7480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 168
+      "total_chapters": 170
     },
     {
       "slug": "a-weary-child-looks-for-his-father",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -7920,7 +7920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 64
+      "total_chapters": 65
     },
     {
       "slug": "koi-yori-aoku",
@@ -8041,6 +8041,54 @@
       "status": "Berjalan",
       "rating": 7.98,
       "total_chapters": 48
+    },
+    {
+      "slug": "the-prince-of-joseon-a-one-way-journey-to-america",
+      "title": "The Prince of Joseon: A One-Way Journey to America",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.03,
+      "total_chapters": 52
+    },
+    {
+      "slug": "robou-no-fujii",
+      "title": "Robou no Fujii",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.56,
+      "total_chapters": 12
+    },
+    {
+      "slug": "the-concept-grasping-magical-genius",
+      "title": "The Concept-Grasping Magical Genius",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.32,
+      "total_chapters": 49
+    },
+    {
+      "slug": "neta-chara-tensei-toka-anmarida",
+      "title": "Neta Chara Tensei Toka Anmarida!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.19,
+      "total_chapters": 40
+    },
+    {
+      "slug": "the-mercenary-groups-beloved-child-the-orphan-on-the-brink-of-death-is-raised-by-the-mightiest-masters",
+      "title": "The Mercenary Group’s Beloved Child: The Orphan on the Brink of Death is Raised by the Mightiest Masters",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "sourei-no-lament-otome-wa-samayoeru-tamashii-ni-hanamuke-wo",
+      "title": "Sourei no Lament: Otome wa Samayoeru Tamashii Ni Hanamuke wo",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }
