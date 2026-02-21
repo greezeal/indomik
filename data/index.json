@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-21T08:58:42.211792",
-  "total_comics": 987,
+  "last_updated": "2026-02-21T09:50:32.390827",
+  "total_comics": 1005,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 827
+      "total_chapters": 828
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -488,7 +488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 191
+      "total_chapters": 192
     },
     {
       "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 96
+      "total_chapters": 99
     },
     {
       "slug": "isshou-senkin",
@@ -1096,7 +1096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 88
+      "total_chapters": 89
     },
     {
       "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
@@ -1184,7 +1184,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.29,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "368745-the-regressed-life-of-a-back-alley-mage",
@@ -1758,9 +1758,9 @@
       "slug": "akuyaku-reijo-ni-one-ga-tensei-shitakedo-nanimo-mondai-ga-naiken",
       "title": "Akuyaku Reijo ni One ga Tensei shitakedo Nanimo Mondai ga Naiken",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 8
     },
     {
       "slug": "senpai-jitaku-keibiin-no-koyou-wa-ikaga-desu-ka",
@@ -1958,9 +1958,9 @@
       "slug": "391015-uzaki-chan-wa-asobitai",
       "title": "Uzaki-chan wa Asobitai!",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.38,
+      "total_chapters": 146
     },
     {
       "slug": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 52
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -3864,7 +3864,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 414
+      "total_chapters": 416
     },
     {
       "slug": "uesugi-kun-wa-onnanoko-wo-yametai",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -5358,9 +5358,9 @@
       "slug": "legend",
       "title": "Legend",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.49,
+      "total_chapters": 112
     },
     {
       "slug": "212491-the-ultimate-shut-in",
@@ -5816,7 +5816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "172125-zombie-apocalypse-82-08",
@@ -5888,7 +5888,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.63,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "164577-kim-ohjins-adventures-with-strange-animals",
@@ -5968,7 +5968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "owari-no-seraph",
@@ -6520,7 +6520,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 137
+      "total_chapters": 138
     },
     {
       "slug": "dao-of-the-bizarre-immortal",
@@ -6600,7 +6600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "level-1-kara-hajimaru-shoukan-musou",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "maria-no-danzai",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7568,7 +7568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "i-farmer-plant-the-undead",
@@ -7816,7 +7816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.47,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "kyou-kara-onushi-wa-warawa-no-musuko",
@@ -7872,7 +7872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 121
+      "total_chapters": 122
     },
     {
       "slug": "youngest-scion-of-the-mages",
@@ -7897,6 +7897,150 @@
       "status": "Berjalan",
       "rating": 6.92,
       "total_chapters": 72
+    },
+    {
+      "slug": "mato-seihei-no-slave",
+      "title": "Mato Seihei no Slave",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.13,
+      "total_chapters": 178
+    },
+    {
+      "slug": "project-sekai-colorful-stage-feat-hatsune-miku-comic-anthology",
+      "title": "Project SEKAI COLORFUL STAGE! feat. Hatsune Miku Comic Anthology",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 15
+    },
+    {
+      "slug": "realist-maou-niyoru-seiiki-naki-isekai-kaikaku",
+      "title": "Realist Maou Niyoru Seiiki Naki Isekai Kaikaku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.53,
+      "total_chapters": 64
+    },
+    {
+      "slug": "koi-yori-aoku",
+      "title": "Koi Yori Aoku",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.24,
+      "total_chapters": 40
+    },
+    {
+      "slug": "youkya-ni-natta-ore-no-seishun-shijou-shugi",
+      "title": "Youkya ni Natta Ore no Seishun Shijou Shugi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "itsuka-sora-kara",
+      "title": "Itsuka Sora kara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "mikogami-karen-no-kakushigoto",
+      "title": "Mikogami Karen no Kakushigoto",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "nani-mo-wakaranai",
+      "title": "Nani mo Wakaranai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 30
+    },
+    {
+      "slug": "dekai-usagi-ni-natsukareta",
+      "title": "Dekai Usagi ni Natsukareta!?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "koudou-ni-hattatsu-shita-igaku-wa-mahou-to-kubetsu-ga-tsukanai",
+      "title": "Koudou ni Hattatsu Shita Igaku wa Mahou to Kubetsu ga Tsukanai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.88,
+      "total_chapters": 47
+    },
+    {
+      "slug": "ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
+      "title": "Ore ga Inai to Sugu Chomeru Hakanagi Kasumi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
+    },
+    {
+      "slug": "hyougakei-idol-no-manager-o-shite-imasu-ga-mou-genkai-desu",
+      "title": "Hyougakei Idol no Manager o Shite Imasu ga, Mou Genkai desu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "jibun-wo-sss-kyuda-to-omoikondeiru-c-kyu-majutsu-gakusei",
+      "title": "Jibun Wo SSS Kyuda to Omoikondeiru C Kyu Majutsu Gakusei",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "star-martial-god-technique",
+      "title": "Star Martial God Technique",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.87,
+      "total_chapters": 777
+    },
+    {
+      "slug": "tensei-shitara-suterareta-ga-hirowarete-tanoshiku-ikiteimasu",
+      "title": "Tensei Shitara Suterareta ga, Hirowarete Tanoshiku Ikiteimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.83,
+      "total_chapters": 15
+    },
+    {
+      "slug": "tonari-no-seki-no-yankee-jk-no-jakuten",
+      "title": "Tonari no Seki no Yankee JK no Jakuten",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kirawaremono-no-akuyaku-reijou-alisha-libra-wa-magerarenai",
+      "title": "Kirawaremono no Akuyaku Reijou Alisha Libra wa Magerarenai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsusha",
+      "title": "Hazure Skill “Kage ga Usui” o Motsu Guild Shokuin ga Jitsuha Densetsu no Ansatsusha",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.98,
+      "total_chapters": 48
     }
   ]
 }

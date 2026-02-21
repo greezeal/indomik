@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-21T04:53:56.489980",
+  "scraped_at": "2026-02-21T09:46:24.699685",
   "alternative_titles": "헬무트",
   "status": "Berjalan",
   "author": "Honyo, Kim Nan Sae",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Helmut: The Forsaken Child yang dibuat oleh komikus bernama\n                    Honyo, Kim Nan Sae ini bercerita tentang\n                    Helmut adalah seorang anak yang telah ditinggalkan di Hutan Binatang Iblis saat lahir.\r\nDibesarkan oleh Demonic Beasts, manusia pertama yang dia temui adalah Sword Saint Darien.\r\nSedikit yang Helmut tahu bahwa pertemuan kebetulan akan segera mengguncang fondasi nasibnya ...\r\n\r\n\"Tumbuh lebih kuat jika kamu ingin keluar dari sini.\"\r\n\r\nAnak laki-laki yang hidup seperti binatang dilempar ke dunia manusia!\r\nDia memiliki ilmu pedang yang luar biasa, penampilan yang luar biasa dan kecerdasan yang tajam, tetapi ada satu hal yang dia kurang: kemanusiaan.\r\n\r\nAku bukan lagi mangsa. Saya sekarang adalah pemangsa!",
   "chapters": [
     {
+      "chapter": "122",
+      "title": "Komik Helmut: The Forsaken Child Chapter 122",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbXV0LXRoZS1mb3JzYWtlbi1jaGlsZC1jaGFwdGVyLTEyMi8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "121",
       "title": "Komik Helmut: The Forsaken Child Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbXV0LXRoZS1mb3JzYWtlbi1jaGlsZC1jaGFwdGVyLTEyMS8=",
-      "date": "6 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "120",
@@ -227,7 +233,7 @@
       "chapter": "87",
       "title": "Komik Helmut: The Forsaken Child Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbXV0LXRoZS1mb3JzYWtlbi1jaGlsZC1jaGFwdGVyLTg3Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "86",
@@ -746,5 +752,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 121
+  "total_chapters": 122
 }
