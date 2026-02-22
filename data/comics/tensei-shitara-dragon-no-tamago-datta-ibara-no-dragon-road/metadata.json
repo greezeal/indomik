@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.47,
-  "scraped_at": "2026-02-21T11:05:24.645161",
-  "alternative_titles": "Reincarnated as a Dragon Hatchling, Reincarnated as a Dragon's Egg - Let's Aim to be the Strongest, Reincarnated as a Dragon's Egg - Thorny Road of a Dragon, Tensei Shitara Dragon no Tamago Datta - Saikyou Igai Mezasa Nee, Перерождение в яйцо дракона: Я стану сильнейшим, 転生したらドラゴンの卵だった　～イバラのドラゴンロード～",
+  "scraped_at": "2026-02-22T09:41:56.999375",
+  "alternative_titles": "Reincarnated as a Dragon Hatchling, Reincarnated as a Dragon's Egg - Let's Aim to be the Strongest, Reincarnated as a Dragon's Egg - Thorny Road of a Dragon, Tensei Shitara Dragon no Tamago Datta - Saikyou Igai Mezasa Nee, Перерождение в яйцо дракона: Я с",
   "status": "Berjalan",
   "author": "Necoco",
   "illustrator": "RIO",
@@ -28,16 +28,22 @@
   "synopsis": "Manga                    Tensei Shitara Dragon no Tamago Datta – Ibara no Dragon Road yang dibuat oleh komikus bernama\n                    Necoco ini bercerita tentang\n                    Saya terbangun di hutan yang tidak dikenal. Sepertinya tempat ini adalah dunia fantasi di mana binatang berwajah aneh merajalela. Dan seperti dalam sebuah game, saya sepertinya bisa memeriksa kemampuan saya dan musuh saya. Ayo berburu monster dan kumpulkan gelar agar naik level dan berevolusi menjadi naga yang lebih tinggi! Dan aku mendengar suara misterius di kepalaku, “Ayo bercita-cita menjadi yang terkuat!”",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik Tensei Shitara Dragon no Tamago Datta – Ibara no Dragon Road Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXNoaXRhcmEtZHJhZ29uLW5vLXRhbWFnby1kYXR0YS1pYmFyYS1uby1kcmFnb24tcm9hZC1jaGFwdGVyLTQ3Lw==",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "46",
       "title": "Komik Tensei Shitara Dragon no Tamago Datta – Ibara no Dragon Road Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXNoaXRhcmEtZHJhZ29uLW5vLXRhbWFnby1kYXR0YS1pYmFyYS1uby1kcmFnb24tcm9hZC1jaGFwdGVyLTQ2Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Tensei Shitara Dragon no Tamago Datta – Ibara no Dragon Road Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXNoaXRhcmEtZHJhZ29uLW5vLXRhbWFnby1kYXR0YS1pYmFyYS1uby1kcmFnb24tcm9hZC1jaGFwdGVyLTQ1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "44",
@@ -334,5 +340,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 51
+  "total_chapters": 52
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.19,
-  "scraped_at": "2026-02-16T05:17:31.023222",
+  "scraped_at": "2026-02-22T09:46:38.452345",
   "alternative_titles": "Taejon Birok, 태존비록",
   "status": "Berjalan",
   "author": "Kim Kkulpal",
@@ -24,34 +24,40 @@
   "synopsis": "Manhwa                    Chronicles of the Lazy Sovereign yang dibuat oleh komikus bernama\n                    Kim Kkulpal ini bercerita tentang\n                    Pejuang hebat yang mengakhiri kekacauan yang melanda dunia—yakni Wi Yeonho, Sang Penguasa Bela Diri Bercahaya. Ia dikenal sebagai seorang pria sejati, pria hebat, dan pejuang yang gagah berani... \"Orang itu? Dia benar-benar bajingan.\" Kebenaran mengejutkan yang terlalu memalukan untuk diungkapkan kepada dunia, di balik apa yang disebut sebagai pejuang gagah berani terhebat dalam sejarah, akhirnya terungkap!",
   "chapters": [
     {
+      "chapter": "36",
+      "title": "Komik Chronicles of the Lazy Sovereign Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0zNi8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "35",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0zNS8=",
-      "date": "25 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0zNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0zMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0zMi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0zMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -63,7 +69,7 @@
       "chapter": "29",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0yOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -135,7 +141,7 @@
       "chapter": "17",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0xNy8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -159,7 +165,7 @@
       "chapter": "13",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci0xMy8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -183,7 +189,7 @@
       "chapter": "9",
       "title": "Komik Chronicles of the Lazy Sovereign Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtbGF6eS1zb3ZlcmVpZ24tY2hhcHRlci05Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -234,5 +240,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 36
 }

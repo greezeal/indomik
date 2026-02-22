@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.17,
-  "scraped_at": "2026-02-14T23:38:52.195575",
+  "scraped_at": "2026-02-22T09:46:00.051024",
   "alternative_titles": "ダークサモナーとデキている, 黑暗召唤师在地下恋爱中, Hēi'àn zhàohuàn shī zài dìxià liàn'ài zhōng, I'm Dating a Dark Summoner, I'm dating a Dark Summoner, Hẹn hò cùng hắc thuật sư",
   "status": "Berjalan",
   "author": "Shaoh",
@@ -27,10 +27,16 @@
   "synopsis": "Manga                    Dark Summoner to Dekiteiru yang dibuat oleh komikus bernama\n                    Shaoh ini bercerita tentang\n                    Amona, seorang pemanggil gelap dan manusia setengah yang menggunakan kekuatan iblis, adalah anggota terbaru dalam kelompok pendeta tegang Roni. Semua orang mengira keduanya tidak menyukai satu sama lain dan tidak ada hubungan apa pun. Namun yang mengejutkan mereka, pada hari pertama mereka bersama sebagai kelompok petualang, mereka melakukan one-night stand...!",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik Dark Summoner to Dekiteiru Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1zdW1tb25lci10by1kZWtpdGVpcnUtY2hhcHRlci0yNS8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "24.1",
       "title": "Komik Dark Summoner to Dekiteiru Chapter 24.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1zdW1tb25lci10by1kZWtpdGVpcnUtY2hhcHRlci0yNC0xLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "24",
@@ -60,7 +66,7 @@
       "chapter": "20",
       "title": "Komik Dark Summoner to Dekiteiru Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1zdW1tb25lci10by1kZWtpdGVpcnUtY2hhcHRlci0yMC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -78,13 +84,13 @@
       "chapter": "17",
       "title": "Komik Dark Summoner to Dekiteiru Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1zdW1tb25lci10by1kZWtpdGVpcnUtY2hhcHRlci0xNy8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Dark Summoner to Dekiteiru Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1zdW1tb25lci10by1kZWtpdGVpcnUtY2hhcHRlci0xNi8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -138,7 +144,7 @@
       "chapter": "8",
       "title": "Komik Dark Summoner to Dekiteiru Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1zdW1tb25lci10by1kZWtpdGVpcnUtY2hhcHRlci04Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -183,5 +189,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

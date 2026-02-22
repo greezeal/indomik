@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-21T11:06:04.375721",
+  "scraped_at": "2026-02-22T09:41:46.803462",
   "alternative_titles": "リベンジャー：終末の復讐",
   "status": "Berjalan",
   "author": "HNS studio",
@@ -20,58 +20,64 @@
   "synopsis": "Manga                    Revenger: Apocalypse of Vengeance yang dibuat oleh komikus bernama\n                    HNS studio ini bercerita tentang\n                    Lima tahun yang lalu, sebuah bencana dahsyat mengakhiri kehidupan damai umat manusia dalam satu hari. \"Zona Khusus\" misterius dengan berbagai tingkat kesulitan mulai bermunculan di seluruh dunia.Maya Ichijo, yang hampir melewati 100 zona untuk mencapai \"Grand Slam\", dikhianati oleh rekan-rekannya dan terbunuh dalam ujian terakhir.Namun dalam napas terakhirnya… ia terbangun di dunia sebelum bencana melanda.Kini, berbekal ingatan masa lalunya, ia bersumpah untuk membalas dendam—Karena di dunia ini, monster sebenarnya bukanlah zombi… melainkan manusia.",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik Revenger: Apocalypse of Vengeance Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0yMy8=",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0yMi8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0yMS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0yMC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0xOS8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0xOC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0xNy8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0xNi8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0xNS8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Revenger: Apocalypse of Vengeance Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZXItYXBvY2FseXBzZS1vZi12ZW5nZWFuY2UtY2hhcHRlci0xNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "13",
@@ -152,5 +158,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

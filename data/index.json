@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T08:55:53.710699",
-  "total_comics": 1011,
+  "last_updated": "2026-02-22T09:46:54.137057",
+  "total_comics": 1017,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -8,15 +8,15 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.1,
-      "total_chapters": 276
+      "total_chapters": 277
     },
     {
       "slug": "151235-reincarnation-of-the-murim-clans-former-ranker",
       "title": "Reincarnation of the Murim Clan’s Former Ranker",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 188
     },
     {
       "slug": "226919-academys-undercover-professor",
@@ -64,7 +64,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 198
+      "total_chapters": 199
     },
     {
       "slug": "593213-the-lords-coins-arent-decreasing",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 828
+      "total_chapters": 829
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 495
+      "total_chapters": 496
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -1152,7 +1152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
@@ -1280,7 +1280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 111
     },
     {
       "slug": "sea-of-blood-mountain-of-bones",
@@ -1376,7 +1376,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "ryuuzaki-san-ga-ore-no-mae-dake-de-dereru-riyuu",
@@ -2648,7 +2648,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 33
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2808,7 +2808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
@@ -3808,7 +3808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "the-delivery-man-from-murim",
@@ -3824,7 +3824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "kingdom",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 117
+      "total_chapters": 118
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4448,7 +4448,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "845199-btooom",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 158
+      "total_chapters": 159
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -4760,7 +4760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "tales-of-demons-and-gods",
@@ -5224,7 +5224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 220
+      "total_chapters": 222
     },
     {
       "slug": "864104-i-killed-an-academy-player",
@@ -5240,7 +5240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "miyu-chan-wa-zutto-tomodachi",
@@ -5288,7 +5288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.54,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "netoge-no-yome-ga-ninki-idol-datta",
@@ -5368,7 +5368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 66
+      "total_chapters": 68
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -5504,7 +5504,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.29,
-      "total_chapters": 31
+      "total_chapters": 33
     },
     {
       "slug": "virus-girlfriend",
@@ -6600,7 +6600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "level-1-kara-hajimaru-shoukan-musou",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -6896,7 +6896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 239
+      "total_chapters": 242
     },
     {
       "slug": "make-heroine-o-katasetai",
@@ -6920,7 +6920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "genius-hitter-hits-fastball",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 68
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7168,7 +7168,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
@@ -7256,7 +7256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "crimson-heart-wanderer",
@@ -7800,7 +7800,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 42
     },
     {
       "slug": "spare-me-great-lord",
@@ -7816,7 +7816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.47,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "kyou-kara-onushi-wa-warawa-no-musuko",
@@ -7840,7 +7840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
     },
     {
       "slug": "saigo-no-natsu-wo-hitozuma-to",
@@ -7856,7 +7856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "jitsu-wa-imouto-deshita-saikin-de-kita-giri-no-otouto-no-kyorikan-ga-yatara-chikai-wake",
@@ -8089,6 +8089,54 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 2
+    },
+    {
+      "slug": "the-mirror-legacy",
+      "title": "The Mirror Legacy",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "sukinako-ga-megane-wo-wasureta",
+      "title": "Sukinako ga Megane wo Wasureta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 98
+    },
+    {
+      "slug": "light-of-arad-forerunner",
+      "title": "Light of Arad: Forerunner",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.11,
+      "total_chapters": 28
+    },
+    {
+      "slug": "asobinin-na-shoujo-tachi-wa-kyou-mo-houkago-yatteiru",
+      "title": "Asobinin na Shoujo-tachi wa Kyou mo Houkago Yatteiru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "seirei-gensouki-konna-sekai-de-deaeta-kimi-ni",
+      "title": "Seirei Gensouki: Konna Sekai de Deaeta Kimi ni",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "haou-ni-natte-kara-isekai-ni-kite-shimatta-edit-shita-game-character-tachi-to-isekai-o-juurin-suru-ore-haou",
+      "title": "Haou ni Natte kara Isekai ni Kite Shimatta! ~Edit shita Game Character-tachi to Isekai o Juurin suru Ore Haou~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
     }
   ]
 }

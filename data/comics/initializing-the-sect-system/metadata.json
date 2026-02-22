@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-20T04:02:19.555508",
+  "scraped_at": "2026-02-22T09:44:37.603229",
   "alternative_titles": "Starting the Clan System, 문파시스템을 시작합니다",
   "status": "Berjalan",
   "author": "CHOI Yoon-Jin",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    Initializing the Sect System yang dibuat oleh komikus bernama\n                    CHOI Yoon-Jin ini bercerita tentang\n                    Sang protagonis, yang telah bekerja keras di Aliansi Murim, akhirnya pensiun dan kembali ke kampung halamannya untuk mewujudkan mimpinya menjadi pemimpin sekte.Karena tabungannya yang terbatas, ia akhirnya membeli sebuah rumah besar yang mencurigakan, yang konon katanya berhantu.Namun, sebuah sistem yang tidak dikenalnya tiba-tiba muncul di hadapannya.Meskipun awalnya terkejut, sang protagonis segera mulai menggunakan sistem tersebut untuk merekrut pengikut secara efisien dan mengelola keuangan serta sumber daya sekte.Seiring waktu, dengan bantuan sistem tersebut, sektenya berkembang pesat, sedemikian rupa sehingga mulai menarik perhatian, kewaspadaan, dan permusuhan dari faksi-faksi Murim lainnya…",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Initializing the Sect System Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTI3Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Initializing the Sect System Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTI2Lw==",
-      "date": "20 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Initializing the Sect System Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5pdGlhbGl6aW5nLXRoZS1zZWN0LXN5c3RlbS1jaGFwdGVyLTI1Lw==",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "24",
@@ -177,5 +183,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

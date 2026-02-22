@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-16T14:33:32.486281",
+  "scraped_at": "2026-02-22T09:46:17.969001",
   "alternative_titles": "공작가의 역대급 신동",
   "status": "Berjalan",
   "author": "chena, ED",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    Dukedom’s Legendary Prodigy yang dibuat oleh komikus bernama\n                    chena, ED ini bercerita tentang\n                    Dipanggil ke dunia lain, Han Sung bekerja sepanjang hidupnya sebagai pemburu monster kelas SSS kekaisaran. Setelah perjuangan yang tak terhitung jumlahnya, ia kehilangan nyawanya dan kembali sebagai putra sulung Kadipaten Jackson, 'Dale'. Dia adalah penyihir gelap terbesar di benua itu dan pemimpin menara gelap, putra Duke Hitam. 'Aku akan menghancurkan kekaisaran dengan tanganku sendiri.' Pedang, sihir, dan seni strategi. Dengan latar belakang pengetahuan dan kecerdasan kehidupan sebelumnya, Dale terlahir kembali sebagai jenius kadipaten. Seberapa jauh kemampuannya akan pergi? Petualangannya dimulai sekarang dengan...",
   "chapters": [
     {
+      "chapter": "36",
+      "title": "Komik Dukedom’s Legendary Prodigy Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0zNi8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "35",
       "title": "Komik Dukedom’s Legendary Prodigy Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0zNS8=",
-      "date": "8 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Dukedom’s Legendary Prodigy Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0zNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Dukedom’s Legendary Prodigy Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0zMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Dukedom’s Legendary Prodigy Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0zMi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Dukedom’s Legendary Prodigy Chapter  31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0zMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -58,7 +64,7 @@
       "chapter": "29",
       "title": "Komik Dukedom’s Legendary Prodigy Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0yOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -82,7 +88,7 @@
       "chapter": "25",
       "title": "Komik Dukedom’s Legendary Prodigy Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVrZWRvbXMtbGVnZW5kYXJ5LXByb2RpZ3ktY2hhcHRlci0yNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -235,5 +241,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }

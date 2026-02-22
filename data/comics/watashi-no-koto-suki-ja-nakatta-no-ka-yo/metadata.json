@@ -2,11 +2,11 @@
   "slug": "watashi-no-koto-suki-ja-nakatta-no-ka-yo",
   "title": "Watashi no Koto Suki ja Nakatta no ka yo!?",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by8=",
-  "cover_url": "",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvS29taWstV2F0YXNoaS1uby1Lb3RvLVN1a2ktamEtTmFrYXR0YS1uby1rYS15by0yMTN4MzE5LmpwZw==",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-20T09:00:54.916192",
+  "scraped_at": "2026-02-22T09:44:07.173165",
   "alternative_titles": "私のこと好きじゃなかったのかよ!?, So you weren\\'t into me?!, Так ты не любишь меня?!, Jadi Sebenarnya Kau Tidak Menyukaiku?!, Cậu không thích tớ sao!?",
   "status": "Berjalan",
   "author": "Konbu Wakame",
@@ -22,11 +22,17 @@
   "synopsis": "Manga                    Watashi no Koto Suki ja Nakatta no ka yo!? yang dibuat oleh komikus bernama\n                    Konbu Wakame ini bercerita tentang\n                    Okabe bertekad untuk fokus pada studinya di sekolah, tetapi entah mengapa, gadis-gadis di sekitarnya terus memberinya sinyal yang membingungkan…",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTIv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTEv",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }
