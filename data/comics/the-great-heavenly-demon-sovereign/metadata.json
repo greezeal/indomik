@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-16T05:16:58.264922",
+  "scraped_at": "2026-02-22T21:40:31.135489",
   "alternative_titles": "신마대제",
   "status": "Berjalan",
   "author": "은검",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    The Great Heavenly Demon Sovereign yang dibuat oleh komikus bernama\n                    은검 ini bercerita tentang\n                    Tanah suci Jalan Iblis, Sepuluh Sekte Iblis.\r\n\r\nKetika mereka menyatukan kekuatan, dunia pun menyebut mereka Istana Iblis.\r\n\r\nDan kini, di tanah suci seluruh iblis dunia, seorang Iblis Langit terbangun, siap melahap dunia murim.",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik The Great Heavenly Demon Sovereign Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTQxLw==",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTQwLw==",
-      "date": "23 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTM5Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTM4Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTM3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter  36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTM2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "35",
@@ -60,7 +66,7 @@
       "chapter": "34",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTM0Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -84,7 +90,7 @@
       "chapter": "30",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTMwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "29",
@@ -108,7 +114,7 @@
       "chapter": "26",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTI2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -138,7 +144,7 @@
       "chapter": "21",
       "title": "Komik The Great Heavenly Demon Sovereign Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LWhlYXZlbmx5LWRlbW9uLXNvdmVyZWlnbi1jaGFwdGVyLTIxLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -261,5 +267,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.85,
-  "scraped_at": "2026-02-14T23:35:56.317780",
+  "scraped_at": "2026-02-22T21:37:49.537063",
   "alternative_titles": "신의 메스, The Heavenly Scalpel",
   "status": "Berjalan",
   "author": "13 Wolsaeng",
@@ -23,10 +23,28 @@
   "synopsis": "Manhwa                    God’s Scalpel yang dibuat oleh komikus bernama\n                    13 Wolsaeng ini bercerita tentang\n                    Park Sang-woo adalah seorang kepala bedah toraks yang hidup tanpa memperhatikan cara dan metode untuk meraih kesuksesan. Namun, hidupnya berubah drastis dalam sekejap karena sebuah kecelakaan yang tak terduga. Tanpa diduga, ia kembali ke masa magangnya dan memperoleh kemampuan khusus untuk melihat sisa umur pasien. Dengan menggunakan kemampuan ini, ia mencoba memulai jalan menjadi dokter sejati yang telah ia tinggalkan di kehidupan keduanya.",
   "chapters": [
     {
+      "chapter": "61",
+      "title": "Komik God’s Scalpel Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kcy1zY2FscGVsLWNoYXB0ZXItNjEv",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "60",
+      "title": "Komik God’s Scalpel Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kcy1zY2FscGVsLWNoYXB0ZXItNjAv",
+      "date": "13 jam yang lalu"
+    },
+    {
+      "chapter": "59",
+      "title": "Komik God’s Scalpel Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kcy1zY2FscGVsLWNoYXB0ZXItNTkv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik God’s Scalpel Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kcy1zY2FscGVsLWNoYXB0ZXItNTgv",
-      "date": "4 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "57",
@@ -206,7 +224,7 @@
       "chapter": "28",
       "title": "Komik God’s Scalpel Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kcy1zY2FscGVsLWNoYXB0ZXItMjgv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -230,7 +248,7 @@
       "chapter": "24",
       "title": "Komik God’s Scalpel Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kcy1zY2FscGVsLWNoYXB0ZXItMjQv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -371,5 +389,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 58
+  "total_chapters": 61
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.32,
-  "scraped_at": "2026-02-21T22:36:39.592053",
+  "scraped_at": "2026-02-22T21:36:14.277401",
   "alternative_titles": "Concept Grasping Magic Genius, The Genius of Magical Mastery, 개념 잡는 마법 천재",
   "status": "Berjalan",
   "author": "김정글",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    The Concept-Grasping Magical Genius yang dibuat oleh komikus bernama\n                    김정글 ini bercerita tentang\n                    Pauline menjadi sosok ibu bagi Rowan, yang telah kehilangan segalanya. Setelah Pauline pergi, Rowan berduka dan membangkitkan kekuatan yang disebut 'Mana'. Terlebih lagi, Rowan bahkan dapat melihat Mana orang lain!\r\n\r\nMelalui mana, meskipun ia terpisah dari Pauline, ia selalu dapat merasakan bahwa Pauline bersamanya...\r\n\r\nSuatu hari, Rowan melihat Pauline yang mengejutkan, yang ia yakini telah pergi ke keluarga bangsawan.",
   "chapters": [
     {
+      "chapter": "50",
+      "title": "Komik The Concept-Grasping Magical Genius Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci01MC8=",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "49",
       "title": "Komik The Concept-Grasping Magical Genius Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci00OS8=",
-      "date": "39 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "48",
@@ -317,5 +323,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 50
 }

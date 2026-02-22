@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T20:59:40.449031",
-  "total_comics": 1022,
+  "last_updated": "2026-02-22T21:43:01.612661",
+  "total_comics": 1025,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -400,7 +400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "167225-subscribing-to-the-transcendents-channel",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 173
+      "total_chapters": 174
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1176,7 +1176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 146
+      "total_chapters": 147
     },
     {
       "slug": "the-demon-king-overrun-by-heroes",
@@ -1368,7 +1368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "i-became-a-munchkin-skill-thief",
@@ -2224,7 +2224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "653805-return-of-the-sss-class-ranker",
@@ -2800,7 +2800,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "my-simulated-path-to-immortality",
@@ -2808,7 +2808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
@@ -3008,7 +3008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.01,
-      "total_chapters": 350
+      "total_chapters": 351
     },
     {
       "slug": "i-quit-the-heros-party",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3720,7 +3720,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 350
+      "total_chapters": 353
     },
     {
       "slug": "lostend",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 118
+      "total_chapters": 119
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4614,9 +4614,9 @@
       "slug": "global-gao-wu",
       "title": "Global Gao Wu",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.73,
+      "total_chapters": 324
     },
     {
       "slug": "reincarnation-of-the-fist-king",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5032,7 +5032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "infinite-level-up-in-murim",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 151
+      "total_chapters": 152
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 466
+      "total_chapters": 471
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -6392,7 +6392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "anta-to-osananajimitte-dake-demo-iyananoni-zekkou-kara-hajimaru-s-kyuu-bishoujo-to-no-gakuen-nariagari-seikatsu",
@@ -7136,7 +7136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 58
+      "total_chapters": 61
     },
     {
       "slug": "watashi-no-oshi-wa-akuyaku-reijou",
@@ -8064,7 +8064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.32,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "neta-chara-tensei-toka-anmarida",
@@ -8177,6 +8177,30 @@
       "status": "Berjalan",
       "rating": 7.86,
       "total_chapters": 51
+    },
+    {
+      "slug": "one-room-hiatari-futsuu-tenshitsuki",
+      "title": "One Room, Hiatari Futsuu, Tenshitsuki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 47
+    },
+    {
+      "slug": "551759-mount-hua-sects-genius-phantom-swordsman",
+      "title": "Mount Hua Sect’s Genius Phantom Swordsman",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.22,
+      "total_chapters": 51
+    },
+    {
+      "slug": "immature-succubus",
+      "title": "Immature Succubus",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }
