@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T11:01:00.033508",
-  "total_comics": 1017,
+  "last_updated": "2026-02-22T11:38:50.014167",
+  "total_comics": 1021,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -392,7 +392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
@@ -1800,7 +1800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "centuria",
@@ -2248,7 +2248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "the-rebellious-apostle-of-the-harvest-goddess",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1059
+      "total_chapters": 1064
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -4888,7 +4888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "office-worker-who-sees-fate",
@@ -5200,7 +5200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 106
+      "total_chapters": 108
     },
     {
       "slug": "psychopath-in-murim",
@@ -5816,7 +5816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "172125-zombie-apocalypse-82-08",
@@ -6248,7 +6248,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "inaka-no-home-center-otoko-no-jiyuu-na-isekai-seikatsu",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "maria-no-danzai",
@@ -6976,7 +6976,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "ani-ni-koisuru-watashitachi",
@@ -7064,7 +7064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.37,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "inkya-no-ore-ga-sekigae-de-s-kyuu-bishoujo-ni-kakomaretara-himitsu-no-kankei-ga-hajimatta",
@@ -7080,7 +7080,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "211615-souzai-saishuka-no-isekai-ryokouki",
@@ -7400,7 +7400,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 5
     },
     {
       "slug": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
@@ -8137,6 +8137,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 5
+    },
+    {
+      "slug": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku",
+      "title": "Kyouran Reijou Nia Liston – Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.83,
+      "total_chapters": 11
+    },
+    {
+      "slug": "104992-mushoku-tensei-isekai-ittara-honki-dasu",
+      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.33,
+      "total_chapters": 120
+    },
+    {
+      "slug": "saitei-rank-no-boukensha-yuusha-shoujo-wo-sodateru-orette",
+      "title": "Saitei Rank no Boukensha, Yuusha Shoujo wo Sodateru Orette",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.64,
+      "total_chapters": 17
+    },
+    {
+      "slug": "tonari-no-seki-no-inkya-joshi-ga-oshi-utaite-datta-ore-no-kyoku-wo-uttatekure",
+      "title": "Tonari no Seki no Inkya Joshi ga Oshi Utaite Datta – Ore no Kyoku wo Uttatekure!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.81,
+      "total_chapters": 27
     }
   ]
 }

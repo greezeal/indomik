@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.37,
-  "scraped_at": "2026-02-20T04:01:28.643548",
+  "scraped_at": "2026-02-22T11:35:26.267055",
   "alternative_titles": "You are a Four Leaf Clover, Cậu là cỏ 4 lá, きみは四葉のクローバー",
   "status": "Berjalan",
   "author": "Koushi",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Kimi wa Yotsuba no Clover yang dibuat oleh komikus bernama\n                    Koushi ini bercerita tentang\n                    Uichi dulunya populer, tapi sekarang dia ditindas secara ekstrim. Cinta pertamanya, Yoha, tiba-tiba muncul di hadapannya. Apa tujuan gadis cantik dan sehat ini...!?",
   "chapters": [
     {
+      "chapter": "66",
+      "title": "Komik Kimi wa Yotsuba no Clover Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTY2Lw==",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "65",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTY1Lw==",
-      "date": "23 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTY0Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "63",
@@ -189,7 +195,7 @@
       "chapter": "38",
       "title": "Komik Kimi wa Yotsuba no Clover Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS13YS15b3RzdWJhLW5vLWNsb3Zlci1jaGFwdGVyLTM4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -414,5 +420,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 65
+  "total_chapters": 66
 }

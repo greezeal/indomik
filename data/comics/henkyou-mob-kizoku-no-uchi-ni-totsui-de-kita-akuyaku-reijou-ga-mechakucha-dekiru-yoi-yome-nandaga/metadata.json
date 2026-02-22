@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.51,
-  "scraped_at": "2026-02-13T06:16:47.116642",
+  "scraped_at": "2026-02-22T11:35:30.800195",
   "alternative_titles": "辺境モブ貴族のウチに嫁いできた悪役令嬢が、めちゃくちゃできる良い嫁なんだが?",
   "status": "Berjalan",
   "author": "Tera",
@@ -26,10 +26,16 @@
   "synopsis": "Manga                    Henkyou Mob Kizoku no Uchi ni Totsui de Kita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nandaga? yang dibuat oleh komikus bernama\n                    Tera ini bercerita tentang\n                    Ragna, pewaris keluarga bangsawan perbatasan, adalah mantan orang Jepang yang bereinkarnasi, dan ini adalah dunia permainan Otome yang dikenalnya. Ia ingin menjalani kehidupan yang riang dan santai, tetapi ia bergantung pada pengelolaan wilayah yang tidak dikenalnya. Tiba-tiba, pernikahan antara Ragna dan seorang bangsawan berpangkat tinggi diatur. Duchess Alicia, yang menikahi Ragna, ternyata adalah \"penjahat\" dari permainan Otome...?",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Henkyou Mob Kizoku no Uchi ni Totsui de Kita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nandaga? Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1tb2Ita2l6b2t1LW5vLXVjaGktbmktdG90c3VpLWRlLWtpdGEtYWt1eWFrdS1yZWlqb3UtZ2EtbWVjaGFrdWNoYS1kZWtpcnUteW9pLXlvbWUtbmFuZGFnYS1jaGFwdGVyLTE0Lw==",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Henkyou Mob Kizoku no Uchi ni Totsui de Kita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nandaga? Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1tb2Ita2l6b2t1LW5vLXVjaGktbmktdG90c3VpLWRlLWtpdGEtYWt1eWFrdS1yZWlqb3UtZ2EtbWVjaGFrdWNoYS1kZWtpcnUteW9pLXlvbWUtbmFuZGFnYS1jaGFwdGVyLTEzLw==",
-      "date": "10 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "12",
@@ -89,7 +95,7 @@
       "chapter": "5",
       "title": "Komik Henkyou Mob Kizoku no Uchi ni Totsui de Kita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nandaga? Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1tb2Ita2l6b2t1LW5vLXVjaGktbmktdG90c3VpLWRlLWtpdGEtYWt1eWFrdS1yZWlqb3UtZ2EtbWVjaGFrdWNoYS1kZWtpcnUteW9pLXlvbWUtbmFuZGFnYS1jaGFwdGVyLTUv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "4",
@@ -116,5 +122,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 16
 }

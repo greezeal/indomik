@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-18T05:10:33.334979",
+  "scraped_at": "2026-02-22T11:33:11.356098",
   "alternative_titles": "天傍台閣, Tembo Daika Ku, Empyreal Cabinet, The Empyreal Cabinet, El Gabinete Empíreo",
   "status": "Berjalan",
   "author": "Yuba Fumiji",
@@ -23,11 +23,35 @@
   "synopsis": "Manga                    Empyreal Cabinet yang dibuat oleh komikus bernama\n                    Yuba Fumiji ini bercerita tentang\n                    Sejak zaman kuno, ilmu sihir telah digunakan sebagai alat perselisihan politik dan senjata perang. Para praktisi ilmu sihir ini, yang dikenal sebagai penyihir, berupaya memastikan kelangsungan hidup jenis mereka dengan menunjukkan kegunaan kekuatan mereka kepada pemerintah. Namun, seiring berjalannya waktu dan bertambahnya jumlah penyihir, momentum muncul dalam komunitas sihir untuk menilai kembali kedudukan mereka di masyarakat. Dalam iklim inilah sebuah bangsa penyihir—yang umumnya dikenal sebagai Pesona Timur—lahir. Dan badan pemerintahan negeri ini kemudian disebut... Kabinet Empyreal.",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Empyreal Cabinet Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1weXJlYWwtY2FiaW5ldC1jaGFwdGVyLTUv",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Empyreal Cabinet Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1weXJlYWwtY2FiaW5ldC1jaGFwdGVyLTQv",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Empyreal Cabinet Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1weXJlYWwtY2FiaW5ldC1jaGFwdGVyLTMv",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Empyreal Cabinet Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1weXJlYWwtY2FiaW5ldC1jaGFwdGVyLTIv",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Empyreal Cabinet Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1weXJlYWwtY2FiaW5ldC1jaGFwdGVyLTEv",
-      "date": "13 jam yang lalu"
+      "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 5
 }
