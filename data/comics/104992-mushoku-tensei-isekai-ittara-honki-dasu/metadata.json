@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.33,
-  "scraped_at": "2026-02-22T11:34:17.376979",
+  "scraped_at": "2026-02-22T14:37:54.854472",
   "alternative_titles": "A Reencarnação do Vagabundo: Vou dar meu melhor se for para outro mundo, Jobless Reincarnation - I Will Go All Out When I'm Transported to Another World, Jobless Reincarnation - It Will be All Out if I Go to Another World, Mr. No-Job's New Life - If I Go",
   "status": "Berjalan",
   "author": "Rifujin na Magonote",
@@ -29,10 +29,22 @@
   "synopsis": "Manga                    Mushoku Tensei: Isekai Ittara Honki Dasu yang dibuat oleh komikus bernama\n                    Rifujin na Magonote ini bercerita tentang\n                    NEET berusia 34 tahun tewas dalam kecelakaan lalu lintas dan menemukan dirinya berada di dunia sihir. Alih-alih bangun sebagai penyihir dewasa, dia bereinkarnasi sebagai bayi yang baru lahir, mempertahankan kenangan akan kehidupan masa lalunya. Bahkan sebelum dia dapat menggerakkan tubuhnya dengan benar, dia memutuskan untuk tidak pernah membuat kesalahan yang sama seperti yang dia lakukan di kehidupan pertamanya lagi dan sebaliknya menjalani hidup tanpa penyesalan dengan yang baru yang diberikan kepadanya. Karena dia memiliki pengetahuan sebagai seorang pria paruh baya, pada usia dua tahun, dia telah menjadi seorang yang ajaib dan memiliki kekuatan yang tidak terpikirkan oleh siapa pun seusianya dan bahkan yang lebih tua. Maka dimulailah kronik Rudeus Greyrat, putra pendekar pedang Paul dan penyembuh Zenith, saat ia memasuki dunia baru untuk menjadi penyihir terkuat yang dikenal manusia, dengan kekuatan yang bahkan menyaingi dewa itu sendiri.",
   "chapters": [
     {
+      "chapter": "115",
+      "title": "Komik Mushoku Tensei: Isekai Ittara Honki Dasu Chapter 115",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVzaG9rdS10ZW5zZWktaXNla2FpLWl0dGFyYS1ob25raS1kYXN1LWNoYXB0ZXItMTE1Lw==",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "114",
+      "title": "Komik Mushoku Tensei: Isekai Ittara Honki Dasu Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVzaG9rdS10ZW5zZWktaXNla2FpLWl0dGFyYS1ob25raS1kYXN1LWNoYXB0ZXItMTE0Lw==",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "113",
       "title": "Komik Mushoku Tensei: Isekai Ittara Honki Dasu Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVzaG9rdS10ZW5zZWktaXNla2FpLWl0dGFyYS1ob25raS1kYXN1LWNoYXB0ZXItMTEzLw==",
-      "date": "10 menit yang lalu"
+      "date": "2 jam yang lalu"
     },
     {
       "chapter": "112",
@@ -749,5 +761,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 120
+  "total_chapters": 122
 }

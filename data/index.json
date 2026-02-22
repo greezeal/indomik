@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T13:53:42.546061",
-  "total_comics": 1021,
+  "last_updated": "2026-02-22T14:41:33.591813",
+  "total_comics": 1022,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -304,7 +304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "the-player-of-the-fallen-family",
@@ -344,7 +344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 12
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "70-meter-girl",
@@ -2304,7 +2304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 30
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -2328,7 +2328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "defective-reincarnator-becomes-the-ultimate-teacher",
@@ -2352,7 +2352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "787094-the-undefeatable-swordsman",
@@ -3360,7 +3360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "a-new-living-arrangement-with-my-friend-%e2%99%82-turned-succubus",
@@ -3800,7 +3800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 72
+      "total_chapters": 74
     },
     {
       "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
@@ -4992,7 +4992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 133
+      "total_chapters": 135
     },
     {
       "slug": "death-game-ni-makikomareta-yamamoto-san-kimama-ni-game-balance-wo-houkaisaseru",
@@ -5096,7 +5096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 67
+      "total_chapters": 69
     },
     {
       "slug": "sekai-ni-hitori-zenzokusei-mahou-no-tsukaite",
@@ -5984,7 +5984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 48
+      "total_chapters": 51
     },
     {
       "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
@@ -6376,7 +6376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "kagurabachi",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -8008,7 +8008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.87,
-      "total_chapters": 777
+      "total_chapters": 778
     },
     {
       "slug": "tensei-shitara-suterareta-ga-hirowarete-tanoshiku-ikiteimasu",
@@ -8152,7 +8152,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.33,
-      "total_chapters": 120
+      "total_chapters": 122
     },
     {
       "slug": "saitei-rank-no-boukensha-yuusha-shoujo-wo-sodateru-orette",
@@ -8169,6 +8169,14 @@
       "status": "Berjalan",
       "rating": 7.81,
       "total_chapters": 27
+    },
+    {
+      "slug": "ano-toki-tasukete-itadaita-monster-musume-desu",
+      "title": "Ano Toki Tasukete Itadaita Monster Musume desu.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 51
     }
   ]
 }

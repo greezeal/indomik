@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-21T22:36:32.002760",
+  "scraped_at": "2026-02-22T14:35:49.954678",
   "alternative_titles": "마신",
   "status": "Berjalan",
   "author": "Jeon Myeong-Woo, Kim Kang-Hyun",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    The Demon God yang dibuat oleh komikus bernama\n                    Jeon Myeong-Woo, Kim Kang-Hyun ini bercerita tentang\n                    Seratus anak terperangkap di Gunung Hengshan. Hanya satu yang berhasil keluar hidup-hidup, seorang anak laki-laki bernama Dan Hyeongwoo.\r\n\r\nIa bertahan dari neraka yang diciptakan oleh Cheon Gija dan sebagai gantinya memperoleh kekuatan yang layak disebut sebagai kekuatan dewa iblis. Namun, dunia terasa asing baginya, dan aturan-aturannya sama sekali tak masuk akal…\r\n\r\nKarena itu, ia menjadi seorang pendekar pengawal di Agen Pengawalan Henan, mempelajari kembali apa arti menjadi manusia dan bagaimana dunia bekerja, dari nol.\r\n\r\nSemua yang ia lakukan hanya demi satu tujuan: hari ketika ia akan menuntut balas pada Cheon Gija.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik The Demon God Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTE4Lw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik The Demon God Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTE3Lw==",
-      "date": "30 menit yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "16",
@@ -122,5 +128,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }
