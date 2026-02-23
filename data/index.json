@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-23T06:38:58.841848",
-  "total_comics": 1025,
+  "last_updated": "2026-02-23T07:50:01.987116",
+  "total_comics": 1028,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -16,7 +16,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 188
+      "total_chapters": 189
     },
     {
       "slug": "226919-academys-undercover-professor",
@@ -510,9 +510,9 @@
       "slug": "rank-no-ura-soubi-musou",
       "title": "??? Rank no Ura Soubi Musou",
       "type": "Manga",
-      "status": "",
+      "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 0
+      "total_chapters": 81
     },
     {
       "slug": "bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken",
@@ -1008,7 +1008,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 248
+      "total_chapters": 249
     },
     {
       "slug": "momose-akira-no-hatsukoi-hatan-chuu",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 497
+      "total_chapters": 499
     },
     {
       "slug": "marriagetoxin",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2976,7 +2976,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "become-the-strongest-hero-through-the-cheat-system",
@@ -3000,7 +3000,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "different-kings",
@@ -3016,7 +3016,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 131
+      "total_chapters": 133
     },
     {
       "slug": "333015-chronicles-of-the-martial-gods-return",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3622,9 +3622,9 @@
       "slug": "653378-skeleton-soldier-couldnt-protect-the-dungeon",
       "title": "Skeleton Soldier Couldn’t Protect the Dungeon",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.13,
+      "total_chapters": 367
     },
     {
       "slug": "701827-emperor-of-solo-play",
@@ -4504,7 +4504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "tsuihou-sareta-tenshou-juu-kishi-ha-gemu-chishiki-de-musou-suru",
@@ -4680,7 +4680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "ogami-tsumiki-to-kinichijou",
@@ -4720,7 +4720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 12
     },
     {
       "slug": "jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyou-to-shitara-betsu-no-tatakai-ga-hajimatta",
@@ -5078,9 +5078,9 @@
       "slug": "the-boss-is-too-strong",
       "title": "The Boss Is Too Strong",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
     },
     {
       "slug": "898970-regressor-instruction-manual",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 113
+      "total_chapters": 114
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -5872,7 +5872,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "isekai-shoukan-oji-san-no-juumusou-life-sabage-suki-salaryman-wa-kaisha-owari-ni-isekai-e-chokki-suru",
@@ -6384,7 +6384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 115
+      "total_chapters": 116
     },
     {
       "slug": "the-great-heavenly-demon-sovereign",
@@ -6528,7 +6528,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 71
+      "total_chapters": 72
     },
     {
       "slug": "the-lucky-plan-of-an-idol-in-his-second-life",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "maria-no-danzai",
@@ -7704,7 +7704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 186
+      "total_chapters": 187
     },
     {
       "slug": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
@@ -8096,7 +8096,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "sukinako-ga-megane-wo-wasureta",
@@ -8201,6 +8201,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "d-rank-adventurer-invited-by-a-brave-party-and-the-stalking-princess",
+      "title": "D Rank Adventurer Invited By A Brave Party, And The Stalking Princess",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 46
+    },
+    {
+      "slug": "deadpool-samurai",
+      "title": "Deadpool: Samurai",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 8.83,
+      "total_chapters": 24
+    },
+    {
+      "slug": "getsuyoubi-no-tawawa-serialization",
+      "title": "Getsuyoubi no Tawawa (Serialization)",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.68,
+      "total_chapters": 116
     }
   ]
 }

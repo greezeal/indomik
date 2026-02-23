@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-22T10:04:20.502863",
+  "scraped_at": "2026-02-23T07:43:34.902386",
   "alternative_titles": "무림세가 전생랭커",
   "status": "Berjalan",
   "author": "산보, 인용",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Reincarnation of the Murim Clan’s Former Ranker yang dibuat oleh komikus bernama\n                    산보, 인용 ini bercerita tentang\n                    [Persekutuan Terkuat, Griffin!\r\nRanker SSS Gang Tae Ha menantang mereka sendirian!\r\nTapi dia menemui ajalnya setelah pertempuran sengit.\r\nNamun…\r\n\r\n\"...Aku babi ini?\"\r\n\r\nSaya membuka mata saya, dan itu Murim?\r\nSaya Yu Shin Un, bajingan dari Klan Baek Un?\r\nSituasi kacau tanpa waktu untuk istirahat.\r\nDi tengah kematian yang akan datang!\r\n\r\n\"Kalian tidak tahu siapa aku?\"\r\n\r\nNecromancy dari kehidupan sebelumnya.\r\nSeni bela diri dari kehidupan saat ini.\r\nDia yang memegang kedua kekuatan!\r\nSekarang mengguncang takdir Dunia!]",
   "chapters": [
     {
+      "chapter": "188",
+      "title": "Komik Reincarnation of the Murim Clan’s Former Ranker Chapter 188",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtbXVyaW0tY2xhbnMtZm9ybWVyLXJhbmtlci1jaGFwdGVyLTE4OC8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "187",
       "title": "Komik Reincarnation of the Murim Clan’s Former Ranker Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtbXVyaW0tY2xhbnMtZm9ybWVyLXJhbmtlci1jaGFwdGVyLTE4Ny8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "186",
@@ -49,7 +55,7 @@
       "chapter": "183",
       "title": "Komik Reincarnation of the Murim Clan’s Former Ranker Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtbXVyaW0tY2xhbnMtZm9ybWVyLXJhbmtlci1jaGFwdGVyLTE4My8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "182",
@@ -103,7 +109,7 @@
       "chapter": "174",
       "title": "Komik Reincarnation of the Murim Clan’s Former Ranker Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtbXVyaW0tY2xhbnMtZm9ybWVyLXJhbmtlci1jaGFwdGVyLTE3NC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "173",
@@ -1150,5 +1156,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 188
+  "total_chapters": 189
 }
