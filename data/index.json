@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-23T13:42:26.899928",
-  "total_comics": 1028,
+  "last_updated": "2026-02-23T14:43:41.438859",
+  "total_comics": 1030,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -268,11 +268,11 @@
     },
     {
       "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto",
-      "title": "Komik\n              Silent Witch Chinmoku no Majo no Kakushigoto",
+      "title": "Silent Witch Chinmoku no Majo no Kakushigoto",
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "surviving-the-heat-apocalypse-with-my-god-tier-safehouse",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 296
+      "total_chapters": 298
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1038,9 +1038,9 @@
       "slug": "douyara-ore-wa-imadoki-gal-na-toshiue-osananajimi-kara-gekiomokanjou-wo-mukerareteirurashii",
       "title": "Douyara Ore wa imadoki Gal na Toshiue Osananajimi kara Gekiomokanjou wo Mukerareteirurashii",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 17
     },
     {
       "slug": "magic-lord",
@@ -1120,7 +1120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.29,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "turning-into-a-tentacle-monster-made-me-crazier",
@@ -1486,9 +1486,9 @@
       "slug": "houkago-no-luminous",
       "title": "Houkago no Luminous",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     },
     {
       "slug": "limit-breaking-genius-mage",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "70-meter-girl",
@@ -2184,7 +2184,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "563439-kowloon-saroka",
@@ -2680,7 +2680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 18
+      "total_chapters": 19
     },
     {
       "slug": "the-youngest-hides-way-too-much",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1064
+      "total_chapters": 1069
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -3736,7 +3736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -3936,7 +3936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "950565-lookism",
@@ -4280,7 +4280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 116
+      "total_chapters": 118
     },
     {
       "slug": "the-regressed-extra-becomes-a-genius",
@@ -4752,7 +4752,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "unrivaled-spear-demon",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 59
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4918,9 +4918,9 @@
       "slug": "sss-level-paladin-who-breaks-all-logic",
       "title": "SSS-Level Paladin Who Breaks All Logic",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.0,
+      "total_chapters": 109
     },
     {
       "slug": "godeokchuns-food-truck",
@@ -5024,7 +5024,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "im-a-super-rich-guy-so-its-reasonable-for-me-to-be-a-scumbag",
@@ -5200,7 +5200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 108
+      "total_chapters": 109
     },
     {
       "slug": "psychopath-in-murim",
@@ -5640,7 +5640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 25
     },
     {
       "slug": "mr-war%ea%9e%89-the-strongest-ex-soldier",
@@ -6008,7 +6008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 107
+      "total_chapters": 108
     },
     {
       "slug": "archmage-transcending-through-regression",
@@ -6104,7 +6104,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.36,
-      "total_chapters": 505
+      "total_chapters": 506
     },
     {
       "slug": "the-sword-master-who-travels-through-time",
@@ -6520,7 +6520,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 138
+      "total_chapters": 139
     },
     {
       "slug": "dao-of-the-bizarre-immortal",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -8225,6 +8225,22 @@
       "status": "Berjalan",
       "rating": 6.68,
       "total_chapters": 116
+    },
+    {
+      "slug": "dog-matic",
+      "title": "DOG MATIC",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.21,
+      "total_chapters": 19
+    },
+    {
+      "slug": "ragna-crimson",
+      "title": "Ragna Crimson",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.89,
+      "total_chapters": 95
     }
   ]
 }

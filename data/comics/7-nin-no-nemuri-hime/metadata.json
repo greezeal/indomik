@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.69,
-  "scraped_at": "2026-02-23T03:19:58.981915",
+  "scraped_at": "2026-02-23T14:40:02.743920",
   "alternative_titles": "7人の眠り姫, The Seven Sleeping Beauties, Las Siete Bellas Durmientes, Les Sept Princesses Endormies, Shichinin no Nemurihime",
   "status": "Berjalan",
   "author": "Fiok Lee",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    7-Nin no Nemuri Hime yang dibuat oleh komikus bernama\n                    Fiok Lee ini bercerita tentang\n                    Seorang pangeran pengembara akan mematahkan kutukan kuno yang menyihir Kerajaan Amaryllis dengan membangunkan sang putri dengan ciuman cinta sejati. Namun tidak ada yang memberitahunya bahwa ada 7 putri untuk dicium dan dia sekarang harus bertanggung jawab dengan tinggal bersama mereka sementara mereka mencari tahu mengapa orang-orang Amaryllis tidak dapat bangun. Akankah mereka mencapai kebahagiaan selamanya?",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik 7-Nin no Nemuri Hime Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0yMy8=",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0yMi8=",
-      "date": "4 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0yMS8=",
-      "date": "4 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "20",
@@ -44,7 +50,7 @@
       "chapter": "19",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0xOS8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -155,5 +161,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }
