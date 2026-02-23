@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.01,
-  "scraped_at": "2026-02-23T10:39:03.420965",
+  "scraped_at": "2026-02-23T18:45:21.591578",
   "alternative_titles": "Another Emperor Reborn, 异皇重生",
   "status": "Berjalan",
   "author": "Bird of paradise",
@@ -26,10 +26,16 @@
   "synopsis": "Manhua                    Different Kings yang dibuat oleh komikus bernama\n                    Bird of paradise ini bercerita tentang\n                    Reiki adalah kebangkitan, seluruh dunia ditutupi oleh aura yang kuat, dan makhluk di bumi terpengaruh oleh hal ini. Manusia mengalami akun bahwa mereka memiliki kekuatan yang lebih kuat, dan makhluk lain selain manusia juga berkembang pesat di bawah pengaruh Aura. Beberapa ras yang kuat dan misterius muncul dalam diam. Legenda mengatakan bahwa kekuatan tetap ada: keluarga di dunia lain, secara kebetulan, jiwa pangeran kerajaan dunia lain memasuki tubuh manusia muda biasa, Huang Shang, dan memulai kisah hegemoni berdarah dan lucu ...",
   "chapters": [
     {
+      "chapter": "363",
+      "title": "Komik Different Kings Chapter 363",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlmZmVyZW50LWtpbmdzLWNoYXB0ZXItMzYzLw==",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "362",
       "title": "Komik Different Kings Chapter 362",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlmZmVyZW50LWtpbmdzLWNoYXB0ZXItMzYyLw==",
-      "date": "17 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "361",
@@ -59,7 +65,7 @@
       "chapter": "357",
       "title": "Komik Different Kings Chapter 357",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlmZmVyZW50LWtpbmdzLWNoYXB0ZXItMzU3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "356",
@@ -263,13 +269,13 @@
       "chapter": "323",
       "title": "Komik Different Kings Chapter 323",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlmZmVyZW50LWtpbmdzLWNoYXB0ZXItMzIzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "322",
       "title": "Komik Different Kings Chapter 322",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlmZmVyZW50LWtpbmdzLWNoYXB0ZXItMzIyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "321",
@@ -2132,5 +2138,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 351
+  "total_chapters": 352
 }

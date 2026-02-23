@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-23T17:47:36.768019",
-  "total_comics": 1030,
+  "last_updated": "2026-02-23T18:51:33.409299",
+  "total_comics": 1035,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -88,7 +88,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 142
+      "total_chapters": 143
     },
     {
       "slug": "a-hero-who-does-everything-well",
@@ -136,7 +136,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "gokugoku-futsuu-no-fuufu-no-hanashi",
@@ -1136,7 +1136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "643745-ranger-reject",
@@ -1272,7 +1272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 227
+      "total_chapters": 228
     },
     {
       "slug": "397466-the-last-adventurer",
@@ -1992,7 +1992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 108
+      "total_chapters": 109
     },
     {
       "slug": "age-of-terror",
@@ -2104,7 +2104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "141523-the-indomitable-martial-king",
@@ -2304,7 +2304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 476
+      "total_chapters": 478
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -3008,7 +3008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.01,
-      "total_chapters": 351
+      "total_chapters": 352
     },
     {
       "slug": "i-quit-the-heros-party",
@@ -3352,7 +3352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 19
     },
     {
       "slug": "the-demon-god",
@@ -3608,7 +3608,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "tang-clan-legend",
@@ -3616,7 +3616,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "653378-skeleton-soldier-couldnt-protect-the-dungeon",
@@ -3648,7 +3648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "special-civil-servant",
@@ -3688,7 +3688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "touhou-chireikiden-hansoku-tantei-satori",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -3760,7 +3760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 178
+      "total_chapters": 179
     },
     {
       "slug": "im-the-hero-but-the-main-heroines-are-trying-to-kill-me",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 88
+      "total_chapters": 89
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -4336,7 +4336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 216
+      "total_chapters": 217
     },
     {
       "slug": "the-rebirth-of-the-heros-partys-archmage",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 64
+      "total_chapters": 66
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4878,9 +4878,9 @@
       "slug": "284443-meccha-shoukan-sareta-ken",
       "title": "Meccha Shoukan Sareta Ken",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.67,
+      "total_chapters": 74
     },
     {
       "slug": "what-a-bountiful-harvest-demon-lord",
@@ -5168,7 +5168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "im-really-not-the-demon-gods-lackey",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 471
+      "total_chapters": 475
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5520,7 +5520,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.78,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "absolute-dominion",
@@ -5536,7 +5536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "overlord-of-insects",
@@ -7328,7 +7328,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 456
+      "total_chapters": 457
     },
     {
       "slug": "322250-juujika-no-rokunin",
@@ -7808,7 +7808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 726
+      "total_chapters": 727
     },
     {
       "slug": "tensei-shitara-dragon-no-tamago-datta-ibara-no-dragon-road",
@@ -8241,6 +8241,46 @@
       "status": "Berjalan",
       "rating": 8.89,
       "total_chapters": 95
+    },
+    {
+      "slug": "against-the-gods",
+      "title": "Against the Gods",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.38,
+      "total_chapters": 752
+    },
+    {
+      "slug": "kuse-tsuyo-kanojo-wa-toko-ni-izanau",
+      "title": "Kuse Tsuyo Kanojo wa Toko ni Izanau",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.47,
+      "total_chapters": 25
+    },
+    {
+      "slug": "mr-zombie",
+      "title": "Mr. Zombie",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 146
+    },
+    {
+      "slug": "takou-no-boyish-kanojo",
+      "title": "Takou no Boyish Kanojo",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.84,
+      "total_chapters": 23
+    },
+    {
+      "slug": "shamoneyism",
+      "title": "Shamoneyism",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 34
     }
   ]
 }
