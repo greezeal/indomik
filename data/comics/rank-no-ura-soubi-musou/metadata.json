@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-23T14:42:27.125001",
+  "scraped_at": "2026-02-24T07:35:12.906388",
   "alternative_titles": "???ランクの裏装備無双, Unparalleled ??? Rank Hidden Equipment, ？？？ランクの裏装備無双",
   "status": "Berjalan",
   "author": "Kiyoro",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    ??? Rank no Ura Soubi Musou yang dibuat oleh komikus bernama\n                    Kiyoro ini bercerita tentang\n                    Seorang pemuda bernama Jinfrey, memutuskan untuk menjadi seorang petualang demi mendapatkan banyak uang dan membahagiakan keluarganya.\r\n\r\nNamun, saat dia mencoba menjadi seorang petualang, Jinfrey mengingat kenangan kehidupan sebelumnya.\r\n\r\nDunia dimana Jinfrey dilahirkan dan dibesarkan, adalah dunia yang persis sama dengan “Ground Seven”, sebuah permainan jelek yang dia mainkan di kehidupan sebelumnya hingga dia disebut sebagai “Pemain Hardcore”!\r\n\r\nMeski bingung dengan ingatan yang tiba-tiba muncul kembali, dengan menggunakan pengetahuan ini, Jinfrey bertujuan untuk menjadi tak tertandingi dengan bantuan rahasia “Peralatan Tersembunyi” di dunia ini.",
   "chapters": [
     {
+      "chapter": "82",
+      "title": "Komik ??? Rank no Ura Soubi Musou Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci04Mi8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "81",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci04MS8=",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "80",
@@ -56,7 +62,7 @@
       "chapter": "76",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci03Ni8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "75",
@@ -509,5 +515,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 81
+  "total_chapters": 82
 }

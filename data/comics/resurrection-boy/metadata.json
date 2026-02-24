@@ -1,0 +1,44 @@
+{
+  "slug": "resurrection-boy",
+  "title": "Resurrection Boy",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvcmVzdXJyZWN0aW9uLWJveS8=",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvS29taWstUmVzdXJyZWN0aW9uLUJveS0yMjB4MzE5LmpwZw==",
+  "type": "Manhwa",
+  "is_colored": true,
+  "rating": 7.0,
+  "scraped_at": "2026-02-24T07:34:15.437670",
+  "alternative_titles": "부활소년",
+  "status": "Berjalan",
+  "author": "Ryu",
+  "illustrator": "Ryu",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Psychological",
+    "Seinen",
+    "Supernatural",
+    "Tragedy"
+  ],
+  "synopsis": "Manhwa                    Resurrection Boy yang dibuat oleh komikus bernama\n                    Ryu ini bercerita tentang\n                    Seorang anak laki-laki dengan Hati Kebangkitan. Bahkan ratusan kematian pun tak mampu membunuhnya. Kini, Jio mengarahkan pandangannya ke laboratorium penelitian yang telah menindas dia dan teman-temannya sepanjang hidup mereka.",
+  "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Resurrection Boy Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVzdXJyZWN0aW9uLWJveS1jaGFwdGVyLTMv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Resurrection Boy Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVzdXJyZWN0aW9uLWJveS1jaGFwdGVyLTIv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Resurrection Boy Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVzdXJyZWN0aW9uLWJveS1jaGFwdGVyLTEv",
+      "date": "2 jam yang lalu"
+    }
+  ],
+  "total_chapters": 3
+}

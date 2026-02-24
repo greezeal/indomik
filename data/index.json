@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T06:16:31.395937",
-  "total_comics": 1035,
+  "last_updated": "2026-02-24T07:38:21.482622",
+  "total_comics": 1044,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -16,7 +16,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "226919-academys-undercover-professor",
@@ -264,7 +264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 496
+      "total_chapters": 497
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -408,7 +408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 95
+      "total_chapters": 97
     },
     {
       "slug": "the-apex-of-dragon-mastery",
@@ -512,7 +512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken",
@@ -1216,7 +1216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.35,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "my-empress-disciple-is-about-to-turn-dark",
@@ -1848,7 +1848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "immortals-are-slaves-gods-are-servants-and-the-emperor-is-the-watchdog",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 312
+      "total_chapters": 314
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2046,9 +2046,9 @@
       "slug": "hima-ten",
       "title": "Hima-Ten!",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 79
     },
     {
       "slug": "doomsday-game-rise-of-the-villain",
@@ -2088,7 +2088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "keiyaku-shimai",
@@ -2232,7 +2232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 179
+      "total_chapters": 180
     },
     {
       "slug": "nibanme-na-boku-to-ichiban-no-kanojo",
@@ -2336,7 +2336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "world-saving-is-a-skill",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -3736,7 +3736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 21
+      "total_chapters": 25
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 250
+      "total_chapters": 251
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4110,9 +4110,9 @@
       "slug": "sakigake-no-hana-miko",
       "title": "Sakigake no Hana Miko",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 68
     },
     {
       "slug": "tensei-shitara-ken-deshita",
@@ -4264,7 +4264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 193
+      "total_chapters": 194
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -5336,7 +5336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
@@ -5352,7 +5352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "legend",
@@ -5624,7 +5624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 69
+      "total_chapters": 70
     },
     {
       "slug": "kakkou-no-iinazuke",
@@ -5992,7 +5992,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "king-of-snow",
@@ -6424,7 +6424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 45
     },
     {
       "slug": "shuumatsu-no-valkyrie",
@@ -6504,7 +6504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 150
+      "total_chapters": 151
     },
     {
       "slug": "367309-the-necromancer-familys-young-heir",
@@ -6544,7 +6544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 228
+      "total_chapters": 229
     },
     {
       "slug": "kareinaru-akujo-ni-naritai-wa-aisare-tensei-shoujo-wa-tanoshii-nidome-no-jinsei-o-okurimasu",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "maria-no-danzai",
@@ -6928,7 +6928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 102
+      "total_chapters": 104
     },
     {
       "slug": "danjohi-139-no-heikou-sekai-wa-omoi-no-hoka-futsuu",
@@ -7000,7 +7000,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 212
+      "total_chapters": 213
     },
     {
       "slug": "please-bully-me-miss-villainess",
@@ -7440,7 +7440,7 @@
       "type": "Manhua",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "kimi-ni-sasageru-otokomae",
@@ -8032,7 +8032,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsusha",
@@ -8224,7 +8224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.68,
-      "total_chapters": 116
+      "total_chapters": 117
     },
     {
       "slug": "dog-matic",
@@ -8281,6 +8281,78 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 34
+    },
+    {
+      "slug": "the-regressor-can-make-them-all",
+      "title": "The Regressor Can Make Them All",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "please-dont-die",
+      "title": "Please Don’t Die!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "sotsugyou-album-no-kanojotachi",
+      "title": "Sotsugyou Album no Kanojotachi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 15
+    },
+    {
+      "slug": "taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita",
+      "title": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.81,
+      "total_chapters": 14
+    },
+    {
+      "slug": "watashi-nibanme-no-kanojo-de-ii-kara",
+      "title": "Watashi, Nibanme no Kanojo de Ii kara.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 12
+    },
+    {
+      "slug": "the-new-gate",
+      "title": "The New Gate",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.48,
+      "total_chapters": 120
+    },
+    {
+      "slug": "resurrection-boy",
+      "title": "Resurrection Boy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "the-shepherd-wizard",
+      "title": "The Shepherd Wizard",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "426090-the-newbie-is-too-strong",
+      "title": "The Newbie is Too Strong",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 161
     }
   ]
 }
