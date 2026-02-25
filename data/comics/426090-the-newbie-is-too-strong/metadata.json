@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.25,
-  "scraped_at": "2026-02-24T09:34:42.357221",
+  "scraped_at": "2026-02-25T14:50:10.693631",
   "alternative_titles": "뉴비가 너무 강함, Слишком сильный нуб",
   "status": "Berjalan",
   "author": "First Prize Lottery (일등복권), Shin Jung-min (신정민)",
@@ -24,28 +24,34 @@
   "synopsis": "Manhwa                    The Newbie is Too Strong yang dibuat oleh komikus bernama\n                    First Prize Lottery (일등복권), Shin Jung-min (신정민) ini bercerita tentang\n                    JaeJu (yang berarti \"keterampilan\" dalam bahasa Korea) tumbuh tanpa orang tua di panti asuhan dengan terampil, seperti namanya. Suatu hari, dia mendengar bahwa panti asuhan sedang mengalami masa sulit dan harus ditutup dalam 3 tahun. Saat mencoba mengumpulkan uang untuk panti asuhan, JaeJu mendapat peringatan di teleponnya. Di atasnya, dia melihat video dirinya memanjat menara sebagai BJ (penyiar alias streamer). Tujuh tahun yang lalu, sebuah menara tiba-tiba muncul dan secara acak membawa orang ke dalamnya. Jika Anda berhasil menyelesaikan menara dan menjadi \"Awakened\", hanya masalah waktu sebelum Anda menjadi kaya!",
   "chapters": [
     {
+      "chapter": "162",
+      "title": "Komik The Newbie is Too Strong Chapter 162",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ld2JpZS1pcy10b28tc3Ryb25nLWNoYXB0ZXItMTYyLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "161",
       "title": "Komik The Newbie is Too Strong Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ld2JpZS1pcy10b28tc3Ryb25nLWNoYXB0ZXItMTYxLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "160",
       "title": "Komik The Newbie is Too Strong Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ld2JpZS1pcy10b28tc3Ryb25nLWNoYXB0ZXItMTYwLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "159",
       "title": "Komik The Newbie is Too Strong Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ld2JpZS1pcy10b28tc3Ryb25nLWNoYXB0ZXItMTU5Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "158",
       "title": "Komik The Newbie is Too Strong Chapter 158",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ld2JpZS1pcy10b28tc3Ryb25nLWNoYXB0ZXItMTU4Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "157",
@@ -990,5 +996,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 161
+  "total_chapters": 162
 }

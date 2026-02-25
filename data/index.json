@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-25T13:43:27.843864",
-  "total_comics": 1049,
+  "last_updated": "2026-02-25T14:51:14.351496",
+  "total_comics": 1053,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -512,7 +512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken",
@@ -1168,7 +1168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.49,
-      "total_chapters": 244
+      "total_chapters": 245
     },
     {
       "slug": "830221-player-who-returned-10000-years-later",
@@ -1832,7 +1832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 80
+      "total_chapters": 81
     },
     {
       "slug": "kanan-sama-wa-akumade-choroi",
@@ -1864,7 +1864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 154
+      "total_chapters": 156
     },
     {
       "slug": "jujutsu-kaisen-modulo",
@@ -2000,7 +2000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 305
+      "total_chapters": 308
     },
     {
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
@@ -2080,7 +2080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "847799-myst-might-mayhem",
@@ -2272,7 +2272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "104140-talent-swallowing-magician",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1074
+      "total_chapters": 1075
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -2832,7 +2832,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 66
     },
     {
       "slug": "fighting-ward",
@@ -3040,7 +3040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life",
@@ -3704,7 +3704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 145
+      "total_chapters": 146
     },
     {
       "slug": "tamagawa-san-detemashita",
@@ -3720,7 +3720,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 353
+      "total_chapters": 354
     },
     {
       "slug": "lostend",
@@ -3744,7 +3744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "gal-yome-no-himitsu",
@@ -3768,7 +3768,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "826573-ill-retire-after-saving-the-world",
@@ -3880,7 +3880,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.4,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "729096-shinka-tokusei-de-saikyou-necromancer",
@@ -4030,9 +4030,9 @@
       "slug": "this-is-the-law",
       "title": "This is the Law",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 169
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4040,7 +4040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "316904-disastrous-necromancer",
@@ -4064,7 +4064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "when-a-genius-office-worker-goes-too-far",
@@ -4390,9 +4390,9 @@
       "slug": "inko-demo-seishun-shitai",
       "title": "Inko demo Seishun Shitai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.32,
+      "total_chapters": 21
     },
     {
       "slug": "the-demonic-sect-masters-secret-apprentice",
@@ -4526,9 +4526,9 @@
       "slug": "saikyou-de-saisoku-no-mugen-level-up",
       "title": "Saikyou de Saisoku no Mugen Level Up",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.17,
+      "total_chapters": 71
     },
     {
       "slug": "single-dad-in-another-world",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 68
+      "total_chapters": 70
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5200,7 +5200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 111
     },
     {
       "slug": "psychopath-in-murim",
@@ -5648,7 +5648,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 48
     },
     {
       "slug": "sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru",
@@ -5904,7 +5904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "876366-gokurakugai",
@@ -6296,7 +6296,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 10
     },
     {
       "slug": "welcome-home-papa",
@@ -6400,7 +6400,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.63,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "shitai-katsugi-no-nemu",
@@ -6872,7 +6872,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "immortal-fairy-please-listen-to-my-explanation",
@@ -7024,7 +7024,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 98
     },
     {
       "slug": "i-created-an-urban-legend",
@@ -7152,7 +7152,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.26,
-      "total_chapters": 74
+      "total_chapters": 76
     },
     {
       "slug": "rebuild-world",
@@ -7328,7 +7328,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 458
+      "total_chapters": 459
     },
     {
       "slug": "322250-juujika-no-rokunin",
@@ -7464,7 +7464,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 149
+      "total_chapters": 151
     },
     {
       "slug": "303616-chainsaw-man",
@@ -8024,7 +8024,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 3
     },
     {
       "slug": "kirawaremono-no-akuyaku-reijou-alisha-libra-wa-magerarenai",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 146
+      "total_chapters": 147
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "shamoneyism",
@@ -8352,7 +8352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 161
+      "total_chapters": 162
     },
     {
       "slug": "return-of-the-martial-arts-genius",
@@ -8392,7 +8392,39 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 126
+      "total_chapters": 128
+    },
+    {
+      "slug": "the-corrupt-official-hides-the-status-window",
+      "title": "The Corrupt Official Hides the Status Window",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "half-blood",
+      "title": "Half Blood",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
+    },
+    {
+      "slug": "super-no-ura-de-yani-suu-hanashi",
+      "title": "Super no Ura de Yani Suu Hanashi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.98,
+      "total_chapters": 83
+    },
+    {
+      "slug": "the-childe",
+      "title": "The Childe",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 69
     }
   ]
 }

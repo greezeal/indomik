@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-23T10:39:08.970864",
+  "scraped_at": "2026-02-25T14:47:49.619299",
   "alternative_titles": "Star Armor Soul Will Pass, 星甲魂将传",
   "status": "Berjalan",
   "author": "乐想动漫",
@@ -24,22 +24,28 @@
   "synopsis": "Manhua                    Legend of Star General yang dibuat oleh komikus bernama\n                    乐想动漫 ini bercerita tentang\n                    Song Yunxiang, Jenderal Jiwa Bintang terakhir dari Ras Manusia, membawa sistem kembali ke era kampus. Ketika remaja, ia dibutakan oleh jiwa yang tidak utuh, karena ia lemah dan hanya bisa menyaksikan kerabat dan teman-temannya mati di hadapannya.\r\n\r\nDalam kehidupan ini, ia kembali dengan kelahiran kembali sistem, dengan 60 tahun pengalaman tempur dan pengetahuan dan teknologi, dan kembali ke sekolah. Sejak saat itu, dia biasa membangun mecha untuk melawan monster…\r\n\r\nHal-hal yang disesali, orang-orang yang dirindukan, kali ini tidak akan meninggalkan penyesalan",
   "chapters": [
     {
+      "chapter": "348",
+      "title": "Komik Legend of Star General Chapter 348",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTM0OC8=",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "347",
       "title": "Komik Legend of Star General Chapter 347",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTM0Ny8=",
-      "date": "18 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "346",
       "title": "Komik Legend of Star General Chapter 346",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTM0Ni8=",
-      "date": "18 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "345",
       "title": "Komik Legend of Star General Chapter 345",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTM0NS8=",
-      "date": "18 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "344",
@@ -243,7 +249,7 @@
       "chapter": "311",
       "title": "Komik Legend of Star General Chapter 311",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTMxMS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "310",
@@ -291,13 +297,13 @@
       "chapter": "303",
       "title": "Komik Legend of Star General Chapter 303",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTMwMy8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "302",
       "title": "Komik Legend of Star General Chapter 302",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTMwMi8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "301",
@@ -483,19 +489,19 @@
       "chapter": "272",
       "title": "Komik Legend of Star General Chapter 272",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTI3Mi8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "271",
       "title": "Komik Legend of Star General Chapter 271",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTI3MS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "270",
       "title": "Komik Legend of Star General Chapter 270",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTI3MC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "269",
@@ -2142,5 +2148,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 353
+  "total_chapters": 354
 }

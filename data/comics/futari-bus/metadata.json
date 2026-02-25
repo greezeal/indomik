@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.4,
-  "scraped_at": "2026-02-19T01:01:01.431807",
+  "scraped_at": "2026-02-25T14:44:51.058359",
   "alternative_titles": "ふたりバス",
   "status": "Berjalan",
   "author": "Toyobayashi Sakane",
@@ -23,34 +23,40 @@
   "synopsis": "Manga                    Futari Bus yang dibuat oleh komikus bernama\n                    Toyobayashi Sakane ini bercerita tentang\n                    Shunpei tinggal di pedesaan dengan populasi sekitar tiga ribu orang di seluruh kota. Dia satu-satunya teman sekelas di sekolah swasta. Saya bersekolah di bus yang sama dengan Takayakawa Anchan. Keduanya tidak pernah mengobrol sejak SD. Suatu hari, dahulu kala, saya dilahirkan untuk berbicara...? Dua orang. Sebuah komedi yang dimulai dengan sebuah bus, kurang dari sekadar cinta yang biru pucat.",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Futari Bus Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTIwLw==",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Futari Bus Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTE5Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Futari Bus Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTE4Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Futari Bus Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTE3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Futari Bus Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTE2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Futari Bus Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTE1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -62,7 +68,7 @@
       "chapter": "13",
       "title": "Komik Futari Bus Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTEzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -74,7 +80,7 @@
       "chapter": "11",
       "title": "Komik Futari Bus Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTExLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -122,20 +128,20 @@
       "chapter": "3",
       "title": "Komik Futari Bus Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTMv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Futari Bus Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Futari Bus Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YXJpLWJ1cy1jaGFwdGVyLTEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }
