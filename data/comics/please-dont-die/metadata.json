@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-24T09:32:32.244075",
+  "scraped_at": "2026-02-25T05:22:59.893943",
   "alternative_titles": "Please Don\\'t Die!, Te rog, nu muri!, 죽지 말아 줘!",
   "status": "Berjalan",
   "author": "지와",
@@ -19,11 +19,17 @@
   "synopsis": "Manhwa                    Please Don’t Die! yang dibuat oleh komikus bernama\n                    지와 ini bercerita tentang\n                    Yoon Ha-jin menjalani kehidupan yang rapuh, berada di antara hidup dan mati. Suatu hari yang biasa, segalanya berubah ketika ia bertemu dengan seorang gadis misterius dan pemalu yang mengaku sebagai pelindungnya, dan seorang Malaikat Maut yang datang untuk menjemputnya.",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Please Don’t Die! Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxlYXNlLWRvbnQtZGllLWNoYXB0ZXItMi8=",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Please Don’t Die! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxlYXNlLWRvbnQtZGllLWNoYXB0ZXItMS8=",
-      "date": "20 menit yang lalu"
+      "date": "21 jam yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }

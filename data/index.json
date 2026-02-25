@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-25T03:44:12.116020",
-  "total_comics": 1044,
+  "last_updated": "2026-02-25T05:23:33.837423",
+  "total_comics": 1049,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 73
+      "total_chapters": 75
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -1160,7 +1160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 114
+      "total_chapters": 115
     },
     {
       "slug": "758554-the-great-mage-returns-after-4000-years",
@@ -1872,7 +1872,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.11,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "770794-zombie-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 121
+      "total_chapters": 122
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2128,7 +2128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "the-ultimate-of-all-ages",
@@ -2256,7 +2256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "the-last-master-of-jongnam-sect",
@@ -2344,7 +2344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "my-bias-gets-on-the-last-train",
@@ -2672,7 +2672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "reincarnated-as-the-archdukes-son",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1069
+      "total_chapters": 1074
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -2872,7 +2872,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.79,
-      "total_chapters": 223
+      "total_chapters": 224
     },
     {
       "slug": "i-build-an-industrial-empire-on-the-magic-continent",
@@ -2944,7 +2944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 137
+      "total_chapters": 138
     },
     {
       "slug": "155895-nano-machine",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3918,9 +3918,9 @@
       "slug": "my-wife-is-from-a-thousand-years-ago",
       "title": "My Wife Is From a Thousand Years Ago",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 456
     },
     {
       "slug": "kimi-wa-yakamashi-tojite-yo-kuchi-wo",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -4096,7 +4096,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.59,
-      "total_chapters": 116
+      "total_chapters": 117
     },
     {
       "slug": "soukyuu-no-shihai-sha-isekai-oppai-musouden",
@@ -4304,7 +4304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 166
+      "total_chapters": 167
     },
     {
       "slug": "153017-solo-max-level-newbie",
@@ -4520,7 +4520,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 78
     },
     {
       "slug": "saikyou-de-saisoku-no-mugen-level-up",
@@ -4598,9 +4598,9 @@
       "slug": "aishiteru-game-wo-owarasetai",
       "title": "Aishiteru Game wo Owarasetai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 72
     },
     {
       "slug": "osananajimi%e2%99%82-wo-onnanoko-ni-shiteshimatta",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 66
+      "total_chapters": 68
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4840,7 +4840,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "i-became-the-rouge-first-prince",
@@ -5200,7 +5200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 110
     },
     {
       "slug": "psychopath-in-murim",
@@ -5544,7 +5544,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.82,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "a-wimps-strategy-guide-to-conquer-the-tower",
@@ -5552,7 +5552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "haha-no-ai-wa-mama-naranai",
@@ -5624,7 +5624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "kakkou-no-iinazuke",
@@ -5936,7 +5936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 105
+      "total_chapters": 107
     },
     {
       "slug": "shikkoku-tsukai-no-saikyo-yusha-nakama-zenin-ni-uragira-retanode-saikyo-no-mamono",
@@ -6520,7 +6520,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 139
+      "total_chapters": 140
     },
     {
       "slug": "dao-of-the-bizarre-immortal",
@@ -7296,7 +7296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "aishisugiru-niizuma",
@@ -7328,7 +7328,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 457
+      "total_chapters": 458
     },
     {
       "slug": "322250-juujika-no-rokunin",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -8296,7 +8296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
     },
     {
       "slug": "sotsugyou-album-no-kanojotachi",
@@ -8353,6 +8353,46 @@
       "status": "Berjalan",
       "rating": 7.25,
       "total_chapters": 161
+    },
+    {
+      "slug": "return-of-the-martial-arts-genius",
+      "title": "Return Of The Martial Arts Genius",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 106
+    },
+    {
+      "slug": "myriad-tribes-invasion-rearguards-resolute-unity",
+      "title": "Myriad Tribes Invasion: Rearguard’s Resolute Unity",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
+    },
+    {
+      "slug": "yasagure-shoukansha-wa-ugokanai",
+      "title": "Yasagure Shoukansha wa Ugokanai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "full-time-awakening",
+      "title": "Full-Time Awakening",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
+    },
+    {
+      "slug": "how-to-live-as-an-illegal-healer",
+      "title": "How to Live as an Illegal Healer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 126
     }
   ]
 }

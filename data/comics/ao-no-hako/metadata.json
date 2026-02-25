@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.79,
-  "scraped_at": "2026-02-21T04:57:20.284898",
+  "scraped_at": "2026-02-25T05:20:56.328684",
   "alternative_titles": "Blue Box, Box Biru, アオのハコ, 青色之箱, 푸른 상자 단편",
   "status": "Berjalan",
   "author": "Kouji Miura",
@@ -22,28 +22,34 @@
   "synopsis": "Manga                    Ao no Hako yang dibuat oleh komikus bernama\n                    Kouji Miura ini bercerita tentang\n                    Seorang anak laki-laki dari tim bola voli datang lebih awal ke gym setiap hari, dan jatuh cinta dengan senpai dari tim bola basket putri yang juga selalu berlatih di sana.",
   "chapters": [
     {
+      "chapter": "223",
+      "title": "Komik Ao no Hako Chapter 223",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIyMy8=",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "222",
       "title": "Komik Ao no Hako Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIyMi8=",
-      "date": "4 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "221",
       "title": "Komik Ao no Hako Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIyMS8=",
-      "date": "4 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "220",
       "title": "Komik Ao no Hako Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIyMC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "219",
       "title": "Komik Ao no Hako Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIxOS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "218",
@@ -127,7 +133,7 @@
       "chapter": "205",
       "title": "Komik Ao no Hako Chapter 205",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIwNS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "204",
@@ -151,7 +157,7 @@
       "chapter": "201",
       "title": "Komik Ao no Hako Chapter 201",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTIwMS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "200",
@@ -217,7 +223,7 @@
       "chapter": "190",
       "title": "Komik Ao no Hako Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE5MC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "189",
@@ -265,25 +271,25 @@
       "chapter": "182",
       "title": "Komik Ao no Hako Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4Mi8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "181",
       "title": "Komik Ao no Hako Chapter 181",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4MS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "180",
       "title": "Komik Ao no Hako Chapter 180",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE4MC8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "179",
       "title": "Komik Ao no Hako Chapter 179",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTE3OS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "178",
@@ -799,7 +805,7 @@
       "chapter": "92",
       "title": "Komik Ao no Hako Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tbm8taGFrby1jaGFwdGVyLTkyLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "91",
@@ -1360,5 +1366,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 223
+  "total_chapters": 224
 }

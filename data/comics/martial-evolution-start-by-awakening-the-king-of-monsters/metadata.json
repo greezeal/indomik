@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-23T14:43:07.291650",
+  "scraped_at": "2026-02-25T05:23:12.297365",
   "alternative_titles": "高武进化：从觉醒怪兽之王开始, Evolución de Alto Nivel: Comenzando como el Rey de los Monstruos",
   "status": "Berjalan",
   "author": "两套金漫画",
@@ -23,22 +23,28 @@
   "synopsis": "Manhwa                    Martial Evolution: Start by Awakening the King of Monsters yang dibuat oleh komikus bernama\n                    两套金漫画 ini bercerita tentang\n                    Seorang pemuda bernama Yi He terlahir kembali ke dunia seni bela diri yang kuat dan membangkitkan Raja Monster dengan garis keturunan terkuat!",
   "chapters": [
     {
+      "chapter": "95",
+      "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 95",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTUv",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "94",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTQv",
-      "date": "6 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTMv",
-      "date": "18 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTIv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "91",
@@ -146,7 +152,7 @@
       "chapter": "74",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItNzQv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "73",
@@ -194,7 +200,7 @@
       "chapter": "66",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItNjYv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "65",
@@ -542,7 +548,7 @@
       "chapter": "8",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -587,5 +593,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 94
+  "total_chapters": 95
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-23T14:39:57.730565",
+  "scraped_at": "2026-02-25T05:22:22.470096",
   "alternative_titles": "Insanely Talented Player, Crazy Talented Player, 미친 재능의 플레이어",
   "status": "Berjalan",
   "author": "chena, S-Nanyc",
@@ -20,22 +20,28 @@
   "synopsis": "Manhwa                    Insanely-Talented Player yang dibuat oleh komikus bernama\n                    chena, S-Nanyc ini bercerita tentang\n                    Sudah enam tahun sejak permainan penentuan nasib dunia dimulai. Pemain terkuat, Pahlawan Raja Kang Yoosung, yang tidak pernah kehilangan posisi pertamanya sebagai ranker teratas, menyambut musim baru. “Itu sudah… bagiku sudah lama sekali. Aku hanya melakukan ini demi uang.” [Statistik provokasi meningkat secara eksponensial!] [Raja Badut mengungkapkan kepuasannya atas perilaku kontraktor!] Perjalanan bertahan hidup seorang pemain dengan bakat gila dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "110",
+      "title": "Komik Insanely-Talented Player Chapter 110",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItMTEwLw==",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "109",
       "title": "Komik Insanely-Talented Player Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItMTA5Lw==",
-      "date": "17 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "108",
       "title": "Komik Insanely-Talented Player Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItMTA4Lw==",
-      "date": "24 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik Insanely-Talented Player Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItMTA3Lw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "106",
@@ -77,13 +83,13 @@
       "chapter": "100",
       "title": "Komik Insanely-Talented Player Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItMTAwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "99",
       "title": "Komik Insanely-Talented Player Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItOTkv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "98",
@@ -125,7 +131,7 @@
       "chapter": "92",
       "title": "Komik Insanely-Talented Player Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItOTIv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "91",
@@ -335,7 +341,7 @@
       "chapter": "57",
       "title": "Komik Insanely-Talented Player Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zYW5lbHktdGFsZW50ZWQtcGxheWVyLWNoYXB0ZXItNTcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "56",
@@ -674,5 +680,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 109
+  "total_chapters": 110
 }

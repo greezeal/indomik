@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-19T00:59:01.142000",
+  "scraped_at": "2026-02-25T05:22:27.330320",
   "alternative_titles": "The Goddess of Abundance and the Genius Troublemaker Apostle, Goddess of Abundance and the Genius Rogue Apostle, 풍요의 여신과 천재 망나니 사도님",
   "status": "Berjalan",
   "author": "Saint Nine (성구),곰산타",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    The Rebellious Apostle of the Harvest Goddess yang dibuat oleh komikus bernama\n                    Saint Nine (성구),곰산타 ini bercerita tentang\n                    Aku mengalahkan peluang 0,0000001% dan menjadi Rasul Dewa Kelimpahan.\r\n\r\nKedengarannya seperti dewa pertanian, kan? …Lalu kenapa skill awalku Pemenggalan Kepala?\r\n\r\nPotong kepala—boom, pertanian selesai.\r\n\r\nOlah hasil panen—boom, beres diolah.\r\n\r\nBagus… tapi bagaimana aku menjelaskan ini?",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik The Rebellious Apostle of the Harvest Goddess Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmVsbGlvdXMtYXBvc3RsZS1vZi10aGUtaGFydmVzdC1nb2RkZXNzLWNoYXB0ZXItMjkv",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik The Rebellious Apostle of the Harvest Goddess Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmVsbGlvdXMtYXBvc3RsZS1vZi10aGUtaGFydmVzdC1nb2RkZXNzLWNoYXB0ZXItMjgv",
-      "date": "3 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Rebellious Apostle of the Harvest Goddess Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmVsbGlvdXMtYXBvc3RsZS1vZi10aGUtaGFydmVzdC1nb2RkZXNzLWNoYXB0ZXItMjcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Rebellious Apostle of the Harvest Goddess Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmVsbGlvdXMtYXBvc3RsZS1vZi10aGUtaGFydmVzdC1nb2RkZXNzLWNoYXB0ZXItMjYv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -73,7 +79,7 @@
       "chapter": "20",
       "title": "Komik The Rebellious Apostle of the Harvest Goddess Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmVsbGlvdXMtYXBvc3RsZS1vZi10aGUtaGFydmVzdC1nb2RkZXNzLWNoYXB0ZXItMjAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -190,5 +196,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }
