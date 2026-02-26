@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T06:42:21.433126",
-  "total_comics": 1053,
+  "last_updated": "2026-02-26T07:49:57.226847",
+  "total_comics": 1057,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -264,7 +264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto",
@@ -984,7 +984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 224
+      "total_chapters": 225
     },
     {
       "slug": "leveling-in-the-future",
@@ -1030,9 +1030,9 @@
       "slug": "top-tier-providence-secretly-cultivate-for-a-thousand-years",
       "title": "Top Tier Providence: Secretly Cultivate for a Thousand Years",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 250
     },
     {
       "slug": "douyara-ore-wa-imadoki-gal-na-toshiue-osananajimi-kara-gekiomokanjou-wo-mukerareteirurashii",
@@ -1206,9 +1206,9 @@
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
       "title": "Kage no Jitsuryokusha ni Naritakute",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.99,
+      "total_chapters": 87
     },
     {
       "slug": "serpent-ancestor",
@@ -1344,7 +1344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 149
+      "total_chapters": 150
     },
     {
       "slug": "next-life",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "70-meter-girl",
@@ -1648,7 +1648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 298
+      "total_chapters": 299
     },
     {
       "slug": "a-banished-failure-survives-in-the-borderland-and-becomes-an-s-ranked-exorcist",
@@ -1792,7 +1792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "prosecutor-kim-seojin",
@@ -1840,7 +1840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 169
+      "total_chapters": 170
     },
     {
       "slug": "228639-martial-god-regressed-to-level-2",
@@ -1888,7 +1888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "931897-reborn-as-the-enemy-prince",
@@ -2174,9 +2174,9 @@
       "slug": "675722-i-am-player-who-suck-alone",
       "title": "I Am Player Who Suck Alone",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Hiatus",
+      "rating": 8.59,
+      "total_chapters": 175
     },
     {
       "slug": "tower-of-god-side-story-urek-mazino",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 37
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2912,7 +2912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "674703-star-embracing-swordmaster",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3328,7 +3328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.57,
-      "total_chapters": 112
+      "total_chapters": 114
     },
     {
       "slug": "mirror-mong-woo",
@@ -3608,7 +3608,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "tang-clan-legend",
@@ -3616,7 +3616,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "653378-skeleton-soldier-couldnt-protect-the-dungeon",
@@ -3840,7 +3840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 11
     },
     {
       "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
@@ -3888,7 +3888,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "in-the-face-of-mental-illness-ghosts-are-nothing",
@@ -3902,9 +3902,9 @@
       "slug": "reverend-insanity-remake",
       "title": "Reverend Insanity (Remake)",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
     },
     {
       "slug": "925565-player-from-today-onwards",
@@ -4086,9 +4086,9 @@
       "slug": "the-berserkers-second-playthrough",
       "title": "The Berserker’s Second Playthrough",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 18
     },
     {
       "slug": "828805-the-long-way-of-the-warrior",
@@ -4144,7 +4144,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 11
     },
     {
       "slug": "the-absolute-scholar",
@@ -4808,7 +4808,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.29,
-      "total_chapters": 324
+      "total_chapters": 326
     },
     {
       "slug": "the-apocalypses-ultimate-veteran",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4872,7 +4872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "284443-meccha-shoukan-sareta-ken",
@@ -5304,7 +5304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "bill-the-blacksmith",
@@ -5408,7 +5408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 9
     },
     {
       "slug": "484033-mikadono-sanshimai-wa-angai-choroi",
@@ -5744,7 +5744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "981277-spy-x-family",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -5984,7 +5984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 15
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -6904,7 +6904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "jitsu-wa-ore-saikyou-deshita",
@@ -7136,7 +7136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "watashi-no-oshi-wa-akuyaku-reijou",
@@ -7216,7 +7216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "887850-jungle-juice",
@@ -8224,7 +8224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.68,
-      "total_chapters": 117
+      "total_chapters": 119
     },
     {
       "slug": "dog-matic",
@@ -8425,6 +8425,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 69
+    },
+    {
+      "slug": "netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru",
+      "title": "Netorare Tsuihousareta Saikyou Kishi Danchou No Ossan, Katainaka De Eiyuu Ni Matsuriagerareru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.45,
+      "total_chapters": 4
+    },
+    {
+      "slug": "hunter-worlds-gardener",
+      "title": "Hunter World’s Gardener",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.11,
+      "total_chapters": 97
+    },
+    {
+      "slug": "yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita",
+      "title": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.54,
+      "total_chapters": 63
+    },
+    {
+      "slug": "i-was-immediately-mistaken-for-a-monster-genius-actor",
+      "title": "I Was Immediately Mistaken for a Monster Genius Actor",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 88
     }
   ]
 }

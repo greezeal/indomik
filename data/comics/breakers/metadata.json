@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-23T20:33:51.293694",
+  "scraped_at": "2026-02-26T07:45:59.924275",
   "alternative_titles": "브레이커즈",
   "status": "Berjalan",
   "author": "Chwiryong, JDL",
@@ -20,58 +20,64 @@
   "synopsis": "Manhwa                    Breakers yang dibuat oleh komikus bernama\n                    Chwiryong, JDL ini bercerita tentang\n                    Joo In-gong terseret masuk ke dalam remake dari game yang sedang ia mainkan, .\r\n\r\nNamun, ada sesuatu yang janggal. Seharusnya hanya ada dua karakter yang bisa dimainkan—Loch dari pihak manusia, dan Zephyr dari pihak iblis.\r\n\r\nTapi entah bagaimana, ia justru terbangun dalam tubuh Shutra—pangeran kesembilan dari Dunia Iblis, sosok yang sebenarnya bahkan tidak pernah ada dalam cerita asli game itu.\r\n\r\nDianugerahi dua kekuatan misterius, “Pengaturan Ulang Karakter Protagonis” dan “Kekuatan Penaklukan,”\r\nJoo In-gong kini harus mengubah alur cerita game demi bertahan hidup melawan Zephyr.\r\n\r\nNamun, setiap kali jalan cerita berubah… perhatian semakin banyak tertuju padanya.",
   "chapters": [
     {
+      "chapter": "60",
+      "title": "Komik Breakers Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci02MC8=",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "59",
       "title": "Komik Breakers Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01OS8=",
-      "date": "2 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Breakers Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01OC8=",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Breakers Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01Ny8=",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Breakers Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01Ni8=",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Breakers Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01NS8=",
-      "date": "4 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Breakers Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01NC8=",
-      "date": "4 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Breakers Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01My8=",
-      "date": "4 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Breakers Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01Mi8=",
-      "date": "4 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Breakers Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci01MS8=",
-      "date": "4 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "50",
@@ -299,7 +305,7 @@
       "chapter": "13",
       "title": "Komik Breakers Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnJlYWtlcnMtY2hhcHRlci0xMy8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -374,5 +380,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 60
 }
