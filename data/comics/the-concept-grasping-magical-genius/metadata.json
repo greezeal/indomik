@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.32,
-  "scraped_at": "2026-02-23T10:39:06.208443",
+  "scraped_at": "2026-02-26T11:31:44.783710",
   "alternative_titles": "Concept Grasping Magic Genius, The Genius of Magical Mastery, 개념 잡는 마법 천재",
   "status": "Berjalan",
   "author": "김정글",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    The Concept-Grasping Magical Genius yang dibuat oleh komikus bernama\n                    김정글 ini bercerita tentang\n                    Pauline menjadi sosok ibu bagi Rowan, yang telah kehilangan segalanya. Setelah Pauline pergi, Rowan berduka dan membangkitkan kekuatan yang disebut 'Mana'. Terlebih lagi, Rowan bahkan dapat melihat Mana orang lain!\r\n\r\nMelalui mana, meskipun ia terpisah dari Pauline, ia selalu dapat merasakan bahwa Pauline bersamanya...\r\n\r\nSuatu hari, Rowan melihat Pauline yang mengejutkan, yang ia yakini telah pergi ke keluarga bangsawan.",
   "chapters": [
     {
+      "chapter": "51",
+      "title": "Komik The Concept-Grasping Magical Genius Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci01MS8=",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "50",
       "title": "Komik The Concept-Grasping Magical Genius Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci01MC8=",
-      "date": "18 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik The Concept-Grasping Magical Genius Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci00OS8=",
-      "date": "2 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "48",
@@ -80,7 +86,7 @@
       "chapter": "41",
       "title": "Komik The Concept-Grasping Magical Genius Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci00MS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "40",
@@ -122,13 +128,13 @@
       "chapter": "34",
       "title": "Komik The Concept-Grasping Magical Genius Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci0zNC8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik The Concept-Grasping Magical Genius Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvbmNlcHQtZ3Jhc3BpbmctbWFnaWNhbC1nZW5pdXMtY2hhcHRlci0zMy8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -323,5 +329,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 50
+  "total_chapters": 51
 }

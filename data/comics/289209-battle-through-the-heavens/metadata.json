@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.36,
-  "scraped_at": "2026-02-23T14:41:38.533059",
+  "scraped_at": "2026-02-26T11:33:12.949039",
   "alternative_titles": "Fights Breaking Through The Heavens, BTTH, Dou Po Cang Qiong, Doupo Cangqiong, Đấu Phá Thương Khung, Fights Break Sphere, Расколотая битвой синева небес, 斗破苍穹",
   "status": "Berjalan",
   "author": "Tian Can Tu Dou",
@@ -28,22 +28,28 @@
   "synopsis": "Manhua                    Battle Through the Heavens yang dibuat oleh komikus bernama\n                    Tian Can Tu Dou ini bercerita tentang\n                    Di tanah di mana tidak ada sihir, tanah di mana yang kuat membuat aturan dan yang lemah harus dipatuhi, tanah yang dipenuhi dengan harta dan keindahan yang memikat, namun juga dipenuhi dengan bahaya yang tak terduga. Xiao Yan, yang telah menunjukkan bakat yang tidak pernah dilihat siapa pun dalam beberapa dekade, tiba-tiba kehilangan segalanya tiga tahun lalu - kekuatannya, reputasinya, dan janjinya kepada ibunya. Ilmu sihir apa yang menyebabkan dia kehilangan semua kekuatannya? Dan mengapa tunangannya tiba-tiba muncul?",
   "chapters": [
     {
+      "chapter": "503",
+      "title": "Komik Battle Through the Heavens Chapter 503",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci01MDMv",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "502",
       "title": "Komik Battle Through the Heavens Chapter 502",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci01MDIv",
-      "date": "42 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "501",
       "title": "Komik Battle Through the Heavens Chapter 501",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci01MDEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "500",
       "title": "Komik Battle Through the Heavens Chapter 500",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci01MDAv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "499",
@@ -85,7 +91,7 @@
       "chapter": "493",
       "title": "Komik Battle Through the Heavens Chapter 493",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci00OTMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "492",
@@ -145,7 +151,7 @@
       "chapter": "483",
       "title": "Komik Battle Through the Heavens Chapter 483",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci00ODMv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "482",
@@ -253,7 +259,7 @@
       "chapter": "465",
       "title": "Komik Battle Through the Heavens Chapter 465",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci00NjUv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "464",
@@ -349,7 +355,7 @@
       "chapter": "449",
       "title": "Komik Battle Through the Heavens Chapter 449",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmF0dGxlLXRocm91Z2gtdGhlLWhlYXZlbnMtY2hhcHRlci00NDkv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "448",
@@ -3064,5 +3070,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 506
+  "total_chapters": 507
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.23,
-  "scraped_at": "2026-02-22T14:40:53.908233",
+  "scraped_at": "2026-02-26T11:31:49.474716",
   "alternative_titles": "Gebetanku Lupa Kacamatanya, Mon béguin a oublié ses lunettes, My Crush Forgot Her Glasses, Sukinako ga Megane wo Wasureta, The Girl I Like Forgot Her Glasses, Моя возлюбленная забыла свои очки, 好きな子がめがねを忘れた, 좋아하는 애가 안경을 깜빡했다",
   "status": "Berjalan",
   "author": "FUJICHIKA Koume",
@@ -22,22 +22,40 @@
   "synopsis": "Manga                    Sukinako ga Megane wo Wasureta yang dibuat oleh komikus bernama\n                    FUJICHIKA Koume ini bercerita tentang\n                    \"Siapa kamu? Aku bisa melihatmu ...\" Gadis di kursi sebelah lupa kacamata. Komura ingin mengikuti Mie yang dalam kesulitan, tetapi jaraknya terlalu dekat untuk dilihat.",
   "chapters": [
     {
+      "chapter": "87",
+      "title": "Komik Sukinako ga Megane wo Wasureta Chapter 87",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VraW5ha28tZ2EtbWVnYW5lLXdvLXdhc3VyZXRhLWNoYXB0ZXItODcv",
+      "date": "27 menit yang lalu"
+    },
+    {
+      "chapter": "86",
+      "title": "Komik Sukinako ga Megane wo Wasureta Chapter 86",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VraW5ha28tZ2EtbWVnYW5lLXdvLXdhc3VyZXRhLWNoYXB0ZXItODYv",
+      "date": "27 menit yang lalu"
+    },
+    {
+      "chapter": "85",
+      "title": "Komik Sukinako ga Megane wo Wasureta Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VraW5ha28tZ2EtbWVnYW5lLXdvLXdhc3VyZXRhLWNoYXB0ZXItODUv",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "84",
       "title": "Komik Sukinako ga Megane wo Wasureta Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VraW5ha28tZ2EtbWVnYW5lLXdvLXdhc3VyZXRhLWNoYXB0ZXItODQv",
-      "date": "6 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik Sukinako ga Megane wo Wasureta Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VraW5ha28tZ2EtbWVnYW5lLXdvLXdhc3VyZXRhLWNoYXB0ZXItODMv",
-      "date": "6 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Sukinako ga Megane wo Wasureta Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VraW5ha28tZ2EtbWVnYW5lLXdvLXdhc3VyZXRhLWNoYXB0ZXItODIv",
-      "date": "6 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "81.5",
@@ -610,5 +628,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 98
+  "total_chapters": 101
 }
