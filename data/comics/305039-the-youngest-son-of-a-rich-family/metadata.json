@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.13,
-  "scraped_at": "2026-02-26T18:42:26.256943",
+  "scraped_at": "2026-02-26T20:57:12.124055",
   "alternative_titles": "The Chaebeol's Youngest Son, Reborn Rich, The Youngest Son of a Conglomerate, The Youngest Son of Sunyang, 재벌집 막내아들",
   "status": "Berjalan",
   "author": "JP, Sangyeong",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    The Youngest Son Of A Rich Family yang dibuat oleh komikus bernama\n                    JP, Sangyeong ini bercerita tentang\n                    Untuk mendapatkan kembali 13 tahun kerja keras melalui pengkhianatan!\r\n\r\nYoon Hyun-woo, kepala Grup Sunyang, yang hidup seperti seorang pelayan dan ditinggalkan.\r\nTepat ketika dia mengira semuanya sudah berakhir, dia bangun sebagai Jin Do-jun, cucu dari Ketua Sunyang Group Jin!\r\n\r\nNamun, Jin Do-jun, putra bungsu dari keluarga chaebol, jauh dari hak untuk mewarisi.\r\nAkankah dia bisa menjadi pemenang terakhir dalam drama politik keluarga?\r\n\r\nDrama balas dendam menggembirakan Yoon Hyun-woo untuk menelan kelompok Sunyang dimulai!",
   "chapters": [
     {
+      "chapter": "191",
+      "title": "Komik The Youngest Son Of A Rich Family Chapter 191",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlvdW5nZXN0LXNvbi1vZi1hLXJpY2gtZmFtaWx5LWNoYXB0ZXItMTkxLw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "190",
       "title": "Komik The Youngest Son Of A Rich Family Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlvdW5nZXN0LXNvbi1vZi1hLXJpY2gtZmFtaWx5LWNoYXB0ZXItMTkwLw==",
-      "date": "5 jam yang lalu"
+      "date": "9 jam yang lalu"
     },
     {
       "chapter": "189",
@@ -1152,5 +1158,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 189
+  "total_chapters": 190
 }

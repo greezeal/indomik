@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T20:07:12.322475",
+  "last_updated": "2026-02-26T21:02:45.597285",
   "total_comics": 1069,
   "comics": [
     {
@@ -24,7 +24,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 157
+      "total_chapters": 158
     },
     {
       "slug": "427649-the-delusional-hunter-in-another-world",
@@ -1320,7 +1320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "soloist-in-a-cage",
@@ -2528,7 +2528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.54,
-      "total_chapters": 166
+      "total_chapters": 167
     },
     {
       "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
@@ -2760,7 +2760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.17,
-      "total_chapters": 303
+      "total_chapters": 305
     },
     {
       "slug": "744328-the-dark-magician-transmigrates-after-66666-years",
@@ -2768,7 +2768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 171
+      "total_chapters": 172
     },
     {
       "slug": "sword-devouring-swordmaster",
@@ -2846,9 +2846,9 @@
       "slug": "silent-transfer-student",
       "title": "Silent Transfer Student",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 42
     },
     {
       "slug": "155258-juvenile-prison",
@@ -2920,7 +2920,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 111
+      "total_chapters": 112
     },
     {
       "slug": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
@@ -3008,7 +3008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.01,
-      "total_chapters": 352
+      "total_chapters": 355
     },
     {
       "slug": "i-quit-the-heros-party",
@@ -3944,7 +3944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.24,
-      "total_chapters": 597
+      "total_chapters": 598
     },
     {
       "slug": "prepaid-dragon-king-tanks-everything",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 69
+      "total_chapters": 70
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -3976,7 +3976,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 222
+      "total_chapters": 224
     },
     {
       "slug": "absolute-regression",
@@ -3992,7 +3992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "my-death-flags-show-no-sign-of-ending",
@@ -4776,7 +4776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "tsuihousareru-tabi-ni-skill-wo-te-ni-ireta-ore-ga-100-no-isekai-de-2-shuume-musou",
@@ -5126,9 +5126,9 @@
       "slug": "become-the-lord-of-cthulhu",
       "title": "Become The Lord Of Cthulhu",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.81,
+      "total_chapters": 34
     },
     {
       "slug": "the-dark-swordsman-returns",
@@ -5136,7 +5136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
@@ -5374,9 +5374,9 @@
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
       "title": "Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 15
     },
     {
       "slug": "reset-life-of-regression-police",
@@ -6240,7 +6240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 152
+      "total_chapters": 153
     },
     {
       "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-o-kuratte-tsuyoku-naru",
@@ -7024,7 +7024,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 98
+      "total_chapters": 103
     },
     {
       "slug": "i-created-an-urban-legend",

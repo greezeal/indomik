@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.34,
-  "scraped_at": "2026-02-21T22:36:34.499776",
+  "scraped_at": "2026-02-26T20:56:57.143005",
   "alternative_titles": "사시미 한 자루로 아카데미를 씹어먹음, Conquering the Academy with Just a Sashimi Knife, Chewed Up the Academy With a Bag of Sashimi, Chew the Academy With a Sashimi Stick, Chewing the Academy With a Single Piece of Sashimi",
   "status": "Berjalan",
   "author": "GMAN",
@@ -23,28 +23,34 @@
   "synopsis": "Manhwa                    I Took Over the Academy With a Single Sashimi Knife yang dibuat oleh komikus bernama\n                    GMAN ini bercerita tentang\n                    \"Jika aku menebas, akan terpotong.\"\r\n\r\nAku, yang pernah disebut sebagai pendekar pedang terbaik di negara ini, telah berakhir dalam permainan seluler yang hanya menghabiskan uang beberapa kali. Dan aku bahkan telah menerima berkat dari 'Dewa Pedang'!\r\n\r\nTapi... satu-satunya senjata yang bisa kugunakan adalah pisau sashimi?\r\n\r\nHanya satu menit sehari. Aku menjadi Pedang Suci dengan pisau sashimi.",
   "chapters": [
     {
+      "chapter": "68",
+      "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 68",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItNjgv",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "67",
       "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItNjcv",
-      "date": "29 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItNjYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItNjUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItNjQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "63",
@@ -62,7 +68,7 @@
       "chapter": "61",
       "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItNjEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "60",
@@ -182,7 +188,7 @@
       "chapter": "43",
       "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItNDMv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -236,7 +242,7 @@
       "chapter": "34",
       "title": "Komik I Took Over the Academy With a Single Sashimi Knife Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS10b29rLW92ZXItdGhlLWFjYWRlbXktd2l0aC1hLXNpbmdsZS1zYXNoaW1pLWtuaWZlLWNoYXB0ZXItMzQv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -437,5 +443,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 69
+  "total_chapters": 70
 }
