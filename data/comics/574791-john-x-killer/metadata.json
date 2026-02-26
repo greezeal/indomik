@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-15T10:05:40.063080",
+  "scraped_at": "2026-02-26T18:36:34.483766",
   "alternative_titles": "존X킬러, The Ugly Killer, Freaky Killer",
   "status": "Berjalan",
   "author": "Melon Boy (메론뽀이)",
@@ -21,28 +21,40 @@
   "synopsis": "Manhwa                    John X Killer yang dibuat oleh komikus bernama\n                    Melon Boy (메론뽀이) ini bercerita tentang\n                    Dengan tingkat keberhasilan misi 100%, pembunuh paling sempurna di dunia, Jin!\r\nTapi dia punya satu kelemahan fatal,\r\nYaitu... wajahnya yang begitu jelek sampai-sampai bisa tercatat dalam sejarah!!!",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik John X Killer Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTI3Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik John X Killer Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTI2Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik John X Killer Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTI1Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik John X Killer Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTI0Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik John X Killer Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTIzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik John X Killer Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTIyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -60,7 +72,7 @@
       "chapter": "19",
       "title": "Komik John X Killer Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTE5Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -78,7 +90,7 @@
       "chapter": "16",
       "title": "Komik John X Killer Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTE2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -102,7 +114,7 @@
       "chapter": "12",
       "title": "Komik John X Killer Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTEyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -132,7 +144,7 @@
       "chapter": "7",
       "title": "Komik John X Killer Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvam9obi14LWtpbGxlci1jaGFwdGVyLTcv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -171,5 +183,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 27
 }

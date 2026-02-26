@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-25T05:17:01.860096",
+  "scraped_at": "2026-02-26T18:39:23.386342",
   "alternative_titles": "디펜스 게임의 폭군이 되었다",
   "status": "Berjalan",
   "author": "굥, 류은가람",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    I Became the Tyrant of a Defense Game yang dibuat oleh komikus bernama\n                    굥, 류은가람 ini bercerita tentang\n                    RPG Pertahanan Menara & Pelanggaran Bawah Tanah \r\nSaya melihat akhir permainan pada kesulitan yang tidak dapat diselesaikan oleh siapa pun.\r\nTetapi ketika Anda bangun, Anda curang dalam permainan.\r\nIni juga merupakan tahap tutorial yang tidak dapat diserang.\r\n\"Aku akan memastikan untuk menyelesaikannya, permainan pengemis ini...!\"",
   "chapters": [
     {
+      "chapter": "168",
+      "title": "Komik I Became the Tyrant of a Defense Game Chapter 168",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE2OC8=",
+      "date": "33 menit yang lalu"
+    },
+    {
       "chapter": "167",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE2Ny8=",
-      "date": "13 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "166",
@@ -42,7 +48,7 @@
       "chapter": "164",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE2NC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "163",
@@ -210,7 +216,7 @@
       "chapter": "136",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTEzNi8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "135",
@@ -234,7 +240,7 @@
       "chapter": "132",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTEzMi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "131",
@@ -342,7 +348,7 @@
       "chapter": "114",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTExNC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "113",
@@ -972,7 +978,7 @@
       "chapter": "9",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTkv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "8",
@@ -1023,5 +1029,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 167
+  "total_chapters": 168
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T17:47:31.501702",
-  "total_comics": 1061,
+  "last_updated": "2026-02-26T18:42:26.322452",
+  "total_comics": 1069,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -160,7 +160,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "in-the-land-of-leadale",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 31
+      "total_chapters": 36
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1054,9 +1054,9 @@
       "slug": "950994-isekai-wa-smartphone-to-tomo-ni",
       "title": "Isekai wa Smartphone to Tomo ni.",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.54,
+      "total_chapters": 112
     },
     {
       "slug": "all-hail-the-sect-leader",
@@ -1224,7 +1224,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "687103-the-genius-grandson-of-namgung-clan",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1344,7 +1344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 150
+      "total_chapters": 151
     },
     {
       "slug": "next-life",
@@ -1976,7 +1976,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.41,
-      "total_chapters": 130
+      "total_chapters": 131
     },
     {
       "slug": "the-villain-of-destiny",
@@ -2136,7 +2136,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 502
+      "total_chapters": 505
     },
     {
       "slug": "game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau",
@@ -2256,7 +2256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "the-last-master-of-jongnam-sect",
@@ -2896,7 +2896,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 47
+      "total_chapters": 49
     },
     {
       "slug": "soshiki-no-shukuteki-to-kekkon-shitara-mecha-amai",
@@ -3032,7 +3032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 48
     },
     {
       "slug": "510508-the-regressed-mercenarys-machinations",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 255
+      "total_chapters": 256
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -3808,7 +3808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 69
+      "total_chapters": 70
     },
     {
       "slug": "the-delivery-man-from-murim",
@@ -4152,7 +4152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 26
     },
     {
       "slug": "level-999-goblin",
@@ -4304,7 +4304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "153017-solo-max-level-newbie",
@@ -4344,7 +4344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 126
+      "total_chapters": 127
     },
     {
       "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors",
@@ -4952,7 +4952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "cosmic-heavenly-demon-3077",
@@ -5208,7 +5208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "soul-land-ii",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 475
+      "total_chapters": 491
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -6296,7 +6296,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "welcome-home-papa",
@@ -6448,7 +6448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 7
+      "total_chapters": 9
     },
     {
       "slug": "starting-with-ten-billion-spirit-stones-i-buy-out-the-fantasy-world",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 73
+      "total_chapters": 75
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -6624,7 +6624,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.53,
-      "total_chapters": 52
+      "total_chapters": 54
     },
     {
       "slug": "eiyuu-kyoushitsu",
@@ -7208,7 +7208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "i-owe-a-billion-dollars-and-i-am-forced-to-become-a-worker-for-an-evil-god",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "shamoneyism",
@@ -8448,7 +8448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.54,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "i-was-immediately-mistaken-for-a-monster-genius-actor",
@@ -8489,6 +8489,70 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 11
+    },
+    {
+      "slug": "kage-no-jitsuryokusha-ni-naritakute-shichikage-retsuden",
+      "title": "Kage no Jitsuryokusha ni Naritakute! Shichikage Retsuden",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.57,
+      "total_chapters": 17
+    },
+    {
+      "slug": "saikyou-onna-shish%d0%beu-tachi-ga-ikusei-houshin-o-megutte-shuraba",
+      "title": "Saikyou Onna Shishоu-tachi ga Ikusei Houshin o Megutte Shuraba",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.71,
+      "total_chapters": 21
+    },
+    {
+      "slug": "yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita",
+      "title": "Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 36
+    },
+    {
+      "slug": "watashi-ni-ai-wo-oshiete",
+      "title": "Watashi ni Ai wo Oshiete",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.31,
+      "total_chapters": 20
+    },
+    {
+      "slug": "ryoushin-no-shakkin-wo-katagawari-shite-morau-jouken-wa-nihonichi-kawaii-joshikousei-to-issho-ni-kurasu-koto",
+      "title": "Ryoushin no Shakkin wo Katagawari Shite Morau Jouken wa Nihon’ichi Kawaii Joshikousei to Issho ni Kurasu Koto",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.67,
+      "total_chapters": 43
+    },
+    {
+      "slug": "alien-headbutt",
+      "title": "Alien Headbutt",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "konsei-wa-goen-ga-arimasu-you-ni-quinpath-romance",
+      "title": "Konsei wa Goen ga Arimasu you ni! (Quinpath Romance)",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 27
+    },
+    {
+      "slug": "stop-im-falling-for-you",
+      "title": "Stop! I’m Falling For You",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }

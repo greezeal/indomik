@@ -1,0 +1,37 @@
+{
+  "slug": "alien-headbutt",
+  "title": "Alien Headbutt",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYWxpZW4taGVhZGJ1dHQv",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvS29taWstQWxpZW4tSGVhZGJ1dHQtMjIyeDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-02-26T18:41:03.861242",
+  "alternative_titles": "エイリアンヘッドバット, Alien Headbutt, Хэдбат пришельцам",
+  "status": "Berjalan",
+  "author": "Inui Shuutarou (乾修太朗)",
+  "illustrator": "Inui Shuutarou (乾修太朗)",
+  "themes": [
+    "Aliens",
+    "Martial Arts"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "synopsis": "Manga                    Alien Headbutt yang dibuat oleh komikus bernama\n                    Inui Shuutarou (乾修太朗) ini bercerita tentang\n                    Sebagai seorang pemuda, Shirokiba meninggalkan pulau kecilnya untuk mencari kejayaan sebagai pegulat profesional di Tokyo. Setelah banyak pengorbanan, ia kembali ke kampung halamannya sebagai juara, tetapi ia mendapati bahwa tempat itu telah dikuasai oleh alien misterius! Serang, lempar, tahan, curang! Ia perlu menggunakan semua yang telah dipelajarinya dari gulat profesional untuk mengalahkan monster-monster ini! Darah, keringat, dan alien yang babak belur dalam serial aksi gulat profesional berintensitas tinggi ini!",
+  "chapters": [
+    {
+      "chapter": "2",
+      "title": "Komik Alien Headbutt Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci0yLw==",
+      "date": "41 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Alien Headbutt Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci0xLw==",
+      "date": "41 menit yang lalu"
+    }
+  ],
+  "total_chapters": 2
+}

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.54,
-  "scraped_at": "2026-02-26T07:47:26.197106",
+  "scraped_at": "2026-02-26T18:36:44.738771",
   "alternative_titles": "I Got Caught Up In a Hero Summons, but the Other World was at Peace!, I Was Caught up in a Hero Summoning, but That World Is at Peace, 勇者召喚に巻き込まれたけど、異世界は平和でした",
   "status": "Berjalan",
   "author": "Toudai",
@@ -24,28 +24,34 @@
   "synopsis": "Manga                    Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita yang dibuat oleh komikus bernama\n                    Toudai ini bercerita tentang\n                    Tiba-tiba muncul di dunia berbeda, sepertinya aku terjebak dalam Pemanggilan Pahlawan. Dan tentu saja, aku bukan Pahlawan, tapi dia orang lain …… dan meskipun sangat berhati-hati dan takut dengan klise dari perkembangan klise, aku dilemparkan ke pusaran perang …… atau tidak. Raja Iblis? Itu dikalahkan seribu tahun yang lalu. Pahlawan? Dia hanya aktor utama dalam sebuah festival. Bangsawan? Mereka dengan baik hati merawat kita. Ras Iblis? Mereka memiliki hubungan yang baik dengan Manusia. Perang? Sudah 800 tahun sejak yang terakhir. Monster? Guild dan Order of Knight sedang mengurus mereka. Kembali ke Bumi? Akhirnya Tanpa Risiko. Apa yang saya rencanakan setelah terjebak dalam hal ini? Saya akan menikmati kehidupan di dunia yang berbeda sebanyak yang saya mau, pergi bertukar budaya dan jalan-jalan, dan setelah mengalami festival yang hanya diadakan sekali setiap sepuluh tahun… Saya akan pulang dengan selamat. < br> Dunia lain berada dalam kedamaian. Sebuah dunia yang baik di mana tiga ras, Ras Ajaib Dunia Jiwa, Ras Ilahi Dunia Surgawi, Ras Manusia Dunia Manusia, mereka adalah tetangga yang baik satu sama lain, dengan semua orang menjalani kehidupan yang damai dan memuaskan. Tetapi meskipun saya ingin menghabiskan waktu setahun sebelum kepulangan saya dengan damai, untuk beberapa alasan, kelas berat dunia ini terus berkumpul di sekitar saya, dan… Dan apa?",
   "chapters": [
     {
+      "chapter": "60",
+      "title": "Komik Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXNob3VrYW4tbmktbWFraWtvbWFyZXRhLWtlZG8taXNla2FpLXdhLWhlaXdhLWRlc2hpdGEtY2hhcHRlci02MC8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "59",
       "title": "Komik Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXNob3VrYW4tbmktbWFraWtvbWFyZXRhLWtlZG8taXNla2FpLXdhLWhlaXdhLWRlc2hpdGEtY2hhcHRlci01OS8=",
-      "date": "41 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXNob3VrYW4tbmktbWFraWtvbWFyZXRhLWtlZG8taXNla2FpLXdhLWhlaXdhLWRlc2hpdGEtY2hhcHRlci01OC8=",
-      "date": "41 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXNob3VrYW4tbmktbWFraWtvbWFyZXRhLWtlZG8taXNla2FpLXdhLWhlaXdhLWRlc2hpdGEtY2hhcHRlci01Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXNob3VrYW4tbmktbWFraWtvbWFyZXRhLWtlZG8taXNla2FpLXdhLWhlaXdhLWRlc2hpdGEtY2hhcHRlci01Ni8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -402,5 +408,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }
