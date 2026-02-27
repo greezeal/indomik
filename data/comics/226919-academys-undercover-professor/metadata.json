@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.05,
-  "scraped_at": "2026-02-26T21:41:27.134076",
+  "scraped_at": "2026-02-27T23:42:12.456246",
   "alternative_titles": "아카데미에 위장취업당했다, I Got a Fake Job at the Academy, Я получил фальшивую работу в академии",
   "status": "Berjalan",
   "author": "sayren, Tana (타나)",
@@ -30,10 +30,16 @@
   "synopsis": "Manhwa                    Academy’s Undercover Professor yang dibuat oleh komikus bernama\n                    sayren, Tana (타나) ini bercerita tentang\n                    Saya tidak dilahirkan kembali dengan bakat atau kemampuan, tetapi setidaknya pengetahuan saya dari bumi memungkinkan saya untuk tetap selangkah lebih maju di dunia lain ini.\r\n\r\nSihir ada di sini, dan kemajuan baru dengan cepat dibuat dalam sains sementara sihir mandek atas nama tradisi. Menggunakan pengetahuan duniawi saya dan tidak terikat oleh pemikiran tradisional, saya dapat melakukan hal-hal yang bahkan tidak dapat dibayangkan oleh penyihir lain.\r\n\r\nTetap saja, secara tidak sengaja menjadi profesor yang menyamar untuk perkumpulan rahasia misterius di akademi Sören yang terkenal tidak pernah ada dalam daftar tugas saya!",
   "chapters": [
     {
+      "chapter": "158",
+      "title": "Komik Academy’s Undercover Professor Chapter 158",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNhZGVteXMtdW5kZXJjb3Zlci1wcm9mZXNzb3ItY2hhcHRlci0xNTgv",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "157",
       "title": "Komik Academy’s Undercover Professor Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNhZGVteXMtdW5kZXJjb3Zlci1wcm9mZXNzb3ItY2hhcHRlci0xNTcv",
-      "date": "16 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "156",
@@ -978,5 +984,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 158
+  "total_chapters": 159
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-23T10:39:45.167801",
+  "scraped_at": "2026-02-27T23:36:12.042278",
   "alternative_titles": "Killer Pedro, 킬러 배드로",
   "status": "Berjalan",
   "author": "Kim Jung-Hyun",
@@ -18,40 +18,46 @@
   "synopsis": "Manhwa                    Killer Peter yang dibuat oleh komikus bernama\n                    Kim Jung-Hyun ini bercerita tentang\n                    Kolaborasi dari author White Blood (Im Lina) dan How to Fight (Kim Jeonghyun)\r\n\r\nSi Pembunuh Tua yang dikhianati telah kembali! Namun… tidak ada yang mengenaliku?! “Kalau begitu, akulah yang terkuat!”",
   "chapters": [
     {
+      "chapter": "120",
+      "title": "Komik Killer Peter Chapter 120",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTIwLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "119",
       "title": "Komik Killer Peter Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTE5Lw==",
-      "date": "18 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik Killer Peter Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTE4Lw==",
-      "date": "1 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Killer Peter Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTE3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik Killer Peter Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTE2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "115",
       "title": "Komik Killer Peter Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTE1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "114",
       "title": "Komik Killer Peter Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTE0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "113",
@@ -63,7 +69,7 @@
       "chapter": "112",
       "title": "Komik Killer Peter Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItMTEyLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "111",
@@ -147,7 +153,7 @@
       "chapter": "98",
       "title": "Komik Killer Peter Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItOTgv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "97",
@@ -171,19 +177,19 @@
       "chapter": "94",
       "title": "Komik Killer Peter Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItOTQv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Killer Peter Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItOTMv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Killer Peter Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGVyLXBldGVyLWNoYXB0ZXItOTIv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "91",
@@ -732,5 +738,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 119
+  "total_chapters": 120
 }

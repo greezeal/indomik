@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-21T11:03:45.216200",
+  "scraped_at": "2026-02-27T23:41:36.186959",
   "alternative_titles": "いつか宇宙から, Itsuka Uchuu kara, いつか宇宙〈そら〉から",
   "status": "Berjalan",
   "author": "Nishimori Hiroyuki",
@@ -24,17 +24,23 @@
   "synopsis": "Manga                    Itsuka Sora kara yang dibuat oleh komikus bernama\n                    Nishimori Hiroyuki ini bercerita tentang\n                    Nakagawa Yuki, seorang anak laki-laki populer di sekolah, menjalani kehidupan yang memuaskan, selalu meyakinkan teman-temannya Shinichi dan Midori bahwa dia bahagia. Namun, pada ulang tahunnya yang ke-17, ayahnya mengatakan kepadanya, \"Kau adalah alien,\" dan dia menemukan bahwa dia telah membangkitkan kemampuan untuk berubah menjadi orang lain. Kemudian, secara kebetulan, Shinichi dan Midori melihat Yuki berubah menjadi seorang perempuan, dan Shinichi jatuh cinta padanya pada pandangan pertama...",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Itsuka Sora kara Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWthLXNvcmEta2FyYS1jaGFwdGVyLTMv",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Itsuka Sora kara Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWthLXNvcmEta2FyYS1jaGFwdGVyLTIv",
-      "date": "27 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Itsuka Sora kara Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXRzdWthLXNvcmEta2FyYS1jaGFwdGVyLTEv",
-      "date": "27 menit yang lalu"
+      "date": "7 hari yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T22:59:00.614976",
-  "total_comics": 1069,
+  "last_updated": "2026-02-27T23:43:21.063823",
+  "total_comics": 1075,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -24,7 +24,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 158
+      "total_chapters": 159
     },
     {
       "slug": "427649-the-delusional-hunter-in-another-world",
@@ -240,7 +240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 81
     },
     {
       "slug": "remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta",
@@ -440,7 +440,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 115
+      "total_chapters": 118
     },
     {
       "slug": "mikoto-chan-wa-kirawaretakunai",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1112,7 +1112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "322911-rookie-but-one-in-a-million-actor",
@@ -1400,7 +1400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.06,
-      "total_chapters": 86
+      "total_chapters": 88
     },
     {
       "slug": "leveling-up-with-skills",
@@ -1750,9 +1750,9 @@
       "slug": "772210-versus",
       "title": "VERSUS",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.88,
+      "total_chapters": 36
     },
     {
       "slug": "akuyaku-reijo-ni-one-ga-tensei-shitakedo-nanimo-mondai-ga-naiken",
@@ -2262,9 +2262,9 @@
       "slug": "the-last-master-of-jongnam-sect",
       "title": "The Last Master of Jongnam Sect",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
     },
     {
       "slug": "office-worker-in-the-ice-age-apocalypse",
@@ -2366,9 +2366,9 @@
       "slug": "konya-coin-randorii-de-aimashou",
       "title": "Kon’ya Coin Randorii de Aimashou",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.17,
+      "total_chapters": 9
     },
     {
       "slug": "surviving-in-a-school-of-ghost-stories",
@@ -2776,7 +2776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.5,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
@@ -3008,7 +3008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.01,
-      "total_chapters": 355
+      "total_chapters": 356
     },
     {
       "slug": "i-quit-the-heros-party",
@@ -3640,7 +3640,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "reborn-on-the-demonic-cult-battlefield",
@@ -3774,9 +3774,9 @@
       "slug": "826573-ill-retire-after-saving-the-world",
       "title": "I’ll Retire After Saving the World",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 88
     },
     {
       "slug": "high-school-musical-genius-is-paganini-reincarnated",
@@ -3864,7 +3864,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 416
+      "total_chapters": 417
     },
     {
       "slug": "uesugi-kun-wa-onnanoko-wo-yametai",
@@ -4080,7 +4080,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "the-berserkers-second-playthrough",
@@ -4112,7 +4112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "tensei-shitara-ken-deshita",
@@ -4336,7 +4336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 217
+      "total_chapters": 218
     },
     {
       "slug": "the-rebirth-of-the-heros-partys-archmage",
@@ -4368,7 +4368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 96
     },
     {
       "slug": "345461-overgeared",
@@ -4376,7 +4376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.59,
-      "total_chapters": 313
+      "total_chapters": 314
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4496,7 +4496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 80
     },
     {
       "slug": "voice-phishing-turns-your-life-around",
@@ -4616,7 +4616,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.73,
-      "total_chapters": 324
+      "total_chapters": 325
     },
     {
       "slug": "reincarnation-of-the-fist-king",
@@ -5512,7 +5512,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 491
+      "total_chapters": 496
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -6432,7 +6432,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.86,
-      "total_chapters": 187
+      "total_chapters": 188
     },
     {
       "slug": "kyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru",
@@ -6936,7 +6936,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.42,
-      "total_chapters": 264
+      "total_chapters": 265
     },
     {
       "slug": "magia-record-mahou-shoujo-madoka%e2%98%86magica-gaiden",
@@ -7080,7 +7080,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "211615-souzai-saishuka-no-isekai-ryokouki",
@@ -7216,7 +7216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 38
     },
     {
       "slug": "887850-jungle-juice",
@@ -7640,7 +7640,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita",
@@ -7752,7 +7752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "mahou-shoujo-fuusen-wo-ane-kara-moratte-nani-ka-ni-mezameru-shounen",
@@ -7808,7 +7808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 727
+      "total_chapters": 728
     },
     {
       "slug": "tensei-shitara-dragon-no-tamago-datta-ibara-no-dragon-road",
@@ -7824,7 +7824,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 7
     },
     {
       "slug": "chikasugiru-futari",
@@ -7840,7 +7840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "saigo-no-natsu-wo-hitozuma-to",
@@ -7944,7 +7944,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "mikogami-karen-no-kakushigoto",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "shamoneyism",
@@ -8553,6 +8553,54 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 3
+    },
+    {
+      "slug": "355041-the-kingdom-of-ruin",
+      "title": "The Kingdom of Ruin",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.67,
+      "total_chapters": 67
+    },
+    {
+      "slug": "tonari-no-seki-no-yankee-shimizu-san-ga-kami-o-kuroku-sometekita",
+      "title": "Tonari no Seki no Yankee Shimizu-san ga Kami o Kuroku Sometekita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.19,
+      "total_chapters": 16
+    },
+    {
+      "slug": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
+      "title": "Tenkaichi – Nihon Saikyou Bugeisha Ketteisen",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.67,
+      "total_chapters": 63
+    },
+    {
+      "slug": "475223-day-walker",
+      "title": "Day Walker",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 67
+    },
+    {
+      "slug": "teisou-gyakuten-sekai-nara-moteru-to-omotte-itara",
+      "title": "Teisou Gyakuten Sekai Nara Moteru to Omotte Itara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.81,
+      "total_chapters": 4
+    },
+    {
+      "slug": "675026-blue-lock",
+      "title": "Blue Lock",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.89,
+      "total_chapters": 335
     }
   ]
 }
