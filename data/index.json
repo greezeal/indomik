@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T18:21:15.617981",
-  "total_comics": 1081,
+  "last_updated": "2026-02-28T19:33:46.621945",
+  "total_comics": 1083,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -8,7 +8,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.1,
-      "total_chapters": 277
+      "total_chapters": 278
     },
     {
       "slug": "151235-reincarnation-of-the-murim-clans-former-ranker",
@@ -32,7 +32,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 77
     },
     {
       "slug": "462789-the-tutorial-is-too-hard",
@@ -120,7 +120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 124
+      "total_chapters": 125
     },
     {
       "slug": "genius-blacksmiths-game",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 46
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -3008,7 +3008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.01,
-      "total_chapters": 356
+      "total_chapters": 357
     },
     {
       "slug": "i-quit-the-heros-party",
@@ -4160,7 +4160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 42
     },
     {
       "slug": "bocchi-tenseiki",
@@ -8224,7 +8224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.68,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "dog-matic",
@@ -8288,7 +8288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 3
     },
     {
       "slug": "please-dont-die",
@@ -8649,6 +8649,22 @@
       "status": "Berjalan",
       "rating": 7.46,
       "total_chapters": 65
+    },
+    {
+      "slug": "412892-may-i-ask-for-one-final-thing",
+      "title": "May I Ask for One Final Thing?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.85,
+      "total_chapters": 59
+    },
+    {
+      "slug": "guuzen-tasuketa-bishoujo-ga-naze-ka-ore-ni-natsuite-shimatta-ken-ni-tsuite",
+      "title": "Guuzen Tasuketa Bishoujo ga Naze ka Ore ni Natsuite Shimatta Ken ni Tsuite",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }
