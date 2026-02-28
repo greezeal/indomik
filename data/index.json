@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T09:02:01.467913",
-  "total_comics": 1077,
+  "last_updated": "2026-02-28T09:46:25.866354",
+  "total_comics": 1081,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -1310,9 +1310,9 @@
       "slug": "outside-of-time",
       "title": "Outside of Time",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
     },
     {
       "slug": "305039-the-youngest-son-of-a-rich-family",
@@ -2280,7 +2280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 130
+      "total_chapters": 131
     },
     {
       "slug": "308020-leveling-with-the-gods",
@@ -2968,7 +2968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "extraordinary-world-me-a-vampire",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 172
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4224,7 +4224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 123
+      "total_chapters": 124
     },
     {
       "slug": "154181-majo-to-youhei",
@@ -4424,7 +4424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 45
     },
     {
       "slug": "712275-killer-peter",
@@ -4584,7 +4584,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 140
+      "total_chapters": 141
     },
     {
       "slug": "885552-manager-kim",
@@ -5640,7 +5640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "mr-war%ea%9e%89-the-strongest-ex-soldier",
@@ -7248,7 +7248,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.4,
-      "total_chapters": 32
+      "total_chapters": 34
     },
     {
       "slug": "initializing-the-sect-system",
@@ -7408,7 +7408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 211
+      "total_chapters": 212
     },
     {
       "slug": "the-black-haired-american-grand-marshal",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -7920,7 +7920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "koi-yori-aoku",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 147
+      "total_chapters": 148
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -8617,6 +8617,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 7
+    },
+    {
+      "slug": "akatsuki-no-yona",
+      "title": "Akatsuki no Yona",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.33,
+      "total_chapters": 278
+    },
+    {
+      "slug": "536653-kobayashi-san-chi-no-maid-dragon-elma-ol-nikki",
+      "title": "Kobayashi-san Chi no Maid Dragon: Elma OL Nikki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.3,
+      "total_chapters": 3
+    },
+    {
+      "slug": "kougekiryoku-zero-kara-hajimeru-kenseitan",
+      "title": "Kougekiryoku Zero Kara Hajimeru Kenseitan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.5,
+      "total_chapters": 8
+    },
+    {
+      "slug": "i-will-live-freely-in-another-world-with-equipment-manufacturing-cheat",
+      "title": "I Will Live Freely in Another World with Equipment Manufacturing Cheat",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 65
     }
   ]
 }
