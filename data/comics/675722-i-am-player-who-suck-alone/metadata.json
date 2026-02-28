@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.59,
-  "scraped_at": "2026-02-26T15:44:08.379923",
+  "scraped_at": "2026-02-28T07:04:23.149494",
   "alternative_titles": "Solo Bug Player, Bug Player, Bug using Player, Glitch Master, I'm a player that will use all the Bugs, I'm a player, that will alone benefit from the Bugs, Na Hollo Beogeulo Kkulppaneun Peulleieo, Solo Bug-using Player, بازیکنی که از باگ استفاده می‌کنه, بازیکنی‌ام که از تمام باگ‌ها استفاده می‌کنم, باگ پلیر, سولو باگ پلیر, سولو باگ یوزینگ پلیر, บั๊ก เพลย์เยอร์, 나 홀로 버그로 꿀빠는 플레이어",
   "status": "Hiatus",
   "author": "청초",
@@ -26,10 +26,16 @@
   "synopsis": "Manhwa                    I Am Player Who Suck Alone yang dibuat oleh komikus bernama\n                    청초 ini bercerita tentang\n                    Kematian mendadak setelah semalaman dan pekerjaan konyol yang bermain game ?! Yang menyapa saya setelah membuka mata saya adalah kenyataan bahwa saya berada di dunia . Dan di atas semua itu, saya terjebak dalam tubuh yang sangat vulgar, gemuk, ekstra dari seorang bangsawan. Yang terburuk dari yang terburuk. Saya bereinkarnasi ke dalam tubuh Jared! Sial! Semua protagonis dalam buku atau film itu lahir dari keluarga kaya yang bodoh, dibesarkan dengan kekayaan dan kekayaan! Aku akan sampai ke puncak secepat mungkin! Saya akan berhasil dan tumbuh! Baik saya menggunakan bug atau peretasan, tidak apa-apa! Awal dari dunia diet intens dan penyalahgunaan serangga yang menantang dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "175",
+      "title": "Komik I Am Player Who Suck Alone Chapter 175",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbS1wbGF5ZXItd2hvLXN1Y2stYWxvbmUtY2hhcHRlci0xNzUv",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "174",
       "title": "Komik I Am Player Who Suck Alone Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbS1wbGF5ZXItd2hvLXN1Y2stYWxvbmUtY2hhcHRlci0xNzQv",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "173",
@@ -41,13 +47,13 @@
       "chapter": "172",
       "title": "Komik I Am Player Who Suck Alone Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbS1wbGF5ZXItd2hvLXN1Y2stYWxvbmUtY2hhcHRlci0xNzIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik I Am Player Who Suck Alone Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbS1wbGF5ZXItd2hvLXN1Y2stYWxvbmUtY2hhcHRlci0xNzEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "170",
@@ -119,7 +125,7 @@
       "chapter": "159",
       "title": "Komik I Am Player Who Suck Alone Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbS1wbGF5ZXItd2hvLXN1Y2stYWxvbmUtY2hhcHRlci0xNTkv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "158",
@@ -197,7 +203,7 @@
       "chapter": "146",
       "title": "Komik I Am Player Who Suck Alone Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbS1wbGF5ZXItd2hvLXN1Y2stYWxvbmUtY2hhcHRlci0xNDYv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "145",
@@ -617,7 +623,7 @@
       "chapter": "76",
       "title": "Komik I Am Player Who Suck Alone Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbS1wbGF5ZXItd2hvLXN1Y2stYWxvbmUtY2hhcHRlci03Ni8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "75",
@@ -1076,5 +1082,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 175
+  "total_chapters": 176
 }

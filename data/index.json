@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T06:27:07.552295",
-  "total_comics": 1075,
+  "last_updated": "2026-02-28T07:10:06.588928",
+  "total_comics": 1077,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 829
+      "total_chapters": 831
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "70-meter-girl",
@@ -1782,9 +1782,9 @@
       "slug": "938141-tensei-shitara-slime-datta-ken",
       "title": "Tensei Shitara Slime Datta Ken",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 9.2,
+      "total_chapters": 141
     },
     {
       "slug": "the-turn-bound-mage",
@@ -2032,7 +2032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "a-court-magician-who-was-focused-on-supportive-magic-because-his-allies-were-too-weak-aims-to-become-the-strongest-after-being-banished",
@@ -2176,7 +2176,7 @@
       "type": "Manhwa",
       "status": "Hiatus",
       "rating": 8.59,
-      "total_chapters": 175
+      "total_chapters": 176
     },
     {
       "slug": "tower-of-god-side-story-urek-mazino",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 39
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -3568,7 +3568,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "323193-a-stepmothers-marchen",
@@ -4408,7 +4408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.33,
-      "total_chapters": 1220
+      "total_chapters": 1221
     },
     {
       "slug": "bad-business",
@@ -5288,7 +5288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.54,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "netoge-no-yome-ga-ninki-idol-datta",
@@ -6208,7 +6208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "the-genius-who-sees-through-the-world",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -6784,7 +6784,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "megami-to-kekkon-shite-isekai-de-shinkon-seikatsu",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 69
+      "total_chapters": 72
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7544,7 +7544,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 60
+      "total_chapters": 63
     },
     {
       "slug": "the-hero-directed-by-the-demon-king",
@@ -8392,7 +8392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 128
+      "total_chapters": 131
     },
     {
       "slug": "the-corrupt-official-hides-the-status-window",
@@ -8601,6 +8601,22 @@
       "status": "Berjalan",
       "rating": 8.89,
       "total_chapters": 335
+    },
+    {
+      "slug": "isekai-nonbiri-nouka",
+      "title": "Isekai Nonbiri Nouka",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.01,
+      "total_chapters": 286
+    },
+    {
+      "slug": "520069-isekai-tensei-shitara-aiken-ga-saikyou-ni-narimashita-silver-fenrir-to-ore-ga-isekai-kurashi-wo-hajimetara",
+      "title": "Isekai Tensei Shitara Aiken ga Saikyou ni Narimashita: Silver Fenrir to Ore ga Isekai Kurashi wo Hajimetara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.1,
-  "scraped_at": "2026-02-18T05:12:23.588876",
+  "scraped_at": "2026-02-28T07:06:56.768100",
   "alternative_titles": "The Spy Life in the Demonic Sect, 첩자의 마교생활",
   "status": "Berjalan",
   "author": "DAE Eunho",
@@ -24,22 +24,28 @@
   "synopsis": "Manhwa                    A Spy’s Survival in the Demonic Cult yang dibuat oleh komikus bernama\n                    DAE Eunho ini bercerita tentang\n                    Jang Yiseo, seorang mata-mata dari Aliansi Murim yang menyusup ke Sekte Iblis, diberi misi pertama dan terakhirnya. Untuk menjadikan Tuan Muda Ketujuh yang terkenal sulit diatur, Ma-oh, sebagai Wakil Pemimpin Sekte! Meskipun memiliki kecakapan bela diri yang luar biasa, potensi Yiseo terhalang oleh konstitusinya yang lemah. Sementara itu, Ma-Oh, kekuatan yang luar biasa namun tidak dapat diprediksi, berjalan di garis tipis antara kejeniusan dan kegilaan. Saat nasib mereka saling terkait, keduanya harus menghadapi pengkhianatan, perebutan kekuasaan, dan risiko yang selalu ada untuk terungkap. Bisakah Jang Yiseo membuat Ma-Oh naik ke peringkat kedua setelah Pemimpin Sekte, atau akankah bayangan melahap mereka terlebih dahulu?",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik A Spy’s Survival in the Demonic Cult Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zcHlzLXN1cnZpdmFsLWluLXRoZS1kZW1vbmljLWN1bHQtY2hhcHRlci0xNi8=",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik A Spy’s Survival in the Demonic Cult Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zcHlzLXN1cnZpdmFsLWluLXRoZS1kZW1vbmljLWN1bHQtY2hhcHRlci0xNS8=",
-      "date": "20 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik A Spy’s Survival in the Demonic Cult Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zcHlzLXN1cnZpdmFsLWluLXRoZS1kZW1vbmljLWN1bHQtY2hhcHRlci0xNC8=",
-      "date": "3 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik A Spy’s Survival in the Demonic Cult Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zcHlzLXN1cnZpdmFsLWluLXRoZS1kZW1vbmljLWN1bHQtY2hhcHRlci0xMy8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -114,5 +120,5 @@
       "date": "12 bulan yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 16
 }
