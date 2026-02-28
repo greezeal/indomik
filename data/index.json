@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T15:34:03.716433",
+  "last_updated": "2026-02-28T16:42:58.291916",
   "total_comics": 1081,
   "comics": [
     {
@@ -64,7 +64,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 199
+      "total_chapters": 200
     },
     {
       "slug": "593213-the-lords-coins-arent-decreasing",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -1422,9 +1422,9 @@
       "slug": "i-took-over-the-system-players",
       "title": "I Took Over The System Players",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.96,
+      "total_chapters": 167
     },
     {
       "slug": "my-female-apprentices-are-all-big-shots-from-the-future",
@@ -3720,7 +3720,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 354
+      "total_chapters": 355
     },
     {
       "slug": "lostend",
@@ -3800,7 +3800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
@@ -4576,7 +4576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
@@ -6048,7 +6048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 114
+      "total_chapters": 116
     },
     {
       "slug": "ice-lord",
@@ -6256,7 +6256,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 29
+      "total_chapters": 35
     },
     {
       "slug": "jibun-no-koto-o-shujinkouda-to-shinjite-yamanai-fumidai-ga-shujinkou-o-fumidai-da-to-kanchigai-shite-yuushou-shite-shimau-o-hanashi-desu",
@@ -7392,7 +7392,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "empyreal-cabinet",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -7872,7 +7872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 122
+      "total_chapters": 123
     },
     {
       "slug": "youngest-scion-of-the-mages",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "shamoneyism",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 29
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",

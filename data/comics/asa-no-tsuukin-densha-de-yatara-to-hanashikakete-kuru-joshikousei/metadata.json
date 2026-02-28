@@ -2,11 +2,11 @@
   "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
   "title": "Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei.",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYXNhLW5vLXRzdXVraW4tZGVuc2hhLWRlLXlhdGFyYS10by1oYW5hc2hpa2FrZXRlLWt1cnUtam9zaGlrb3VzZWkv",
-  "cover_url": "",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvS29taWstQXNhLW5vLVRzdXVraW4tRGVuc2hhLWRlLVlhdGFyYS10by1IYW5hc2hpa2FrZXRlLUt1cnUtSm9zaGlrb3VzZWktMjI0eDMxOS5qcGc=",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-18T05:10:25.603352",
+  "scraped_at": "2026-02-28T16:39:06.071080",
   "alternative_titles": "朝の通勤電車で、やたらと話しかけてくる女子高生。, The High School Girl Who Randomly Talks to Me on the Morning Commuter Train., Una chica de preparatoria que me habla mucho en el tren de la mañana camino al trabajo",
   "status": "Berjalan",
   "author": "Zombie Masuo (鱒尾鱒尾)",
@@ -22,29 +22,35 @@
   "synopsis": "Manga                    Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei. yang dibuat oleh komikus bernama\n                    Zombie Masuo (鱒尾鱒尾) ini bercerita tentang\n                    Aku benci pergi ke kantor di pagi hari, dan harus naik kereta yang penuh sesak membuat semuanya semakin buruk! Bagaimana jika kamu bisa sedikit mengurangi rasa lesu di pagi hari? Ini adalah kisah pertemuan dengan seorang wanita ceria, untuk semua pekerja keras yang merasa terjebak dalam perjalanan pagi mereka!",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei. Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNhLW5vLXRzdXVraW4tZGVuc2hhLWRlLXlhdGFyYS10by1oYW5hc2hpa2FrZXRlLWt1cnUtam9zaGlrb3VzZWktY2hhcHRlci01Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei. Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNhLW5vLXRzdXVraW4tZGVuc2hhLWRlLXlhdGFyYS10by1oYW5hc2hpa2FrZXRlLWt1cnUtam9zaGlrb3VzZWktY2hhcHRlci00Lw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei. Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNhLW5vLXRzdXVraW4tZGVuc2hhLWRlLXlhdGFyYS10by1oYW5hc2hpa2FrZXRlLWt1cnUtam9zaGlrb3VzZWktY2hhcHRlci0zLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei. Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNhLW5vLXRzdXVraW4tZGVuc2hhLWRlLXlhdGFyYS10by1oYW5hc2hpa2FrZXRlLWt1cnUtam9zaGlrb3VzZWktY2hhcHRlci0yLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Asa no Tsuukin Densha de, Yatara to Hanashikakete Kuru Joshikousei. Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNhLW5vLXRzdXVraW4tZGVuc2hhLWRlLXlhdGFyYS10by1oYW5hc2hpa2FrZXRlLWt1cnUtam9zaGlrb3VzZWktY2hhcHRlci0xLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }
