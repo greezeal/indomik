@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T11:46:44.279531",
+  "last_updated": "2026-02-28T12:05:36.772100",
   "total_comics": 1081,
   "comics": [
     {
@@ -512,7 +512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 84
+      "total_chapters": 86
     },
     {
       "slug": "bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken",
@@ -1478,9 +1478,9 @@
       "slug": "shiunji-ke-no-kodomo-tachi",
       "title": "Shiunji-ke no kodomo-tachi",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.78,
+      "total_chapters": 66
     },
     {
       "slug": "houkago-no-luminous",
@@ -2304,7 +2304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -7272,7 +7272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "984731-night-of-the-soulless-heathens",
@@ -8192,7 +8192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.22,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "immature-succubus",
@@ -8440,7 +8440,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.11,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita",

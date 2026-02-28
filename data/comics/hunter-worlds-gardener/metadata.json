@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.11,
-  "scraped_at": "2026-02-26T07:45:05.923579",
+  "scraped_at": "2026-02-28T12:00:45.128564",
   "alternative_titles": "Gardener in Hunter's World, Gardener of the Hunter World, The Gardener in a Hunter World, 헌터 세상의 정원사",
   "status": "Berjalan",
   "author": "Jeon Jeon-Tae, Sliber, Story Ark",
@@ -19,16 +19,22 @@
   "synopsis": "Manhwa                    Hunter World’s Gardener yang dibuat oleh komikus bernama\n                    Jeon Jeon-Tae, Sliber, Story Ark ini bercerita tentang\n                    Jiha, pemburu kelas buruh terlemah yang tidak memiliki keterampilan atau kemampuan bertarung, mencari nafkah dengan menjalankan toko sambil memegang peringkat pemburu terendah.\r\n\r\nNamun suatu hari, hidupnya sebagai pemburu berubah ketika ia memasuki taman dari dimensi berbeda melalui mimpinya...\r\n\r\n \r\n\r\n'Aku memperoleh keterampilan hanya dengan menanam satu ranting...?'\r\n\r\nPetualangan uniknya sebagai satu-satunya tukang kebun di dunia pemburu dimulai.",
   "chapters": [
     {
+      "chapter": "98",
+      "title": "Komik Hunter World’s Gardener Chapter 98",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTk4Lw==",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "97",
       "title": "Komik Hunter World’s Gardener Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTk3Lw==",
-      "date": "18 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "96",
       "title": "Komik Hunter World’s Gardener Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTk2Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "95",
@@ -286,7 +292,7 @@
       "chapter": "53",
       "title": "Komik Hunter World’s Gardener Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTUzLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "52",
@@ -601,5 +607,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 97
+  "total_chapters": 98
 }
