@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-01T08:01:49.988554",
+  "scraped_at": "2026-03-01T11:06:27.809983",
   "alternative_titles": "Sentai Daishikkaku, Боевой отряд «Полный Провал», ขบวนการกำมะลอ (Thai), 戦隊大失格",
   "status": "Berjalan",
   "author": "Haruba Negi",
@@ -19,6 +19,36 @@
   ],
   "synopsis": "Manga                    Ranger Reject yang dibuat oleh komikus bernama\n                    Haruba Negi ini bercerita tentang\n                    Tiga belas tahun yang lalu, tiba-tiba Tentara Penjahat jahat muncul di kastil terapung raksasa mereka 10.000 meter di langit untuk menyerang Bumi! Tentara jahat memiliki kemampuan menghidupkan kembali yang membuat mereka abadi, menjadikannya ancaman serius bagi umat manusia. Untuk melindungi kita dari penyerang ini, Penjaga Naga Ilahi, Penjaga Naga, menggunakan kekuatan ajaib dan senjata mereka, Alat Ilahi, dan terus berjuang demi keselamatan kita! Serangan Tentara Penjahat! Kewaspadaan dari Penjaga Naga! Akankah mereka berhasil dalam penaklukan mereka…? Cari tahu di seri pahlawan super penuh aksi seumur hidup!",
   "chapters": [
+    {
+      "chapter": "70",
+      "title": "Komik Ranger Reject Chapter 70",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuZ2VyLXJlamVjdC1jaGFwdGVyLTcwLw==",
+      "date": "44 menit yang lalu"
+    },
+    {
+      "chapter": "69",
+      "title": "Komik Ranger Reject Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuZ2VyLXJlamVjdC1jaGFwdGVyLTY5Lw==",
+      "date": "44 menit yang lalu"
+    },
+    {
+      "chapter": "68",
+      "title": "Komik Ranger Reject Chapter 68",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuZ2VyLXJlamVjdC1jaGFwdGVyLTY4Lw==",
+      "date": "44 menit yang lalu"
+    },
+    {
+      "chapter": "67",
+      "title": "Komik Ranger Reject Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuZ2VyLXJlamVjdC1jaGFwdGVyLTY3Lw==",
+      "date": "44 menit yang lalu"
+    },
+    {
+      "chapter": "66",
+      "title": "Komik Ranger Reject Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuZ2VyLXJlamVjdC1jaGFwdGVyLTY2Lw==",
+      "date": "44 menit yang lalu"
+    },
     {
       "chapter": "65",
       "title": "Komik Ranger Reject Chapter 65",
@@ -185,13 +215,13 @@
       "chapter": "38",
       "title": "Komik Ranger Reject Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuZ2VyLXJlamVjdC1jaGFwdGVyLTM4Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Ranger Reject Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuZ2VyLXJlamVjdC1jaGFwdGVyLTM3Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -404,5 +434,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 69
 }

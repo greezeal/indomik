@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.17,
-  "scraped_at": "2026-03-01T08:03:30.433167",
+  "scraped_at": "2026-03-01T11:07:17.601786",
   "alternative_titles": "Reencarnado como o terceiro filho do Grão-Duque, 환생했더니 대공의 셋째 아들",
   "status": "Berjalan",
   "author": "BELF",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    Reincarnated as the Archduke’s Son yang dibuat oleh komikus bernama\n                    BELF ini bercerita tentang\n                    Seorang kapten tentara bayaran tewas di medan perang, tanpa pernah mencapai kemajuan dalam hidup karena garis keturunannya yang rendah. Ketika ia membuka matanya kembali, ia mengetahui bahwa ia telah bereinkarnasi sebagai putra ketiga seorang adipati agung — kini diberkati dengan keluarga bergengsi, status, dan bakat bawaan yang selalu ia impikan.\r\n\r\nDengan pengalaman tempur sebagai mantan komandan tentara bayaran dan keuntungan dari kelahiran bangsawan, ia memutuskan hanya ada satu jalan tersisa: mendaki sampai ke puncak.\r\n\r\nDemikianlah dimulainya kehidupan beraninya, \"dari mantan tentara bayaran menjadi bangsawan tinggi,\" saat ia mengguncang masyarakat aristokrat sambil hidup sebagai putra ketiga adipati agung.",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Reincarnated as the Archduke’s Son Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLXRoZS1hcmNoZHVrZXMtc29uLWNoYXB0ZXItMjAv",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Reincarnated as the Archduke’s Son Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLXRoZS1hcmNoZHVrZXMtc29uLWNoYXB0ZXItMTkv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -137,5 +143,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }
