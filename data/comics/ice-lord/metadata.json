@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-01T16:39:40.190255",
+  "scraped_at": "2026-03-01T17:39:20.871067",
   "alternative_titles": "얼음군주, The Royal Frozen",
   "status": "Berjalan",
   "author": "Valen,Tim Croissant",
@@ -24,16 +24,28 @@
   "synopsis": "Manhwa                    Ice Lord yang dibuat oleh komikus bernama\n                    Valen,Tim Croissant ini bercerita tentang\n                    Pada usia dua puluh tahun, Seol Mudok, seorang ahli pedang, menjadi Penguasa Istana Es Laut Utara. Jatuh ke dalam keputusasaan setelah kematian kekasihnya, ia menemukan bahwa dengan bunga legendaris, “Lotus Cinta”, kekasihnya yang telah meninggal telah bereinkarnasi. Dalam pencariannya, dia turun ke dunia lain…",
   "chapters": [
     {
+      "chapter": "64",
+      "title": "Komik Ice Lord Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02NC8=",
+      "date": "34 menit yang lalu"
+    },
+    {
+      "chapter": "63",
+      "title": "Komik Ice Lord Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02My8=",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "62",
       "title": "Komik Ice Lord Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02Mi8=",
-      "date": "9 menit yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Ice Lord Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02MS8=",
-      "date": "10 menit yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "60",
@@ -402,5 +414,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 65
 }

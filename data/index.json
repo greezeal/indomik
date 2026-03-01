@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T17:00:55.697975",
-  "total_comics": 1088,
+  "last_updated": "2026-03-01T17:41:10.226775",
+  "total_comics": 1089,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -344,7 +344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 174
+      "total_chapters": 175
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 298
+      "total_chapters": 300
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1102,9 +1102,9 @@
       "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
       "title": "I Was More Overpowered Than the Hero, so I Hid My Power!",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.25,
+      "total_chapters": 100
     },
     {
       "slug": "exorcist-wo-otosenai",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 53
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1966,9 +1966,9 @@
       "slug": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru",
       "title": "Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.5,
+      "total_chapters": 44
     },
     {
       "slug": "versatile-sword-cultivator",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 478
+      "total_chapters": 479
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1076
+      "total_chapters": 1080
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -3824,7 +3824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "kingdom",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 251
+      "total_chapters": 253
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 81
+      "total_chapters": 83
     },
     {
       "slug": "colorist",
@@ -4984,7 +4984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "822659-black-corporation-joseon",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 152
+      "total_chapters": 153
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5510,9 +5510,9 @@
       "slug": "virus-girlfriend",
       "title": "Virus Girlfriend",
       "type": "Manhua",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 7.36,
-      "total_chapters": 496
+      "total_chapters": 498
     },
     {
       "slug": "domestication-of-divine-beasts-at-the-beginning",
@@ -5528,7 +5528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 81
     },
     {
       "slug": "job-change-log",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 285
+      "total_chapters": 286
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -6056,7 +6056,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 65
     },
     {
       "slug": "holy-emperors-grandson-is-a-necromancer",
@@ -6200,7 +6200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "monogatari-no-kuromaku-ni-tensei-shite",
@@ -6392,7 +6392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "anta-to-osananajimitte-dake-demo-iyananoni-zekkou-kara-hajimaru-s-kyuu-bishoujo-to-no-gakuen-nariagari-seikatsu",
@@ -6600,7 +6600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "level-1-kara-hajimaru-shoukan-musou",
@@ -7312,7 +7312,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 76
     },
     {
       "slug": "dungeons-and-crayons",
@@ -7704,7 +7704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 187
+      "total_chapters": 188
     },
     {
       "slug": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
@@ -8288,7 +8288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 20
     },
     {
       "slug": "please-dont-die",
@@ -8360,7 +8360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "myriad-tribes-invasion-rearguards-resolute-unity",
@@ -8704,7 +8704,15 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 3
+    },
+    {
+      "slug": "my-lucky-encounter-from-the-game-turned-into-reality",
+      "title": "My Lucky Encounter From the Game Turned Into Reality",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 92
     }
   ]
 }
