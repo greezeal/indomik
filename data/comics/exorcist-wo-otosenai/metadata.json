@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.89,
-  "scraped_at": "2026-02-28T02:39:08.547687",
+  "scraped_at": "2026-03-01T08:03:11.343172",
   "alternative_titles": "エクソシストを堕とせない, Make the Exorcist Fall in Love, 讓驅魔師免於墮落",
   "status": "Berjalan",
   "author": "Arima Aruma",
@@ -22,16 +22,22 @@
   "synopsis": "Manga                    Exorcist wo Otosenai yang dibuat oleh komikus bernama\n                    Arima Aruma ini bercerita tentang\n                    Sebagai pengusir setan terkuat, seorang anak laki-laki yang dipilih oleh Tuhan terlibat dalam pertempuran mematikan dengan Raja Iblis. Meskipun dia menanggung nasib kemanusiaan di pundaknya, dia sebenarnya ingin membuat manisan dengan damai. Suatu hari, dia bertemu dengan seorang gadis…. Ini adalah kisah cinta dan harapan yang tumbuh di tengah perang suci.",
   "chapters": [
     {
+      "chapter": "91",
+      "title": "Komik Exorcist wo Otosenai Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci05MS8=",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "90",
       "title": "Komik Exorcist wo Otosenai Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci05MC8=",
-      "date": "5 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik Exorcist wo Otosenai Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci04OS8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "88",
@@ -43,7 +49,7 @@
       "chapter": "87",
       "title": "Komik Exorcist wo Otosenai Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci04Ny8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "86",
@@ -67,7 +73,7 @@
       "chapter": "84",
       "title": "Komik Exorcist wo Otosenai Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci04NC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "83",
@@ -103,7 +109,7 @@
       "chapter": "78",
       "title": "Komik Exorcist wo Otosenai Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci03OC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "77",
@@ -181,7 +187,7 @@
       "chapter": "65",
       "title": "Komik Exorcist wo Otosenai Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci02NS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "64",
@@ -247,7 +253,7 @@
       "chapter": "54",
       "title": "Komik Exorcist wo Otosenai Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtd28tb3Rvc2VuYWktY2hhcHRlci01NC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "53",
@@ -568,5 +574,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 91
+  "total_chapters": 92
 }

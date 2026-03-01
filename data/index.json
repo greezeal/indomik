@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T07:46:50.031933",
-  "total_comics": 1083,
+  "last_updated": "2026-03-01T08:06:54.465558",
+  "total_comics": 1084,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 831
+      "total_chapters": 832
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -512,7 +512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 499
+      "total_chapters": 500
     },
     {
       "slug": "marriagetoxin",
@@ -1112,7 +1112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "322911-rookie-but-one-in-a-million-actor",
@@ -1120,7 +1120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.29,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "turning-into-a-tentacle-monster-made-me-crazier",
@@ -1142,9 +1142,9 @@
       "slug": "643745-ranger-reject",
       "title": "Ranger Reject",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 64
     },
     {
       "slug": "chronicles-of-the-lazy-sovereign",
@@ -1496,7 +1496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 50
     },
     {
       "slug": "sayonara-piano-sonata",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 90
+      "total_chapters": 92
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -6232,7 +6232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 60
     },
     {
       "slug": "375645-the-knight-king-who-returned-with-a-god",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -6920,7 +6920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 13
     },
     {
       "slug": "genius-hitter-hits-fastball",
@@ -8288,7 +8288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 5
     },
     {
       "slug": "please-dont-die",
@@ -8665,6 +8665,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "goliero",
+      "title": "GOLIERO",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
     }
   ]
 }
