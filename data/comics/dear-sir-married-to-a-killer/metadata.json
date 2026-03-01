@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.05,
-  "scraped_at": "2026-02-13T00:04:10.818316",
+  "scraped_at": "2026-03-01T14:19:54.771988",
   "alternative_titles": "Dear Diary... I Married a Killer, Haikei... Koroshiya-san to Kekkon Shimashita, Сэр… Я женился на убийце, 拝啓…殺し屋さんと結婚しました",
   "status": "Berjalan",
   "author": "Kousaka Donten",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    Dear Sir… Married to a Killer yang dibuat oleh komikus bernama\n                    Kousaka Donten ini bercerita tentang\n                    Profesi sebagai istri yang kalem dan kalem ... pembunuh !?\r\nTapi hidupku bersama istriku yang tidak bisa membunuh emosinya di depan suaminya sangat mengasyikkan dalam banyak hal ♪\r\nSaya ingin cukup dicintai untuk dibunuh oleh pengantinku. Komedi cinta pembunuh yang sudah menikah!",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik Dear Sir… Married to a Killer Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTU0Lw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "53",
       "title": "Komik Dear Sir… Married to a Killer Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTUzLw==",
-      "date": "40 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Dear Sir… Married to a Killer Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTUyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "51",
@@ -222,13 +228,13 @@
       "chapter": "20",
       "title": "Komik Dear Sir… Married to a Killer Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTIwLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Dear Sir… Married to a Killer Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTE5Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "18",
@@ -276,7 +282,7 @@
       "chapter": "11",
       "title": "Komik Dear Sir… Married to a Killer Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTExLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "10",
@@ -339,5 +345,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 53
+  "total_chapters": 54
 }

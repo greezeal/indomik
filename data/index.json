@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T13:49:26.264567",
-  "total_comics": 1085,
+  "last_updated": "2026-03-01T14:22:17.206789",
+  "total_comics": 1088,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -168,7 +168,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.74,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "infinite-evolution-starting-from-zero",
@@ -272,7 +272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "surviving-the-heat-apocalypse-with-my-god-tier-safehouse",
@@ -312,7 +312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "the-return-of-the-corpse-king",
@@ -392,7 +392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
@@ -1040,7 +1040,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "magic-lord",
@@ -1096,7 +1096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
@@ -1800,7 +1800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "centuria",
@@ -1992,7 +1992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 110
     },
     {
       "slug": "age-of-terror",
@@ -3064,7 +3064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "tensei-shitara-sainou-ga-atta-ken-isekai-itte-mo-doryoku-suru",
@@ -3208,7 +3208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "a-lazy-guy-woke-up-as-a-girl-one-morning",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 172
+      "total_chapters": 173
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4414,9 +4414,9 @@
       "slug": "bad-business",
       "title": "Bad Business",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
     },
     {
       "slug": "face-genius-0-year-old-top-star",
@@ -4608,7 +4608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.58,
-      "total_chapters": 147
+      "total_chapters": 148
     },
     {
       "slug": "global-gao-wu",
@@ -5240,7 +5240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "miyu-chan-wa-zutto-tomodachi",
@@ -5616,7 +5616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.05,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "entomologist-in-sichuan-tang-clan",
@@ -6056,7 +6056,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "holy-emperors-grandson-is-a-necromancer",
@@ -6704,7 +6704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "612685-divine-beast-kindergarten",
@@ -7008,7 +7008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.96,
-      "total_chapters": 140
+      "total_chapters": 141
     },
     {
       "slug": "the-girl-who-see-it",
@@ -8072,7 +8072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.19,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "the-mercenary-groups-beloved-child-the-orphan-on-the-brink-of-death-is-raised-by-the-mightiest-masters",
@@ -8288,7 +8288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 15
     },
     {
       "slug": "please-dont-die",
@@ -8681,6 +8681,30 @@
       "status": "Berjalan",
       "rating": 8.33,
       "total_chapters": 171
+    },
+    {
+      "slug": "kuma-kuma-kuma-bear",
+      "title": "Kuma Kuma Kuma Bear",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.51,
+      "total_chapters": 104
+    },
+    {
+      "slug": "shikkaku-kara-hajimeru-nariagari-madou-shidou",
+      "title": "Shikkaku kara Hajimeru Nariagari Madou Shidou!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.45,
+      "total_chapters": 6
+    },
+    {
+      "slug": "dark-moon-two-moons",
+      "title": "Dark Moon: Two Moons",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }

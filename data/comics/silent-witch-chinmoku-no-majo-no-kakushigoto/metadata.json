@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-23T20:36:52.007660",
+  "scraped_at": "2026-03-01T14:19:39.957267",
   "alternative_titles": "Secrets of the Silent Witch, サイレント・ウィッチ 沈黙の魔女の隠しごと",
   "status": "Berjalan",
   "author": "ISORA Matsuri",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Silent Witch Chinmoku no Majo no Kakushigoto yang dibuat oleh komikus bernama\n                    ISORA Matsuri ini bercerita tentang\n                    Keajaiban tidak membutuhkan nyanyian. Ini adalah kisah tentang penyihir terlemah, paling pemalu, namun terkuat, dan bagaimana dia dilahirkan kembali, semuanya menjadi sebuah buku. (Penyihir Keheningan) Monica Everett. Satu-satunya penyihir di dunia yang bisa menggunakan sihir diam (tanpa nyanyian), dan seorang pahlawan muda yang membunuh sendiri naga hitam legendaris itu. Tapi apa sifat aslinya?? Alasan sebenarnya saya berlatih sihir diam adalah agar saya tidak perlu berbicara di depan umum. Ketika Monica terpilih sebagai salah satu dari 7 Watchers, tanpa disadari, dia terpaksa mengambil misi rahasia untuk melindungi pangeran kedua…? Lemah dan pemalu, namun yang terkuat. Penyihir surgawi yang antisosial menyembunyikan identitas aslinya dan diam-diam membawa kejahatan ke pengadilan melawan pangeran dalam fantasi yang menyakitkan! Fantasi penyihir web, terlahir kembali menjadi sebuah buku, dengan tambahan! Apa yang akan menjadi misteri baru yang berdiri di depan Monica Everett…?",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0yMi8=",
+      "date": "33 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0yMS8=",
-      "date": "8 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "20.2",
@@ -193,5 +199,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }
