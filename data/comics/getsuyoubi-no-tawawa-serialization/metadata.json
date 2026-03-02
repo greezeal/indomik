@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.68,
-  "scraped_at": "2026-03-01T11:08:05.825898",
+  "scraped_at": "2026-03-02T08:31:17.913607",
   "alternative_titles": "Tawawa on Monday, Загруженный понедельник, Тавава по Понедельникам, 月曜日のたわわ",
   "status": "Berjalan",
   "author": "Himura Kiseki",
@@ -23,40 +23,46 @@
   "synopsis": "Manga                    Getsuyoubi no Tawawa (Serialization) yang dibuat oleh komikus bernama\n                    Himura Kiseki ini bercerita tentang\n                    Seorang pria gaji cukup tertekan, terutama pada hari Senin. Pada titik terendahnya, seorang gadis SMA yang diberkahi dengan baik yang menyebut dirinya Ai-chan tersandung payudaranya terlebih dahulu ke wajahnya. Gegar otak yang dia berikan padanya menjadi awal dari hubungan mereka.",
   "chapters": [
     {
+      "chapter": "121",
+      "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTEyMS8=",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "120",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTEyMC8=",
-      "date": "14 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "119",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExOS8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExOC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExNy8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExNi8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "115",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExNS8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "114",
@@ -476,7 +482,7 @@
       "chapter": "45",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTQ1Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "44",
@@ -743,5 +749,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 120
+  "total_chapters": 121
 }

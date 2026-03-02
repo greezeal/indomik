@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-01T11:08:03.260315",
+  "scraped_at": "2026-03-02T08:27:31.306494",
   "alternative_titles": "레벨999 고블린",
   "status": "Berjalan",
   "author": "Dapi",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    Level 999 Goblin yang dibuat oleh komikus bernama\n                    Dapi ini bercerita tentang\n                    Tokoh utama Kim Chulsoo bekerja keras sebagai buruh kasar di dunia nyata dan dengan bekerja keras mencari dan menjual barang dalam permainan.\r\n\r\nAkhirnya ia mendapat kesempatan untuk beralih ke kelas tersembunyi, berharap untuk satu kesempatan besar dalam hidup...!\r\n\r\nNamun, kelas tersembunyi itu ternyata adalah... Goblin Summoner?!",
   "chapters": [
     {
+      "chapter": "43",
+      "title": "Komik Level 999 Goblin Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtOTk5LWdvYmxpbi1jaGFwdGVyLTQzLw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik Level 999 Goblin Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtOTk5LWdvYmxpbi1jaGFwdGVyLTQyLw==",
-      "date": "14 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Level 999 Goblin Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtOTk5LWdvYmxpbi1jaGFwdGVyLTQxLw==",
-      "date": "14 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "40",
@@ -48,7 +54,7 @@
       "chapter": "38",
       "title": "Komik Level 999 Goblin Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtOTk5LWdvYmxpbi1jaGFwdGVyLTM4Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -273,5 +279,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 43
 }

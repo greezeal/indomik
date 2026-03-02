@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.09,
-  "scraped_at": "2026-02-28T17:00:45.427724",
-  "alternative_titles": "수상한 소공자는 천하십대고수, Susanghan Sogongjaneun Cheonhasibdaegosu, The Suspicious Boy Is One of the World's Top Ten Masters, The Suspicious Little Prince is the World’s Greatest Teenage Master, Our Suspicious Prince Is Actually the Master of Martial Art, The Mysterious World’s Greatest Martial Artist Little Prince",
+  "scraped_at": "2026-03-02T08:27:36.404233",
+  "alternative_titles": "수상한 소공자는 천하십대고수, Susanghan Sogongjaneun Cheonhasibdaegosu, The Suspicious Boy Is One of the World\\'s Top Ten Masters, The Suspicious Little Prince is the World’s Greatest Teenage Master, Our Suspicious Prince Is Actually the Master of Martial Art, The Mys",
   "status": "Berjalan",
   "author": "Unchan",
   "illustrator": "Unchan",
@@ -25,28 +25,34 @@
   "synopsis": "Manhwa                    The Suspicious Little Prince is the World’s Greatest Teenage Master yang dibuat oleh komikus bernama\n                    Unchan ini bercerita tentang\n                    Setelah kemunduran Madorim setelah Perang Dunia, sebuah kisah menawan terungkap ketika cucu dari pihak ibu, putra dari putri Lord Daesannim, kembali ke kota. Meski awalnya merasa ditinggalkan, ia muncul sebagai sosok dengan kecantikan tak terduga dalam dunia seni bela diri yang ditandai dengan estetika yang kasar.\r\n\r\nMengungkap identitas aslinya sebagai Raja Gunung Mu-myeon, seorang remaja ahli yang menaklukkan Raja Naga Sungai Kuning, serial ini menjanjikan narasi yang mencekam. Didorong oleh kata-kata terakhir ibunya dan tekad untuk mengembalikan Madorim ke kejayaannya, Jin Murip, ahli remaja yang tak tertandingi, tiba di Madorim.",
   "chapters": [
     {
+      "chapter": "79",
+      "title": "Komik The Suspicious Little Prince is the World’s Greatest Teenage Master Chapter 79",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1c3BpY2lvdXMtbGl0dGxlLXByaW5jZS1pcy10aGUtd29ybGRzLWdyZWF0ZXN0LXRlZW5hZ2UtbWFzdGVyLWNoYXB0ZXItNzkv",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "78",
       "title": "Komik The Suspicious Little Prince is the World’s Greatest Teenage Master Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1c3BpY2lvdXMtbGl0dGxlLXByaW5jZS1pcy10aGUtd29ybGRzLWdyZWF0ZXN0LXRlZW5hZ2UtbWFzdGVyLWNoYXB0ZXItNzgv",
-      "date": "9 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik The Suspicious Little Prince is the World’s Greatest Teenage Master Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1c3BpY2lvdXMtbGl0dGxlLXByaW5jZS1pcy10aGUtd29ybGRzLWdyZWF0ZXN0LXRlZW5hZ2UtbWFzdGVyLWNoYXB0ZXItNzcv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik The Suspicious Little Prince is the World’s Greatest Teenage Master Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1c3BpY2lvdXMtbGl0dGxlLXByaW5jZS1pcy10aGUtd29ybGRzLWdyZWF0ZXN0LXRlZW5hZ2UtbWFzdGVyLWNoYXB0ZXItNzYv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik The Suspicious Little Prince is the World’s Greatest Teenage Master Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1c3BpY2lvdXMtbGl0dGxlLXByaW5jZS1pcy10aGUtd29ybGRzLWdyZWF0ZXN0LXRlZW5hZ2UtbWFzdGVyLWNoYXB0ZXItNzUv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "74",
@@ -64,7 +70,7 @@
       "chapter": "72",
       "title": "Komik The Suspicious Little Prince is the World’s Greatest Teenage Master Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1c3BpY2lvdXMtbGl0dGxlLXByaW5jZS1pcy10aGUtd29ybGRzLWdyZWF0ZXN0LXRlZW5hZ2UtbWFzdGVyLWNoYXB0ZXItNzIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "71",
@@ -493,5 +499,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 78
+  "total_chapters": 79
 }
