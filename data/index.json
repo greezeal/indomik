@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T11:11:38.529757",
-  "total_comics": 1092,
+  "last_updated": "2026-03-02T11:56:37.415409",
+  "total_comics": 1094,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 99
+      "total_chapters": 103
     },
     {
       "slug": "isshou-senkin",
@@ -1312,7 +1312,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "305039-the-youngest-son-of-a-rich-family",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "938340-ao-ashi",
@@ -2656,7 +2656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.8,
-      "total_chapters": 151
+      "total_chapters": 152
     },
     {
       "slug": "seoul-ghost-story-civil-complaints-department",
@@ -3824,7 +3824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "kingdom",
@@ -4464,7 +4464,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "imasara-desu-ga-osananajimi-wo-suki-ni-natte-shimaimashita",
@@ -5352,7 +5352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "legend",
@@ -5984,7 +5984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
@@ -8008,7 +8008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.87,
-      "total_chapters": 778
+      "total_chapters": 779
     },
     {
       "slug": "tensei-shitara-suterareta-ga-hirowarete-tanoshiku-ikiteimasu",
@@ -8216,7 +8216,7 @@
       "type": "Manga",
       "status": "Tamat",
       "rating": 8.83,
-      "total_chapters": 24
+      "total_chapters": 26
     },
     {
       "slug": "getsuyoubi-no-tawawa-serialization",
@@ -8280,7 +8280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "the-regressor-can-make-them-all",
@@ -8737,6 +8737,22 @@
       "status": "Berjalan",
       "rating": 8.24,
       "total_chapters": 200
+    },
+    {
+      "slug": "isekai-makui-oukoku-ni-suterareta-mamono-kurai-no-hangyakutan",
+      "title": "Isekai Makui ~Oukoku ni Suterareta Mamono Kurai no Hangyakutan~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.19,
+      "total_chapters": 10
+    },
+    {
+      "slug": "tokidoki-bosotto-roshiago-de-dereru-tonari-no-alya-san",
+      "title": "Tokidoki Bosotto Roshiago de Dereru Tonari no Alya-san",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 8.14,
+      "total_chapters": 76
     }
   ]
 }

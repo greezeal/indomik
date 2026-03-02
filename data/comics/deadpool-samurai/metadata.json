@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.83,
-  "scraped_at": "2026-02-23T10:37:31.826074",
+  "scraped_at": "2026-03-02T11:50:30.701937",
   "alternative_titles": "Дедпул: Самурай, デッドプール: Samurai",
   "status": "Tamat",
   "author": "Kasama Sanshirou",
@@ -20,22 +20,34 @@
   "synopsis": "Manga                    Deadpool: Samurai yang dibuat oleh komikus bernama\n                    Kasama Sanshirou ini bercerita tentang\n                    Marvel menyerang Shonen Jump +?! Pahlawan tak bertanggung jawab \"Deadpool\", pencilan ekstrim bahkan di antara pahlawan komik Amerika, akhirnya berseri !!!! Manga kolaborasi super yang melibatkan karakter Avengers dan Shonen Jump!",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Deadpool: Samurai Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZHBvb2wtc2FtdXJhaS1jaGFwdGVyLTI0Lw==",
+      "date": "28 menit yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Deadpool: Samurai Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZHBvb2wtc2FtdXJhaS1jaGFwdGVyLTIzLw==",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik Deadpool: Samurai Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZHBvb2wtc2FtdXJhaS1jaGFwdGVyLTIyLw==",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Deadpool: Samurai Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZHBvb2wtc2FtdXJhaS1jaGFwdGVyLTIxLw==",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "20.5",
       "title": "Komik Deadpool: Samurai Chapter 20.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZHBvb2wtc2FtdXJhaS1jaGFwdGVyLTIwLTUv",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "20",
@@ -164,5 +176,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 26
 }
