@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-01T08:05:45.269900",
+  "scraped_at": "2026-03-03T23:04:40.298211",
   "alternative_titles": "컬러리스트, Colorist",
   "status": "Berjalan",
   "author": "89line",
@@ -25,10 +25,22 @@
   "synopsis": "Manhwa                    Colorist yang dibuat oleh komikus bernama\n                    89line ini bercerita tentang\n                    Dunia yang ternoda hitam.Karena Penyihir Hitam, umat manusia terpaksa pindah ke kota-kota besar tempat semua cahaya dan warna yang tersisa berkumpul.Kay adalah seorang anak laki-laki yang ingin menjadi anggota Korps Perintis yang melanjutkan upaya untuk merebut kembali dunia, namun ia ditolak karena ia adalah salah satu dari 'Tanpa Warna', dan tidak dapat memiliki warna apa pun.Namun, suatu hari, sebuah kejadian tak terduga menyebabkan Kay mendapatkan warna Hitam...",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Colorist Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29sb3Jpc3QtY2hhcHRlci0yMC8=",
+      "date": "20 menit yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik Colorist Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29sb3Jpc3QtY2hhcHRlci0xOS8=",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Colorist Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29sb3Jpc3QtY2hhcHRlci0xOC8=",
-      "date": "16 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "17",
@@ -40,25 +52,25 @@
       "chapter": "16",
       "title": "Komik Colorist Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29sb3Jpc3QtY2hhcHRlci0xNi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Colorist Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29sb3Jpc3QtY2hhcHRlci0xNS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Colorist Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29sb3Jpc3QtY2hhcHRlci0xNC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Colorist Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29sb3Jpc3QtY2hhcHRlci0xMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -133,5 +145,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 20
 }

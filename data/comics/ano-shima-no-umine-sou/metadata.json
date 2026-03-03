@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-02T02:52:24.700346",
+  "scraped_at": "2026-03-03T23:06:09.895464",
   "alternative_titles": "あの島の海音〈うみね〉荘, あの島の海音荘, Ano Shima no Kaion-sou, Umine the Island Inn, La posada Umine de aquella isla, Umine-sou Trên Hòn Đảo Ấy, Umine, a pousada da ilha",
   "status": "Berjalan",
   "author": "Seo Kouji",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Ano Shima no Umine-sou yang dibuat oleh komikus bernama\n                    Seo Kouji ini bercerita tentang\n                    Kazuma, seorang pemuda pengangguran berusia 19 tahun, dipanggil ke Pulau Asagiri, yang dikabarkan menyimpan harta karun bajak laut yang telah lama hilang. Ia akhirnya bekerja serabutan di Umine Inn, sebuah kafe tradisional Jepang dengan penginapan khusus wanita dan sejumlah wanita eksentrik namun cantik. Sebuah kisah impian bagi setiap pria - komedi romantis tentang kehidupan di pulau dan perburuan harta karun, di mana lingkungannya indah dalam berbagai hal!",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Ano Shima no Umine-sou Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTcv",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Ano Shima no Umine-sou Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTYv",
-      "date": "24 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "5",
@@ -58,5 +64,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }

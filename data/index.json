@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T22:39:38.519028",
-  "total_comics": 1107,
+  "last_updated": "2026-03-03T23:06:45.703655",
+  "total_comics": 1110,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -286,9 +286,9 @@
       "slug": "the-heavenly-path-is-not-stupid",
       "title": "The Heavenly Path Is Not Stupid",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.05,
+      "total_chapters": 166
     },
     {
       "slug": "the-legendary-hero-is-an-academy-honors-student",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 176
+      "total_chapters": 177
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1272,7 +1272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 228
+      "total_chapters": 229
     },
     {
       "slug": "397466-the-last-adventurer",
@@ -1792,7 +1792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "prosecutor-kim-seojin",
@@ -2064,7 +2064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "witchriv",
@@ -2272,7 +2272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "104140-talent-swallowing-magician",
@@ -2320,7 +2320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 156
+      "total_chapters": 158
     },
     {
       "slug": "reincarnators-stream",
@@ -2390,9 +2390,9 @@
       "slug": "859904-festival-of-warriors",
       "title": "Festival Of Warriors",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 61
     },
     {
       "slug": "out-mizuta-makoto",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 389
+      "total_chapters": 391
     },
     {
       "slug": "god-of-martial-arts",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1082
+      "total_chapters": 1084
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -3070,9 +3070,9 @@
       "slug": "tensei-shitara-sainou-ga-atta-ken-isekai-itte-mo-doryoku-suru",
       "title": "Tensei Shitara Sainou ga Atta Ken: Isekai Itte mo Doryoku Suru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.34,
+      "total_chapters": 33
     },
     {
       "slug": "a-girl-who-only-appears-on-snowy-days",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3704,7 +3704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 146
+      "total_chapters": 147
     },
     {
       "slug": "tamagawa-san-detemashita",
@@ -4040,7 +4040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "316904-disastrous-necromancer",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 253
+      "total_chapters": 254
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4576,7 +4576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
@@ -4872,7 +4872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "284443-meccha-shoukan-sareta-ken",
@@ -4912,7 +4912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "sss-level-paladin-who-breaks-all-logic",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 46
+      "total_chapters": 48
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5552,7 +5552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "haha-no-ai-wa-mama-naranai",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -6200,7 +6200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "monogatari-no-kuromaku-ni-tensei-shite",
@@ -6344,7 +6344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "the-ultimate-wantless-godly-rich-system",
@@ -7128,7 +7128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 137
+      "total_chapters": 138
     },
     {
       "slug": "gods-scalpel",
@@ -7208,7 +7208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "i-owe-a-billion-dollars-and-i-am-forced-to-become-a-worker-for-an-evil-god",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -8672,7 +8672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "red-storm",
@@ -8857,6 +8857,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 23
+    },
+    {
+      "slug": "red-shirt",
+      "title": "Red Shirt",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.36,
+      "total_chapters": 45
+    },
+    {
+      "slug": "572108-informer",
+      "title": "Informer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 28
+    },
+    {
+      "slug": "maou-toubatsu-shita-ato-medachitakunai-node-guild-master-ni-natta",
+      "title": "Maou Toubatsu Shita Ato, Medachitakunai node Guild Master ni Natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.34,
+      "total_chapters": 75
     }
   ]
 }
