@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.35,
-  "scraped_at": "2026-03-02T11:54:02.655434",
+  "scraped_at": "2026-03-03T12:33:33.503080",
   "alternative_titles": "Black Haze (Reboot), 블랙 헤이즈, مه سیاه, Черная мгла, Schwarzer Dunst, Juoda migla, Brume noire, Bruma negra",
   "status": "Berjalan",
   "author": "Yong Yong (용용)",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Black Haze (2025) yang dibuat oleh komikus bernama\n                    Yong Yong (용용) ini bercerita tentang\n                    Dahulu kala, portal ke dunia lain terbuka, dan mereka yang memperoleh kemampuan khusus beserta tanda mulai disebut penyihir. Setelah kejadian yang dikenal sebagai \"hari itu\", penyihir kelas satu dari Ophion, yang dikenal sebagai \"Blow\", menjadi sangat terkenal. Suatu hari, ia menerima misi yang sangat istimewa: melindungi putra kedua keluarga Artian, yang menderita karena disebut sebagai \"monster\" di sekolah sihir \"Helios\"! Karena itu, Blow mendaftar di Helios dengan nama \"Rood Krisch\" untuk menyembunyikan identitas aslinya...",
   "chapters": [
     {
+      "chapter": "57",
+      "title": "Komik Black Haze (2025) Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNTcv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "56",
       "title": "Komik Black Haze (2025) Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNTYv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "55",
@@ -175,7 +181,7 @@
       "chapter": "31",
       "title": "Komik Black Haze (2025) Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItMzEv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -199,7 +205,7 @@
       "chapter": "27",
       "title": "Komik Black Haze (2025) Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItMjcv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "26",
@@ -358,5 +364,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 57
 }

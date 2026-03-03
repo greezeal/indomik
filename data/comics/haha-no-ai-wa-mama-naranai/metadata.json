@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-04T09:08:21.377901",
+  "scraped_at": "2026-03-03T12:34:39.623721",
   "alternative_titles": "義母の愛はママならないっ!, My Stepmother\\'s Love isn\\'t Going How I Thought!, Cinta seorang ibu tiri tak bisa menggantikan cinta ibu kandung!, Tình Yêu Rắc Rối Của Mẹ Kế!, Gibo no Ai wa Mama Naranai!",
   "status": "Berjalan",
   "author": "Homina Mia",
@@ -23,17 +23,23 @@
   "synopsis": "Manga                    Haha no Ai wa Mama Naranai! yang dibuat oleh komikus bernama\n                    Homina Mia ini bercerita tentang\n                    Kuzukake Shoutarou adalah seorang siswa SMA yang satu-satunya keluarganya hilang saat bepergian. Siapa yang datang menyelamatkannya? Para ibu tiri terkuat yang pernah ada!? Pekerjaan rumah dan kehidupan sehari-hari diurus hingga detail terkecil!!",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Haha no Ai wa Mama Naranai! Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFoYS1uby1haS13YS1tYW1hLW5hcmFuYWktY2hhcHRlci0zLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Haha no Ai wa Mama Naranai! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFoYS1uby1haS13YS1tYW1hLW5hcmFuYWktY2hhcHRlci0yLw==",
-      "date": "6 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Haha no Ai wa Mama Naranai! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFoYS1uby1haS13YS1tYW1hLW5hcmFuYWktY2hhcHRlci0xLw==",
-      "date": "6 jam yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

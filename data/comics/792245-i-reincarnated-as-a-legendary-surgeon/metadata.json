@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-02T11:55:30.330494",
+  "scraped_at": "2026-03-03T12:34:16.916777",
   "alternative_titles": "화타가 된 외과의사",
   "status": "Berjalan",
   "author": "Park Dongshin, Shaymel",
@@ -22,16 +22,22 @@
   "synopsis": "Manhwa                    I Reincarnated as a Legendary Surgeon yang dibuat oleh komikus bernama\n                    Park Dongshin, Shaymel ini bercerita tentang\n                    Karena bersikap adil sebelum menjadi spesialis, Jisoo Han, bedah umum tahun ke-3 telah meninggal. Apakah itu malaikat, iblis, atau sistem dunia yang tidak dikenal?\r\n\r\nKarena perbuatan baiknya, dia mendapat kesempatan untuk hidup kembali. Tapi ia dibangkitkan sebagai orang mati yang dibunuh oleh bandit gunung. Tapi tubuh ini… Apakah ini tubuh ahli bedah legendaris yang hebat?!\r\n\r\nGenerasi pahlawan dengan pertempuran tanpa akhir, sekitar tahun 200. Sebagai ahli bedah legendaris yang hebat di tahun 200-an, ia mencoba untuk bertahan.\r\n\r\nPerjalanan tak terduga dan luar biasa dari seorang ahli bedah muda, yang jatuh ke dunia Roman Tiga Kerajaan, telah dimulai!",
   "chapters": [
     {
+      "chapter": "186",
+      "title": "Komik I Reincarnated as a Legendary Surgeon Chapter 186",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtYS1sZWdlbmRhcnktc3VyZ2Vvbi1jaGFwdGVyLTE4Ni8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "185",
       "title": "Komik I Reincarnated as a Legendary Surgeon Chapter 185",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtYS1sZWdlbmRhcnktc3VyZ2Vvbi1jaGFwdGVyLTE4NS8=",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "184",
       "title": "Komik I Reincarnated as a Legendary Surgeon Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtYS1sZWdlbmRhcnktc3VyZ2Vvbi1jaGFwdGVyLTE4NC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "183",
@@ -169,7 +175,7 @@
       "chapter": "161",
       "title": "Komik I Reincarnated as a Legendary Surgeon Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtYS1sZWdlbmRhcnktc3VyZ2Vvbi1jaGFwdGVyLTE2MS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "160",
@@ -1300,5 +1306,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 213
+  "total_chapters": 214
 }
