@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-26T15:41:10.521959",
+  "scraped_at": "2026-03-03T03:13:06.657091",
   "alternative_titles": "Please Don\\'t Die!, Te rog, nu muri!, 죽지 말아 줘!",
   "status": "Berjalan",
   "author": "지와",
@@ -19,29 +19,35 @@
   "synopsis": "Manhwa                    Please Don’t Die! yang dibuat oleh komikus bernama\n                    지와 ini bercerita tentang\n                    Yoon Ha-jin menjalani kehidupan yang rapuh, berada di antara hidup dan mati. Suatu hari yang biasa, segalanya berubah ketika ia bertemu dengan seorang gadis misterius dan pemalu yang mengaku sebagai pelindungnya, dan seorang Malaikat Maut yang datang untuk menjemputnya.",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Please Don’t Die! Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxlYXNlLWRvbnQtZGllLWNoYXB0ZXItNS8=",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Please Don’t Die! Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxlYXNlLWRvbnQtZGllLWNoYXB0ZXItNC8=",
-      "date": "16 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Please Don’t Die! Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxlYXNlLWRvbnQtZGllLWNoYXB0ZXItMy8=",
-      "date": "16 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Please Don’t Die! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxlYXNlLWRvbnQtZGllLWNoYXB0ZXItMi8=",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Please Don’t Die! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxlYXNlLWRvbnQtZGllLWNoYXB0ZXItMS8=",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T00:00:50.661988",
-  "total_comics": 1094,
+  "last_updated": "2026-03-03T03:19:48.978874",
+  "total_comics": 1100,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -88,7 +88,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 143
+      "total_chapters": 144
     },
     {
       "slug": "a-hero-who-does-everything-well",
@@ -176,7 +176,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 64
     },
     {
       "slug": "iron-ladies",
@@ -222,9 +222,9 @@
       "slug": "moriagaranai-date",
       "title": "Moriagaranai Date",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.97,
+      "total_chapters": 8
     },
     {
       "slug": "oukoku-e-tsuzuku-michi",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 175
+      "total_chapters": 176
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -702,9 +702,9 @@
       "slug": "10-nen-buri-ni-saikai-shita-kusogaki-wa-seijun-bishoujo-jk-ni-seichou-shiteita",
       "title": "10-Nen Buri ni Saikai shita Kusogaki wa Seijun Bishoujo JK ni Seichou shiteita",
       "type": "Manga",
-      "status": "",
+      "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 0
+      "total_chapters": 31
     },
     {
       "slug": "10-nenmae-ni-time-leap-shite-osananajimi-no-ojousama-wo-tasuketara-iinazuke-ni-narimashita",
@@ -1704,7 +1704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "a-carefree-life",
@@ -2104,7 +2104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "141523-the-indomitable-martial-king",
@@ -2352,7 +2352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 67
+      "total_chapters": 68
     },
     {
       "slug": "787094-the-undefeatable-swordsman",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 479
+      "total_chapters": 480
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2640,7 +2640,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 157
+      "total_chapters": 158
     },
     {
       "slug": "riches-cant-buy-loyalty",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 41
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1080
+      "total_chapters": 1082
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -4240,7 +4240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 325
+      "total_chapters": 331
     },
     {
       "slug": "weapon-eating-bastard",
@@ -4264,7 +4264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -4760,7 +4760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "tales-of-demons-and-gods",
@@ -5536,7 +5536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "overlord-of-insects",
@@ -7128,7 +7128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 134
+      "total_chapters": 137
     },
     {
       "slug": "gods-scalpel",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -7704,7 +7704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 188
+      "total_chapters": 189
     },
     {
       "slug": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
@@ -7808,7 +7808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 728
+      "total_chapters": 729
     },
     {
       "slug": "tensei-shitara-dragon-no-tamago-datta-ibara-no-dragon-road",
@@ -8256,7 +8256,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.47,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "mr-zombie",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 148
+      "total_chapters": 149
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -8296,7 +8296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "sotsugyou-album-no-kanojotachi",
@@ -8320,7 +8320,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "the-new-gate",
@@ -8336,7 +8336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 6
     },
     {
       "slug": "the-shepherd-wizard",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",
@@ -8753,6 +8753,54 @@
       "status": "Tamat",
       "rating": 8.14,
       "total_chapters": 76
+    },
+    {
+      "slug": "dungeon-architect",
+      "title": "Dungeon Architect",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.12,
+      "total_chapters": 37
+    },
+    {
+      "slug": "umareta-chokugo-ni-suterareta-kedo-zensei-ga-taikensha-datta-node-yoyuu-de-ikitemasu",
+      "title": "Umareta Chokugo ni Suterareta kedo, Zensei ga Taikensha datta node Yoyuu de Ikitemasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.74,
+      "total_chapters": 72
+    },
+    {
+      "slug": "the-strongest-dull-princes-secret-battle-for-the-throne",
+      "title": "The Strongest Dull Prince’s Secret Battle for the Throne",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.93,
+      "total_chapters": 82
+    },
+    {
+      "slug": "maou-ga-inaka-ni-totsuidara",
+      "title": "Maou ga Inaka ni Totsuidara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.84,
+      "total_chapters": 30
+    },
+    {
+      "slug": "saika-no-majo-wa-jiyuu-ni-kurashitai",
+      "title": "Saika no Majo wa Jiyuu ni Kurashitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "bakudanma-na-youhei-douji-shoukan-sareta-saikyou-cheat-domo-wo-katappashi-kara-keshitobasu",
+      "title": "Bakudanma na Youhei, Douji Shoukan sareta Saikyou Cheat-domo wo Katappashi kara Keshitobasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 8
     }
   ]
 }
