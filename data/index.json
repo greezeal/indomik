@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T14:34:29.722058",
-  "total_comics": 1105,
+  "last_updated": "2026-03-03T15:38:39.888021",
+  "total_comics": 1107,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -1256,7 +1256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.5,
-      "total_chapters": 72
+      "total_chapters": 74
     },
     {
       "slug": "overlord-of-sichuan",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "938340-ao-ashi",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 122
+      "total_chapters": 123
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2128,7 +2128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "the-ultimate-of-all-ages",
@@ -2232,7 +2232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 180
+      "total_chapters": 181
     },
     {
       "slug": "nibanme-na-boku-to-ichiban-no-kanojo",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -4872,7 +4872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 90
+      "total_chapters": 92
     },
     {
       "slug": "284443-meccha-shoukan-sareta-ken",
@@ -4992,7 +4992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 135
+      "total_chapters": 136
     },
     {
       "slug": "death-game-ni-makikomareta-yamamoto-san-kimama-ni-game-balance-wo-houkaisaseru",
@@ -5616,7 +5616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.05,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "entomologist-in-sichuan-tang-clan",
@@ -5816,7 +5816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 7
+      "total_chapters": 9
     },
     {
       "slug": "172125-zombie-apocalypse-82-08",
@@ -5920,7 +5920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 40
+      "total_chapters": 42
     },
     {
       "slug": "the-tale-of-the-skeleton-messenger",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 117
+      "total_chapters": 118
     },
     {
       "slug": "chronicle-of-runes",
@@ -6688,7 +6688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "kaketa-tsuki-no-mercedes-kyuuketsuki-no-kizoku-ni-tensei-shitakedo-sute-rare-sounanode-dungeon-o-seiha-suru",
@@ -6696,7 +6696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "kimi-ni-koisuru-sanshimai",
@@ -8032,7 +8032,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 4
     },
     {
       "slug": "hazure-skill-kage-ga-usui-o-motsu-guild-shokuin-ga-jitsuha-densetsu-no-ansatsusha",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 149
+      "total_chapters": 150
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -8296,7 +8296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "sotsugyou-album-no-kanojotachi",
@@ -8841,6 +8841,22 @@
       "status": "Berjalan",
       "rating": 7.83,
       "total_chapters": 19
+    },
+    {
+      "slug": "idol-yamerukedo-kekkon-shitekuremasu-ka",
+      "title": "Idol Yamerukedo Kekkon Shitekuremasu Ka!?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.19,
+      "total_chapters": 27
+    },
+    {
+      "slug": "starting-with-a-mythic-talent-i-cut-down-gods",
+      "title": "Starting with a Mythic Talent, I Cut Down Gods!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
     }
   ]
 }

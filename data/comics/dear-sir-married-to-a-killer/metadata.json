@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.05,
-  "scraped_at": "2026-03-01T16:41:11.164192",
+  "scraped_at": "2026-03-03T15:35:58.320463",
   "alternative_titles": "Dear Diary... I Married a Killer, Haikei... Koroshiya-san to Kekkon Shimashita, Сэр… Я женился на убийце, 拝啓…殺し屋さんと結婚しました",
   "status": "Berjalan",
   "author": "Kousaka Donten",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    Dear Sir… Married to a Killer yang dibuat oleh komikus bernama\n                    Kousaka Donten ini bercerita tentang\n                    Profesi sebagai istri yang kalem dan kalem ... pembunuh !?\r\nTapi hidupku bersama istriku yang tidak bisa membunuh emosinya di depan suaminya sangat mengasyikkan dalam banyak hal ♪\r\nSaya ingin cukup dicintai untuk dibunuh oleh pengantinku. Komedi cinta pembunuh yang sudah menikah!",
   "chapters": [
     {
+      "chapter": "55",
+      "title": "Komik Dear Sir… Married to a Killer Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTU1Lw==",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "54",
       "title": "Komik Dear Sir… Married to a Killer Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTU0Lw==",
-      "date": "21 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Dear Sir… Married to a Killer Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhci1zaXItbWFycmllZC10by1hLWtpbGxlci1jaGFwdGVyLTUzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "52",
@@ -345,5 +351,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 55
 }
