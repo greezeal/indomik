@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-28T02:39:42.834602",
+  "scraped_at": "2026-03-04T17:59:43.316764",
   "alternative_titles": "Daywalker, 데이워커",
   "status": "Berjalan",
   "author": "Mute",
@@ -22,16 +22,34 @@
   "synopsis": "Manhwa                    Day Walker yang dibuat oleh komikus bernama\n                    Mute ini bercerita tentang\n                    Agen operasi rahasia Badan Intelijen Nasional 'Suhyeok' ditugaskan untuk membunuh 'Nanayama,' pemimpin Yakuza yang memimpin organisasi perdagangan narkoba di Korea. Yang mengejutkannya, targetnya adalah seorang wanita menawan bernama 'Anna,' yang tampaknya tidak terlibat dalam kekerasan apa pun. Merasa ada yang tidak beres dengan misinya, Suhyeok memulai jalan balas dendam terhadap Badan Intelijen Nasional, yang telah mengkhianatinya, dan 'Nanayama,' yang membantai rekan-rekannya.",
   "chapters": [
     {
+      "chapter": "70",
+      "title": "Komik Day Walker Chapter 70",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTcwLw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "69",
+      "title": "Komik Day Walker Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTY5Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "68",
+      "title": "Komik Day Walker Chapter 68",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTY4Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "67",
       "title": "Komik Day Walker Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTY3Lw==",
-      "date": "7 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik Day Walker Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTY2Lw==",
-      "date": "7 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "65",
@@ -91,7 +109,7 @@
       "chapter": "56",
       "title": "Komik Day Walker Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTU2Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -145,7 +163,7 @@
       "chapter": "47",
       "title": "Komik Day Walker Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTQ3Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -169,13 +187,13 @@
       "chapter": "43",
       "title": "Komik Day Walker Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTQzLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Day Walker Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTQyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "41",
@@ -193,13 +211,13 @@
       "chapter": "39",
       "title": "Komik Day Walker Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTM5Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Day Walker Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTM4Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -361,7 +379,7 @@
       "chapter": "11",
       "title": "Komik Day Walker Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTExLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "10",
@@ -424,5 +442,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 67
+  "total_chapters": 70
 }

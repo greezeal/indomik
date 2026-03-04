@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.13,
-  "scraped_at": "2026-02-19T20:07:12.952120",
+  "scraped_at": "2026-03-04T17:54:51.400245",
   "alternative_titles": "The Prosecutor's Blade: A Former Mercenary's Revenge, The Life of a Former Mercenary Inspector, 전직용병의 검사생활, Jeonjik Yongbyeong-ui Geomsa Saenghwal",
   "status": "Berjalan",
   "author": "Park Seong-hoo,Geul Yang Dong-cheol",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    The Former Mercenary’s Life as a Prosecutor yang dibuat oleh komikus bernama\n                    Park Seong-hoo,Geul Yang Dong-cheol ini bercerita tentang\n                    \"Mereka yang telah merenggut seluruh hidupku, mereka akan membayarnya.\" Untuk mengungkap rahasia di balik kematian ibunya, tentara bayaran legendaris Lee Jeong-hwan kembali sebagai jaksa. Balas dendamnya dimulai terhadap mereka yang telah merenggut nyawa ibunya dan menginjak-injak kehidupannya yang dulu biasa-biasa saja. Ancaman yang menghalangi jalannya akan ditangani dengan kekerasan, dan mereka yang pantas diadili akan ditangani oleh hukum.",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik The Former Mercenary’s Life as a Prosecutor Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1tZXJjZW5hcnlzLWxpZmUtYXMtYS1wcm9zZWN1dG9yLWNoYXB0ZXItMTQv",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik The Former Mercenary’s Life as a Prosecutor Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1tZXJjZW5hcnlzLWxpZmUtYXMtYS1wcm9zZWN1dG9yLWNoYXB0ZXItMTMv",
-      "date": "31 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik The Former Mercenary’s Life as a Prosecutor Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1tZXJjZW5hcnlzLWxpZmUtYXMtYS1wcm9zZWN1dG9yLWNoYXB0ZXItMTIv",
-      "date": "31 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "11",
@@ -42,7 +48,7 @@
       "chapter": "10",
       "title": "Komik The Former Mercenary’s Life as a Prosecutor Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1tZXJjZW5hcnlzLWxpZmUtYXMtYS1wcm9zZWN1dG9yLWNoYXB0ZXItMTAv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -99,5 +105,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }

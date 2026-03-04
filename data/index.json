@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T16:58:08.327011",
-  "total_comics": 1110,
+  "last_updated": "2026-03-04T18:00:10.270566",
+  "total_comics": 1116,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -32,7 +32,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 77
+      "total_chapters": 79
     },
     {
       "slug": "462789-the-tutorial-is-too-hard",
@@ -440,7 +440,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 118
+      "total_chapters": 119
     },
     {
       "slug": "mikoto-chan-wa-kirawaretakunai",
@@ -1160,7 +1160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 115
+      "total_chapters": 116
     },
     {
       "slug": "758554-the-great-mage-returns-after-4000-years",
@@ -1264,7 +1264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "848336-the-max-leveled-hero-will-return",
@@ -1280,7 +1280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 111
+      "total_chapters": 112
     },
     {
       "slug": "sea-of-blood-mountain-of-bones",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 480
+      "total_chapters": 481
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2632,7 +2632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "devious-son-of-heaven",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1084
+      "total_chapters": 1086
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -2814,9 +2814,9 @@
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
       "title": "Golden Core Is a Star You Call This Cultivating Immortality",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
     },
     {
       "slug": "i-became-a-swordsmanship-instructor-at-the-academy",
@@ -2920,7 +2920,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
@@ -2928,7 +2928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 82
+      "total_chapters": 85
     },
     {
       "slug": "783596-pick-me-up",
@@ -2960,7 +2960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 127
+      "total_chapters": 130
     },
     {
       "slug": "asura-no-sata",
@@ -3024,7 +3024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 150
+      "total_chapters": 151
     },
     {
       "slug": "regression-of-the-yong-clan-heir",
@@ -3064,7 +3064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "tensei-shitara-sainou-ga-atta-ken-isekai-itte-mo-doryoku-suru",
@@ -3632,7 +3632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "trait-hoarder",
@@ -3640,7 +3640,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "reborn-on-the-demonic-cult-battlefield",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 256
+      "total_chapters": 257
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -4480,7 +4480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
@@ -4616,7 +4616,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.73,
-      "total_chapters": 326
+      "total_chapters": 327
     },
     {
       "slug": "reincarnation-of-the-fist-king",
@@ -4624,7 +4624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 43
     },
     {
       "slug": "712877-regressor-of-the-fallen-family",
@@ -4704,7 +4704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "619762-mookhyang-dark-lady",
@@ -5656,7 +5656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.45,
-      "total_chapters": 48
+      "total_chapters": 50
     },
     {
       "slug": "eiyuu-to-majo-no-tensei-rabu-kome",
@@ -5712,7 +5712,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.78,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "yuusha-party-wo-kubi-ni-natta-node-kokyou-ni-kaettara-member-zenin-ga-tsuitekitandaga",
@@ -5744,7 +5744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "981277-spy-x-family",
@@ -6368,7 +6368,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 93
+      "total_chapters": 95
     },
     {
       "slug": "fair-trade-committee",
@@ -6448,7 +6448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "starting-with-ten-billion-spirit-stones-i-buy-out-the-fantasy-world",
@@ -7128,7 +7128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 138
+      "total_chapters": 139
     },
     {
       "slug": "gods-scalpel",
@@ -7336,7 +7336,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.37,
-      "total_chapters": 231
+      "total_chapters": 232
     },
     {
       "slug": "boukensha-license-wo-hakudatsu-sareta-ossan-dakedo-manamusume-ga-dekita-no-de-nonbiri-jinsei-wo-oukasuru",
@@ -7632,7 +7632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "the-stray-dogs-war",
@@ -8064,7 +8064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.32,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "neta-chara-tensei-toka-anmarida",
@@ -8256,7 +8256,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.47,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "mr-zombie",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 33
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",
@@ -8584,7 +8584,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 70
     },
     {
       "slug": "teisou-gyakuten-sekai-nara-moteru-to-omotte-itara",
@@ -8881,6 +8881,54 @@
       "status": "Berjalan",
       "rating": 6.34,
       "total_chapters": 75
+    },
+    {
+      "slug": "fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen",
+      "title": "Fuguushoku To Baka Ni Saremashita Ga Jissai Wa Sorehodo Waruku Arimasen?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.81,
+      "total_chapters": 56
+    },
+    {
+      "slug": "there-are-no-bad-heros-in-this-world",
+      "title": "There Are No Bad Heros in This World",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.04,
+      "total_chapters": 57
+    },
+    {
+      "slug": "ten-thousandfold-return-senior-sister-please-behave",
+      "title": "Ten Thousandfold Return, Senior Sister, Please Behave",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 10
+    },
+    {
+      "slug": "ore-no-ichizu-wo-jama-suru-aitsu",
+      "title": "Ore no Ichizu wo Jama Suru Aitsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "declining-elite-university-recruitment-im-an-immortal-venerable",
+      "title": "Declining Elite University Recruitment: I’m an Immortal Venerable",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
+    },
+    {
+      "slug": "one-drop-of-blood-forever",
+      "title": "One Drop of Blood Forever",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 14
     }
   ]
 }
