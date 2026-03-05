@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-26T07:45:44.781767",
+  "scraped_at": "2026-03-05T05:08:40.638755",
   "alternative_titles": "포그랜드, Pogeuraendeu",
   "status": "Berjalan",
   "author": "Pogo",
@@ -25,34 +25,40 @@
   "synopsis": "Manhwa                    Fog Land yang dibuat oleh komikus bernama\n                    Pogo ini bercerita tentang\n                    Fogland, penjara internasional misterius, menjebak Dante Kang, seorang guru sains yang dikirim untuk mereformasi tahanan selama kerusuhan mendadak, sehingga dia hanya punya satu cara untuk melarikan diri: dengan menjadi seorang pemimpin.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Fog Land Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0yNy8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Fog Land Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0yNi8=",
-      "date": "31 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Fog Land Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0yNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Fog Land Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0yNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Fog Land Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0yMy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Fog Land Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0yMi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -94,7 +100,7 @@
       "chapter": "15",
       "title": "Komik Fog Land Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0xNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -181,5 +187,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

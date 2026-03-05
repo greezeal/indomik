@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-03T23:04:53.042768",
+  "scraped_at": "2026-03-05T05:08:13.708453",
   "alternative_titles": "高武进化：从觉醒怪兽之王开始, Evolución de Alto Nivel: Comenzando como el Rey de los Monstruos",
   "status": "Berjalan",
   "author": "两套金漫画",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    Martial Evolution: Start by Awakening the King of Monsters yang dibuat oleh komikus bernama\n                    两套金漫画 ini bercerita tentang\n                    Seorang pemuda bernama Yi He terlahir kembali ke dunia seni bela diri yang kuat dan membangkitkan Raja Monster dengan garis keturunan terkuat!",
   "chapters": [
     {
+      "chapter": "98",
+      "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 98",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTgv",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "97",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTcv",
-      "date": "20 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "96",
       "title": "Komik Martial Evolution: Start by Awakening the King of Monsters Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC1ldm9sdXRpb24tc3RhcnQtYnktYXdha2VuaW5nLXRoZS1raW5nLW9mLW1vbnN0ZXJzLWNoYXB0ZXItOTYv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "95",
@@ -605,5 +611,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 97
+  "total_chapters": 98
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T03:38:26.593744",
-  "total_comics": 1116,
+  "last_updated": "2026-03-05T05:10:57.281673",
+  "total_comics": 1118,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1112,7 +1112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "322911-rookie-but-one-in-a-million-actor",
@@ -1240,7 +1240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 106
     },
     {
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
@@ -1358,9 +1358,9 @@
       "slug": "guest-gun",
       "title": "Guest Gun",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.08,
+      "total_chapters": 70
     },
     {
       "slug": "the-genius-midfielders-pass-is-special",
@@ -1888,7 +1888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "931897-reborn-as-the-enemy-prince",
@@ -1904,7 +1904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 117
+      "total_chapters": 122
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -2688,7 +2688,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 29
+      "total_chapters": 32
     },
     {
       "slug": "heavenly-demon-tavern",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2936,7 +2936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.26,
-      "total_chapters": 188
+      "total_chapters": 191
     },
     {
       "slug": "720516-terminally-ill-genius-dark-knight",
@@ -2952,7 +2952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 300
+      "total_chapters": 302
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3328,7 +3328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.57,
-      "total_chapters": 114
+      "total_chapters": 115
     },
     {
       "slug": "mirror-mong-woo",
@@ -3840,7 +3840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
@@ -3984,7 +3984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 88
+      "total_chapters": 91
     },
     {
       "slug": "the-third-prince-of-the-fallen-kingdom-has-regressed",
@@ -4576,7 +4576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
@@ -4856,7 +4856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.65,
-      "total_chapters": 193
+      "total_chapters": 198
     },
     {
       "slug": "invincible-after-shocking-my-empress-wife",
@@ -5232,7 +5232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 111
+      "total_chapters": 114
     },
     {
       "slug": "dukedoms-legendary-prodigy",
@@ -5294,9 +5294,9 @@
       "slug": "netoge-no-yome-ga-ninki-idol-datta",
       "title": "Netoge no Yome ga Ninki Idol datta",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.49,
+      "total_chapters": 38
     },
     {
       "slug": "global-beast-tamer-i-can-see-the-path-of-evolution",
@@ -5408,7 +5408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "484033-mikadono-sanshimai-wa-angai-choroi",
@@ -5728,7 +5728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 136
+      "total_chapters": 139
     },
     {
       "slug": "zombie-papa",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -6920,7 +6920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "genius-hitter-hits-fastball",
@@ -7296,7 +7296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "aishisugiru-niizuma",
@@ -7488,7 +7488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 28
     },
     {
       "slug": "heavenly-demon-wants-to-be-a-chef",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -8929,6 +8929,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 14
+    },
+    {
+      "slug": "mayaka-neesan-wa-uso-ga-tsukenai",
+      "title": "Mayaka-neesan wa Uso ga Tsukenai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.89,
+      "total_chapters": 8
+    },
+    {
+      "slug": "love-letter-from-the-future",
+      "title": "Love Letter From The Future",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
     }
   ]
 }

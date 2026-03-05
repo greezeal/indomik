@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-26T15:43:36.272731",
+  "scraped_at": "2026-03-05T05:05:56.600417",
   "alternative_titles": "夜鷹ふたたび, Dạ Ưng Trở Lại, Nighthawk Returns",
   "status": "Berjalan",
   "author": "Izumida Fuyuki",
@@ -19,28 +19,34 @@
   "synopsis": "Manga                    Yotaka Futatabi yang dibuat oleh komikus bernama\n                    Izumida Fuyuki ini bercerita tentang\n                    Pembunuh bayaran legendaris \"Nighthawk\" kini telah menjadi NEET berusia 33 tahun yang telah pensiun, pecandu alkohol, dan perokok berat. Akankah ia kembali lagi?!",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Yotaka Futatabi Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90YWthLWZ1dGF0YWJpLWNoYXB0ZXItMTIv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Yotaka Futatabi Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90YWthLWZ1dGF0YWJpLWNoYXB0ZXItMTEv",
-      "date": "8 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Yotaka Futatabi Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90YWthLWZ1dGF0YWJpLWNoYXB0ZXItMTAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Yotaka Futatabi Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90YWthLWZ1dGF0YWJpLWNoYXB0ZXItOS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "08",
       "title": "Komik Yotaka Futatabi Chapter 08",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90YWthLWZ1dGF0YWJpLWNoYXB0ZXItMDgv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -85,5 +91,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }
