@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-03T20:44:21.864278",
+  "scraped_at": "2026-03-05T23:39:34.543772",
   "alternative_titles": "やめろ好きになってしまう, Stop! I\\'m Falling for You!, Stop It, I\\'m Going to Fall for You",
   "status": "Berjalan",
   "author": "Moriguchi Akira",
@@ -21,29 +21,35 @@
   "synopsis": "Manga                    Stop! I’m Falling For You yang dibuat oleh komikus bernama\n                    Moriguchi Akira ini bercerita tentang\n                    Apakah ini disengaja atau tidak disengaja?! Sebuah komedi romantis yang kacau dan sesuai dengan judulnya!! Matsura adalah seorang siswa SMA yang tenang dan terkendali, yang selalu berpura-pura. Dia pandai membaca orang dan mudah melihat sifat asli mereka, tetapi karena alasan yang tidak diketahui, dia terus-menerus didekati oleh Kyuragi—seorang gadis cantik dengan kepang yang merupakan bagian dari kelompok populer! Entah disengaja atau tidak, tindakan Kyuragi yang ceria dan licik terus membuatnya bingung, dan sebelum dia menyadarinya, Matsura berteriak, \"Hentikan! Aku jatuh cinta padamu!\"",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Stop! I’m Falling For You Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvcC1pbS1mYWxsaW5nLWZvci15b3UtY2hhcHRlci01Lw==",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Stop! I’m Falling For You Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvcC1pbS1mYWxsaW5nLWZvci15b3UtY2hhcHRlci00Lw==",
-      "date": "5 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Stop! I’m Falling For You Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvcC1pbS1mYWxsaW5nLWZvci15b3UtY2hhcHRlci0zLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Stop! I’m Falling For You Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvcC1pbS1mYWxsaW5nLWZvci15b3UtY2hhcHRlci0yLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Stop! I’m Falling For You Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvcC1pbS1mYWxsaW5nLWZvci15b3UtY2hhcHRlci0xLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-01T11:07:32.831472",
+  "scraped_at": "2026-03-05T23:41:36.091814",
   "alternative_titles": "Castle 2: Mankind, Castle II: The Mannji Award, 캐슬2:만인지상",
   "status": "Berjalan",
   "author": "JEONG Yeon",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    Castle 2: On Top of Everyone yang dibuat oleh komikus bernama\n                    JEONG Yeon ini bercerita tentang\n                    Kim Shin, seorang pembunuh khusus yang mengumpulkan orang-orang dari seluruh negeri untuk mengatur “White Coat” untuk menggulingkan kekuatan absolut “Castle” di dunia belakang,\r\nBegitulah cara dia masuk ke dalam Castle dan mulai tidur dengan musuh. Akankah Kim Shin bisa menghancurkan Castle dan menyelesaikan balas dendamnya sesuai keinginannya?",
   "chapters": [
     {
+      "chapter": "127",
+      "title": "Komik Castle 2: On Top of Everyone Chapter 127",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItMTI3Lw==",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "126",
       "title": "Komik Castle 2: On Top of Everyone Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItMTI2Lw==",
-      "date": "14 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "125",
@@ -36,13 +42,13 @@
       "chapter": "124",
       "title": "Komik Castle 2: On Top of Everyone Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItMTI0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "123",
       "title": "Komik Castle 2: On Top of Everyone Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItMTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "122",
@@ -54,7 +60,7 @@
       "chapter": "121",
       "title": "Komik Castle 2: On Top of Everyone Chapter  121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItMTIxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "120",
@@ -78,7 +84,7 @@
       "chapter": "117",
       "title": "Komik Castle 2: On Top of Everyone Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItMTE3Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "116",
@@ -228,7 +234,7 @@
       "chapter": "91",
       "title": "Komik Castle 2: On Top of Everyone Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItOTEv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "90",
@@ -378,7 +384,7 @@
       "chapter": "66",
       "title": "Komik Castle 2: On Top of Everyone Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FzdGxlLTItb24tdG9wLW9mLWV2ZXJ5b25lLWNoYXB0ZXItNjYv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "65",
@@ -771,5 +777,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 125
+  "total_chapters": 126
 }

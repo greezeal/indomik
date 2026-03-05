@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.37,
-  "scraped_at": "2026-03-05T11:43:46.068540",
+  "scraped_at": "2026-03-05T23:32:56.044683",
   "alternative_titles": "Распятие Шести, 十字架のろくにん",
   "status": "Berjalan",
   "author": "Nakatake Shiryuu",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Juujika no Rokunin yang dibuat oleh komikus bernama\n                    Nakatake Shiryuu ini bercerita tentang\n                    \"Apakah saya tetap bisa membunuh orang?\"\r\n\r\nKetegangan balas dendam yang berbahaya oleh Shiryu Nakatake, pendatang baru di Majalah Bessatsu Shonen.\r\n\r\n\"Hindari, jika seseorang bertobat, biarkan dia pergi dan tidak melakukan apa-apa. Dia harus diberi kesempatan untuk dilahirkan kembali.\"\r\n\r\n\"Kakek, kuharap dia tidak bereinkarnasi sendiri.\"\r\n\r\nUntuk mengalahkan beberapa monster non-manusia, bocah itu juga menjadi sesuatu yang bukan manusia.\r\n\r\nShun Uruma, seorang siswa kelas enam, dinamai \"Tubuh Eksperimental: A\" oleh lima teman sekelasnya dan diintimidasi secara parah dan tinggal di neraka. Satu-satunya kedamaian adalah dengan saudaranya, yang mencintainya, dan orang tuanya, yang melindunginya ..... sampai lima monster membunuh keluarganya.\r\n\r\nKetika dia akhirnya kehilangan segalanya dan menghadapi neraka yang sebenarnya, sebuah \"keinginan\" gelap lahir di dalam Shun. Dia terlahir kembali di bawah pelatihan kakeknya, yang bertugas di unit rahasia selama Perang Dunia II. Sekarang, empat tahun kemudian, dia muncul di depan musuh yang ditakdirkannya.\r\n\r\n\"Aku tidak akan membiarkan SIAPA PUN menghalangi pembalasanku.\"",
   "chapters": [
     {
+      "chapter": "231",
+      "title": "Komik Juujika no Rokunin Chapter 231",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV1amlrYS1uby1yb2t1bmluLWNoYXB0ZXItMjMxLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "230",
       "title": "Komik Juujika no Rokunin Chapter 230",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV1amlrYS1uby1yb2t1bmluLWNoYXB0ZXItMjMwLw==",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "229",
@@ -1413,5 +1419,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 232
+  "total_chapters": 233
 }

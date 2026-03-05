@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 8.33,
-  "scraped_at": "2026-03-02T11:52:29.024510",
+  "scraped_at": "2026-03-05T23:39:59.291306",
   "alternative_titles": "레드스톰, Kızıl Fırtına, Tempestade Vermelha, العاصفة الحمراء, طوفان سرخ, Badai Merah, Красная буря, Красный Шторм",
   "status": "Berjalan",
   "author": "No Kyoungchan (노경찬)",
@@ -28,16 +28,22 @@
   "synopsis": "Manhwa                    Red Storm yang dibuat oleh komikus bernama\n                    No Kyoungchan (노경찬) ini bercerita tentang\n                    Seorang pria misterius tiba-tiba muncul di gurun yang memisahkan Benua Timur dan Barat. Seorang anak laki-laki, Yulian Provoke dari suku Pareia menemukan pria ini, dan membawanya ke desanya. Ternyata pria itu adalah individu yang sangat kuat dan luar biasa, dan dia mulai mengajari anak laki-laki itu keterampilan bertarung.",
   "chapters": [
     {
+      "chapter": "173",
+      "title": "Komik Red Storm Chapter 173",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXN0b3JtLWNoYXB0ZXItMTczLw==",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "172",
       "title": "Komik Red Storm Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXN0b3JtLWNoYXB0ZXItMTcyLw==",
-      "date": "3 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik Red Storm Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXN0b3JtLWNoYXB0ZXItMTcxLw==",
-      "date": "1 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "170",
@@ -1060,5 +1066,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 172
+  "total_chapters": 173
 }

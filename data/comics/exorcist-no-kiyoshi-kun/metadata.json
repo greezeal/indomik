@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.1,
-  "scraped_at": "2026-03-02T11:51:57.442376",
+  "scraped_at": "2026-03-05T23:38:18.094633",
   "alternative_titles": "悪祓士のキヨシ君, エクソシストのキヨシ君, Ultimate Exorcist Kiyoshi",
   "status": "Berjalan",
   "author": "Shouichi Usui",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Exorcist no Kiyoshi-kun yang dibuat oleh komikus bernama\n                    Shouichi Usui ini bercerita tentang\n                    Pengusir setan paling kuat dalam sejarah--Kiyoshi! Untuk melindungi apa yang berharga baginya, Kiyoshi telah mencapai kekuatan tertinggi. Tapi dia punya rahasia yang tidak bisa dia ceritakan kepada siapa pun... Menjadi pedang yang membunuh kejahatan! Menjadi tameng yang melindungi yang lemah! Semuanya menyatu dalam serial komedi pertarungan pengusir setan dramatis baru ini!",
   "chapters": [
     {
+      "chapter": "75",
+      "title": "Komik Exorcist no Kiyoshi-kun Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtbm8ta2l5b3NoaS1rdW4tY2hhcHRlci03NS8=",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "74",
       "title": "Komik Exorcist no Kiyoshi-kun Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtbm8ta2l5b3NoaS1rdW4tY2hhcHRlci03NC8=",
-      "date": "3 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Exorcist no Kiyoshi-kun Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtbm8ta2l5b3NoaS1rdW4tY2hhcHRlci03My8=",
-      "date": "3 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "72",
@@ -248,7 +254,7 @@
       "chapter": "37",
       "title": "Komik Exorcist no Kiyoshi-kun Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtbm8ta2l5b3NoaS1rdW4tY2hhcHRlci0zNy8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -440,13 +446,13 @@
       "chapter": "5",
       "title": "Komik Exorcist no Kiyoshi-kun Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtbm8ta2l5b3NoaS1rdW4tY2hhcHRlci01Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Exorcist no Kiyoshi-kun Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhvcmNpc3Qtbm8ta2l5b3NoaS1rdW4tY2hhcHRlci00Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "3",
@@ -467,5 +473,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 74
+  "total_chapters": 75
 }

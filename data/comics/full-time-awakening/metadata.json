@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-05T11:43:27.628386",
+  "scraped_at": "2026-03-05T23:36:27.309549",
   "alternative_titles": "全职觉醒",
   "status": "Berjalan",
   "author": "绘世TONY",
@@ -18,28 +18,40 @@
   "synopsis": "Manhua                    Full-Time Awakening yang dibuat oleh komikus bernama\n                    绘世TONY ini bercerita tentang\n                    Sebagai kapten Legiun Ilahi dan Awakener terkuat, Bai Yi dikhianati oleh seorang rekan, menyaksikan semua rekan satu timnya mati di depan matanya. Baru kemudian ia menyadari bahwa ia selalu menjadi pion bagi mereka yang berkuasa. Setelah kehilangan segalanya, ia terlahir kembali 20 tahun yang lalu, kembali ke masa SMP-nya sebelum bangkit.Saat itu, keluarga dan rekan satu timnya masih hidup. Untuk menyelamatkan mereka, membalaskan dendam sang pengkhianat, dan menggulingkan seluruh sistem penguasa yang korup, ia memulai jalan kekuatan yang sepi.",
   "chapters": [
     {
+      "chapter": "35",
+      "title": "Komik Full-Time Awakening Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTM1Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Full-Time Awakening Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTM0Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "33",
       "title": "Komik Full-Time Awakening Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTMzLw==",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Full-Time Awakening Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTMyLw==",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Full-Time Awakening Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTMxLw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Full-Time Awakening Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTMwLw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "29",
@@ -183,19 +195,19 @@
       "chapter": "6",
       "title": "Komik Full-Time Awakening Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTYv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Full-Time Awakening Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTUv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Full-Time Awakening Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVsbC10aW1lLWF3YWtlbmluZy1jaGFwdGVyLTQv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "3",
@@ -216,5 +228,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 35
 }
