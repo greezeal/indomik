@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.5,
-  "scraped_at": "2026-02-28T07:09:16.677032",
+  "scraped_at": "2026-03-06T08:54:55.007162",
   "alternative_titles": "검 먹는 소드마스터 The more swords I devour, the stronger I become.",
   "status": "Berjalan",
   "author": "Real Culprit",
@@ -22,28 +22,34 @@
   "synopsis": "Manhwa                    Sword Devouring Swordmaster yang dibuat oleh komikus bernama\n                    Real Culprit ini bercerita tentang\n                    Arhan Karavan kehilangan segalanya karena seorang ahli pedang tanpa mengetahui alasannya.\r\n\r\nDi tengah keputusasaan yang mencekam, Arhan hanya punya satu cara untuk membalas dendam...\r\n\r\n\"Telan pedang dan jadikan kekuatan yang ada di dalam dirimu milikmu.\"\r\n\r\n...demikianlah kisah balas dendamnya dimulai.\r\n\r\nNama keluarga yang terlupakan, \"Karavan,\" akan kembali bergema.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Sword Devouring Swordmaster Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTgv",
+      "date": "37 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik Sword Devouring Swordmaster Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTcv",
-      "date": "11 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Sword Devouring Swordmaster Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Sword Devouring Swordmaster Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Sword Devouring Swordmaster Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
@@ -124,5 +130,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }

@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.56,
-  "scraped_at": "2026-02-13T06:16:25.360687",
-  "alternative_titles": "Jinsei Gyakuten - Uwaki sare, Enzai wo Kiserareta Ore ga, Gakuen Ichi no Bishoujo ni Natsukareru, 人生逆転　浮気をされ、えん罪を着せられた俺が、学園一の美少女に懐かれる, Jinsei Gyakuten - Uwaki sare, Enzai o Kiserareta Ore ga, Gakuen Ichi no Bishoujo ni Natsukareru, My Life Turned Around: After Being Cheated on and Falsely Accused, I Ended up Being Adored by the Most Beautiful Girl in School, Hidupku Berbalik: Diselingkuhi dan Difitnah, Kini Aku Dimanjakan oleh Gadis Tercantik di Sekolah, Minha Vida Virou de Cabeça para Baixo: Depois de Ser Traído e Falsamente Acusado, Acabei Sendo Adorado pela Garota Mais Bonita da Escola, Cuộc đời tôi đã thay đổi: Sau khi tôi bị phản bội và buộc tội oan, cô gái xinh đẹp nhất trường lại trở nên thân thiết với tôi~, Переворот судьбы: Меня обманули, обвинили ложно — и теперь ко мне привязалась самая красивая девушка школы, Hayatım Tersine Döndü: Aldatılıp Suçlandıktan Sonra, Okulun En Güzel Kızı Tarafından Sevilmeye Başladım",
+  "scraped_at": "2026-03-06T08:52:16.029385",
+  "alternative_titles": "Jinsei Gyakuten - Uwaki sare, Enzai wo Kiserareta Ore ga, Gakuen Ichi no Bishoujo ni Natsukareru, 人生逆転　浮気をされ、えん罪を着せられた俺が、学園一の美少女に懐かれる, Jinsei Gyakuten - Uwaki sare, Enzai o Kiserareta Ore ga, Gakuen Ichi no Bishoujo ni Natsukareru, My Life Turned Around:",
   "status": "Berjalan",
   "author": "D",
   "illustrator": "Higeneko,Ikaguchi Ei",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Jinsei Gyakuten ~Uwakisare, Enzai wo Kiserareta Orega, Gakuenichi no Bishoujo ni Natsukareru~ yang dibuat oleh komikus bernama\n                    D ini bercerita tentang\n                    Di penghujung musim panas, Eiji Aono menyaksikan sahabat sekaligus pacar masa kecilnya, Miyuki Amada, berselingkuh dengan Kondo, bintang sepak bola. Dikhianati dan hancur hatinya, Eiji menjadi sasaran fitnah dan pelecehan tak berdasar. Terpojok dan tak tahu harus berbuat apa, ia melarikan diri ke atap sekolah—di mana ia bertemu seorang gadis misterius...",
   "chapters": [
     {
+      "chapter": "7.2",
+      "title": "Komik Jinsei Gyakuten ~Uwakisare, Enzai wo Kiserareta Orega, Gakuenichi no Bishoujo ni Natsukareru~ Chapter 7.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamluc2VpLWd5YWt1dGVuLXV3YWtpc2FyZS1lbnphaS13by1raXNlcmFyZXRhLW9yZWdhLWdha3VlbmljaGktbm8tYmlzaG91am8tbmktbmF0c3VrYXJlcnUtY2hhcHRlci03LTIv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "7.1",
       "title": "Komik Jinsei Gyakuten ~Uwakisare, Enzai wo Kiserareta Orega, Gakuenichi no Bishoujo ni Natsukareru~ Chapter 7.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamluc2VpLWd5YWt1dGVuLXV3YWtpc2FyZS1lbnphaS13by1raXNlcmFyZXRhLW9yZWdhLWdha3VlbmljaGktbm8tYmlzaG91am8tbmktbmF0c3VrYXJlcnUtY2hhcHRlci03LTEv",
-      "date": "18 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6.2",
       "title": "Komik Jinsei Gyakuten ~Uwakisare, Enzai wo Kiserareta Orega, Gakuenichi no Bishoujo ni Natsukareru~ Chapter 6.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamluc2VpLWd5YWt1dGVuLXV3YWtpc2FyZS1lbnphaS13by1raXNlcmFyZXRhLW9yZWdhLWdha3VlbmljaGktbm8tYmlzaG91am8tbmktbmF0c3VrYXJlcnUtY2hhcHRlci02LTIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "6.1",
@@ -45,7 +51,7 @@
       "chapter": "5",
       "title": "Komik Jinsei Gyakuten ~Uwakisare, Enzai wo Kiserareta Orega, Gakuenichi no Bishoujo ni Natsukareru~ Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamluc2VpLWd5YWt1dGVuLXV3YWtpc2FyZS1lbnphaS13by1raXNlcmFyZXRhLW9yZWdhLWdha3VlbmljaGktbm8tYmlzaG91am8tbmktbmF0c3VrYXJlcnUtY2hhcHRlci01Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "4",
@@ -72,5 +78,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

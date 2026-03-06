@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T07:52:05.059453",
-  "total_comics": 1125,
+  "last_updated": "2026-03-06T08:58:52.511880",
+  "total_comics": 1127,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -80,7 +80,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 102
+      "total_chapters": 103
     },
     {
       "slug": "831172-the-hero-returns",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 832
+      "total_chapters": 833
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 38
+      "total_chapters": 40
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1240,7 +1240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
@@ -2000,7 +2000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 308
+      "total_chapters": 310
     },
     {
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2776,7 +2776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.5,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
@@ -2856,7 +2856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 81
+      "total_chapters": 84
     },
     {
       "slug": "245396-dark-gathering",
@@ -3648,7 +3648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "special-civil-servant",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 56
+      "total_chapters": 58
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -4056,7 +4056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 99
     },
     {
       "slug": "to-hell-with-the-status-window",
@@ -4192,7 +4192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 173
+      "total_chapters": 174
     },
     {
       "slug": "120051-player-who-cant-level-up",
@@ -4248,7 +4248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 74
+      "total_chapters": 77
     },
     {
       "slug": "not-over",
@@ -4328,7 +4328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "it-all-starts-with-trillions-of-nether-currency",
@@ -4408,7 +4408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.33,
-      "total_chapters": 1221
+      "total_chapters": 1222
     },
     {
       "slug": "bad-business",
@@ -4512,7 +4512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 152
+      "total_chapters": 154
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -4782,9 +4782,9 @@
       "slug": "tsuihousareru-tabi-ni-skill-wo-te-ni-ireta-ore-ga-100-no-isekai-de-2-shuume-musou",
       "title": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 34
     },
     {
       "slug": "gal-to-dungeon-to-shuukai-okure-no-tansaku-eiyuutan-moto-legend-ima-wa-wakeari-tei-rank-tansakushana-ore-ga-s-kyuu-gal-ni-natsukare-makutte-ikusei-wo-makase-sareta",
@@ -5254,9 +5254,9 @@
       "slug": "superhuman-game-broadcast",
       "title": "Superhuman Game Broadcast",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 24
     },
     {
       "slug": "defense-breaker",
@@ -6072,7 +6072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 131
+      "total_chapters": 132
     },
     {
       "slug": "urban-dragon-revealed",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 77
+      "total_chapters": 80
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -6920,7 +6920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "genius-hitter-hits-fastball",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 78
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -6968,7 +6968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.56,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "henkyou-mob-kizoku-no-uchi-ni-totsui-de-kita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nandaga",
@@ -7256,7 +7256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "crimson-heart-wanderer",
@@ -8672,7 +8672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 12
     },
     {
       "slug": "red-storm",
@@ -8680,7 +8680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.33,
-      "total_chapters": 173
+      "total_chapters": 174
     },
     {
       "slug": "kuma-kuma-kuma-bear",
@@ -8768,7 +8768,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.74,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "the-strongest-dull-princes-secret-battle-for-the-throne",
@@ -8920,7 +8920,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 14
     },
     {
       "slug": "one-drop-of-blood-forever",
@@ -9001,6 +9001,22 @@
       "status": "Berjalan",
       "rating": 6.44,
       "total_chapters": 125
+    },
+    {
+      "slug": "the-regalia-of-the-underdog",
+      "title": "The Regalia of the Underdog",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "sacchi-sarenai-saikyou-shoku-rule-breaker",
+      "title": "Sacchi Sarenai Saikyou Shoku Rule Breaker",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.74,
+      "total_chapters": 53
     }
   ]
 }
