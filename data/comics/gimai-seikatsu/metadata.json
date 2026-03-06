@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-06T08:58:23.266405",
+  "scraped_at": "2026-03-06T21:22:26.130401",
   "alternative_titles": "Days With My Step Sister",
   "status": "Berjalan",
   "author": "Mikawa Ghost",
@@ -22,16 +22,28 @@
   "synopsis": "Manga                    Gimai Seikatsu yang dibuat oleh komikus bernama\n                    Mikawa Ghost ini bercerita tentang\n                    Ini adalah sebuah kisah yang suatu hari nanti mungkin akan jadi kisah cinta. Karena orang tuanya menikah lagi, seorang pelajar SMA bernama Yuuta Asamura akan menjalani kehidupan bersama sebagai adik dan kakak dengan teman sekolah yanh seangkatan dengannya bernama Saki Ayase. Awalnya mereka berdya sama-sama cuek, tapi?! Hubungan antara Laki-laki sederhana dan Gal cantik dimulai!!",
   "chapters": [
     {
+      "chapter": "34.2",
+      "title": "Komik Gimai Seikatsu Chapter 34.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zNC0yLw==",
+      "date": "39 menit yang lalu"
+    },
+    {
+      "chapter": "34.1",
+      "title": "Komik Gimai Seikatsu Chapter 34.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zNC0xLw==",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "33.2",
       "title": "Komik Gimai Seikatsu Chapter 33.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zMy0yLw==",
-      "date": "13 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "33.1",
       "title": "Komik Gimai Seikatsu Chapter 33.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zMy0xLw==",
-      "date": "13 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "32.2",
@@ -382,5 +394,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 60
+  "total_chapters": 62
 }

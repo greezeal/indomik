@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.11,
-  "scraped_at": "2026-02-19T20:08:58.057558",
+  "scraped_at": "2026-03-06T21:20:10.248769",
   "alternative_titles": "メメメの滅滅滅ッ！",
   "status": "Berjalan",
   "author": "Mahcdai",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Mememe no Mememe yang dibuat oleh komikus bernama\n                    Mahcdai ini bercerita tentang\n                    Terlahir dari nafsu duniawi manusia, makhluk ini menimbulkan kejadian-kejadian cabul—mereka disebut “Bonnō Kaii.”\r\nSuatu hari, Kai Eirumi, seorang siswa SMP, difitnah oleh siswi perempuan\r\ngara-gara insiden cabul yang sebenarnya disebabkan oleh Makhluk Nafsu.\r\nKarena tidak ada cara untuk membuktikan keberadaan Makhluk Nafsu yang tak terlihat oleh mata manusia,\r\nKai akhirnya dicap sebagai “mesum,”\r\ndan tumbuh dengan rasa benci yang kuat terhadap makhluk-makhluk tersebut.\r\n\r\nTiga tahun kemudian, bersamaan dengan masuk SMA, Kai direkrut\r\nke “Klub Pemusnah Makhluk Nafsu,” yang biasa disebut “Klub Mememe,”\r\nkarena suatu kondisi khusus yang ia miliki,\r\ndan ia pun mulai bertarung melawan Makhluk Nafsu—!?\r\nMakhluk cabul harus dihancurkan total!\r\nSebuah komedi kacau yang dipenuhi berbagai macam kecabulan yang lahir dari nafsu terpendam!",
   "chapters": [
     {
+      "chapter": "4.1",
+      "title": "Komik Mememe no Mememe Chapter 4.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtZW1lLW5vLW1lbWVtZS1jaGFwdGVyLTQtMS8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "3.2",
       "title": "Komik Mememe no Mememe Chapter 3.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtZW1lLW5vLW1lbWVtZS1jaGFwdGVyLTMtMi8=",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3.1",
       "title": "Komik Mememe no Mememe Chapter 3.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtZW1lLW5vLW1lbWVtZS1jaGFwdGVyLTMtMS8=",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2.2",
@@ -54,5 +60,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }

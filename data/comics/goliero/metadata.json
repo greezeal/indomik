@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-06T08:52:21.069721",
+  "scraped_at": "2026-03-06T21:24:38.879826",
   "alternative_titles": "Goleiro 골레이로",
   "status": "Berjalan",
   "author": "",
@@ -18,22 +18,28 @@
   "synopsis": "Manhwa                    GOLIERO yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Kiper… Dengan tinggi 168cm?! Baek Seungwon dikeluarkan dari timnya akibat tinggi badannya yang dinilai kurang cocok untuk mengisi posisi kiper. Setelah itu, Baek Seungwon bersumpah bahwa dia tidak akan bermain sepak bola lagi. Tapi takdirnya berubah setelah dia bertemu dengan tim futsal yang bernama ‘Goranese’. Akankah Seungwon akan bisa tumbuh bersama dengan Goranese?!",
   "chapters": [
     {
+      "chapter": "480",
+      "title": "Komik GOLIERO Chapter 480",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTQ4MC8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik GOLIERO Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTEyLw==",
-      "date": "13 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik GOLIERO Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTExLw==",
-      "date": "13 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik GOLIERO Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTEwLw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "9",
@@ -45,19 +51,19 @@
       "chapter": "8",
       "title": "Komik GOLIERO Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTgv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik GOLIERO Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTcv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik GOLIERO Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTYv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
@@ -90,5 +96,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }
