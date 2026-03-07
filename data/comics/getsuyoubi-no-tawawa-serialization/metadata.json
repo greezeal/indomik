@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.68,
-  "scraped_at": "2026-03-02T11:54:29.280442",
+  "scraped_at": "2026-03-07T10:13:55.652120",
   "alternative_titles": "Tawawa on Monday, Загруженный понедельник, Тавава по Понедельникам, 月曜日のたわわ",
   "status": "Berjalan",
   "author": "Himura Kiseki",
@@ -23,46 +23,58 @@
   "synopsis": "Manga                    Getsuyoubi no Tawawa (Serialization) yang dibuat oleh komikus bernama\n                    Himura Kiseki ini bercerita tentang\n                    Seorang pria gaji cukup tertekan, terutama pada hari Senin. Pada titik terendahnya, seorang gadis SMA yang diberkahi dengan baik yang menyebut dirinya Ai-chan tersandung payudaranya terlebih dahulu ke wajahnya. Gegar otak yang dia berikan padanya menjadi awal dari hubungan mereka.",
   "chapters": [
     {
+      "chapter": "123",
+      "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 123",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTEyMy8=",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "122",
+      "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 122",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTEyMi8=",
+      "date": "4 hari yang lalu"
+    },
+    {
       "chapter": "121",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTEyMS8=",
-      "date": "4 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "120",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTEyMC8=",
-      "date": "2 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "119",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExOS8=",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExOC8=",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExNy8=",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExNi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "115",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTExNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "114",
@@ -140,7 +152,7 @@
       "chapter": "102",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTEwMi8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "101",
@@ -272,19 +284,19 @@
       "chapter": "80",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTgwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTc5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTc4Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "77",
@@ -356,25 +368,25 @@
       "chapter": "66",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTY2Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTY1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTY0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTYzLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "62",
@@ -476,7 +488,7 @@
       "chapter": "46",
       "title": "Komik Getsuyoubi no Tawawa (Serialization) Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0c3V5b3ViaS1uby10YXdhd2Etc2VyaWFsaXphdGlvbi1jaGFwdGVyLTQ2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "45",
@@ -749,5 +761,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 121
+  "total_chapters": 123
 }

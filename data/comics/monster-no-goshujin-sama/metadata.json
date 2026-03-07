@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.7,
-  "scraped_at": "2026-03-05T23:36:39.708943",
+  "scraped_at": "2026-03-07T10:15:15.221350",
   "alternative_titles": "Master of Monsters, Monster Tamer, モンスターのご主人様",
   "status": "Berjalan",
   "author": "Higure Minto",
@@ -27,10 +27,16 @@
   "synopsis": "Manga                    Monster no Goshujin-sama yang dibuat oleh komikus bernama\n                    Higure Minto ini bercerita tentang\n                    Semua orang di sekolah menengah tiba-tiba dipindahkan ke dunia lain. Saat mereka diserang oleh monster, mereka menemukan bahwa beberapa siswa sekarang memiliki kekuatan super. Mereka mengorganisir diri menjadi dua kelompok. Mereka yang tidak memiliki kekuatan disebut Grup Tinggal di Rumah dan yang bersama mereka disebut Grup Eksplorasi. Pada hari di mana sebagian besar Grup Eksplorasi keluar, yang tersisa memulai pembantaian dan pemerkosaan Grup Rumah Tinggal.\r\n\r\nDi sini kita bertemu protagonis kita, seorang pria biasa tanpa kemampuan yang baru saja lolos dari kematian di tangan teman sekolahnya. Dia berakhir jauh di sebuah gua di ambang kematian, kelelahan dan terluka ketika lendir memasuki gua dan mulai menggerogoti tangannya. Yang bisa dia lakukan hanyalah mengucapkan, “… tolong… seseorang di luar sana… bantu saya….”",
   "chapters": [
     {
+      "chapter": "91",
+      "title": "Komik Monster no Goshujin-sama Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3Rlci1uby1nb3NodWppbi1zYW1hLWNoYXB0ZXItOTEv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "90",
       "title": "Komik Monster no Goshujin-sama Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3Rlci1uby1nb3NodWppbi1zYW1hLWNoYXB0ZXItOTAv",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "89",
@@ -735,5 +741,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 118
+  "total_chapters": 119
 }

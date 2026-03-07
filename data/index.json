@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T09:47:55.012833",
-  "total_comics": 1133,
+  "last_updated": "2026-03-07T10:18:04.093609",
+  "total_comics": 1134,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 833
+      "total_chapters": 834
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -352,7 +352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 165
+      "total_chapters": 167
     },
     {
       "slug": "children-of-the-rune",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1040,7 +1040,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 18
+      "total_chapters": 19
     },
     {
       "slug": "magic-lord",
@@ -1344,7 +1344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 151
+      "total_chapters": 152
     },
     {
       "slug": "next-life",
@@ -2358,9 +2358,9 @@
       "slug": "787094-the-undefeatable-swordsman",
       "title": "The Undefeatable Swordsman",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.48,
+      "total_chapters": 283
     },
     {
       "slug": "konya-coin-randorii-de-aimashou",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2752,7 +2752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 190
+      "total_chapters": 191
     },
     {
       "slug": "151515-omniscient-readers-viewpoint",
@@ -3832,7 +3832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.26,
-      "total_chapters": 865
+      "total_chapters": 868
     },
     {
       "slug": "yotaka-futatabi",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 70
+      "total_chapters": 71
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -4360,7 +4360,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 591
+      "total_chapters": 593
     },
     {
       "slug": "250964-the-extras-academy-survival-guide",
@@ -4376,7 +4376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.59,
-      "total_chapters": 314
+      "total_chapters": 315
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -4424,7 +4424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "712275-killer-peter",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 120
+      "total_chapters": 121
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4496,7 +4496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 80
+      "total_chapters": 81
     },
     {
       "slug": "voice-phishing-turns-your-life-around",
@@ -4512,7 +4512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 154
+      "total_chapters": 155
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -4584,7 +4584,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 141
+      "total_chapters": 142
     },
     {
       "slug": "885552-manager-kim",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4888,7 +4888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 55
+      "total_chapters": 57
     },
     {
       "slug": "office-worker-who-sees-fate",
@@ -5416,7 +5416,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.94,
-      "total_chapters": 194
+      "total_chapters": 196
     },
     {
       "slug": "100402-solo-farming-in-the-tower",
@@ -5968,7 +5968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 34
     },
     {
       "slug": "owari-no-seraph",
@@ -6120,7 +6120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
@@ -6560,7 +6560,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "after-improperly-licking-a-dog-i-became-a-billionaire",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7392,7 +7392,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "empyreal-cabinet",
@@ -8224,7 +8224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.68,
-      "total_chapters": 121
+      "total_chapters": 123
     },
     {
       "slug": "dog-matic",
@@ -8864,7 +8864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 45
+      "total_chapters": 47
     },
     {
       "slug": "572108-informer",
@@ -8984,7 +8984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.7,
-      "total_chapters": 118
+      "total_chapters": 119
     },
     {
       "slug": "magic-level-99990000-all-attribute-great-sage",
@@ -9065,6 +9065,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 71
+    },
+    {
+      "slug": "bouken-ni-iku-fuku-ga-nai",
+      "title": "Bouken ni Iku Fuku ga Nai!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 7
     }
   ]
 }

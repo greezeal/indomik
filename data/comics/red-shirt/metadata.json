@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.36,
-  "scraped_at": "2026-03-03T23:02:44.142234",
+  "scraped_at": "2026-03-07T10:12:47.621710",
   "alternative_titles": "레드셔츠, Червона сорочка",
   "status": "Berjalan",
   "author": "Punch Kick",
@@ -19,34 +19,46 @@
   "synopsis": "Manhwa                    Red Shirt yang dibuat oleh komikus bernama\n                    Punch Kick ini bercerita tentang\n                    Legenda perusahaan pembunuh, Cha Si-hyuk. Ia memutuskan untuk pensiun setelah bertemu dengan wanita yang dicintainya, tetapi perusahaan tidak berniat melepaskannya begitu saja. Akhirnya, segalanya mulai diambil darinya, dan Cha Si-hyuk kembali mengangkat pedang. Balas dendam pun dimulai, dan perang dengan organisasi besar ‘Neville’ pun tak terelakkan... Apa yang tersisa di ujung pedang balas dendam?",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik Red Shirt Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNDcv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik Red Shirt Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNDYv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "45",
       "title": "Komik Red Shirt Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNDUv",
-      "date": "11 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Red Shirt Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNDQv",
-      "date": "11 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Red Shirt Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNDMv",
-      "date": "11 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Red Shirt Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNDIv",
-      "date": "11 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Red Shirt Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNDEv",
-      "date": "13 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "40",
@@ -166,7 +178,7 @@
       "chapter": "21",
       "title": "Komik Red Shirt Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItMjEv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -289,5 +301,5 @@
       "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 45
+  "total_chapters": 47
 }
