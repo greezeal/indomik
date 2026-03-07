@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.39,
-  "scraped_at": "2026-03-07T04:17:51.807247",
+  "scraped_at": "2026-03-07T17:00:42.505047",
   "alternative_titles": "Combat Continent 2, Combat Continent II, Douluo Dalu II - Jueshui Tangmen, Đấu La Đại Lục 2 - Tuyệt Thế Đường Môn, Soul Land 2, Soul Land II, 斗罗大陆2 - 绝世唐门",
   "status": "Berjalan",
   "author": "Tang Jia San Shao",
@@ -22,10 +22,16 @@
   "synopsis": "Manhua                    Soul Land II yang dibuat oleh komikus bernama\n                    Tang Jia San Shao ini bercerita tentang\n                    Tanah tanpa sihir, dou-qi, seni bela diri, tetapi dengan roh esensi sebagai gantinya. Ini adalah benua 10.000 tahun setelah pembentukan Sekte Tang. Pahlawan baru dan temannya menjelajahi negeri, \"Tujuh Monster Jeritan\" baru. Akankah mereka mempertahankan nama Sekte Tang? Atau akankah itu runtuh karena sistem esensi baru?",
   "chapters": [
     {
+      "chapter": "473",
+      "title": "Komik Soul Land II Chapter 473",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDczLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "472",
       "title": "Komik Soul Land II Chapter 472",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDcyLw==",
-      "date": "44 menit yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "471",
@@ -169,7 +175,7 @@
       "chapter": "447",
       "title": "Komik Soul Land II Chapter 447",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDQ3Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "446",
@@ -319,7 +325,7 @@
       "chapter": "420",
       "title": "Komik Soul Land II Chapter 420",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDIwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "419",
@@ -3514,5 +3520,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 582
+  "total_chapters": 583
 }

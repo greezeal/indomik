@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-06T08:55:48.397812",
+  "scraped_at": "2026-03-07T17:01:41.048067",
   "alternative_titles": "ゆいは影でしか生きられない,, The Shadow Engulfed Her Life",
   "status": "Berjalan",
   "author": "みとうゆう",
@@ -23,40 +23,46 @@
   "synopsis": "Manga                    Yui Can Only Live In the Shadows yang dibuat oleh komikus bernama\n                    みとうゆう ini bercerita tentang\n                    Pada suatu siang musim panas di bawah terik matahari, Aki, seorang anak laki-laki yang sering diintimidasi, memutuskan untuk menyatakan perasaannya kepada teman masa kecilnya, Yui.Namun, dalam perjalanan pulang, Yui tiba-tiba menghilang. Meskipun mereka berjalan bersama, dia lenyap tanpa jejak.Kehilangan Yui — satu-satunya sekutunya dan gadis yang dicintainya — Aki jatuh dalam keputusasaan.Tetapi kemudian, Yui muncul di hadapannya sekali lagi.\"Aku telah menjadi bayangan.\"Penampilannya menyeramkan. Ia mengulurkan lengan dan kakinya dari dalam bayangan, bergerak seolah berenang di dalamnya.Selama ada bayangan, ia bisa datang dan pergi dengan bebas — menembus tanah, langit-langit… bahkan menembus tubuh orang.Apakah ia benar-benar Yui… atau sesuatu yang lain sama sekali?Karena sangat ingin membawa Yui kembali, Aki memulai pengejarannya, tetapi di luar keinginannya, mimpi buruk tentang “bayangan” mulai melahap mereka berdua.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Yui Can Only Live In the Shadows Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVpLWNhbi1vbmx5LWxpdmUtaW4tdGhlLXNoYWRvd3MtY2hhcHRlci0xOC8=",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik Yui Can Only Live In the Shadows Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVpLWNhbi1vbmx5LWxpdmUtaW4tdGhlLXNoYWRvd3MtY2hhcHRlci0xNy8=",
-      "date": "44 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Yui Can Only Live In the Shadows Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVpLWNhbi1vbmx5LWxpdmUtaW4tdGhlLXNoYWRvd3MtY2hhcHRlci0xNi8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Yui Can Only Live In the Shadows Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVpLWNhbi1vbmx5LWxpdmUtaW4tdGhlLXNoYWRvd3MtY2hhcHRlci0xNS8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Yui Can Only Live In the Shadows Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVpLWNhbi1vbmx5LWxpdmUtaW4tdGhlLXNoYWRvd3MtY2hhcHRlci0xNC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Yui Can Only Live In the Shadows Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVpLWNhbi1vbmx5LWxpdmUtaW4tdGhlLXNoYWRvd3MtY2hhcHRlci0xMy8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Yui Can Only Live In the Shadows Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVpLWNhbi1vbmx5LWxpdmUtaW4tdGhlLXNoYWRvd3MtY2hhcHRlci0xMi8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "11",
@@ -125,5 +131,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }

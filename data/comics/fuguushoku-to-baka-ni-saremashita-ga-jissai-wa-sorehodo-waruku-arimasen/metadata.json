@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.81,
-  "scraped_at": "2026-03-05T11:43:32.761917",
-  "alternative_titles": "Fuguushoku to Baka ni saremashita ga, Jissai wa sore hodo Waruku arimasen?, People Looked Down on Me for Having a Crummy Job but It Really Isn't All That Bad?, People Made Fun of Me for Being Jobless but Its Not Bad at All, Все смеялись надо мной из-за от",
+  "scraped_at": "2026-03-07T17:01:20.230331",
+  "alternative_titles": "Fuguushoku to Baka ni saremashita ga, Jissai wa sore hodo Waruku arimasen?, People Looked Down on Me for Having a Crummy Job but It Really Isn't All That Bad?, People Made Fun of Me for Being Jobless but Its Not Bad at All, Все смеялись надо мной из-за отсутствия профессии, но всё не так уж и плохо, 不幸职业的幸运?, 不遇職とバカにされましたが、実際はそれほど悪くありません？",
   "status": "Berjalan",
   "author": "Katanazuki",
   "illustrator": "NANJOU Akimasa",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Fuguushoku To Baka Ni Saremashita Ga Jissai Wa Sorehodo Waruku Arimasen? yang dibuat oleh komikus bernama\n                    Katanazuki ini bercerita tentang\n                    Shirosaki Reito tiba-tiba tersedot oleh celah misterius dan dipindahkan di antara dimensi. Dia bereinkarnasi sebagai bayi di dunia lain. Dia lahir di keluarga kerajaan dan merupakan pewaris takhta tetapi dia diusir/dikeluarkan dari istana. Alasannya adalah karena dia terlahir sebagai Support magician dan memiliki job \"Alchemist\", yang merupakan job terendah yang ada di dunia baru, dan orang-orang yang memilikinya dianggap pengangguran. Beruntung baginya, ada rahasia yang tersembunyi dalam pekerjaan itu!!\r\n\r\nDari \"pengangguran\" hingga pekerjaan terkuat!!!",
   "chapters": [
     {
+      "chapter": "52",
+      "title": "Komik Fuguushoku To Baka Ni Saremashita Ga Jissai Wa Sorehodo Waruku Arimasen? Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVndXVzaG9rdS10by1iYWthLW5pLXNhcmVtYXNoaXRhLWdhLWppc3NhaS13YS1zb3JlaG9kby13YXJ1a3UtYXJpbWFzZW4tY2hhcHRlci01Mi8=",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "51",
       "title": "Komik Fuguushoku To Baka Ni Saremashita Ga Jissai Wa Sorehodo Waruku Arimasen? Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVndXVzaG9rdS10by1iYWthLW5pLXNhcmVtYXNoaXRhLWdhLWppc3NhaS13YS1zb3JlaG9kby13YXJ1a3UtYXJpbWFzZW4tY2hhcHRlci01MS8=",
-      "date": "10 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "50",
@@ -358,5 +364,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 57
 }

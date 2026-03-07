@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-07T04:18:51.421853",
+  "scraped_at": "2026-03-07T17:04:29.227799",
   "alternative_titles": "Days With My Step Sister",
   "status": "Berjalan",
   "author": "Mikawa Ghost",
@@ -22,28 +22,40 @@
   "synopsis": "Manga                    Gimai Seikatsu yang dibuat oleh komikus bernama\n                    Mikawa Ghost ini bercerita tentang\n                    Ini adalah sebuah kisah yang suatu hari nanti mungkin akan jadi kisah cinta. Karena orang tuanya menikah lagi, seorang pelajar SMA bernama Yuuta Asamura akan menjalani kehidupan bersama sebagai adik dan kakak dengan teman sekolah yanh seangkatan dengannya bernama Saki Ayase. Awalnya mereka berdya sama-sama cuek, tapi?! Hubungan antara Laki-laki sederhana dan Gal cantik dimulai!!",
   "chapters": [
     {
+      "chapter": "35.2",
+      "title": "Komik Gimai Seikatsu Chapter 35.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zNS0yLw==",
+      "date": "28 menit yang lalu"
+    },
+    {
+      "chapter": "35.1",
+      "title": "Komik Gimai Seikatsu Chapter 35.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zNS0xLw==",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "34.2",
       "title": "Komik Gimai Seikatsu Chapter 34.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zNC0yLw==",
-      "date": "39 menit yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "34.1",
       "title": "Komik Gimai Seikatsu Chapter 34.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zNC0xLw==",
-      "date": "39 menit yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "33.2",
       "title": "Komik Gimai Seikatsu Chapter 33.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zMy0yLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "33.1",
       "title": "Komik Gimai Seikatsu Chapter 33.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0zMy0xLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "32.2",
@@ -109,13 +121,13 @@
       "chapter": "27.2",
       "title": "Komik Gimai Seikatsu Chapter 27.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0yNy0yLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "27.1",
       "title": "Komik Gimai Seikatsu Chapter 27.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2ltYWktc2Vpa2F0c3UtY2hhcHRlci0yNy0xLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "26.2",
@@ -394,5 +406,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 62
+  "total_chapters": 64
 }

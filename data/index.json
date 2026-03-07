@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T16:38:27.006777",
-  "total_comics": 1136,
+  "last_updated": "2026-03-07T17:06:15.349806",
+  "total_comics": 1137,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -240,7 +240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 501
+      "total_chapters": 502
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "70-meter-girl",
@@ -2014,9 +2014,9 @@
       "slug": "hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
       "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.08,
+      "total_chapters": 98
     },
     {
       "slug": "enishi-kun-wa-masho-harem-taishitsu-ni-mezamemashita",
@@ -2238,9 +2238,9 @@
       "slug": "nibanme-na-boku-to-ichiban-no-kanojo",
       "title": "Nibanme na Boku to Ichiban no Kanojo",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.8,
+      "total_chapters": 12
     },
     {
       "slug": "233489-the-dark-mages-return-to-enlistment",
@@ -4136,7 +4136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 226
+      "total_chapters": 228
     },
     {
       "slug": "the-eight-empresses-betrayed-me-only-to-deeply-regret-it-after-being-reborn",
@@ -4280,7 +4280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 118
+      "total_chapters": 119
     },
     {
       "slug": "the-regressed-extra-becomes-a-genius",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 83
+      "total_chapters": 84
     },
     {
       "slug": "colorist",
@@ -4864,7 +4864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 107
+      "total_chapters": 108
     },
     {
       "slug": "584967-genius-grandson-of-the-loan-shark-king",
@@ -4926,9 +4926,9 @@
       "slug": "godeokchuns-food-truck",
       "title": "Godeokchun’s Food Truck",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.0,
+      "total_chapters": 17
     },
     {
       "slug": "around-forty",
@@ -5216,7 +5216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 582
+      "total_chapters": 583
     },
     {
       "slug": "680574-doctors-rebirth",
@@ -5400,7 +5400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.72,
-      "total_chapters": 88
+      "total_chapters": 89
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -6864,7 +6864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.83,
-      "total_chapters": 43
+      "total_chapters": 45
     },
     {
       "slug": "240216-oroka-na-tenshi-wa-akuma-to-odoru",
@@ -6920,7 +6920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "genius-hitter-hits-fastball",
@@ -7064,7 +7064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.37,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "inkya-no-ore-ga-sekigae-de-s-kyuu-bishoujo-ni-kakomaretara-himitsu-no-kankei-ga-hajimatta",
@@ -7272,7 +7272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "984731-night-of-the-soulless-heathens",
@@ -7336,7 +7336,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.37,
-      "total_chapters": 234
+      "total_chapters": 235
     },
     {
       "slug": "boukensha-license-wo-hakudatsu-sareta-ossan-dakedo-manamusume-ga-dekita-no-de-nonbiri-jinsei-wo-oukasuru",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -7480,7 +7480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 173
     },
     {
       "slug": "a-weary-child-looks-for-his-father",
@@ -7720,7 +7720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "akanabe-sensei-wa-tereshirazu",
@@ -7824,7 +7824,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 14
     },
     {
       "slug": "chikasugiru-futari",
@@ -8288,7 +8288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "please-dont-die",
@@ -8888,7 +8888,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "there-are-no-bad-heros-in-this-world",
@@ -8904,7 +8904,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "ore-no-ichizu-wo-jama-suru-aitsu",
@@ -8968,7 +8968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "apocalypse-sword-god",
@@ -8992,7 +8992,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 127
+      "total_chapters": 129
     },
     {
       "slug": "792179-level-1-player",
@@ -9024,7 +9024,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.99,
-      "total_chapters": 99
+      "total_chapters": 100
     },
     {
       "slug": "class-de-ichiban-kawaii-gal-wo-ezuke-shiteiru-hanashi",
@@ -9089,6 +9089,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 13
+    },
+    {
+      "slug": "gokinjo-jk-isezaki-san-wa-isekaigaeri-no-daiseijo",
+      "title": "Gokinjo JK Isezaki-san wa Isekaigaeri no Daiseijo",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.75,
+      "total_chapters": 6
     }
   ]
 }
