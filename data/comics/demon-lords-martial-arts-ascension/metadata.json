@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-05T23:40:27.548970",
+  "scraped_at": "2026-03-07T14:45:46.736287",
   "alternative_titles": "The Demon Lord Levels Up With Martial Arts, Martial Demon King, 새엄마의 자매들",
   "status": "Berjalan",
   "author": "Iboxson, Tya",
@@ -25,10 +25,22 @@
   "synopsis": "Manhwa                    Demon Lord’s Martial Arts Ascension yang dibuat oleh komikus bernama\n                    Iboxson, Tya ini bercerita tentang\n                    “Raja Iblis.” Itu… Mereka biasa memanggilku di kehidupanku sebelumnya, sebelum aku menjadi manusia.",
   "chapters": [
     {
+      "chapter": "133",
+      "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 133",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzMy8=",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "132",
+      "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 132",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzMi8=",
+      "date": "22 jam yang lalu"
+    },
+    {
       "chapter": "131",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 131",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzMS8=",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "130",
@@ -40,7 +52,7 @@
       "chapter": "129",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEyOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "128",
@@ -100,7 +112,7 @@
       "chapter": "119",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTExOS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "118",
@@ -811,5 +823,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 131
+  "total_chapters": 133
 }

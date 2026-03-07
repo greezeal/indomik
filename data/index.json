@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T14:15:55.324632",
-  "total_comics": 1134,
+  "last_updated": "2026-03-07T14:51:45.580017",
+  "total_comics": 1136,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -224,7 +224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.97,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "oukoku-e-tsuzuku-michi",
@@ -312,7 +312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "the-return-of-the-corpse-king",
@@ -1184,7 +1184,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.29,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "368745-the-regressed-life-of-a-back-alley-mage",
@@ -4934,9 +4934,9 @@
       "slug": "around-forty",
       "title": "Around Forty",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 55
     },
     {
       "slug": "genkai-dokushin-joshi-26-gohan",
@@ -5672,7 +5672,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 14
     },
     {
       "slug": "slime-saint",
@@ -6024,7 +6024,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "792245-i-reincarnated-as-a-legendary-surgeon",
@@ -6168,7 +6168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "girl-go",
@@ -7384,7 +7384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 131
+      "total_chapters": 133
     },
     {
       "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 150
+      "total_chapters": 153
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -9073,6 +9073,22 @@
       "status": "Berjalan",
       "rating": 7.2,
       "total_chapters": 7
+    },
+    {
+      "slug": "moto-ansatsusha-tensei-shita-kizoku-no-reijou-ni-narimashita",
+      "title": "Moto Ansatsusha, Tensei shita Kizoku no Reijou ni narimashita.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.84,
+      "total_chapters": 33
+    },
+    {
+      "slug": "dan-the-bat-wielding-knight",
+      "title": "Dan, the Bat-Wielding Knight",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
     }
   ]
 }
