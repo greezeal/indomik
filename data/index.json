@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T15:12:51.519721",
-  "total_comics": 1142,
+  "last_updated": "2026-03-08T15:47:41.259931",
+  "total_comics": 1145,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -814,9 +814,9 @@
       "slug": "2-5-dimensional-seduction",
       "title": "2.5 Dimensional Seduction",
       "type": "Manga",
-      "status": "",
+      "status": "Berjalan",
       "rating": 8.26,
-      "total_chapters": 0
+      "total_chapters": 94
     },
     {
       "slug": "20-nen-de-iroiro-kawatchatta-manga",
@@ -1800,7 +1800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "centuria",
@@ -2862,9 +2862,9 @@
       "slug": "245396-dark-gathering",
       "title": "Dark Gathering",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.39,
+      "total_chapters": 49
     },
     {
       "slug": "ao-no-hako",
@@ -3760,7 +3760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 179
+      "total_chapters": 181
     },
     {
       "slug": "im-the-hero-but-the-main-heroines-are-trying-to-kill-me",
@@ -4264,7 +4264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 195
+      "total_chapters": 196
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -4608,7 +4608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.58,
-      "total_chapters": 148
+      "total_chapters": 149
     },
     {
       "slug": "global-gao-wu",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 82
+      "total_chapters": 84
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -4992,7 +4992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 136
+      "total_chapters": 137
     },
     {
       "slug": "death-game-ni-makikomareta-yamamoto-san-kimama-ni-game-balance-wo-houkaisaseru",
@@ -5592,7 +5592,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 122
+      "total_chapters": 123
     },
     {
       "slug": "821637-my-gift-lvl-9999-unlimited-gacha",
@@ -6200,7 +6200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "monogatari-no-kuromaku-ni-tensei-shite",
@@ -7384,7 +7384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 133
+      "total_chapters": 134
     },
     {
       "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
@@ -8136,7 +8136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku",
@@ -9032,7 +9032,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.29,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "mendokusai-yuureidesuga-watashi-to-koishite-kuremasu-ka",
@@ -9088,7 +9088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 23
     },
     {
       "slug": "gokinjo-jk-isezaki-san-wa-isekaigaeri-no-daiseijo",
@@ -9137,6 +9137,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 8
+    },
+    {
+      "slug": "tsuma-wa-boku-wo-futorasetai",
+      "title": "Tsuma wa Boku wo Futorasetai!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "miboujin-elf-no-kanamori-san",
+      "title": "Miboujin Elf no Kanamori-san",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "okaasan-boukensha-login-bonus-de-skill-shufu-ni-mezamemashita-shuuichi-moraeru-chirashi-de-boukensha-seikatsu-ganbarimasu",
+      "title": "Okaasan Boukensha, Login Bonus de Skill [Shufu] ni Mezamemashita. Shuuichi Moraeru Chirashi de Boukensha Seikatsu Ganbarimasu!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }
