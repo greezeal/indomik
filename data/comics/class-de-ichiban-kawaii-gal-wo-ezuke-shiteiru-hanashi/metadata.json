@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.29,
-  "scraped_at": "2026-03-07T04:16:56.189507",
+  "scraped_at": "2026-03-08T11:12:16.093043",
   "alternative_titles": "The Story of Feeding the Cutest Gyaru in Class, クラスで一番かわいいギャルを餌付けしている話",
   "status": "Berjalan",
   "author": "Tomo Shirano",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Class de Ichiban Kawaii Gal wo Ezuke Shiteiru Hanashi yang dibuat oleh komikus bernama\n                    Tomo Shirano ini bercerita tentang\n                    Sakura Kouzuki, seorang gyaru papan atas yang menjadi bintang kelas dan bahkan bekerja sebagai model pembaca, dan Houri Kazami, yang lebih suka membicarakan hal-hal otaku dengan rekan-rekannya di sudut kelas.\r\nKeduanya, yang tampaknya hidup di dunia yang sama sekali berbeda, sebenarnya adalah saudara tiri—dan diam-diam hidup bersama sebagai pasangan.\r\nDan tidak ada teman sekelas mereka yang tahu kebenarannya.\r\nSementara Sakura bersinar di sekolah, begitu dia di rumah dia benar-benar santai dan jatuh cinta pada masakan Ori.\r\nDan Houri, yang bertanggung jawab atas makanan, tidak keberatan sedikit pun——\r\n“Ikan rebus sangat enak~♡”\r\n“Masakan Onii-chan memang yang terbaik~!”\r\nSebuah cerita pemberian makan yang manis dan lembut tentang seorang gyaru yang imut dan kehidupan ganda mereka di sekolah dan di rumah!",
   "chapters": [
     {
+      "chapter": "11.1",
+      "title": "Komik Class de Ichiban Kawaii Gal wo Ezuke Shiteiru Hanashi Chapter 11.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3MtZGUtaWNoaWJhbi1rYXdhaWktZ2FsLXdvLWV6dWtlLXNoaXRlaXJ1LWhhbmFzaGktY2hhcHRlci0xMS0xLw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "10.6",
       "title": "Komik Class de Ichiban Kawaii Gal wo Ezuke Shiteiru Hanashi Chapter 10.6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3MtZGUtaWNoaWJhbi1rYXdhaWktZ2FsLXdvLWV6dWtlLXNoaXRlaXJ1LWhhbmFzaGktY2hhcHRlci0xMC02Lw==",
-      "date": "21 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "10.5",
@@ -104,13 +110,13 @@
       "chapter": "4.2",
       "title": "Komik Class de Ichiban Kawaii Gal wo Ezuke Shiteiru Hanashi Chapter 4.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3MtZGUtaWNoaWJhbi1rYXdhaWktZ2FsLXdvLWV6dWtlLXNoaXRlaXJ1LWhhbmFzaGktY2hhcHRlci00LTIv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "4.1",
       "title": "Komik Class de Ichiban Kawaii Gal wo Ezuke Shiteiru Hanashi Chapter 4.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3MtZGUtaWNoaWJhbi1rYXdhaWktZ2FsLXdvLWV6dWtlLXNoaXRlaXJ1LWhhbmFzaGktY2hhcHRlci00LTEv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "3.3",
@@ -122,7 +128,7 @@
       "chapter": "3.2",
       "title": "Komik Class de Ichiban Kawaii Gal wo Ezuke Shiteiru Hanashi Chapter 3.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3MtZGUtaWNoaWJhbi1rYXdhaWktZ2FsLXdvLWV6dWtlLXNoaXRlaXJ1LWhhbmFzaGktY2hhcHRlci0zLTIv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "3.1",
@@ -155,5 +161,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }
