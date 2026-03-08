@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 0.0,
-  "scraped_at": "2026-03-07T14:48:39.044194",
+  "scraped_at": "2026-03-08T16:03:56.752744",
   "alternative_titles": "Guerra de Cadaveres, 시체들의 전쟁, War of the Dead Bodies, Война мертвецов",
   "status": "Berjalan",
   "author": "Mayo Raccoon,MAYO-NUGURI",
@@ -22,28 +22,34 @@
   "synopsis": "Manhwa                    War of Corpses yang dibuat oleh komikus bernama\n                    Mayo Raccoon,MAYO-NUGURI ini bercerita tentang\n                    Di era di mana para Necromancer menciptakan ksatria mereka sendiri untuk bertarung, \"Perang Mayat\" adalah olahraga pamungkas. Di tengah pertempuran brutal di mana banyak orang mencurahkan gairah dan impian mereka ke dalam pertarungan, siapa yang akan muncul sebagai pemenang terakhir?",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik War of Corpses Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00Mi8=",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik War of Corpses Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00MS8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik War of Corpses Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00MC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik War of Corpses Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci0zOS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik War of Corpses Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci0zOC8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "37",
@@ -268,5 +274,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 42
 }

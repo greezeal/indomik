@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T15:47:41.259931",
+  "last_updated": "2026-03-08T16:06:22.264409",
   "total_comics": 1145,
   "comics": [
     {
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1136,7 +1136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "643745-ranger-reject",
@@ -2304,7 +2304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 482
+      "total_chapters": 483
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -3352,7 +3352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "the-demon-god",
@@ -4006,9 +4006,9 @@
       "slug": "the-art-of-leaving-work-on-time",
       "title": "The Art of Leaving Work on Time",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 30
     },
     {
       "slug": "god-level-assassin-im-the-shadow",
@@ -4760,7 +4760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "tales-of-demons-and-gods",
@@ -4984,7 +4984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "822659-black-corporation-joseon",
@@ -5064,7 +5064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.13,
-      "total_chapters": 308
+      "total_chapters": 309
     },
     {
       "slug": "kajiya-de-hajimeru-isekai-slow-life",
@@ -5160,7 +5160,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 71
+      "total_chapters": 76
     },
     {
       "slug": "a-thousand-faces",
@@ -5184,7 +5184,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 19
     },
     {
       "slug": "545921-revenge-of-the-iron-blooded-sword-hound",
@@ -5216,7 +5216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 583
+      "total_chapters": 584
     },
     {
       "slug": "680574-doctors-rebirth",
@@ -5536,7 +5536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "overlord-of-insects",
@@ -6392,7 +6392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "anta-to-osananajimitte-dake-demo-iyananoni-zekkou-kara-hajimaru-s-kyuu-bishoujo-to-no-gakuen-nariagari-seikatsu",
@@ -6600,7 +6600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "level-1-kara-hajimaru-shoukan-musou",
@@ -6928,7 +6928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "danjohi-139-no-heikou-sekai-wa-omoi-no-hoka-futsuu",
@@ -7440,7 +7440,7 @@
       "type": "Manhua",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "kimi-ni-sasageru-otokomae",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "shamoneyism",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 37
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",
@@ -8408,7 +8408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "super-no-ura-de-yani-suu-hanashi",

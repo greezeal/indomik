@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.13,
-  "scraped_at": "2026-03-01T16:42:07.456422",
+  "scraped_at": "2026-03-08T16:03:27.958336",
   "alternative_titles": "گاد آف بلک‌فیلد, 갓 오브 블랙필드",
   "status": "Berjalan",
   "author": "무장, 운(雲)",
@@ -29,46 +29,52 @@
   "synopsis": "Manhwa                    God of Blackfield yang dibuat oleh komikus bernama\n                    무장, 운(雲) ini bercerita tentang\n                    \"Siapa saya?\"\r\n\r\nLegenda Legiun Asing Prancis, 'Kang Chan'!\r\nSelama perang Afrika, dia dipanggil 'Dewa Blackfield', Dewa tanah hitam, oleh musuh-musuhnya yang ketakutan tetapi kagum padanya.\r\nNamun, dalam misi untuk membunuh Masallan, otak di belakang SISS, kelompok pendukung sunni, Kang Chan tewas dalam aksi tembakan peluru tak dikenal dari belakangnya.\r\nSaat penglihatannya menjadi kabur, dia melihat tiga belas anggota timnya, yang memiliki keyakinan mutlak padanya, terbunuh satu demi satu.\r\nSaat Kang Chan sedang menunggu kematian setelah ditembak oleh seorang pengkhianat, dia diselamatkan oleh kekuatan misterius dan terbangun 3 tahun kemudian di Korea Selatan.\r\nNamun, dia berada di tubuh 'Kang Chan' yang lain, seorang anak SMA berusia 19 tahun yang di-bully di sekolah.\r\n\r\nPerjalanan Kang Chan untuk membalas dendam pada pengkhianat dan untuk menemukan kebenaran di balik kelahirannya kembali dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "309",
+      "title": "Komik God of Blackfield Chapter 309",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDkv",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "308",
       "title": "Komik God of Blackfield Chapter 308",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDgv",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "307",
       "title": "Komik God of Blackfield Chapter 307",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDcv",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "306",
       "title": "Komik God of Blackfield Chapter 306",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDYv",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "305",
       "title": "Komik God of Blackfield Chapter 305",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDUv",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "304",
       "title": "Komik God of Blackfield Chapter 304",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "303",
       "title": "Komik God of Blackfield Chapter 303",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "302",
       "title": "Komik God of Blackfield Chapter 302",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "301",
@@ -1328,7 +1334,7 @@
       "chapter": "92",
       "title": "Komik God of Blackfield Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci05Mi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "91",
@@ -1877,5 +1883,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 308
+  "total_chapters": 309
 }
