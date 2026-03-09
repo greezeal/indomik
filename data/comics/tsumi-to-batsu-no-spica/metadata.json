@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.4,
-  "scraped_at": "2026-03-05T23:38:12.924244",
+  "scraped_at": "2026-03-09T12:40:47.579668",
   "alternative_titles": "罪と罰のスピカ, Tsumi to Batsu no Supika, Spica of Sin and Punishment",
   "status": "Berjalan",
   "author": "Ryuichi Ichi,Inoryuu Hajime",
@@ -27,16 +27,22 @@
   "synopsis": "Manga                    Tsumi to Batsu no Spica yang dibuat oleh komikus bernama\n                    Ryuichi Ichi,Inoryuu Hajime ini bercerita tentang\n                    Hatori, seorang guru SMA yang menjalani kehidupan biasa, suatu hari menyadari bahwa muridnya, Spica Tsumugi, sedang diganggu. Pada suatu hari hujan sepulang sekolah, Hatori mendapati dirinya sendirian dengan Tsumugi secara tidak sengaja.\r\n\r\nHatori berkata padanya, \"Aku akan melakukan sesuatu tentang hal itu!\" tetapi Tsumugi dengan lembut memegang tangannya dan berkata sambil tersenyum, \"Hatori-sensei, kau benar-benar pembohong.\"\r\n\r\nGuru dan murid... dua orang yang seharusnya tidak terlalu dekat. Gadis yang agak mempesona ini akan secara dramatis mengubah kehidupan biasa Hatori.",
   "chapters": [
     {
+      "chapter": "35",
+      "title": "Komik Tsumi to Batsu no Spica Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWktdG8tYmF0c3Utbm8tc3BpY2EtY2hhcHRlci0zNS8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "34",
       "title": "Komik Tsumi to Batsu no Spica Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWktdG8tYmF0c3Utbm8tc3BpY2EtY2hhcHRlci0zNC8=",
-      "date": "7 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Tsumi to Batsu no Spica Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWktdG8tYmF0c3Utbm8tc3BpY2EtY2hhcHRlci0zMy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "32",
@@ -237,5 +243,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 36
 }

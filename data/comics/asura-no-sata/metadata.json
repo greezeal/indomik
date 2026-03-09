@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.38,
-  "scraped_at": "2026-02-28T17:00:48.098456",
+  "scraped_at": "2026-03-09T12:41:19.687397",
   "alternative_titles": "アスラの沙汰, Asura’s Verdict, Вердикт Асуры",
   "status": "Berjalan",
   "author": "Unohana Utsugi",
@@ -22,22 +22,28 @@
   "synopsis": "Manga                    Asura no Sata yang dibuat oleh komikus bernama\n                    Unohana Utsugi ini bercerita tentang\n                    \"Hanya berbuat baik.\"—Asura mengikuti ajaran mendiang ibunya dan selalu berusaha berbuat baik dalam hidup. Tidak peduli seberapa sering ia diganggu, ia terus tersenyum, yakin bahwa pelaku kejahatan akan menerima hukuman ilahi. Sampai suatu hari, seorang lelaki tua yang jahat memberinya kunci yang dapat membuka pintu neraka...",
   "chapters": [
     {
+      "chapter": "28",
+      "title": "Komik Asura no Sata Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXN1cmEtbm8tc2F0YS1jaGFwdGVyLTI4Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik Asura no Sata Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXN1cmEtbm8tc2F0YS1jaGFwdGVyLTI3Lw==",
-      "date": "9 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "26.5",
       "title": "Komik Asura no Sata Chapter 26.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXN1cmEtbm8tc2F0YS1jaGFwdGVyLTI2LTUtMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26.5",
       "title": "Komik Asura no Sata Chapter 26.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXN1cmEtbm8tc2F0YS1jaGFwdGVyLTI2LTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
@@ -61,7 +67,7 @@
       "chapter": "23",
       "title": "Komik Asura no Sata Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXN1cmEtbm8tc2F0YS1jaGFwdGVyLTIzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -85,7 +91,7 @@
       "chapter": "19",
       "title": "Komik Asura no Sata Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXN1cmEtbm8tc2F0YS1jaGFwdGVyLTE5Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -97,7 +103,7 @@
       "chapter": "17",
       "title": "Komik Asura no Sata Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXN1cmEtbm8tc2F0YS1jaGFwdGVyLTE3Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -208,5 +214,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 31
+  "total_chapters": 32
 }

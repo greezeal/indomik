@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.23,
-  "scraped_at": "2026-03-07T17:57:29.463290",
+  "scraped_at": "2026-03-09T12:41:44.140564",
   "alternative_titles": "รีเทิร์น ทู เพลย์เยอร์, 리턴 투 플레이어",
   "status": "Berjalan",
   "author": "엄키, 인덱스",
@@ -21,22 +21,28 @@
   "synopsis": "Manhwa                    Return to Player yang dibuat oleh komikus bernama\n                    엄키, 인덱스 ini bercerita tentang\n                    Suatu hari dunia menjadi sebuah permainan. Monster tiba-tiba muncul dan membunuh manusia dan manusia telah menjadi pemain dan harus memenuhi misi! Seorang pemain yang diberi kesempatan kedua setelah jatuhnya umat manusia, Kim Sehan. Akankah dia mampu mengalahkan sistem yang membuat dunia menjadi berantakan?",
   "chapters": [
     {
+      "chapter": "229",
+      "title": "Komik Return to Player Chapter 229",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyOS8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "228",
       "title": "Komik Return to Player Chapter 228",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyOC8=",
-      "date": "21 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "227",
       "title": "Komik Return to Player Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyNy8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik Return to Player Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyNi8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "225",
@@ -192,7 +198,7 @@
       "chapter": "200",
       "title": "Komik Return to Player Chapter 200",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIwMC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "199",
@@ -1389,5 +1395,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 228
+  "total_chapters": 229
 }

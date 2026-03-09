@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T11:49:24.603393",
-  "total_comics": 1145,
+  "last_updated": "2026-03-09T12:45:46.576036",
+  "total_comics": 1151,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 80
+      "total_chapters": 83
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 103
+      "total_chapters": 105
     },
     {
       "slug": "isshou-senkin",
@@ -1112,7 +1112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "322911-rookie-but-one-in-a-million-actor",
@@ -1144,7 +1144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 69
+      "total_chapters": 71
     },
     {
       "slug": "chronicles-of-the-lazy-sovereign",
@@ -1176,7 +1176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 148
+      "total_chapters": 149
     },
     {
       "slug": "the-demon-king-overrun-by-heroes",
@@ -1320,7 +1320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 190
+      "total_chapters": 192
     },
     {
       "slug": "soloist-in-a-cage",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "70-meter-girl",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2800,7 +2800,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 85
+      "total_chapters": 87
     },
     {
       "slug": "my-simulated-path-to-immortality",
@@ -2968,7 +2968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "extraordinary-world-me-a-vampire",
@@ -3744,7 +3744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 103
+      "total_chapters": 104
     },
     {
       "slug": "gal-yome-no-himitsu",
@@ -3904,7 +3904,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "925565-player-from-today-onwards",
@@ -3944,7 +3944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.24,
-      "total_chapters": 598
+      "total_chapters": 599
     },
     {
       "slug": "prepaid-dragon-king-tanks-everything",
@@ -4022,9 +4022,9 @@
       "slug": "407449-the-second-eunuch-regains-his-manhood",
       "title": "The Second Eunuch Regains His Manhood",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 70
     },
     {
       "slug": "this-is-the-law",
@@ -4064,7 +4064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "when-a-genius-office-worker-goes-too-far",
@@ -4136,7 +4136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 228
+      "total_chapters": 229
     },
     {
       "slug": "the-eight-empresses-betrayed-me-only-to-deeply-regret-it-after-being-reborn",
@@ -4512,7 +4512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 156
+      "total_chapters": 157
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -4592,7 +4592,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 253
+      "total_chapters": 255
     },
     {
       "slug": "aishiteru-game-wo-owarasetai",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4856,7 +4856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.65,
-      "total_chapters": 200
+      "total_chapters": 201
     },
     {
       "slug": "invincible-after-shocking-my-empress-wife",
@@ -4902,9 +4902,9 @@
       "slug": "isekai-ojisan",
       "title": "Isekai Ojisan",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.91,
+      "total_chapters": 104
     },
     {
       "slug": "i-became-the-rogue-first-prince",
@@ -5024,7 +5024,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 102
+      "total_chapters": 103
     },
     {
       "slug": "im-a-super-rich-guy-so-its-reasonable-for-me-to-be-a-scumbag",
@@ -5142,9 +5142,9 @@
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
       "title": "Playing the Perfect Fox-Eyed Villain",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 51
     },
     {
       "slug": "266533-apocalyptic-chef-awakening",
@@ -6144,7 +6144,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 97
     },
     {
       "slug": "774935-i-reincarnated-as-the-crazed-heir",
@@ -6272,7 +6272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.68,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "deretai-kanojo-no-uraomote",
@@ -6568,7 +6568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 281
+      "total_chapters": 283
     },
     {
       "slug": "mia-has-returned",
@@ -6640,7 +6640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.4,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "hazure-hantei-kara-hajimatta-cheat-majutsushi-seikatsu",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 80
+      "total_chapters": 81
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7264,7 +7264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 52
     },
     {
       "slug": "617788-the-villain-wants-to-live",
@@ -7384,7 +7384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 134
+      "total_chapters": 135
     },
     {
       "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
@@ -8096,7 +8096,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 12
     },
     {
       "slug": "sukinako-ga-megane-wo-wasureta",
@@ -8104,7 +8104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 101
+      "total_chapters": 105
     },
     {
       "slug": "light-of-arad-forerunner",
@@ -8992,7 +8992,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 129
+      "total_chapters": 130
     },
     {
       "slug": "792179-level-1-player",
@@ -9161,6 +9161,54 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken",
+      "title": "Monster no Niku wo Kutte Itara Oui no Tsuita Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 14
+    },
+    {
+      "slug": "400437-hachinan-tte-sore-wa-nai-deshou",
+      "title": "Hachinan tte, Sore wa Nai Deshou!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.85,
+      "total_chapters": 108
+    },
+    {
+      "slug": "the-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war",
+      "title": "The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.39,
+      "total_chapters": 70
+    },
+    {
+      "slug": "528127-mokushiroku-no-yonkishi",
+      "title": "Mokushiroku no Yonkishi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.08,
+      "total_chapters": 225
+    },
+    {
+      "slug": "mairimashita-iruma-kun-mafia-au",
+      "title": "Mairimashita! Iruma-kun Mafia AU",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.98,
+      "total_chapters": 28
+    },
+    {
+      "slug": "mairimashita-iruma-kun",
+      "title": "Mairimashita! Iruma-kun",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.09,
+      "total_chapters": 444
     }
   ]
 }
