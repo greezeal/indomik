@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T20:44:25.500454",
-  "total_comics": 1151,
+  "last_updated": "2026-03-09T21:25:10.703352",
+  "total_comics": 1154,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -32,7 +32,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "462789-the-tutorial-is-too-hard",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 178
+      "total_chapters": 179
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1264,7 +1264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "848336-the-max-leveled-hero-will-return",
@@ -1488,7 +1488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 5
     },
     {
       "slug": "limit-breaking-genius-mage",
@@ -2224,7 +2224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 58
+      "total_chapters": 60
     },
     {
       "slug": "653805-return-of-the-sss-class-ranker",
@@ -2352,7 +2352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "787094-the-undefeatable-swordsman",
@@ -3360,7 +3360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "a-new-living-arrangement-with-my-friend-%e2%99%82-turned-succubus",
@@ -4104,7 +4104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.29,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "sakigake-no-hana-miko",
@@ -4952,7 +4952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 69
+      "total_chapters": 71
     },
     {
       "slug": "cosmic-heavenly-demon-3077",
@@ -5168,7 +5168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "im-really-not-the-demon-gods-lackey",
@@ -5216,7 +5216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 584
+      "total_chapters": 585
     },
     {
       "slug": "680574-doctors-rebirth",
@@ -6054,9 +6054,9 @@
       "slug": "ice-lord",
       "title": "Ice Lord",
       "type": "Manhwa",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "holy-emperors-grandson-is-a-necromancer",
@@ -7320,7 +7320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 61
     },
     {
       "slug": "the-demon-king-who-lost-his-job",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 12
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -8120,7 +8120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
     },
     {
       "slug": "seirei-gensouki-konna-sekai-de-deaeta-kimi-ni",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 153
+      "total_chapters": 154
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "shamoneyism",
@@ -8280,7 +8280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "the-regressor-can-make-them-all",
@@ -8304,7 +8304,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita",
@@ -9209,6 +9209,30 @@
       "status": "Berjalan",
       "rating": 9.09,
       "total_chapters": 444
+    },
+    {
+      "slug": "the-snow-leopard-baby-of-the-black-leopard-family",
+      "title": "The Snow Leopard Baby of the Black Leopard Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 67
+    },
+    {
+      "slug": "ai-da-toka-fukushuu-da-toka",
+      "title": "Ai da toka Fukushuu da toka",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "makou-senretsu",
+      "title": "Makou Senretsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }

@@ -6,9 +6,9 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-02T02:53:09.830721",
+  "scraped_at": "2026-03-09T21:19:55.340468",
   "alternative_titles": "얼음군주, The Royal Frozen",
-  "status": "Berjalan",
+  "status": "Tamat",
   "author": "Valen,Tim Croissant",
   "illustrator": "Wild Animals",
   "demographic": "Shounen",
@@ -24,52 +24,58 @@
   "synopsis": "Manhwa                    Ice Lord yang dibuat oleh komikus bernama\n                    Valen,Tim Croissant ini bercerita tentang\n                    Pada usia dua puluh tahun, Seol Mudok, seorang ahli pedang, menjadi Penguasa Istana Es Laut Utara. Jatuh ke dalam keputusasaan setelah kematian kekasihnya, ia menemukan bahwa dengan bunga legendaris, “Lotus Cinta”, kekasihnya yang telah meninggal telah bereinkarnasi. Dalam pencariannya, dia turun ke dunia lain…",
   "chapters": [
     {
+      "chapter": "65",
+      "title": "Komik Ice Lord Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02NS8=",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "64",
       "title": "Komik Ice Lord Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02NC8=",
-      "date": "34 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Ice Lord Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02My8=",
-      "date": "34 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Ice Lord Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02Mi8=",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Ice Lord Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02MS8=",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Ice Lord Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci02MC8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Ice Lord Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci01OS8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Ice Lord Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci01OC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Ice Lord Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci01Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "56",
@@ -87,13 +93,13 @@
       "chapter": "54",
       "title": "Komik Ice Lord Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci01NC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Ice Lord Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci01My8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "52",
@@ -111,19 +117,19 @@
       "chapter": "50",
       "title": "Komik Ice Lord Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci01MC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Ice Lord Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci00OS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Ice Lord Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci00OC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "47",
@@ -135,7 +141,7 @@
       "chapter": "46",
       "title": "Komik Ice Lord Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci00Ni8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "45",
@@ -153,7 +159,7 @@
       "chapter": "43",
       "title": "Komik Ice Lord Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci00My8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -177,7 +183,7 @@
       "chapter": "39",
       "title": "Komik Ice Lord Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci0zOS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -201,13 +207,13 @@
       "chapter": "35",
       "title": "Komik Ice Lord Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci0zNS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Ice Lord Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci0zNC8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -231,7 +237,7 @@
       "chapter": "30",
       "title": "Komik Ice Lord Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci0zMC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "29",
@@ -255,7 +261,7 @@
       "chapter": "26",
       "title": "Komik Ice Lord Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci0yNi8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -279,7 +285,7 @@
       "chapter": "22",
       "title": "Komik Ice Lord Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci0yMi8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -351,7 +357,7 @@
       "chapter": "10",
       "title": "Komik Ice Lord Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNlLWxvcmQtY2hhcHRlci0xMC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "9",
@@ -414,5 +420,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 65
+  "total_chapters": 66
 }

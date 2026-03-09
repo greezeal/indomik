@@ -1,0 +1,41 @@
+{
+  "slug": "makou-senretsu",
+  "title": "Makou Senretsu",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvbWFrb3Utc2VucmV0c3Uv",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDgvS29taWstTWFrb3UtU2VucmV0c3UtMjE2eDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-03-09T21:21:44.970596",
+  "alternative_titles": "魔鉱戦列",
+  "status": "Berjalan",
+  "author": "おもちゃの兵隊",
+  "illustrator": "おもちゃの兵隊",
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "synopsis": "Manga                    Makou Senretsu yang dibuat oleh komikus bernama\n                    おもちゃの兵隊 ini bercerita tentang\n                    Dengan ditemukannya batu misterius yang disebut “Magic Mine”, tingkat peradaban manusia telah maju secara dramatis, mengantarkan era yang disebut “Magic Mine Revolution”. Luma, sebuah pembangkit tenaga listrik militer, memulai invasi ke Eno tetangga, dan Mea, seorang gadis yang bekerja di tambang, juga terjebak dalam pertempuran",
+  "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Makou Senretsu Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFrb3Utc2VucmV0c3UtY2hhcHRlci0zLw==",
+      "date": "42 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Makou Senretsu Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFrb3Utc2VucmV0c3UtY2hhcHRlci0yLw==",
+      "date": "43 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Makou Senretsu Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFrb3Utc2VucmV0c3UtY2hhcHRlci0xLw==",
+      "date": "6 bulan yang lalu"
+    }
+  ],
+  "total_chapters": 3
+}

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.59,
-  "scraped_at": "2026-02-25T05:23:28.706847",
+  "scraped_at": "2026-03-09T21:20:51.382446",
   "alternative_titles": "卒業アルバムの彼女たち, Sotsugyou Arubamu no Kanojotachi, The Heroines in my Graduation Albums",
   "status": "Berjalan",
   "author": "Mikawa Ghost",
@@ -22,10 +22,22 @@
   "synopsis": "Manga                    Sotsugyou Album no Kanojotachi yang dibuat oleh komikus bernama\n                    Mikawa Ghost ini bercerita tentang\n                    \"Cinta yang seharusnya hanya kenangan, tiba-tiba mulai bergerak!!\"\r\n\r\nKanae Meguru, seorang penggemar film, memiliki potensi ketertarikan romantis sejak SD, SMP, dan SMA. Namun, karena kurangnya pengalaman dalam percintaan, ia tidak pernah mampu mengambil tindakan. Belajar dari hal itu, ia bersumpah untuk fokus sepenuhnya pada kegiatan klub film universitasnya, sama sekali mengabaikan percintaan. Namun tekad itu tidak bertahan lama—sebelum ia menyadarinya, ia mendapati dirinya jatuh cinta pada Ootsuka Ozora, seorang gadis yang ditemuinya di klub film...!?",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik Sotsugyou Album no Kanojotachi Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItMTcv",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Sotsugyou Album no Kanojotachi Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItMTYv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Sotsugyou Album no Kanojotachi Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItMTUv",
-      "date": "21 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
@@ -61,13 +73,13 @@
       "chapter": "9",
       "title": "Komik Sotsugyou Album no Kanojotachi Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItOS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Sotsugyou Album no Kanojotachi Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItOC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -85,19 +97,19 @@
       "chapter": "5",
       "title": "Komik Sotsugyou Album no Kanojotachi Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItNS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Sotsugyou Album no Kanojotachi Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItNC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Sotsugyou Album no Kanojotachi Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc290c3VneW91LWFsYnVtLW5vLWthbm9qb3RhY2hpLWNoYXB0ZXItMy8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "2",
@@ -112,5 +124,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 17
 }
