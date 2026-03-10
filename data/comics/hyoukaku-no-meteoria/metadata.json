@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-07T17:59:20.851075",
+  "scraped_at": "2026-03-10T17:39:40.451504",
   "alternative_titles": "氷核のメテオリア, Ice Core Meteoria, Băng Tâm Meteoria",
   "status": "Berjalan",
   "author": "Todou Makoto",
@@ -25,34 +25,40 @@
   "synopsis": "Manga                    Hyoukaku no Meteoria yang dibuat oleh komikus bernama\n                    Todou Makoto ini bercerita tentang\n                    Di dunia di mana mesin uap telah dikembangkan menggunakan bahan bakar fosil khusus yang disebut \"Batu Bara Meteorit\", Kanata, seorang anak laki-laki yang bekerja di tambang batu bara, belajar dengan giat dan meningkatkan dirinya meskipun lingkungan yang buruk. Kemudian, takdir anak laki-laki itu mulai berubah saat ia bekerja untuk membuka urat batu bara baru.",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Hyoukaku no Meteoria Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHlvdWtha3Utbm8tbWV0ZW9yaWEtY2hhcHRlci0xNC8=",
+      "date": "32 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Hyoukaku no Meteoria Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHlvdWtha3Utbm8tbWV0ZW9yaWEtY2hhcHRlci0xMy8=",
-      "date": "5 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Hyoukaku no Meteoria Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHlvdWtha3Utbm8tbWV0ZW9yaWEtY2hhcHRlci0xMi8=",
-      "date": "5 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Hyoukaku no Meteoria Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHlvdWtha3Utbm8tbWV0ZW9yaWEtY2hhcHRlci0xMS8=",
-      "date": "5 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Hyoukaku no Meteoria Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHlvdWtha3Utbm8tbWV0ZW9yaWEtY2hhcHRlci0xMC8=",
-      "date": "5 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "09",
       "title": "Komik Hyoukaku no Meteoria Chapter 09",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHlvdWtha3Utbm8tbWV0ZW9yaWEtY2hhcHRlci0wOS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -109,5 +115,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 14
+  "total_chapters": 15
 }

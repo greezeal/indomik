@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 6.99,
-  "scraped_at": "2026-03-08T11:16:37.926812",
+  "scraped_at": "2026-03-10T17:37:57.953796",
   "alternative_titles": "The Presence of Evil Spirits, 邪神降世，我有一座大凶狱",
   "status": "Berjalan",
   "author": "MiFenPink (米分文化)",
@@ -28,16 +28,34 @@
   "synopsis": "Manhua                    The Evil God Descends, I Own Great Hell yang dibuat oleh komikus bernama\n                    MiFenPink (米分文化) ini bercerita tentang\n                    Dalam kiamat, dewa jahat turun, melahap manusia dan mengancam tanah airku, Cina! Tanpa mereka sadari, aku memegang kendali Neraka Penekan Iblis, tempat para dewa dan monster kuno dari Cina yang tak terhitung jumlahnya telah dipenjara secara diam-diam selama ribuan tahun! Semua itu untuk saat ini... untuk memusnahkan para dewa asing dan membersihkan dunia manusia!\r\n\r\n— Tentu saja, jika kau menyerah, sebagai Sipir, aku mungkin mempertimbangkan untuk membiarkan kalian para dewa jahat masuk ke Neraka Besar untuk bekerja pada mesin jahit. Makanan dan akomodasi disediakan, tentu saja.",
   "chapters": [
     {
+      "chapter": "102",
+      "title": "Komik The Evil God Descends, I Own Great Hell Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci0xMDIv",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "101",
+      "title": "Komik The Evil God Descends, I Own Great Hell Chapter 101",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci0xMDEv",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "100",
+      "title": "Komik The Evil God Descends, I Own Great Hell Chapter 100",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci0xMDAv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "99",
       "title": "Komik The Evil God Descends, I Own Great Hell Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci05OS8=",
-      "date": "15 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "98",
       "title": "Komik The Evil God Descends, I Own Great Hell Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci05OC8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "97",
@@ -91,7 +109,7 @@
       "chapter": "89",
       "title": "Komik The Evil God Descends, I Own Great Hell Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci04OS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "88",
@@ -127,13 +145,13 @@
       "chapter": "83",
       "title": "Komik The Evil God Descends, I Own Great Hell Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci04My8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik The Evil God Descends, I Own Great Hell Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV2aWwtZ29kLWRlc2NlbmRzLWktb3duLWdyZWF0LWhlbGwtY2hhcHRlci04Mi8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "81",
@@ -628,5 +646,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 100
+  "total_chapters": 103
 }
