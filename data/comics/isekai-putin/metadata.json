@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.04,
-  "scraped_at": "2026-03-09T02:56:06.192005",
+  "scraped_at": "2026-03-10T11:40:15.422706",
   "alternative_titles": "The Ride-On King, Ride-On King - Der ewige Reiter, Король-наездник, ライドンキング, 骑乘之王",
   "status": "Berjalan",
   "author": "BABA Yasushi",
@@ -23,10 +23,22 @@
   "synopsis": "Manga                    Isekai Putin yang dibuat oleh komikus bernama\n                    BABA Yasushi ini bercerita tentang\n                    Alexander Purchinov adalah presiden seumur hidup negara Pursia, negara yang diperintah oleh kekerasan dan pengaruh pemerintahnya. Alexander selalu ingin menjadi dominan, dan \"mengendarai\" hal-hal, baik secara harfiah maupun kiasan. Sekarang dia telah berkuda di negaranya, target selanjutnya adalah dunia fantasi yang memiliki orc, wyvern, dan centaur.",
   "chapters": [
     {
+      "chapter": "85",
+      "title": "Komik Isekai Putin Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXB1dGluLWNoYXB0ZXItODUv",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik Isekai Putin Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXB1dGluLWNoYXB0ZXItODQv",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "83",
       "title": "Komik Isekai Putin Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXB1dGluLWNoYXB0ZXItODMv",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "82",
@@ -50,7 +62,7 @@
       "chapter": "79",
       "title": "Komik Isekai Putin Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXB1dGluLWNoYXB0ZXItNzkv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "78",
@@ -521,5 +533,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 83
+  "total_chapters": 85
 }

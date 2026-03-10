@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T09:58:43.014102",
-  "total_comics": 1154,
+  "last_updated": "2026-03-10T11:46:45.905667",
+  "total_comics": 1156,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -352,7 +352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "children-of-the-rune",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 501
+      "total_chapters": 502
     },
     {
       "slug": "marriagetoxin",
@@ -1256,7 +1256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.5,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "overlord-of-sichuan",
@@ -1294,9 +1294,9 @@
       "slug": "194784-baek-xx",
       "title": "Baek XX",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 164
     },
     {
       "slug": "game-online-unrivaled-in-the-world-remake",
@@ -1440,7 +1440,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.06,
-      "total_chapters": 23
+      "total_chapters": 28
     },
     {
       "slug": "muteki-no-ansatsu-ma-shirube-shi-last-boss-musume-to-tabi-wo-suru",
@@ -2000,7 +2000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 310
+      "total_chapters": 312
     },
     {
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
@@ -2016,7 +2016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.08,
-      "total_chapters": 98
+      "total_chapters": 100
     },
     {
       "slug": "enishi-kun-wa-masho-harem-taishitsu-ni-mezamemashita",
@@ -2104,7 +2104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "141523-the-indomitable-martial-king",
@@ -2360,7 +2360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.48,
-      "total_chapters": 283
+      "total_chapters": 284
     },
     {
       "slug": "konya-coin-randorii-de-aimashou",
@@ -2648,7 +2648,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -2680,7 +2680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "the-youngest-hides-way-too-much",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2816,7 +2816,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "i-became-a-swordsmanship-instructor-at-the-academy",
@@ -2856,7 +2856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 84
+      "total_chapters": 87
     },
     {
       "slug": "245396-dark-gathering",
@@ -3736,7 +3736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -4512,7 +4512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 157
+      "total_chapters": 158
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -4664,7 +4664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 100
     },
     {
       "slug": "734821-chronicles-of-the-demon-faction",
@@ -4768,7 +4768,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 940
+      "total_chapters": 943
     },
     {
       "slug": "obshchaka",
@@ -5256,7 +5256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "defense-breaker",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 34
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -6568,7 +6568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 283
+      "total_chapters": 284
     },
     {
       "slug": "mia-has-returned",
@@ -6784,7 +6784,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "megami-to-kekkon-shite-isekai-de-shinkon-seikatsu",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7112,7 +7112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "return-of-the-first-patriarch-the-strongest-reincarnates-into-his-descendant-1000-years-later",
@@ -8456,7 +8456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 88
+      "total_chapters": 90
     },
     {
       "slug": "535662-im-trapped-in-this-day-for-one-thousand-years",
@@ -8984,7 +8984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.7,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "magic-level-99990000-all-attribute-great-sage",
@@ -9104,7 +9104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "isekai-de-tochi-o-katte-noujou-o-tsukurou",
@@ -9233,6 +9233,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 3
+    },
+    {
+      "slug": "466434-reincarnator",
+      "title": "Reincarnator",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 81
+    },
+    {
+      "slug": "mysterious-revival-starting-with-a-trillion-ghost-coins",
+      "title": "Mysterious Revival: Starting with a Trillion Ghost Coins",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }

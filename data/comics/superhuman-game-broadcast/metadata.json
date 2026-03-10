@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-07T04:19:26.787431",
+  "scraped_at": "2026-03-10T11:40:43.052456",
   "alternative_titles": "Echoes of the Reverse Planet, 초인의 게임방송",
   "status": "Berjalan",
   "author": "High End, Team Zeke",
@@ -21,22 +21,34 @@
   "synopsis": "Manhwa                    Superhuman Game Broadcast yang dibuat oleh komikus bernama\n                    High End, Team Zeke ini bercerita tentang\n                    Suatu hari, Baek Woohyun, seorang mahasiswa biasa, dipindahkan ke dimensi game realitas virtual online paling populer di dunia, Reverse Planet, lalu kembali lagi. Kepulangan yang selama ini ia impikan… Namun, game sialan ini masih beroperasi seolah tak ada hubungannya, dan arwah para rekan yang mati di sana terus-menerus mendesaknya untuk membalaskan dendam mereka.\r\n\r\nAkhirnya, demi mengungkap kembali hubungan antara game dan dunia di sana, Woohyun masuk lagi ke Reverse Planet. Entah itu keberuntungan atau kesialan, ia tidak terlempar ke dunia sana, tetapi ia tanpa sengaja muncul dalam siaran seorang streamer… Lalu, penonton anonim nomor 62 yang melihatnya mulai menyapanya.\r\n\r\n—Bagaimana rasanya kembali ke dunia nyata?",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik Superhuman Game Broadcast Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJodW1hbi1nYW1lLWJyb2FkY2FzdC1jaGFwdGVyLTI2Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik Superhuman Game Broadcast Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJodW1hbi1nYW1lLWJyb2FkY2FzdC1jaGFwdGVyLTI1Lw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik Superhuman Game Broadcast Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJodW1hbi1nYW1lLWJyb2FkY2FzdC1jaGFwdGVyLTI0Lw==",
-      "date": "51 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Superhuman Game Broadcast Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJodW1hbi1nYW1lLWJyb2FkY2FzdC1jaGFwdGVyLTIzLw==",
-      "date": "14 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Superhuman Game Broadcast Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJodW1hbi1nYW1lLWJyb2FkY2FzdC1jaGFwdGVyLTIyLw==",
-      "date": "14 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "21",
@@ -48,13 +60,13 @@
       "chapter": "20",
       "title": "Komik Superhuman Game Broadcast Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJodW1hbi1nYW1lLWJyb2FkY2FzdC1jaGFwdGVyLTIwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Superhuman Game Broadcast Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJodW1hbi1nYW1lLWJyb2FkY2FzdC1jaGFwdGVyLTE5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -171,5 +183,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 27
 }
