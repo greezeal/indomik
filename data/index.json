@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T09:00:48.037156",
-  "total_comics": 1161,
+  "last_updated": "2026-03-11T10:03:32.104498",
+  "total_comics": 1163,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1280,7 +1280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "sea-of-blood-mountain-of-bones",
@@ -1992,7 +1992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 111
     },
     {
       "slug": "age-of-terror",
@@ -2088,7 +2088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 107
+      "total_chapters": 109
     },
     {
       "slug": "keiyaku-shimai",
@@ -2136,7 +2136,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 507
+      "total_chapters": 508
     },
     {
       "slug": "game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau",
@@ -2280,7 +2280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 131
+      "total_chapters": 133
     },
     {
       "slug": "308020-leveling-with-the-gods",
@@ -2288,7 +2288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 162
+      "total_chapters": 164
     },
     {
       "slug": "299482-rankers-return-remake",
@@ -2296,7 +2296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 232
+      "total_chapters": 235
     },
     {
       "slug": "reincarnation-of-the-demonic-god",
@@ -2672,7 +2672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "reincarnated-as-the-archdukes-son",
@@ -2688,7 +2688,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "heavenly-demon-tavern",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 58
+      "total_chapters": 61
     },
     {
       "slug": "peerless-soul",
@@ -2760,7 +2760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.17,
-      "total_chapters": 305
+      "total_chapters": 307
     },
     {
       "slug": "744328-the-dark-magician-transmigrates-after-66666-years",
@@ -2928,7 +2928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "783596-pick-me-up",
@@ -3328,7 +3328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.57,
-      "total_chapters": 115
+      "total_chapters": 116
     },
     {
       "slug": "mirror-mong-woo",
@@ -5344,7 +5344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 114
+      "total_chapters": 118
     },
     {
       "slug": "the-vehement-emperor-of-steel",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 115
+      "total_chapters": 116
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -5520,7 +5520,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.78,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "absolute-dominion",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 81
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -6440,7 +6440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "datenshi-no-karte",
@@ -6600,7 +6600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "level-1-kara-hajimaru-shoukan-musou",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -9102,9 +9102,9 @@
       "slug": "isekai-putin",
       "title": "Isekai Putin",
       "type": "Manga",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 8.04,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "isekai-de-tochi-o-katte-noujou-o-tsukurou",
@@ -9289,6 +9289,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 22
+    },
+    {
+      "slug": "614827-transcension-academy",
+      "title": "Transcension Academy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.16,
+      "total_chapters": 190
+    },
+    {
+      "slug": "my-desire-is-not-a-sin",
+      "title": "My Desire Is Not a Sin",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 0
     }
   ]
 }
