@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-02-26T07:47:54.178220",
+  "scraped_at": "2026-03-11T11:44:05.638920",
   "alternative_titles": "Second Life of the Berserker, The Berserker\\'s Second Playthrough in the Game, 게임 속 2회차 광전사",
   "status": "Berjalan",
   "author": "Life Ruined",
@@ -26,34 +26,40 @@
   "synopsis": "Manhwa                    The Berserker’s Second Playthrough yang dibuat oleh komikus bernama\n                    Life Ruined ini bercerita tentang\n                    Setelah merasuki tubuh seorang berserker dalam sebuah permainan, mengatasi berbagai kesulitan, akhirnya membunuh iblis besar, dan akhirnya mencapai akhir permainan, teks yang dihadapi pria itu adalah ini:\r\n\r\n[ Permainan Baru + ]\r\n\r\n“Tidak… Sialan….”",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik The Berserker’s Second Playthrough Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlcnNlcmtlcnMtc2Vjb25kLXBsYXl0aHJvdWdoLWNoYXB0ZXItMTkv",
+      "date": "33 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik The Berserker’s Second Playthrough Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlcnNlcmtlcnMtc2Vjb25kLXBsYXl0aHJvdWdoLWNoYXB0ZXItMTgv",
-      "date": "43 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The Berserker’s Second Playthrough Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlcnNlcmtlcnMtc2Vjb25kLXBsYXl0aHJvdWdoLWNoYXB0ZXItMTcv",
-      "date": "43 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Berserker’s Second Playthrough Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlcnNlcmtlcnMtc2Vjb25kLXBsYXl0aHJvdWdoLWNoYXB0ZXItMTYv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Berserker’s Second Playthrough Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlcnNlcmtlcnMtc2Vjb25kLXBsYXl0aHJvdWdoLWNoYXB0ZXItMTUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Berserker’s Second Playthrough Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlcnNlcmtlcnMtc2Vjb25kLXBsYXl0aHJvdWdoLWNoYXB0ZXItMTQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -134,5 +140,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }

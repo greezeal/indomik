@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.29,
-  "scraped_at": "2026-03-11T10:03:27.145294",
+  "scraped_at": "2026-03-11T11:41:13.763370",
   "alternative_titles": "하남자의 탑 공략법",
   "status": "Berjalan",
   "author": "Pyopyo,Kuchikuchi",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    A Wimp’s Strategy Guide to Conquer the Tower yang dibuat oleh komikus bernama\n                    Pyopyo,Kuchikuchi ini bercerita tentang\n                    Suatu hari, menara-menara hitam misterius tiba-tiba muncul di seluruh dunia, dan beberapa orang terpilih mulai terbangun.Namun bagi Bong Joohyuk—seorang yang lemah, tidak beruntung, dan bukan siapa-siapa—itu adalah sesuatu yang seharusnya tidak ada hubungannya dengan dirinya.Setelah seharian melelahkan di pekerjaan paruh waktunya, dia baru saja akan menyantap ramen ketika—[Bong Joohyuk, kau telah terbangun.]“…Eh, sial, apa-apaan ini?!”Apakah ini akhirnya kesempatannya untuk mengubah hidupnya?",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik A Wimp’s Strategy Guide to Conquer the Tower Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13aW1wcy1zdHJhdGVneS1ndWlkZS10by1jb25xdWVyLXRoZS10b3dlci1jaGFwdGVyLTE5Lw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik A Wimp’s Strategy Guide to Conquer the Tower Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13aW1wcy1zdHJhdGVneS1ndWlkZS10by1jb25xdWVyLXRoZS10b3dlci1jaGFwdGVyLTE4Lw==",
-      "date": "14 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "17",
@@ -129,5 +135,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.48,
-  "scraped_at": "2026-03-10T11:44:01.175429",
+  "scraped_at": "2026-03-11T11:44:11.033639",
   "alternative_titles": "Undefeatable Swordsman, 불패검선",
   "status": "Berjalan",
   "author": "FIST CAT, 적하",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    The Undefeatable Swordsman yang dibuat oleh komikus bernama\n                    FIST CAT, 적하 ini bercerita tentang\n                    Seorang anak laki-laki yang lemah dan sakit-sakitan, kondisi Sung Woo-mun memburuk ketika dia kehilangan kapasitas mentalnya, karena lukisan yang diberikan oleh seorang bijak. Dia tumbuh sebagai 'orang bodoh desa', dikasihani oleh orang tuanya sendiri. Tapi tanpa sepengetahuan semua orang, hidupnya akan segera berubah, dan takdir baru menunggunya. Ketika Sung Woo-mun berusia 20 tahun, dia tidak hanya memiliki pencerahan, tetapi kekuatan seni bela diri yang tak terkalahkan mulai mekar di dalam lukisan itu. Apa artinya semua ini bagi Woo Mun? Dan dunia aneh apa yang menunggunya?",
   "chapters": [
     {
+      "chapter": "284",
+      "title": "Komik The Undefeatable Swordsman Chapter 284",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVuZGVmZWF0YWJsZS1zd29yZHNtYW4tY2hhcHRlci0yODQv",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "283",
       "title": "Komik The Undefeatable Swordsman Chapter 283",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVuZGVmZWF0YWJsZS1zd29yZHNtYW4tY2hhcHRlci0yODMv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "282",
       "title": "Komik The Undefeatable Swordsman Chapter 282",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVuZGVmZWF0YWJsZS1zd29yZHNtYW4tY2hhcHRlci0yODIv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "281",
@@ -90,7 +96,7 @@
       "chapter": "272",
       "title": "Komik The Undefeatable Swordsman Chapter 272",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVuZGVmZWF0YWJsZS1zd29yZHNtYW4tY2hhcHRlci0yNzIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "271",
@@ -174,7 +180,7 @@
       "chapter": "258",
       "title": "Komik The Undefeatable Swordsman Chapter 258",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVuZGVmZWF0YWJsZS1zd29yZHNtYW4tY2hhcHRlci0yNTgv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "257",
@@ -216,7 +222,7 @@
       "chapter": "251",
       "title": "Komik The Undefeatable Swordsman Chapter 251",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVuZGVmZWF0YWJsZS1zd29yZHNtYW4tY2hhcHRlci0yNTEv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "250",
@@ -1230,7 +1236,7 @@
       "chapter": "82",
       "title": "Komik The Undefeatable Swordsman Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVuZGVmZWF0YWJsZS1zd29yZHNtYW4tY2hhcHRlci04Mi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "81",
@@ -1725,5 +1731,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 284
+  "total_chapters": 285
 }
