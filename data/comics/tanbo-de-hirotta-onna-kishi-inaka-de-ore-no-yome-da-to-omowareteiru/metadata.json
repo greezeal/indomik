@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.53,
-  "scraped_at": "2026-03-05T01:11:40.434930",
+  "scraped_at": "2026-03-12T07:17:50.644691",
   "alternative_titles": "田んぼで拾った女騎士、田舎で俺の嫁だと思われている, I Found a Female Knight in a Rice Field, in the Countryside They Think She’s My Wife",
   "status": "Berjalan",
   "author": "Renkinou",
@@ -24,22 +24,28 @@
   "synopsis": "Manga                    Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru yang dibuat oleh komikus bernama\n                    Renkinou ini bercerita tentang\n                    Jin Mita, seorang petani yang tinggal di kota pedesaan kecil, menemukan seorang kesatria wanita yang tidak sadarkan diri di sawahnya suatu pagi. Dia menyebut dirinya Seraphim, dan dia sepertinya berasal dari dunia lain. Dia tidak memiliki pengetahuan tentang dunia ini dan tidak ada tempat untuk pergi. Tidak tahan melihatnya seperti ini, Jin menawarkan untuk menerimanya, tetapi ternyata orang-orang di sekitarnya mengira bahwa Seraphim adalah istrinya...!?\r\n\r\nKehidupan yang lambat di pedesaan dimulai dengan seorang ksatria wanita cantik!",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFuYm8tZGUtaGlyb3R0YS1vbm5hLWtpc2hpLWluYWthLWRlLW9yZS1uby15b21lLWRhLXRvLW9tb3dhcmV0ZWlydS1jaGFwdGVyLTM4Lw==",
+      "date": "12 jam yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFuYm8tZGUtaGlyb3R0YS1vbm5hLWtpc2hpLWluYWthLWRlLW9yZS1uby15b21lLWRhLXRvLW9tb3dhcmV0ZWlydS1jaGFwdGVyLTM3Lw==",
-      "date": "5 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFuYm8tZGUtaGlyb3R0YS1vbm5hLWtpc2hpLWluYWthLWRlLW9yZS1uby15b21lLWRhLXRvLW9tb3dhcmV0ZWlydS1jaGFwdGVyLTM2Lw==",
-      "date": "3 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFuYm8tZGUtaGlyb3R0YS1vbm5hLWtpc2hpLWluYWthLWRlLW9yZS1uby15b21lLWRhLXRvLW9tb3dhcmV0ZWlydS1jaGFwdGVyLTM1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -51,7 +57,7 @@
       "chapter": "33",
       "title": "Komik Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFuYm8tZGUtaGlyb3R0YS1vbm5hLWtpc2hpLWluYWthLWRlLW9yZS1uby15b21lLWRhLXRvLW9tb3dhcmV0ZWlydS1jaGFwdGVyLTMzLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -111,7 +117,7 @@
       "chapter": "23",
       "title": "Komik Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFuYm8tZGUtaGlyb3R0YS1vbm5hLWtpc2hpLWluYWthLWRlLW9yZS1uby15b21lLWRhLXRvLW9tb3dhcmV0ZWlydS1jaGFwdGVyLTIzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "22",
@@ -246,5 +252,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 37
+  "total_chapters": 38
 }

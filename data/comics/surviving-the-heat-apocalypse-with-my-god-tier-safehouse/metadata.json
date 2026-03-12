@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-10T23:41:56.113547",
+  "scraped_at": "2026-03-12T07:17:56.033591",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    Surviving the Heat Apocalypse with My God-Tier Safehouse yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Saat musibah datang, saksikan aku terlahir kembali dengan persediaan miliaran! Aku akan membalas dendam pada wanita penipu itu, membuat para dewi menyerbuku, dan menjadi raja kiamat!",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Surviving the Heat Apocalypse with My God-Tier Safehouse Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2aW5nLXRoZS1oZWF0LWFwb2NhbHlwc2Utd2l0aC1teS1nb2QtdGllci1zYWZlaG91c2UtY2hhcHRlci0yMC8=",
+      "date": "12 jam yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Surviving the Heat Apocalypse with My God-Tier Safehouse Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2aW5nLXRoZS1oZWF0LWFwb2NhbHlwc2Utd2l0aC1teS1nb2QtdGllci1zYWZlaG91c2UtY2hhcHRlci0xOS8=",
-      "date": "26 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -57,7 +63,7 @@
       "chapter": "13",
       "title": "Komik Surviving the Heat Apocalypse with My God-Tier Safehouse Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2aW5nLXRoZS1oZWF0LWFwb2NhbHlwc2Utd2l0aC1teS1nb2QtdGllci1zYWZlaG91c2UtY2hhcHRlci0xMy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -132,5 +138,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }
