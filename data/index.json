@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T07:58:18.423320",
-  "total_comics": 1172,
+  "last_updated": "2026-03-12T09:05:55.936788",
+  "total_comics": 1185,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 301
+      "total_chapters": 302
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -2136,7 +2136,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 508
+      "total_chapters": 509
     },
     {
       "slug": "game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau",
@@ -2808,7 +2808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 38
+      "total_chapters": 46
     },
     {
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -6528,7 +6528,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 74
     },
     {
       "slug": "the-lucky-plan-of-an-idol-in-his-second-life",
@@ -9377,6 +9377,110 @@
       "status": "Berjalan",
       "rating": 7.08,
       "total_chapters": 63
+    },
+    {
+      "slug": "houseki-no-kuni",
+      "title": "Houseki no Kuni",
+      "type": "Manga",
+      "status": "Hiatus",
+      "rating": 9.31,
+      "total_chapters": 82
+    },
+    {
+      "slug": "the-dutiful-kid-who-saved-the-villainous-family",
+      "title": "The Dutiful Kid Who Saved the Villainous Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
+    },
+    {
+      "slug": "the-terminally-ill-baby-healer-doesnt-hide-her-genius",
+      "title": "The Terminally Ill Baby Healer Doesn’t Hide Her Genius",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 34
+    },
+    {
+      "slug": "a-wicked-husband",
+      "title": "A Wicked Husband",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 27
+    },
+    {
+      "slug": "the-baby-raises-a-villain",
+      "title": "The Baby Raises a Villain",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
+    },
+    {
+      "slug": "osananajimi-ni-kage-de-tsugou-no-yoi-otoko-yobawari-sareta-ore-wa-koui-o-reset-shite-futsuu-ni-seishun-o-okuritai",
+      "title": "Osananajimi ni Kage de Tsugou no Yoi Otoko Yobawari Sareta Ore wa, Koui o Reset Shite Futsuu ni Seishun o Okuritai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "hirotta-dorei-tachi-ga-tabi-datte-haya-juunen-naze-ka-ore-ga-densetsu-ni-natteita",
+      "title": "Hirotta Dorei-tachi ga Tabi datte Haya Juunen, Naze ka Ore ga Densetsu ni Natteita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "the-ss-rank-freshman-at-dawn-academy",
+      "title": "The SS-Rank Freshman at Dawn Academy",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "jinrui-uragittara-osananajimi-no-yuusha-wo-buttobasareta",
+      "title": "Jinrui Uragittara Osananajimi no Yuusha wo Buttobasareta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "criminal-transfer-student",
+      "title": "Criminal Transfer Student",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "world-dai-star-encore",
+      "title": "World Dai Star: Encore!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "chiisakute-kawaii-bungeibu-no-chiteki-na-senpai-o-hiza-no-ue-ni-nosetara-mainichi-suwattekuru-you-ni-natta",
+      "title": "Chiisakute Kawaii Bungeibu no Chiteki na Senpai o, Hiza no Ue ni Nosetara Mainichi Suwattekuru you ni natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "on-my-way-to-see-my-mom",
+      "title": "On My Way To See My Mom",
+      "type": "Manhwa",
+      "status": "Tamat",
+      "rating": 6.8,
+      "total_chapters": 33
     }
   ]
 }
