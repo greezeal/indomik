@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-12T09:01:31.503539",
+  "scraped_at": "2026-03-13T19:14:31.989678",
   "alternative_titles": "人類裏切ったら幼なじみの勇者にぶっ殺された",
   "status": "Berjalan",
   "author": "Ryo Mizogami",
@@ -23,17 +23,23 @@
   "synopsis": "Manga                    Jinrui Uragittara Osananajimi no Yuusha wo Buttobasareta yang dibuat oleh komikus bernama\n                    Ryo Mizogami ini bercerita tentang\n                    Ramon Marknight, seorang manusia yang bersekutu dengan pasukan Raja Iblis, menjadi sosok legendaris yang terkenal buruk dalam sejarah, dikenang sebagai “perwujudan iblis” karena tak terhitung jumlah nyawa manusia yang hilang akibat tindakannya. Dianggap telah tewas dalam perang, Ramon tiba-tiba terbangun 1.000 tahun kemudian di dunia yang telah berubah drastis. Saat mencoba beradaptasi dengan era yang asing baginya, sambil dihantui oleh beban dosa masa lalunya, Ramon harus menghadapi berbagai tantangan baru, mengungkap kebenaran di balik kebangkitannya, serta menentukan apakah ia akan tetap menjadi penjahat dalam sejarah—atau memilih jalan baru untuk masa depannya.",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Jinrui Uragittara Osananajimi no Yuusha wo Buttobasareta Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamlucnVpLXVyYWdpdHRhcmEtb3NhbmFuYWppbWktbm8teXV1c2hhLXdvLWJ1dHRvYmFzYXJldGEtY2hhcHRlci0zLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Jinrui Uragittara Osananajimi no Yuusha wo Buttobasareta Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamlucnVpLXVyYWdpdHRhcmEtb3NhbmFuYWppbWktbm8teXV1c2hhLXdvLWJ1dHRvYmFzYXJldGEtY2hhcHRlci0yLw==",
-      "date": "44 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Jinrui Uragittara Osananajimi no Yuusha wo Buttobasareta Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamlucnVpLXVyYWdpdHRhcmEtb3NhbmFuYWppbWktbm8teXV1c2hhLXdvLWJ1dHRvYmFzYXJldGEtY2hhcHRlci0xLw==",
-      "date": "46 menit yang lalu"
+      "date": "1 hari yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

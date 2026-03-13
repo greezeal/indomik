@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-21T22:39:18.481086",
+  "scraped_at": "2026-03-13T19:16:28.536173",
   "alternative_titles": "葬霊のラメント~乙女は彷徨える魂に餞を～",
   "status": "Berjalan",
   "author": "Mizunomoto",
@@ -23,17 +23,23 @@
   "synopsis": "Manga                    Sourei no Lament: Otome wa Samayoeru Tamashii Ni Hanamuke wo yang dibuat oleh komikus bernama\n                    Mizunomoto ini bercerita tentang\n                    “Spiritis Pemakaman”—seseorang yang mengantar jiwa-jiwa yang terjebak di antara dunia ini dan alam baka ke peristirahatan terakhir, di alam yang disebut “Celah,” tempat roh-roh yang berkeliaran menjadi hantu jahat. Alice, seorang gadis berbaju hitam, menghadapi roh-roh jahat ini sebagai seorang Spiritis Pemakaman, menghadapi musuh-musuh yang tak dapat dikalahkan oleh senjata atau sihir apa pun. Dengan ingatan yang hilang, cinta dan kebencian yang bengkok, dan rencana-rencana yang rumit dan saling terkait, misteri semakin dalam. Saat ia membimbing jiwa-jiwa yang tersesat menuju peristirahatan mereka, Alice terus melintasi “Celah” setiap hari.\r\n\r\nSebuah fantasi gotik dimulai, di mana seorang gadis berbaju hitam mengusir arwah orang mati yang berkeliaran.",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Sourei no Lament: Otome wa Samayoeru Tamashii Ni Hanamuke wo Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291cmVpLW5vLWxhbWVudC1vdG9tZS13YS1zYW1heW9lcnUtdGFtYXNoaWktbmktaGFuYW11a2Utd28tY2hhcHRlci0zLw==",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Sourei no Lament: Otome wa Samayoeru Tamashii Ni Hanamuke wo Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291cmVpLW5vLWxhbWVudC1vdG9tZS13YS1zYW1heW9lcnUtdGFtYXNoaWktbmktaGFuYW11a2Utd28tY2hhcHRlci0yLw==",
-      "date": "6 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Sourei no Lament: Otome wa Samayoeru Tamashii Ni Hanamuke wo Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291cmVpLW5vLWxhbWVudC1vdG9tZS13YS1zYW1heW9lcnUtdGFtYXNoaWktbmktaGFuYW11a2Utd28tY2hhcHRlci0xLw==",
-      "date": "6 jam yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

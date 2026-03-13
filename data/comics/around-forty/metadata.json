@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-07T17:58:47.991930",
+  "scraped_at": "2026-03-13T19:16:47.816893",
   "alternative_titles": "마흔 즈음에",
   "status": "Berjalan",
   "author": "Sukuns",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    Around Forty yang dibuat oleh komikus bernama\n                    Sukuns ini bercerita tentang\n                    Ketika Hyun-sung-min berusia empat puluh tahun, dia melihat sekelilingnya dan menyadari bahwa dia sendirian. Dihadapkan dengan krisis dalam hidupnya dan di tempat kerja, dia memutuskan untuk berjuang menemukan kebahagiaan sejati. Tidak Ada Kata Terlambat!",
   "chapters": [
     {
+      "chapter": "56",
+      "title": "Komik Around Forty Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItNTYv",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "55",
       "title": "Komik Around Forty Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItNTUv",
-      "date": "5 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "54",
@@ -45,13 +51,13 @@
       "chapter": "51",
       "title": "Komik Around Forty Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItNTEv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Around Forty Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItNTAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -105,19 +111,19 @@
       "chapter": "41",
       "title": "Komik Around Forty Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItNDEv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Around Forty Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItNDAv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Around Forty Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItMzkv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -195,7 +201,7 @@
       "chapter": "26",
       "title": "Komik Around Forty Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItMjYv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -237,13 +243,13 @@
       "chapter": "19",
       "title": "Komik Around Forty Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItMTkv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Around Forty Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJvdW5kLWZvcnR5LWNoYXB0ZXItMTgv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -348,5 +354,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 55
+  "total_chapters": 56
 }
