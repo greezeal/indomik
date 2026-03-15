@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-14T03:34:58.685690",
+  "scraped_at": "2026-03-15T14:00:59.221863",
   "alternative_titles": "배드 비즈니스",
   "status": "Berjalan",
   "author": "Seoksu",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    Bad Business yang dibuat oleh komikus bernama\n                    Seoksu ini bercerita tentang\n                    Jay, seorang pembunuh bayaran legendaris di dunia kriminal Amerika, disewa oleh Union—perusahaan pembunuh bayaran terbesar di Amerika Utara—untuk menghancurkan perusahaan pembunuh bayaran yang didirikan oleh temannya, Johnny, dengan tangannya sendiri. Syarat untuk menerima kontrak tersebut adalah nyawa Johnny akan diselamatkan, tetapi baik Johnny maupun Jay terbunuh karena pengkhianatan Union. Namun, melalui kekuatan misterius, Jay dibangkitkan dalam tubuh seorang pemuda Korea biasa dan bertemu Johnny, yang telah dibangkitkan dalam tubuh seorang wanita muda. Keduanya memutuskan untuk bergabung kembali dan mendirikan \"perusahaan\" yang kuat untuk membalas dendam kepada Union, yang telah membunuh mereka.",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Bad Business Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJ1c2luZXNzLWNoYXB0ZXItMTQv",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Bad Business Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJ1c2luZXNzLWNoYXB0ZXItMTMv",
-      "date": "4 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "12",
@@ -96,5 +102,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }

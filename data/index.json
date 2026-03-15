@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T13:13:15.085671",
-  "total_comics": 1190,
+  "last_updated": "2026-03-15T14:03:46.564224",
+  "total_comics": 1191,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -352,7 +352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 168
+      "total_chapters": 169
     },
     {
       "slug": "children-of-the-rune",
@@ -392,7 +392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
@@ -1096,7 +1096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
@@ -1136,7 +1136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "643745-ranger-reject",
@@ -1152,7 +1152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
@@ -2304,7 +2304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -2360,7 +2360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.48,
-      "total_chapters": 288
+      "total_chapters": 289
     },
     {
       "slug": "konya-coin-randorii-de-aimashou",
@@ -3910,9 +3910,9 @@
       "slug": "925565-player-from-today-onwards",
       "title": "Player From Today Onwards",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.24,
+      "total_chapters": 139
     },
     {
       "slug": "my-wife-is-from-a-thousand-years-ago",
@@ -4416,7 +4416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "face-genius-0-year-old-top-star",
@@ -5224,7 +5224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 222
+      "total_chapters": 223
     },
     {
       "slug": "864104-i-killed-an-academy-player",
@@ -9496,7 +9496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "saikyou-saiaku-no-ura-boss-tenseisha-to-tomo-ni-hametsu-flag-kaihi-wo-mezasu",
@@ -9520,7 +9520,15 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 20
+    },
+    {
+      "slug": "chigau-miyahara-omae-janai",
+      "title": "Chigau Miyahara Omae Janai!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.47,
+      "total_chapters": 12
     }
   ]
 }
