@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T01:04:37.638380",
-  "total_comics": 1187,
+  "last_updated": "2026-03-15T04:11:58.284763",
+  "total_comics": 1189,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -272,7 +272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "surviving-the-heat-apocalypse-with-my-god-tier-safehouse",
@@ -288,7 +288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 166
+      "total_chapters": 169
     },
     {
       "slug": "the-legendary-hero-is-an-academy-honors-student",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -312,7 +312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "the-return-of-the-corpse-king",
@@ -1200,7 +1200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 135
+      "total_chapters": 137
     },
     {
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
@@ -1288,7 +1288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.14,
-      "total_chapters": 24
+      "total_chapters": 26
     },
     {
       "slug": "194784-baek-xx",
@@ -1456,7 +1456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 11
     },
     {
       "slug": "warrior-of-the-sword-heart",
@@ -1496,7 +1496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "sayonara-piano-sonata",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 29
+      "total_chapters": 33
     },
     {
       "slug": "70-meter-girl",
@@ -2184,7 +2184,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 52
+      "total_chapters": 54
     },
     {
       "slug": "563439-kowloon-saroka",
@@ -2360,7 +2360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.48,
-      "total_chapters": 287
+      "total_chapters": 288
     },
     {
       "slug": "konya-coin-randorii-de-aimashou",
@@ -2528,7 +2528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.54,
-      "total_chapters": 168
+      "total_chapters": 169
     },
     {
       "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
@@ -2710,9 +2710,9 @@
       "slug": "peerless-soul",
       "title": "Peerless Soul",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.44,
+      "total_chapters": 737
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -2838,9 +2838,9 @@
       "slug": "fighting-ward",
       "title": "Fighting Ward",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 57
     },
     {
       "slug": "silent-transfer-student",
@@ -3352,7 +3352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "the-demon-god",
@@ -3608,7 +3608,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "tang-clan-legend",
@@ -3736,7 +3736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -3776,7 +3776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 88
+      "total_chapters": 90
     },
     {
       "slug": "high-school-musical-genius-is-paganini-reincarnated",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 257
+      "total_chapters": 258
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -3808,7 +3808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "the-delivery-man-from-murim",
@@ -3870,9 +3870,9 @@
       "slug": "uesugi-kun-wa-onnanoko-wo-yametai",
       "title": "Uesugi-kun wa Onnanoko wo Yametai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.3,
+      "total_chapters": 32
     },
     {
       "slug": "futari-bus",
@@ -4096,7 +4096,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.59,
-      "total_chapters": 118
+      "total_chapters": 120
     },
     {
       "slug": "soukyuu-no-shihai-sha-isekai-oppai-musouden",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 84
+      "total_chapters": 90
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5032,7 +5032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "infinite-level-up-in-murim",
@@ -5136,7 +5136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 40
     },
     {
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
@@ -5400,7 +5400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.72,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 116
+      "total_chapters": 117
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -5640,7 +5640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "mr-war%ea%9e%89-the-strongest-ex-soldier",
@@ -6240,7 +6240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 153
+      "total_chapters": 155
     },
     {
       "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-o-kuratte-tsuyoku-naru",
@@ -6336,7 +6336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 150
+      "total_chapters": 151
     },
     {
       "slug": "807679-the-returned-c-rank-tank-wont-die",
@@ -6536,7 +6536,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "930603-dandadan",
@@ -7224,7 +7224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.19,
-      "total_chapters": 192
+      "total_chapters": 195
     },
     {
       "slug": "osoraku-kanojo-wa-ore-no-aniki-wo-neratteru",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -7824,7 +7824,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "chikasugiru-futari",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 156
+      "total_chapters": 158
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -8600,7 +8600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 336
+      "total_chapters": 337
     },
     {
       "slug": "isekai-nonbiri-nouka",
@@ -8904,7 +8904,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "ore-no-ichizu-wo-jama-suru-aitsu",
@@ -9024,7 +9024,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.99,
-      "total_chapters": 104
+      "total_chapters": 106
     },
     {
       "slug": "class-de-ichiban-kawaii-gal-wo-ezuke-shiteiru-hanashi",
@@ -9497,6 +9497,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 2
+    },
+    {
+      "slug": "saikyou-saiaku-no-ura-boss-tenseisha-to-tomo-ni-hametsu-flag-kaihi-wo-mezasu",
+      "title": "Saikyou Saiaku no Ura Boss, Tenseisha to Tomo ni Hametsu Flag Kaihi wo Mezasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "datenshi-sopurano-chan-no-fukushuu",
+      "title": "Datenshi Sopurano chan no Fukushuu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.6,
+      "total_chapters": 6
     }
   ]
 }

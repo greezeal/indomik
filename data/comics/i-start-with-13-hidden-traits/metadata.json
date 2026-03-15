@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-09T02:54:28.278173",
+  "scraped_at": "2026-03-15T04:09:39.600529",
   "alternative_titles": "히든 특성 13개 들고 시작한다",
   "status": "Berjalan",
   "author": "Final Inspection, Junyoung",
@@ -20,34 +20,46 @@
   "synopsis": "Manhwa                    I Start With 13 Hidden Traits yang dibuat oleh komikus bernama\n                    Final Inspection, Junyoung ini bercerita tentang\n                    Dalam dunia di mana garis antara permainan dan kenyataan telah kabur, seorang pria memulai dengan tiga belas sifat tersembunyi.",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik I Start With 13 Hidden Traits Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0yMi0yLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik I Start With 13 Hidden Traits Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0yMi8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik I Start With 13 Hidden Traits Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0yMS8=",
-      "date": "18 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik I Start With 13 Hidden Traits Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0yMC8=",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik I Start With 13 Hidden Traits Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0xOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik I Start With 13 Hidden Traits Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0xOC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik I Start With 13 Hidden Traits Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0xNy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -83,7 +95,7 @@
       "chapter": "11",
       "title": "Komik I Start With 13 Hidden Traits Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0xMS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -146,5 +158,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 23
 }

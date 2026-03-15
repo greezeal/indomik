@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-11T10:02:05.690587",
+  "scraped_at": "2026-03-15T04:10:06.456648",
   "alternative_titles": "나혼자 탑에서 농사, Farming in the tower alone",
   "status": "Berjalan",
   "author": "Hyung Lim, sdcknight",
@@ -23,22 +23,28 @@
   "synopsis": "Manhwa                    Solo Farming In The Tower yang dibuat oleh komikus bernama\n                    Hyung Lim, sdcknight ini bercerita tentang\n                    Suatu hari, sebuah menara misterius tiba-tiba muncul di kota. Orang-orang memutuskan untuk menyebutnya penjara bawah tanah, dan meskipun penuh dengan medan terjal dan monster berbahaya, itu juga merupakan tanah peluang, tempat harta karun yang tak terhitung jumlahnya menunggu. Ketika Sejun, seorang pemuda yang menjalani kehidupan biasa, diundang ke ruang bawah tanah secara kebetulan, dia sangat senang dengan kemungkinan menjadi kaya, tetapi dia terdampar di area tersembunyi di menara misterius. Yang dia miliki hanyalah beberapa biji dan tubuhnya. Sekarang Sejun harus bertani, mengumpulkan sumber daya, dan memikirkan strategi bertahan hidupnya sendiri!",
   "chapters": [
     {
+      "chapter": "117",
+      "title": "Komik Solo Farming In The Tower Chapter 117",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTExNy8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "116",
       "title": "Komik Solo Farming In The Tower Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTExNi8=",
-      "date": "2 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "115",
       "title": "Komik Solo Farming In The Tower Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTExNS8=",
-      "date": "15 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "114",
       "title": "Komik Solo Farming In The Tower Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTExNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "113",
@@ -50,7 +56,7 @@
       "chapter": "112",
       "title": "Komik Solo Farming In The Tower Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTExMi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "111",
@@ -86,25 +92,25 @@
       "chapter": "106",
       "title": "Komik Solo Farming In The Tower Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEwNi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "105",
       "title": "Komik Solo Farming In The Tower Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEwNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik Solo Farming In The Tower Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEwNC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik Solo Farming In The Tower Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEwMy8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "102",
@@ -566,7 +572,7 @@
       "chapter": "26",
       "title": "Komik Solo Farming In The Tower Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTI2Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "25",
@@ -719,5 +725,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 116
+  "total_chapters": 117
 }
