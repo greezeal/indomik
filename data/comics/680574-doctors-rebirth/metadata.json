@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-15T15:48:34.653529",
+  "scraped_at": "2026-03-16T12:39:06.298846",
   "alternative_titles": "N/A",
   "status": "Berjalan",
   "author": "",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Doctor’s Rebirth yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Seorang dokter yang tewas diakibatkan melakukan tugas volunteer di daerah korea utara yang dimana terlibat perang sipil. Sewaktu tewas dokter ini masuk ke dunia murim dan disinilah cerita dimulai",
   "chapters": [
     {
+      "chapter": "224",
+      "title": "Komik Doctor’s Rebirth Chapter 224",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMjI0Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "223",
       "title": "Komik Doctor’s Rebirth Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMjIzLw==",
-      "date": "18 menit yang lalu"
+      "date": "24 jam yang lalu"
     },
     {
       "chapter": "222",
@@ -259,7 +265,7 @@
       "chapter": "184",
       "title": "Komik Doctor’s Rebirth Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMTg0Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "183",
@@ -1360,5 +1366,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 223
+  "total_chapters": 224
 }

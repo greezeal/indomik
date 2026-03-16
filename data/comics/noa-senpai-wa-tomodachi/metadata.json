@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.86,
-  "scraped_at": "2026-03-15T15:50:03.215313",
+  "scraped_at": "2026-03-16T12:41:49.174817",
   "alternative_titles": "のあ先輩はともだち。, Noa Is My Senior, and My Friend., Ноа-сэмпай — моя подруга",
   "status": "Berjalan",
   "author": "Akiyama Enma",
@@ -23,34 +23,40 @@
   "synopsis": "Manga                    Noa-senpai wa Tomodachi. yang dibuat oleh komikus bernama\n                    Akiyama Enma ini bercerita tentang\n                    Kehidupan orang dewasa yang pahit dan menyakitkan membutuhkan “teman”. Bertempat di sebuah perusahaan game, Rihito Otsuka (23), yang merupakan pegawai harian Anda, dan Noa Saotome (27), wanita karir terbaik. Dua karakter yang kehidupannya tidak seharusnya bersinggungan menjadi \"teman\" secara kebetulan. Komedi \"teman\" kantor yang sedikit manis dan sedikit berat dimulai!",
   "chapters": [
     {
+      "chapter": "86",
+      "title": "Komik Noa-senpai wa Tomodachi. Chapter 86",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci04Ni8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "85",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci04NS8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "84",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci04NC8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci04My8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci04Mi8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci04MS8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "80",
@@ -98,7 +104,7 @@
       "chapter": "74",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci03NC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "73",
@@ -128,7 +134,7 @@
       "chapter": "69",
       "title": "Komik Noa-senpai wa Tomodachi. Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9hLXNlbnBhaS13YS10b21vZGFjaGktY2hhcHRlci02OS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "68.3",
@@ -545,5 +551,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 87
+  "total_chapters": 88
 }

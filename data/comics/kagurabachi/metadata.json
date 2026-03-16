@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.41,
-  "scraped_at": "2026-03-02T11:56:03.193985",
+  "scraped_at": "2026-03-16T12:42:23.196637",
   "alternative_titles": "カグラバチ, Kagurabachi, Кагурабати",
   "status": "Berjalan",
   "author": "Hokazono Takeru",
@@ -25,46 +25,58 @@
   "synopsis": "Manga                    Kagurabachi yang dibuat oleh komikus bernama\n                    Hokazono Takeru ini bercerita tentang\n                    Chihiro muda menghabiskan hari-harinya berlatih di bawah bimbingan ayahnya yang ahli pedang terkenal. Suatu hari nanti dia berharap bisa menjadi pembuat pedang yang hebat. Ayah yang konyol dan anak yang serius--mereka mengira hari-hari ini akan berlangsung selamanya. Namun tiba-tiba, tragedi terjadi. Hari yang gelap berlumuran darah. Chihiro dan pedangnya kini hidup hanya untuk membalas dendam. Aksi pertarungan pedang yang epik!",
   "chapters": [
     {
+      "chapter": "115",
+      "title": "Komik Kagurabachi Chapter 115",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMTUv",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "114",
+      "title": "Komik Kagurabachi Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMTQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "113",
       "title": "Komik Kagurabachi Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMTMv",
-      "date": "4 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "112.5",
       "title": "Komik Kagurabachi Chapter 112.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMTItNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Kagurabachi Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMTIv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "111",
       "title": "Komik Kagurabachi Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMTEv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "110",
       "title": "Komik Kagurabachi Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMTAv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "109",
       "title": "Komik Kagurabachi Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMDkv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "108",
       "title": "Komik Kagurabachi Chapter  108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMDgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "107",
@@ -76,7 +88,7 @@
       "chapter": "106",
       "title": "Komik Kagurabachi Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMDYv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "105",
@@ -94,13 +106,13 @@
       "chapter": "103",
       "title": "Komik Kagurabachi Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMDMv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Kagurabachi Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci0xMDIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "101",
@@ -124,7 +136,7 @@
       "chapter": "98",
       "title": "Komik Kagurabachi Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci05OC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "97",
@@ -142,13 +154,13 @@
       "chapter": "95",
       "title": "Komik Kagurabachi Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci05NS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Kagurabachi Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci05NC8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "93",
@@ -172,13 +184,13 @@
       "chapter": "92",
       "title": "Komik Kagurabachi Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci05Mi8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Kagurabachi Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci05MS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "90",
@@ -196,13 +208,13 @@
       "chapter": "88",
       "title": "Komik Kagurabachi Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci04OC8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik Kagurabachi Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci04Ny8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "86",
@@ -220,13 +232,13 @@
       "chapter": "84",
       "title": "Komik Kagurabachi Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci04NC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik Kagurabachi Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci04My8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "82",
@@ -238,13 +250,13 @@
       "chapter": "81",
       "title": "Komik Kagurabachi Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci04MS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Kagurabachi Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci04MC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "79",
@@ -262,19 +274,19 @@
       "chapter": "77",
       "title": "Komik Kagurabachi Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci03Ny8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Kagurabachi Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci03Ni8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Kagurabachi Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci03NS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -286,7 +298,7 @@
       "chapter": "73",
       "title": "Komik Kagurabachi Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci03My8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "72",
@@ -298,13 +310,13 @@
       "chapter": "71",
       "title": "Komik Kagurabachi Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci03MS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Kagurabachi Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci03MC8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "69",
@@ -442,13 +454,13 @@
       "chapter": "48",
       "title": "Komik Kagurabachi Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci00OC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Kagurabachi Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FndXJhYmFjaGktY2hhcHRlci00Ny8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "46",
@@ -727,5 +739,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 117
+  "total_chapters": 119
 }
