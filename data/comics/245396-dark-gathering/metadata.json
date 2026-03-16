@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.39,
-  "scraped_at": "2026-03-09T02:55:40.455295",
+  "scraped_at": "2026-03-16T23:21:47.877076",
   "alternative_titles": "ダークギャザリング, 黑暗集会, 黑暗集會",
   "status": "Berjalan",
   "author": "Kondou Kenichi",
@@ -26,22 +26,28 @@
   "synopsis": "Manga                    Dark Gathering yang dibuat oleh komikus bernama\n                    Kondou Kenichi ini bercerita tentang\n                    Keitarou, yang selalu memiliki kecenderungan untuk menarik roh, dipekerjakan sebagai tutor untuk seorang gadis kecil bernama Yayoi yang dapat melihat roh dan sedang mencari roh yang mengambil ibunya.",
   "chapters": [
     {
+      "chapter": "45",
+      "title": "Komik Dark Gathering Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci00NS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik Dark Gathering Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci00NC8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Dark Gathering Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci00My8=",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Dark Gathering Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci00Mi8=",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "41",
@@ -53,7 +59,7 @@
       "chapter": "40",
       "title": "Komik Dark Gathering Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci00MC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -113,7 +119,7 @@
       "chapter": "30",
       "title": "Komik Dark Gathering Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci0zMC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "29",
@@ -143,7 +149,7 @@
       "chapter": "25",
       "title": "Komik Dark Gathering Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci0yNS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -185,7 +191,7 @@
       "chapter": "19",
       "title": "Komik Dark Gathering Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci0xOS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "18",
@@ -239,7 +245,7 @@
       "chapter": "11",
       "title": "Komik Dark Gathering Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci0xMS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "10",
@@ -299,13 +305,13 @@
       "chapter": "2.2",
       "title": "Komik Dark Gathering Chapter 2.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci0yLTIv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "2.1",
       "title": "Komik Dark Gathering Chapter 2.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyay1nYXRoZXJpbmctY2hhcHRlci0yLTEv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "1.2",
@@ -320,5 +326,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 50
 }

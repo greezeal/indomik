@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T22:43:44.890975",
-  "total_comics": 1196,
+  "last_updated": "2026-03-16T23:23:28.050836",
+  "total_comics": 1203,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -224,7 +224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.97,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "oukoku-e-tsuzuku-michi",
@@ -1296,7 +1296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 164
+      "total_chapters": 165
     },
     {
       "slug": "game-online-unrivaled-in-the-world-remake",
@@ -1336,7 +1336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "495189-heavenly-inquisition-sword",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 486
+      "total_chapters": 487
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2712,7 +2712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 737
+      "total_chapters": 739
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -2864,7 +2864,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.39,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "ao-no-hako",
@@ -3032,7 +3032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 50
     },
     {
       "slug": "510508-the-regressed-mercenarys-machinations",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -5240,7 +5240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "miyu-chan-wa-zutto-tomodachi",
@@ -5352,7 +5352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "legend",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 158
+      "total_chapters": 160
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -8360,7 +8360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 107
+      "total_chapters": 109
     },
     {
       "slug": "myriad-tribes-invasion-rearguards-resolute-unity",
@@ -8920,7 +8920,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "one-drop-of-blood-forever",
@@ -9160,7 +9160,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 15
     },
     {
       "slug": "monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken",
@@ -9504,7 +9504,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 8
     },
     {
       "slug": "datenshi-sopurano-chan-no-fukushuu",
@@ -9512,7 +9512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 6
+      "total_chapters": 8
     },
     {
       "slug": "the-returnees-hidden-strategy-stream",
@@ -9569,6 +9569,62 @@
       "status": "Berjalan",
       "rating": 7.22,
       "total_chapters": 5
+    },
+    {
+      "slug": "heart-pounding-ghostly-poem",
+      "title": "Heart-Pounding Ghostly Poem",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.34,
+      "total_chapters": 41
+    },
+    {
+      "slug": "taoreta-fujin-wo-sukutta-gohoubi-wa-musume-no-bijin-futago-to-no-otsukiai-deshita",
+      "title": "Taoreta Fujin wo Sukutta Gohoubi wa, Musume no Bijin Futago to no Otsukiai Deshita.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "blood-rain-zero",
+      "title": "Blood Rain: Zero",
+      "type": "Manhwa",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 22
+    },
+    {
+      "slug": "hanako-san-tabenai-de",
+      "title": "Hanako-san, Tabenai de",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "424080-the-constellations-are-my-disciples",
+      "title": "The Constellations Are My Disciples",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.27,
+      "total_chapters": 133
+    },
+    {
+      "slug": "my-senior-brother-is-too-steady",
+      "title": "My Senior Brother Is Too Steady",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 150
+    },
+    {
+      "slug": "hitomazu-koi-ni-nare-sasete-kudasai",
+      "title": "Hitomazu Koi ni Nare Sasete Kudasai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }

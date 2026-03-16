@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-15T04:09:20.082068",
+  "scraped_at": "2026-03-16T23:18:40.849992",
   "alternative_titles": "Jiang Si Xiansheng, Mr. Jiang Si, 江思先生",
   "status": "Berjalan",
   "author": "Cao San Mu",
@@ -25,34 +25,46 @@
   "synopsis": "Manhua                    Mr. Zombie yang dibuat oleh komikus bernama\n                    Cao San Mu ini bercerita tentang\n                    1000 tahun yang lalu, MC menjadi zombie normal di kiamat. Untuk bertahan hidup dari perburuan manusia yang konstan, dia terus melatih dirinya sampai dia menjadi sangat kuat. Setelah 1000 tahun berlalu, dia kini siap memasuki masyarakat manusia lagi.",
   "chapters": [
     {
+      "chapter": "159",
+      "title": "Komik Mr. Zombie Chapter 159",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTU5Lw==",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "158",
+      "title": "Komik Mr. Zombie Chapter 158",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTU4Lw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "157",
       "title": "Komik Mr. Zombie Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTU3Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "156",
       "title": "Komik Mr. Zombie Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTU2Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "155",
       "title": "Komik Mr. Zombie Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTU1Lw==",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "154",
       "title": "Komik Mr. Zombie Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTU0Lw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "153",
       "title": "Komik Mr. Zombie Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTUzLw==",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "152",
@@ -70,7 +82,7 @@
       "chapter": "150",
       "title": "Komik Mr. Zombie Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTUwLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "149",
@@ -94,7 +106,7 @@
       "chapter": "146",
       "title": "Komik Mr. Zombie Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTQ2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "145",
@@ -658,19 +670,19 @@
       "chapter": "52",
       "title": "Komik Mr. Zombie Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItNTIv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Mr. Zombie Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItNTEv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Mr. Zombie Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItNTAv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "49",
@@ -973,5 +985,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 158
+  "total_chapters": 160
 }

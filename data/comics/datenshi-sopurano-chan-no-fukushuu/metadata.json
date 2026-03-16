@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.6,
-  "scraped_at": "2026-03-15T04:11:12.237382",
+  "scraped_at": "2026-03-16T23:21:28.448590",
   "alternative_titles": "Revenge of The Fallen Angel Soprano-chan, 堕天使そぷらのちゃんの復讐",
   "status": "Berjalan",
   "author": "Fujimoto Setsuna",
@@ -24,41 +24,53 @@
   "synopsis": "Manga                    Datenshi Sopurano chan no Fukushuu yang dibuat oleh komikus bernama\n                    Fujimoto Setsuna ini bercerita tentang\n                    Di musim panas kelas enam, Mirei Nakamura menyakiti sahabatnya, yang telah mengungkapkan perasaannya, dengan kata-kata yang tak berperasaan. Selama bertahun-tahun, ia dihantui oleh keinginan untuk memulai kembali, tetapi ketika ia bertemu kembali dengan Sopura, yang pindah ke sekolahnya, ia tidak dapat menemukan cara untuk memulai lagi. Sopura telah menjadi model terkenal yang dikenal sebagai \"Angel Sopura\", tetapi bagaimana dengan Mirei?",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTgv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTcv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTYv",
-      "date": "4 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTUv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTQv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTMv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 8
 }
