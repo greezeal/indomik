@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-15T15:48:37.423594",
+  "scraped_at": "2026-03-17T07:38:25.635245",
   "alternative_titles": "천화서고 대공자",
   "status": "Berjalan",
   "author": "128, Kim Hyeon Yeong",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    Heavenly Grand Archive’s Young Master yang dibuat oleh komikus bernama\n                    128, Kim Hyeon Yeong ini bercerita tentang\n                    Jiwa Pemimpin Aliansi Murim yang menawan dan mengesankan, Hu Gong, suatu hari tiba-tiba merasuki tubuh seorang pemuda sialan.\r\n\r\nNama pemuda itu adalah Beom Hang. Dia adalah tuan muda dari 'Arsip Agung Surgawi', salah satu dari tiga arsip utama jianghu, namun alasan yang menyedihkan bagi seseorang.\r\n\r\nUntuk mengetahui mengapa jiwanya bertukar tubuh, Hu Gong mulai melatih tubuh Beom Hang. Ketika gerakan tuan muda yang dirasuki dari Arsip Agung Surgawi benar-benar berbeda dari sebelumnya, itu mulai menarik perhatian para jianghu…",
   "chapters": [
     {
+      "chapter": "170",
+      "title": "Komik Heavenly Grand Archive’s Young Master Chapter 170",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTcwLw==",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "169",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTY5Lw==",
-      "date": "24 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "168",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 168",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTY4Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "167",
@@ -104,7 +110,7 @@
       "chapter": "156",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTU2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "155",
@@ -140,7 +146,7 @@
       "chapter": "150",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTUwLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "149",
@@ -158,7 +164,7 @@
       "chapter": "147",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTQ3Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "146",
@@ -206,7 +212,7 @@
       "chapter": "139",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTM5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "138",
@@ -308,7 +314,7 @@
       "chapter": "122",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTIyLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "121",
@@ -482,7 +488,7 @@
       "chapter": "93",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItOTMv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "92",
@@ -1037,5 +1043,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 169
+  "total_chapters": 170
 }

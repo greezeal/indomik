@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.19,
-  "scraped_at": "2026-03-15T04:10:11.362819",
+  "scraped_at": "2026-03-17T07:41:08.239112",
   "alternative_titles": "정글쥬스",
   "status": "Berjalan",
   "author": "형은",
@@ -26,22 +26,28 @@
   "synopsis": "Manhwa                    Jungle Juice yang dibuat oleh komikus bernama\n                    형은 ini bercerita tentang\n                    Obat serangga misterius 'Jus hutan' membuatnya menjadi manusia serangga.\r\nJang Su-chan, seorang mahasiswi yang dulu sering menyembunyikan giginya, suatu saat dia terlihat seperti itu.\r\nAnda akan dilihat oleh semua orang, dan Anda akan berada di dunia serangga.\r\nAnda melawan logika berlutut lemah ...\r\n\r\nAksi fantasi oleh berbagai kekuatan serangga\r\nPahlawan Baru Super String Universe Muncul!",
   "chapters": [
     {
+      "chapter": "195",
+      "title": "Komik Jungle Juice Chapter 195",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMTk1Lw==",
+      "date": "60 menit yang lalu"
+    },
+    {
       "chapter": "194",
       "title": "Komik Jungle Juice Chapter 194",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMTk0Lw==",
-      "date": "4 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "193",
       "title": "Komik Jungle Juice Chapter 193",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMTkzLw==",
-      "date": "4 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "192",
       "title": "Komik Jungle Juice Chapter 192",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMTkyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "191",
@@ -107,13 +113,13 @@
       "chapter": "181",
       "title": "Komik Jungle Juice Chapter 181",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMTgxLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "180",
       "title": "Komik Jungle Juice Chapter 180",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMTgwLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "179",
@@ -965,7 +971,7 @@
       "chapter": "39",
       "title": "Komik Jungle Juice Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMzkv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "38",
@@ -1196,5 +1202,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 195
+  "total_chapters": 196
 }

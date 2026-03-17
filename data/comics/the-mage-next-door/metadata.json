@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-26T15:42:54.675797",
+  "scraped_at": "2026-03-17T07:40:46.111065",
   "alternative_titles": "隣の小副川, The Mage Next Door, Сосед Осоэгава, Маг по соседству",
   "status": "Berjalan",
   "author": "Nabe Hideaki",
@@ -23,83 +23,95 @@
   "synopsis": "Manga                    The Mage Next Door yang dibuat oleh komikus bernama\n                    Nabe Hideaki ini bercerita tentang\n                    Di Alam Sihir, para penyihir berlatih keras untuk menguasai ilmu mereka. Namun, seorang penyihir bernama Toya Osoegawa hanya peduli menggunakan sihir untuk hidup nyaman! Tapi sekarang, berkat perintah dari Penyihir Ilahi, pria yang paling tidak termotivasi di Alam Sihir telah dikirim ke Alam Manusia! Bisakah dia menggunakan sihir anehnya untuk melindungi manusia dan mengirim penyihir jahat kembali ke dunia mereka?!",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik The Mage Next Door Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMTUv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik The Mage Next Door Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMTQv",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik The Mage Next Door Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMTMv",
-      "date": "29 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik The Mage Next Door Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMTIv",
-      "date": "7 hari yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The Mage Next Door Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMTEv",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The Mage Next Door Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMTAv",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "09",
       "title": "Komik The Mage Next Door Chapter 09",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDkv",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "08",
       "title": "Komik The Mage Next Door Chapter 08",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "07",
       "title": "Komik The Mage Next Door Chapter 07",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "06",
       "title": "Komik The Mage Next Door Chapter 06",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "05",
       "title": "Komik The Mage Next Door Chapter 05",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "04",
       "title": "Komik The Mage Next Door Chapter 04",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "03",
       "title": "Komik The Mage Next Door Chapter 03",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "02",
       "title": "Komik The Mage Next Door Chapter 02",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "01",
       "title": "Komik The Mage Next Door Chapter 01",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2UtbmV4dC1kb29yLWNoYXB0ZXItMDEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 15
 }
