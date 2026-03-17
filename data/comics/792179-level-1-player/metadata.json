@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.44,
-  "scraped_at": "2026-03-17T03:47:13.600614",
+  "scraped_at": "2026-03-17T21:14:16.350666",
   "alternative_titles": "1레벨 플레이어",
   "status": "Berjalan",
   "author": "Bang Eun-woo, SONG Si-Hyeon",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Level 1 Player yang dibuat oleh komikus bernama\n                    Bang Eun-woo, SONG Si-Hyeon ini bercerita tentang\n                    Hyun-Sung telah bekerja di lokasi konstruksi untuk membayar biaya rumah sakit ayahnya ...\r\n\r\n[Kamu telah terbangun.] Pesan ajaib yang dia tunggu akhirnya muncul.\r\n\r\nSekarang dia telah menjadi seorang yang Bangkit, sepertinya semuanya akan berjalan lancar…\r\n\r\n\"Tunggu, kenapa levelku tidak naik?\"",
   "chapters": [
     {
+      "chapter": "127",
+      "title": "Komik Level 1 Player Chapter 127",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xMjcv",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "126",
       "title": "Komik Level 1 Player Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xMjYv",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "125",
@@ -88,13 +94,13 @@
       "chapter": "115",
       "title": "Komik Level 1 Player Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xMTUv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "114",
       "title": "Komik Level 1 Player Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xMTQv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "113",
@@ -775,5 +781,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 126
+  "total_chapters": 127
 }

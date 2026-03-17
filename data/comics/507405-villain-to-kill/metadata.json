@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-12T09:05:18.895455",
+  "scraped_at": "2026-03-17T21:15:36.238302",
   "alternative_titles": "빌런투킬",
   "status": "Berjalan",
   "author": "퓨핀",
@@ -21,22 +21,28 @@
   "synopsis": "Manhwa                    Villain To Kill yang dibuat oleh komikus bernama\n                    퓨핀 ini bercerita tentang\n                    Setelah dituduh membunuh seorang rekan, Cassian Lee menemui ajalnya. Saat dia mengira semuanya sudah berakhir, jiwanya tiba-tiba merasuki tubuh seorang anak laki-laki dan dia terbangun sebagai penjahat.",
   "chapters": [
     {
+      "chapter": "225",
+      "title": "Komik Villain To Kill Chapter 225",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjI1Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "224",
       "title": "Komik Villain To Kill Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjI0Lw==",
-      "date": "3 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik Villain To Kill Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjIzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "222",
       "title": "Komik Villain To Kill Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjIyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "221",
@@ -48,7 +54,7 @@
       "chapter": "220",
       "title": "Komik Villain To Kill Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjIwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "219",
@@ -78,7 +84,7 @@
       "chapter": "216",
       "title": "Komik Villain To Kill Chapter 216",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjE2Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "215",
@@ -180,7 +186,7 @@
       "chapter": "199",
       "title": "Komik Villain To Kill Chapter 199",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMTk5Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "198",
@@ -246,7 +252,7 @@
       "chapter": "188",
       "title": "Komik Villain To Kill Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMTg4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "187",
@@ -294,7 +300,7 @@
       "chapter": "180",
       "title": "Komik Villain To Kill Chapter 180",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMTgwLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "179",
@@ -684,7 +690,7 @@
       "chapter": "115",
       "title": "Komik Villain To Kill Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMTE1Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "114",
@@ -990,13 +996,13 @@
       "chapter": "64",
       "title": "Komik Villain To Kill Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItNjQv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Villain To Kill Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItNjMv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "62",
@@ -1377,5 +1383,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 226
+  "total_chapters": 227
 }

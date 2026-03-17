@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.24,
-  "scraped_at": "2026-03-17T03:47:54.193776",
+  "scraped_at": "2026-03-17T21:15:18.557987",
   "alternative_titles": "Player Starting From Today, Starting Today, I’m a Player, 오늘부터 플레이어, A partir de hoy, soy un jugador, Oneulbuteo Player, My Life as a Player",
   "status": "Berjalan",
   "author": "GaVinGe (가빈지)",
@@ -29,22 +29,28 @@
   "synopsis": "Manhwa                    Player From Today Onwards yang dibuat oleh komikus bernama\n                    GaVinGe (가빈지) ini bercerita tentang\n                    Bumi telah lama terbiasa dengan fenomena “gerbang dimensional” yang aneh dan menakutkan yang tiba-tiba muncul lebih dari seratus tahun yang lalu. Gerbang ini membawa banyak perubahan baru termasuk lahirnya pahlawan yang disebut “pemburu” yang mampu melawan monster yang keluar dari gerbang. Namun, karena para pemburu ini dipilih secara khusus oleh makhluk transenden yang disebut “sponsor”, para pemburu mulai menyebut diri mereka “dewa” dan mengorganisir tatanan dunia baru yang disebut “Eden”. Sayangnya, orang-orang yang tidak terpilih menjadi budak para pemburu dan memproklamirkan diri sebagai dewa.\r\n\r\nKini, Junkyung Lee, seorang manusia biasa yang tidak berdaya, sedang berlatih keras agar bisa mendapatkan sponsor untuk menjadi seorang pemburu. Namun di tengah latihannya, ia dan mentornya, Sungkoo, tiba-tiba diserang oleh penguasa Eden. Sebelum Junkyung terbunuh, Sungkoo berhasil mengirim Junkyung kembali seratus tahun ke masa lalu dengan tugas mengubah jalannya sejarah dan tatanan masyarakat!",
   "chapters": [
     {
+      "chapter": "141",
+      "title": "Komik Player From Today Onwards Chapter 141",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLWZyb20tdG9kYXktb253YXJkcy1jaGFwdGVyLTE0MS8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "140",
       "title": "Komik Player From Today Onwards Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLWZyb20tdG9kYXktb253YXJkcy1jaGFwdGVyLTE0MC8=",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "139",
       "title": "Komik Player From Today Onwards Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLWZyb20tdG9kYXktb253YXJkcy1jaGFwdGVyLTEzOS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "138",
       "title": "Komik Player From Today Onwards Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGxheWVyLWZyb20tdG9kYXktb253YXJkcy1jaGFwdGVyLTEzOC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "137",
@@ -869,5 +875,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 140
+  "total_chapters": 141
 }

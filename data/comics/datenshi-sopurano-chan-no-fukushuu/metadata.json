@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.6,
-  "scraped_at": "2026-03-17T03:46:37.098650",
+  "scraped_at": "2026-03-17T21:09:33.005132",
   "alternative_titles": "Revenge of The Fallen Angel Soprano-chan, 堕天使そぷらのちゃんの復讐",
   "status": "Berjalan",
   "author": "Fujimoto Setsuna",
@@ -24,22 +24,28 @@
   "synopsis": "Manga                    Datenshi Sopurano chan no Fukushuu yang dibuat oleh komikus bernama\n                    Fujimoto Setsuna ini bercerita tentang\n                    Di musim panas kelas enam, Mirei Nakamura menyakiti sahabatnya, yang telah mengungkapkan perasaannya, dengan kata-kata yang tak berperasaan. Selama bertahun-tahun, ia dihantui oleh keinginan untuk memulai kembali, tetapi ketika ia bertemu kembali dengan Sopura, yang pindah ke sekolahnya, ia tidak dapat menemukan cara untuk memulai lagi. Sopura telah menjadi model terkenal yang dikenal sebagai \"Angel Sopura\", tetapi bagaimana dengan Mirei?",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTkv",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTgv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTcv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Datenshi Sopurano chan no Fukushuu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF0ZW5zaGktc29wdXJhbm8tY2hhbi1uby1mdWt1c2h1dS1jaGFwdGVyLTYv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "5",
@@ -72,5 +78,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

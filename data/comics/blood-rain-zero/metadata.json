@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-17T03:44:24.400505",
+  "scraped_at": "2026-03-17T21:15:23.705032",
   "alternative_titles": "Blood Rain (Min), أمطار الدماء, 블러드 레인",
   "status": "Tamat",
   "author": "Min (민)",
@@ -22,28 +22,40 @@
   "synopsis": "Manhwa                    Blood Rain: Zero yang dibuat oleh komikus bernama\n                    Min (민) ini bercerita tentang\n                    Ketika geng-geng asing di negara itu memperluas bisnis mereka dengan aliran dana yang deras, Badan Intelijen Nasional (BIN) melawan dengan berencana mengambil alih kendali, menggunakan geng lain. Rencana ini melibatkan polisi Kang Hyuk yang menyamar dalam perang geng untuk menangkap semua yang terlibat. Namun rencana itu gagal… sebuah crossover Tong dan Dokgo. Karya terbaru Min dan Baek Seung Hoon!",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Blood Rain: Zero Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxvb2QtcmFpbi16ZXJvLWNoYXB0ZXItMjQv",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Blood Rain: Zero Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxvb2QtcmFpbi16ZXJvLWNoYXB0ZXItMjMv",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik Blood Rain: Zero Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxvb2QtcmFpbi16ZXJvLWNoYXB0ZXItMjIv",
-      "date": "19 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Blood Rain: Zero Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxvb2QtcmFpbi16ZXJvLWNoYXB0ZXItMjEv",
-      "date": "19 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Blood Rain: Zero Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxvb2QtcmFpbi16ZXJvLWNoYXB0ZXItMjAv",
-      "date": "19 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Blood Rain: Zero Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxvb2QtcmFpbi16ZXJvLWNoYXB0ZXItMTkv",
-      "date": "19 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -154,5 +166,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 24
 }
