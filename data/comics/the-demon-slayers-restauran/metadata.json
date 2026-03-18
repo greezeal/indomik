@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-17T03:46:54.803310",
+  "scraped_at": "2026-03-18T20:28:37.747763",
   "alternative_titles": "Eat and Go, Eat Before You Go, Eat Then Leave, Have a Meal Before You Go, 밥먹고가라",
   "status": "Berjalan",
   "author": "Go Du Yeol, Kim Hae Ma",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    The Demon Slayer’s Restaurant yang dibuat oleh komikus bernama\n                    Go Du Yeol, Kim Hae Ma ini bercerita tentang\n                    Kang Cheol-ho dulunya adalah pejuang terkuat—dipanggil ke dunia lain, tempat ia bertarung dan mengalahkan Raja Iblis setelah puluhan tahun berperang.\r\n\r\nSekarang, 30 tahun kemudian, ia akhirnya kembali ke Bumi... hanya untuk menemukannya di tengah krisis baru: era serangan monster.\r\n\r\nNamun Cheol-ho lelah. Ia sudah muak dengan pertumpahan darah, pertempuran, dan kejayaan.\r\n\r\nJadi ia menggantung pedangnya dan memilih mimpi yang berbeda: membuka restoran kecil—tempat yang damai tempat siapa pun dapat mampir, makan, dan beristirahat.\r\n\r\nSaat para Pemburu yang lelah, orang asing yang patah hati, dan pengunjung yang penasaran berjalan melewati pintunya, Cheol-ho menawarkan mereka kehangatan bukan melalui kekuatan, tetapi melalui makanan yang lezat dan telinga yang mau mendengarkan.\r\n\r\nSebuah kisah lembut dan mengharukan tentang makanan, penyembuhan, dan kesempatan kedua.",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik The Demon Slayer’s Restaurant Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTQ3Lw==",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "46",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTQ2Lw==",
-      "date": "4 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTQ1Lw==",
-      "date": "4 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTQ0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "43",
@@ -55,7 +61,7 @@
       "chapter": "42",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTQyLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "41",
@@ -163,7 +169,7 @@
       "chapter": "24",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTI0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -187,7 +193,7 @@
       "chapter": "20",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTIwLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -259,7 +265,7 @@
       "chapter": "8",
       "title": "Komik The Demon Slayer’s Restauran Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFuLWNoYXB0ZXItOC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -304,5 +310,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 47
+  "total_chapters": 48
 }

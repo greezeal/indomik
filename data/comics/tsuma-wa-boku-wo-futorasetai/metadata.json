@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-14T03:33:45.380806",
+  "scraped_at": "2026-03-18T20:25:18.785956",
   "alternative_titles": "妻は僕を太らせたい！, My Wife Wants Me Fat!",
   "status": "Berjalan",
   "author": "Chris Hiyoko",
@@ -22,29 +22,35 @@
   "synopsis": "Manga                    Tsuma wa Boku wo Futorasetai! yang dibuat oleh komikus bernama\n                    Chris Hiyoko ini bercerita tentang\n                    Pasangan pengantin baru Taichi dan Yuzu sedang berbahagia dalam cinta mereka. Namun, Taichi khawatir nafsu makannya menurun karena ketegangan dan stres. Yuzu mengatasi masalahnya dengan masakan rumahan yang dimasaknya dengan penuh kasih sayang!! Yuzu senang melihat Taichi kembali nafsu makannya. Bahkan, Yuzu diam-diam ingin mengubah Taichi yang kurus menjadi pria yang gemuk dan sehat...!!",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Tsuma wa Boku wo Futorasetai! Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWEtd2EtYm9rdS13by1mdXRvcmFzZXRhaS1jaGFwdGVyLTUv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Tsuma wa Boku wo Futorasetai! Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWEtd2EtYm9rdS13by1mdXRvcmFzZXRhaS1jaGFwdGVyLTQv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Tsuma wa Boku wo Futorasetai! Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWEtd2EtYm9rdS13by1mdXRvcmFzZXRhaS1jaGFwdGVyLTMv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Tsuma wa Boku wo Futorasetai! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWEtd2EtYm9rdS13by1mdXRvcmFzZXRhaS1jaGFwdGVyLTIv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tsuma wa Boku wo Futorasetai! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bWEtd2EtYm9rdS13by1mdXRvcmFzZXRhaS1jaGFwdGVyLTEv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }
