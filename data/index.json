@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T23:52:59.731720",
-  "total_comics": 1212,
+  "last_updated": "2026-03-18T03:02:02.373499",
+  "total_comics": 1214,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -288,7 +288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "the-legendary-hero-is-an-academy-honors-student",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 184
+      "total_chapters": 185
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1342,9 +1342,9 @@
       "slug": "495189-heavenly-inquisition-sword",
       "title": "Heavenly Inquisition Sword",
       "type": "Manhwa",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 152
+      "total_chapters": 153
     },
     {
       "slug": "next-life",
@@ -1400,7 +1400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.06,
-      "total_chapters": 89
+      "total_chapters": 91
     },
     {
       "slug": "leveling-up-with-skills",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "70-meter-girl",
@@ -2064,7 +2064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 100
     },
     {
       "slug": "witchriv",
@@ -2232,7 +2232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 182
+      "total_chapters": 183
     },
     {
       "slug": "nibanme-na-boku-to-ichiban-no-kanojo",
@@ -2256,7 +2256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 33
     },
     {
       "slug": "the-last-master-of-jongnam-sect",
@@ -2280,7 +2280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 133
+      "total_chapters": 134
     },
     {
       "slug": "308020-leveling-with-the-gods",
@@ -2288,7 +2288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 164
+      "total_chapters": 165
     },
     {
       "slug": "299482-rankers-return-remake",
@@ -2632,7 +2632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "devious-son-of-heaven",
@@ -2648,7 +2648,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "peerless-soul",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 392
+      "total_chapters": 393
     },
     {
       "slug": "god-of-martial-arts",
@@ -3960,7 +3960,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "i-took-over-the-academy-with-a-single-sashimi-knife",
@@ -4912,7 +4912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "sss-level-paladin-who-breaks-all-logic",
@@ -4960,7 +4960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "344794-the-games-top-troll",
@@ -4968,7 +4968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 169
+      "total_chapters": 170
     },
     {
       "slug": "tsugihagi-darake-no-saikyou-yuusha",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -6736,7 +6736,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 35
+      "total_chapters": 40
     },
     {
       "slug": "scarlet-star",
@@ -7288,7 +7288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "the-genius-girl-who-hides-the-martial-worlds-public-enemy",
@@ -7632,7 +7632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "the-stray-dogs-war",
@@ -7752,7 +7752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 12
     },
     {
       "slug": "mahou-shoujo-fuusen-wo-ane-kara-moratte-nani-ka-ni-mezameru-shounen",
@@ -8440,7 +8440,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.11,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita",
@@ -9088,7 +9088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "gokinjo-jk-isezaki-san-wa-isekaigaeri-no-daiseijo",
@@ -9697,6 +9697,22 @@
       "status": "Berjalan",
       "rating": 7.69,
       "total_chapters": 19
+    },
+    {
+      "slug": "gwichonri",
+      "title": "Gwichonri",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.87,
+      "total_chapters": 69
+    },
+    {
+      "slug": "disciples-please-spare-your-master",
+      "title": "Disciples Please Spare Your Master",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 33
     }
   ]
 }

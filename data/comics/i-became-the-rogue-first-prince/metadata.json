@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-11T10:02:32.128115",
-  "alternative_titles": "망나니 1왕자가 되었다, I Became the Degenerate First Prince, I Became The Rogue First Prince, I Became the Rouge First Prince: Legend of Sword's Song",
+  "scraped_at": "2026-03-18T02:56:20.718697",
+  "alternative_titles": "망나니 1왕자가 되었다, I Became the Degenerate First Prince, I Became The Rogue First Prince, I Became the Rouge First Prince: Legend of Sword\\'s Song",
   "status": "Berjalan",
   "author": "Glumph,맹송",
   "illustrator": "구샤",
@@ -23,34 +23,40 @@
   "synopsis": "Manhwa                    I Became the Rogue First Prince yang dibuat oleh komikus bernama\n                    Glumph,맹송 ini bercerita tentang\n                    Terlahir kembali sebagai pedang, aku hidup selama beberapa ratus tahun, menghabiskan seluruh keberadaanku untuk menjaga semua orang.Kemudian, entah dari mana, aku merasuki tubuh seorang pangeran pertama yang kasar berusia lima belas tahun.\"**Apakah kau tahu berapa banyak yang telah kubesarkan?**\"Ksatria hebat yang pernah disebut **Tak Terkalahkan**, **Pembunuh Naga** yang menumbangkan **Naga Gila**, ***Raja Tentara Bayaran***, dan banyak lagi... Aku membesarkan setiap dari mereka.***Pedang Ajaib Gruhorn*** merasuki tubuh pangeran pertama yang kasar itu...Dan telah mulai menulis legenda baru.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik I Became the Rogue First Prince Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXJvZ3VlLWZpcnN0LXByaW5jZS1jaGFwdGVyLTI3Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik I Became the Rogue First Prince Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXJvZ3VlLWZpcnN0LXByaW5jZS1jaGFwdGVyLTI2Lw==",
-      "date": "14 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik I Became the Rogue First Prince Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXJvZ3VlLWZpcnN0LXByaW5jZS1jaGFwdGVyLTI1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik I Became the Rogue First Prince Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXJvZ3VlLWZpcnN0LXByaW5jZS1jaGFwdGVyLTI0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik I Became the Rogue First Prince Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXJvZ3VlLWZpcnN0LXByaW5jZS1jaGFwdGVyLTIzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik I Became the Rogue First Prince Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXJvZ3VlLWZpcnN0LXByaW5jZS1jaGFwdGVyLTIyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -179,5 +185,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

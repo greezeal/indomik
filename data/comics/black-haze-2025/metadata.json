@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.35,
-  "scraped_at": "2026-03-17T07:38:56.531396",
+  "scraped_at": "2026-03-18T02:56:31.467073",
   "alternative_titles": "Black Haze (Reboot), 블랙 헤이즈, مه سیاه, Черная мгла, Schwarzer Dunst, Juoda migla, Brume noire, Bruma negra",
   "status": "Berjalan",
   "author": "Yong Yong (용용)",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Black Haze (2025) yang dibuat oleh komikus bernama\n                    Yong Yong (용용) ini bercerita tentang\n                    Dahulu kala, portal ke dunia lain terbuka, dan mereka yang memperoleh kemampuan khusus beserta tanda mulai disebut penyihir. Setelah kejadian yang dikenal sebagai \"hari itu\", penyihir kelas satu dari Ophion, yang dikenal sebagai \"Blow\", menjadi sangat terkenal. Suatu hari, ia menerima misi yang sangat istimewa: melindungi putra kedua keluarga Artian, yang menderita karena disebut sebagai \"monster\" di sekolah sihir \"Helios\"! Karena itu, Blow mendaftar di Helios dengan nama \"Rood Krisch\" untuk menyembunyikan identitas aslinya...",
   "chapters": [
     {
+      "chapter": "61",
+      "title": "Komik Black Haze (2025) Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNjEv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "60",
       "title": "Komik Black Haze (2025) Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNjAv",
-      "date": "30 menit yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "59",
@@ -382,5 +388,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 60
+  "total_chapters": 61
 }
