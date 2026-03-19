@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.97,
-  "scraped_at": "2026-03-17T03:46:39.729844",
+  "scraped_at": "2026-03-19T07:34:41.240026",
   "alternative_titles": "盛りあがらないデート, Unexciting Date",
   "status": "Berjalan",
   "author": "Suzuyuki",
@@ -20,16 +20,22 @@
   "synopsis": "Manga                    Moriagaranai Date yang dibuat oleh komikus bernama\n                    Suzuyuki ini bercerita tentang\n                    Kencan yang Biasa Saja di Aplikasi Kencan…\r\n\r\nHaida, yang selalu sial, mendaftar di aplikasi kencan sebagai bagian dari fase \"masa bodohnya\". Ia cocok dengan Kuroi, seorang pria yang bergabung karena alasan yang sama gegabahnya. Namun percakapan mereka tidak pernah berjalan lancar, dan suasana canggung yang tak terbantahkan pun tercipta. Semua yang mereka lakukan selalu gagal, menghasilkan kencan yang sangat membosankan.\r\n\r\nBerpikir tidak mungkin akan ada kencan kedua dalam suasana seperti ini… tunggu, apa? Mengapa mereka berencana untuk bertemu lagi!?\r\n\r\nKencan pertama dengan seseorang yang Anda temui di aplikasi kencan yang tidak berjalan lancar? Obrolan datar dan surealisnya sangat adiktif! Sebuah kisah romantis yang berkembang perlahan dan lembut yang dimulai dari aplikasi perjodohan.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Moriagaranai Date Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci0xMC8=",
+      "date": "37 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Moriagaranai Date Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci05Lw==",
-      "date": "2 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Moriagaranai Date Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci04Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
@@ -41,7 +47,7 @@
       "chapter": "6.5",
       "title": "Komik Moriagaranai Date Chapter 6.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci02LTUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "06",
@@ -80,5 +86,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

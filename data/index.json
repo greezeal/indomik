@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T06:12:45.932879",
-  "total_comics": 1219,
+  "last_updated": "2026-03-19T07:37:56.217393",
+  "total_comics": 1220,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -224,7 +224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.97,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "oukoku-e-tsuzuku-michi",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 83
+      "total_chapters": 86
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 303
+      "total_chapters": 304
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1320,7 +1320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 192
+      "total_chapters": 193
     },
     {
       "slug": "soloist-in-a-cage",
@@ -1648,7 +1648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 299
+      "total_chapters": 302
     },
     {
       "slug": "a-banished-failure-survives-in-the-borderland-and-becomes-an-s-ranked-exorcist",
@@ -2000,7 +2000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 312
+      "total_chapters": 313
     },
     {
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
@@ -2528,7 +2528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.54,
-      "total_chapters": 169
+      "total_chapters": 170
     },
     {
       "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
@@ -2648,7 +2648,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 55
+      "total_chapters": 58
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2928,7 +2928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "783596-pick-me-up",
@@ -2936,7 +2936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.26,
-      "total_chapters": 192
+      "total_chapters": 193
     },
     {
       "slug": "720516-terminally-ill-genius-dark-knight",
@@ -2960,7 +2960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 131
+      "total_chapters": 132
     },
     {
       "slug": "asura-no-sata",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 100
+      "total_chapters": 104
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3328,7 +3328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.57,
-      "total_chapters": 116
+      "total_chapters": 117
     },
     {
       "slug": "mirror-mong-woo",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 258
+      "total_chapters": 259
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -4192,7 +4192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 174
+      "total_chapters": 175
     },
     {
       "slug": "120051-player-who-cant-level-up",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -4768,7 +4768,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 943
+      "total_chapters": 944
     },
     {
       "slug": "obshchaka",
@@ -5054,9 +5054,9 @@
       "slug": "ore-yuusha-janai-desu-kara-vr-sekai-no-chouten-ni-kunrin-seshi-otoko-tenseishi-level-1-no-mushoku-kara-restart-suru",
       "title": "Ore, Yuusha janai desu kara. – VR Sekai no Chouten ni Kunrin Seshi Otoko. Tenseishi, Level 1 no Mushoku kara Restart suru",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.63,
+      "total_chapters": 47
     },
     {
       "slug": "963068-god-of-blackfield",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 36
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -5536,7 +5536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "overlord-of-insects",
@@ -5744,7 +5744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "981277-spy-x-family",
@@ -6368,7 +6368,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 98
     },
     {
       "slug": "fair-trade-committee",
@@ -6464,7 +6464,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "how-to-live-as-a-civil-servant-in-murim",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 88
+      "total_chapters": 89
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -6912,7 +6912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 158
+      "total_chapters": 159
     },
     {
       "slug": "yui-can-only-live-in-the-shadows",
@@ -7288,7 +7288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "the-genius-girl-who-hides-the-martial-worlds-public-enemy",
@@ -7984,7 +7984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 14
     },
     {
       "slug": "hyougakei-idol-no-manager-o-shite-imasu-ga-mou-genkai-desu",
@@ -8600,7 +8600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 337
+      "total_chapters": 338
     },
     {
       "slug": "isekai-nonbiri-nouka",
@@ -8608,7 +8608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 288
+      "total_chapters": 289
     },
     {
       "slug": "520069-isekai-tensei-shitara-aiken-ga-saikyou-ni-narimashita-silver-fenrir-to-ore-ga-isekai-kurashi-wo-hajimetara",
@@ -8656,7 +8656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.85,
-      "total_chapters": 59
+      "total_chapters": 61
     },
     {
       "slug": "guuzen-tasuketa-bishoujo-ga-naze-ka-ore-ni-natsuite-shimatta-ken-ni-tsuite",
@@ -8688,7 +8688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.51,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "shikkaku-kara-hajimeru-nariagari-madou-shidou",
@@ -9192,7 +9192,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.08,
-      "total_chapters": 225
+      "total_chapters": 230
     },
     {
       "slug": "mairimashita-iruma-kun-mafia-au",
@@ -9248,7 +9248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 4
     },
     {
       "slug": "tier-1-shimai-yuumei-yonshimai-wa-boku-nashi-de-wa-ikirarenai",
@@ -9264,7 +9264,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "the-hashtag-is-first-love",
@@ -9448,7 +9448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 5
     },
     {
       "slug": "criminal-transfer-student",
@@ -9496,7 +9496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 10
     },
     {
       "slug": "saikyou-saiaku-no-ura-boss-tenseisha-to-tomo-ni-hametsu-flag-kaihi-wo-mezasu",
@@ -9704,7 +9704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.87,
-      "total_chapters": 69
+      "total_chapters": 71
     },
     {
       "slug": "disciples-please-spare-your-master",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -9753,6 +9753,14 @@
       "status": "Berjalan",
       "rating": 6.91,
       "total_chapters": 67
+    },
+    {
+      "slug": "hana-wa-saku-shura-nogotoku",
+      "title": "Hana wa Saku, Shura Nogotoku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 32
     }
   ]
 }

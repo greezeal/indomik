@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.87,
-  "scraped_at": "2026-03-18T02:55:29.424060",
+  "scraped_at": "2026-03-19T07:32:08.511714",
   "alternative_titles": "귀촌리, Gwichon-ri, Mysterious Village, The Gwichon Village Mystery",
   "status": "Berjalan",
   "author": "Hwang Yang (황양)",
@@ -25,22 +25,34 @@
   "synopsis": "Manhwa                    Gwichonri yang dibuat oleh komikus bernama\n                    Hwang Yang (황양) ini bercerita tentang\n                    Nenek Mumyeong Heo meninggal beberapa tahun yang lalu. Namun, saat ia mengunjungi rumah neneknya untuk menghabiskan waktu di pedesaan yang tenang, ia melihat bahwa seseorang menjaga kebersihannya selama ini.\r\nTetangga barunya tidak begitu senang dengan kunjungannya. Bahkan, sebagian besar dari mereka tidak menginginkannya berada di dekatnya.\r\nNamun, saat itulah tetangganya yang jahat menghilang satu per satu... entah karena suka atau tidak.",
   "chapters": [
     {
+      "chapter": "71",
+      "title": "Komik Gwichonri Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNzEv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "70",
+      "title": "Komik Gwichonri Chapter 70",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNzAv",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "69",
       "title": "Komik Gwichonri Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNjkv",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik Gwichonri Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNjgv",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik Gwichonri Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNjcv",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "66",
@@ -100,19 +112,19 @@
       "chapter": "57",
       "title": "Komik Gwichonri Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNTcv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Gwichonri Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNTYv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Gwichonri Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3dpY2hvbnJpLWNoYXB0ZXItNTUv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "54",
@@ -439,5 +451,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 69
+  "total_chapters": 71
 }
