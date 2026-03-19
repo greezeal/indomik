@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.91,
-  "scraped_at": "2026-03-18T22:29:46.622530",
+  "scraped_at": "2026-03-19T20:51:45.413830",
   "alternative_titles": "The Academy Is Ruined, My Ruined Academy Life, 아카데미가 망했다",
   "status": "Berjalan",
   "author": "ROHRAN,Seoul Media Comics",
@@ -25,16 +25,22 @@
   "synopsis": "Manhwa                    My Ruined Academy yang dibuat oleh komikus bernama\n                    ROHRAN,Seoul Media Comics ini bercerita tentang\n                    Amon Drake tiba di ibu kota dengan impian sukses.\r\nPada hari pertamanya sebagai guru di Akademi Amonis yang bergengsi,\r\ndia bertemu dengan berita mengejutkan:\r\n\r\n\"Pernahkah kamu mendengarnya? Akademi ini berada di ambang kebangkrutan.\"\r\n\r\nSelain itu, satu-satunya orang yang tersisa di akademi adalah kepala sekolah yang kecanduan judi dan guru yang mabuk.\r\nAmon berpikir,\r\n\r\n“Jika akademi bangkrut, bukankah itu berarti kontrakku juga akan batal?”\r\n\r\nMereka bilang pelarian akan menguntungkan mereka yang cerdas.\r\nJika Anda tidak ingin menyia-nyiakan hidup Anda, hancurkan akademi.\r\nKisah pelarian orang bijak dari akademi dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "69",
+      "title": "Komik My Ruined Academy Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcnVpbmVkLWFjYWRlbXktY2hhcHRlci02OS8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "68",
       "title": "Komik My Ruined Academy Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcnVpbmVkLWFjYWRlbXktY2hhcHRlci02OC8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik My Ruined Academy Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcnVpbmVkLWFjYWRlbXktY2hhcHRlci02Ny8=",
-      "date": "13 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "66",
@@ -427,5 +433,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 67
+  "total_chapters": 68
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-15T04:10:38.135555",
+  "scraped_at": "2026-03-19T20:57:43.411444",
   "alternative_titles": "Heavenly Demon Goes to High School, 마교일진, A Primeira Investida do Culto Demoníaco",
   "status": "Berjalan",
   "author": "Plan A (GongGam Media)",
@@ -23,22 +23,34 @@
   "synopsis": "Manhwa                    Heavenly Demon Goes to High School yang dibuat oleh komikus bernama\n                    Plan A (GongGam Media) ini bercerita tentang\n                    Dia adalah tiran tak tertandingi yang menginjak-injak dunia persilatan—Gucheon, Penguasa Tertinggi Sekte Iblis, ditakuti di seluruh sekte ortodoks sebagai Iblis Surgawi yang Hidup.Memimpin sektenya untuk mendominasi puncak Murim, Gucheon menjadi simbol teror itu sendiri. Tetapi selama Perang Iblis Besar terakhir yang brutal, di mana semua sekte Murim bersatu melawannya, Gucheon akhirnya dikalahkan—bukan oleh para pejuang, tetapi oleh kekuatan yang tidak dikenal.Tepat ketika dia mengira itu adalah akhir… Dia membuka matanya—bukan di dataran Murim yang berlumuran darah, tetapi di dalam tubuh seorang remaja modern yang rapuh! “Dunia aneh apa ini?! Seseorang kirim aku kembali!!” Kini terdampar di era modern, raja iblis yang dulunya tak terkalahkan harus menavigasi hutan baru: sekolah menengah, jalanan kota, dan dunia asing tanpa qi atau pedang. Gucheon turun ke dunia modern—dan era kekacauan baru dimulai!",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Heavenly Demon Goes to High School Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tZ29lcy10by1oaWdoLXNjaG9vbC1jaGFwdGVyLTEzLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Heavenly Demon Goes to High School Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tZ29lcy10by1oaWdoLXNjaG9vbC1jaGFwdGVyLTEyLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Heavenly Demon Goes to High School Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tZ29lcy10by1oaWdoLXNjaG9vbC1jaGFwdGVyLTExLw==",
-      "date": "4 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Heavenly Demon Goes to High School Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tZ29lcy10by1oaWdoLXNjaG9vbC1jaGFwdGVyLTEwLw==",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Heavenly Demon Goes to High School Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tZ29lcy10by1oaWdoLXNjaG9vbC1jaGFwdGVyLTkv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "8",
@@ -89,5 +101,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 13
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.71,
-  "scraped_at": "2026-03-18T22:30:15.826818",
+  "scraped_at": "2026-03-19T20:52:13.511446",
   "alternative_titles": "百瀬アキラの初恋破綻中。, Momose Akira's First Love Struggles., Mối Tình Đầu Của Akira Momose Đang Trên Bờ Vực Đổ Vỡ, Momose Akira'nın İlk Aşk Maceraları, O Primeiro Amor de Momose Akira em Ruínas, Momose Akira's First Love Is Coming Apart., Les difficultés du premie",
   "status": "Berjalan",
   "author": "Harekawa Shinta",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Momose Akira no Hatsukoi Hatan-chuu. yang dibuat oleh komikus bernama\n                    Harekawa Shinta ini bercerita tentang\n                    Kugayama Hajime, seorang anak laki-laki yang tinggal di pedesaan, kembali bertemu dengan teman sekelas lamanya, Momose Akira, yang dulu ia kagumi.\r\n\r\nSaat ia hendak mengamatinya dari jauh dan menikmati masa mudanya yang manis dan masam, Akira datang secara tak terduga.\r\n\r\nDan terjadilah \"takdir\" yang lebih dari yang dapat ia bayangkan.",
   "chapters": [
     {
+      "chapter": "45",
+      "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci00NS8=",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci00NC8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Momose Akira no Hatsukoi Hatan-chuu. Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9tb3NlLWFraXJhLW5vLWhhdHN1a29pLWhhdGFuLWNodXUtY2hhcHRlci00My8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "42",
@@ -287,5 +293,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 44
+  "total_chapters": 45
 }

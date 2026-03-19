@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-18T02:59:00.681542",
+  "scraped_at": "2026-03-19T20:52:18.382771",
   "alternative_titles": "世話焼き男子とぐーたら幼馴染, Caretaker Boy and His Clumsy Childhood Friend, O Garoto Protetor e a Amiga de Infância Desajeitada",
   "status": "Berjalan",
   "author": "Hanagami Gendai",
@@ -22,40 +22,52 @@
   "synopsis": "Manga                    Sewayaki Danshi to Guutara Osananajimi yang dibuat oleh komikus bernama\n                    Hanagami Gendai ini bercerita tentang\n                    Diperbarui setiap hari Sabtu sekitar pukul 8 malam.Mitsumi Yayoi adalah gadis yang malas dan tidak becus dalam segala hal. Teman masa kecilnya, Nenashi Souta, tidak bisa membiarkannya begitu saja, jadi dia kembali menjaganya hari ini.",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci0xNC8=",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci0xMy8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci0xMi8=",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci0xMS8=",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci0xMC8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci05Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci04Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Sewayaki Danshi to Guutara Osananajimi Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2V3YXlha2ktZGFuc2hpLXRvLWd1dXRhcmEtb3NhbmFuYWppbWktY2hhcHRlci03Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "6",
@@ -94,5 +106,5 @@
       "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 14
 }
