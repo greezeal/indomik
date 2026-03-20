@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-18T22:28:30.319016",
+  "scraped_at": "2026-03-20T09:55:36.883296",
   "alternative_titles": "回帰した剣聖の魔法理論, The Regressed Sword Saint’s Magic Theory",
   "status": "Berjalan",
   "author": "SORAJIMA, Totsu Akita",
@@ -19,17 +19,23 @@
   "synopsis": "Manga                    The Magic Theory of the Regressed Sword Saint yang dibuat oleh komikus bernama\n                    SORAJIMA, Totsu Akita ini bercerita tentang\n                    Semua yang melawan monster pada akhirnya dipaksa untuk membuat pilihan.\r\nSalah satu jalan adalah jalan penyihir, yang menggunakan sihir yang mampu menciptakan keajaiban supranatural.\r\nYang lainnya adalah jalan pendekar pedang, yang menguasai teknik-teknik luar biasa melalui keterampilan yang luar biasa.\r\nOscar, seorang pendekar pedang, telah mengayunkan pedang sejak kecil dan naik ke peringkat Pendekar Pedang Tertinggi.\r\n\r\nDia menebas monster-monster ganas, mendapatkan kekaguman orang-orang, dan menjalani kehidupan yang diirikan oleh semua orang.\r\nNamun jauh di lubuk hatinya, dia menyimpan kerinduan rahasia, kekaguman yang tak terpenuhi terhadap jalan penyihir…?",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik The Magic Theory of the Regressed Sword Saint Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRoZW9yeS1vZi10aGUtcmVncmVzc2VkLXN3b3JkLXNhaW50LWNoYXB0ZXItMy8=",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik The Magic Theory of the Regressed Sword Saint Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRoZW9yeS1vZi10aGUtcmVncmVzc2VkLXN3b3JkLXNhaW50LWNoYXB0ZXItMi8=",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Magic Theory of the Regressed Sword Saint Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRoZW9yeS1vZi10aGUtcmVncmVzc2VkLXN3b3JkLXNhaW50LWNoYXB0ZXItMS8=",
-      "date": "24 jam yang lalu"
+      "date": "3 hari yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.15,
-  "scraped_at": "2026-03-17T07:36:33.074953",
+  "scraped_at": "2026-03-20T09:58:04.864573",
   "alternative_titles": "Kenka Oji-san: Namo Naki Chuunen, Tsuyo Sugiru., 喧嘩おじさん 名もなき中年、強すぎる。, Brawl Dad: The No-Name Middle-Aged Beast, Fight King: The No-Name Middle-Aged Beast",
   "status": "Berjalan",
   "author": "Kawamoto Homura",
@@ -22,10 +22,22 @@
   "synopsis": "Manga                    Kenka Oji-san: Namo Naki Chuunen, Tsuyo Sugiru. yang dibuat oleh komikus bernama\n                    Kawamoto Homura ini bercerita tentang\n                    Fuyuo Shigaraki bangkrut, bercerai, dan pas-pasan. Dengan putrinya yang sangat membutuhkan 3 juta yen, underdog setengah baya ini berada di ujung tanduk.\r\n\r\nSaat itulah ia bertemu dengan seorang \"gadis SMA petarung\" yang aneh yang memberinya ide yang keterlaluan.\r\n\r\n\"Hei, Tuan... mengapa tidak menghasilkan uang dari perkelahian jalanan?\"\r\n\r\nTerseret ke dunia bawah tanah perkelahian uang, Fuyuo dengan enggan melangkah ke atas ring — sampai pukulan pertama mendarat.\r\n\r\nTernyata, pria tua biasa ini tidak biasa-biasa saja. Ia satu-satunya pria yang pernah seri melawan juara dunia MMA saat ini.\r\n\r\nSaat tinju beterbangan dan reputasi hancur, monster yang telah dikuburnya sejak lama bangkit sekali lagi.",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik Kenka Oji-san: Namo Naki Chuunen, Tsuyo Sugiru. Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Vua2Etb2ppLXNhbi1uYW1vLW5ha2ktY2h1dW5lbi10c3V5by1zdWdpcnUtY2hhcHRlci0yMy8=",
+      "date": "34 menit yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik Kenka Oji-san: Namo Naki Chuunen, Tsuyo Sugiru. Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Vua2Etb2ppLXNhbi1uYW1vLW5ha2ktY2h1dW5lbi10c3V5by1zdWdpcnUtY2hhcHRlci0yMi8=",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Kenka Oji-san: Namo Naki Chuunen, Tsuyo Sugiru. Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Vua2Etb2ppLXNhbi1uYW1vLW5ha2ktY2h1dW5lbi10c3V5by1zdWdpcnUtY2hhcHRlci0yMS8=",
-      "date": "22 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "20",
@@ -37,7 +49,7 @@
       "chapter": "19",
       "title": "Komik Kenka Oji-san: Namo Naki Chuunen, Tsuyo Sugiru. Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Vua2Etb2ppLXNhbi1uYW1vLW5ha2ktY2h1dW5lbi10c3V5by1zdWdpcnUtY2hhcHRlci0xOS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -55,7 +67,7 @@
       "chapter": "16",
       "title": "Komik Kenka Oji-san: Namo Naki Chuunen, Tsuyo Sugiru. Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Vua2Etb2ppLXNhbi1uYW1vLW5ha2ktY2h1dW5lbi10c3V5by1zdWdpcnUtY2hhcHRlci0xNi8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -148,5 +160,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 23
 }
