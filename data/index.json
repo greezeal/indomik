@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T16:59:13.351674",
-  "total_comics": 1231,
+  "last_updated": "2026-03-20T17:53:59.525994",
+  "total_comics": 1232,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -112,7 +112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "castle-2-on-top-of-everyone",
@@ -3984,7 +3984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 91
+      "total_chapters": 93
     },
     {
       "slug": "the-third-prince-of-the-fallen-kingdom-has-regressed",
@@ -4056,7 +4056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 101
     },
     {
       "slug": "to-hell-with-the-status-window",
@@ -4296,7 +4296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "976292-i-became-the-tyrant-of-a-defense-game",
@@ -4328,7 +4328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "it-all-starts-with-trillions-of-nether-currency",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -9440,7 +9440,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "jinrui-uragittara-osananajimi-no-yuusha-wo-buttobasareta",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -9816,7 +9816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 46
     },
     {
       "slug": "shuuriya-lodge-no-kougubako",
@@ -9849,6 +9849,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 16
+    },
+    {
+      "slug": "kuroko-chan",
+      "title": "Kuroko-chan.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
     }
   ]
 }
