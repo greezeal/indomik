@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-17T07:34:57.746027",
+  "scraped_at": "2026-03-20T14:14:36.422552",
   "alternative_titles": "Archmage Who Transcends by Returning, 회귀로 초월하는 대마도사",
   "status": "Berjalan",
   "author": "Hanbit Nuri, Hong Chang Joo",
@@ -24,16 +24,22 @@
   "synopsis": "Manhwa                    Archmage Transcending Through Regression yang dibuat oleh komikus bernama\n                    Hanbit Nuri, Hong Chang Joo ini bercerita tentang\n                    Mikhail Walpurgis, satu-satunya Archmage lingkaran ke-9 di dunia, jatuh dalam pertempuran karena seorang pahlawan terkutuk, dan berhasil mengeluarkan satu mantra sihir tingkat lanjut terakhir, . Seiring waktu, dia mundur ke 20 tahun yang lalu.\r\n\r\n\"Baik. Saya hanya akan menjadi pahlawan saja. ”",
   "chapters": [
     {
+      "chapter": "192",
+      "title": "Komik Archmage Transcending Through Regression Chapter 192",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtdHJhbnNjZW5kaW5nLXRocm91Z2gtcmVncmVzc2lvbi1jaGFwdGVyLTE5Mi8=",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "191",
       "title": "Komik Archmage Transcending Through Regression Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtdHJhbnNjZW5kaW5nLXRocm91Z2gtcmVncmVzc2lvbi1jaGFwdGVyLTE5MS8=",
-      "date": "2 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "190",
       "title": "Komik Archmage Transcending Through Regression Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtdHJhbnNjZW5kaW5nLXRocm91Z2gtcmVncmVzc2lvbi1jaGFwdGVyLTE5MC8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "189",
@@ -81,7 +87,7 @@
       "chapter": "182",
       "title": "Komik Archmage Transcending Through Regression Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtdHJhbnNjZW5kaW5nLXRocm91Z2gtcmVncmVzc2lvbi1jaGFwdGVyLTE4Mi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "181",
@@ -231,7 +237,7 @@
       "chapter": "157",
       "title": "Komik Archmage Transcending Through Regression Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtdHJhbnNjZW5kaW5nLXRocm91Z2gtcmVncmVzc2lvbi1jaGFwdGVyLTE1Ny8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "156",
@@ -795,7 +801,7 @@
       "chapter": "63",
       "title": "Komik Archmage Transcending Through Regression Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtdHJhbnNjZW5kaW5nLXRocm91Z2gtcmVncmVzc2lvbi1jaGFwdGVyLTYzLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "62",
@@ -1164,5 +1170,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 190
+  "total_chapters": 191
 }
