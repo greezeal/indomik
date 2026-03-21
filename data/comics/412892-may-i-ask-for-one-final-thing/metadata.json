@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.85,
-  "scraped_at": "2026-03-19T07:31:29.035644",
+  "scraped_at": "2026-03-21T12:00:56.420551",
   "alternative_titles": "May I Please Ask You Just One Last Thing?, Mad Dog Princess, May I Ask for One Final Thing?, Puis-je demander une dernière faveur?, Saigo ni hitotsu dake Onegai shite mo yoroshii deshou ka, Saigo ni Hitotsu Dake Onegaishite mo Yoroshii Deshouka, Son Bir Ş",
   "status": "Berjalan",
   "author": "Otori Nana",
@@ -27,10 +27,16 @@
   "synopsis": "Manga                    May I Ask for One Final Thing? yang dibuat oleh komikus bernama\n                    Otori Nana ini bercerita tentang\n                    Pertunangan antara Scarlet, seorang wanita bangsawan dari keluarga bangsawan dan Pangeran Kedua Kyle tiba-tiba dibatalkan selama pesta dansa. Dia telah salah dituduh melecehkan seorang gadis bernama Terenezza, putri seorang baron, yang sangat disayangi Pangeran.\r\n\r\nDikutuk oleh semua orang di sekitarnya, dipaksa membebani segala macam kejahatan, akhirnya dia memutuskan sudah cukup.\r\n\r\n“Sebelum aku pergi dari sini, bolehkah aku menanyakan satu hal lagi padamu?”\r\n\r\nSaat kerumunan melontarkan ejekan dan ejekan mereka, dan pria tampan itu melontarkan penghinaannya──\r\n\r\nTelapak tangannya berputar seperti bor dan lantai ballroom berlumuran darah. Dari tinjunya, perhitungan mereka!",
   "chapters": [
     {
+      "chapter": "59",
+      "title": "Komik May I Ask for One Final Thing? Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5LWktYXNrLWZvci1vbmUtZmluYWwtdGhpbmctY2hhcHRlci01OS8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik May I Ask for One Final Thing? Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5LWktYXNrLWZvci1vbmUtZmluYWwtdGhpbmctY2hhcHRlci01OC8=",
-      "date": "11 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "57",
@@ -162,13 +168,13 @@
       "chapter": "37",
       "title": "Komik May I Ask for One Final Thing? Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5LWktYXNrLWZvci1vbmUtZmluYWwtdGhpbmctY2hhcHRlci0zNy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik May I Ask for One Final Thing? Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5LWktYXNrLWZvci1vbmUtZmluYWwtdGhpbmctY2hhcHRlci0zNi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "35",
@@ -393,5 +399,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 62
 }
