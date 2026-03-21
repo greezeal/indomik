@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21T18:18:17.487544",
-  "total_comics": 1232,
+  "last_updated": "2026-03-21T19:03:20.884386",
+  "total_comics": 1234,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -136,7 +136,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "gokugoku-futsuu-no-fuufu-no-hanashi",
@@ -280,7 +280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "the-heavenly-path-is-not-stupid",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 185
+      "total_chapters": 186
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -2072,7 +2072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "unemployed-gye-baeksun",
@@ -2712,7 +2712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 743
+      "total_chapters": 744
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 22
+      "total_chapters": 24
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -3912,7 +3912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 144
+      "total_chapters": 145
     },
     {
       "slug": "my-wife-is-from-a-thousand-years-ago",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 173
+      "total_chapters": 174
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4190,9 +4190,9 @@
       "slug": "201905-boundless-necromancer",
       "title": "Boundless Necromancer",
       "type": "Manhwa",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 7.18,
-      "total_chapters": 176
+      "total_chapters": 177
     },
     {
       "slug": "120051-player-who-cant-level-up",
@@ -4336,7 +4336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 218
+      "total_chapters": 224
     },
     {
       "slug": "the-rebirth-of-the-heros-partys-archmage",
@@ -4424,7 +4424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "712275-killer-peter",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 121
+      "total_chapters": 123
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 161
+      "total_chapters": 162
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -5400,7 +5400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.72,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 118
+      "total_chapters": 122
     },
     {
       "slug": "chronicle-of-runes",
@@ -6912,7 +6912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 159
+      "total_chapters": 160
     },
     {
       "slug": "yui-can-only-live-in-the-shadows",
@@ -6960,7 +6960,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "jinsei-gyakuten-uwakisare-enzai-wo-kiserareta-orega-gakuenichi-no-bishoujo-ni-natsukareru",
@@ -7112,7 +7112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "return-of-the-first-patriarch-the-strongest-reincarnates-into-his-descendant-1000-years-later",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -8288,7 +8288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "please-dont-die",
@@ -9216,7 +9216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 69
     },
     {
       "slug": "ai-da-toka-fukushuu-da-toka",
@@ -9528,7 +9528,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.47,
-      "total_chapters": 12
+      "total_chapters": 25
     },
     {
       "slug": "leu-leu-leu",
@@ -9616,7 +9616,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 150
+      "total_chapters": 151
     },
     {
       "slug": "hitomazu-koi-ni-nare-sasete-kudasai",
@@ -9632,7 +9632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "hazure-skill-gacha-de-tsuiho-sa-reta-ore-wa-wagamama-osananajimi-o-zetsuen-shi-kakusei-suru-banno-cheat-skill-o-getto-shite-mezase-rakuraku-saikyo-slow-life",
@@ -9857,6 +9857,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 5
+    },
+    {
+      "slug": "my-harem-is-entirely-female-demon-villains",
+      "title": "My Harem Is Entirely Female Demon Villains",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 67
+    },
+    {
+      "slug": "the-masters-are-watching-over-me",
+      "title": "The Masters Are Watching Over Me",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 74
     }
   ]
 }

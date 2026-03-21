@@ -6,9 +6,9 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.18,
-  "scraped_at": "2026-03-20T09:57:59.944280",
+  "scraped_at": "2026-03-21T18:59:15.366442",
   "alternative_titles": "The Boundless Necromancer, 나 혼자 특성빨로 무한 성장, 나 혼자 특성빨로 무한성장",
-  "status": "Berjalan",
+  "status": "Tamat",
   "author": "Seonun",
   "illustrator": "2salang",
   "demographic": "Shounen",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    Boundless Necromancer yang dibuat oleh komikus bernama\n                    Seonun ini bercerita tentang\n                    Aku tidak pernah berpikir bahwa aku bisa menjadi seorang Hunter.\r\nAku tidak pernah menyangka bahwa aku akan mendapatkan kesempatan.\r\nTapi bukan itu masalahnya.\r\n「’Tower of Trials’ telah memilih semua kandidat yang cocok dari Bumi. 」\r\n\r\n「 Silakan pilih kesulitan anda. 」\r\n\r\n「Hadiah yang anda dapatkan akan berbanding lurus dengan kesulitan yang anda pilih. 」\r\nAku baru saja diberi kesempatan. Yang spesial, pada saat itu.",
   "chapters": [
     {
+      "chapter": "177",
+      "title": "Komik Boundless Necromancer Chapter 177",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91bmRsZXNzLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTc3Lw==",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "176",
       "title": "Komik Boundless Necromancer Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91bmRsZXNzLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTc2Lw==",
-      "date": "27 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "175",
       "title": "Komik Boundless Necromancer Chapter 175",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91bmRsZXNzLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTc1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "174",
@@ -119,13 +125,13 @@
       "chapter": "160",
       "title": "Komik Boundless Necromancer Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91bmRsZXNzLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTYwLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "159",
       "title": "Komik Boundless Necromancer Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91bmRsZXNzLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTU5Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "158",
@@ -1076,5 +1082,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 176
+  "total_chapters": 177
 }

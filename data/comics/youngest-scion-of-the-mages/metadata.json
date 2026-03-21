@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.16,
-  "scraped_at": "2026-03-18T22:26:32.329246",
+  "scraped_at": "2026-03-21T19:02:10.589832",
   "alternative_titles": "Youngest Son of the Renowned Magic Clan, The Youngest Son of a Magician, 마법명가 막내아들",
   "status": "Berjalan",
   "author": "Bichyu",
@@ -23,22 +23,28 @@
   "synopsis": "Manhwa                    Youngest Scion of the Mages yang dibuat oleh komikus bernama\n                    Bichyu ini bercerita tentang\n                    Plotline tipis dan pengaturan sampah.\r\nSerangkaian kata yang terlalu memalukan untuk disebut novel.\r\nNamun saya berakhir di dalam halaman novel yang sama yang saya tulis.\r\nDan sebagai Rasen Mayten tidak kurang, bajingan dari karakter sampingan yang terbunuh pada usia 17 tahun.\r\n\r\nSebagai penulis dan pencipta dunia ini, saya sekarang akan menciptakan kembali dunia karakter 'Rasen Mayten'.",
   "chapters": [
     {
+      "chapter": "82",
+      "title": "Komik Youngest Scion of the Mages Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODIv",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "81",
       "title": "Komik Youngest Scion of the Mages Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODEv",
-      "date": "2 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Youngest Scion of the Mages Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODAv",
-      "date": "2 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Youngest Scion of the Mages Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItNzkv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "78",
@@ -56,7 +62,7 @@
       "chapter": "76",
       "title": "Komik Youngest Scion of the Mages Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItNzYv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "75",
@@ -509,5 +515,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 81
+  "total_chapters": 82
 }

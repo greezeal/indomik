@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.38,
-  "scraped_at": "2026-03-15T10:18:14.342021",
+  "scraped_at": "2026-03-21T18:58:03.951329",
   "alternative_titles": "천재 대장장이의 게임, The Genius Blacksmith\\'s Game, O Jogo do Ferreiro Gênio",
   "status": "Berjalan",
   "author": "Park Min Gyu (박민규)",
@@ -24,34 +24,40 @@
   "synopsis": "Manhwa                    Genius Blacksmith’s Game yang dibuat oleh komikus bernama\n                    Park Min Gyu (박민규) ini bercerita tentang\n                    Pandai besi dan pengrajin ahli terakhir yang tersisa di dunia. Tangannya lumpuh akibat kebakaran di bengkel, membuatnya tak bisa lagi berkarya. Namun, sebuah permainan realitas virtual, Ares, datang mengetuk pintu Hyun-soo.\r\n\r\n[Artefak yang Tak Bisa Diperbaiki.] [Tidak bisa dibuat karena batasan level.] \"Hah? Aku menganggap diriku pandai besi manual.\"\r\n\r\nBaginya, tak ada batasan sistem yang berlaku. Permainan penuh gejolak sang pandai besi jenius pun dimulai.",
   "chapters": [
     {
+      "chapter": "46",
+      "title": "Komik Genius Blacksmith’s Game Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci00Ni8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "45",
       "title": "Komik Genius Blacksmith’s Game Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci00NS8=",
-      "date": "32 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Genius Blacksmith’s Game Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci00NC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Genius Blacksmith’s Game Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci00My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Genius Blacksmith’s Game Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci00Mi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Genius Blacksmith’s Game Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci00MS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "40",
@@ -63,7 +69,7 @@
       "chapter": "39",
       "title": "Komik Genius Blacksmith’s Game Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci0zOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -87,13 +93,13 @@
       "chapter": "35",
       "title": "Komik Genius Blacksmith’s Game Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci0zNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Genius Blacksmith’s Game Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWJsYWNrc21pdGhzLWdhbWUtY2hhcHRlci0zNC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -294,5 +300,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 45
+  "total_chapters": 46
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.09,
-  "scraped_at": "2026-03-10T11:41:44.245524",
+  "scraped_at": "2026-03-21T19:00:49.138244",
   "alternative_titles": "Secret Family (KIM Ui-Gwon), 시크릿 패밀리",
   "status": "Berjalan",
   "author": "Kim Ui-Gwon (김의권),Lee Hoon Young (이훈영)",
@@ -23,22 +23,28 @@
   "synopsis": "Manhwa                    Secret Family yang dibuat oleh komikus bernama\n                    Kim Ui-Gwon (김의권),Lee Hoon Young (이훈영) ini bercerita tentang\n                    Kang Geon, remaja berusia 17 tahun, pindah ke sekolah menengah atas elit yang hanya dihadiri oleh 0,1% orang terkaya di Korea Selatan.\r\n\r\nDilatih sejak usia lima tahun di Korea Utara sebagai senjata manusia dan agen rahasia jenius, ia diberi misi untuk menyusup ke kalangan atas Korea Selatan dan membangun koneksi.\r\n\r\nNamun, menjalin pertemanan ternyata menjadi tantangan yang lebih besar.\r\n\r\nHidup dalam kedok keluarga dengan ayahnya, seorang peretas yang diawasi oleh berbagai negara, dan ibunya, seorang pembunuh bayaran legendaris, ia menjalani drama aksi mata-mata untuk mencari kebahagiaan sejati.",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Secret Family Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTM4Lw==",
+      "date": "43 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Secret Family Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTM3Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Secret Family Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTM2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Secret Family Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTM1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -50,13 +56,13 @@
       "chapter": "33",
       "title": "Komik Secret Family Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTMzLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Secret Family Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTMyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -80,7 +86,7 @@
       "chapter": "28",
       "title": "Komik Secret Family Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTI4Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -104,7 +110,7 @@
       "chapter": "24",
       "title": "Komik Secret Family Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VjcmV0LWZhbWlseS1jaGFwdGVyLTI0Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -245,5 +251,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 37
+  "total_chapters": 38
 }
