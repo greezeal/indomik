@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T14:37:20.676669",
-  "total_comics": 1234,
+  "last_updated": "2026-03-22T15:07:49.157734",
+  "total_comics": 1237,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -16,7 +16,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 190
+      "total_chapters": 191
     },
     {
       "slug": "226919-academys-undercover-professor",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 100
+      "total_chapters": 101
     },
     {
       "slug": "magic-emperor",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 304
+      "total_chapters": 305
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 504
+      "total_chapters": 505
     },
     {
       "slug": "marriagetoxin",
@@ -1400,7 +1400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.06,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "leveling-up-with-skills",
@@ -1918,9 +1918,9 @@
       "slug": "178312-fairy-tail-100-years-quest",
       "title": "Fairy Tail: 100 Years Quest",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.91,
+      "total_chapters": 208
     },
     {
       "slug": "wakaba-sanchi-no-aoi-koi",
@@ -1942,9 +1942,9 @@
       "slug": "848042-bocchi-the-rock-gaiden-hiroi-kikuri-no-fukazake-nikki",
       "title": "Bocchi the Rock! Gaiden – Hiroi Kikuri no Fukazake Nikki",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.25,
+      "total_chapters": 80
     },
     {
       "slug": "ruri-dragon",
@@ -3616,7 +3616,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 42
     },
     {
       "slug": "653378-skeleton-soldier-couldnt-protect-the-dungeon",
@@ -3816,7 +3816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "im-being-misunderstood-as-a-soccer-genius",
@@ -3912,7 +3912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 145
+      "total_chapters": 146
     },
     {
       "slug": "my-wife-is-from-a-thousand-years-ago",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 174
+      "total_chapters": 175
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 255
+      "total_chapters": 258
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4648,7 +4648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 280
+      "total_chapters": 282
     },
     {
       "slug": "the-demon-slayers-restauran",
@@ -4688,7 +4688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 71
+      "total_chapters": 84
     },
     {
       "slug": "past-life-regressor-2022",
@@ -4704,7 +4704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "619762-mookhyang-dark-lady",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 68
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4920,7 +4920,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.0,
-      "total_chapters": 111
+      "total_chapters": 112
     },
     {
       "slug": "godeokchuns-food-truck",
@@ -4936,7 +4936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "genkai-dokushin-joshi-26-gohan",
@@ -4968,7 +4968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "tsugihagi-darake-no-saikyou-yuusha",
@@ -5096,7 +5096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 69
+      "total_chapters": 70
     },
     {
       "slug": "sekai-ni-hitori-zenzokusei-mahou-no-tsukaite",
@@ -5472,7 +5472,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 624
+      "total_chapters": 626
     },
     {
       "slug": "843187-i-regressed-but-the-world-didnt-end",
@@ -5544,7 +5544,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.82,
-      "total_chapters": 91
+      "total_chapters": 93
     },
     {
       "slug": "a-wimps-strategy-guide-to-conquer-the-tower",
@@ -5576,7 +5576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "party-kara-tsuihou-sareta-sono-chiyushi-jitsuha-saikyou-nitsuki",
@@ -5688,7 +5688,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 193
+      "total_chapters": 194
     },
     {
       "slug": "urenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita",
@@ -5984,7 +5984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 55
+      "total_chapters": 57
     },
     {
       "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
@@ -6344,7 +6344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 46
+      "total_chapters": 48
     },
     {
       "slug": "the-ultimate-wantless-godly-rich-system",
@@ -6912,7 +6912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 160
+      "total_chapters": 161
     },
     {
       "slug": "yui-can-only-live-in-the-shadows",
@@ -7248,7 +7248,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.4,
-      "total_chapters": 34
+      "total_chapters": 36
     },
     {
       "slug": "initializing-the-sect-system",
@@ -7392,7 +7392,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "empyreal-cabinet",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -7904,7 +7904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.13,
-      "total_chapters": 178
+      "total_chapters": 180
     },
     {
       "slug": "project-sekai-colorful-stage-feat-hatsune-miku-comic-anthology",
@@ -8536,7 +8536,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "konsei-wa-goen-ga-arimasu-you-ni-quinpath-romance",
@@ -8864,7 +8864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 47
+      "total_chapters": 49
     },
     {
       "slug": "572108-informer",
@@ -9304,7 +9304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 0
+      "total_chapters": 39
     },
     {
       "slug": "kijin-gentoushou",
@@ -9704,7 +9704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.87,
-      "total_chapters": 71
+      "total_chapters": 76
     },
     {
       "slug": "disciples-please-spare-your-master",
@@ -9840,7 +9840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.13,
-      "total_chapters": 101
+      "total_chapters": 103
     },
     {
       "slug": "oritsu-majutsu-gakuin-no-kichiku-koshi",
@@ -9873,6 +9873,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 74
+    },
+    {
+      "slug": "rinkoku-kara-kita-yome-ga-kawaisugite-doushiyou",
+      "title": "Rinkoku kara Kita Yome ga Kawaisugite Doushiyou",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.66,
+      "total_chapters": 32
+    },
+    {
+      "slug": "yugami-no-toriko",
+      "title": "Yugami no Toriko",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "kodomo-atsukai-shinaide-kudasai-youjoka-shichatta-kanpeki-shukujo-wa-kishi-danchou-ni-amayakasareru",
+      "title": "Kodomo Atsukai Shinaide Kudasai! – Youjoka Shichatta Kanpeki Shukujo wa, Kishi Danchou ni Amayakasareru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }

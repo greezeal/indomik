@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.25,
-  "scraped_at": "2026-03-21T23:01:00.487400",
+  "scraped_at": "2026-03-22T15:06:44.016672",
   "alternative_titles": "¿En realidad soy el más fuerte?, Am I Actually the Strongest?, На самом деле, я самый сильный?, 実は俺、最強でした?",
   "status": "Berjalan",
   "author": "Sumimori Sai",
@@ -27,16 +27,22 @@
   "synopsis": "Manga                    Jitsu wa Ore, Saikyou Deshita? yang dibuat oleh komikus bernama\n                    Sumimori Sai ini bercerita tentang\n                    Seorang yang tertutup terlahir kembali ke dunia lain dengan janji kehidupan yang damai. Meski terlahir dari keluarga bangsawan, karena sihirnya tampak lemah, orang tuanya meninggalkannya tanpa berpikir di hutan untuk dimangsa monster. Namun, sihirnya sebenarnya sangat kuat. Apa yang harus dia lakukan untuk mencapai kehidupan damai yang dia inginkan?",
   "chapters": [
     {
+      "chapter": "140",
+      "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 140",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTE0MC8=",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "139",
       "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTEzOS8=",
-      "date": "44 menit yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "138",
       "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTEzOC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "137",
@@ -204,7 +210,7 @@
       "chapter": "112",
       "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTExMi8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "111",
@@ -987,5 +993,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 160
+  "total_chapters": 161
 }
