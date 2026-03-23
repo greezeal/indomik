@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-23T14:55:54.745953",
+  "scraped_at": "2026-03-23T20:01:27.032121",
   "alternative_titles": "The Essence of Reincarnation ,환생의 정석",
   "status": "Berjalan",
   "author": "Blue Jaeng-i, Kim Pyung-beom",
@@ -20,10 +20,34 @@
   "synopsis": "Manhwa                    Standard Of Reincarnation yang dibuat oleh komikus bernama\n                    Blue Jaeng-i, Kim Pyung-beom ini bercerita tentang\n                    Samion samurai terkuat.\r\nDaven adalah sepupu Samion, dan dia adalah pria setengah tak bersenjata tanpa lengan kanan.",
   "chapters": [
     {
+      "chapter": "173",
+      "title": "Komik Standard Of Reincarnation Chapter 173",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE3My8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "172",
+      "title": "Komik Standard Of Reincarnation Chapter 172",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE3Mi8=",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "171",
+      "title": "Komik Standard Of Reincarnation Chapter 171",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE3MS8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "170",
+      "title": "Komik Standard Of Reincarnation Chapter 170",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE3MC8=",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "169",
       "title": "Komik Standard Of Reincarnation Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE2OS8=",
-      "date": "5 jam yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "168",
@@ -1034,5 +1058,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 169
+  "total_chapters": 173
 }

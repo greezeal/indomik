@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T17:04:22.242249",
-  "total_comics": 1241,
+  "last_updated": "2026-03-23T20:06:33.962569",
+  "total_comics": 1242,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -240,7 +240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 82
+      "total_chapters": 84
     },
     {
       "slug": "remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta",
@@ -288,7 +288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 171
+      "total_chapters": 173
     },
     {
       "slug": "the-legendary-hero-is-an-academy-honors-student",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 506
+      "total_chapters": 507
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 186
+      "total_chapters": 188
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1168,7 +1168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.49,
-      "total_chapters": 248
+      "total_chapters": 249
     },
     {
       "slug": "830221-player-who-returned-10000-years-later",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1302,9 +1302,9 @@
       "slug": "game-online-unrivaled-in-the-world-remake",
       "title": "Game Online: Unrivaled In The World (Remake)",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 63
     },
     {
       "slug": "outside-of-time",
@@ -1320,7 +1320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 193
+      "total_chapters": 194
     },
     {
       "slug": "soloist-in-a-cage",
@@ -1888,7 +1888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "931897-reborn-as-the-enemy-prince",
@@ -2104,7 +2104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 99
     },
     {
       "slug": "141523-the-indomitable-martial-king",
@@ -2712,7 +2712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 744
+      "total_chapters": 745
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -3912,7 +3912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 146
+      "total_chapters": 147
     },
     {
       "slug": "my-wife-is-from-a-thousand-years-ago",
@@ -4126,9 +4126,9 @@
       "slug": "hazure-skill-soine-ga-kakuseishi-boku-ga-saikyou-harem-wo-kizuku-made-micchaku-soine-de-ganbou-kaihou-yuuwakusare-makutte-komattemasu",
       "title": "Hazure Skill “Soine” ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made ~Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!~",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
     },
     {
       "slug": "421002-return-to-player",
@@ -4264,7 +4264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 196
+      "total_chapters": 198
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -4368,7 +4368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 99
     },
     {
       "slug": "345461-overgeared",
@@ -5688,7 +5688,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "urenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 33
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6032,7 +6032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 217
+      "total_chapters": 218
     },
     {
       "slug": "the-postman-walking-through-the-apocalypse",
@@ -6336,7 +6336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 151
+      "total_chapters": 153
     },
     {
       "slug": "807679-the-returned-c-rank-tank-wont-die",
@@ -9608,7 +9608,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 133
+      "total_chapters": 134
     },
     {
       "slug": "my-senior-brother-is-too-steady",
@@ -9864,7 +9864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 69
     },
     {
       "slug": "the-masters-are-watching-over-me",
@@ -9928,7 +9928,15 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 169
+      "total_chapters": 173
+    },
+    {
+      "slug": "hazure-skill-de-sss-rank-makyo-wo-tara-sekai-saikyou-no-renkinjutsushi-ni-natteita-kaiteki-kyoten-wo-tsukutte-nakama-to-tanoshi-isekai-life",
+      "title": "Hazure Skill de SSS-Rank Makyo wo Tara, Sekai Saikyou no Renkinjutsushi ni Natteita ~ Kaiteki Kyoten wo Tsukutte Nakama to Tanoshi Isekai Life",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.15,
+      "total_chapters": 3
     }
   ]
 }
