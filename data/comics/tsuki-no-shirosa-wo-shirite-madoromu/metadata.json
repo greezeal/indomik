@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.22,
-  "scraped_at": "2026-03-16T12:40:19.399828",
+  "scraped_at": "2026-03-23T14:52:44.627039",
   "alternative_titles": "月の白さを知りてまどろむ, Tsuki no Shirosa wo Shirite Madoromu, Tsuki No Shiro Sa Wo Shirite Madoromu",
   "status": "Berjalan",
   "author": "Furumiya Kuji",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Tsuki no Shirosa wo Shirite Madoromu yang dibuat oleh komikus bernama\n                    Furumiya Kuji ini bercerita tentang\n                    Di rumah bordil tertua yang meneruskan mitos tersebut, kisah cinta canggung dimulai di mana dipilihlah “satu-satunya dalam seumur hidup”.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItNi8=",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItNS8=",
-      "date": "5 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "4",
@@ -55,5 +61,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }
