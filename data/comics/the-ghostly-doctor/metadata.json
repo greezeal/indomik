@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.03,
-  "scraped_at": "2026-03-22T20:40:32.728594",
+  "scraped_at": "2026-03-24T22:43:17.495903",
   "alternative_titles": "Gui Yi Feng Jiu, Mesmerizing Ghost Doctor, 鬼医凤九",
   "status": "Berjalan",
   "author": "Feng Jiong",
@@ -25,28 +25,40 @@
   "synopsis": "Manhua                    The Ghostly Doctor yang dibuat oleh komikus bernama\n                    Feng Jiong ini bercerita tentang\n                    Dia, pemimpin sekte tersembunyi, berspesialisasi dalam racun dan pembunuhan. Seorang jenius, dan orang aneh, di mata orang lain. Setelah meninggal karena kecelakaan, dia terlahir kembali dalam tubuh wanita yang cacat. Setelah identitasnya berubah dan tidak dapat kembali ke keluarganya, dia meninggalkan mereka, tetapi, jika dia tidak membalas dendam pada mereka yang menyebabkan kerugiannya, apakah dia layak mendapatkan gelar \"The Ghostly Doctor\"? Saat awan berkumpul, para pahlawan bertarung untuk menjadi yang terkuat! Bagaimana dia akan menaklukkan dunia dengan jubah merah, dan bertarung di antara para pahlawan yang kuat ?!",
   "chapters": [
     {
+      "chapter": "638",
+      "title": "Komik The Ghostly Doctor Chapter 638",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjM4Lw==",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "637",
+      "title": "Komik The Ghostly Doctor Chapter 637",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjM3Lw==",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "636",
       "title": "Komik The Ghostly Doctor Chapter 636",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjM2Lw==",
-      "date": "23 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "635",
       "title": "Komik The Ghostly Doctor Chapter 635",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjM1Lw==",
-      "date": "23 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "634",
       "title": "Komik The Ghostly Doctor Chapter 634",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjM0Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "633",
       "title": "Komik The Ghostly Doctor Chapter 633",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjMzLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "632",
@@ -64,13 +76,13 @@
       "chapter": "630",
       "title": "Komik The Ghostly Doctor Chapter 630",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjMwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "629",
       "title": "Komik The Ghostly Doctor Chapter 629",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjI5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "628",
@@ -280,13 +292,13 @@
       "chapter": "594",
       "title": "Komik The Ghostly Doctor Chapter 594",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNTk0Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "593",
       "title": "Komik The Ghostly Doctor Chapter 593",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNTkzLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "592",
@@ -778,7 +790,7 @@
       "chapter": "511",
       "title": "Komik The Ghostly Doctor Chapter 511",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNTExLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "510",
@@ -3781,5 +3793,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 626
+  "total_chapters": 628
 }

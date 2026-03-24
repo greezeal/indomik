@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-24T06:21:51.530370",
+  "scraped_at": "2026-03-24T22:47:19.670863",
   "alternative_titles": "EX-Brave Wants a Quiet Life, 元勇者は静かに暮らしたい",
   "status": "Berjalan",
   "author": "Koji",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Moto Yuusha Wa Shizuka Ni Kurashitai yang dibuat oleh komikus bernama\n                    Koji ini bercerita tentang\n                    Meskipun mengalahkan Raja Iblis, Noel Veigel yang merupakan seorang Pahlawan dikhianati oleh negara dan rekan-rekannya sendiri. “Persetan dengan yang lainnya! Aku akan menjalani hidup seperti yang aku inginkan!”. Dengan demikian, kehidupan kedua mantan pahlawan dimulai. Lupakan doi, kalau bisa dapat yang lebih baik dan lebih dari satu, mengapa tidak?",
   "chapters": [
     {
+      "chapter": "64",
+      "title": "Komik Moto Yuusha Wa Shizuka Ni Kurashitai Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW90by15dXVzaGEtd2Etc2hpenVrYS1uaS1rdXJhc2hpdGFpLWNoYXB0ZXItNjQv",
+      "date": "9 jam yang lalu"
+    },
+    {
       "chapter": "63",
       "title": "Komik Moto Yuusha Wa Shizuka Ni Kurashitai Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW90by15dXVzaGEtd2Etc2hpenVrYS1uaS1rdXJhc2hpdGFpLWNoYXB0ZXItNjMv",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "62",
@@ -497,5 +503,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 79
+  "total_chapters": 80
 }

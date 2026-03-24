@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-24T06:20:55.576420",
+  "scraped_at": "2026-03-24T22:45:12.002958",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "",
@@ -18,22 +18,28 @@
   "synopsis": "Manhwa                    This is the Law yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Fantasi pelaksana keadilan pengacara jenius Noh HyungJin! Valedictorian Universitasnya, nilai sempurna di Ujian Bar, dan bahkan tingkat kemenangan kasus 95%. Noh HyungJin adalah apa yang disebut pengacara sukses! Saat dia berperang melawan kejahatan, kekuatan yang lebih tinggi untuk membuat Korea Selatan menjadi negeri yang adil dan adil, dia dibunuh dengan kejam oleh agen Badan Intelijen Nasional. \"Dia seharusnya tidak mati ...\" Noh HyungJin adalah orang yang dikirim oleh Kaisar YeomRa untuk memperbaiki kerusakan di Bumi! Namun, setelah berakhir di neraka tanpa bisa mencapai apapun, Kaisar YeomRa mengembalikan Noh HyungJin ke masa lalu ... \"Setidaknya aku harus memberinya kekuatan agar dia bisa melindungi dirinya sendiri.\" Apa 'kekuatan' yang diberikan kepadanya oleh Kaisar YeomRa? Akankah Noh HyungJin dapat mengubah masa depannya dan juga masa depan Korea Selatan ?!",
   "chapters": [
     {
+      "chapter": "177",
+      "title": "Komik This is the Law Chapter 177",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1pcy10aGUtbGF3LWNoYXB0ZXItMTc3Lw==",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "176",
       "title": "Komik This is the Law Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1pcy10aGUtbGF3LWNoYXB0ZXItMTc2Lw==",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "175",
       "title": "Komik This is the Law Chapter 175",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1pcy10aGUtbGF3LWNoYXB0ZXItMTc1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "174",
       "title": "Komik This is the Law Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1pcy10aGUtbGF3LWNoYXB0ZXItMTc0Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "173",
@@ -51,7 +57,7 @@
       "chapter": "171",
       "title": "Komik This is the Law Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1pcy10aGUtbGF3LWNoYXB0ZXItMTcxLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "170",
@@ -225,7 +231,7 @@
       "chapter": "142",
       "title": "Komik This is the Law Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1pcy10aGUtbGF3LWNoYXB0ZXItMTQyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "141",
@@ -1074,5 +1080,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 176
+  "total_chapters": 177
 }

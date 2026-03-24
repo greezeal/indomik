@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T21:09:08.524133",
-  "total_comics": 1242,
+  "last_updated": "2026-03-24T22:48:12.496217",
+  "total_comics": 1243,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -160,7 +160,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 66
+      "total_chapters": 68
     },
     {
       "slug": "in-the-land-of-leadale",
@@ -1304,7 +1304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "outside-of-time",
@@ -1350,9 +1350,9 @@
       "slug": "next-life",
       "title": "Next Life",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.96,
+      "total_chapters": 70
     },
     {
       "slug": "guest-gun",
@@ -1368,7 +1368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "i-became-a-munchkin-skill-thief",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 316
+      "total_chapters": 320
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2128,7 +2128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "the-ultimate-of-all-ages",
@@ -2320,7 +2320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 160
+      "total_chapters": 161
     },
     {
       "slug": "reincarnators-stream",
@@ -2712,7 +2712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 745
+      "total_chapters": 747
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -3344,7 +3344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 172
+      "total_chapters": 175
     },
     {
       "slug": "i-start-with-13-hidden-traits",
@@ -3912,7 +3912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 147
+      "total_chapters": 148
     },
     {
       "slug": "my-wife-is-from-a-thousand-years-ago",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 176
+      "total_chapters": 177
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4128,7 +4128,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "421002-return-to-player",
@@ -4280,7 +4280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 119
+      "total_chapters": 123
     },
     {
       "slug": "the-regressed-extra-becomes-a-genius",
@@ -4392,7 +4392,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.32,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "the-demonic-sect-masters-secret-apprentice",
@@ -4504,7 +4504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 78
     },
     {
       "slug": "tsuihou-sareta-tenshou-juu-kishi-ha-gemu-chishiki-de-musou-suru",
@@ -4520,7 +4520,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "saikyou-de-saisoku-no-mugen-level-up",
@@ -4768,7 +4768,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 944
+      "total_chapters": 945
     },
     {
       "slug": "obshchaka",
@@ -4912,7 +4912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "sss-level-paladin-who-breaks-all-logic",
@@ -5088,7 +5088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 181
+      "total_chapters": 182
     },
     {
       "slug": "shinobi-undercover",
@@ -5304,7 +5304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "bill-the-blacksmith",
@@ -5352,7 +5352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "legend",
@@ -5472,7 +5472,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 626
+      "total_chapters": 628
     },
     {
       "slug": "843187-i-regressed-but-the-world-didnt-end",
@@ -5520,7 +5520,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.78,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "absolute-dominion",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6032,7 +6032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 218
+      "total_chapters": 219
     },
     {
       "slug": "the-postman-walking-through-the-apocalypse",
@@ -6048,7 +6048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 118
+      "total_chapters": 119
     },
     {
       "slug": "ice-lord",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 122
+      "total_chapters": 124
     },
     {
       "slug": "chronicle-of-runes",
@@ -6920,7 +6920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 21
     },
     {
       "slug": "genius-hitter-hits-fastball",
@@ -7048,7 +7048,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "onna-tomodachi-wa-tanomeba-igaito-yarasete-kureru",
@@ -7408,7 +7408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 213
+      "total_chapters": 215
     },
     {
       "slug": "the-black-haired-american-grand-marshal",
@@ -7752,7 +7752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 18
     },
     {
       "slug": "mahou-shoujo-fuusen-wo-ane-kara-moratte-nani-ka-ni-mezameru-shounen",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 31
+      "total_chapters": 33
     },
     {
       "slug": "shamoneyism",
@@ -9400,7 +9400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "a-wicked-husband",
@@ -9416,7 +9416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 37
     },
     {
       "slug": "osananajimi-ni-kage-de-tsugou-no-yoi-otoko-yobawari-sareta-ore-wa-koui-o-reset-shite-futsuu-ni-seishun-o-okuritai",
@@ -9496,7 +9496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "saikyou-saiaku-no-ura-boss-tenseisha-to-tomo-ni-hametsu-flag-kaihi-wo-mezasu",
@@ -9888,7 +9888,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "kodomo-atsukai-shinaide-kudasai-youjoka-shichatta-kanpeki-shukujo-wa-kishi-danchou-ni-amayakasareru",
@@ -9912,7 +9912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "risou-no-himo-seikatsu",
@@ -9920,7 +9920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "597501-standard-of-reincarnation",
@@ -9937,6 +9937,14 @@
       "status": "Berjalan",
       "rating": 7.15,
       "total_chapters": 3
+    },
+    {
+      "slug": "the-chairman-of-pharmaceutical-company-is-a-poison-king",
+      "title": "The Chairman of Pharmaceutical Company is a Poison King",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 20
     }
   ]
 }

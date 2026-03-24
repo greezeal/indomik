@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-22T20:42:02.376987",
+  "scraped_at": "2026-03-24T22:43:12.533940",
   "alternative_titles": "歪みの虜, Prisioneiro da Distorção, Prisoner of Distortion",
   "status": "Berjalan",
   "author": "Oonijouroku",
@@ -21,35 +21,41 @@
   "synopsis": "Manga                    Yugami no Toriko yang dibuat oleh komikus bernama\n                    Oonijouroku ini bercerita tentang\n                    Karya berseri pertama dari \"Oonijouroku,\" yang sangat populer di media sosial! Tanaka, seorang berandal yang ditakuti orang-orang di sekitarnya seperti anjing ganas, menghabiskan hari-harinya berkelahi. Kemudian suatu hari, seorang gadis biasa berkacamata tiba-tiba muncul...! Awalnya, Tanaka kesal dengan kata-kata dan tindakannya, karena gadis itu sama sekali tidak takut padanya, tetapi... \"Ekspresi wajahnya yang aneh sangat menggemaskan.\" Perlahan-lahan ia terpikat oleh aura unik gadis itu dan sensasi baru yang dialaminya. Kisah cinta yang rumit antara seorang gadis polos berkacamata dan seorang berandal ganas pun dimulai!",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Yugami no Toriko Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVnYW1pLW5vLXRvcmlrby1jaGFwdGVyLTYv",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Yugami no Toriko Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVnYW1pLW5vLXRvcmlrby1jaGFwdGVyLTUv",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Yugami no Toriko Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVnYW1pLW5vLXRvcmlrby1jaGFwdGVyLTQv",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Yugami no Toriko Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVnYW1pLW5vLXRvcmlrby1jaGFwdGVyLTMv",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Yugami no Toriko Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVnYW1pLW5vLXRvcmlrby1jaGFwdGVyLTIv",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Yugami no Toriko Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXVnYW1pLW5vLXRvcmlrby1jaGFwdGVyLTEv",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }
