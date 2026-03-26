@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-18T22:29:12.380196",
+  "scraped_at": "2026-03-26T16:43:24.752392",
   "alternative_titles": "심검의 용사, Simgeom-ui Yongsa, Guerreiro da Espada Espiritual, Warrior of the Spirit Sword",
   "status": "Berjalan",
   "author": "Moon Do-hyun",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    Warrior of The Sword Heart yang dibuat oleh komikus bernama\n                    Moon Do-hyun ini bercerita tentang\n                    Mereka yang dapat menghunus Pedang Roh disebut “Prajurit.”Ellen memulai perjalanan untuk menjadi salah satu dari mereka, hanya untuk mengetahui bahwa pahlawan yang ia impikan tidak lebih dari senjata pembantaian yang kejam.Bisakah Ellen mengatasi kenyataan kejam ini dan menjadi prajurit sejati?",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Warrior of The Sword Heart Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1vZi10aGUtc3dvcmQtaGVhcnQtY2hhcHRlci0xOC8=",
+      "date": "50 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik Warrior of The Sword Heart Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1vZi10aGUtc3dvcmQtaGVhcnQtY2hhcHRlci0xNy8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "16",
@@ -44,13 +50,13 @@
       "chapter": "14",
       "title": "Komik Warrior of The Sword Heart Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1vZi10aGUtc3dvcmQtaGVhcnQtY2hhcHRlci0xNC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Warrior of The Sword Heart Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1vZi10aGUtc3dvcmQtaGVhcnQtY2hhcHRlci0xMy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -125,5 +131,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }

@@ -6,9 +6,9 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.41,
-  "scraped_at": "2026-02-18T07:38:07.689030",
+  "scraped_at": "2026-03-26T16:42:44.761831",
   "alternative_titles": "Людина-бензопила, Chain Saw Man, Chainsaw-Man, Chainsawman, Человек-бензопила, チェンソーマン, 电锯人, 鏈鋸人, 電鋸人",
-  "status": "Berjalan",
+  "status": "Tamat",
   "author": "Fujimoto Tatsuki",
   "illustrator": "Fujimoto Tatsuki",
   "demographic": "Shounen",
@@ -31,214 +31,232 @@
   "synopsis": "Manga                    Chainsaw Man yang dibuat oleh komikus bernama\n                    Fujimoto Tatsuki ini bercerita tentang\n                    Pemuda kena mental + iblis anjing gergaji = Manusia Gergaji!\r\n\r\nNama mengatakan itu semua! Kehidupan kemiskinan Denji berubah selamanya ketika ia bergabung dengan anjing gergaji hewan peliharaannya, Pochita! Sekarang dia tinggal di kota besar dan menjadi Pemburu Iblis resmi. Tapi dia harus banyak belajar tentang pekerjaan barunya dan kekuatan gergaji!",
   "chapters": [
     {
+      "chapter": "232",
+      "title": "Komik Chainsaw Man Chapter 232",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjMyLw==",
+      "date": "32 menit yang lalu"
+    },
+    {
+      "chapter": "231",
+      "title": "Komik Chainsaw Man Chapter 231",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjMxLw==",
+      "date": "33 menit yang lalu"
+    },
+    {
+      "chapter": "230",
+      "title": "Komik Chainsaw Man Chapter 230",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjMwLw==",
+      "date": "4 minggu yang lalu"
+    },
+    {
       "chapter": "229",
       "title": "Komik Chainsaw Man Chapter 229",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjI5Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "227",
       "title": "Komik Chainsaw Man Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjI3Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik Chainsaw Man Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjI2Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "225",
       "title": "Komik Chainsaw Man Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjI1Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "224",
       "title": "Komik Chainsaw Man Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjI0Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik Chainsaw Man Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjIzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "222",
       "title": "Komik Chainsaw Man Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjIyLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "221",
       "title": "Komik Chainsaw Man Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjIxLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "220",
       "title": "Komik Chainsaw Man Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjIwLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "219",
       "title": "Komik Chainsaw Man Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjE5Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "218",
       "title": "Komik Chainsaw Man Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjE4Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "217",
       "title": "Komik Chainsaw Man Chapter 217",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjE3Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "216",
       "title": "Komik Chainsaw Man Chapter 216",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjE2Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "215",
       "title": "Komik Chainsaw Man Chapter 215",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjE1Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "214",
       "title": "Komik Chainsaw Man Chapter 214",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjE0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "213",
       "title": "Komik Chainsaw Man Chapter 213",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjEzLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "212",
       "title": "Komik Chainsaw Man Chapter 212",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjEyLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "211",
       "title": "Komik Chainsaw Man Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjExLw==",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "210",
       "title": "Komik Chainsaw Man Chapter 210",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjEwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "209",
       "title": "Komik Chainsaw Man Chapter 209",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjA5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "208",
       "title": "Komik Chainsaw Man Chapter 208",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjA4Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "207",
       "title": "Komik Chainsaw Man Chapter 207",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjA3Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "206",
       "title": "Komik Chainsaw Man Chapter 206",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjA2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "205",
       "title": "Komik Chainsaw Man Chapter 205",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjA1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "204",
       "title": "Komik Chainsaw Man Chapter 204",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjA0Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "203",
       "title": "Komik Chainsaw Man Chapter 203",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjAzLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "202",
       "title": "Komik Chainsaw Man Chapter 202",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjAyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "201",
       "title": "Komik Chainsaw Man Chapter 201",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjAxLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "200",
       "title": "Komik Chainsaw Man Chapter 200",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMjAwLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "199",
       "title": "Komik Chainsaw Man Chapter 199",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTk5Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "198",
       "title": "Komik Chainsaw Man Chapter 198",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTk4Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "197",
       "title": "Komik Chainsaw Man Chapter 197",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTk3Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "196",
       "title": "Komik Chainsaw Man Chapter 196",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTk2Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "195",
       "title": "Komik Chainsaw Man Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTk1Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "194",
       "title": "Komik Chainsaw Man Chapter 194",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTk0Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "193",
@@ -340,19 +358,19 @@
       "chapter": "177",
       "title": "Komik Chainsaw Man Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTc3Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "176",
       "title": "Komik Chainsaw Man Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTc2Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "175",
       "title": "Komik Chainsaw Man Chapter 175",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTc1Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "174",
@@ -544,25 +562,25 @@
       "chapter": "143",
       "title": "Komik Chainsaw Man Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTQzLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "142",
       "title": "Komik Chainsaw Man Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTQyLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "141",
       "title": "Komik Chainsaw Man Chapter 141",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTQxLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "140",
       "title": "Komik Chainsaw Man Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTQwLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "139",
@@ -778,13 +796,13 @@
       "chapter": "104",
       "title": "Komik Chainsaw Man Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTA0Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik Chainsaw Man Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hhaW5zYXctbWFuLWNoYXB0ZXItMTAzLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "102",
@@ -1411,5 +1429,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 230
+  "total_chapters": 233
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.84,
-  "scraped_at": "2026-03-24T22:46:38.686172",
+  "scraped_at": "2026-03-26T16:46:27.776884",
   "alternative_titles": "他校のボーイッシュ彼女, Boyish Girlfriend from Another School",
   "status": "Berjalan",
   "author": "Gyuunyuu Mugigohan",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Takou no Boyish Kanojo yang dibuat oleh komikus bernama\n                    Gyuunyuu Mugigohan ini bercerita tentang\n                    Pacar tomboy dari Sekolah Lain",
   "chapters": [
     {
+      "chapter": "35",
+      "title": "Komik Takou no Boyish Kanojo Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTM1Lw==",
+      "date": "57 menit yang lalu"
+    },
+    {
       "chapter": "34",
       "title": "Komik Takou no Boyish Kanojo Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTM0Lw==",
-      "date": "9 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "33",
@@ -48,7 +54,7 @@
       "chapter": "30",
       "title": "Komik Takou no Boyish Kanojo Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTMwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "29",
@@ -60,7 +66,7 @@
       "chapter": "28",
       "title": "Komik Takou no Boyish Kanojo Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTI4Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "27",
@@ -84,7 +90,7 @@
       "chapter": "24",
       "title": "Komik Takou no Boyish Kanojo Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTI0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -219,5 +225,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 34
 }

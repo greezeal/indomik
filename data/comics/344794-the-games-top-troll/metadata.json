@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.13,
-  "scraped_at": "2026-03-22T20:41:00.907856",
+  "scraped_at": "2026-03-26T16:41:55.966725",
   "alternative_titles": "World's Strongest Troll, 게임 최강 트롤러",
   "status": "Berjalan",
   "author": "Gunmandumeogja, Park Jong Suk",
@@ -24,16 +24,22 @@
   "synopsis": "Manhwa                    The Game’s Top Troll yang dibuat oleh komikus bernama\n                    Gunmandumeogja, Park Jong Suk ini bercerita tentang\n                    Game paling masuk akal di dunia.\r\n\r\nAjin Electronics, Sillicoff Industry, dan Argos Corporation.\r\n\r\nArcadia, game Realitas Virtual pertama untuk umat manusia, dibuat oleh upaya bersama dari konglomerat terkemuka dunia.\r\n\r\n[Selamat datang di Dunia Fantasi, Arcadia.]\r\n\r\nKisah-kisah gila akan terjadi di dunia itu.\r\n\r\nMereka semua mulai sekarang!",
   "chapters": [
     {
+      "chapter": "173",
+      "title": "Komik The Game’s Top Troll Chapter 173",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE3My8=",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "172",
       "title": "Komik The Game’s Top Troll Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE3Mi8=",
-      "date": "22 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik The Game’s Top Troll Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE3MS8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "170",
@@ -63,7 +69,7 @@
       "chapter": "166",
       "title": "Komik The Game’s Top Troll Chapter 166",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTE2Ni8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "165",
@@ -279,7 +285,7 @@
       "chapter": "129",
       "title": "Komik The Game’s Top Troll Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTEyOS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "128",
@@ -747,7 +753,7 @@
       "chapter": "51",
       "title": "Komik The Game’s Top Troll Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdhbWVzLXRvcC10cm9sbC1jaGFwdGVyLTUxLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "50",
@@ -1050,5 +1056,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 171
+  "total_chapters": 172
 }
