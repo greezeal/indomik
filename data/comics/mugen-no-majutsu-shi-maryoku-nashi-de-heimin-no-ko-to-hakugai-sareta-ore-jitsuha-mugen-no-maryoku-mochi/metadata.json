@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-07T17:58:30.597957",
+  "scraped_at": "2026-03-26T03:28:03.081468",
   "alternative_titles": "無限の魔術師 魔力無しで平民の子と迫害された俺。実は無限の魔力持ち。",
   "status": "Berjalan",
   "author": "LeonarD, レオナールD",
@@ -24,23 +24,29 @@
   "synopsis": "Manga                    Mugen no Majutsu Shi Maryoku Nashi de Heimin no Ko to Hakugai Sareta Ore. Jitsuha Mugen no Maryoku Mochi yang dibuat oleh komikus bernama\n                    LeonarD, レオナールD ini bercerita tentang\n                    Resto, seorang anak laki-laki yang bereinkarnasi dengan kekuatan sihir tak terbatas. Entah mengapa, ia berpura-pura tidak memiliki kekuatan sihir dan menghabiskan hari-harinya menanggung penganiayaan, tetapi... Namun hidupnya berubah selamanya ketika ia menyelamatkan nyawa Viola dan Primula, putri seorang penyihir istana! 'Untuk memiliki sebanyak mungkin anak dari darah dagingnya yang lahir dari Marquise Rosemary... Diakui sebagai penyihir berbakat dan menantu perempuan saudara perempuannya, Resto menghabiskan hari-harinya berlatih untuk ujian masuk ke Akademi Kerajaan sebagai siswa yang tinggal di asrama... Bakatnya diasah saat ia mengalahkan iblis-iblis yang tidak lazim dan mengembangkan sihir yang tidak lazim, mencapai prestasi yang tidak dapat diprediksi siapa pun. Dengan kekuatan sihir terkuat, ia mengambil alih segalanya - sebuah kisah kesuksesan tanpa batas dimulai! Pemenang Kontes Novel Web Kakuyom ke-9, Penghargaan Khusus Kategori Fantasi Dunia Lain & Penghargaan Manga CW.",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Mugen no Majutsu Shi Maryoku Nashi de Heimin no Ko to Hakugai Sareta Ore. Jitsuha Mugen no Maryoku Mochi Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVnZW4tbm8tbWFqdXRzdS1zaGktbWFyeW9rdS1uYXNoaS1kZS1oZWltaW4tbm8ta28tdG8taGFrdWdhaS1zYXJldGEtb3JlLWppdHN1aGEtbXVnZW4tbm8tbWFyeW9rdS1tb2NoaS1jaGFwdGVyLTQv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Mugen no Majutsu Shi Maryoku Nashi de Heimin no Ko to Hakugai Sareta Ore. Jitsuha Mugen no Maryoku Mochi Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVnZW4tbm8tbWFqdXRzdS1zaGktbWFyeW9rdS1uYXNoaS1kZS1oZWltaW4tbm8ta28tdG8taGFrdWdhaS1zYXJldGEtb3JlLWppdHN1aGEtbXVnZW4tbm8tbWFyeW9rdS1tb2NoaS1jaGFwdGVyLTMv",
-      "date": "26 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Mugen no Majutsu Shi Maryoku Nashi de Heimin no Ko to Hakugai Sareta Ore. Jitsuha Mugen no Maryoku Mochi Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVnZW4tbm8tbWFqdXRzdS1zaGktbWFyeW9rdS1uYXNoaS1kZS1oZWltaW4tbm8ta28tdG8taGFrdWdhaS1zYXJldGEtb3JlLWppdHN1aGEtbXVnZW4tbm8tbWFyeW9rdS1tb2NoaS1jaGFwdGVyLTIv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Mugen no Majutsu Shi Maryoku Nashi de Heimin no Ko to Hakugai Sareta Ore. Jitsuha Mugen no Maryoku Mochi Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVnZW4tbm8tbWFqdXRzdS1zaGktbWFyeW9rdS1uYXNoaS1kZS1oZWltaW4tbm8ta28tdG8taGFrdWdhaS1zYXJldGEtb3JlLWppdHN1aGEtbXVnZW4tbm8tbWFyeW9rdS1tb2NoaS1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }
