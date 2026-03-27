@@ -1,0 +1,32 @@
+{
+  "slug": "superu",
+  "title": "Superu",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvc3VwZXJ1Lw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDMvS29taWstU1BFTEwtMjI0eDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-03-27T03:32:01.684673",
+  "alternative_titles": "スペル, SPELL",
+  "status": "Berjalan",
+  "author": "Azuma Aya",
+  "illustrator": "Azuma Aya",
+  "themes": [
+    "Magic"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "synopsis": "Manga                    Superu yang dibuat oleh komikus bernama\n                    Azuma Aya ini bercerita tentang\n                    Sebuah kisah dramatis yang berlatar masa lalu Gensokyo, sebelum terciptanya aturan kartu mantra, mengikuti perjalanan Reimu muda. Tidak resmi dan bukan bagian dari kanon. Diterbitkan dalam edisi web Strange Creators of Outer World.",
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Komik Superu Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VwZXJ1LWNoYXB0ZXItMS8=",
+      "date": "1 jam yang lalu"
+    }
+  ],
+  "total_chapters": 1
+}

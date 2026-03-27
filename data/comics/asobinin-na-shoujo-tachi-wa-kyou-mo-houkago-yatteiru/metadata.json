@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-09T23:03:52.608145",
+  "scraped_at": "2026-03-27T03:34:57.331553",
   "alternative_titles": "遊び人な少女たちは今日も放課後ヤっている",
   "status": "Berjalan",
   "author": "Aegami Okaki",
@@ -21,17 +21,23 @@
   "synopsis": "Manga                    Asobinin na Shoujo-tachi wa Kyou mo Houkago Yatteiru yang dibuat oleh komikus bernama\n                    Aegami Okaki ini bercerita tentang\n                    Kyosuke, yang kini seorang siswa SMA, memimpikan masa muda yang cerah dan gemerlap, dan diundang oleh teman masa kecilnya yang lebih tua, Kyoko, yang sudah lama tidak ia temui, untuk bergabung dengan Klub Permainan Pola. Ini adalah klub yang cerdas dan pintar di mana siswa SMA memainkan permainan seperti \"bermain rumah-rumahan\" dan \"sembunyi-sembunyi,\" yang mereka mainkan saat kecil, tetapi karena suatu alasan, sesuatu yang tak terduga terjadi dan semuanya berubah menjadi mesum!? Para siswa laki-laki dan perempuan, yang hanya ingin bermain permainan yang sehat, akhirnya terlibat dalam hubungan yang semakin tidak bermoral melalui permainan kekanak-kanakan...!?",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Asobinin na Shoujo-tachi wa Kyou mo Houkago Yatteiru Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNvYmluaW4tbmEtc2hvdWpvLXRhY2hpLXdhLWt5b3UtbW8taG91a2Fnby15YXR0ZWlydS1jaGFwdGVyLTMv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Asobinin na Shoujo-tachi wa Kyou mo Houkago Yatteiru Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNvYmluaW4tbmEtc2hvdWpvLXRhY2hpLXdhLWt5b3UtbW8taG91a2Fnby15YXR0ZWlydS1jaGFwdGVyLTIv",
-      "date": "26 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Asobinin na Shoujo-tachi wa Kyou mo Houkago Yatteiru Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNvYmluaW4tbmEtc2hvdWpvLXRhY2hpLXdhLWt5b3UtbW8taG91a2Fnby15YXR0ZWlydS1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

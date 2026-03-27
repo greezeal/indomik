@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T00:05:16.522342",
-  "total_comics": 1255,
+  "last_updated": "2026-03-27T03:39:06.743012",
+  "total_comics": 1271,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1184,7 +1184,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.29,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "368745-the-regressed-life-of-a-back-alley-mage",
@@ -1752,7 +1752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.88,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "akuyaku-reijo-ni-one-ga-tensei-shitakedo-nanimo-mondai-ga-naiken",
@@ -1960,7 +1960,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.38,
-      "total_chapters": 146
+      "total_chapters": 148
     },
     {
       "slug": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru",
@@ -2672,7 +2672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "reincarnated-as-the-archdukes-son",
@@ -2712,7 +2712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 748
+      "total_chapters": 749
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -3360,7 +3360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "a-new-living-arrangement-with-my-friend-%e2%99%82-turned-succubus",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 60
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -3864,7 +3864,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 417
+      "total_chapters": 420
     },
     {
       "slug": "uesugi-kun-wa-onnanoko-wo-yametai",
@@ -3992,7 +3992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "my-death-flags-show-no-sign-of-ending",
@@ -4664,7 +4664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "734821-chronicles-of-the-demon-faction",
@@ -6832,7 +6832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 65
+      "total_chapters": 72
     },
     {
       "slug": "maria-no-danzai",
@@ -7800,7 +7800,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 57
     },
     {
       "slug": "spare-me-great-lord",
@@ -7920,7 +7920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "koi-yori-aoku",
@@ -8120,7 +8120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "seirei-gensouki-konna-sekai-de-deaeta-kimi-ni",
@@ -8568,7 +8568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.19,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
@@ -8960,7 +8960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 80
+      "total_chapters": 82
     },
     {
       "slug": "gimai-seikatsu",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 38
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -10041,6 +10041,134 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 31
+    },
+    {
+      "slug": "kominka-gyaru-to-renovation-gurashi",
+      "title": "Kominka Gyaru to Renovation Gurashi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "dareka-ookami-san-no-shitsuke-kata-shirimasen-ka",
+      "title": "Dareka Ookami-san no shitsuke-kata shirimasen ka?!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "the-former-strongest-hero-lives-as-a-side-character",
+      "title": "The Former Strongest Hero Lives as a Side Character",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "shinimodori-no-akuyaku-reijou-wa-nidome-no-jinsei-de-subete-o-shiawase-ni-shitemiseru",
+      "title": "Shinimodori no Akuyaku Reijou wa, Nidome no Jinsei de Subete o Shiawase ni Shitemiseru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "wakeari-hakushaku-sama-to-keiyaku-kekkon-shitara-gijou-roku-sai-no-keiyaku-haha-ni-natte-shimaimashita",
+      "title": "Wakeari Hakushaku-sama to Keiyaku Kekkon Shitara, Gijou (Roku-sai) no Keiyaku Haha ni Natte Shimaimashita.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.13,
+      "total_chapters": 5
+    },
+    {
+      "slug": "zettai-shinanai-stella-hime",
+      "title": "Zettai Shinanai Stella-hime",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "the-merciless-fairy-shall-become-a-cultivation-vessel",
+      "title": "The Merciless Fairy Shall Become a Cultivation Vessel",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "osana-robot-to-abunai-hakase",
+      "title": "Osana Robot to Abunai Hakase",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 46
+    },
+    {
+      "slug": "rebirth-of-the-thief-who-roamed-the-world",
+      "title": "Rebirth of the Thief Who Roamed the World",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
+    },
+    {
+      "slug": "superu",
+      "title": "Superu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "the-modern-life-of-the-absolute",
+      "title": "The Modern Life of the Absolute",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "milimos-saga-the-story-of-the-reincarnation-of-the-youngest-brother-prince",
+      "title": "Milimos Saga – The Story of the Reincarnation of the Youngest Brother Prince",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "usuzumi-no-hate",
+      "title": "Usuzumi no Hate",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.35,
+      "total_chapters": 38
+    },
+    {
+      "slug": "dustland",
+      "title": "Dustland",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "maid-wa-koisuru-hachiya-kun",
+      "title": "Maid wa Koisuru Hachiya-kun",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 24
+    },
+    {
+      "slug": "829732-world-trigger",
+      "title": "World Trigger",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.77,
+      "total_chapters": 253
     }
   ]
 }

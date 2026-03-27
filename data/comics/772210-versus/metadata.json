@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.88,
-  "scraped_at": "2026-02-28T07:10:03.911549",
+  "scraped_at": "2026-03-27T03:33:41.947902",
   "alternative_titles": "Versus, バーサス",
   "status": "Berjalan",
   "author": "ONE",
@@ -30,76 +30,82 @@
   "synopsis": "Manga                    VERSUS yang dibuat oleh komikus bernama\n                    ONE ini bercerita tentang\n                    Kemanusiaan telah ditindas selama ratusan tahun karena kebangkitan dan invasi musuh alami \"setan\".\r\nDunia diperintah oleh \"Raja Setan Besar\" dan 47 \"Raja Setan\" miliknya.\r\nSementara orang-orang hidup dalam ketakutan, 47 orang yang dipilih dari seluruh dunia dinobatkan sebagai \"Pahlawan\" dan bersiap untuk berperang melawan pasukan Raja Iblis.\r\nDan sekarang, operasi putus asa dengan mempertaruhkan kelangsungan hidup umat manusia akan segera dimulai.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik VERSUS Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMzMv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik VERSUS Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMzIv",
-      "date": "13 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik VERSUS Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMzEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik VERSUS Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMzAv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik VERSUS Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjkv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik VERSUS Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjgv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik VERSUS Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjcv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik VERSUS Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjYv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik VERSUS Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjUv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "24.5",
       "title": "Komik VERSUS Chapter 24.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjQtNS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik VERSUS Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjQv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik VERSUS Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjMv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik VERSUS Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItMjIv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -189,7 +195,7 @@
       "chapter": "9",
       "title": "Komik VERSUS Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc3VzLWNoYXB0ZXItOS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "8",
@@ -246,5 +252,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }
