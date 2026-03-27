@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 6.78,
-  "scraped_at": "2026-03-24T22:42:49.635600",
+  "scraped_at": "2026-03-27T07:53:57.474592",
   "alternative_titles": "Invasion of the Myriad Races: Starting by Taming a Legendary Beast, 万族入侵：开局驯化史诗级巨兽",
   "status": "Berjalan",
   "author": "青云阁",
@@ -18,10 +18,16 @@
   "synopsis": "Manhua                    Domestication of Divine Beasts at the Beginning yang dibuat oleh komikus bernama\n                    青云阁 ini bercerita tentang\n                    Semua ras telah menyerbu Bumi. Kura-kura peliharaan Su Bai berevolusi menjadi Kura-kura Hitam, dan kucingnya menjadi Harimau Putih. Burung Vermilion dan Naga Azure, binatang suci kuno, segera menyusul. Namun, binatang suci ini memiliki nafsu makan yang sangat besar, yang menyebabkan Su Bai menjadi pengusaha terkenal yang membuat semua orang sakit kepala. “Saudaraku, ini darah Kura-kura Hitam, hanya dijual seharga sepuluh miliar. Hei, mengapa kamu mengumpatku hanya karena kamu tidak membeli?” “Juara kompetisi Seratus Sekolah memenangkan sepuluh miliar? Bantu aku, aku masih bisa bertarung!” “Kota utama semua ras memiliki kekayaan yang tak terhitung jumlahnya? Sebagai manusia, aku harus melindungi Negara Naga-ku. Aku akan memimpin serangan!",
   "chapters": [
     {
+      "chapter": "61",
+      "title": "Komik Domestication of Divine Beasts at the Beginning Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9tZXN0aWNhdGlvbi1vZi1kaXZpbmUtYmVhc3RzLWF0LXRoZS1iZWdpbm5pbmctY2hhcHRlci02MS8=",
+      "date": "49 menit yang lalu"
+    },
+    {
       "chapter": "60",
       "title": "Komik Domestication of Divine Beasts at the Beginning Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9tZXN0aWNhdGlvbi1vZi1kaXZpbmUtYmVhc3RzLWF0LXRoZS1iZWdpbm5pbmctY2hhcHRlci02MC8=",
-      "date": "16 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "59",
@@ -33,7 +39,7 @@
       "chapter": "58",
       "title": "Komik Domestication of Divine Beasts at the Beginning Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9tZXN0aWNhdGlvbi1vZi1kaXZpbmUtYmVhc3RzLWF0LXRoZS1iZWdpbm5pbmctY2hhcHRlci01OC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "57",
@@ -75,7 +81,7 @@
       "chapter": "51",
       "title": "Komik Domestication of Divine Beasts at the Beginning Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9tZXN0aWNhdGlvbi1vZi1kaXZpbmUtYmVhc3RzLWF0LXRoZS1iZWdpbm5pbmctY2hhcHRlci01MS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -183,13 +189,13 @@
       "chapter": "32",
       "title": "Komik Domestication of Divine Beasts at the Beginning Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9tZXN0aWNhdGlvbi1vZi1kaXZpbmUtYmVhc3RzLWF0LXRoZS1iZWdpbm5pbmctY2hhcHRlci0zMi8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Domestication of Divine Beasts at the Beginning Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9tZXN0aWNhdGlvbi1vZi1kaXZpbmUtYmVhc3RzLWF0LXRoZS1iZWdpbm5pbmctY2hhcHRlci0zMS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -237,7 +243,7 @@
       "chapter": "23",
       "title": "Komik Domestication of Divine Beasts at the Beginning Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9tZXN0aWNhdGlvbi1vZi1kaXZpbmUtYmVhc3RzLWF0LXRoZS1iZWdpbm5pbmctY2hhcHRlci0yMy8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -372,5 +378,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 60
 }
