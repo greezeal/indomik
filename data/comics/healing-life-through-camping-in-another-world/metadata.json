@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.83,
-  "scraped_at": "2026-03-27T10:36:14.801357",
+  "scraped_at": "2026-03-27T15:40:47.004061",
   "alternative_titles": "이세계 캠핑으로 힐링 라이프",
   "status": "Berjalan",
   "author": "Maengkkan (맹깐),Geum Uihaeng",
@@ -27,16 +27,28 @@
   "synopsis": "Manhwa                    Healing Life Through Camping In Another World yang dibuat oleh komikus bernama\n                    Maengkkan (맹깐),Geum Uihaeng ini bercerita tentang\n                    Koki Bintang, KangHyun, bersembunyi di pedesaan yang tenang setelah kehilangan indera perasa di mana dia menemukan jalan menuju dunia lain di rumah kakeknya. Karena dia dalam pelarian, dia berencana menikmati kehidupan perkemahan yang santai, tapi... orang-orang di dunia lain semakin tertarik pada KangHyun! Akankah KangHyun benar-benar bisa sembuh dengan menjalani kehidupan yang lambat?",
   "chapters": [
     {
+      "chapter": "102",
+      "title": "Komik Healing Life Through Camping In Another World Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1saWZlLXRocm91Z2gtY2FtcGluZy1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMTAyLw==",
+      "date": "31 menit yang lalu"
+    },
+    {
+      "chapter": "101",
+      "title": "Komik Healing Life Through Camping In Another World Chapter 101",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1saWZlLXRocm91Z2gtY2FtcGluZy1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMTAxLw==",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "100",
       "title": "Komik Healing Life Through Camping In Another World Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1saWZlLXRocm91Z2gtY2FtcGluZy1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMTAwLw==",
-      "date": "40 menit yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "99",
       "title": "Komik Healing Life Through Camping In Another World Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1saWZlLXRocm91Z2gtY2FtcGluZy1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItOTkv",
-      "date": "41 menit yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "98",
@@ -258,13 +270,13 @@
       "chapter": "61",
       "title": "Komik Healing Life Through Camping In Another World Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1saWZlLXRocm91Z2gtY2FtcGluZy1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItNjEv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Healing Life Through Camping In Another World Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1saWZlLXRocm91Z2gtY2FtcGluZy1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItNjAv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "59",
@@ -621,5 +633,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 99
+  "total_chapters": 101
 }

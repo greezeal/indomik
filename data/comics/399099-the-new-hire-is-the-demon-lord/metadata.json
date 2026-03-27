@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.12,
-  "scraped_at": "2026-03-26T18:49:55.396948",
+  "scraped_at": "2026-03-27T15:41:17.415270",
   "alternative_titles": "신입사원은 마왕",
   "status": "Berjalan",
   "author": "Hauni",
@@ -19,46 +19,52 @@
   "synopsis": "Manhwa                    The New Hire Is the Demon Lord yang dibuat oleh komikus bernama\n                    Hauni ini bercerita tentang\n                    Dullahan, raja iblis yang pernah meneror dunia, akhirnya bangkit kembali di Korea modern, ingin membalas dendam terhadap pahlawan yang mengalahkannya berabad-abad lalu. Namun, yang dapat ia temukan hanyalah keturunannya, Yongrae Kim: seorang pekerja kantoran yang malang dan tidak kompeten, tanpa prospek dan kegembiraan dalam hidup. Mengakhiri hidupnya sekarang hanya akan membantunya, jadi Dullahan memutuskan untuk memperbaiki hidupnya terlebih dahulu... tetapi pacar Yongrae yang suka mendua dan banyak atasannya yang ketat di tempat kerja menghalanginya. Bisakah Dullahan menghancurkan hierarki kantor dan membangkitkan kemampuan pahlawan Yongrae yang terpendam untuk membuat balas dendamnya lebih memuaskan?",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik The New Hire Is the Demon Lord Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItMTMv",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik The New Hire Is the Demon Lord Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItMTIv",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The New Hire Is the Demon Lord Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItMTEv",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The New Hire Is the Demon Lord Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItMTAv",
-      "date": "13 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik The New Hire Is the Demon Lord Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItOS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik The New Hire Is the Demon Lord Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItOC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik The New Hire Is the Demon Lord Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItNy8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik The New Hire Is the Demon Lord Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5ldy1oaXJlLWlzLXRoZS1kZW1vbi1sb3JkLWNoYXB0ZXItNi8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "5",
@@ -91,5 +97,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }

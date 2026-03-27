@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T14:42:08.298002",
-  "total_comics": 1272,
+  "last_updated": "2026-03-27T15:44:01.625433",
+  "total_comics": 1274,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -152,7 +152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.83,
-      "total_chapters": 99
+      "total_chapters": 101
     },
     {
       "slug": "idle-player-returns-as-a-god",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 112
+      "total_chapters": 116
     },
     {
       "slug": "isshou-senkin",
@@ -1096,7 +1096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
@@ -1456,7 +1456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "warrior-of-the-sword-heart",
@@ -2072,7 +2072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "unemployed-gye-baeksun",
@@ -2808,7 +2808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 46
+      "total_chapters": 48
     },
     {
       "slug": "golden-core-is-a-star-you-call-this-cultivating-immortality",
@@ -3736,7 +3736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "706428-genius-martial-arts-trainer",
@@ -4008,7 +4008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 32
     },
     {
       "slug": "god-level-assassin-im-the-shadow",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 179
+      "total_chapters": 180
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4072,15 +4072,15 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "kurai-anoko-to-shitai-koto",
       "title": "Kurai Anoko to Shitai koto",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 97
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-berserkers-second-playthrough",
@@ -4248,7 +4248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "not-over",
@@ -4288,7 +4288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "686339-i-obtained-a-mythic-item",
@@ -4656,7 +4656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "548836-eternally-regressing-knight",
@@ -4728,7 +4728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.87,
-      "total_chapters": 112
+      "total_chapters": 114
     },
     {
       "slug": "my-wife-comes-from-the-thousand-year-old-underworld",
@@ -4936,7 +4936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "genkai-dokushin-joshi-26-gohan",
@@ -5160,7 +5160,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "a-thousand-faces",
@@ -5184,7 +5184,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 22
     },
     {
       "slug": "545921-revenge-of-the-iron-blooded-sword-hound",
@@ -5262,9 +5262,9 @@
       "slug": "defense-breaker",
       "title": "Defense Breaker",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.31,
+      "total_chapters": 36
     },
     {
       "slug": "class-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta",
@@ -5952,7 +5952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 15
     },
     {
       "slug": "the-bathroom-ghost",
@@ -6144,7 +6144,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 99
     },
     {
       "slug": "774935-i-reincarnated-as-the-crazed-heir",
@@ -6568,7 +6568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 284
+      "total_chapters": 286
     },
     {
       "slug": "mia-has-returned",
@@ -6864,7 +6864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.83,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "240216-oroka-na-tenshi-wa-akuma-to-odoru",
@@ -6880,7 +6880,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 32
     },
     {
       "slug": "the-congressman-gives-me-good-news",
@@ -7752,7 +7752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "mahou-shoujo-fuusen-wo-ane-kara-moratte-nani-ka-ni-mezameru-shounen",
@@ -7824,7 +7824,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "chikasugiru-futari",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 51
+      "total_chapters": 53
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",
@@ -8496,7 +8496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "saikyou-onna-shish%d0%beu-tachi-ga-ikusei-houshin-o-megutte-shuraba",
@@ -8600,7 +8600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 340
+      "total_chapters": 341
     },
     {
       "slug": "isekai-nonbiri-nouka",
@@ -9672,7 +9672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "the-magic-theory-of-the-regressed-sword-saint",
@@ -9800,7 +9800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "dancer",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -10177,6 +10177,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "hiiragi-san-chi-no-kyuuketsu-jijou",
+      "title": "Hiiragi-san Chi no Kyuuketsu Jijou",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 37
+    },
+    {
+      "slug": "526950-d-gray-man",
+      "title": "D Gray Man",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.28,
+      "total_chapters": 65
     }
   ]
 }
