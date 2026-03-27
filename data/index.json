@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T19:29:28.525881",
+  "last_updated": "2026-03-27T20:06:39.832199",
   "total_comics": 1274,
   "comics": [
     {
@@ -4078,9 +4078,9 @@
       "slug": "kurai-anoko-to-shitai-koto",
       "title": "Kurai Anoko to Shitai koto",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 99
     },
     {
       "slug": "the-berserkers-second-playthrough",
