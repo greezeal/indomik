@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.44,
-  "scraped_at": "2026-03-26T18:50:07.446084",
+  "scraped_at": "2026-03-28T08:06:26.228612",
   "alternative_titles": "고인물 힐러가 너무 강하다, The Late Game Healer Is Way Too Strong",
   "status": "Berjalan",
   "author": "Awonit,jd",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    The Veteran Healer Is Overpowered yang dibuat oleh komikus bernama\n                    Awonit,jd ini bercerita tentang\n                    Pemburu terbaik Korea Selatan, 'Mad Dog' Min Si-woo.\r\n\r\nSaat ia dan murid-muridnya mengalahkan Raja Iblis! Ia dikirim ke dunia lain, dan setelah 100 tahun bertempur di alam yang dipenuhi monster, ia akhirnya kembali ke Bumi!\r\n\r\n\"Tapi mengapa semua orang melupakanku?\"\r\n\r\n100 tahun di dunia lain hanyalah 10 tahun di Bumi. Sekarang, seorang veteran berpengalaman yang telah ditempa oleh pertumpahan darah selama satu abad, Min Si-woo berangkat untuk menemukan murid-muridnya yang hilang dan mengungkap alasan di balik pemusnahannya!",
   "chapters": [
     {
+      "chapter": "72",
+      "title": "Komik The Veteran Healer Is Overpowered Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZldGVyYW4taGVhbGVyLWlzLW92ZXJwb3dlcmVkLWNoYXB0ZXItNzIv",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "71",
       "title": "Komik The Veteran Healer Is Overpowered Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZldGVyYW4taGVhbGVyLWlzLW92ZXJwb3dlcmVkLWNoYXB0ZXItNzEv",
-      "date": "58 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "70",
@@ -222,7 +228,7 @@
       "chapter": "38",
       "title": "Komik The Veteran Healer Is Overpowered Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZldGVyYW4taGVhbGVyLWlzLW92ZXJwb3dlcmVkLWNoYXB0ZXItMzgv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -447,5 +453,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 71
+  "total_chapters": 72
 }

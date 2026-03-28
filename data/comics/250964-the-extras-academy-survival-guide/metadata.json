@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-24T06:20:27.751242",
+  "scraped_at": "2026-03-28T08:07:59.615399",
   "alternative_titles": "아카데미에서 살아남기",
   "status": "Berjalan",
   "author": "기린그린",
@@ -23,34 +23,40 @@
   "synopsis": "Manhwa                    The Extra’s Academy Survival Guide yang dibuat oleh komikus bernama\n                    기린그린 ini bercerita tentang\n                    Saya dirasuki sebagai penjahat ekstra kelas tiga dalam permainan yang saya nikmati.\r\nSaya tidak punya ambisi dan hanya ingin hidup tenang. Namun dunia ini sangat sulit untuk bertahan hidup.\r\nDengan cara yang tidak bisa dilakukan oleh karakter utama, sebagai penjahat kelas tiga, saya bertahan untuk melihat akhir cerita ini!",
   "chapters": [
     {
+      "chapter": "99",
+      "title": "Komik The Extra’s Academy Survival Guide Chapter 99",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTkv",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "98",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTgv",
-      "date": "12 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "97",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTcv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "96",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTYv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTUv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "93",
@@ -68,13 +74,13 @@
       "chapter": "91",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItOTAv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "89",
@@ -146,7 +152,7 @@
       "chapter": "78",
       "title": "Komik The Extra’s Academy Survival Guide Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4dHJhcy1hY2FkZW15LXN1cnZpdmFsLWd1aWRlLWNoYXB0ZXItNzgv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "77",
@@ -617,5 +623,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 99
+  "total_chapters": 100
 }

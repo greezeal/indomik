@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-26T12:08:34.519747",
+  "scraped_at": "2026-03-28T08:05:10.395124",
   "alternative_titles": "Became a Cheat-Tier Skill Thief, I Became a Cheat-Level Skill Thief, I Became a Munchkin Skill Thief, チート級スキル泥棒になった, 먼치킨 스킬 도둑이 되었다,",
   "status": "Berjalan",
   "author": "Burgerman, Muhwaggocran",
@@ -21,22 +21,28 @@
   "synopsis": "Manga                    I Became a Munchkin Skill Thief yang dibuat oleh komikus bernama\n                    Burgerman, Muhwaggocran ini bercerita tentang\n                    Crash pernah dicemooh sebagai \"orang gagal\" dan dikhianati oleh teman-temannya sendiri. Namun di ambang kematian, yang ia peroleh adalah satu kesempatan untuk kembali ke masa lalu—satu kali kesempatan untuk kembali ke masa lalu. Kemampuan kembali ke masa lalu tidak dapat digunakan lagi. Namun, berbekal pengetahuan tentang masa depan dari satu kesempatan itu, Crash kali ini bertekad untuk menyelamatkan dunia dari kehancuran dan membalas dendam kepada mereka yang telah menginjak-injaknya di kehidupan sebelumnya. Curi kemampuan. Asah kemampuan tersebut. Kumpulkan kemampuan tersebut. Seorang \"pencuri kemampuan\" terhebat yang bahkan melampaui para penipu kini telah bangkit!",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik I Became a Munchkin Skill Thief Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1tdW5jaGtpbi1za2lsbC10aGllZi1jaGFwdGVyLTI3Lw==",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik I Became a Munchkin Skill Thief Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1tdW5jaGtpbi1za2lsbC10aGllZi1jaGFwdGVyLTI2Lw==",
-      "date": "13 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik I Became a Munchkin Skill Thief Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1tdW5jaGtpbi1za2lsbC10aGllZi1jaGFwdGVyLTI1Lw==",
-      "date": "13 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik I Became a Munchkin Skill Thief Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1tdW5jaGtpbi1za2lsbC10aGllZi1jaGFwdGVyLTI0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "23",
@@ -177,5 +183,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }
