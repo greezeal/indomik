@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T19:37:35.347973",
-  "total_comics": 1278,
+  "last_updated": "2026-03-28T20:06:12.376069",
+  "total_comics": 1284,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -16,7 +16,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 191
+      "total_chapters": 194
     },
     {
       "slug": "226919-academys-undercover-professor",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 105
+      "total_chapters": 106
     },
     {
       "slug": "magic-emperor",
@@ -380,11 +380,11 @@
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
-      "title": "Komik\n              Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu",
+      "title": "Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu",
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.82,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "beethoven-reborn",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1304,7 +1304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 68
     },
     {
       "slug": "outside-of-time",
@@ -1424,7 +1424,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.96,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "my-female-apprentices-are-all-big-shots-from-the-future",
@@ -2094,9 +2094,9 @@
       "slug": "keiyaku-shimai",
       "title": "Keiyaku Shimai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 36
     },
     {
       "slug": "282819-childhood-friend-of-the-zenith",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 491
+      "total_chapters": 492
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2752,7 +2752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 193
+      "total_chapters": 194
     },
     {
       "slug": "151515-omniscient-readers-viewpoint",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 180
+      "total_chapters": 181
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 123
+      "total_chapters": 124
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4512,7 +4512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 159
+      "total_chapters": 160
     },
     {
       "slug": "moto-yuusha-wa-shizuka-ni-kurashitai",
@@ -4544,7 +4544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 83
+      "total_chapters": 88
     },
     {
       "slug": "s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-con-deshita",
@@ -4584,7 +4584,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 142
+      "total_chapters": 145
     },
     {
       "slug": "885552-manager-kim",
@@ -4608,7 +4608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.58,
-      "total_chapters": 149
+      "total_chapters": 150
     },
     {
       "slug": "global-gao-wu",
@@ -4832,7 +4832,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 147
+      "total_chapters": 148
     },
     {
       "slug": "212320-bad-born-blood",
@@ -4856,7 +4856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.65,
-      "total_chapters": 201
+      "total_chapters": 207
     },
     {
       "slug": "invincible-after-shocking-my-empress-wife",
@@ -5824,7 +5824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 103
+      "total_chapters": 106
     },
     {
       "slug": "my-wife-is-the-demonic-cult-leader",
@@ -5944,7 +5944,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "fantasy-induction-center",
@@ -6472,7 +6472,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.08,
-      "total_chapters": 19
+      "total_chapters": 23
     },
     {
       "slug": "289682-to-not-die",
@@ -6656,7 +6656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "lu-bus-life-simulator",
@@ -7648,7 +7648,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.72,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "yarikonda-renai-game-no-akuyaku-ni-tensei-shitanode-gensaku-chishiki-de-heroine-wo-kouryaku-shimasu",
@@ -7656,7 +7656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "uchi-no-seiso-kei-iinchou-ga-katsute-chuunibyou-idol-datta-koto-o-ore-dake-ga-shitteiru",
@@ -7664,7 +7664,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
@@ -7832,7 +7832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "watashi-no-koto-suki-ja-nakatta-no-ka-yo",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 86
+      "total_chapters": 88
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -9048,7 +9048,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.66,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "ore-wa-gakuen-zunou-battle-no-ensyutsuka-jishou-mob-ga-kage-kara-egaku-saikyou-shujinkou-musou-scenario",
@@ -9128,7 +9128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "a-beast-hunters-way-of-life",
@@ -9720,7 +9720,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 187
+      "total_chapters": 189
     },
     {
       "slug": "isekai-kara-kikan-shitara-chikyuu-mo-kanari-fantajii-deshita-ato-makeheroin-domo-kocchi-minna",
@@ -9800,7 +9800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "dancer",
@@ -9808,7 +9808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 9
     },
     {
       "slug": "i-became-the-genius-bastard-of-a-noble-dark-clan",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -10184,7 +10184,7 @@
       "type": "Manga",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "526950-d-gray-man",
@@ -10225,6 +10225,54 @@
       "status": "Berjalan",
       "rating": 0.0,
       "total_chapters": 4
+    },
+    {
+      "slug": "suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai",
+      "title": "Suufungo no Mirai ga Wakaru You ni Natta Kedo, Onnagokoro wa Wakaranai.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.55,
+      "total_chapters": 28
+    },
+    {
+      "slug": "910146-return-of-the-frozen-player",
+      "title": "Return of the Frozen Player",
+      "type": "Manhwa",
+      "status": "Tamat",
+      "rating": 7.98,
+      "total_chapters": 204
+    },
+    {
+      "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
+      "title": "Joudan de Onna Yuusha-tachi wo Kudoita Daimaou, Sarawarete Kyousei Shinkon Seikatsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "akatsuki-no-majo-reishi-wa-jiyu-ni-ikitai-maou-tobatsu-wo-oetanode-nonbiri-wo-mise-wo-hirakimasu",
+      "title": "Akatsuki no Majo Reishi wa Jiyu ni Ikitai – Maou Tobatsu wo Oetanode, Nonbiri wo Mise wo Hirakimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.11,
+      "total_chapters": 10
+    },
+    {
+      "slug": "i-really-dont-want-to-be-reborn",
+      "title": "I Really Don’t Want to Be Reborn",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 451
+    },
+    {
+      "slug": "548726-kengan-omega",
+      "title": "Kengan Omega",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.2,
+      "total_chapters": 286
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T21:47:27.119398",
+  "scraped_at": "2026-03-28T20:04:58.315504",
   "alternative_titles": "La situación de los vampiros en la casa de Hiiragi, Вампирский секрет семьи Хиираги, 柊さんちの吸血事情",
   "status": "Tamat",
   "author": "Yoshikawa Miki",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Hiiragi-san Chi no Kyuuketsu Jijou yang dibuat oleh komikus bernama\n                    Yoshikawa Miki ini bercerita tentang\n                    Mangaka bernama Miki Yoshikawa yang membuat banyak karya mulai dari Yamada-kun to 7-nin no Majo, Yankee-kun to Megane-chan, dan The Cuckoo’s Fiancee (A Couple of Cuckoos).\r\n\r\nSeorang remaja berumur 14 tahun bernama Minamoto Yuuta, hidup di sebuah panti asuhan. Tanpa sepengetahuannya, ia sudah diklaim hak asuhnya oleh sebuah keluarga misterius dan terpaksa harus tinggal bersama mereka. Namun, setelah menemui keluarga tersebut, Yuuta merasakan keanehan yang sedikit mengganggunya…\r\n\r\n Twitter",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Hiiragi-san Chi no Kyuuketsu Jijou Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlpcmFnaS1zYW4tY2hpLW5vLWt5dXVrZXRzdS1qaWpvdS1jaGFwdGVyLTM3Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Hiiragi-san Chi no Kyuuketsu Jijou Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlpcmFnaS1zYW4tY2hpLW5vLWt5dXVrZXRzdS1qaWpvdS1jaGFwdGVyLTM2Lw==",
-      "date": "21 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "35",
@@ -244,5 +250,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 37
+  "total_chapters": 38
 }

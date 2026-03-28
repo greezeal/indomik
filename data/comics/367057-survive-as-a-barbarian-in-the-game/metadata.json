@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-26T18:49:45.600835",
+  "scraped_at": "2026-03-28T20:04:02.004190",
   "alternative_titles": "Surviving the Game as a Barbarian, 게임 속 바바리안으로 살아남기",
   "status": "Berjalan",
   "author": "Han Tae Soo, Jeong Yoon Gang",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    Survive as a Barbarian in the Game yang dibuat oleh komikus bernama\n                    Han Tae Soo, Jeong Yoon Gang ini bercerita tentang\n                    Protagonis ‘Lee Han-soo’ mencapai tahap bos terakhir setelah memainkan game [Dungeon &; Stone] selama 9 tahun, yang belum pernah dibersihkan sebelumnya. Namun, saat memasuki kamar bos, dia dirasuki oleh Bjorn Jandel, seorang barbar di [Dungeons & Stones], dengan menyebutkan menyelesaikan tutorial.\r\n\r\nDi dunia di Dungeons and Stones, hanya satu kota yang tersisa setelah kehancuran.",
   "chapters": [
     {
+      "chapter": "148",
+      "title": "Komik Survive as a Barbarian in the Game Chapter 148",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTE0OC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "147",
       "title": "Komik Survive as a Barbarian in the Game Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTE0Ny8=",
-      "date": "45 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "146",
       "title": "Komik Survive as a Barbarian in the Game Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTE0Ni8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "145",
@@ -59,7 +65,7 @@
       "chapter": "141",
       "title": "Komik Survive as a Barbarian in the Game Chapter 141",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTE0MS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "140",
@@ -101,19 +107,19 @@
       "chapter": "134",
       "title": "Komik Survive as a Barbarian in the Game Chapter 134",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTEzNC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "133",
       "title": "Komik Survive as a Barbarian in the Game Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTEzMy8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "132",
       "title": "Komik Survive as a Barbarian in the Game Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTEzMi8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "131",
@@ -467,7 +473,7 @@
       "chapter": "73",
       "title": "Komik Survive as a Barbarian in the Game Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2ZS1hcy1hLWJhcmJhcmlhbi1pbi10aGUtZ2FtZS1jaGFwdGVyLTczLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "72",
@@ -902,5 +908,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 147
+  "total_chapters": 148
 }

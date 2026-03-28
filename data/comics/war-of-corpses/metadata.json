@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 0.0,
-  "scraped_at": "2026-03-24T06:22:02.490708",
+  "scraped_at": "2026-03-28T20:04:26.553642",
   "alternative_titles": "Guerra de Cadaveres, 시체들의 전쟁, War of the Dead Bodies, Война мертвецов",
   "status": "Berjalan",
   "author": "Mayo Raccoon,MAYO-NUGURI",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    War of Corpses yang dibuat oleh komikus bernama\n                    Mayo Raccoon,MAYO-NUGURI ini bercerita tentang\n                    Di era di mana para Necromancer menciptakan ksatria mereka sendiri untuk bertarung, \"Perang Mayat\" adalah olahraga pamungkas. Di tengah pertempuran brutal di mana banyak orang mencurahkan gairah dan impian mereka ke dalam pertarungan, siapa yang akan muncul sebagai pemenang terakhir?",
   "chapters": [
     {
+      "chapter": "46",
+      "title": "Komik War of Corpses Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00Ni8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "45",
       "title": "Komik War of Corpses Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00NS8=",
-      "date": "6 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "44",
@@ -37,19 +43,19 @@
       "chapter": "43",
       "title": "Komik War of Corpses Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik War of Corpses Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00Mi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik War of Corpses Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci00MS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "40",
@@ -67,13 +73,13 @@
       "chapter": "38",
       "title": "Komik War of Corpses Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci0zOC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik War of Corpses Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FyLW9mLWNvcnBzZXMtY2hhcHRlci0zNy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "36",
@@ -292,5 +298,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 45
+  "total_chapters": 46
 }
