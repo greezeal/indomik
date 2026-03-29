@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-24T22:46:26.586545",
+  "scraped_at": "2026-03-29T05:32:12.801660",
   "alternative_titles": "Life Changer Voice Phishing, It's Voice Phishing, but It's a Life Reversal, 보이스피싱인데 인생역전",
   "status": "Berjalan",
   "author": "Jangtan",
@@ -18,16 +18,22 @@
   "synopsis": "Manhwa                    Voice Phishing Turns Your Life Around yang dibuat oleh komikus bernama\n                    Jangtan ini bercerita tentang\n                    “Tolong ubah masa depan Anda!”\r\nKesempatan untuk membalikkan hidup, dengan janji layanan yang pasti dari penipuan via telepon (voice phishing)!\r\n\r\nMantan aktor nasional yang dulu terkenal, ‘Kang Joo-hyuk’, sekarang hidup dalam penderitaan di kamar sempit yang gelap, tanpa sedikit pun cahaya yang masuk.\r\n\r\nSuatu hari, sebuah ponsel misterius dikirim ke Joo-hyuk, dan serangkaian peristiwa yang akan sepenuhnya mengubah hidupnya pun terjadi.\r\n“Penipuan via telepon yang datang padaku… menjual masa depan?”",
   "chapters": [
     {
+      "chapter": "80",
+      "title": "Komik Voice Phishing Turns Your Life Around Chapter 80",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm9pY2UtcGhpc2hpbmctdHVybnMteW91ci1saWZlLWFyb3VuZC1jaGFwdGVyLTgwLw==",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "79",
       "title": "Komik Voice Phishing Turns Your Life Around Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm9pY2UtcGhpc2hpbmctdHVybnMteW91ci1saWZlLWFyb3VuZC1jaGFwdGVyLTc5Lw==",
-      "date": "7 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Voice Phishing Turns Your Life Around Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm9pY2UtcGhpc2hpbmctdHVybnMteW91ci1saWZlLWFyb3VuZC1jaGFwdGVyLTc4Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "77",
@@ -45,7 +51,7 @@
       "chapter": "75",
       "title": "Komik Voice Phishing Turns Your Life Around Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm9pY2UtcGhpc2hpbmctdHVybnMteW91ci1saWZlLWFyb3VuZC1jaGFwdGVyLTc1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -57,7 +63,7 @@
       "chapter": "73",
       "title": "Komik Voice Phishing Turns Your Life Around Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm9pY2UtcGhpc2hpbmctdHVybnMteW91ci1saWZlLWFyb3VuZC1jaGFwdGVyLTczLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "72",
@@ -75,7 +81,7 @@
       "chapter": "70",
       "title": "Komik Voice Phishing Turns Your Life Around Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm9pY2UtcGhpc2hpbmctdHVybnMteW91ci1saWZlLWFyb3VuZC1jaGFwdGVyLTcwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "69",
@@ -159,7 +165,7 @@
       "chapter": "56",
       "title": "Komik Voice Phishing Turns Your Life Around Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm9pY2UtcGhpc2hpbmctdHVybnMteW91ci1saWZlLWFyb3VuZC1jaGFwdGVyLTU2Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -486,5 +492,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 78
+  "total_chapters": 79
 }
