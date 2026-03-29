@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-22T20:43:14.451564",
+  "scraped_at": "2026-03-29T09:08:56.738171",
   "alternative_titles": "Black-Haired U.S. Army Marshal, 검은머리 미군 대원수",
   "status": "Berjalan",
   "author": "Park Chan-Do",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    The Black-Haired American Grand Marshal yang dibuat oleh komikus bernama\n                    Park Chan-Do ini bercerita tentang\n                    Kim Yu-jin, dalam bab kedua kehidupannya, menelusuri kembali ke tahun 1910-an, menaklukkan sejarah dengan pengetahuannya tentang masa depan. Seorang komandan kompi Korea meninggal saat mencoba menyelamatkan seorang anak dari Letona, yang berguling menuruni bukit. Ketika saya tersadar, saya kembali menjadi Kim Yu-jin, seorang Korea-Amerika di tahun 1900-an, dengan pengetahuan tentang masa depan. Akankah mereka yang mengetahui masa depan menjadi chaebol, atau akankah mereka?",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik The Black-Haired American Grand Marshal Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJsYWNrLWhhaXJlZC1hbWVyaWNhbi1ncmFuZC1tYXJzaGFsLWNoYXB0ZXItMjYv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik The Black-Haired American Grand Marshal Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJsYWNrLWhhaXJlZC1hbWVyaWNhbi1ncmFuZC1tYXJzaGFsLWNoYXB0ZXItMjUv",
-      "date": "8 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Black-Haired American Grand Marshal Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJsYWNrLWhhaXJlZC1hbWVyaWNhbi1ncmFuZC1tYXJzaGFsLWNoYXB0ZXItMjQv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Black-Haired American Grand Marshal Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJsYWNrLWhhaXJlZC1hbWVyaWNhbi1ncmFuZC1tYXJzaGFsLWNoYXB0ZXItMjMv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Black-Haired American Grand Marshal Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJsYWNrLWhhaXJlZC1hbWVyaWNhbi1ncmFuZC1tYXJzaGFsLWNoYXB0ZXItMjIv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik The Black-Haired American Grand Marshal Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJsYWNrLWhhaXJlZC1hbWVyaWNhbi1ncmFuZC1tYXJzaGFsLWNoYXB0ZXItMjEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -170,5 +176,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }

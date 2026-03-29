@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-22T11:38:33.339340",
+  "scraped_at": "2026-03-29T09:09:25.178489",
   "alternative_titles": "Seirei Gensouki: Another Perspective, 精霊幻想記 ～こんな世界で出会えた君に～, Spirit Chronicles: Another Perspective",
   "status": "Berjalan",
   "author": "Kitayama Yuri",
@@ -25,23 +25,29 @@
   "synopsis": "Manga                    Seirei Gensouki: Konna Sekai de Deaeta Kimi ni yang dibuat oleh komikus bernama\n                    Kitayama Yuri ini bercerita tentang\n                    Celia＝Claire, seorang wanita bangsawan dari keluarga count, lulus lebih awal dari Akademi Kerajaan Bertram pada usia dua belas tahun dan kemudian menjadi instruktur akademi. Sebagai penyihir jenius, Celia sepenuhnya mengabdikan dirinya untuk penelitian sejak usia sangat muda. Akibatnya, ia tumbuh dengan sedikit teman dan sedikit pengalaman masa kecil yang normal. Suatu hari, ia tanpa diduga mengambil alih seorang anak yatim piatu yang tampak lemah bernama Rio sebagai muridnya. Namun, Rio ternyata memiliki kemampuan yang luar biasa tinggi, jauh melampaui apa yang diharapkan dari seorang yatim piatu— Dan dengan demikian dimulailah ikatan yang tak terduga antara seorang profesor muda jenius dan seorang anak laki-laki misterius yang berbakat…!?",
   "chapters": [
     {
+      "chapter": "3.1",
+      "title": "Komik Seirei Gensouki: Konna Sekai de Deaeta Kimi ni Chapter 3.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLWdlbnNvdWtpLWtvbm5hLXNla2FpLWRlLWRlYWV0YS1raW1pLW5pLWNoYXB0ZXItMy0xLw==",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "2.2",
       "title": "Komik Seirei Gensouki: Konna Sekai de Deaeta Kimi ni Chapter 2.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLWdlbnNvdWtpLWtvbm5hLXNla2FpLWRlLWRlYWV0YS1raW1pLW5pLWNoYXB0ZXItMi0yLw==",
-      "date": "5 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2.1",
       "title": "Komik Seirei Gensouki: Konna Sekai de Deaeta Kimi ni Chapter 2.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLWdlbnNvdWtpLWtvbm5hLXNla2FpLWRlLWRlYWV0YS1raW1pLW5pLWNoYXB0ZXItMi0xLw==",
-      "date": "5 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Seirei Gensouki: Konna Sekai de Deaeta Kimi ni Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLWdlbnNvdWtpLWtvbm5hLXNla2FpLWRlLWRlYWV0YS1raW1pLW5pLWNoYXB0ZXItMS8=",
-      "date": "5 jam yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }

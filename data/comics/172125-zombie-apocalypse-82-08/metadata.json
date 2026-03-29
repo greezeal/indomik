@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T05:34:14.964867",
+  "scraped_at": "2026-03-29T09:08:06.616758",
   "alternative_titles": "Zombie Revelation 82-08, 좀비묵시록 82-08",
   "status": "Berjalan",
   "author": "Box Office, Dal-ah",
@@ -25,22 +25,28 @@
   "synopsis": "Manhwa                    Zombie Apocalypse 82-08 yang dibuat oleh komikus bernama\n                    Box Office, Dal-ah ini bercerita tentang\n                    Virus mematikan yang dimulai dengan ‘itu’ dan datang dari dalam kapal misterius… telah mengubah Seoul menjadi kota kematian. Dengan munculnya virus tak terduga ini, seluruh tatanan planet ini diatur ulang. Pertarungan Proyek [Zombie Apocalypse 82-08] untuk bertahan hidup telah dimulai.",
   "chapters": [
     {
+      "chapter": "105",
+      "title": "Komik Zombie Apocalypse 82-08 Chapter 105",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLWFwb2NhbHlwc2UtODItMDgtY2hhcHRlci0xMDUv",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "104",
       "title": "Komik Zombie Apocalypse 82-08 Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLWFwb2NhbHlwc2UtODItMDgtY2hhcHRlci0xMDQv",
-      "date": "12 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik Zombie Apocalypse 82-08 Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLWFwb2NhbHlwc2UtODItMDgtY2hhcHRlci0xMDMv",
-      "date": "12 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Zombie Apocalypse 82-08 Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLWFwb2NhbHlwc2UtODItMDgtY2hhcHRlci0xMDIv",
-      "date": "12 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "101",
@@ -226,7 +232,7 @@
       "chapter": "72",
       "title": "Komik Zombie Apocalypse 82-08 Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLWFwb2NhbHlwc2UtODItMDgtY2hhcHRlci03Mi8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "71",
@@ -634,13 +640,13 @@
       "chapter": "4",
       "title": "Komik Zombie Apocalypse 82-08 Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLWFwb2NhbHlwc2UtODItMDgtY2hhcHRlci00Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Zombie Apocalypse 82-08 Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLWFwb2NhbHlwc2UtODItMDgtY2hhcHRlci0zLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "2",
@@ -661,5 +667,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 106
+  "total_chapters": 107
 }
