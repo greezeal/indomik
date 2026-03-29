@@ -2,11 +2,11 @@
   "slug": "houkago-no-luminous",
   "title": "Houkago no Luminous",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvaG91a2Fnby1uby1sdW1pbm91cy8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDEvS29taWstSG91a2Fnby1uby1MdW1pbm91cy0yMjR4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDEvS29taWstdW5kZWZpbmVkLTIyNngzMTkuanBn",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-09T23:03:57.982819",
+  "scraped_at": "2026-03-29T20:22:16.866640",
   "alternative_titles": "放課後のルミナス, After-School Luminous",
   "status": "Berjalan",
   "author": "Akinaga Minato",
@@ -25,35 +25,41 @@
   "synopsis": "Manga                    Houkago no Luminous yang dibuat oleh komikus bernama\n                    Akinaga Minato ini bercerita tentang\n                    Sebelum Kanata muncul, seorang siswa pindahan, Mashiro, mengaku sebagai tunangannya. Di sinilah kisah cinta fiksi ilmiah yang melibatkan manusia bumi dan alien dimulai!(Sumber: Comic Growl)",
   "chapters": [
     {
+      "chapter": "4.1",
+      "title": "Komik Houkago no Luminous Chapter 4.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1sdW1pbm91cy1jaGFwdGVyLTQtMS8=",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "3.2",
       "title": "Komik Houkago no Luminous Chapter 3.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1sdW1pbm91cy1jaGFwdGVyLTMtMi8=",
-      "date": "39 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3.1",
       "title": "Komik Houkago no Luminous Chapter 3.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1sdW1pbm91cy1jaGFwdGVyLTMtMS8=",
-      "date": "3 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2.2",
       "title": "Komik Houkago no Luminous Chapter 2.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1sdW1pbm91cy1jaGFwdGVyLTItMi8=",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "02.1",
       "title": "Komik Houkago no Luminous Chapter 02.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1sdW1pbm91cy1jaGFwdGVyLTAyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "01",
       "title": "Komik Houkago no Luminous Chapter 01",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1sdW1pbm91cy1jaGFwdGVyLTAxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }

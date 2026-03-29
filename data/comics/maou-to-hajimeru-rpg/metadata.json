@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T10:37:35.398401",
+  "scraped_at": "2026-03-29T20:22:21.748024",
   "alternative_titles": "魔王とはじめるRPG, Starting an RPG with the Demon Lord",
   "status": "Berjalan",
   "author": "Suekane Kumiko",
@@ -27,11 +27,23 @@
   "synopsis": "Manga                    Maou to Hajimeru RPG yang dibuat oleh komikus bernama\n                    Suekane Kumiko ini bercerita tentang\n                    Serangkaian kasus hilangnya orang secara misterius telah menjadi berita utama. Rumor mengatakan bahwa semua orang yang hilang telah \"bereinkarnasi ke dunia lain.\" Yoshimichi, sang protagonis, menganggap gosip itu omong kosong sampai suatu hari, bahkan teman masa kecilnya, Yuma, tiba-tiba menghilang tanpa jejak. Teman sekelasnya, Otogi, bersikeras bahwa hilangnya Yuuma pasti reinkarnasi isekai dan dengan bersemangat menyatakan bahwa dia juga ingin pergi ke dunia lain! Sebelum Yoshimichi dapat menghentikannya, dia menyeretnya ke dalam sebuah bangunan yang mencurigakan?!",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Maou to Hajimeru RPG Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFvdS10by1oYWppbWVydS1ycGctY2hhcHRlci0zLw==",
+      "date": "9 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Maou to Hajimeru RPG Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFvdS10by1oYWppbWVydS1ycGctY2hhcHRlci0yLw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Maou to Hajimeru RPG Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFvdS10by1oYWppbWVydS1ycGctY2hhcHRlci0xLw==",
-      "date": "2 jam yang lalu"
+      "date": "3 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 3
 }

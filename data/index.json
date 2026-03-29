@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T19:49:28.965733",
+  "last_updated": "2026-03-29T20:28:33.615873",
   "total_comics": 1287,
   "comics": [
     {
@@ -288,7 +288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 173
+      "total_chapters": 175
     },
     {
       "slug": "the-legendary-hero-is-an-academy-honors-student",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 192
+      "total_chapters": 193
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1144,7 +1144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 71
+      "total_chapters": 75
     },
     {
       "slug": "chronicles-of-the-lazy-sovereign",
@@ -1304,7 +1304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "outside-of-time",
@@ -1400,7 +1400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.06,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "leveling-up-with-skills",
@@ -1488,7 +1488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "limit-breaking-genius-mage",
@@ -1904,7 +1904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 122
+      "total_chapters": 126
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -2712,15 +2712,15 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 751
+      "total_chapters": 752
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
       "title": "Garbage Brave: Isekai ni Shoukan Sare Suterareta Yuusha no Fukushuu Monogatari",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.91,
+      "total_chapters": 54
     },
     {
       "slug": "kiraware-majo-to-karada-ga-irekawatta-keredo-watashi-wa-kyou-mo-genki-ni-kurashiteimasu",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1097
+      "total_chapters": 1099
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -3816,7 +3816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "im-being-misunderstood-as-a-soccer-genius",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 260
+      "total_chapters": 261
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4680,7 +4680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 24
     },
     {
       "slug": "ogami-tsumiki-to-kinichijou",
@@ -4696,7 +4696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 163
+      "total_chapters": 164
     },
     {
       "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
@@ -4968,7 +4968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 172
+      "total_chapters": 174
     },
     {
       "slug": "tsugihagi-darake-no-saikyou-yuusha",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 153
+      "total_chapters": 157
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5472,7 +5472,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 632
+      "total_chapters": 636
     },
     {
       "slug": "843187-i-regressed-but-the-world-didnt-end",
@@ -5480,7 +5480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 53
+      "total_chapters": 55
     },
     {
       "slug": "165297-legendary-youngest-son-of-the-marquis-house",
@@ -6384,7 +6384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "the-great-heavenly-demon-sovereign",
@@ -6472,7 +6472,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.08,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "289682-to-not-die",
@@ -8064,7 +8064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.32,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "neta-chara-tensei-toka-anmarida",
@@ -8720,7 +8720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "shoukan-sareta-kenja-wa-isekai-o-iku-saikyouna-no-wa-fuyou-zaiko-no-aitemudeshita",
@@ -8936,7 +8936,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.89,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "love-letter-from-the-future",
@@ -9088,7 +9088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "gokinjo-jk-isezaki-san-wa-isekaigaeri-no-daiseijo",
@@ -9208,7 +9208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.09,
-      "total_chapters": 444
+      "total_chapters": 446
     },
     {
       "slug": "the-snow-leopard-baby-of-the-black-leopard-family",
@@ -9272,7 +9272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 21
     },
     {
       "slug": "i-want-to-trick-you",
@@ -9280,7 +9280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 40
     },
     {
       "slug": "for-your-perfect-ending",
@@ -9656,7 +9656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 218
+      "total_chapters": 219
     },
     {
       "slug": "boruto-two-blue-vortex",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -9720,7 +9720,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "isekai-kara-kikan-shitara-chikyuu-mo-kanari-fantajii-deshita-ato-makeheroin-domo-kocchi-minna",
@@ -10176,7 +10176,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 3
     },
     {
       "slug": "hiiragi-san-chi-no-kyuuketsu-jijou",
@@ -10216,7 +10216,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 6
     },
     {
       "slug": "after-transmigrating-i-became-an-urban-legend",
