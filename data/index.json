@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-29T12:30:26.654085",
-  "total_comics": 1285,
+  "last_updated": "2026-03-29T13:43:22.802027",
+  "total_comics": 1287,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -224,7 +224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.97,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "oukoku-e-tsuzuku-michi",
@@ -1368,7 +1368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "i-became-a-munchkin-skill-thief",
@@ -2864,7 +2864,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.39,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "ao-no-hako",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 259
+      "total_chapters": 260
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 181
+      "total_chapters": 182
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4664,7 +4664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 102
+      "total_chapters": 103
     },
     {
       "slug": "734821-chronicles-of-the-demon-faction",
@@ -4984,7 +4984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 87
+      "total_chapters": 90
     },
     {
       "slug": "822659-black-corporation-joseon",
@@ -4992,7 +4992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 138
+      "total_chapters": 140
     },
     {
       "slug": "death-game-ni-makikomareta-yamamoto-san-kimama-ni-game-balance-wo-houkaisaseru",
@@ -6168,7 +6168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 22
     },
     {
       "slug": "girl-go",
@@ -6480,7 +6480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 207
+      "total_chapters": 208
     },
     {
       "slug": "360193-true-education",
@@ -7800,7 +7800,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "spare-me-great-lord",
@@ -8296,7 +8296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "sotsugyou-album-no-kanojotachi",
@@ -8400,7 +8400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "half-blood",
@@ -9160,7 +9160,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 19
     },
     {
       "slug": "monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken",
@@ -9328,7 +9328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "feasting-lord-in-another-world",
@@ -9672,7 +9672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 13
+      "total_chapters": 16
     },
     {
       "slug": "the-magic-theory-of-the-regressed-sword-saint",
@@ -9800,7 +9800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "dancer",
@@ -9832,7 +9832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 4
     },
     {
       "slug": "mezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai",
@@ -9904,7 +9904,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 128
+      "total_chapters": 129
     },
     {
       "slug": "mr-magical-girl",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 83
+      "total_chapters": 84
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -10281,6 +10281,22 @@
       "status": "Berjalan",
       "rating": 7.71,
       "total_chapters": 30
+    },
+    {
+      "slug": "kesa-mo-yuraretemasu",
+      "title": "Kesa Mo Yuraretemasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.8,
+      "total_chapters": 39
+    },
+    {
+      "slug": "dou-ka-ore-wo-houtte-oitekure",
+      "title": "Dou ka Ore wo Houtte Oitekure",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 39
     }
   ]
 }

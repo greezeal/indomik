@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T03:36:23.578682",
+  "scraped_at": "2026-03-29T13:39:06.671979",
   "alternative_titles": "오늘만 사는 기사",
   "status": "Berjalan",
   "author": "Ganala, Lee Hyeon-Min, Soul Wind",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Eternally Regressing Knight yang dibuat oleh komikus bernama\n                    Ganala, Lee Hyeon-Min, Soul Wind ini bercerita tentang\n                    \"Kamu jenius.\" Kata-kata yang dia dengar saat kecil adalah racun.\r\nEncrid bermimpi menjadi seorang ksatria, tapi dia segera menyadari bahwa itu sia-sia.\r\n“Kamu ingin hidup dengan pedang dengan tingkat keterampilan seperti itu?” Beberapa orang menertawakannya.\r\n\"Menyerah saja.\" Beberapa orang menasihatinya untuk tidak melakukannya.\r\nMeski begitu, mimpinya tetap teguh. Dia kurang tidur, lebih banyak berlari, dan berlatih lebih keras.\r\nSuatu hari, dia meninggal karena ditikam di bagian leher. Encrid membuka matanya lagi untuk pagi \"hari ini\".",
   "chapters": [
     {
+      "chapter": "103",
+      "title": "Komik Eternally Regressing Knight Chapter 103",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItMTAzLw==",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "102",
       "title": "Komik Eternally Regressing Knight Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItMTAyLw==",
-      "date": "3 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "101",
@@ -34,7 +40,7 @@
       "chapter": "100",
       "title": "Komik Eternally Regressing Knight Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItMTAwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "99",
@@ -82,7 +88,7 @@
       "chapter": "92",
       "title": "Komik Eternally Regressing Knight Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItOTIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "91",
@@ -184,7 +190,7 @@
       "chapter": "75",
       "title": "Komik Eternally Regressing Knight Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItNzUv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -208,7 +214,7 @@
       "chapter": "71",
       "title": "Komik Eternally Regressing Knight Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItNzEv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -286,7 +292,7 @@
       "chapter": "58",
       "title": "Komik Eternally Regressing Knight Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItNTgv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "57",
@@ -328,7 +334,7 @@
       "chapter": "51",
       "title": "Komik Eternally Regressing Knight Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItNTEv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "50",
@@ -484,7 +490,7 @@
       "chapter": "25",
       "title": "Komik Eternally Regressing Knight Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXRlcm5hbGx5LXJlZ3Jlc3Npbmcta25pZ2h0LWNoYXB0ZXItMjUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "24",
@@ -631,5 +637,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 102
+  "total_chapters": 103
 }

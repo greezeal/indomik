@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-20T09:59:11.381147",
+  "scraped_at": "2026-03-29T13:41:36.427042",
   "alternative_titles": "Princess Reincarnation: The Legendary Arch Mage (♂) Becomes a Princess Knight and Creates a Legendary Order of Lady Knights and Becomes Unrivaled, 皇女転生 ～伝説の大魔導士(♂)、姫騎士となりて伝説の令嬢騎士団を作り無双する～, 皇女轉生 ~傳說中的大魔導士（♂）變成女騎士、創立傳說的大小姐騎士團開無雙~, 皇女转生～传说中的大魔导士（♂）变成女骑士，创立传说",
   "status": "Berjalan",
   "author": "Shiraishi Arata",
@@ -24,17 +24,29 @@
   "synopsis": "Manga                    Koujo Tensei: Densetsu no Dai Madoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan o Tsukuri Musou Suru yang dibuat oleh komikus bernama\n                    Shiraishi Arata ini bercerita tentang\n                    \"Aku juga ingin menjadi... yang terkuat di dunia.\"\r\n\r\nSeorang Arch Mage yang meninggal tanpa mewujudkan mimpinya terbangun dan mendapati dirinya bereinkarnasi sebagai anggota keluarga kekaisaran. Dan yang lebih hebat lagi, tubuh barunya memiliki bakat dalam pertarungan jarak dekat! Kali ini ia berharap akhirnya dapat mewujudkan keinginannya untuk menjadi yang terkuat di dunia...\r\n\r\nNamun setelah bereinkarnasi, nama barunya adalah Evangeline. Memang, ia telah menjadi seorang perempuan.\r\n\r\nDalam kehidupan putri yang latihan otot dan pertarungan dilarang, Eva membawa dumbel ke kamarnya dan menggunakan pedang! Dan tak lama kemudian, ia menjadi yang terkuat!?\r\n\r\nSebuah fantasi tentang perjalanan seorang putri tomboy menuju puncak!",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Koujo Tensei: Densetsu no Dai Madoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan o Tsukuri Musou Suru Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291am8tdGVuc2VpLWRlbnNldHN1LW5vLWRhaS1tYWRvdXNoaS0lZTIlOTklODItaGltZS1raXNoaS10by1uYXJpdGUtZGVuc2V0c3Utbm8tcmVpam91LWtpc2hpZGFuLW8tdHN1a3VyaS1tdXNvdS1zdXJ1LWNoYXB0ZXItNC8=",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Koujo Tensei: Densetsu no Dai Madoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan o Tsukuri Musou Suru Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291am8tdGVuc2VpLWRlbnNldHN1LW5vLWRhaS1tYWRvdXNoaS0lZTIlOTklODItaGltZS1raXNoaS10by1uYXJpdGUtZGVuc2V0c3Utbm8tcmVpam91LWtpc2hpZGFuLW8tdHN1a3VyaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMy8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Koujo Tensei: Densetsu no Dai Madoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan o Tsukuri Musou Suru Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291am8tdGVuc2VpLWRlbnNldHN1LW5vLWRhaS1tYWRvdXNoaS0lZTIlOTklODItaGltZS1raXNoaS10by1uYXJpdGUtZGVuc2V0c3Utbm8tcmVpam91LWtpc2hpZGFuLW8tdHN1a3VyaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMi8=",
-      "date": "37 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Koujo Tensei: Densetsu no Dai Madoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan o Tsukuri Musou Suru Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291am8tdGVuc2VpLWRlbnNldHN1LW5vLWRhaS1tYWRvdXNoaS0lZTIlOTklODItaGltZS1raXNoaS10by1uYXJpdGUtZGVuc2V0c3Utbm8tcmVpam91LWtpc2hpZGFuLW8tdHN1a3VyaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMS8=",
-      "date": "37 menit yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 4
 }

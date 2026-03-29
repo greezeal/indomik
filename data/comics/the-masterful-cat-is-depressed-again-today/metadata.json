@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T03:32:38.018846",
+  "scraped_at": "2026-03-29T13:38:43.078926",
   "alternative_titles": "デキる猫は今日も憂鬱, デキ猫, Dekiru Neko wa Kyō mo Yūutsu, DekiNeko, The Masterful Cat Is Depressed Again Today, Кот-мастер на все лапки сегодня снова грустит, Kucing Mahir Tertekan Lagi, Hari Ini, เรื่องน่ากลุ้มของเจ้าเหมียวผู้สามารถ, 야무진 고양이는 오늘도 우울, 能干的猫今天也忧郁",
   "status": "Berjalan",
   "author": "Yamada Hitsuzi",
@@ -22,28 +22,34 @@
   "synopsis": "Manga                    The Masterful Cat Is Depressed Again Today yang dibuat oleh komikus bernama\n                    Yamada Hitsuzi ini bercerita tentang\n                    Ketika Saku mengadopsi seekor anak kucing hitam liar, dia tidak pernah menyangka kucing itu akan tumbuh menjadi pasangan hidupnya. Namun Yukichi, seekor kucing raksasa yang lebih tinggi dari Saku sendiri, bukanlah kucing biasa. Dia sangat bangga dengan kemampuan memasaknya, dan diskon besar di supermarket membuat kumisnya berkedut. Saku mungkin belum melupakan amarahnya, tetapi setidaknya dia sekarang memiliki Yukichi!",
   "chapters": [
     {
+      "chapter": "55",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTUv",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "54",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTQv",
-      "date": "3 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTMv",
-      "date": "3 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTIv",
-      "date": "3 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTEv",
-      "date": "3 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "50",
@@ -364,5 +370,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 57
+  "total_chapters": 58
 }
