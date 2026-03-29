@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T17:00:27.367440",
+  "last_updated": "2026-03-29T17:48:49.132763",
   "total_comics": 1287,
   "comics": [
     {
@@ -16,7 +16,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "226919-academys-undercover-professor",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "magic-emperor",
@@ -5064,7 +5064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.13,
-      "total_chapters": 309
+      "total_chapters": 312
     },
     {
       "slug": "kajiya-de-hajimeru-isekai-slow-life",
@@ -6272,7 +6272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.68,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "deretai-kanojo-no-uraomote",
@@ -6376,7 +6376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "kagurabachi",
@@ -6776,7 +6776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 36
     },
     {
       "slug": "invincible-in-the-apocalypse-proposing-marriage-at-your-doorstep",
