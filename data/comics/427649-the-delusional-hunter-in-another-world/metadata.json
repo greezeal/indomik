@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-26T18:47:28.151107",
+  "scraped_at": "2026-03-30T15:19:55.724150",
   "alternative_titles": "Otherworldly Illusion Hunter, The Hunter of the Other World Who Is Being Misunderstood, 이세계 착각 헌터",
   "status": "Berjalan",
   "author": "Dae Dae Won",
@@ -23,28 +23,34 @@
   "synopsis": "Manhwa                    The Delusional Hunter in Another World yang dibuat oleh komikus bernama\n                    Dae Dae Won ini bercerita tentang\n                    Saya punya rahasia kecil: planet asal saya adalah dunia asing yang jauh. Bosan dengan pekerjaan yang tidak dibayar dan lembur yang tak ada habisnya, saya melarikan diri ke planet yang jauh bernama \"Bumi\"—sebagai roh! Namun, dari semua hal, saya bereinkarnasi ke dalam tubuh yang mati kelaparan!\r\n\r\nDapatkah Gireo, alien yang mendarat darurat di Bumi, menyembunyikan identitas aslinya dan beradaptasi dengan dunia baru ini?",
   "chapters": [
     {
+      "chapter": "82",
+      "title": "Komik The Delusional Hunter in Another World Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci04Mi8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "81",
       "title": "Komik The Delusional Hunter in Another World Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci04MS8=",
-      "date": "21 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik The Delusional Hunter in Another World Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci04MC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik The Delusional Hunter in Another World Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci03OS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik The Delusional Hunter in Another World Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci03OC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "77",
@@ -509,5 +515,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 81
+  "total_chapters": 82
 }

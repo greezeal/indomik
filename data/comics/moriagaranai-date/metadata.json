@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.97,
-  "scraped_at": "2026-03-29T17:47:11.064847",
+  "scraped_at": "2026-03-30T15:22:11.500190",
   "alternative_titles": "盛りあがらないデート, Unexciting Date",
   "status": "Berjalan",
   "author": "Suzuyuki",
@@ -20,16 +20,28 @@
   "synopsis": "Manga                    Moriagaranai Date yang dibuat oleh komikus bernama\n                    Suzuyuki ini bercerita tentang\n                    Kencan yang Biasa Saja di Aplikasi Kencan…\r\n\r\nHaida, yang selalu sial, mendaftar di aplikasi kencan sebagai bagian dari fase \"masa bodohnya\". Ia cocok dengan Kuroi, seorang pria yang bergabung karena alasan yang sama gegabahnya. Namun percakapan mereka tidak pernah berjalan lancar, dan suasana canggung yang tak terbantahkan pun tercipta. Semua yang mereka lakukan selalu gagal, menghasilkan kencan yang sangat membosankan.\r\n\r\nBerpikir tidak mungkin akan ada kencan kedua dalam suasana seperti ini… tunggu, apa? Mengapa mereka berencana untuk bertemu lagi!?\r\n\r\nKencan pertama dengan seseorang yang Anda temui di aplikasi kencan yang tidak berjalan lancar? Obrolan datar dan surealisnya sangat adiktif! Sebuah kisah romantis yang berkembang perlahan dan lembut yang dimulai dari aplikasi perjodohan.",
   "chapters": [
     {
+      "chapter": "12.5",
+      "title": "Komik Moriagaranai Date Chapter 12.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci0xMi01Lw==",
+      "date": "28 menit yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Moriagaranai Date Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci0xMi8=",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Moriagaranai Date Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci0xMS8=",
-      "date": "58 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Moriagaranai Date Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaWFnYXJhbmFpLWRhdGUtY2hhcHRlci0xMC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -92,5 +104,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 14
 }
