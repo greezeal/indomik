@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-22T20:42:04.796696",
+  "scraped_at": "2026-03-30T10:54:13.151845",
   "alternative_titles": "子ども扱いしないでください！　幼女化しちゃった完璧淑女は、騎士団長に甘やかされる",
   "status": "Berjalan",
   "author": "Sasaki Saki (佐崎咲)",
@@ -18,23 +18,35 @@
   "synopsis": "Manga                    Kodomo Atsukai Shinaide Kudasai! – Youjoka Shichatta Kanpeki Shukujo wa, Kishi Danchou ni Amayakasareru yang dibuat oleh komikus bernama\n                    Sasaki Saki (佐崎咲) ini bercerita tentang\n                    Rose, seorang wanita muda yang dijuluki \"wanita sempurna,\" menjalani hidup yang dipenuhi masalah tanpa henti yang disebabkan oleh kakak perempuannya yang merepotkan, teman masa kecilnya, dan tunangannya. Setiap kali stresnya mencapai puncaknya, ia tanpa alasan yang jelas berubah menjadi anak kecil! Namun, bahkan Rose pun menemukan ketenangan pikiran saat bersama Yuan, komandan ksatria yang dikenal sebagai \"Pangeran Tersenyum.\" Menyembunyikan identitas aslinya dan berbicara dengannya dalam wujud anak kecil memberinya rasa tenang yang aneh. Tapi sepertinya Yuan lebih tertarik pada Rose yang sudah dewasa…",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Kodomo Atsukai Shinaide Kudasai! – Youjoka Shichatta Kanpeki Shukujo wa, Kishi Danchou ni Amayakasareru Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29kb21vLWF0c3VrYWktc2hpbmFpZGUta3VkYXNhaS15b3Vqb2thLXNoaWNoYXR0YS1rYW5wZWtpLXNodWt1am8td2Eta2lzaGktZGFuY2hvdS1uaS1hbWF5YWthc2FyZXJ1LWNoYXB0ZXItNS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Kodomo Atsukai Shinaide Kudasai! – Youjoka Shichatta Kanpeki Shukujo wa, Kishi Danchou ni Amayakasareru Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29kb21vLWF0c3VrYWktc2hpbmFpZGUta3VkYXNhaS15b3Vqb2thLXNoaWNoYXR0YS1rYW5wZWtpLXNodWt1am8td2Eta2lzaGktZGFuY2hvdS1uaS1hbWF5YWthc2FyZXJ1LWNoYXB0ZXItNC8=",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Kodomo Atsukai Shinaide Kudasai! – Youjoka Shichatta Kanpeki Shukujo wa, Kishi Danchou ni Amayakasareru Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29kb21vLWF0c3VrYWktc2hpbmFpZGUta3VkYXNhaS15b3Vqb2thLXNoaWNoYXR0YS1rYW5wZWtpLXNodWt1am8td2Eta2lzaGktZGFuY2hvdS1uaS1hbWF5YWthc2FyZXJ1LWNoYXB0ZXItMy8=",
-      "date": "41 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Kodomo Atsukai Shinaide Kudasai! – Youjoka Shichatta Kanpeki Shukujo wa, Kishi Danchou ni Amayakasareru Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29kb21vLWF0c3VrYWktc2hpbmFpZGUta3VkYXNhaS15b3Vqb2thLXNoaWNoYXR0YS1rYW5wZWtpLXNodWt1am8td2Eta2lzaGktZGFuY2hvdS1uaS1hbWF5YWthc2FyZXJ1LWNoYXB0ZXItMi8=",
-      "date": "41 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Kodomo Atsukai Shinaide Kudasai! – Youjoka Shichatta Kanpeki Shukujo wa, Kishi Danchou ni Amayakasareru Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29kb21vLWF0c3VrYWktc2hpbmFpZGUta3VkYXNhaS15b3Vqb2thLXNoaWNoYXR0YS1rYW5wZWtpLXNodWt1am8td2Eta2lzaGktZGFuY2hvdS1uaS1hbWF5YWthc2FyZXJ1LWNoYXB0ZXItMS8=",
-      "date": "41 menit yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 5
 }

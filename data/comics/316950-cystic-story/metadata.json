@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T20:23:22.431998",
+  "scraped_at": "2026-03-30T10:56:33.532237",
   "alternative_titles": "Call The Spear, Seongi Hwan Talk, 낭선기환담",
   "status": "Berjalan",
   "author": "Kim Soon-Tae",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Cystic Story yang dibuat oleh komikus bernama\n                    Kim Soon-Tae ini bercerita tentang\n                    San-gun, pemilik gunung yang terlahir kembali sebagai harimau dan hidup sebagai roh. Seorang gadis datang ke depan pasukan gunung yang hidup dalam damai. Gadis yang tiba-tiba berkata dia akan membawamu sebagai seorang Jia. Pendaki gunung yang merepotkan mencoba mengusirnya, tetapi dia tidak punya tempat untuk kembali. Seorang pria gunung yang akhirnya memutuskan untuk mengambil kembali seorang gadis. Dan ada banyak ancaman baginya.",
   "chapters": [
     {
+      "chapter": "220",
+      "title": "Komik Cystic Story Chapter 220",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3lzdGljLXN0b3J5LWNoYXB0ZXItMjIwLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "219",
       "title": "Komik Cystic Story Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3lzdGljLXN0b3J5LWNoYXB0ZXItMjE5Lw==",
-      "date": "13 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "218",
@@ -34,7 +40,7 @@
       "chapter": "217",
       "title": "Komik Cystic Story Chapter 217",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3lzdGljLXN0b3J5LWNoYXB0ZXItMjE3Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "216",
@@ -1333,5 +1339,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 219
+  "total_chapters": 220
 }

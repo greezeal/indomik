@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T09:47:23.115173",
-  "total_comics": 1287,
+  "last_updated": "2026-03-30T11:00:02.721385",
+  "total_comics": 1290,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -392,7 +392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "male-god-your-persona-has-collapsed",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 507
+      "total_chapters": 508
     },
     {
       "slug": "marriagetoxin",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 116
+      "total_chapters": 118
     },
     {
       "slug": "isshou-senkin",
@@ -1136,7 +1136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "643745-ranger-reject",
@@ -1336,7 +1336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "495189-heavenly-inquisition-sword",
@@ -1840,7 +1840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "228639-martial-god-regressed-to-level-2",
@@ -2696,7 +2696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "return-of-the-apocalypse-class-death-knight",
@@ -2782,9 +2782,9 @@
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
       "title": "Mob Shisai Dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine wo Ikusei Shimasu",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.34,
+      "total_chapters": 7
     },
     {
       "slug": "master-of-all-skills",
@@ -4528,7 +4528,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 71
+      "total_chapters": 75
     },
     {
       "slug": "single-dad-in-another-world",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 85
+      "total_chapters": 87
     },
     {
       "slug": "colorist",
@@ -4680,7 +4680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "ogami-tsumiki-to-kinichijou",
@@ -5256,7 +5256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "defense-breaker",
@@ -6448,7 +6448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "starting-with-ten-billion-spirit-stones-i-buy-out-the-fantasy-world",
@@ -6456,7 +6456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "demon-god-of-apocalyptic-behemoth",
@@ -6520,7 +6520,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 143
+      "total_chapters": 144
     },
     {
       "slug": "dao-of-the-bizarre-immortal",
@@ -6528,7 +6528,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 77
     },
     {
       "slug": "the-lucky-plan-of-an-idol-in-his-second-life",
@@ -6560,7 +6560,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "after-improperly-licking-a-dog-i-became-a-billionaire",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -7320,7 +7320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 64
     },
     {
       "slug": "the-demon-king-who-lost-his-job",
@@ -7704,7 +7704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 190
+      "total_chapters": 191
     },
     {
       "slug": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
@@ -7936,7 +7936,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 13
     },
     {
       "slug": "itsuka-sora-kara",
@@ -8360,7 +8360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 110
     },
     {
       "slug": "myriad-tribes-invasion-rearguards-resolute-unity",
@@ -8600,7 +8600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 342
+      "total_chapters": 343
     },
     {
       "slug": "isekai-nonbiri-nouka",
@@ -9064,7 +9064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 74
     },
     {
       "slug": "bouken-ni-iku-fuku-ga-nai",
@@ -9304,7 +9304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "kijin-gentoushou",
@@ -9336,7 +9336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "535987-the-emperors-sword",
@@ -9544,7 +9544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "ore-ni-trauma-wo-ataeta-joshi-tachi-ga-chirachira-mitekuru-kedo-zannen-desu-ga-teokure-desu",
@@ -9656,7 +9656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 219
+      "total_chapters": 220
     },
     {
       "slug": "boruto-two-blue-vortex",
@@ -9680,7 +9680,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 8
     },
     {
       "slug": "fukushuu-o-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru",
@@ -9896,7 +9896,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 5
     },
     {
       "slug": "heroes-demons-villains",
@@ -10280,7 +10280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "kesa-mo-yuraretemasu",
@@ -10297,6 +10297,30 @@
       "status": "Berjalan",
       "rating": 7.59,
       "total_chapters": 39
+    },
+    {
+      "slug": "hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
+      "title": "Hazure Waku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 71
+    },
+    {
+      "slug": "the-villains-pure-love",
+      "title": "The Villain’s Pure Love",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 20
+    },
+    {
+      "slug": "danshi-kinsei-game-sekai-de-ore-ga-yarubeki-yuiitsu-no-koto-yuri-no-ma-ni-hasamaru-otoko-to-shite-tensei-shite-shimaimashita",
+      "title": "Danshi Kinsei Game Sekai de Ore ga Yarubeki Yuiitsu no Koto – Yuri no Ma ni Hasamaru Otoko to Shite Tensei shite shimaimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.26,
+      "total_chapters": 13
     }
   ]
 }

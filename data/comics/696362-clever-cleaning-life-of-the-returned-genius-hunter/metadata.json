@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T13:42:42.076870",
+  "scraped_at": "2026-03-30T10:57:01.204783",
   "alternative_titles": "The Sagacious Cleaning Life of a Returned Genius Hunter, Мудрая уборка жизни вернувшегося охотника за гениями, 회귀한 천재 헌터의 슬기로운 청소생활",
   "status": "Berjalan",
   "author": "Dalbeat",
@@ -20,22 +20,28 @@
   "synopsis": "Manhwa                    Clever Cleaning Life Of The Returned Genius Hunter yang dibuat oleh komikus bernama\n                    Dalbeat ini bercerita tentang\n                    Kim Jun-Woo, pemburu jenius peringkat SSS pertama di dunia.\r\nDia adalah pengguna kemampuan yang luar biasa, tetapi kepribadiannya yang mengerikan menyebabkan masalah dengan reputasinya.\r\nDi tengah kesulitannya, dia diserang dan dibunuh oleh kelompok tak dikenal.\r\nDan ketika dia membuka matanya, dia telah kembali ke masa lalu 10 tahun yang lalu.\r\n\r\nMeskipun ia mencoba menjadi pemburu lagi dan menaikkan pangkatnya, semua keterampilannya disegel oleh karma kehidupan sebelumnya.\r\nAgar itu bisa dirilis, dia harus bekerja sebagai 'Pembersih Dungeon', yang terkenal sangat tangguh di industri ini?!\r\n\r\nTapi pembersih ini, dia berbeda!\r\nTidak hanya monster—pemburu yang merepotkan, atasan hanya mengambil posisi setelah mereka dipekerjakan karena nepotisme, dan bahkan orang-orang yang akan menjadi rekan kerja dengannya.\r\nDia membuat kekacauan total untuk membersihkan semuanya.\r\nMantan pemburu, yang lebih kuat dari pemburu saat ini, dan pembersihan gilanya dimulai!",
   "chapters": [
     {
+      "chapter": "144",
+      "title": "Komik Clever Cleaning Life Of The Returned Genius Hunter Chapter 144",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xldmVyLWNsZWFuaW5nLWxpZmUtb2YtdGhlLXJldHVybmVkLWdlbml1cy1odW50ZXItY2hhcHRlci0xNDQv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "143",
       "title": "Komik Clever Cleaning Life Of The Returned Genius Hunter Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xldmVyLWNsZWFuaW5nLWxpZmUtb2YtdGhlLXJldHVybmVkLWdlbml1cy1odW50ZXItY2hhcHRlci0xNDMv",
-      "date": "8 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "142",
       "title": "Komik Clever Cleaning Life Of The Returned Genius Hunter Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xldmVyLWNsZWFuaW5nLWxpZmUtb2YtdGhlLXJldHVybmVkLWdlbml1cy1odW50ZXItY2hhcHRlci0xNDIv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "141",
       "title": "Komik Clever Cleaning Life Of The Returned Genius Hunter Chapter 141",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xldmVyLWNsZWFuaW5nLWxpZmUtb2YtdGhlLXJldHVybmVkLWdlbml1cy1odW50ZXItY2hhcHRlci0xNDEv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "140",
@@ -65,7 +71,7 @@
       "chapter": "136",
       "title": "Komik Clever Cleaning Life Of The Returned Genius Hunter Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xldmVyLWNsZWFuaW5nLWxpZmUtb2YtdGhlLXJldHVybmVkLWdlbml1cy1odW50ZXItY2hhcHRlci0xMzYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "135",
@@ -149,7 +155,7 @@
       "chapter": "122",
       "title": "Komik Clever Cleaning Life Of The Returned Genius Hunter Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xldmVyLWNsZWFuaW5nLWxpZmUtb2YtdGhlLXJldHVybmVkLWdlbml1cy1odW50ZXItY2hhcHRlci0xMjIv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "121",
@@ -257,7 +263,7 @@
       "chapter": "104",
       "title": "Komik Clever Cleaning Life Of The Returned Genius Hunter Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xldmVyLWNsZWFuaW5nLWxpZmUtb2YtdGhlLXJldHVybmVkLWdlbml1cy1odW50ZXItY2hhcHRlci0xMDQv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "103",
@@ -878,5 +884,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 143
+  "total_chapters": 144
 }

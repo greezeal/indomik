@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.89,
-  "scraped_at": "2026-03-29T13:42:49.665779",
+  "scraped_at": "2026-03-30T10:55:31.016476",
   "alternative_titles": "Bluelock, Mavi Kilit, Синяя Тюрьма: Блю Лок , ブルーロック",
   "status": "Berjalan",
   "author": "Kaneshiro Muneyuki",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    Blue Lock yang dibuat oleh komikus bernama\n                    Kaneshiro Muneyuki ini bercerita tentang\n                    Yoichi Isagi kehilangan kesempatan untuk pergi ke kejuaraan sekolah menengah nasional karena dia memberikan kepada rekan setimnya yang absen alih-alih menembak dirinya sendiri. Isagi adalah salah satu dari 300 striker U-18 yang dipilih oleh Jinpachi Ego, pria yang dipekerjakan oleh Asosiasi Sepak Bola Jepang setelah Piala Dunia FIFA 2018, untuk memandu Jepang memenangkan Piala Dunia dengan menghancurkan sepak bola Jepang. Rencana Ego adalah mengisolasi 300 striker ke dalam lembaga seperti penjara yang disebut \"Blue Lock\", untuk menciptakan \"egois\" / striker terbesar di dunia, yang selama ini kurang di sepak bola Jepang.",
   "chapters": [
     {
+      "chapter": "339",
+      "title": "Komik Blue Lock Chapter 339",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmx1ZS1sb2NrLWNoYXB0ZXItMzM5Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "338",
       "title": "Komik Blue Lock Chapter 338",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmx1ZS1sb2NrLWNoYXB0ZXItMzM4Lw==",
-      "date": "8 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "337",
       "title": "Komik Blue Lock Chapter 337",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmx1ZS1sb2NrLWNoYXB0ZXItMzM3Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "336",
@@ -48,7 +54,7 @@
       "chapter": "334",
       "title": "Komik Blue Lock Chapter 334",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmx1ZS1sb2NrLWNoYXB0ZXItMzM0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "333",
@@ -72,7 +78,7 @@
       "chapter": "330",
       "title": "Komik Blue Lock Chapter 330",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmx1ZS1sb2NrLWNoYXB0ZXItMzMwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "329",
@@ -1224,7 +1230,7 @@
       "chapter": "140",
       "title": "Komik Blue Lock Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmx1ZS1sb2NrLWNoYXB0ZXItMTQwLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "139",
@@ -2073,5 +2079,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 342
+  "total_chapters": 343
 }
