@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.14,
-  "scraped_at": "2026-03-15T10:18:16.410060",
+  "scraped_at": "2026-03-31T09:53:31.509888",
   "alternative_titles": "尸山血海, A Mountain of Corpses, A Sea of Blood",
   "status": "Berjalan",
   "author": "Tian Can Tudou (天蚕土豆),漫叔,Snap Studio",
@@ -28,28 +28,40 @@
   "synopsis": "Manhua                    Sea of Blood Mountain of Bones yang dibuat oleh komikus bernama\n                    Tian Can Tudou (天蚕土豆),漫叔,Snap Studio ini bercerita tentang\n                    Dalam pertempuran terakhir yang merenggut nyawa mereka berdua, pahlawan terkuat, \"Gelong\", gugur bersama Raja Iblis. Lima tahun kemudian, ia terlahir kembali—hanya untuk terbangun di jantung wilayah musuhnya, jiwanya kini mendiami tubuh lemah seorang iblis rendahan. Namun, kekuatan tak terduga bergejolak di dalam tubuh yang lemah ini, dinyalakan oleh jiwanya sendiri: kekuatan evolusi kuno Dewa Ular. Gelong, seorang pria yang dulunya terkenal karena keganasannya yang melampaui iblis itu sendiri—lautan darah apa yang akan ia kobarkan dengan tubuh yang benar-benar iblis?",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Sea of Blood Mountain of Bones Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VhLW9mLWJsb29kLW1vdW50YWluLW9mLWJvbmVzLWNoYXB0ZXItMjcv",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Sea of Blood Mountain of Bones Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VhLW9mLWJsb29kLW1vdW50YWluLW9mLWJvbmVzLWNoYXB0ZXItMjYv",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Sea of Blood Mountain of Bones Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VhLW9mLWJsb29kLW1vdW50YWluLW9mLWJvbmVzLWNoYXB0ZXItMjUv",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Sea of Blood Mountain of Bones Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VhLW9mLWJsb29kLW1vdW50YWluLW9mLWJvbmVzLWNoYXB0ZXItMjQv",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Sea of Blood Mountain of Bones Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VhLW9mLWJsb29kLW1vdW50YWluLW9mLWJvbmVzLWNoYXB0ZXItMjMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Sea of Blood Mountain of Bones Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VhLW9mLWJsb29kLW1vdW50YWluLW9mLWJvbmVzLWNoYXB0ZXItMjIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -184,5 +196,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 28
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-30T12:02:50.935707",
+  "scraped_at": "2026-03-31T09:53:38.755713",
   "alternative_titles": "Returned as a Martial Genius, I Came Back and I Was a Martial Genius, I Came Back, a Martial Genius, Returned as a Martial Arts Genius, When I Went Back, I Was a Martial Arts Genius, 회귀했더니 무공 천재",
   "status": "Berjalan",
   "author": "Kim Yi-Seung",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    Return Of The Martial Arts Genius yang dibuat oleh komikus bernama\n                    Kim Yi-Seung ini bercerita tentang\n                    Tidak peduli berapa kali aku menggunakan pedang. Saya tidak berbakat dan memalukan bagi keluarga saya, dan tidak pernah bisa mencapai apa pun. Pada akhirnya, saya mati begitu saja setelah bencana alam terjadi.\r\n\r\n… Saya pikir saya telah mati, tetapi saya kembali ke tujuh tahun yang lalu, dengan semua statistik saya utuh.",
   "chapters": [
     {
+      "chapter": "112",
+      "title": "Komik Return Of The Martial Arts Genius Chapter 112",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1tYXJ0aWFsLWFydHMtZ2VuaXVzLWNoYXB0ZXItMTEyLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "111",
       "title": "Komik Return Of The Martial Arts Genius Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1tYXJ0aWFsLWFydHMtZ2VuaXVzLWNoYXB0ZXItMTExLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "110",
@@ -683,5 +689,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 110
+  "total_chapters": 111
 }

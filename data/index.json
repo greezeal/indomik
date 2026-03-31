@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T08:43:46.437799",
-  "total_comics": 1298,
+  "last_updated": "2026-03-31T09:57:16.512050",
+  "total_comics": 1301,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -38,9 +38,9 @@
       "slug": "462789-the-tutorial-is-too-hard",
       "title": "The Tutorial is Too Hard",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.28,
+      "total_chapters": 251
     },
     {
       "slug": "50kg-cinderella",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 108
+      "total_chapters": 109
     },
     {
       "slug": "magic-emperor",
@@ -408,7 +408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 101
     },
     {
       "slug": "the-apex-of-dragon-mastery",
@@ -1288,7 +1288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.14,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "194784-baek-xx",
@@ -1784,7 +1784,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.2,
-      "total_chapters": 141
+      "total_chapters": 142
     },
     {
       "slug": "the-turn-bound-mage",
@@ -2000,7 +2000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 314
+      "total_chapters": 315
     },
     {
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
@@ -2080,7 +2080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "847799-myst-might-mayhem",
@@ -2856,7 +2856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "245396-dark-gathering",
@@ -3000,7 +3000,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 39
     },
     {
       "slug": "different-kings",
@@ -3040,7 +3040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life",
@@ -3208,7 +3208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 23
     },
     {
       "slug": "a-lazy-guy-woke-up-as-a-girl-one-morning",
@@ -3960,7 +3960,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "i-took-over-the-academy-with-a-single-sashimi-knife",
@@ -4624,7 +4624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "712877-regressor-of-the-fallen-family",
@@ -4680,7 +4680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "ogami-tsumiki-to-kinichijou",
@@ -4928,7 +4928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.0,
-      "total_chapters": 19
+      "total_chapters": 22
     },
     {
       "slug": "around-forty",
@@ -5312,7 +5312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "kimi-no-kokoro-wo-kanjitai",
@@ -5344,7 +5344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 118
+      "total_chapters": 120
     },
     {
       "slug": "the-vehement-emperor-of-steel",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 117
+      "total_chapters": 119
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -6256,7 +6256,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 35
+      "total_chapters": 41
     },
     {
       "slug": "jibun-no-koto-o-shujinkouda-to-shinjite-yamanai-fumidai-ga-shujinkou-o-fumidai-da-to-kanchigai-shite-yuushou-shite-shimau-o-hanashi-desu",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -7936,7 +7936,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "itsuka-sora-kara",
@@ -8360,7 +8360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 111
     },
     {
       "slug": "myriad-tribes-invasion-rearguards-resolute-unity",
@@ -8856,7 +8856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "red-shirt",
@@ -8880,7 +8880,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.34,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen",
@@ -9360,7 +9360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 42
     },
     {
       "slug": "642830-reincarnated-as-an-aristocrat-with-an-appraisal-skill",
@@ -9416,7 +9416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "osananajimi-ni-kage-de-tsugou-no-yoi-otoko-yobawari-sareta-ore-wa-koui-o-reset-shite-futsuu-ni-seishun-o-okuritai",
@@ -10064,7 +10064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 4
     },
     {
       "slug": "shinimodori-no-akuyaku-reijou-wa-nidome-no-jinsei-de-subete-o-shiawase-ni-shitemiseru",
@@ -10208,7 +10208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 6
     },
     {
       "slug": "healing-agency",
@@ -10280,7 +10280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "kesa-mo-yuraretemasu",
@@ -10385,6 +10385,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 49
+    },
+    {
+      "slug": "kurokami-seiso-no-reikoku-bishoujo-o-tasuketara-ore-to-futarikiri-no-toki-dake-dereru-you-ni-natta-ken",
+      "title": "Kurokami Seiso no Reikoku Bishoujo o Tasuketara, Ore to Futarikiri no Toki dake Dereru You ni Natta Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.92,
+      "total_chapters": 9
+    },
+    {
+      "slug": "player-elimination-plan-when-the-mutation-descends-upon-the-world",
+      "title": "Player Elimination Plan! When the Mutation Descends Upon the World",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 23
+    },
+    {
+      "slug": "629789-the-possessed-genius-gaming-stream",
+      "title": "The Possessed Genius Gaming Stream",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.15,
+      "total_chapters": 46
     }
   ]
 }
