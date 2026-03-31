@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T10:48:04.162278",
+  "scraped_at": "2026-03-31T20:35:51.581724",
   "alternative_titles": "Return of the Back Alley Wizard, The Back-Alley Mage's Return, 뒷골목 마법사의 회귀생활",
   "status": "Berjalan",
   "author": "Kairos, Kim Dak Heu",
@@ -22,16 +22,22 @@
   "synopsis": "Manhwa                    The Regressed Life Of A Back Alley Mage yang dibuat oleh komikus bernama\n                    Kairos, Kim Dak Heu ini bercerita tentang\n                    \"Suatu hari, seekor wyvern terbang di atas kepala. Saat melihatnya, aku memutuskan untuk pensiun.\"\r\n\r\nAster, yang dulunya seorang pembuat onar terkenal dari daerah kumuh, merangkak masuk ke keluarga penyihir terhormat—Wilayah Declan. Namun, karena mendambakan kebebasan, ia melarikan diri... hanya untuk diburu dan dibunuh.\r\n\r\nKetika ia membuka matanya lagi, ia kembali ke daerah kumuh, terperangkap dalam batas samar antara hidup dan mati.\r\n\r\n\"Kali ini, aku akan membangun perpustakaan—bukan, menara! Persis seperti impian rekan-rekan lamaku.\" \"Dan sebagai tambahan, aku akan memajang buku mantra rahasia keluarga Declan tepat di lantai pertama.\"",
   "chapters": [
     {
+      "chapter": "40",
+      "title": "Komik The Regressed Life Of A Back Alley Mage Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1saWZlLW9mLWEtYmFjay1hbGxleS1tYWdlLWNoYXB0ZXItNDAv",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "39",
       "title": "Komik The Regressed Life Of A Back Alley Mage Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1saWZlLW9mLWEtYmFjay1hbGxleS1tYWdlLWNoYXB0ZXItMzkv",
-      "date": "40 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik The Regressed Life Of A Back Alley Mage Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1saWZlLW9mLWEtYmFjay1hbGxleS1tYWdlLWNoYXB0ZXItMzgv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "37",
@@ -43,7 +49,7 @@
       "chapter": "36",
       "title": "Komik The Regressed Life Of A Back Alley Mage Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1saWZlLW9mLWEtYmFjay1hbGxleS1tYWdlLWNoYXB0ZXItMzYv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "35",
@@ -256,5 +262,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 39
+  "total_chapters": 40
 }

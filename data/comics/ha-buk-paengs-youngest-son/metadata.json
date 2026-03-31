@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-31T01:09:06.506589",
+  "scraped_at": "2026-03-31T20:33:37.910650",
   "alternative_titles": "하북팽가 막내아들",
   "status": "Berjalan",
   "author": "스튜디오M",
@@ -24,40 +24,46 @@
   "synopsis": "Manhwa                    Ha Buk Paeng’s Youngest Son yang dibuat oleh komikus bernama\n                    스튜디오M ini bercerita tentang\n                    Kekuatan terbesar Ha-Buk-Paeng, Paeng Jihuk. Paeng Jihuk pergi ke Nakhogok untuk menyelamatkan sebuah keluarga dari serangan setan, tapi semuanya adalah jebakan. Di ambang kematian, dia menjadi marah pada kenyataan bahwa dia ditinggalkan oleh keluarga yang dia cintai. ‘Lagi… Jika saya diberi satu kesempatan lagi…!’ Paeng Jihuk, yang mengira dia sudah mati, terbangun di sebuah ruangan di tubuh tuan Ha-Buk-Paeng.",
   "chapters": [
     {
+      "chapter": "192",
+      "title": "Komik Ha Buk Paeng’s Youngest Son Chapter 192",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGEtYnVrLXBhZW5ncy15b3VuZ2VzdC1zb24tY2hhcHRlci0xOTIv",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "191",
       "title": "Komik Ha Buk Paeng’s Youngest Son Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGEtYnVrLXBhZW5ncy15b3VuZ2VzdC1zb24tY2hhcHRlci0xOTEv",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "190",
       "title": "Komik Ha Buk Paeng’s Youngest Son Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGEtYnVrLXBhZW5ncy15b3VuZ2VzdC1zb24tY2hhcHRlci0xOTAv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "189",
       "title": "Komik Ha Buk Paeng’s Youngest Son Chapter 189",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGEtYnVrLXBhZW5ncy15b3VuZ2VzdC1zb24tY2hhcHRlci0xODkv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "188",
       "title": "Komik Ha Buk Paeng’s Youngest Son Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGEtYnVrLXBhZW5ncy15b3VuZ2VzdC1zb24tY2hhcHRlci0xODgv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "187",
       "title": "Komik Ha Buk Paeng’s Youngest Son Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGEtYnVrLXBhZW5ncy15b3VuZ2VzdC1zb24tY2hhcHRlci0xODcv",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "186",
       "title": "Komik Ha Buk Paeng’s Youngest Son Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGEtYnVrLXBhZW5ncy15b3VuZ2VzdC1zb24tY2hhcHRlci0xODYv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "185",
@@ -1170,5 +1176,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 191
+  "total_chapters": 192
 }
