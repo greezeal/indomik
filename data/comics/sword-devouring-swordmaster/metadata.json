@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.5,
-  "scraped_at": "2026-03-16T12:40:58.056631",
+  "scraped_at": "2026-03-31T01:07:28.248203",
   "alternative_titles": "검 먹는 소드마스터 The more swords I devour, the stronger I become.",
   "status": "Berjalan",
   "author": "Real Culprit",
@@ -22,40 +22,52 @@
   "synopsis": "Manhwa                    Sword Devouring Swordmaster yang dibuat oleh komikus bernama\n                    Real Culprit ini bercerita tentang\n                    Arhan Karavan kehilangan segalanya karena seorang ahli pedang tanpa mengetahui alasannya.\r\n\r\nDi tengah keputusasaan yang mencekam, Arhan hanya punya satu cara untuk membalas dendam...\r\n\r\n\"Telan pedang dan jadikan kekuatan yang ada di dalam dirimu milikmu.\"\r\n\r\n...demikianlah kisah balas dendamnya dimulai.\r\n\r\nNama keluarga yang terlupakan, \"Karavan,\" akan kembali bergema.",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Sword Devouring Swordmaster Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMjEv",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Sword Devouring Swordmaster Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMjAv",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Sword Devouring Swordmaster Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTkv",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Sword Devouring Swordmaster Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTgv",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Sword Devouring Swordmaster Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTcv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Sword Devouring Swordmaster Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTYv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Sword Devouring Swordmaster Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Sword Devouring Swordmaster Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZGV2b3VyaW5nLXN3b3JkbWFzdGVyLWNoYXB0ZXItMTQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -136,5 +148,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 21
 }

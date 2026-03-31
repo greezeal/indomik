@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-30T12:05:42.938438",
+  "scraped_at": "2026-03-31T01:06:33.534446",
   "alternative_titles": "Fanpai Tu Er Ni Jiu Fangguo Shi Zun Ba, Fǎnpài Tú Er Nǐ Jiù Fàngguò Shī Zūn Ba, Villain Disciples, Let Your Master Go, 反派徒儿你就放过师尊吧",
   "status": "Berjalan",
   "author": "17K漫画",
@@ -24,16 +24,22 @@
   "synopsis": "Manhua                    Disciples Please Spare Your Master yang dibuat oleh komikus bernama\n                    17K漫画 ini bercerita tentang\n                    Aku memiliki lima murid wanita yang sangat cantik dan menawan. Tapi mereka semua adalah iblis terkenal?",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik Disciples Please Spare Your Master Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTQyLw==",
+      "date": "36 menit yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik Disciples Please Spare Your Master Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTQxLw==",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Disciples Please Spare Your Master Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTQwLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "39",
@@ -270,5 +276,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 42
 }

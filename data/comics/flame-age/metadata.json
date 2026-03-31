@@ -1,0 +1,31 @@
+{
+  "slug": "flame-age",
+  "title": "Flame Age",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvZmxhbWUtYWdlLw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDMvS29taWstRmxhbWUtQWdlLTIzNngzMTUucG5n",
+  "type": "Manga",
+  "is_colored": true,
+  "rating": 7.0,
+  "scraped_at": "2026-03-31T01:05:15.031564",
+  "alternative_titles": "火时代",
+  "status": "Tamat",
+  "author": "一升白",
+  "illustrator": "一升白",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Martial Arts",
+    "Shounen"
+  ],
+  "synopsis": "Manga                    Flame Age yang dibuat oleh komikus bernama\n                    一升白 ini bercerita tentang\n                    Sejak awal, dia langsung menjadi penguasa dunia bela diri.",
+  "chapters": [
+    {
+      "chapter": "1",
+      "title": "Komik Flame Age Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmxhbWUtYWdlLWNoYXB0ZXItMS8=",
+      "date": "17 menit yang lalu"
+    }
+  ],
+  "total_chapters": 1
+}
