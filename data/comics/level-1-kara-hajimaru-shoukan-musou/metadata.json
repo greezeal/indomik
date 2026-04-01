@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-30T15:22:43.931515",
+  "scraped_at": "2026-04-01T23:49:00.043800",
   "alternative_titles": "レベル1から始まる召喚無双~俺だけ使える裏ダンジョンで、全ての転生者をぶっちぎる, Level 1 kara Hajimaru Shoukan Musou: Ore dake Tsukaeru Ura Dungeon de, Subete no Tenseisha o Bucchigiru",
   "status": "Berjalan",
   "author": "Shiraishi Arata",
@@ -21,22 +21,28 @@
   "synopsis": "Manga                    Level 1 kara Hajimaru Shoukan Musou yang dibuat oleh komikus bernama\n                    Shiraishi Arata ini bercerita tentang\n                    Shinobu Iijima kehilangan nyawanya bersama adik perempuan,\r\nKetika dia bangun, dia sudah bereinkarnasi di dunia game yang dia mainkan.\r\nShinobu putus asa untuk memulai permainan dari awal setelah ayah angkatnya menghapus data gamenya, tetapi dia mengetahui bahwa adik perempuannya akan segera bereinkarnasi di dunia ini juga.\r\nUntuk menghentikan ayah tirinya menjadi pemain top yang mengincar tubuh adik perempuannya, dia akan memulai jalan menuju yang paling menyakitkan ...!",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci0yNy8=",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci0yNi8=",
-      "date": "6 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci0yNS8=",
-      "date": "1 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci0yNC8=",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "23",
@@ -60,7 +66,7 @@
       "chapter": "20",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci0yMC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "19",
@@ -78,13 +84,13 @@
       "chapter": "17",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci0xNy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Level 1 kara Hajimaru Shoukan Musou Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1rYXJhLWhhamltYXJ1LXNob3VrYW4tbXVzb3UtY2hhcHRlci0xNi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -183,5 +189,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 28
 }

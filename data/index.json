@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T22:58:50.127182",
-  "total_comics": 1308,
+  "last_updated": "2026-04-01T23:53:56.094515",
+  "total_comics": 1309,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -32,7 +32,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "462789-the-tutorial-is-too-hard",
@@ -358,9 +358,9 @@
       "slug": "children-of-the-rune",
       "title": "Children of the Rune",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.11,
+      "total_chapters": 48
     },
     {
       "slug": "archmage-curriculum",
@@ -1408,7 +1408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 144
+      "total_chapters": 145
     },
     {
       "slug": "my-clone-is-the-space-bug-king",
@@ -2768,7 +2768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 174
+      "total_chapters": 177
     },
     {
       "slug": "sword-devouring-swordmaster",
@@ -2848,7 +2848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "155258-juvenile-prison",
@@ -3024,7 +3024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 153
+      "total_chapters": 155
     },
     {
       "slug": "regression-of-the-yong-clan-heir",
@@ -4144,7 +4144,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "the-absolute-scholar",
@@ -4704,7 +4704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "619762-mookhyang-dark-lady",
@@ -5624,7 +5624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "kakkou-no-iinazuke",
@@ -6152,7 +6152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 165
+      "total_chapters": 166
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -6240,7 +6240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 155
+      "total_chapters": 156
     },
     {
       "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-o-kuratte-tsuyoku-naru",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -7496,7 +7496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "maigo-ni-natteita-youjo-wo-tasuketara-otonari-ni-sumu-bishoujo-ryuugakusei-ga-ie-ni-asobi-ni-kuru-you-ni-natta-ken-nitsuite",
@@ -7808,7 +7808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 734
+      "total_chapters": 735
     },
     {
       "slug": "tensei-shitara-dragon-no-tamago-datta-ibara-no-dragon-road",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 91
+      "total_chapters": 93
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -9672,7 +9672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "the-magic-theory-of-the-regressed-sword-saint",
@@ -9952,7 +9952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 4
     },
     {
       "slug": "money-forest",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -10465,6 +10465,14 @@
       "status": "Berjalan",
       "rating": 7.87,
       "total_chapters": 130
+    },
+    {
+      "slug": "650180-the-white-mage-who-was-banished-from-the-heros-party-is-picked-up-by-an-s-rank-adventurer-this-white-mage-is-too-out-of-the-ordinary",
+      "title": "The White Mage Who Was Banished From the Hero’s Party Is Picked up by an S Rank Adventurer ~ This White Mage Is Too Out of the Ordinary!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 67
     }
   ]
 }
