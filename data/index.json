@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T05:49:47.947698",
-  "total_comics": 1302,
+  "last_updated": "2026-04-01T07:16:03.342163",
+  "total_comics": 1304,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -72,7 +72,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 191
+      "total_chapters": 192
     },
     {
       "slug": "786730-underworld-restaurant",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 507
+      "total_chapters": 509
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 125
+      "total_chapters": 127
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2672,7 +2672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "reincarnated-as-the-archdukes-son",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 393
+      "total_chapters": 395
     },
     {
       "slug": "god-of-martial-arts",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 260
+      "total_chapters": 261
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -3824,7 +3824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "kingdom",
@@ -4912,7 +4912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "sss-level-paladin-who-breaks-all-logic",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 33
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -6072,7 +6072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 132
+      "total_chapters": 134
     },
     {
       "slug": "urban-dragon-revealed",
@@ -7384,7 +7384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 136
+      "total_chapters": 137
     },
     {
       "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
@@ -8928,7 +8928,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "mayaka-neesan-wa-uso-ga-tsukenai",
@@ -9088,7 +9088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "gokinjo-jk-isezaki-san-wa-isekaigaeri-no-daiseijo",
@@ -9680,7 +9680,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "fukushuu-o-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -9952,7 +9952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "money-forest",
@@ -10224,7 +10224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 4
+      "total_chapters": 26
     },
     {
       "slug": "suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai",
@@ -10376,7 +10376,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 5
     },
     {
       "slug": "sekai-saikyou-no-shinjuu-tsukai",
@@ -10417,6 +10417,22 @@
       "status": "Berjalan",
       "rating": 6.71,
       "total_chapters": 94
+    },
+    {
+      "slug": "yarikon-de-ita-game-sekai-no-akuyaku-mob-ni-tensei-shimashita-game-chishiki-tsukatte-kimama-ni-iki-tetara-nazeka-aritoarayuru-tokoro-de-na-ga-shirewatatte-ita",
+      "title": "Yarikon de Ita Game Sekai no Akuyaku Mob ni Tensei Shimashita ~Game Chishiki Tsukatte Kimama ni Iki Tetara, Nazeka Aritoarayuru Tokoro de na ga Shirewatatte Ita~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "the-divine-eyed-grimoire-mage-jewel-saga",
+      "title": "The Divine-Eyed Grimoire Mage: Jewel Saga",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }

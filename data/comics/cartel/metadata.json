@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T21:49:59.924959",
+  "scraped_at": "2026-04-01T07:09:43.853719",
   "alternative_titles": "King of the Cartel, 카르텔",
   "status": "Berjalan",
   "author": "Kim Jang-Hoon, Park Soo-Bong",
@@ -19,17 +19,23 @@
   "synopsis": "Manhwa                    Cartel yang dibuat oleh komikus bernama\n                    Kim Jang-Hoon, Park Soo-Bong ini bercerita tentang\n                    Won Do-yoon, seorang anak laki-laki yang ditinggalkan sendirian di lingkungan paling terpencil. Ia memiliki bakat, tetapi dunia menyeretnya ke bawah. Ia menyadari bahwa di dunia yang dikendalikan oleh organisasi-organisasi besar, semakin tinggi seseorang naik, semakin dalam pula ia tenggelam. Won Do-yoon akhirnya membuat pilihan: jurang maut daripada puncak. Dan berdiri di pusat kartel itu sendiri, ia berusaha untuk menjatuhkan organisasi raksasa tersebut.",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Cartel Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FydGVsLWNoYXB0ZXItMy8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Cartel Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FydGVsLWNoYXB0ZXItMi8=",
-      "date": "10 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Cartel Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2FydGVsLWNoYXB0ZXItMS8=",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

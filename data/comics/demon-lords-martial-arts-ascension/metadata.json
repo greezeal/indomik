@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-31T20:36:10.911722",
+  "scraped_at": "2026-04-01T07:09:05.861174",
   "alternative_titles": "The Demon Lord Levels Up With Martial Arts, Martial Demon King, 새엄마의 자매들",
   "status": "Berjalan",
   "author": "Iboxson, Tya",
@@ -25,10 +25,16 @@
   "synopsis": "Manhwa                    Demon Lord’s Martial Arts Ascension yang dibuat oleh komikus bernama\n                    Iboxson, Tya ini bercerita tentang\n                    “Raja Iblis.” Itu… Mereka biasa memanggilku di kehidupanku sebelumnya, sebelum aku menjadi manusia.",
   "chapters": [
     {
+      "chapter": "137",
+      "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 137",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzNy8=",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "136",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzNi8=",
-      "date": "4 jam yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "135",
@@ -46,7 +52,7 @@
       "chapter": "133",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzMy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "132",
@@ -841,5 +847,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 136
+  "total_chapters": 137
 }
