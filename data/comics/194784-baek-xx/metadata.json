@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T17:48:30.486212",
+  "scraped_at": "2026-04-01T14:04:42.477287",
   "alternative_titles": "백XX",
   "status": "Berjalan",
   "author": "Byeongjang, Park Tae-joon Cartoon Company",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Baek XX yang dibuat oleh komikus bernama\n                    Byeongjang, Park Tae-joon Cartoon Company ini bercerita tentang\n                    Agen HID Baek Yi-soo dan saudara kembarnya Baek Do-gyeong, bos organisasi kriminal.\r\nSaudara kembar yang hidup dengan wajah yang sama dan kehidupan yang berbeda. Adik laki-laki yang dikhianati oleh organisasi memutuskan untuk meninggalkan identitasnya dan menjadi kakak laki-laki.\r\nSeorang agen intelijen, menjadi bos organisasi kriminal...!",
   "chapters": [
     {
+      "chapter": "166",
+      "title": "Komik Baek XX Chapter 166",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2Ni8=",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "165",
       "title": "Komik Baek XX Chapter 165",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2NS8=",
-      "date": "8 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "164",
@@ -253,7 +259,7 @@
       "chapter": "127",
       "title": "Komik Baek XX Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTEyNy8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "126",
@@ -451,7 +457,7 @@
       "chapter": "94",
       "title": "Komik Baek XX Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTk0Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "93",
@@ -1018,5 +1024,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 166
+  "total_chapters": 167
 }

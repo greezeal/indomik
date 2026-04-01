@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.69,
-  "scraped_at": "2026-03-28T08:06:31.277610",
+  "scraped_at": "2026-04-01T14:10:48.273749",
   "alternative_titles": "7人の眠り姫, The Seven Sleeping Beauties, Las Siete Bellas Durmientes, Les Sept Princesses Endormies, Shichinin no Nemurihime",
   "status": "Berjalan",
   "author": "Fiok Lee",
@@ -23,40 +23,52 @@
   "synopsis": "Manga                    7-Nin no Nemuri Hime yang dibuat oleh komikus bernama\n                    Fiok Lee ini bercerita tentang\n                    Seorang pangeran pengembara akan mematahkan kutukan kuno yang menyihir Kerajaan Amaryllis dengan membangunkan sang putri dengan ciuman cinta sejati. Namun tidak ada yang memberitahunya bahwa ada 7 putri untuk dicium dan dia sekarang harus bertanggung jawab dengan tinggal bersama mereka sementara mereka mencari tahu mengapa orang-orang Amaryllis tidak dapat bangun. Akankah mereka mencapai kebahagiaan selamanya?",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik 7-Nin no Nemuri Hime Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci00Mi8=",
+      "date": "45 menit yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik 7-Nin no Nemuri Hime Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci00MS8=",
+      "date": "45 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci00MC8=",
-      "date": "24 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zOS8=",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zOC8=",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zNy8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zNi8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "34",
@@ -68,25 +80,25 @@
       "chapter": "33",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0zMC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "29",
@@ -98,7 +110,7 @@
       "chapter": "28",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0yOC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "27",
@@ -116,7 +128,7 @@
       "chapter": "25",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0yNS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -158,13 +170,13 @@
       "chapter": "18",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0xOC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik 7-Nin no Nemuri Hime Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvNy1uaW4tbm8tbmVtdXJpLWhpbWUtY2hhcHRlci0xNy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -263,5 +275,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 42
 }
