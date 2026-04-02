@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T05:57:42.119570",
-  "total_comics": 1335,
+  "last_updated": "2026-04-02T07:07:19.612995",
+  "total_comics": 1336,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2528,7 +2528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.54,
-      "total_chapters": 171
+      "total_chapters": 172
     },
     {
       "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
@@ -2920,7 +2920,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 114
+      "total_chapters": 117
     },
     {
       "slug": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 162
+      "total_chapters": 163
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -6472,7 +6472,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.08,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "289682-to-not-die",
@@ -7488,7 +7488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "heavenly-demon-wants-to-be-a-chef",
@@ -8192,7 +8192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.22,
-      "total_chapters": 54
+      "total_chapters": 56
     },
     {
       "slug": "immature-succubus",
@@ -9816,7 +9816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 48
     },
     {
       "slug": "shuuriya-lodge-no-kougubako",
@@ -10648,7 +10648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 5
     },
     {
       "slug": "undead-san-no-bukiyou-na-seishun",
@@ -10681,6 +10681,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "operation-heart-pounding",
+      "title": "Operation Heart-Pounding",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 19
     }
   ]
 }
