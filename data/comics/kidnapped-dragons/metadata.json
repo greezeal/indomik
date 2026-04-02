@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-19T07:34:36.487226",
+  "scraped_at": "2026-04-02T05:57:07.356144",
   "alternative_titles": "How to Kidnap a Dragon, 드래곤을 유괴하다",
   "status": "Berjalan",
   "author": "Choi Jin-Hyung, YUJU",
@@ -24,52 +24,64 @@
   "synopsis": "Manhwa                    Kidnapped Dragons yang dibuat oleh komikus bernama\n                    Choi Jin-Hyung, YUJU ini bercerita tentang\n                    – Planet [Bumi] telah memasuki keadaan abnormal [Kiamat].\r\n\r\n– Kau telah gagal menyelamatkan Bumi. Otoritas, [Jam Antik (EX)] memutar balik waktu dunia.\r\n\r\nBagi Yoo Jitae, itu adalah pesan yang telah ia lihat berkali-kali.\r\n\r\nItu melelahkan.\r\n\r\nAkan lebih baik jika ia mati bersama semua orang.\r\n\r\nTapi ia tidak bisa, karena otoritasnya yang menjadikannya makhluk terkuat, membawanya kembali ke masa lalu setiap kali ia mati.\r\n\r\nDan bahkan dengan kekuatannya, ia tidak bisa melindungi bumi yang luas dari naga-naga yang mengamuk.\r\n\r\n– Waktu dunia akan segera dimulai.\r\n\r\nSaat jam kembali berdetik ke arah yang seharusnya, iterasi ke-7-nya dimulai.\r\n\r\nUntungnya, ia akhirnya memahami intinya.",
   "chapters": [
     {
+      "chapter": "36",
+      "title": "Komik Kidnapped Dragons Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0zNi8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik Kidnapped Dragons Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0zNS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "34",
       "title": "Komik Kidnapped Dragons Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0zNC8=",
-      "date": "34 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Kidnapped Dragons Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0zMy8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Kidnapped Dragons Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0zMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Kidnapped Dragons Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0zMS8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Kidnapped Dragons Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0zMC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Kidnapped Dragons Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0yOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Kidnapped Dragons Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0yOC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Kidnapped Dragons Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lkbmFwcGVkLWRyYWdvbnMtY2hhcHRlci0yNy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "26",
@@ -228,5 +240,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 34
+  "total_chapters": 36
 }

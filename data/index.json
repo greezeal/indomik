@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T04:01:47.258200",
-  "total_comics": 1309,
+  "last_updated": "2026-04-02T05:57:42.119570",
+  "total_comics": 1335,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -24,7 +24,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 159
+      "total_chapters": 164
     },
     {
       "slug": "427649-the-delusional-hunter-in-another-world",
@@ -120,7 +120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 128
+      "total_chapters": 129
     },
     {
       "slug": "genius-blacksmiths-game",
@@ -984,7 +984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 227
+      "total_chapters": 228
     },
     {
       "slug": "leveling-in-the-future",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 320
+      "total_chapters": 321
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "peerless-soul",
@@ -2752,7 +2752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "151515-omniscient-readers-viewpoint",
@@ -2928,7 +2928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 87
+      "total_chapters": 89
     },
     {
       "slug": "783596-pick-me-up",
@@ -2936,7 +2936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.26,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "720516-terminally-ill-genius-dark-knight",
@@ -2952,7 +2952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 304
+      "total_chapters": 306
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -3976,7 +3976,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 224
+      "total_chapters": 228
     },
     {
       "slug": "absolute-regression",
@@ -5016,7 +5016,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 312
+      "total_chapters": 314
     },
     {
       "slug": "my-unbeatable-passive-skill-lets-me-deal-massive-damage",
@@ -5744,7 +5744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 36
     },
     {
       "slug": "981277-spy-x-family",
@@ -10104,7 +10104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "rebirth-of-the-thief-who-roamed-the-world",
@@ -10473,6 +10473,214 @@
       "status": "Berjalan",
       "rating": 7.46,
       "total_chapters": 67
+    },
+    {
+      "slug": "isekai-de-yakuza-hajimemashita-yume-no-henkyou-slow-life-wa-oazuke-chuu",
+      "title": "Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "reiwa-no-dara-san",
+      "title": "Reiwa no Dara-san",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e",
+      "title": "Hololive Academy ～Shiny Smily Stories～",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "isekai-guide-map-kuchikomi-o-tayori-ni-yuuyuujiteki-na-isekai-ryokou-slow-life-o-mankitsu-shimasu",
+      "title": "Isekai Guide Map: [Kuchikomi] o Tayori ni Yuuyuujiteki na Isekai Ryokou Slow Life o Mankitsu Shimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "return-of-the-all-time-genius-ranker",
+      "title": "Return Of The All-Time Genius Ranker",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 18
+    },
+    {
+      "slug": "mahouka-koukou-no-rettousei-nama-koto-nairan-hen",
+      "title": "Mahouka Koukou no Rettousei Nama Koto Nairan-hen",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 35
+    },
+    {
+      "slug": "liberal-arts-x-natural-sciences",
+      "title": "Liberal Arts X Natural Sciences",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "mentori-sama",
+      "title": "Mentori-Sama",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "motome-sugaki-no-zako-sotsugyou%e2%99%a1",
+      "title": "Motome Sugaki no Zako Sotsugyou♡",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "immortals-way-of-life",
+      "title": "Immortal’s Way Of Life",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "kimi-no-negai-ga-kanau-made",
+      "title": "Kimi no Negai ga Kanau made",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "honzuki-no-gekokujou-part-5",
+      "title": "Honzuki no Gekokujou Part 5",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "stone-age",
+      "title": "Stone Age",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "forowa-ga-kanojo-narimashita",
+      "title": "Forowa ga Kanojo Narimashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "mahouka-koukou-no-rettousei-escape-hen",
+      "title": "Mahouka Koukou no Rettousei Escape-hen",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 35
+    },
+    {
+      "slug": "mahouka-koukou-no-rettousei-invasion-hen",
+      "title": "Mahouka Koukou no Rettousei Invasion-hen",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "mahouka-koukou-no-rettouse-koritsu-hen",
+      "title": "Mahouka Koukou no Rettouse Koritsu-hen",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 28
+    },
+    {
+      "slug": "mahouka-koukou-no-rettousei-douran-no-joshou-hen",
+      "title": "Mahouka Koukou no Rettousei Douran no Joshou-hen",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 29
+    },
+    {
+      "slug": "mahouka-koukou-no-rettousei-nankai-soujou-hen",
+      "title": "Mahouka Koukou no Rettousei Nankai Soujou-hen",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 18
+    },
+    {
+      "slug": "mahouka-koukou-no-rettousei-ichijou-masaki-tenkou-hen",
+      "title": "Mahouka Koukou no Rettousei Ichijou Masaki Tenkou-hen",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "librale-of-reincarnation",
+      "title": "Librale of Reincarnation",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "i-beat-up-my-boss",
+      "title": "I Beat Up My Boss",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "undead-san-no-bukiyou-na-seishun",
+      "title": "Undead-san no Bukiyou na Seishun",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "vocalize",
+      "title": "Vocalize",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "honzuki-no-gekokujou-ferdinand-no-yakata-ni-te",
+      "title": "Honzuki no Gekokujou Ferdinand no Yakata ni Te",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "gyakkou-akujo-wa-yaru-koto-ga-ou-sugiru",
+      "title": "Gyakkou Akujo wa Yaru Koto ga Ou sugiru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }
