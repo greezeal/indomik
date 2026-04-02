@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-01T23:51:25.627833",
+  "scraped_at": "2026-04-02T12:38:16.186440",
   "alternative_titles": "万古至尊",
   "status": "Berjalan",
   "author": "太一生水",
@@ -23,16 +23,22 @@
   "synopsis": "Manhua                    The Ultimate of All Ages yang dibuat oleh komikus bernama\n                    太一生水 ini bercerita tentang\n                    Pertama di antara sepuluh kaisar bela diri, Kaisar Bela Diri Peerless Gu Feiyang menemui ajalnya di pegunungan Tiandang. Dia bereinkarnasi lima belas tahun kemudian, sebagai Li Yun Xiao dari Bangsa Tianshui, dan dengan demikian memulai pertempuran yang menantang surga dengan talenta yang tak terhitung jumlahnya dari generasi saat ini. Seni bela diri dari sembilan surga dan sepuluh realm suci. Sejak saat itu, seluruh dunia dibakar.",
   "chapters": [
     {
+      "chapter": "513",
+      "title": "Komik The Ultimate of All Ages Chapter 513",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTEzLw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "512",
       "title": "Komik The Ultimate of All Ages Chapter 512",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTEyLw==",
-      "date": "11 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "511",
       "title": "Komik The Ultimate of All Ages Chapter 511",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTExLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "510",
@@ -182,7 +188,7 @@
       "chapter": "486",
       "title": "Komik The Ultimate of All Ages Chapter 486",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDg2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "485",
@@ -236,7 +242,7 @@
       "chapter": "477",
       "title": "Komik The Ultimate of All Ages Chapter 477",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDc3Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "476",
@@ -626,7 +632,7 @@
       "chapter": "412",
       "title": "Komik The Ultimate of All Ages Chapter 412",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDEyLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "411",
@@ -656,7 +662,7 @@
       "chapter": "407",
       "title": "Komik The Ultimate of All Ages Chapter 407",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDA3Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "406",
@@ -992,7 +998,7 @@
       "chapter": "350",
       "title": "Komik The Ultimate of All Ages Chapter 350",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItMzUwLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "349",
@@ -3089,5 +3095,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 511
+  "total_chapters": 512
 }

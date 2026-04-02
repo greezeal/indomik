@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T11:32:09.647617",
-  "total_comics": 1336,
+  "last_updated": "2026-04-02T12:43:02.729359",
+  "total_comics": 1337,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "70-meter-girl",
@@ -2136,7 +2136,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 511
+      "total_chapters": 512
     },
     {
       "slug": "game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau",
@@ -3016,7 +3016,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 133
+      "total_chapters": 136
     },
     {
       "slug": "333015-chronicles-of-the-martial-gods-return",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -4576,7 +4576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 24
     },
     {
       "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
@@ -4744,7 +4744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 59
+      "total_chapters": 62
     },
     {
       "slug": "i-love-the-demon-lord-so-much-that-even-my-female-disciples-want-to-kill-me",
@@ -5024,7 +5024,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 105
+      "total_chapters": 107
     },
     {
       "slug": "im-a-super-rich-guy-so-its-reasonable-for-me-to-be-a-scumbag",
@@ -5264,7 +5264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "class-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta",
@@ -5888,7 +5888,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.63,
-      "total_chapters": 30
+      "total_chapters": 33
     },
     {
       "slug": "164577-kim-ohjins-adventures-with-strange-animals",
@@ -6016,7 +6016,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 191
+      "total_chapters": 193
     },
     {
       "slug": "yami-ochi-rasu-bosu-reijou-no-osananajimi-ni-tensei-shita-ore-ga-shindara-bad-end-kakutei-na-node-saikyou-ni-natta-kedo-mou-yami-ochi-yandere-ka-shitemasen-ka",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 91
+      "total_chapters": 93
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7224,7 +7224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.19,
-      "total_chapters": 196
+      "total_chapters": 197
     },
     {
       "slug": "osoraku-kanojo-wa-ore-no-aniki-wo-neratteru",
@@ -8656,7 +8656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.85,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "guuzen-tasuketa-bishoujo-ga-naze-ka-ore-ni-natsuite-shimatta-ken-ni-tsuite",
@@ -10504,7 +10504,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
     },
     {
       "slug": "return-of-the-all-time-genius-ranker",
@@ -10528,7 +10528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 4
     },
     {
       "slug": "mentori-sama",
@@ -10640,7 +10640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "i-beat-up-my-boss",
@@ -10689,6 +10689,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 19
+    },
+    {
+      "slug": "149520-i-became-a-sales-prodigy",
+      "title": "I Became a Sales Prodigy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 91
     }
   ]
 }

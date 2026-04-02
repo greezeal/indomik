@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-02T07:03:20.932414",
+  "scraped_at": "2026-04-02T12:41:39.953262",
   "alternative_titles": "ホロライブ学園 ～Shiny Smily Stories～, Hololive Academy ～Shiny Smily Stories～",
   "status": "Berjalan",
   "author": "COVER Corporation",
@@ -23,13 +23,13 @@
       "chapter": "2",
       "title": "Komik Hololive Academy ～Shiny Smily Stories～ Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9sb2xpdmUtYWNhZGVteS0lZWYlYmQlOWVzaGlueS1zbWlseS1zdG9yaWVzJWVmJWJkJTllLWNoYXB0ZXItMi8=",
-      "date": "4 jam yang lalu"
+      "date": "9 jam yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Hololive Academy ～Shiny Smily Stories～ Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9sb2xpdmUtYWNhZGVteS0lZWYlYmQlOWVzaGlueS1zbWlseS1zdG9yaWVzJWVmJWJkJTllLWNoYXB0ZXItMS8=",
-      "date": "4 jam yang lalu"
+      "date": "9 jam yang lalu"
     }
   ],
   "total_chapters": 2
