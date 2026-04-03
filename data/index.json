@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T11:57:01.775729",
-  "total_comics": 1341,
+  "last_updated": "2026-04-03T13:27:27.585407",
+  "total_comics": 1344,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -704,7 +704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "10-nenmae-ni-time-leap-shite-osananajimi-no-ojousama-wo-tasuketara-iinazuke-ni-narimashita",
@@ -4312,7 +4312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 252
+      "total_chapters": 253
     },
     {
       "slug": "how-to-live-as-the-vampire-lord-crimson-reset",
@@ -4328,7 +4328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "it-all-starts-with-trillions-of-nether-currency",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "colorist",
@@ -4752,7 +4752,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "unrivaled-spear-demon",
@@ -5544,7 +5544,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.82,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "a-wimps-strategy-guide-to-conquer-the-tower",
@@ -5728,7 +5728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 142
+      "total_chapters": 143
     },
     {
       "slug": "zombie-papa",
@@ -8344,7 +8344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "426090-the-newbie-is-too-strong",
@@ -8424,7 +8424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 71
+      "total_chapters": 74
     },
     {
       "slug": "netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru",
@@ -8488,7 +8488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "kage-no-jitsuryokusha-ni-naritakute-shichikage-retsuden",
@@ -9896,7 +9896,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "heroes-demons-villains",
@@ -10280,7 +10280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "kesa-mo-yuraretemasu",
@@ -10729,6 +10729,30 @@
       "status": "Berjalan",
       "rating": 7.09,
       "total_chapters": 21
+    },
+    {
+      "slug": "tsuihou-sarenakatta-otoko-nidome-no-jinsei-wa-dogeza-kara-hajimarimashita",
+      "title": "Tsuihou Sarenakatta Otoko ~Nidome no Jinsei wa Dogeza kara Hajimarimashita~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 10
+    },
+    {
+      "slug": "kekkaishi-e-no-tensei",
+      "title": "Kekkaishi e no Tensei",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.62,
+      "total_chapters": 67
+    },
+    {
+      "slug": "the-demonic-cult-instructor-returns",
+      "title": "The Demonic Cult Instructor Returns",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 44
     }
   ]
 }

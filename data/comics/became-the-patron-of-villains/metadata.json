@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-28T08:09:40.011482",
+  "scraped_at": "2026-04-03T13:24:55.712983",
   "alternative_titles": "악당들의 후원자가 되었다, Raising Villains the Right Way, Akdangdeul-eui Huwonja-ga Doeeotda",
   "status": "Berjalan",
   "author": "LICO,봄한방울",
@@ -29,34 +29,40 @@
   "synopsis": "Manhwa                    Became The Patron Of Villains yang dibuat oleh komikus bernama\n                    LICO,봄한방울 ini bercerita tentang\n                    Aku, seorang budak perusahaan, bertransmigrasi ke dalam permainan sebagai seorang bangsawan. Tapi aku hanya figuran yang akan mati di tangan para penjahat di masa depan? Tidak mungkin! Entah bagaimana aku akan mengubah mereka dan menjalani kehidupan yang mewah! Untuk ini, aku mulai mensponsori para penjahat masa depan untuk mencegah mereka menjadi jahat dan membantu mereka mengatasi kesulitan mereka. Hasilnya, mereka semua tumbuh menjadi orang-orang yang baik dan biasa saja, cukup untuk membuatku merasa bangga. Dan begitulah, aku menjadi dalang utama kerajaan... Hah?",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik Became The Patron Of Villains Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0yOS8=",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik Became The Patron Of Villains Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0yOC8=",
-      "date": "5 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Became The Patron Of Villains Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0yNy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Became The Patron Of Villains Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0yNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Became The Patron Of Villains Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0yNS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Became The Patron Of Villains Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0yNC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -68,7 +74,7 @@
       "chapter": "22",
       "title": "Komik Became The Patron Of Villains Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0yMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -92,7 +98,7 @@
       "chapter": "18",
       "title": "Komik Became The Patron Of Villains Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci0xOC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -146,7 +152,7 @@
       "chapter": "9",
       "title": "Komik Became The Patron Of Villains Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjYW1lLXRoZS1wYXRyb24tb2YtdmlsbGFpbnMtY2hhcHRlci05Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -197,5 +203,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }

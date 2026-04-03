@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-28T08:06:18.683924",
+  "scraped_at": "2026-04-03T13:24:45.541346",
   "alternative_titles": "양치기 마법사",
   "status": "Berjalan",
   "author": "Kim Kkulppal, Park Man-sa",
@@ -18,28 +18,34 @@
   "synopsis": "Manhwa                    The Shepherd Wizard yang dibuat oleh komikus bernama\n                    Kim Kkulppal, Park Man-sa ini bercerita tentang\n                    Terlahir di ujung dunia,\r\n\r\nTuran menghabiskan hidupnya sebagai seorang gembala sederhana—menyembunyikan kekuatan yang konon dapat menghancurkan segala yang dicintainya.\r\n\r\nIa tidak tahu apa-apa tentang peperangan, keluarga bangsawan, atau garis keturunan kuno yang membentuk tanah di balik perbukitannya.\r\n\r\nDan jujur ​​saja, ia sedikit lelah dengan semua itu.\r\n\r\nMelihat dunia dari kejauhan, tak pernah benar-benar tahu apa yang ada di balik cakrawala—sampai sebuah pertemuan tak terduga membuka pintu, dan rasa ingin tahu menyelesaikan sisanya.\r\n\r\nTanpa ada yang mengikatnya,\r\n\r\nTuran melangkah ke dunia yang belum pernah dilihatnya—dan perlahan, melalui matanya, keindahan, kekejaman, dan rahasianya mulai terungkap.",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik The Shepherd Wizard Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNoZXBoZXJkLXdpemFyZC1jaGFwdGVyLTEzLw==",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik The Shepherd Wizard Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNoZXBoZXJkLXdpemFyZC1jaGFwdGVyLTEyLw==",
-      "date": "21 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The Shepherd Wizard Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNoZXBoZXJkLXdpemFyZC1jaGFwdGVyLTExLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The Shepherd Wizard Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNoZXBoZXJkLXdpemFyZC1jaGFwdGVyLTEwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik The Shepherd Wizard Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNoZXBoZXJkLXdpemFyZC1jaGFwdGVyLTkv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "8",
@@ -90,5 +96,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }
