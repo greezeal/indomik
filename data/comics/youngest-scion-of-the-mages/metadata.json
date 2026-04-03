@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.16,
-  "scraped_at": "2026-04-01T23:49:33.276521",
+  "scraped_at": "2026-04-03T05:55:32.325771",
   "alternative_titles": "Youngest Son of the Renowned Magic Clan, The Youngest Son of a Magician, 마법명가 막내아들",
   "status": "Berjalan",
   "author": "Bichyu",
@@ -23,58 +23,64 @@
   "synopsis": "Manhwa                    Youngest Scion of the Mages yang dibuat oleh komikus bernama\n                    Bichyu ini bercerita tentang\n                    Plotline tipis dan pengaturan sampah.\r\nSerangkaian kata yang terlalu memalukan untuk disebut novel.\r\nNamun saya berakhir di dalam halaman novel yang sama yang saya tulis.\r\nDan sebagai Rasen Mayten tidak kurang, bajingan dari karakter sampingan yang terbunuh pada usia 17 tahun.\r\n\r\nSebagai penulis dan pencipta dunia ini, saya sekarang akan menciptakan kembali dunia karakter 'Rasen Mayten'.",
   "chapters": [
     {
+      "chapter": "94",
+      "title": "Komik Youngest Scion of the Mages Chapter 94",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItOTQv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "93",
       "title": "Komik Youngest Scion of the Mages Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItOTMv",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Youngest Scion of the Mages Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItOTIv",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Youngest Scion of the Mages Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItOTEv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik Youngest Scion of the Mages Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItOTAv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik Youngest Scion of the Mages Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODkv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "88",
       "title": "Komik Youngest Scion of the Mages Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODgv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik Youngest Scion of the Mages Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODcv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik Youngest Scion of the Mages Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODYv",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik Youngest Scion of the Mages Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODUv",
-      "date": "6 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "84",
@@ -86,7 +92,7 @@
       "chapter": "83",
       "title": "Komik Youngest Scion of the Mages Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91bmdlc3Qtc2Npb24tb2YtdGhlLW1hZ2VzLWNoYXB0ZXItODMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "82",
@@ -581,5 +587,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 93
+  "total_chapters": 94
 }

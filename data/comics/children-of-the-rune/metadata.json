@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.11,
-  "scraped_at": "2026-04-01T23:50:39.622405",
+  "scraped_at": "2026-04-03T06:00:15.382328",
   "alternative_titles": "룬의 아이들 - 윈터러, สงครามดาบอักขระเวท ภาคดาบเหมันต์, ルーンの子供たち・冬の剣, 符文之子：冬霜劍, 魔剑奇缘, Lun-ui Aideul - Winteoleo, Children of the Rune - Winterer, Winterer",
   "status": "Berjalan",
   "author": "Jeon Min-Hee (전민희), Mok-In (목인)",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    Children of the Rune yang dibuat oleh komikus bernama\n                    Jeon Min-Hee (전민희), Mok-In (목인) ini bercerita tentang\n                    \"Nak, kamu harus selamat!\"\r\n\r\nSetelah rumahnya dihancurkan oleh pamannya, yang tersisa untuk seorang anak laki-laki, Boris, hanyalah pedang pusaka, Winterer. Namun dia tidak tahu bahwa harta karun ini akan menjadi penyebab krisis lainnya. Saat orang-orang mencari Winterer, hati Boris menjadi semakin dingin dan suram, seperti musim dingin.\r\n\r\nPetualangan Boris — untuk bertahan hidup dan melindungi pedang Rumahnya — dimulai sekarang. Apa yang menantinya di akhir perjalanan ini? Dan rahasia apa yang dimiliki oleh pedang musim dingin Winterer?",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Children of the Rune Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpbGRyZW4tb2YtdGhlLXJ1bmUtY2hhcHRlci00OS8=",
+      "date": "14 jam yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Children of the Rune Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpbGRyZW4tb2YtdGhlLXJ1bmUtY2hhcHRlci00OC8=",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "47",
@@ -309,5 +315,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 49
 }

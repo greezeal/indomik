@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-31T09:56:02.113773",
+  "scraped_at": "2026-04-03T05:55:47.032530",
   "alternative_titles": "The Killing Lawyer, 죽여주는 변호사",
   "status": "Berjalan",
   "author": "Kim Jung-Hyun",
@@ -18,16 +18,22 @@
   "synopsis": "Manhwa                    A Lawyer Killler (Killer Lawyer) yang dibuat oleh komikus bernama\n                    Kim Jung-Hyun ini bercerita tentang\n                    Byeon Hogil, killer kelas C dari organisasi pembunuh “Glory Club”, entah bagaimana menjadi seorang “pengacara”. Ini adalah kisah Byeon Hogil, warga biasa kita, yang berbagi universe dengan Killer Peter tetapi tidak peduli dengan nasib yang terjadi di universe tersebut.",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik A Lawyer Killler (Killer Lawyer) Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1sYXd5ZXIta2lsbGxlci1raWxsZXItbGF3eWVyLWNoYXB0ZXItMjMv",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik A Lawyer Killler (Killer Lawyer) Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1sYXd5ZXIta2lsbGxlci1raWxsZXItbGF3eWVyLWNoYXB0ZXItMjIv",
-      "date": "49 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik A Lawyer Killler (Killer Lawyer) Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1sYXd5ZXIta2lsbGxlci1raWxsZXItbGF3eWVyLWNoYXB0ZXItMjEv",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "20",
@@ -39,7 +45,7 @@
       "chapter": "19",
       "title": "Komik A Lawyer Killler (Killer Lawyer) Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1sYXd5ZXIta2lsbGxlci1raWxsZXItbGF3eWVyLWNoYXB0ZXItMTkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -156,5 +162,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }

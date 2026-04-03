@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-02T12:43:02.713299",
+  "scraped_at": "2026-04-03T05:55:05.277592",
   "alternative_titles": "Mahouka Koukou no Rettousei: Invasion-hen, Mahōka Kōkō no Rettōsei: Invasion-hen, 魔法科高校の劣等生 インベージョン編",
   "status": "Berjalan",
   "author": "SATOU Tsutomu",
@@ -22,23 +22,29 @@
   "synopsis": "Manga                    Mahouka Koukou no Rettousei Invasion-hen yang dibuat oleh komikus bernama\n                    SATOU Tsutomu ini bercerita tentang\n                    Adaptasi dari Volume 26 71 jam sebelum Lina mengungkap segalanya kepada Tatsuya, sebuah pemberontakan mematikan pecah di Markas Besar STARS. Insiden di New Mexico tersebut menyudutkan Canopus, sang petarung nomor dua, dan memaksa Lina melarikan diri ke Jepang. Namun, kedatangannya justru menjadi katalis bagi gelombang invasi Parasite yang baru—memicu ancaman perang sihir yang siap mengguncang seluruh dunia. Di bawah panduan strategis Tatsuya dan Miyuki, Lina diungsikan ke Pulau Miyaki, sebuah benteng lautan rahasia yang dikuasai mutlak oleh keluarga Yotsuba. Sementara itu, krisis maut meledak di front lain. Minoru kembali melancarkan serangannya ke rumah sakit demi merebut Minami. Tiga bersaudari Saegusa kini berdiri sebagai garda terdepan, mempertaruhkan segalanya untuk menghentikan sang musuh. Ancaman invasi yang mencekik dan niat jahat yang menusuk tulang kini mengepung dari segala arah. Ketika para penyihir terkuat dari seluruh penjuru bumi saling berbenturan dalam kekacauan, batas kekuatan sejati Shiba Tatsuya akan diuji secara absolut!",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Mahouka Koukou no Rettousei Invasion-hen Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFob3VrYS1rb3Vrb3Utbm8tcmV0dG91c2VpLWludmFzaW9uLWhlbi1jaGFwdGVyLTQv",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Mahouka Koukou no Rettousei Invasion-hen Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFob3VrYS1rb3Vrb3Utbm8tcmV0dG91c2VpLWludmFzaW9uLWhlbi1jaGFwdGVyLTMv",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Mahouka Koukou no Rettousei Invasion-hen Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFob3VrYS1rb3Vrb3Utbm8tcmV0dG91c2VpLWludmFzaW9uLWhlbi1jaGFwdGVyLTIv",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Mahouka Koukou no Rettousei Invasion-hen Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFob3VrYS1rb3Vrb3Utbm8tcmV0dG91c2VpLWludmFzaW9uLWhlbi1jaGFwdGVyLTEv",
-      "date": "10 jam yang lalu"
+      "date": "1 hari yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }

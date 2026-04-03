@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-01T12:01:46.797220",
+  "scraped_at": "2026-04-03T06:00:20.283564",
   "alternative_titles": "Meteor: The Savior of Blinding Speed, Meteor: The Ultra-Speed Savior, メテオ～超神速の救世主～",
   "status": "Berjalan",
   "author": "SSJ",
@@ -19,35 +19,47 @@
   "synopsis": "Manga                    Meteor: The Savior of Blinding Speed yang dibuat oleh komikus bernama\n                    SSJ ini bercerita tentang\n                    Kecelakaan itu melahirkan pahlawan tercepat dan monster paling menakutkan. Lee Rowoon, seorang siswa SMA yang lumpuh dari pinggang ke bawah, secara ajaib selamat dari kecelakaan pesawat. Dari bencana itu, ia mendapatkan sepasang kaki super cepat yang tak seorang pun bisa menahannya. Sementara itu, seorang penyintas lain yang mengalami neraka yang sama, Choi Suhyuk, membangkitkan telekinesis yang luar biasa dan mulai mengancam dunia dengan rasa keadilan yang bengkok. Meniru penampilan pahlawan idolanya, \"Star Sonic,\" Rowoon melindungi orang-orang, sementara Suhyuk hanya membawa kehancuran. Ketika dua kekuatan luar biasa yang memiliki asal usul yang sama ini akhirnya bertabrakan, nasib dunia akan ditentukan. Sebuah epik aksi superkuat tanpa henti.",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Meteor: The Savior of Blinding Speed Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWV0ZW9yLXRoZS1zYXZpb3Itb2YtYmxpbmRpbmctc3BlZWQtY2hhcHRlci03Lw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Meteor: The Savior of Blinding Speed Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWV0ZW9yLXRoZS1zYXZpb3Itb2YtYmxpbmRpbmctc3BlZWQtY2hhcHRlci02Lw==",
+      "date": "14 jam yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Meteor: The Savior of Blinding Speed Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWV0ZW9yLXRoZS1zYXZpb3Itb2YtYmxpbmRpbmctc3BlZWQtY2hhcHRlci01Lw==",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Meteor: The Savior of Blinding Speed Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWV0ZW9yLXRoZS1zYXZpb3Itb2YtYmxpbmRpbmctc3BlZWQtY2hhcHRlci00Lw==",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Meteor: The Savior of Blinding Speed Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWV0ZW9yLXRoZS1zYXZpb3Itb2YtYmxpbmRpbmctc3BlZWQtY2hhcHRlci0zLw==",
-      "date": "11 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Meteor: The Savior of Blinding Speed Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWV0ZW9yLXRoZS1zYXZpb3Itb2YtYmxpbmRpbmctc3BlZWQtY2hhcHRlci0yLw==",
-      "date": "12 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Meteor: The Savior of Blinding Speed Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWV0ZW9yLXRoZS1zYXZpb3Itb2YtYmxpbmRpbmctc3BlZWQtY2hhcHRlci0xLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 7
 }

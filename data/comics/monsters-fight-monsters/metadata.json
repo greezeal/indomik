@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-30T15:21:48.001612",
+  "scraped_at": "2026-04-03T06:00:26.804289",
   "alternative_titles": "Fight Monsters with Monsters, 몬스터는 몬스터로 막는다",
   "status": "Berjalan",
   "author": "New Rock Studio, Uihyeonsu",
@@ -19,58 +19,64 @@
   "synopsis": "Manhwa                    Monsters Fight Monsters yang dibuat oleh komikus bernama\n                    New Rock Studio, Uihyeonsu ini bercerita tentang\n                    Kim Han-ul bermimpi menjadi Hunter terhebat di dunia. Namun terhalang oleh tembok bakat yang tak tertembus, ia terjebak sebagai Hunter peringkat E yang rendah, hanya mampu bertahan hidup sebagai streamer game.\r\n\r\nSuatu hari, game tower defense andalannya tiba-tiba mengumumkan penghentian layanannya. Sebagai perpisahan terakhir, Han-ul menantang gelombang ke-700 yang legendaris... sebuah level yang terkenal mustahil dan belum pernah dikalahkan oleh pemain mana pun, dan secara ajaib berhasil melewatinya. Tepat pada saat itu, cahaya menyilaukan menyelimutinya, dan ia mengalami Kebangkitan Kedua! Ia akhirnya memiliki kemampuan tingkat atas. Ini adalah kesempatannya untuk naik peringkat dan mewujudkan mimpinya menjadi Hunter! Tapi tunggu... ada sesuatu yang terasa aneh.\r\n\r\nSaat ia mencoba menguji kekuatan barunya, monster yang dipanggilnya sama sekali berbeda dari makhluk-makhluk hebat yang ia harapkan...?!",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Monsters Fight Monsters Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci0xMS8=",
+      "date": "13 jam yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Monsters Fight Monsters Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci0xMC8=",
-      "date": "26 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Monsters Fight Monsters Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci05Lw==",
-      "date": "1 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Monsters Fight Monsters Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci04Lw==",
-      "date": "1 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Monsters Fight Monsters Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci03Lw==",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Monsters Fight Monsters Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci02Lw==",
-      "date": "3 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Monsters Fight Monsters Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci01Lw==",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Monsters Fight Monsters Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci00Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Monsters Fight Monsters Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci0zLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Monsters Fight Monsters Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9uc3RlcnMtZmlnaHQtbW9uc3RlcnMtY2hhcHRlci0yLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
@@ -79,5 +85,5 @@
       "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

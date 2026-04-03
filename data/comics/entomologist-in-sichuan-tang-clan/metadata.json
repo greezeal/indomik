@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-02T05:57:14.538814",
+  "scraped_at": "2026-04-03T05:57:23.912015",
   "alternative_titles": "The Poison Master of Sacheondang Clan, 파브르 in 사천당가",
   "status": "Berjalan",
   "author": "에르훗",
@@ -21,28 +21,34 @@
   "synopsis": "Manhwa                    Entomologist in Sichuan Tang Clan yang dibuat oleh komikus bernama\n                    에르훗 ini bercerita tentang\n                    Streamer dengan subcriber jutaan, Spicy Fabre, dikenal sebagai ahlinya racun dan serangga beracun mati tergigit ular black mamba dalam perjalanan memotret di afrika dan mengalami reinkarnasi ke dunia murim.\r\n\r\nStreamer yang memelihara banyak serangga beracun di dalam hutan menarik perhatian klan tang dari sichuan, klan yang terkenal karena kemampuan mereka dalam hal racun, sekarang mereka menginginkannya.\r\n\r\n“Bergabunglah dengan kami dan jadilah anggota klan.”",
   "chapters": [
     {
+      "chapter": "77",
+      "title": "Komik Entomologist in Sichuan Tang Clan Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItNzcv",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "76",
       "title": "Komik Entomologist in Sichuan Tang Clan Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItNzYv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Entomologist in Sichuan Tang Clan Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItNzUv",
-      "date": "14 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Entomologist in Sichuan Tang Clan Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItNzQv",
-      "date": "14 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Entomologist in Sichuan Tang Clan Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItNzMv",
-      "date": "14 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "72",
@@ -210,7 +216,7 @@
       "chapter": "45",
       "title": "Komik Entomologist in Sichuan Tang Clan Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItNDUv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "44",
@@ -477,5 +483,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 76
+  "total_chapters": 77
 }
