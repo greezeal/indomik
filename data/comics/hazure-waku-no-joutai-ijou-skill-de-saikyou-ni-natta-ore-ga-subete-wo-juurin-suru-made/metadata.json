@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.51,
-  "scraped_at": "2026-04-01T23:52:18.298293",
+  "scraped_at": "2026-04-03T15:14:39.550509",
   "alternative_titles": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells, Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin Suru made, Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made, I Became the Strongest With the Failure Frame, I Became the Strongest With the Failure Frame \"Abnormal State Skill\" as I Devastated Everything, Я стал самым сильным с провальным навыком 【 ненормальное состояние】, я разрушу всё, ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで, 꽝취급 받는 [상태이상 스킬]로 최강이 된 내가 전부 유린할 때까지",
   "status": "Berjalan",
   "author": "Shinozaki Kaoru (篠崎芳)",
@@ -21,22 +21,28 @@
   "synopsis": "Manga                    Hazure Waku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin Suru made yang dibuat oleh komikus bernama\n                    Shinozaki Kaoru (篠崎芳) ini bercerita tentang\n                    Selama piknik sekolah Touka dan teman sekelasnya dipanggil ke dunia lain. Namun, Touka adalah satu-satunya dengan peringkat terendah: peringkat-E - status yang sangat rendah dibandingkan dengan teman sekelasnya. Dengan demikian mantan karakter mafia dan pahlawan yang ditinggalkan, benar-benar akan menjadi iblis terkuat saat dia maju dan menyerang balik.",
   "chapters": [
     {
+      "chapter": "68",
+      "title": "Komik Hazure Waku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin Suru made Chapter 68",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF6dXJlLXdha3Utbm8tam91dGFpLWlqb3Utc2tpbGwtZGUtc2Fpa3lvdS1uaS1uYXR0YS1vcmUtZ2Etc3ViZXRlLXdvLWp1dXJpbi1zdXJ1LW1hZGUtY2hhcHRlci02OC8=",
+      "date": "46 menit yang lalu"
+    },
+    {
       "chapter": "67.2",
       "title": "Komik Hazure Waku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin Suru made Chapter 67.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF6dXJlLXdha3Utbm8tam91dGFpLWlqb3Utc2tpbGwtZGUtc2Fpa3lvdS1uaS1uYXR0YS1vcmUtZ2Etc3ViZXRlLXdvLWp1dXJpbi1zdXJ1LW1hZGUtY2hhcHRlci02Ny0yLw==",
-      "date": "11 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "67.1",
       "title": "Komik Hazure Waku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin Suru made Chapter 67.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF6dXJlLXdha3Utbm8tam91dGFpLWlqb3Utc2tpbGwtZGUtc2Fpa3lvdS1uaS1uYXR0YS1vcmUtZ2Etc3ViZXRlLXdvLWp1dXJpbi1zdXJ1LW1hZGUtY2hhcHRlci02Ny0xLw==",
-      "date": "11 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik Hazure Waku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin Suru made Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF6dXJlLXdha3Utbm8tam91dGFpLWlqb3Utc2tpbGwtZGUtc2Fpa3lvdS1uaS1uYXR0YS1vcmUtZ2Etc3ViZXRlLXdvLWp1dXJpbi1zdXJ1LW1hZGUtY2hhcHRlci02Ni8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "65.5",
@@ -66,7 +72,7 @@
       "chapter": "62",
       "title": "Komik Hazure Waku no Joutai Ijou Skill de Saikyou ni Natta Ore ga Subete wo Juurin Suru made Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF6dXJlLXdha3Utbm8tam91dGFpLWlqb3Utc2tpbGwtZGUtc2Fpa3lvdS1uaS1uYXR0YS1vcmUtZ2Etc3ViZXRlLXdvLWp1dXJpbi1zdXJ1LW1hZGUtY2hhcHRlci02Mi8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "61",
@@ -459,5 +465,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 73
+  "total_chapters": 74
 }

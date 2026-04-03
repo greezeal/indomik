@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.28,
-  "scraped_at": "2026-03-29T20:25:10.669133",
+  "scraped_at": "2026-04-03T15:12:24.809143",
   "alternative_titles": "I Regressed but the World Didn't Fall, I Regressed but the World Didn't Fall Apart, I Regressed, but the World Isn't Ruined, 회귀했는데 세상이 안 망함",
   "status": "Berjalan",
   "author": "Son Byeong-jun (손병준),Seonwoo (선우)",
@@ -26,16 +26,22 @@
   "synopsis": "Manhwa                    I Regressed, but the World didn’t End yang dibuat oleh komikus bernama\n                    Son Byeong-jun (손병준),Seonwoo (선우) ini bercerita tentang\n                    Lee Do-hyeok kembali ke masa lalu untuk menyelamatkan dunia. Ia disuruh mempersiapkan diri sebaik mungkin.\r\n\r\nNamun... dunia tidak kiamat. Kini yang tersisa bagi Do-hyeok hanyalah segunung utang.\r\n\r\n\"Aku akan membayarmu gaji, jadi bantu aku dengan streaming game-ku!\"\r\n\r\n... Maka, ia pun mulai melakukan streaming game. Namun, entah mengapa, itu terlalu mudah?\r\n\r\nSaksikan debut mantan pahlawan sebagai streamer game!",
   "chapters": [
     {
+      "chapter": "56",
+      "title": "Komik I Regressed, but the World didn’t End Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWdyZXNzZWQtYnV0LXRoZS13b3JsZC1kaWRudC1lbmQtY2hhcHRlci01Ni8=",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "55",
       "title": "Komik I Regressed, but the World didn’t End Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWdyZXNzZWQtYnV0LXRoZS13b3JsZC1kaWRudC1lbmQtY2hhcHRlci01NS8=",
-      "date": "24 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik I Regressed, but the World didn’t End Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWdyZXNzZWQtYnV0LXRoZS13b3JsZC1kaWRudC1lbmQtY2hhcHRlci01NC8=",
-      "date": "25 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "53",
@@ -131,7 +137,7 @@
       "chapter": "38",
       "title": "Komik I Regressed, but the World didn’t End Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWdyZXNzZWQtYnV0LXRoZS13b3JsZC1kaWRudC1lbmQtY2hhcHRlci0zOC8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -179,7 +185,7 @@
       "chapter": "30",
       "title": "Komik I Regressed, but the World didn’t End Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWdyZXNzZWQtYnV0LXRoZS13b3JsZC1kaWRudC1lbmQtY2hhcHRlci0zMC8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "29",
@@ -197,7 +203,7 @@
       "chapter": "27",
       "title": "Komik I Regressed, but the World didn’t End Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWdyZXNzZWQtYnV0LXRoZS13b3JsZC1kaWRudC1lbmQtY2hhcHRlci0yNy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "26",
@@ -356,5 +362,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 55
+  "total_chapters": 56
 }

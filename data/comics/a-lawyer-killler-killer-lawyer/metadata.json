@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-03T13:25:59.178022",
+  "scraped_at": "2026-04-03T15:12:45.097864",
   "alternative_titles": "The Killing Lawyer, 죽여주는 변호사",
   "status": "Berjalan",
   "author": "Kim Jung-Hyun",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    A Lawyer Killler (Killer Lawyer) yang dibuat oleh komikus bernama\n                    Kim Jung-Hyun ini bercerita tentang\n                    Byeon Hogil, killer kelas C dari organisasi pembunuh “Glory Club”, entah bagaimana menjadi seorang “pengacara”. Ini adalah kisah Byeon Hogil, warga biasa kita, yang berbagi universe dengan Killer Peter tetapi tidak peduli dengan nasib yang terjadi di universe tersebut.",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik A Lawyer Killler (Killer Lawyer) Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1sYXd5ZXIta2lsbGxlci1raWxsZXItbGF3eWVyLWNoYXB0ZXItMjQv",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik A Lawyer Killler (Killer Lawyer) Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1sYXd5ZXIta2lsbGxlci1raWxsZXItbGF3eWVyLWNoYXB0ZXItMjMv",
-      "date": "8 jam yang lalu"
+      "date": "10 jam yang lalu"
     },
     {
       "chapter": "22",
@@ -39,7 +45,7 @@
       "chapter": "20",
       "title": "Komik A Lawyer Killler (Killer Lawyer) Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1sYXd5ZXIta2lsbGxlci1raWxsZXItbGF3eWVyLWNoYXB0ZXItMjAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -162,5 +168,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }

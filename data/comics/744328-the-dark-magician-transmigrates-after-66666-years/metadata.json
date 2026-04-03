@@ -6,9 +6,9 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-01T23:48:31.560905",
+  "scraped_at": "2026-04-03T15:16:21.486554",
   "alternative_titles": "66666년 만에 환생한 흑마법사",
-  "status": "Berjalan",
+  "status": "Tamat",
   "author": "타루, 화봉",
   "illustrator": "파사",
   "demographic": "Shounen",
@@ -25,22 +25,16 @@
   "synopsis": "Manhwa                    The Dark Magician Transmigrates After 66666 Years yang dibuat oleh komikus bernama\n                    타루, 화봉 ini bercerita tentang\n                    Diablo Volfir, penyihir terhebat, yang disegel karena rencana jahat para 12 dewa, tapi 66666 tahun telah berlalu sejak saat itu, dan ia turun sekali lagi ke bumi !",
   "chapters": [
     {
-      "chapter": "462",
-      "title": "Komik The Dark Magician Transmigrates After 66666 Years Chapter 462",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnaWNpYW4tdHJhbnNtaWdyYXRlcy1hZnRlci02NjY2Ni15ZWFycy1jaGFwdGVyLTQ2Mi8=",
-      "date": "8 jam yang lalu"
-    },
-    {
-      "chapter": "461",
-      "title": "Komik The Dark Magician Transmigrates After 66666 Years Chapter 461",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnaWNpYW4tdHJhbnNtaWdyYXRlcy1hZnRlci02NjY2Ni15ZWFycy1jaGFwdGVyLTQ2MS8=",
-      "date": "8 jam yang lalu"
+      "chapter": "176",
+      "title": "Komik The Dark Magician Transmigrates After 66666 Years Chapter 176",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnaWNpYW4tdHJhbnNtaWdyYXRlcy1hZnRlci02NjY2Ni15ZWFycy1jaGFwdGVyLTE3Ni8=",
+      "date": "47 menit yang lalu"
     },
     {
       "chapter": "175",
       "title": "Komik The Dark Magician Transmigrates After 66666 Years Chapter 175",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnaWNpYW4tdHJhbnNtaWdyYXRlcy1hZnRlci02NjY2Ni15ZWFycy1jaGFwdGVyLTE3NS8=",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "174",
@@ -52,7 +46,7 @@
       "chapter": "173",
       "title": "Komik The Dark Magician Transmigrates After 66666 Years Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnaWNpYW4tdHJhbnNtaWdyYXRlcy1hZnRlci02NjY2Ni15ZWFycy1jaGFwdGVyLTE3My8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "172",
@@ -280,7 +274,7 @@
       "chapter": "135",
       "title": "Komik The Dark Magician Transmigrates After 66666 Years Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnaWNpYW4tdHJhbnNtaWdyYXRlcy1hZnRlci02NjY2Ni15ZWFycy1jaGFwdGVyLTEzNS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "134",
@@ -1087,5 +1081,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 177
+  "total_chapters": 176
 }

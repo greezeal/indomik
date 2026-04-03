@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.85,
-  "scraped_at": "2026-04-03T13:27:24.935957",
+  "scraped_at": "2026-04-03T15:13:51.155855",
   "alternative_titles": "Become a Legend as an All-Rounder, Becoming the Legend of the All-Around Employee, The Legendary All-Rounder, 만능사원 전설이 되다",
   "status": "Berjalan",
   "author": "JRobin,BONGUN",
@@ -26,10 +26,16 @@
   "synopsis": "Manhwa                    Becoming a Legendary Ace Employee yang dibuat oleh komikus bernama\n                    JRobin,BONGUN ini bercerita tentang\n                    Kim Tae-seok, yang bekerja di lokasi konstruksi, menerima pemberitahuan lulus pemeriksaan dokumen untuk perusahaan besar El Sung. Pada saat yang sama, sebuah pesan muncul di depannya: 'Anda telah memasuki jalur untuk menjadi karyawan tetap tutorial. Apakah Anda ingin melanjutkan?' Ikuti perjuangan Kim Tae-seok untuk menjadi karyawan serba bisa yang legendaris dalam petualangan korporat ini!",
   "chapters": [
     {
+      "chapter": "130",
+      "title": "Komik Becoming a Legendary Ace Employee Chapter 130",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItMTMwLw==",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "129",
       "title": "Komik Becoming a Legendary Ace Employee Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21pbmctYS1sZWdlbmRhcnktYWNlLWVtcGxveWVlLWNoYXB0ZXItMTI5Lw==",
-      "date": "14 jam yang lalu"
+      "date": "16 jam yang lalu"
     },
     {
       "chapter": "128",
@@ -800,5 +806,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 129
+  "total_chapters": 130
 }
