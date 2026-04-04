@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.14,
-  "scraped_at": "2026-04-01T12:06:04.998415",
+  "scraped_at": "2026-04-04T19:52:24.784255",
   "alternative_titles": "Dungeon Experience Book, 던전 견문록",
   "status": "Berjalan",
   "author": "Glumph, Son Min-woo",
@@ -21,28 +21,34 @@
   "synopsis": "Manhwa                    Dungeon Odyssey yang dibuat oleh komikus bernama\n                    Glumph, Son Min-woo ini bercerita tentang\n                    Keturunan umat manusia, lahir di labirin dan dibesarkan dengan susu monster, memiliki kekuatan khusus dan tubuh yang kuat. Ketika mereka kembali ke bumi, umat manusia menyebut mereka sebagai bayi Dungeon. Di antara mereka, Kim Jinwoo lahir di labirin terdalam.\r\n“Aku tidak pernah mencoba untuk menjadi kuat, aku hanya ingin hidup.”\r\nDari ekskavator paling rendah hingga raja labirin, kisah hidupnya kini terbentang.",
   "chapters": [
     {
+      "chapter": "155",
+      "title": "Komik Dungeon Odyssey Chapter 155",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTU1Lw==",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "154",
       "title": "Komik Dungeon Odyssey Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTU0Lw==",
-      "date": "11 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "153",
       "title": "Komik Dungeon Odyssey Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTUzLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "152",
       "title": "Komik Dungeon Odyssey Chapter 152",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTUyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "151",
       "title": "Komik Dungeon Odyssey Chapter 151",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTUxLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "150",
@@ -162,7 +168,7 @@
       "chapter": "131",
       "title": "Komik Dungeon Odyssey Chapter 131",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTMxLw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "130",
@@ -882,31 +888,31 @@
       "chapter": "11",
       "title": "Komik Dungeon Odyssey Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTEv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Dungeon Odyssey Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItMTAv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Dungeon Odyssey Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItOS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Dungeon Odyssey Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItOC8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Dungeon Odyssey Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2Vvbi1vZHlzc2V5LWNoYXB0ZXItNy8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "6",
@@ -945,5 +951,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 154
+  "total_chapters": 155
 }
