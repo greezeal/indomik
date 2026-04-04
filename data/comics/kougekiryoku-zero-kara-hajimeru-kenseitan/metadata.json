@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.5,
-  "scraped_at": "2026-02-28T20:41:33.223210",
+  "scraped_at": "2026-04-04T13:41:38.420027",
   "alternative_titles": "Kougekiryoku Zero kara Hajimeru Ken Hijiri Tan, 攻撃力ゼロから始める剣聖譚, The Master Swordman's Story Starts with the Zero Ability to Attack, Câu chuyện của Kiếm sĩ vô năng trên con đường trở thành Thánh Kiếm, Tale of the Sword Saint Beginning with Zero Attack Power",
   "status": "Berjalan",
   "author": "Oosaki Airu",
@@ -26,53 +26,59 @@
   "synopsis": "Manga                    Kougekiryoku Zero Kara Hajimeru Kenseitan yang dibuat oleh komikus bernama\n                    Oosaki Airu ini bercerita tentang\n                    Meskipun Eugene diberkahi dengan bakat luar biasa untuk sihir pertahanan, ia tidak memiliki bakat untuk sihir penyerang. Ia diejek sebagai orang yang tidak kompeten oleh orang-orang di sekitarnya dan mendaftar di akademi sihir untuk melarikan diri. Namun, sihir pertahanannya yang \"tidak berguna\" berguna di sana, dan seperti yang diharapkan, ia ditugaskan untuk mengurus Raja Iblis cantik Erinyes, yang pernah menguasai dunia...!?",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci05Lw==",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci04Lw==",
-      "date": "11 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci03Lw==",
-      "date": "11 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "06",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 06",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci0wNi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "05",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 05",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci0wNS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci00Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci0zLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci0yLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Kougekiryoku Zero Kara Hajimeru Kenseitan Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291Z2VraXJ5b2t1LXplcm8ta2FyYS1oYWppbWVydS1rZW5zZWl0YW4tY2hhcHRlci0xLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

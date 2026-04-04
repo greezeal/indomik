@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.3,
-  "scraped_at": "2026-03-31T09:52:29.120092",
+  "scraped_at": "2026-04-04T13:45:40.713675",
   "alternative_titles": "Jobless Gye Baeksun, 무직백수 계백순, Unemployed Gye Baek-soon",
   "status": "Berjalan",
   "author": "Jibal",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    Unemployed Gye Baeksun yang dibuat oleh komikus bernama\n                    Jibal ini bercerita tentang\n                    Tanpa tabungan, kualifikasi rata-rata, dan saldo bank yang selalu di bawah 10.000 won, dapatkah Sang Pemecah Tulang Gye Baeksun benar-benar terbebas dari pengangguran?",
   "chapters": [
     {
+      "chapter": "73",
+      "title": "Komik Unemployed Gye Baeksun Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTczLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "72",
       "title": "Komik Unemployed Gye Baeksun Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTcyLw==",
-      "date": "9 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Unemployed Gye Baeksun Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTcxLw==",
-      "date": "10 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Unemployed Gye Baeksun Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTcwLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik Unemployed Gye Baeksun Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTY5Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "68",
@@ -65,13 +71,13 @@
       "chapter": "65",
       "title": "Komik Unemployed Gye Baeksun Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTY1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Unemployed Gye Baeksun Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTY0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "63",
@@ -209,13 +215,13 @@
       "chapter": "41",
       "title": "Komik Unemployed Gye Baeksun Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTQxLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Unemployed Gye Baeksun Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTQwLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -305,7 +311,7 @@
       "chapter": "25",
       "title": "Komik Unemployed Gye Baeksun Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5lbXBsb3llZC1neWUtYmFla3N1bi1jaGFwdGVyLTI1Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "24",
@@ -452,5 +458,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 72
+  "total_chapters": 73
 }

@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-31T09:54:15.686913",
-  "alternative_titles": "초월급 엑스트라의 공략집, The World-Class Extra\\'s Walkthrough",
+  "scraped_at": "2026-04-04T13:47:34.004608",
+  "alternative_titles": "초월급 엑스트라의 공략집, The World-Class Extra's Walkthrough",
   "status": "Berjalan",
   "author": "COLDCAT",
   "illustrator": "VIK",
@@ -23,28 +23,34 @@
   "synopsis": "Manhwa                    The World-Class Extra’s Walkthrough [Remake] yang dibuat oleh komikus bernama\n                    COLDCAT ini bercerita tentang\n                    Seorang pria pengangguran yang pas-pasan dengan pekerjaan paruh waktu, terombang-ambing seperti yatim piatu yang mengembara.Satu-satunya kegembiraannya dalam kehidupan yang membosankan dan tak berubah adalah game daring God-Forsaken World. Baginya, game itu lebih dari sekadar hiburan — melainkan pelarian dari kenyataan.Lalu suatu hari, saat asyik bermain, ia mendengar suara misterius entah dari mana. Ketika ia tersadar... ia mendapati dirinya berada di dalam dunia game!Anda mungkin berpikir bahwa setelah dipindahkan ke dalam game, ia akan menjadi protagonis yang keren dan kuat... tetapi tidak.Ia terbangun sebagai aib dan kegagalan Kekaisaran dari pangeran ketiga: Gilroshan Elro de Valt!",
   "chapters": [
     {
+      "chapter": "43",
+      "title": "Komik The World-Class Extra’s Walkthrough [Remake] Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWNsYXNzLWV4dHJhcy13YWxrdGhyb3VnaC1yZW1ha2UtY2hhcHRlci00My8=",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik The World-Class Extra’s Walkthrough [Remake] Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWNsYXNzLWV4dHJhcy13YWxrdGhyb3VnaC1yZW1ha2UtY2hhcHRlci00Mi8=",
-      "date": "30 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik The World-Class Extra’s Walkthrough [Remake] Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWNsYXNzLWV4dHJhcy13YWxrdGhyb3VnaC1yZW1ha2UtY2hhcHRlci00MS8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik The World-Class Extra’s Walkthrough [Remake] Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWNsYXNzLWV4dHJhcy13YWxrdGhyb3VnaC1yZW1ha2UtY2hhcHRlci00MC8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik The World-Class Extra’s Walkthrough [Remake] Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWNsYXNzLWV4dHJhcy13YWxrdGhyb3VnaC1yZW1ha2UtY2hhcHRlci0zOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "38",
@@ -272,8 +278,8 @@
       "chapter": "1",
       "title": "Komik The World-Class Extra’s Walkthrough [Remake] Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWNsYXNzLWV4dHJhcy13YWxrdGhyb3VnaC1yZW1ha2UtY2hhcHRlci0xLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 43
 }

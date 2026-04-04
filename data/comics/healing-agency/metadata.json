@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T20:22:37.793851",
+  "scraped_at": "2026-04-04T13:45:45.679073",
   "alternative_titles": "힐링사무소",
   "status": "Tamat",
   "author": "Park Tae-Hee",
@@ -20,41 +20,47 @@
   "synopsis": "Manhwa                    Healing Agency yang dibuat oleh komikus bernama\n                    Park Tae-Hee ini bercerita tentang\n                    Sa Hyun-woo, seorang karyawan 'Kantor Penyembuhan' yang menerima uang dan memukuli roh jahat dengan tangan kosong untuk mengusir orang yang kerasukan. Saat menjalankan permintaan tersebut, ia menemukan bahwa ada kelompok jahat yang secara artifisial menyuntikkan roh jahat, menjerumuskan dunia ke dalam kekacauan. Marah oleh tirani mereka yang menghancurkan hubungan berharga, Sa Hyun-woo memulai perjuangan hidup dan mati untuk membasmi akar kejahatan.",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Healing Agency Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hZ2VuY3ktY2hhcHRlci03Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Healing Agency Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hZ2VuY3ktY2hhcHRlci02Lw==",
-      "date": "10 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Healing Agency Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hZ2VuY3ktY2hhcHRlci01Lw==",
-      "date": "10 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Healing Agency Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hZ2VuY3ktY2hhcHRlci00Lw==",
-      "date": "10 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Healing Agency Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hZ2VuY3ktY2hhcHRlci0zLw==",
-      "date": "11 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Healing Agency Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hZ2VuY3ktY2hhcHRlci0yLw==",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Healing Agency Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hZ2VuY3ktY2hhcHRlci0xLw==",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }
