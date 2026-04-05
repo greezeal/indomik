@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.24,
-  "scraped_at": "2026-04-04T23:59:57.530245",
+  "scraped_at": "2026-04-05T15:45:59.428810",
   "alternative_titles": "회귀한 C급 탱커가 죽지 않아!, Kembalinya Tank Rank-C Yang Tidak Akan Mati!",
   "status": "Berjalan",
   "author": "커피펜,또민,부숭",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    The Returned C-Rank Tank Won’t Die! yang dibuat oleh komikus bernama\n                    커피펜,또민,부숭 ini bercerita tentang\n                    Seorang tank peringkat C, yang ditinggalkan oleh rekan satu timnya hingga mati, membangkitkan kemampuan regeneratif yang langka setelah mengalami kematian yang tak terhitung jumlahnya. Sekarang abadi tetapi trauma, ia harus memutuskan langkah selanjutnya di dunia yang mengkhianatinya.",
   "chapters": [
     {
+      "chapter": "51",
+      "title": "Komik The Returned C-Rank Tank Won’t Die! Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybmVkLWMtcmFuay10YW5rLXdvbnQtZGllLWNoYXB0ZXItNTEv",
+      "date": "32 menit yang lalu"
+    },
+    {
       "chapter": "50",
       "title": "Komik The Returned C-Rank Tank Won’t Die! Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybmVkLWMtcmFuay10YW5rLXdvbnQtZGllLWNoYXB0ZXItNTAv",
-      "date": "52 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik The Returned C-Rank Tank Won’t Die! Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybmVkLWMtcmFuay10YW5rLXdvbnQtZGllLWNoYXB0ZXItNDkv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "48",
@@ -120,7 +126,7 @@
       "chapter": "34",
       "title": "Komik The Returned C-Rank Tank Won’t Die! Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybmVkLWMtcmFuay10YW5rLXdvbnQtZGllLWNoYXB0ZXItMzQv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -321,5 +327,5 @@
       "date": "12 bulan yang lalu"
     }
   ],
-  "total_chapters": 50
+  "total_chapters": 51
 }

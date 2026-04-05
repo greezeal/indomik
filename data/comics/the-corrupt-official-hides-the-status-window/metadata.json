@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T17:47:46.400774",
+  "scraped_at": "2026-04-05T15:45:10.455976",
   "alternative_titles": "Corrupt Official Hides the Status Window, 탐관오리가 상태창을 숨김",
   "status": "Berjalan",
   "author": "Corax, Kwon Kijun",
@@ -20,46 +20,52 @@
   "synopsis": "Manhwa                    The Corrupt Official Hides the Status Window yang dibuat oleh komikus bernama\n                    Corax, Kwon Kijun ini bercerita tentang\n                    Tokoh utama telah mendedikasikan seluruh hidupnya untuk mempersiapkan ujian pegawai negeri. Suatu hari, saat berjalan-jalan di distrik Noryangjin seperti biasa, ia mampir ke restoran nasi instan untuk makan malam.\r\n\r\n“Jika tujuanmu adalah masuk ke dinas pemerintahan, aku bisa mewujudkan keinginanmu seketika,” kata pemilik toko yang berani itu. Terpikat oleh kata-kata tersebut, tokoh utama menyetujui syarat dan ketentuan—dan tiba-tiba kembali ke Dinasti Joseon.\r\n\r\n“Raih posisi Kepala Penasihat Negara (영의정). Jika kau gagal, kami akan melakukan pengambilan paksa jiwamu.”\r\n\r\nKim Un-haeng harus menjadi Kepala Penasihat Negara sambil menghadapi intrik politik yang berbahaya antara Raja Yeongjo dan Putra Mahkota Sado (yang akan meninggal secara tragis di dalam peti beras).\r\n\r\nTidak seperti tokoh utama yang mengalami regresi pada umumnya, ia tidak tahu cara membuat sabun, senjata, atau mesin uap. Inilah kisah beratnya yang terungkap sekarang.",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik The Corrupt Official Hides the Status Window Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xNy8=",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik The Corrupt Official Hides the Status Window Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xNi8=",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Corrupt Official Hides the Status Window Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xNS8=",
-      "date": "8 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Corrupt Official Hides the Status Window Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xNC8=",
-      "date": "8 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The Corrupt Official Hides the Status Window Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik The Corrupt Official Hides the Status Window Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The Corrupt Official Hides the Status Window Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The Corrupt Official Hides the Status Window Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnJ1cHQtb2ZmaWNpYWwtaGlkZXMtdGhlLXN0YXR1cy13aW5kb3ctY2hhcHRlci0xMC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -116,5 +122,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }

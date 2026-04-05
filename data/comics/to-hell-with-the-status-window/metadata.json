@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-09T12:42:39.830073",
+  "scraped_at": "2026-04-05T15:44:45.619367",
   "alternative_titles": "Unstated, To Hell With the Status Window, 언스탯",
   "status": "Berjalan",
   "author": "thorn",
@@ -23,40 +23,64 @@
   "synopsis": "Manhwa                    To Hell With the Status Window yang dibuat oleh komikus bernama\n                    thorn ini bercerita tentang\n                    Manusia terkuat di Murim, “Asura” telah dipindahkan ke dunia lain. Setelah mencapai puncak kesuksesan hanya berkat kemampuan bela dirinya, ia menghancurkan status window dan tower dengan tangannya sendiri, dan secara tegas menolak untuk berpartisipasi sebagai pemain.",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik To Hell With the Status Window Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItMTYv",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik To Hell With the Status Window Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItMTUv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik To Hell With the Status Window Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItMTQv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik To Hell With the Status Window Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItMTMv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik To Hell With the Status Window Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItMTIv",
-      "date": "5 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik To Hell With the Status Window Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItMTEv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik To Hell With the Status Window Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItMTAv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik To Hell With the Status Window Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik To Hell With the Status Window Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItOC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik To Hell With the Status Window Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG8taGVsbC13aXRoLXRoZS1zdGF0dXMtd2luZG93LWNoYXB0ZXItNy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "06",
@@ -95,5 +119,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 16
 }

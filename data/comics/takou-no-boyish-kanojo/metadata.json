@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.84,
-  "scraped_at": "2026-04-04T16:19:46.090880",
+  "scraped_at": "2026-04-05T15:43:20.172357",
   "alternative_titles": "他校のボーイッシュ彼女, Boyish Girlfriend from Another School",
   "status": "Berjalan",
   "author": "Gyuunyuu Mugigohan",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    Takou no Boyish Kanojo yang dibuat oleh komikus bernama\n                    Gyuunyuu Mugigohan ini bercerita tentang\n                    Pacar tomboy dari Sekolah Lain",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Takou no Boyish Kanojo Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTM4Lw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Takou no Boyish Kanojo Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTM3Lw==",
-      "date": "15 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Takou no Boyish Kanojo Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTM2Lw==",
-      "date": "22 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "35",
@@ -48,7 +54,7 @@
       "chapter": "33",
       "title": "Komik Takou no Boyish Kanojo Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTMzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "32",
@@ -72,7 +78,7 @@
       "chapter": "29",
       "title": "Komik Takou no Boyish Kanojo Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTI5Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -237,5 +243,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }

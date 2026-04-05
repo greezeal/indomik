@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.41,
-  "scraped_at": "2026-04-05T00:00:28.291165",
+  "scraped_at": "2026-04-05T15:45:40.489115",
   "alternative_titles": "The Blonde-Haired Villain in Girl Overlord Novel Also Longs for Happiness, The Yellow-Haired Villain in Soaring Phoenix's Novels Also Desires Happiness, 凤傲天小说里的黄毛反派也想幸福, The Yellow-Haired Villain in the Female Main Character's Novel Wants Happiness, Feng Aotian Xiaoshuo li de Huangmao Fanpai Ye Xiang Xingfu",
   "status": "Berjalan",
   "author": "子与我非鱼",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    The Yellow-haired Villain in Female Main Character’s Novel wants Happiness yang dibuat oleh komikus bernama\n                    子与我非鱼 ini bercerita tentang\n                    Bertransmigrasi ke tubuh penjahat berambut kuning di tahap awal novel Yuri, Moon hanya ingin bertahan hidup. Tapi... kenapa ceritanya terasa melenceng?\r\n\r\nSang putri sudah dibius, bahkan celananya pun sudah dilepas—lalu kenapa sang protagonis belum muncul juga? Kenapa teman masa kecil sang protagonis, seorang santo yang mulia dan murni, terus menatapku dengan tatapan genit? Bahkan pelayan pribadiku yang patuh dan setia mulai menatapku dengan tatapan yang semakin berbahaya!\r\n\r\nDi mana sang protagonis?! Tolong, seseorang selamatkan aku!!",
   "chapters": [
     {
+      "chapter": "64",
+      "title": "Komik The Yellow-haired Villain in Female Main Character’s Novel wants Happiness Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXllbGxvdy1oYWlyZWQtdmlsbGFpbi1pbi1mZW1hbGUtbWFpbi1jaGFyYWN0ZXJzLW5vdmVsLXdhbnRzLWhhcHBpbmVzcy1jaGFwdGVyLTY0Lw==",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "63",
       "title": "Komik The Yellow-haired Villain in Female Main Character’s Novel wants Happiness Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXllbGxvdy1oYWlyZWQtdmlsbGFpbi1pbi1mZW1hbGUtbWFpbi1jaGFyYWN0ZXJzLW5vdmVsLXdhbnRzLWhhcHBpbmVzcy1jaGFwdGVyLTYzLw==",
-      "date": "55 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "62",
@@ -256,13 +262,13 @@
       "chapter": "25",
       "title": "Komik The Yellow-haired Villain in Female Main Character’s Novel wants Happiness Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXllbGxvdy1oYWlyZWQtdmlsbGFpbi1pbi1mZW1hbGUtbWFpbi1jaGFyYWN0ZXJzLW5vdmVsLXdhbnRzLWhhcHBpbmVzcy1jaGFwdGVyLTI1Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Yellow-haired Villain in Female Main Character’s Novel wants Happiness Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXllbGxvdy1oYWlyZWQtdmlsbGFpbi1pbi1mZW1hbGUtbWFpbi1jaGFyYWN0ZXJzLW5vdmVsLXdhbnRzLWhhcHBpbmVzcy1jaGFwdGVyLTI0Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -403,5 +409,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }
