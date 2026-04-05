@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-05T14:04:57.973957",
-  "total_comics": 1354,
+  "last_updated": "2026-04-05T14:59:48.423355",
+  "total_comics": 1357,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 509
+      "total_chapters": 510
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 508
+      "total_chapters": 509
     },
     {
       "slug": "marriagetoxin",
@@ -1144,7 +1144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 77
     },
     {
       "slug": "chronicles-of-the-lazy-sovereign",
@@ -1904,7 +1904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 126
+      "total_chapters": 128
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -2064,7 +2064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 100
+      "total_chapters": 102
     },
     {
       "slug": "witchriv",
@@ -2848,7 +2848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "155258-juvenile-prison",
@@ -3656,7 +3656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 65
     },
     {
       "slug": "905942-reincarnated-escort-warrior",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 261
+      "total_chapters": 262
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4296,7 +4296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 174
+      "total_chapters": 175
     },
     {
       "slug": "976292-i-became-the-tyrant-of-a-defense-game",
@@ -5904,7 +5904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "876366-gokurakugai",
@@ -5920,7 +5920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "the-tale-of-the-skeleton-messenger",
@@ -6024,7 +6024,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "792245-i-reincarnated-as-a-legendary-surgeon",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -9208,7 +9208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.09,
-      "total_chapters": 446
+      "total_chapters": 447
     },
     {
       "slug": "the-snow-leopard-baby-of-the-black-leopard-family",
@@ -9576,7 +9576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "taoreta-fujin-wo-sukutta-gohoubi-wa-musume-no-bijin-futago-to-no-otsukiai-deshita",
@@ -10208,7 +10208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 13
     },
     {
       "slug": "healing-agency",
@@ -10833,6 +10833,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 6
+    },
+    {
+      "slug": "toumei-na-yoru-ni-kakeru-kun-to-me-ni-mienai-koi-wo-shita",
+      "title": "Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi wo Shita.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "high-class",
+      "title": "High Class",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 62
+    },
+    {
+      "slug": "tensei-nanmin-shoujo-wa-shimin-ken-wo-0-kara-mezashite-hatarakimasu",
+      "title": "Tensei Nanmin Shoujo wa Shimin-ken wo 0 Kara Mezashite Hatarakimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 11
     }
   ]
 }

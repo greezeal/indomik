@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-03T15:15:37.964040",
+  "scraped_at": "2026-04-05T14:55:09.098769",
   "alternative_titles": "신화급 귀속 아이템을 손에 넣었다",
   "status": "Berjalan",
   "author": "Jung SeonYul (정선율)",
@@ -25,10 +25,16 @@
   "synopsis": "Manhwa                    I Obtained a Mythic Item yang dibuat oleh komikus bernama\n                    Jung SeonYul (정선율) ini bercerita tentang\n                    Raider non-tempur D-Rank menjadi musuh besar dewa yang akan menyelamatkan dunia dengan item restorasi terkuat.",
   "chapters": [
     {
+      "chapter": "174",
+      "title": "Komik I Obtained a Mythic Item Chapter 174",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTc0Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "173",
       "title": "Komik I Obtained a Mythic Item Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTczLw==",
-      "date": "41 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "172",
@@ -136,13 +142,13 @@
       "chapter": "155",
       "title": "Komik I Obtained a Mythic Item Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTU1Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "154",
       "title": "Komik I Obtained a Mythic Item Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTU0Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "153",
@@ -256,7 +262,7 @@
       "chapter": "135",
       "title": "Komik I Obtained a Mythic Item Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTM1Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "134",
@@ -1069,5 +1075,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 174
+  "total_chapters": 175
 }
