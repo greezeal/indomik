@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-29T20:22:59.272060",
+  "scraped_at": "2026-04-06T15:07:57.117045",
   "alternative_titles": "Delivery Man From Murim, Delivery Man From Moorim, The Delivery Man From Moorim, 무림에서 온 배달부",
   "status": "Berjalan",
   "author": "Hyangran, Studio Jilpung",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    The Delivery Man From Murim yang dibuat oleh komikus bernama\n                    Hyangran, Studio Jilpung ini bercerita tentang\n                    Dewa bela diri Murim menjadi pengantar barang super cepat!\r\n\r\nBahkan sebelum mencapai usia empat puluh, dewa perang “Kang So” telah menaklukkan dunia. Saat dia sedang mengkonsolidasikan energinya setelah mencapai pencerahan, dia tiba-tiba turun ke celah yang baru terbentuk…\r\n\r\nDia tiba di Korea Selatan abad ke-21, sebuah negeri yang terpencil oleh gerbang dan binatang iblis. Di sini, dewa perang dari dunia persilatan, yang sekarang menjadi pengantar barang, akan membawa kedamaian!",
   "chapters": [
     {
+      "chapter": "94",
+      "title": "Komik The Delivery Man From Murim Chapter 94",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItOTQv",
+      "date": "9 jam yang lalu"
+    },
+    {
       "chapter": "93",
       "title": "Komik The Delivery Man From Murim Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItOTMv",
-      "date": "13 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik The Delivery Man From Murim Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItOTIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "91",
@@ -62,19 +68,19 @@
       "chapter": "87",
       "title": "Komik The Delivery Man From Murim Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItODcv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik The Delivery Man From Murim Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItODYv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik The Delivery Man From Murim Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItODUv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "84",
@@ -86,13 +92,13 @@
       "chapter": "83",
       "title": "Komik The Delivery Man From Murim Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItODMv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik The Delivery Man From Murim Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItODIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "81",
@@ -170,7 +176,7 @@
       "chapter": "69",
       "title": "Komik The Delivery Man From Murim Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItNjkv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "68",
@@ -212,7 +218,7 @@
       "chapter": "62",
       "title": "Komik The Delivery Man From Murim Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItNjIv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "61",
@@ -581,5 +587,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 93
+  "total_chapters": 94
 }
