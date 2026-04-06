@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-06T16:04:19.154030",
+  "scraped_at": "2026-04-06T21:02:44.715169",
   "alternative_titles": "Delivery Man From Murim, Delivery Man From Moorim, The Delivery Man From Moorim, 무림에서 온 배달부",
   "status": "Berjalan",
   "author": "Hyangran, Studio Jilpung",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    The Delivery Man From Murim yang dibuat oleh komikus bernama\n                    Hyangran, Studio Jilpung ini bercerita tentang\n                    Dewa bela diri Murim menjadi pengantar barang super cepat!\r\n\r\nBahkan sebelum mencapai usia empat puluh, dewa perang “Kang So” telah menaklukkan dunia. Saat dia sedang mengkonsolidasikan energinya setelah mencapai pencerahan, dia tiba-tiba turun ke celah yang baru terbentuk…\r\n\r\nDia tiba di Korea Selatan abad ke-21, sebuah negeri yang terpencil oleh gerbang dan binatang iblis. Di sini, dewa perang dari dunia persilatan, yang sekarang menjadi pengantar barang, akan membawa kedamaian!",
   "chapters": [
     {
+      "chapter": "95",
+      "title": "Komik The Delivery Man From Murim Chapter 95",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItOTUv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "94",
       "title": "Komik The Delivery Man From Murim Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItOTQv",
-      "date": "9 jam yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "93",
@@ -587,5 +593,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 94
+  "total_chapters": 95
 }

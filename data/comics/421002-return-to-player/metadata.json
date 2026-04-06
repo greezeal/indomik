@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.23,
-  "scraped_at": "2026-03-31T01:07:57.737044",
+  "scraped_at": "2026-04-06T20:59:01.059318",
   "alternative_titles": "รีเทิร์น ทู เพลย์เยอร์, 리턴 투 플레이어",
   "status": "Berjalan",
   "author": "엄키, 인덱스",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    Return to Player yang dibuat oleh komikus bernama\n                    엄키, 인덱스 ini bercerita tentang\n                    Suatu hari dunia menjadi sebuah permainan. Monster tiba-tiba muncul dan membunuh manusia dan manusia telah menjadi pemain dan harus memenuhi misi! Seorang pemain yang diberi kesempatan kedua setelah jatuhnya umat manusia, Kim Sehan. Akankah dia mampu mengalahkan sistem yang membuat dunia menjadi berantakan?",
   "chapters": [
     {
+      "chapter": "231",
+      "title": "Komik Return to Player Chapter 231",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIzMS8=",
+      "date": "51 menit yang lalu"
+    },
+    {
       "chapter": "230",
       "title": "Komik Return to Player Chapter 230",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIzMC8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "229",
       "title": "Komik Return to Player Chapter 229",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyOS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "228",
       "title": "Komik Return to Player Chapter 228",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyOC8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "227",
       "title": "Komik Return to Player Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyNy8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik Return to Player Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIyNi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "225",
@@ -96,13 +102,13 @@
       "chapter": "218",
       "title": "Komik Return to Player Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIxOC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "217",
       "title": "Komik Return to Player Chapter 217",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIxNy8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "216",
@@ -132,13 +138,13 @@
       "chapter": "212",
       "title": "Komik Return to Player Chapter 212",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIxMi8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "211",
       "title": "Komik Return to Player Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTIxMS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "210",
@@ -210,7 +216,7 @@
       "chapter": "199",
       "title": "Komik Return to Player Chapter 199",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTE5OS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "198",
@@ -282,7 +288,7 @@
       "chapter": "187",
       "title": "Komik Return to Player Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLXRvLXBsYXllci1jaGFwdGVyLTE4Ny8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "186",
@@ -1401,5 +1407,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 230
+  "total_chapters": 231
 }

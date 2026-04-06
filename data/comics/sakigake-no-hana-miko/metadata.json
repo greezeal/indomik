@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-04T16:21:05.968092",
+  "scraped_at": "2026-04-06T21:02:26.387191",
   "alternative_titles": "魁の花巫女",
   "status": "Berjalan",
   "author": "KITADA Ryouma",
@@ -20,28 +20,34 @@
   "synopsis": "Manga                    Sakigake no Hana Miko yang dibuat oleh komikus bernama\n                    KITADA Ryouma ini bercerita tentang\n                    Ada sekelompok gadis cantik yang berperang melawan \"magami\" yang membawa bencana bagi manusia. Mereka disebut gadis kuil bunga dan tinggal bersama di \"Kastil Kuraya\". Setelah kematian ayahnya, Arata, seorang guru sekolah menengah sementara yang tidak puas dengan Udatsu, memutuskan untuk menjadi pemimpin tertinggi Gadis Kuil Bunga. Namun, mengoordinasikan gadis kuil bunga yang unik dan penuh pembuat onar ternyata lebih sulit dari yang diperkirakan... Banyak gadis cantik! Penuh rangsangan! Penuh kegembiraan! Pertarungan gadis kuil bunga dimulai!!",
   "chapters": [
     {
+      "chapter": "74",
+      "title": "Komik Sakigake no Hana Miko Chapter 74",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FraWdha2Utbm8taGFuYS1taWtvLWNoYXB0ZXItNzQv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "73",
       "title": "Komik Sakigake no Hana Miko Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FraWdha2Utbm8taGFuYS1taWtvLWNoYXB0ZXItNzMv",
-      "date": "4 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik Sakigake no Hana Miko Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FraWdha2Utbm8taGFuYS1taWtvLWNoYXB0ZXItNzIv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Sakigake no Hana Miko Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FraWdha2Utbm8taGFuYS1taWtvLWNoYXB0ZXItNzEv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Sakigake no Hana Miko Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FraWdha2Utbm8taGFuYS1taWtvLWNoYXB0ZXItNzAv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "69",
@@ -269,7 +275,7 @@
       "chapter": "32",
       "title": "Komik Sakigake no Hana Miko Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FraWdha2Utbm8taGFuYS1taWtvLWNoYXB0ZXItMzIv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "31",
@@ -458,5 +464,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 73
+  "total_chapters": 74
 }

@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-05T14:56:24.056969",
+  "scraped_at": "2026-04-06T20:57:10.580776",
   "alternative_titles": "The Greatest Sect Leader of All-Time, Wangu Zui Qiang Zong, Wàngǔ Zuì Qiáng Zōng, Да здравствует лидер секты, Лидер секты, Сильнейшая секта всех времен, 万古最强宗",
   "status": "Berjalan",
   "author": "阅文漫画",
@@ -25,16 +25,22 @@
   "synopsis": "Manhua                    All Hail the Sect Leader yang dibuat oleh komikus bernama\n                    阅文漫画 ini bercerita tentang\n                    Kepala sekte terakhir selalu tertawa, tetapi dia tidak pernah menyangka: Murid wanita dingin yang direkrut dengan santai menyembunyikan kengeriannya, dan murid pria yang menutup matanya di jalan untuk menyelamatkan sebenarnya adalah jenius pertama. Dia menendang bola ke kelahiran kembali Kaisar Wu menendang sekte itu untuk meragukan bahwa adik laki-laki yang melihat kesia-siaan dalam hidup adalah seorang jenius yang jatuh. Sekte ini semua mempesona … Tuhan ingin aku menentang langit, itu tidak bisa menghentikannya.",
   "chapters": [
     {
+      "chapter": "510",
+      "title": "Komik All Hail the Sect Leader Chapter 510",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItNTEwLw==",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "509",
       "title": "Komik All Hail the Sect Leader Chapter 509",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItNTA5Lw==",
-      "date": "18 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "508",
       "title": "Komik All Hail the Sect Leader Chapter 508",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItNTA4Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "507",
@@ -196,7 +202,7 @@
       "chapter": "481",
       "title": "Komik All Hail the Sect Leader Chapter 481",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItNDgxLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "480",
@@ -382,7 +388,7 @@
       "chapter": "450",
       "title": "Komik All Hail the Sect Leader Chapter 450",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItNDUwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "449",
@@ -520,7 +526,7 @@
       "chapter": "427",
       "title": "Komik All Hail the Sect Leader Chapter 427",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItNDI3Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "426",
@@ -910,7 +916,7 @@
       "chapter": "362",
       "title": "Komik All Hail the Sect Leader Chapter 362",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItMzYyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "361",
@@ -1444,7 +1450,7 @@
       "chapter": "273",
       "title": "Komik All Hail the Sect Leader Chapter 273",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxsLWhhaWwtdGhlLXNlY3QtbGVhZGVyLWNoYXB0ZXItMjczLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "272",
@@ -3079,5 +3085,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 509
+  "total_chapters": 510
 }

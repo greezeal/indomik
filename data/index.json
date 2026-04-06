@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T20:03:44.687140",
-  "total_comics": 1361,
+  "last_updated": "2026-04-06T21:03:43.914242",
+  "total_comics": 1363,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -94,9 +94,9 @@
       "slug": "a-hero-who-does-everything-well",
       "title": "A Hero Who Does Everything Well",
       "type": "Manhwa",
-      "status": "",
+      "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 0
+      "total_chapters": 72
     },
     {
       "slug": "after-rebirth-i-used-mirror-reversal-for-vengeance",
@@ -456,7 +456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 48
+      "total_chapters": 50
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -560,7 +560,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.52,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "kawaii-wa-kimi-no-mono",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 509
+      "total_chapters": 510
     },
     {
       "slug": "marriagetoxin",
@@ -1080,7 +1080,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 69
+      "total_chapters": 73
     },
     {
       "slug": "isekai-no-binbou-nouka-ni-tensei-shita-node-renga-wo-tsukutte-shiro-wo-tateru-koto-ni-shimashita",
@@ -1168,7 +1168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.49,
-      "total_chapters": 250
+      "total_chapters": 251
     },
     {
       "slug": "830221-player-who-returned-10000-years-later",
@@ -1176,7 +1176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 151
+      "total_chapters": 152
     },
     {
       "slug": "the-demon-king-overrun-by-heroes",
@@ -1216,7 +1216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.35,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "my-empress-disciple-is-about-to-turn-dark",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1774,9 +1774,9 @@
       "slug": "otome-game-no-heroine-de-saikyou-survival",
       "title": "Otome Game no Heroine de Saikyou Survival",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.56,
+      "total_chapters": 42
     },
     {
       "slug": "938141-tensei-shitara-slime-datta-ken",
@@ -1840,7 +1840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 171
+      "total_chapters": 174
     },
     {
       "slug": "228639-martial-god-regressed-to-level-2",
@@ -2104,7 +2104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 100
+      "total_chapters": 101
     },
     {
       "slug": "141523-the-indomitable-martial-king",
@@ -2712,7 +2712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 754
+      "total_chapters": 758
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1114
+      "total_chapters": 1116
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -3816,7 +3816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "im-being-misunderstood-as-a-soccer-genius",
@@ -4008,7 +4008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "god-level-assassin-im-the-shadow",
@@ -4088,7 +4088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "828805-the-long-way-of-the-warrior",
@@ -4112,7 +4112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "tensei-shitara-ken-deshita",
@@ -4136,7 +4136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 230
+      "total_chapters": 231
     },
     {
       "slug": "the-eight-empresses-betrayed-me-only-to-deeply-regret-it-after-being-reborn",
@@ -4648,7 +4648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 282
+      "total_chapters": 284
     },
     {
       "slug": "the-demon-slayers-restauran",
@@ -4656,7 +4656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 52
     },
     {
       "slug": "548836-eternally-regressing-knight",
@@ -4680,7 +4680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "ogami-tsumiki-to-kinichijou",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 71
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 157
+      "total_chapters": 158
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5704,7 +5704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.08,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "kimi-no-risou-no-maid-ni-naru",
@@ -6048,7 +6048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 119
+      "total_chapters": 121
     },
     {
       "slug": "ice-lord",
@@ -6168,7 +6168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "girl-go",
@@ -6376,7 +6376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "kagurabachi",
@@ -6504,7 +6504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 155
+      "total_chapters": 156
     },
     {
       "slug": "367309-the-necromancer-familys-young-heir",
@@ -7128,7 +7128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 146
+      "total_chapters": 147
     },
     {
       "slug": "gods-scalpel",
@@ -7896,7 +7896,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.92,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "mato-seihei-no-slave",
@@ -8544,7 +8544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 38
     },
     {
       "slug": "stop-im-falling-for-you",
@@ -9304,7 +9304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 43
     },
     {
       "slug": "kijin-gentoushou",
@@ -9344,7 +9344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 112
     },
     {
       "slug": "hitoribocchi-no-isekai-kouryaku",
@@ -9392,7 +9392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "the-terminally-ill-baby-healer-doesnt-hide-her-genius",
@@ -9616,7 +9616,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 161
+      "total_chapters": 165
     },
     {
       "slug": "hitomazu-koi-ni-nare-sasete-kudasai",
@@ -9816,7 +9816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "shuuriya-lodge-no-kougubako",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -10889,6 +10889,22 @@
       "status": "Berjalan",
       "rating": 7.35,
       "total_chapters": 30
+    },
+    {
+      "slug": "the-regressed-doctor-just-wanted-to-live-quietly",
+      "title": "The Regressed Doctor Just Wanted to Live Quietly",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.03,
+      "total_chapters": 53
+    },
+    {
+      "slug": "dragon-master",
+      "title": "Dragon Master",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 383
     }
   ]
 }
