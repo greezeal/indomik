@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-06T16:03:26.469933",
+  "scraped_at": "2026-04-07T21:29:25.145854",
   "alternative_titles": "万古至尊",
   "status": "Berjalan",
   "author": "太一生水",
@@ -23,34 +23,40 @@
   "synopsis": "Manhua                    The Ultimate of All Ages yang dibuat oleh komikus bernama\n                    太一生水 ini bercerita tentang\n                    Pertama di antara sepuluh kaisar bela diri, Kaisar Bela Diri Peerless Gu Feiyang menemui ajalnya di pegunungan Tiandang. Dia bereinkarnasi lima belas tahun kemudian, sebagai Li Yun Xiao dari Bangsa Tianshui, dan dengan demikian memulai pertempuran yang menantang surga dengan talenta yang tak terhitung jumlahnya dari generasi saat ini. Seni bela diri dari sembilan surga dan sepuluh realm suci. Sejak saat itu, seluruh dunia dibakar.",
   "chapters": [
     {
+      "chapter": "516",
+      "title": "Komik The Ultimate of All Ages Chapter 516",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTE2Lw==",
+      "date": "57 menit yang lalu"
+    },
+    {
       "chapter": "515",
       "title": "Komik The Ultimate of All Ages Chapter 515",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTE1Lw==",
-      "date": "35 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "514",
       "title": "Komik The Ultimate of All Ages Chapter 514",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTE0Lw==",
-      "date": "36 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "513",
       "title": "Komik The Ultimate of All Ages Chapter 513",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTEzLw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "512",
       "title": "Komik The Ultimate of All Ages Chapter 512",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTEyLw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "511",
       "title": "Komik The Ultimate of All Ages Chapter 511",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTExLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "510",
@@ -392,13 +398,13 @@
       "chapter": "454",
       "title": "Komik The Ultimate of All Ages Chapter 454",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDU0Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "453",
       "title": "Komik The Ultimate of All Ages Chapter 453",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDUzLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "452",
@@ -560,13 +566,13 @@
       "chapter": "426",
       "title": "Komik The Ultimate of All Ages Chapter 426",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDI2Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "425",
       "title": "Komik The Ultimate of All Ages Chapter 425",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNDI1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "424",
@@ -3002,7 +3008,7 @@
       "chapter": "18",
       "title": "Komik The Ultimate of All Ages Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItMTgv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "17",
@@ -3107,5 +3113,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 514
+  "total_chapters": 515
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-30T15:21:42.568711",
+  "scraped_at": "2026-04-07T21:29:03.340981",
   "alternative_titles": "Magical Girl Ajussi, 마법소녀 아저씨",
   "status": "Berjalan",
   "author": "Gaya, Nyangdulreochgi",
@@ -22,34 +22,52 @@
   "synopsis": "Manhwa                    Mr. Magical Girl yang dibuat oleh komikus bernama\n                    Gaya, Nyangdulreochgi ini bercerita tentang\n                    202X.\r\n\r\nDi gang-gang belakang Seoul, Korea Selatan…\r\n\r\nIa menatap para pahlawan di bawah kakinya—para pahlawan yang mengenakan berbagai pakaian warna-warni, seolah-olah mereka adalah idola K-pop di TV.\r\n\r\nPara pahlawan itu? Mereka merangkak di bawahnya, pakaian mereka yang mencolok berlumuran tanah.\r\n\r\nItulah hakikat sejati menjadi pahlawan. Ia berharap orang-orang sebelum dirinya mempelajari pelajaran itu dengan baik.\r\n\r\nSudah waktunya untuk memastikan mereka tidak pernah melupakannya.\r\n\r\nSebagai gadis penyihir, ia mengayunkan palunya ke bawah.\r\n\r\nIni adalah kisah yang cemerlang. Kisah seorang pria yang merebut kembali cahayanya.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik Mr. Magical Girl Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMzMv",
+      "date": "52 menit yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik Mr. Magical Girl Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMzIv",
+      "date": "52 menit yang lalu"
+    },
+    {
+      "chapter": "31",
+      "title": "Komik Mr. Magical Girl Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMzEv",
+      "date": "52 menit yang lalu"
+    },
+    {
       "chapter": "30",
       "title": "Komik Mr. Magical Girl Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMzAv",
-      "date": "24 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Mr. Magical Girl Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMjkv",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Mr. Magical Girl Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMjgv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Mr. Magical Girl Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMjcv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Mr. Magical Girl Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItbWFnaWNhbC1naXJsLWNoYXB0ZXItMjYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "25",
@@ -202,5 +220,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 33
 }

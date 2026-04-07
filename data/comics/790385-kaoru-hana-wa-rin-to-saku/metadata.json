@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-06T16:02:41.336192",
+  "scraped_at": "2026-04-07T21:28:10.768084",
   "alternative_titles": "薫る花は凛と咲く, The Fragrant Flower Blooms With Dignity",
   "status": "Berjalan",
   "author": "Mikami Saka",
@@ -20,10 +20,16 @@
   "synopsis": "Manga                    Kaoru Hana Wa Rin To Saku yang dibuat oleh komikus bernama\n                    Mikami Saka ini bercerita tentang\n                    Di suatu tempat, ada dua sekolah menengah atas yang bertetangga. SMA Chidori, sekolah anak laki-laki paling bawah di mana para idiot berkumpul, dan Kikyo Girls' School, sekolah perempuan yang mapan. Rintaro Tsumugi, seorang siswa kelas dua yang kuat dan pendiam di SMA Chidori, bertemu dengan Kaoruko Wakuri, seorang gadis yang datang sebagai pelanggan sambil membantu di toko kue keluarganya. Rintaro merasa nyaman menghabiskan waktu bersama Kaoruko, tetapi dia adalah siswa di Kikyo Girls, sekolah tetangga yang sangat tidak menyukai SMA Chidori. Ini adalah kisah dua orang yang begitu dekat namun begitu jauh.",
   "chapters": [
     {
+      "chapter": "183",
+      "title": "Komik Kaoru Hana Wa Rin To Saku Chapter 183",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FvcnUtaGFuYS13YS1yaW4tdG8tc2FrdS1jaGFwdGVyLTE4My8=",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "182",
       "title": "Komik Kaoru Hana Wa Rin To Saku Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FvcnUtaGFuYS13YS1yaW4tdG8tc2FrdS1jaGFwdGVyLTE4Mi8=",
-      "date": "23 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "181",
@@ -593,13 +599,13 @@
       "chapter": "88",
       "title": "Komik Kaoru Hana Wa Rin To Saku Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FvcnUtaGFuYS13YS1yaW4tdG8tc2FrdS1jaGFwdGVyLTg4Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik Kaoru Hana Wa Rin To Saku Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FvcnUtaGFuYS13YS1yaW4tdG8tc2FrdS1jaGFwdGVyLTg3Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "86",
@@ -1148,5 +1154,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 188
+  "total_chapters": 189
 }

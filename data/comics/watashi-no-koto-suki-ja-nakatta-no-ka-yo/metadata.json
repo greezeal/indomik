@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-20T09:58:54.409457",
+  "scraped_at": "2026-04-07T21:28:03.530163",
   "alternative_titles": "私のこと好きじゃなかったのかよ!?, So you weren\\'t into me?!, Так ты не любишь меня?!, Jadi Sebenarnya Kau Tidak Menyukaiku?!, Cậu không thích tớ sao!?",
   "status": "Berjalan",
   "author": "Konbu Wakame",
@@ -22,41 +22,53 @@
   "synopsis": "Manga                    Watashi no Koto Suki ja Nakatta no ka yo!? yang dibuat oleh komikus bernama\n                    Konbu Wakame ini bercerita tentang\n                    Okabe bertekad untuk fokus pada studinya di sekolah, tetapi entah mengapa, gadis-gadis di sekitarnya terus memberinya sinyal yang membingungkan…",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTgv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTcv",
+      "date": "36 menit yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTYv",
-      "date": "30 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTUv",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTQv",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTMv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Watashi no Koto Suki ja Nakatta no ka yo!? Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1rb3RvLXN1a2ktamEtbmFrYXR0YS1uby1rYS15by1jaGFwdGVyLTEv",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 8
 }
