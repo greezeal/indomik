@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.15,
-  "scraped_at": "2026-04-08T05:31:46.758037",
+  "scraped_at": "2026-04-08T21:57:01.418385",
   "alternative_titles": "砂魔法で砂の王国を作ろう～砂漠に追放されたから頑張って祖国以上の国家を建ててみた～, Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~, Let's Establish a Sand Kingdom with the Magic of Sand, Let's Create a Sand Kingdom with Sand Ma",
   "status": "Berjalan",
   "author": "Sorachi Daidai",
@@ -29,10 +29,16 @@
   "synopsis": "Manga                    Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~ yang dibuat oleh komikus bernama\n                    Sorachi Daidai ini bercerita tentang\n                    Dianggap sebagai orang tidak berguna yang hanya bisa memanipulasi pasir, Horus, pangeran kelima Kekaisaran Magref, dibuang. Dibuang ke padang pasir yang panas, ia menggunakan sihir pasirnya untuk menciptakan benteng pasir raksasa. Apa yang tadinya tampak seperti gurun neraka berubah menjadi surga pribadinya, dan ia memutuskan untuk membangun kehidupan di sana. Namun, melalui konflik dengan binatang ajaib, ia mengumpulkan teman-teman dari berbagai ras, dan akhirnya mendirikan kerajaan dengan dirinya sendiri sebagai penguasanya.",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~ Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VuYS1tYWhvdS1kZS1zdW5hLW5vLW91a29rdS1vLXRzdWt1cm91LXNhYmFrdS1uaS10c3VpaG91LXNhcmV0YS1rYXJhLWdhbmJhdHRlLXNva29rdS1pam91LW5vLWtva2thLW8tdGF0ZXRlLW1pdGEtY2hhcHRlci0xNy8=",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~ Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VuYS1tYWhvdS1kZS1zdW5hLW5vLW91a29rdS1vLXRzdWt1cm91LXNhYmFrdS1uaS10c3VpaG91LXNhcmV0YS1rYXJhLWdhbmJhdHRlLXNva29rdS1pam91LW5vLWtva2thLW8tdGF0ZXRlLW1pdGEtY2hhcHRlci0xNi8=",
-      "date": "30 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "15",
@@ -50,7 +56,7 @@
       "chapter": "13",
       "title": "Komik Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~ Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VuYS1tYWhvdS1kZS1zdW5hLW5vLW91a29rdS1vLXRzdWt1cm91LXNhYmFrdS1uaS10c3VpaG91LXNhcmV0YS1rYXJhLWdhbmJhdHRlLXNva29rdS1pam91LW5vLWtva2thLW8tdGF0ZXRlLW1pdGEtY2hhcHRlci0xMy8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -125,5 +131,5 @@
       "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }

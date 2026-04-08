@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-06T21:03:13.473771",
+  "scraped_at": "2026-04-08T21:57:28.389413",
   "alternative_titles": "牧龙师",
   "status": "Berjalan",
   "author": "阅文漫画",
@@ -20,16 +20,28 @@
   "synopsis": "Manhua                    Dragon Master yang dibuat oleh komikus bernama\n                    阅文漫画 ini bercerita tentang\n                    Jenius Jian Xiu berharap Zhu Mingang untuk menyelamatkan temannya. Bagaimana bisa Canglong Bai menjadi orang yang sia-sia, menjadi seorang pemuda yang kesepian, dan salah, tapi selamat malam dengan Dewi perang (Valkyrie) Li Yunzi. Kemudian musuh datang untuk mengusir naga itu, dan naga yang mengamuk itu menelan kota Yong, hanya untuk melampiaskan amarahnya guna membunuh jiwanya. Zhu Minglang melarikan diri dari kematian, berubah menjadi gembala naga (Dragon Master), dan membuka jalan legendarisnya sendiri",
   "chapters": [
     {
+      "chapter": "384",
+      "title": "Komik Dragon Master Chapter 384",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTM4NC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "383",
+      "title": "Komik Dragon Master Chapter 383",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTM4My8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "382",
       "title": "Komik Dragon Master Chapter 382",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTM4Mi8=",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "381",
       "title": "Komik Dragon Master Chapter 381",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTM4MS8=",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "380",
@@ -1043,37 +1055,37 @@
       "chapter": "212",
       "title": "Komik Dragon Master Chapter 212",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTIxMi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "211",
       "title": "Komik Dragon Master Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTIxMS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "210",
       "title": "Komik Dragon Master Chapter 210",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTIxMC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "209",
       "title": "Komik Dragon Master Chapter 209",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTIwOS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "208",
       "title": "Komik Dragon Master Chapter 208",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTIwOC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "207",
       "title": "Komik Dragon Master Chapter 207",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhZ29uLW1hc3Rlci1jaGFwdGVyLTIwNy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "206",
@@ -2318,5 +2330,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 383
+  "total_chapters": 385
 }
