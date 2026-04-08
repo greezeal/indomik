@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.72,
-  "scraped_at": "2026-04-05T00:00:38.240268",
+  "scraped_at": "2026-04-08T10:50:03.657917",
   "alternative_titles": "有名VTuberの兄だけど、何故か俺が有名になっていた, I'm the Older Brother of a Famous VTuber, But for Some Reason I Became Famous",
   "status": "Berjalan",
   "author": "Ibarakino",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita yang dibuat oleh komikus bernama\n                    Ibarakino ini bercerita tentang\n                    Aku punya saudara tiri bernama Isuzu. Dia adalah VTuber yang sangat populer dengan lebih dari 1 juta pelanggan, \"Isuzu Wine\".\r\n\r\nSuatu hari, dia lupa mematikan streamingnya, dan percakapan jujur ​​kami tidak sengaja disiarkan ke seluruh dunia!\r\nKlip insiden streaming itu dengan cepat menjadi viral, dan dalam semalam, aku menjadi sensasi internet...!?\r\n\r\nSemakin banyak kecelakaan terjadi, semakin populer dia!!\r\nBersama dengan saudara tiriku yang sangat cantik dan sangat bergantung, dan seorang VTuber senior yang imut, aku bertujuan untuk naik daun di industri streaming!\r\n\r\nKomedi romantis VTuber yang sedang naik daun!",
   "chapters": [
     {
+      "chapter": "20.1",
+      "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 20.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMjAtMS8=",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "19.2",
       "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 19.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMTktMi8=",
-      "date": "1 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "19.1",
       "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 19.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMTktMS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "18.2",
       "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 18.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMTgtMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "18.1",
       "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 18.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMTgtMS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "17.2",
@@ -98,7 +104,7 @@
       "chapter": "13.2",
       "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 13.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMTMtMi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "13.1",
@@ -197,5 +203,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }
