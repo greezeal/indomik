@@ -6,9 +6,9 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.43,
-  "scraped_at": "2026-03-17T21:13:48.423547",
+  "scraped_at": "2026-04-09T16:09:52.232421",
   "alternative_titles": "Бтууум!, Взрыв!, ブトゥーム",
-  "status": "Berjalan",
+  "status": "Tamat",
   "author": "Inoue Junya",
   "illustrator": "Inoue Junya",
   "demographic": "Seinen",
@@ -28,10 +28,16 @@
   "synopsis": "Manga                    BTOOOM! yang dibuat oleh komikus bernama\n                    Inoue Junya ini bercerita tentang\n                    Sakamoto Ryouta adalah seorang pengangguran berusia 22 tahun yang tinggal bersama ibunya. Di dunia nyata, mungkin tidak ada yang benar-benar istimewa tentang dia, tetapi secara online, dia adalah salah satu pemain top dunia dari game pertarungan \"BTOOOM\"!\r\n\r\nSuatu hari, dia terbangun di tempat yang tampak seperti pulau tropis, meskipun dia tidak ingat bagaimana atau mengapa dia bisa berada di sana. Saat berkeliaran, Ryouta melihat seseorang dan meminta bantuan. Orang asing itu merespons dengan melemparkan bom ke arahnya! Sekarang Ryouta menyadari bahwa hidupnya dalam bahaya, dan bahwa dia entah bagaimana telah terperangkap dalam versi kehidupan nyata dari game favoritnya! Akankah Ryouta dapat bertahan cukup lama untuk mencari tahu bagaimana dan mengapa dia berakhir di sini?",
   "chapters": [
     {
+      "chapter": "121.5",
+      "title": "Komik BTOOOM! Chapter 121.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnRvb29tLWNoYXB0ZXItMTIxLTUv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "121",
       "title": "Komik BTOOOM! Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnRvb29tLWNoYXB0ZXItMTIxLw==",
-      "date": "5 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "120",
@@ -193,7 +199,7 @@
       "chapter": "107.1",
       "title": "Komik BTOOOM! Chapter 107.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnRvb29tLWNoYXB0ZXItMTA3LTEv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "106.2",
@@ -874,5 +880,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 141
+  "total_chapters": 142
 }

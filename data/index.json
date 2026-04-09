@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T14:51:53.802552",
-  "total_comics": 1388,
+  "last_updated": "2026-04-09T16:13:39.697603",
+  "total_comics": 1389,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4454,9 +4454,9 @@
       "slug": "845199-btooom",
       "title": "BTOOOM!",
       "type": "Manga",
-      "status": "Berjalan",
+      "status": "Tamat",
       "rating": 7.43,
-      "total_chapters": 141
+      "total_chapters": 142
     },
     {
       "slug": "the-crazy-genius-composer-returns",
@@ -5208,7 +5208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "soul-land-ii",
@@ -5256,7 +5256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "defense-breaker",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 93
+      "total_chapters": 96
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -7592,7 +7592,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "tsuki-ga-michibiku-isekai-douchuu",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 99
+      "total_chapters": 101
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -9160,7 +9160,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken",
@@ -10920,7 +10920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 5.92,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "lord-prestons-secret-tutor",
@@ -11105,6 +11105,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 3
+    },
+    {
+      "slug": "shokubutsu-monster-musume-nikki",
+      "title": "Shokubutsu Monster Musume Nikki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
     }
   ]
 }
