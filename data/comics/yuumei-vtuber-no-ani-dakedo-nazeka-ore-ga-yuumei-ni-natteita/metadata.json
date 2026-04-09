@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.72,
-  "scraped_at": "2026-04-08T10:50:03.657917",
+  "scraped_at": "2026-04-09T05:59:43.401591",
   "alternative_titles": "有名VTuberの兄だけど、何故か俺が有名になっていた, I'm the Older Brother of a Famous VTuber, But for Some Reason I Became Famous",
   "status": "Berjalan",
   "author": "Ibarakino",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita yang dibuat oleh komikus bernama\n                    Ibarakino ini bercerita tentang\n                    Aku punya saudara tiri bernama Isuzu. Dia adalah VTuber yang sangat populer dengan lebih dari 1 juta pelanggan, \"Isuzu Wine\".\r\n\r\nSuatu hari, dia lupa mematikan streamingnya, dan percakapan jujur ​​kami tidak sengaja disiarkan ke seluruh dunia!\r\nKlip insiden streaming itu dengan cepat menjadi viral, dan dalam semalam, aku menjadi sensasi internet...!?\r\n\r\nSemakin banyak kecelakaan terjadi, semakin populer dia!!\r\nBersama dengan saudara tiriku yang sangat cantik dan sangat bergantung, dan seorang VTuber senior yang imut, aku bertujuan untuk naik daun di industri streaming!\r\n\r\nKomedi romantis VTuber yang sedang naik daun!",
   "chapters": [
     {
+      "chapter": "20.2",
+      "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 20.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMjAtMi8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "20.1",
       "title": "Komik Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita Chapter 20.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1bWVpLXZ0dWJlci1uby1hbmktZGFrZWRvLW5hemVrYS1vcmUtZ2EteXV1bWVpLW5pLW5hdHRlaXRhLWNoYXB0ZXItMjAtMS8=",
-      "date": "40 menit yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "19.2",
@@ -203,5 +209,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }

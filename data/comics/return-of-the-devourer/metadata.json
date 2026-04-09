@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.2,
-  "scraped_at": "2026-04-08T10:45:36.667721",
+  "scraped_at": "2026-04-09T05:58:01.249548",
   "alternative_titles": "暴食者, The Glutton, Bàoshízhě, Eater of All",
   "status": "Berjalan",
   "author": "Dorlag Culture (多拉格文化)",
@@ -25,10 +25,16 @@
   "synopsis": "Manhua                    Return of the Devourer yang dibuat oleh komikus bernama\n                    Dorlag Culture (多拉格文化) ini bercerita tentang\n                    Dunia manusia dihancurkan oleh para raja iblis. Setelah kehilangan segalanya, pendekar yang telah bangkit kekuatannya, Si Chen, memilih untuk melancarkan serangan terakhir yang putus asa… mengorbankan dirinya sendiri untuk mengalahkan raja iblis kerakusan, Lan Yue. Tetapi ketika dia bangun lagi, dia mendapati dirinya ter transported sepuluh tahun ke masa lalu, sebelum semua ini terjadi. Menyadari bahwa kekuatannya telah bangkit lebih awal, dia memutuskan dia harus bertindak lebih awal. Dengan kembalinya dia, segala sesuatu di dunia tampaknya juga telah berubah…",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Return of the Devourer Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTIyLw==",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Return of the Devourer Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTIxLw==",
-      "date": "12 menit yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "20",
@@ -151,5 +157,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 22
 }

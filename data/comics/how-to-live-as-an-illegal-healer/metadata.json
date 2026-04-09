@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.28,
-  "scraped_at": "2026-04-08T05:28:24.282640",
+  "scraped_at": "2026-04-09T05:59:48.242173",
   "alternative_titles": "야매 힐러로 사는 법, how to live as a fake healer, How To Live As An Unlicensed Healer",
   "status": "Berjalan",
   "author": "14 strokes",
@@ -20,22 +20,34 @@
   "synopsis": "Manhwa                    How to Live as an Illegal Healer yang dibuat oleh komikus bernama\n                    14 strokes ini bercerita tentang\n                    Suatu hari Kang Songhyun membuka matanya di Benua Azul.\r\nDia tidak tahu alasannya.\r\nKetika dia bangun, dia tidak lagi berada di Korea Selatan.\r\nDia terlempar ke dunia fantasi.\r\n‘Kenapa aku datang ke tempat seperti ini?’\r\n\r\nPada saat itu, jendela status muncul di depannya\r\n[Pekerjaanmu adalah 'penyembuh'?]\r\n\r\nNamun di antara keahliannya…\r\n'Hah? … Tidak ada penyembuhan?’\r\nItu adalah awal dari kehidupan seorang tabib tanpa izin. Seorang penyembuh yang tidak tahu bagaimana menyembuhkan.\r\n\r\nKang Songhyun pandai dalam segala hal kecuali penyembuhan\r\nDi dunia fantasi sebagai penyembuh tanpa izin, kisah kelangsungan hidupnya dimulai.",
   "chapters": [
     {
+      "chapter": "137",
+      "title": "Komik How to Live as an Illegal Healer Chapter 137",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci0xMzcv",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "136",
+      "title": "Komik How to Live as an Illegal Healer Chapter 136",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci0xMzYv",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "135",
       "title": "Komik How to Live as an Illegal Healer Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci0xMzUv",
-      "date": "13 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "134",
       "title": "Komik How to Live as an Illegal Healer Chapter 134",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci0xMzQv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "133",
       "title": "Komik How to Live as an Illegal Healer Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci0xMzMv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "132",
@@ -257,7 +269,7 @@
       "chapter": "96",
       "title": "Komik How to Live as an Illegal Healer Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci05Ni8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "95",
@@ -371,13 +383,13 @@
       "chapter": "77",
       "title": "Komik How to Live as an Illegal Healer Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci03Ny8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik How to Live as an Illegal Healer Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci03Ni8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "75",
@@ -665,7 +677,7 @@
       "chapter": "28",
       "title": "Komik How to Live as an Illegal Healer Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93LXRvLWxpdmUtYXMtYW4taWxsZWdhbC1oZWFsZXItY2hhcHRlci0yOC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "27",
@@ -830,5 +842,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 135
+  "total_chapters": 137
 }
