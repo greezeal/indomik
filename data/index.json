@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T11:39:13.930050",
-  "total_comics": 1383,
+  "last_updated": "2026-04-09T14:51:53.802552",
+  "total_comics": 1388,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 308
+      "total_chapters": 310
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1376,7 +1376,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "ryuuzaki-san-ga-ore-no-mae-dake-de-dereru-riyuu",
@@ -2528,7 +2528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.54,
-      "total_chapters": 172
+      "total_chapters": 173
     },
     {
       "slug": "a-disturbing-girlfriend-who-hates-visiting-a-shrine-for-new-years-eve",
@@ -4200,7 +4200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 220
+      "total_chapters": 221
     },
     {
       "slug": "kyoukai-meikyuu-to-ikai-no-majutsushi",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -5032,7 +5032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "infinite-level-up-in-murim",
@@ -5136,7 +5136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
@@ -5952,7 +5952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "the-bathroom-ghost",
@@ -6976,7 +6976,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "ani-ni-koisuru-watashitachi",
@@ -7832,7 +7832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "watashi-no-koto-suki-ja-nakatta-no-ka-yo",
@@ -7976,7 +7976,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.88,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi",
@@ -8096,7 +8096,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 16
     },
     {
       "slug": "sukinako-ga-megane-wo-wasureta",
@@ -9584,7 +9584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 4
     },
     {
       "slug": "blood-rain-zero",
@@ -11065,6 +11065,46 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 15
+    },
+    {
+      "slug": "i-became-the-academy-villains-daughter",
+      "title": "I Became the Academy Villain’s Daughter",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 46
+    },
+    {
+      "slug": "the-man",
+      "title": "The Man",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 247
+    },
+    {
+      "slug": "yuusha-party-wo-oida-sareta-kiyou-binbou-gaiden-ofu-no-selma-san-wa-bukiyou",
+      "title": "Yuusha Party wo Oida Sareta Kiyou Binbou Gaiden – Ofu no Selma-san wa Bukiyou!?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "watashi-no-mahou-wa-zettai-ni-atarun-desu",
+      "title": "Watashi no Mahou wa Zettai ni Atarun desu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "tonari-no-futomomo-san",
+      "title": "Tonari no Futomomo-san",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }
