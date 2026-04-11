@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-09T16:11:23.580968",
+  "scraped_at": "2026-04-11T11:39:49.666667",
   "alternative_titles": "勇者パーティを追い出された器用貧乏　外伝　オフのセルマさんは不器用！？, Yuusha Party o Oidasareta Kiyoubinbou Gaiden - Ofu no Seruma-san wa Bukiyou!?, The Jack-of-All-Trades Kicked Out of the Hero’s Party – Side Story: Selma’s Awkward Off-Duty Life!?",
   "status": "Berjalan",
   "author": "Itsuki Togami",
@@ -22,11 +22,17 @@
   "synopsis": "Manga                    Yuusha Party wo Oida Sareta Kiyou Binbou Gaiden – Ofu no Selma-san wa Bukiyou!? yang dibuat oleh komikus bernama\n                    Itsuki Togami ini bercerita tentang\n                    Sebelum Orun bergabung dengan klan, sisi Selma yang kikuk di luar jam kerja terungkap...!?",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Yuusha Party wo Oida Sareta Kiyou Binbou Gaiden – Ofu no Selma-san wa Bukiyou!? Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLW9pZGEtc2FyZXRhLWtpeW91LWJpbmJvdS1nYWlkZW4tb2Z1LW5vLXNlbG1hLXNhbi13YS1idWtpeW91LWNoYXB0ZXItMi8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Yuusha Party wo Oida Sareta Kiyou Binbou Gaiden – Ofu no Selma-san wa Bukiyou!? Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLW9pZGEtc2FyZXRhLWtpeW91LWJpbmJvdS1nYWlkZW4tb2Z1LW5vLXNlbG1hLXNhbi13YS1idWtpeW91LWNoYXB0ZXItMS8=",
-      "date": "6 jam yang lalu"
+      "date": "2 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }

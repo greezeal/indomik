@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.77,
-  "scraped_at": "2026-03-27T03:36:36.921797",
+  "scraped_at": "2026-04-11T11:41:52.973212",
   "alternative_titles": "Импульс мира, ワールドトリガー, 境界触发者",
   "status": "Berjalan",
   "author": "Ashihara Daisuke",
@@ -28,34 +28,40 @@
   "synopsis": "Manga                    World Trigger yang dibuat oleh komikus bernama\n                    Ashihara Daisuke ini bercerita tentang\n                    Sebuah gerbang ke dimensi lain telah terbuka, dan dari sana muncul makhluk raksasa yang tak terkalahkan yang mengancam seluruh umat manusia. Satu-satunya pertahanan bumi adalah sekelompok prajurit misterius yang telah menggunakan teknologi alien untuk melawan!",
   "chapters": [
     {
+      "chapter": "253",
+      "title": "Komik World Trigger Chapter 253",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI1My8=",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "252",
       "title": "Komik World Trigger Chapter 252",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI1Mi8=",
-      "date": "3 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "251",
       "title": "Komik World Trigger Chapter 251",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI1MS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "250",
       "title": "Komik World Trigger Chapter 250",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI1MC8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "249.2",
       "title": "Komik World Trigger Chapter 249.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI0OS0yLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "249.1",
       "title": "Komik World Trigger Chapter 249.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI0OS0xLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "248.2",
@@ -79,7 +85,7 @@
       "chapter": "246",
       "title": "Komik World Trigger Chapter 246",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI0Ni8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "245",
@@ -139,7 +145,7 @@
       "chapter": "237",
       "title": "Komik World Trigger Chapter 237",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTIzNy8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "236",
@@ -1546,5 +1552,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 253
+  "total_chapters": 254
 }

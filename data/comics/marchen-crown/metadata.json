@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.4,
-  "scraped_at": "2026-04-04T16:21:52.686169",
+  "scraped_at": "2026-04-11T11:44:39.449355",
   "alternative_titles": "Märchen Crown, メルヘンクラウン, Maerchen Crown, Lendas de um Reino Encantado, Сказка о Короне",
   "status": "Berjalan",
   "author": "Aoi Kujira,Akasaka Aka",
@@ -22,22 +22,28 @@
   "synopsis": "Manga                    Marchen Crown yang dibuat oleh komikus bernama\n                    Aoi Kujira,Akasaka Aka ini bercerita tentang\n                    Rapunzel adalah seorang gadis muda yang tinggal di atas menara tinggi dan tidak tahu apa pun tentang dunia luar. Suatu hari, dia bertemu dengan seorang anak laki-laki bernama Mikel, yang memanjat menara tersebut, dan takdir mereka untuk mengubah dunia pun mulai terungkap! Para kreator \"Oshi no Ko\" dan \"Record of Ragnarok\" membentuk tim yang luar biasa untuk mempersembahkan kisah cinta yang luar biasa!",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Marchen Crown Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyY2hlbi1jcm93bi1jaGFwdGVyLTM3Lw==",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Marchen Crown Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyY2hlbi1jcm93bi1jaGFwdGVyLTM2Lw==",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Marchen Crown Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyY2hlbi1jcm93bi1jaGFwdGVyLTM1Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Marchen Crown Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyY2hlbi1jcm93bi1jaGFwdGVyLTM0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "33",
@@ -205,7 +211,7 @@
       "chapter": "6",
       "title": "Komik Marchen Crown Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFyY2hlbi1jcm93bi1jaGFwdGVyLTYv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "5",
@@ -244,5 +250,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 37
+  "total_chapters": 38
 }

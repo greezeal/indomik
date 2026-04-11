@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-08T05:28:14.534964",
+  "scraped_at": "2026-04-11T11:46:48.769990",
   "alternative_titles": "Витчрив",
   "status": "Berjalan",
   "author": "Hakuri",
@@ -26,10 +26,16 @@
   "synopsis": "Manga                    WITCHRIV yang dibuat oleh komikus bernama\n                    Hakuri ini bercerita tentang\n                    Seorang gadis bernama Nona hidup tanpa diketahui manusia, menyembunyikan identitas aslinya sebagai penyihir sambil menghabiskan hari-harinya dengan damai bersama sahabatnya, Lovi. Namun suatu hari, Nona menggunakan sihir untuk memperbaiki kacamata Lovi dan kemudian menarik perhatian Biro Pengawasan Sihir. Sebuah kebaikan sederhana menjadi pemicu yang menggerakkan takdir Nona...",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik WITCHRIV Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0yMi8=",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik WITCHRIV Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0yMS8=",
-      "date": "12 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "20",
@@ -41,7 +47,7 @@
       "chapter": "19",
       "title": "Komik WITCHRIV Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2l0Y2hyaXYtY2hhcHRlci0xOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "18",
@@ -164,5 +170,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }
