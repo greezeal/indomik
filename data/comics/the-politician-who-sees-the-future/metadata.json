@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-08T05:29:19.676862",
+  "scraped_at": "2026-04-12T18:29:56.738259",
   "alternative_titles": "The Politician Who Can See the Future, The Politician With Future Sight, 미래를 보는 정치인, 미래를보는정치인",
   "status": "Berjalan",
   "author": "Youngwan (映完)",
@@ -18,40 +18,46 @@
   "synopsis": "Manhwa                    The Politician Who Sees the Future yang dibuat oleh komikus bernama\n                    Youngwan (映完) ini bercerita tentang\n                    Lima belas tahun yang lalu, seorang ayah yang berjuang melawan pemecatan yang tidak adil mengakhiri hidupnya sendiri di tengah ketidakpedulian sebuah konglomerat yang kuat. Sebelum guncangan itu mereda, adik laki-lakinya menghilang tanpa jejak. Dihadapkan dengan tragedi berturut-turut, orang tuanya akhirnya meninggal dunia, meninggalkan Dojun sendirian. Sejak hari semua yang dimilikinya direnggut, Dojun hidup untuk membalas dendam dan mencari kebenaran.\r\n\r\nMenyadari bahwa tidak ada yang dapat diubah tanpa berada di pusat kekuasaan, ia menjalani tahun-tahun yang panjang dan kesepian dengan satu tujuan dalam pikirannya: menjadi seorang politisi. Dan pada hari ia akhirnya menerima ijazahnya, ia bersumpah di depan guci abu orang tuanya:\r\n\r\n“Aku akan menemukan Yuri—apa pun yang terjadi—dan membawanya kembali ke tempat ini. Dan orang-orang itu… aku akan membuat mereka meneteskan air mata darah.”\r\n\r\nMalam itu, Dojun bermimpi untuk pertama kalinya melihat masa depan. Sebuah firasat yang terlalu nyata untuk dianggap sebagai kebetulan. Dan mimpi itu meramalkan jalan politik kejam yang ditakdirkan untuk dilaluinya.",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik The Politician Who Sees the Future Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBvbGl0aWNpYW4td2hvLXNlZXMtdGhlLWZ1dHVyZS1jaGFwdGVyLTI1Lw==",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik The Politician Who Sees the Future Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBvbGl0aWNpYW4td2hvLXNlZXMtdGhlLWZ1dHVyZS1jaGFwdGVyLTI0Lw==",
-      "date": "18 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Politician Who Sees the Future Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBvbGl0aWNpYW4td2hvLXNlZXMtdGhlLWZ1dHVyZS1jaGFwdGVyLTIzLw==",
-      "date": "1 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Politician Who Sees the Future Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBvbGl0aWNpYW4td2hvLXNlZXMtdGhlLWZ1dHVyZS1jaGFwdGVyLTIyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik The Politician Who Sees the Future Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBvbGl0aWNpYW4td2hvLXNlZXMtdGhlLWZ1dHVyZS1jaGFwdGVyLTIxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik The Politician Who Sees the Future Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBvbGl0aWNpYW4td2hvLXNlZXMtdGhlLWZ1dHVyZS1jaGFwdGVyLTIwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik The Politician Who Sees the Future Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBvbGl0aWNpYW4td2hvLXNlZXMtdGhlLWZ1dHVyZS1jaGFwdGVyLTE5Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -162,5 +168,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }
