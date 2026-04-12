@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T12:30:08.185731",
-  "total_comics": 1410,
+  "last_updated": "2026-04-12T13:52:06.459413",
+  "total_comics": 1411,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -272,7 +272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "surviving-the-heat-apocalypse-with-my-god-tier-safehouse",
@@ -408,7 +408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "the-apex-of-dragon-mastery",
@@ -1144,7 +1144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 77
+      "total_chapters": 79
     },
     {
       "slug": "chronicles-of-the-lazy-sovereign",
@@ -1240,7 +1240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 112
     },
     {
       "slug": "global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning",
@@ -1648,7 +1648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 303
+      "total_chapters": 307
     },
     {
       "slug": "a-banished-failure-survives-in-the-borderland-and-becomes-an-s-ranked-exorcist",
@@ -1800,7 +1800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 32
     },
     {
       "slug": "centuria",
@@ -1904,7 +1904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 128
+      "total_chapters": 130
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -2168,7 +2168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.88,
-      "total_chapters": 50
+      "total_chapters": 54
     },
     {
       "slug": "675722-i-am-player-who-suck-alone",
@@ -2360,7 +2360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.48,
-      "total_chapters": 292
+      "total_chapters": 293
     },
     {
       "slug": "konya-coin-randorii-de-aimashou",
@@ -3016,7 +3016,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 136
+      "total_chapters": 137
     },
     {
       "slug": "333015-chronicles-of-the-martial-gods-return",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 65
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -3846,9 +3846,9 @@
       "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
       "title": "Koi to Yobu ni wa Sasayaka desu ga",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
     },
     {
       "slug": "kaji-daikou-no-arubaito-wo-hajimetara-gakuen-ichi-no-bishoujo-no-kazoku-ni-kiniirarechaimashita",
@@ -4024,7 +4024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 73
     },
     {
       "slug": "this-is-the-law",
@@ -4272,7 +4272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 189
+      "total_chapters": 191
     },
     {
       "slug": "becoming-a-legendary-ace-employee",
@@ -4496,7 +4496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "voice-phishing-turns-your-life-around",
@@ -4576,7 +4576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 26
     },
     {
       "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
@@ -4688,7 +4688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 84
+      "total_chapters": 87
     },
     {
       "slug": "past-life-regressor-2022",
@@ -4776,7 +4776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 15
     },
     {
       "slug": "tsuihousareru-tabi-ni-skill-wo-te-ni-ireta-ore-ga-100-no-isekai-de-2-shuume-musou",
@@ -5952,7 +5952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 19
     },
     {
       "slug": "the-bathroom-ghost",
@@ -5984,7 +5984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
@@ -6272,7 +6272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.68,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "deretai-kanojo-no-uraomote",
@@ -6704,7 +6704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "612685-divine-beast-kindergarten",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7024,7 +7024,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 105
+      "total_chapters": 108
     },
     {
       "slug": "i-created-an-urban-legend",
@@ -7408,7 +7408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 216
+      "total_chapters": 217
     },
     {
       "slug": "the-black-haired-american-grand-marshal",
@@ -7592,7 +7592,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "tsuki-ga-michibiku-isekai-douchuu",
@@ -8552,7 +8552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 8
     },
     {
       "slug": "355041-the-kingdom-of-ruin",
@@ -8864,7 +8864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 50
+      "total_chapters": 52
     },
     {
       "slug": "572108-informer",
@@ -9200,7 +9200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "mairimashita-iruma-kun",
@@ -9208,7 +9208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.09,
-      "total_chapters": 447
+      "total_chapters": 448
     },
     {
       "slug": "the-snow-leopard-baby-of-the-black-leopard-family",
@@ -9536,7 +9536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "perfect-number",
@@ -9608,7 +9608,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 134
+      "total_chapters": 138
     },
     {
       "slug": "my-senior-brother-is-too-steady",
@@ -10104,7 +10104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 49
     },
     {
       "slug": "rebirth-of-the-thief-who-roamed-the-world",
@@ -10728,7 +10728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "tsuihou-sarenakatta-otoko-nidome-no-jinsei-wa-dogeza-kara-hajimarimashita",
@@ -10896,7 +10896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.03,
-      "total_chapters": 55
+      "total_chapters": 57
     },
     {
       "slug": "dragon-master",
@@ -10912,7 +10912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.22,
-      "total_chapters": 23
+      "total_chapters": 26
     },
     {
       "slug": "isekai-de-slow-life-wo-ganbou",
@@ -11088,7 +11088,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "watashi-no-mahou-wa-zettai-ni-atarun-desu",
@@ -11120,7 +11120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "high-school-conquest-war-against-the-bullies",
@@ -11280,7 +11280,15 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
+    },
+    {
+      "slug": "henkyou-no-ofuroya-san-harem-ni-naru",
+      "title": "Henkyou no Ofuroya-san Harem ni naru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
     }
   ]
 }

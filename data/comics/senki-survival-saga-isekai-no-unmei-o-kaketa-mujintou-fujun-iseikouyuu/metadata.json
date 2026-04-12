@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.22,
-  "scraped_at": "2026-04-08T21:59:38.274960",
+  "scraped_at": "2026-04-12T13:46:11.613077",
   "alternative_titles": "Senki Survival Saga -Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu-, 戦姫サバイバルサガ　－異世界の運命をかけた無人島フジュン異性交遊－, Senki Survival Saga -Isekai no Unmei wo Kaketa Mujintou Fujun Iseikouyuu-, Warrior Princess Survival Saga: The Unsanctioned Intergender Relations on a Deserted Island, Battling for the Fate of Another World, Battle Princess Survival SaGa, 战姬求生记-背负异世界命运的不正经异性交流-, 戰姬求生記-背負異世界命運的不正經無人島異性交流-, Saga de la Survie de la Princesse Guerrière, Saga de Sobrevivência das Princesas Guerreiras, Elf loli sinh tồn ký",
   "status": "Berjalan",
   "author": "OTOSAMA",
@@ -34,16 +34,34 @@
   "synopsis": "Manga                    Senki Survival Saga: Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu yang dibuat oleh komikus bernama\n                    OTOSAMA ini bercerita tentang\n                    Anastasia, seorang elf yang terkenal sebagai bakat magis sekali dalam seribu tahun, menghadapi pertempuran terakhir dari perang tiga arah di dunia lain. Di tengah pertempuran dengan musuh bebuyutannya, ras iblis, Anastasia diselimuti cahaya yang intens dan, ketika ia terbangun, mendapati dirinya berada di sebuah pulau tak berpenghuni. Saat Anastasia berjalan-jalan di pulau itu, seorang manusia misterius muncul di hadapannya, tetapi ia tidak bisa lagi menggunakan sihir…!?",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik Senki Survival Saga: Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vua2ktc3Vydml2YWwtc2FnYS1pc2VrYWktbm8tdW5tZWktby1rYWtldGEtbXVqaW50b3UtZnVqdW4taXNlaWtvdXl1dS1jaGFwdGVyLTI1Lw==",
+      "date": "22 menit yang lalu"
+    },
+    {
+      "chapter": "24",
+      "title": "Komik Senki Survival Saga: Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vua2ktc3Vydml2YWwtc2FnYS1pc2VrYWktbm8tdW5tZWktby1rYWtldGEtbXVqaW50b3UtZnVqdW4taXNlaWtvdXl1dS1jaGFwdGVyLTI0Lw==",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Senki Survival Saga: Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vua2ktc3Vydml2YWwtc2FnYS1pc2VrYWktbm8tdW5tZWktby1rYWtldGEtbXVqaW50b3UtZnVqdW4taXNlaWtvdXl1dS1jaGFwdGVyLTIzLw==",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik Senki Survival Saga: Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vua2ktc3Vydml2YWwtc2FnYS1pc2VrYWktbm8tdW5tZWktby1rYWtldGEtbXVqaW50b3UtZnVqdW4taXNlaWtvdXl1dS1jaGFwdGVyLTIyLw==",
-      "date": "3 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Senki Survival Saga: Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vua2ktc3Vydml2YWwtc2FnYS1pc2VrYWktbm8tdW5tZWktby1rYWtldGEtbXVqaW50b3UtZnVqdW4taXNlaWtvdXl1dS1jaGFwdGVyLTIxLw==",
-      "date": "1 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "20",
@@ -67,7 +85,7 @@
       "chapter": "17",
       "title": "Komik Senki Survival Saga: Isekai no Unmei o Kaketa Mujintou Fujun Iseikouyuu Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vua2ktc3Vydml2YWwtc2FnYS1pc2VrYWktbm8tdW5tZWktby1rYWtldGEtbXVqaW50b3UtZnVqdW4taXNlaWtvdXl1dS1jaGFwdGVyLTE3Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -172,5 +190,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 26
 }
