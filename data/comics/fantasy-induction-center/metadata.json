@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-12T13:47:24.127273",
+  "scraped_at": "2026-04-13T19:31:49.255346",
   "alternative_titles": "Fantasy Enlistment Unit, Fantasy Induction Center, Fantasy Induction Corps, 판타지 입소대",
   "status": "Berjalan",
   "author": "Seopass",
@@ -20,22 +20,28 @@
   "synopsis": "Manhwa                    Fantasy Induction Center yang dibuat oleh komikus bernama\n                    Seopass ini bercerita tentang\n                    Jalur Pegunungan Jeok-un adalah zona perbatasan garis depan antara ras iblis dan Federasi antarspesies—sebuah titik strategis yang kuat di mana pelatihan dan pertempuran sesungguhnya terjadi secara bersamaan. Militer Federasi, mengikuti nubuat dari kitab suci kuno, sedang mencari \"Sepuluh Transenden\" yang diramalkan akan membantu merebut kembali wilayah yang hilang, sehingga proses wajib militer dan seleksi terus berlangsung. Namun, apa yang ditemukan para rekrutan adalah sesuatu yang bahkan lebih mengerikan daripada perang dengan iblis menanti mereka: absurditas dan perlakuan kasar yang brutal dari kehidupan militer itu sendiri. Ini adalah kisah fantasi gelap tentang bertahan hidup bukan hanya dari monster, tetapi juga dari kenyataan budaya militer yang mencekik di dunia fantasi.",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Fantasy Induction Center Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmFudGFzeS1pbmR1Y3Rpb24tY2VudGVyLWNoYXB0ZXItMjAv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Fantasy Induction Center Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmFudGFzeS1pbmR1Y3Rpb24tY2VudGVyLWNoYXB0ZXItMTkv",
-      "date": "28 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Fantasy Induction Center Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmFudGFzeS1pbmR1Y3Rpb24tY2VudGVyLWNoYXB0ZXItMTgv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Fantasy Induction Center Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmFudGFzeS1pbmR1Y3Rpb24tY2VudGVyLWNoYXB0ZXItMTcv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "16",
@@ -134,5 +140,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }

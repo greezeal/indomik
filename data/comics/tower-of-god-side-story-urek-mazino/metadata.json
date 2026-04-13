@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-11T13:23:34.539887",
+  "scraped_at": "2026-04-13T19:32:09.344387",
   "alternative_titles": "Urek Mazino, Tower of God: Urek's Ascent, 우렉 마지노",
   "status": "Berjalan",
   "author": "SIU",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    Tower Of God: Side Story Urek Mazino yang dibuat oleh komikus bernama\n                    SIU ini bercerita tentang\n                    Sebelum ia menjadi legenda, sebelum Menara berguncang mendengar namanya—\r\n\r\nUrek Mazino hanyalah seorang Regular lainnya, yang memanjat Menara untuk tujuan yang lebih besar daripada sekadar kekuatan:\r\n\r\nUntuk mengejar makhluk misterius, Phantaminum.\r\n\r\nIni adalah kisah yang tak terungkap dari hari-hari awal Urek—cobaan, pertempuran, dan semangat pantang menyerahnya sebagai seorang Regular terpilih.\r\n\r\nSaksikan kebangkitan pria yang suatu hari akan mengguncang fondasi Menara itu sendiri.\r\n\r\nLegenda Urek Mazino dimulai di sini.",
   "chapters": [
     {
+      "chapter": "58",
+      "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 58",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci01OC8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "57",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci01Ny8=",
-      "date": "14 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "56",
@@ -42,13 +48,13 @@
       "chapter": "54",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci01NC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci01My8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "52",
@@ -90,7 +96,7 @@
       "chapter": "46",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci00Ni8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "45",
@@ -138,7 +144,7 @@
       "chapter": "38",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci0zOC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -276,7 +282,7 @@
       "chapter": "15",
       "title": "Komik Tower Of God: Side Story Urek Mazino Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG93ZXItb2YtZ29kLXNpZGUtc3RvcnktdXJlay1tYXppbm8tY2hhcHRlci0xNS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -363,5 +369,5 @@
       "date": "12 bulan yang lalu"
     }
   ],
-  "total_chapters": 57
+  "total_chapters": 58
 }

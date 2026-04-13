@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T17:56:04.590775",
-  "total_comics": 1419,
+  "last_updated": "2026-04-13T19:34:29.147706",
+  "total_comics": 1423,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 205
+      "total_chapters": 206
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1168,7 +1168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.49,
-      "total_chapters": 251
+      "total_chapters": 252
     },
     {
       "slug": "830221-player-who-returned-10000-years-later",
@@ -1222,9 +1222,9 @@
       "slug": "my-empress-disciple-is-about-to-turn-dark",
       "title": "My Empress Disciple Is About to Turn Dark",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 66
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "687103-the-genius-grandson-of-namgung-clan",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1256,7 +1256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.5,
-      "total_chapters": 78
+      "total_chapters": 80
     },
     {
       "slug": "overlord-of-sichuan",
@@ -1272,7 +1272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 229
+      "total_chapters": 230
     },
     {
       "slug": "397466-the-last-adventurer",
@@ -2184,7 +2184,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "563439-kowloon-saroka",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 497
+      "total_chapters": 498
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2712,7 +2712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 766
+      "total_chapters": 767
     },
     {
       "slug": "garbage-brave-isekai-ni-shoukan-sare-suterareta-yuusha-no-fukushuu-monogatari",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 107
+      "total_chapters": 108
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -3720,7 +3720,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 362
+      "total_chapters": 364
     },
     {
       "slug": "lostend",
@@ -3808,7 +3808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 73
+      "total_chapters": 76
     },
     {
       "slug": "the-delivery-man-from-murim",
@@ -4024,7 +4024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "this-is-the-law",
@@ -4336,7 +4336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 226
+      "total_chapters": 227
     },
     {
       "slug": "the-rebirth-of-the-heros-partys-archmage",
@@ -4664,7 +4664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "734821-chronicles-of-the-demon-faction",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -5312,7 +5312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 19
     },
     {
       "slug": "kimi-no-kokoro-wo-kanjitai",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5624,7 +5624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "kakkou-no-iinazuke",
@@ -5952,7 +5952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "the-bathroom-ghost",
@@ -6672,7 +6672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu",
@@ -7064,7 +7064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.37,
-      "total_chapters": 70
+      "total_chapters": 71
     },
     {
       "slug": "inkya-no-ore-ga-sekigae-de-s-kyuu-bishoujo-ni-kakomaretara-himitsu-no-kankei-ga-hajimatta",
@@ -7320,7 +7320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "the-demon-king-who-lost-his-job",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -8424,7 +8424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru",
@@ -9064,7 +9064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 80
+      "total_chapters": 81
     },
     {
       "slug": "bouken-ni-iku-fuku-ga-nai",
@@ -9248,7 +9248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "tier-1-shimai-yuumei-yonshimai-wa-boku-nashi-de-wa-ikirarenai",
@@ -9344,7 +9344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "hitoribocchi-no-isekai-kouryaku",
@@ -9392,7 +9392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "the-terminally-ill-baby-healer-doesnt-hide-her-genius",
@@ -9816,7 +9816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "shuuriya-lodge-no-kougubako",
@@ -10096,7 +10096,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 7
     },
     {
       "slug": "osana-robot-to-abunai-hakase",
@@ -10688,7 +10688,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "149520-i-became-a-sales-prodigy",
@@ -10792,7 +10792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.32,
-      "total_chapters": 105
+      "total_chapters": 106
     },
     {
       "slug": "tozaki-san-wa-boku-ni-dake-tsumetai",
@@ -10928,7 +10928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "a-match-with-me",
@@ -11352,7 +11352,39 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 28
+    },
+    {
+      "slug": "chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha",
+      "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.77,
+      "total_chapters": 82
+    },
+    {
+      "slug": "kotowarenai-kaichou-wa-tomoe-kun-ni-dake-shite-agetai",
+      "title": "Kotowarenai Kaichou wa Tomoe-kun ni Dake shite Agetai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.69,
+      "total_chapters": 14
+    },
+    {
+      "slug": "evil-boy-kimsan",
+      "title": "Evil Boy (Kimsan)",
+      "type": "Manhwa",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "golden-martial-god",
+      "title": "Golden Martial God",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
     }
   ]
 }

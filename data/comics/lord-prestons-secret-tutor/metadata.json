@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-08T10:48:14.011593",
+  "scraped_at": "2026-04-13T19:28:18.067192",
   "alternative_titles": "프레스턴 경의 비밀 가정교사",
   "status": "Berjalan",
   "author": "Seongha",
@@ -20,53 +20,59 @@
   "synopsis": "Manhwa                    Lord Preston’s Secret Tutor yang dibuat oleh komikus bernama\n                    Seongha ini bercerita tentang\n                    Jacqueline Somerset kehilangan segalanya dalam semalam setelah kematian ayahnya dan kebangkrutan. Ia menjadi tutor ke-13 yang dipekerjakan di perkebunan Preston, di mana ia harus menjalani hubungan yang tegang dan rapuh dengan marquis yang terkenal sulit. Saat ia berjuang tidak hanya untuk bertahan hidup tetapi juga untuk mengungkap rahasia yang tersembunyi di dalam perkebunan, ia secara bertahap semakin dekat dengannya…",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Lord Preston’s Secret Tutor Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci05Lw==",
+      "date": "55 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci04Lw==",
-      "date": "33 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci03Lw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci02Lw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci01Lw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci00Lw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci0zLw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci0yLw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Lord Preston’s Secret Tutor Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1wcmVzdG9ucy1zZWNyZXQtdHV0b3ItY2hhcHRlci0xLw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }
