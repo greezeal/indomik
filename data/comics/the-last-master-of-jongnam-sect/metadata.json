@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-11T18:32:23.509989",
+  "scraped_at": "2026-04-13T14:12:28.069959",
   "alternative_titles": "군림천하",
   "status": "Berjalan",
   "author": "Yong Dae-un,Lee Hyun-seok",
@@ -24,22 +24,40 @@
   "synopsis": "Manhwa                    The Last Master of Jongnam Sect yang dibuat oleh komikus bernama\n                    Yong Dae-un,Lee Hyun-seok ini bercerita tentang\n                    \"Kau, dan hanya kau, yang harus menguasai dunia!\" Hanya dengan satu kalimat itu, takdir Jin San-wol telah ditentukan. Di usia dua puluh tiga tahun, ia menjadi pemimpin Sekte Jongnam. Yang tersisa hanyalah delapan murid. Dahulu, sebuah sekte yang bermimpi menjadi yang terhebat di dunia, kini hanya berjuang untuk bertahan hidup, berpegang teguh pada secercah warisan. Untuk menghormati harapan terakhir gurunya—Untuk bertahan hidup—Jin San-wol melangkah ke dunia seni bela diri yang kejam.",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik The Last Master of Jongnam Sect Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTQxLw==",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "40",
+      "title": "Komik The Last Master of Jongnam Sect Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTQwLw==",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "39",
+      "title": "Komik The Last Master of Jongnam Sect Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTM5Lw==",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "38",
       "title": "Komik The Last Master of Jongnam Sect Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTM4Lw==",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik The Last Master of Jongnam Sect Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTM3Lw==",
-      "date": "5 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik The Last Master of Jongnam Sect Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTM2Lw==",
-      "date": "5 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "35",
@@ -57,13 +75,13 @@
       "chapter": "33",
       "title": "Komik The Last Master of Jongnam Sect Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTMzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik The Last Master of Jongnam Sect Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTMyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -117,7 +135,7 @@
       "chapter": "23",
       "title": "Komik The Last Master of Jongnam Sect Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTIzLw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -141,7 +159,7 @@
       "chapter": "19",
       "title": "Komik The Last Master of Jongnam Sect Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhc3QtbWFzdGVyLW9mLWpvbmduYW0tc2VjdC1jaGFwdGVyLTE5Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -252,5 +270,5 @@
       "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 38
+  "total_chapters": 41
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 5.92,
-  "scraped_at": "2026-04-09T16:09:13.947104",
+  "scraped_at": "2026-04-13T14:09:15.787716",
   "alternative_titles": "I Have A Slow Life In A Different World (I Wish), I Have A Slow Living In Different World (I Wish), Размеренной жизни бы в ином мире (мечта), 異世界でスローライフを(願望)",
   "status": "Berjalan",
   "author": "Shige",
@@ -25,22 +25,28 @@
   "synopsis": "Manga                    Isekai de Slow Life wo (Ganbou) yang dibuat oleh komikus bernama\n                    Shige ini bercerita tentang\n                    Atas kehendak dewi, Itsuki Shinomiya diberi hak istimewa untuk memilih berbagai kemampuan dan terlahir kembali di dunia lain.\r\nNamun, sebelum pergi ke dunia lain, dia tidak ingin melibatkan dirinya dalam hal-hal yang menakutkan, kotor, dan menjijikkan seperti pertempuran.\r\nBertekad kuat untuk menjalani kehidupan yang lambat, dia memilih keterampilan unik [Uang Saku], memberinya sejumlah uang sekali sehari.\r\n\"Dengan ini, saya bisa bergaul dengan perempuan tanpa harus bekerja!\"\r\nBermimpi menghindari pertempuran dan hidup dengan gadis-gadis imut, Itsuki melangkah ke dunia lain!\r\nNamun kenyataannya tidak sesederhana itu.\r\nDiserang oleh serangga raksasa, terjebak dalam pertengkaran di guild, dan terjebak dengan budak ?!\r\nPada akhirnya, akankah Itsuki dapat menjalani kehidupan lambat idealnya ?!\r\nMenggunakan keterampilan unik dan keterampilan manufaktur, kehidupan lambat dunia lain yang mengasyikkan dengan gadis-gadis cantik dimulai sekarang! (semoga)",
   "chapters": [
     {
+      "chapter": "59",
+      "title": "Komik Isekai de Slow Life wo (Ganbou) Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXNsb3ctbGlmZS13by1nYW5ib3UtY2hhcHRlci01OS8=",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik Isekai de Slow Life wo (Ganbou) Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXNsb3ctbGlmZS13by1nYW5ib3UtY2hhcHRlci01OC8=",
-      "date": "8 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Isekai de Slow Life wo (Ganbou) Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXNsb3ctbGlmZS13by1nYW5ib3UtY2hhcHRlci01Ny8=",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Isekai de Slow Life wo (Ganbou) Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXNsb3ctbGlmZS13by1nYW5ib3UtY2hhcHRlci01Ni8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -373,5 +379,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 58
+  "total_chapters": 59
 }

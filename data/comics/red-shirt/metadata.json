@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.36,
-  "scraped_at": "2026-04-12T13:45:56.397942",
+  "scraped_at": "2026-04-13T14:10:43.778357",
   "alternative_titles": "레드셔츠, Червона сорочка",
   "status": "Berjalan",
   "author": "Punch Kick",
@@ -19,16 +19,22 @@
   "synopsis": "Manhwa                    Red Shirt yang dibuat oleh komikus bernama\n                    Punch Kick ini bercerita tentang\n                    Legenda perusahaan pembunuh, Cha Si-hyuk. Ia memutuskan untuk pensiun setelah bertemu dengan wanita yang dicintainya, tetapi perusahaan tidak berniat melepaskannya begitu saja. Akhirnya, segalanya mulai diambil darinya, dan Cha Si-hyuk kembali mengangkat pedang. Balas dendam pun dimulai, dan perang dengan organisasi besar ‘Neville’ pun tak terelakkan... Apa yang tersisa di ujung pedang balas dendam?",
   "chapters": [
     {
+      "chapter": "53",
+      "title": "Komik Red Shirt Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNTMv",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "52",
       "title": "Komik Red Shirt Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNTIv",
-      "date": "8 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Red Shirt Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNTEv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "50",
@@ -331,5 +337,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 52
+  "total_chapters": 53
 }

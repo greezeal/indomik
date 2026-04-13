@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-08T10:44:51.396730",
+  "scraped_at": "2026-04-13T14:10:28.588449",
   "alternative_titles": "あの島の海音〈うみね〉荘, あの島の海音荘, Ano Shima no Kaion-sou, Umine the Island Inn, La posada Umine de aquella isla, Umine-sou Trên Hòn Đảo Ấy, Umine, a pousada da ilha",
   "status": "Berjalan",
   "author": "Seo Kouji",
@@ -22,16 +22,34 @@
   "synopsis": "Manga                    Ano Shima no Umine-sou yang dibuat oleh komikus bernama\n                    Seo Kouji ini bercerita tentang\n                    Kazuma, seorang pemuda pengangguran berusia 19 tahun, dipanggil ke Pulau Asagiri, yang dikabarkan menyimpan harta karun bajak laut yang telah lama hilang. Ia akhirnya bekerja serabutan di Umine Inn, sebuah kafe tradisional Jepang dengan penginapan khusus wanita dan sejumlah wanita eksentrik namun cantik. Sebuah kisah impian bagi setiap pria - komedi romantis tentang kehidupan di pulau dan perburuan harta karun, di mana lingkungannya indah dalam berbagai hal!",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Ano Shima no Umine-sou Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTEzLw==",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Ano Shima no Umine-sou Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTEyLw==",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Ano Shima no Umine-sou Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTExLw==",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Ano Shima no Umine-sou Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTEwLw==",
-      "date": "3 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Ano Shima no Umine-sou Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTkv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "8",
@@ -82,5 +100,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 13
 }

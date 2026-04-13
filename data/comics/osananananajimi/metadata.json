@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.16,
-  "scraped_at": "2026-04-05T14:56:58.045548",
+  "scraped_at": "2026-04-13T14:11:22.019426",
   "alternative_titles": "おさななななじみ, Amiiiigos de Infância, 青梅竹马, Bạn Thuở-Thuở-Thuở Nhỏ, Bạn Thuở Nhỏ, Çocukluuuuk Arkadaşları, Nananana",
   "status": "Berjalan",
   "author": "Yukimori Nene",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Osananananajimi yang dibuat oleh komikus bernama\n                    Yukimori Nene ini bercerita tentang\n                    Momose Yuuichi dan Fujino Sumi adalah teman masa kecil yang telah bersama sejak kecil. Sekarang, mereka sekelas di SMA, tetapi sejak mereka memasuki masa pubertas, mereka tidak lagi merasa sedekat dulu. Mereka saling mengenal dengan baik, tetapi ada kesan formalitas di sana. Inilah hubungan yang rumit di antara mereka, sampai suatu hari, Sumi tiba-tiba datang ke rumah Yuuichi...?",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Osananananajimi Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTMv",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik Osananananajimi Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTIv",
-      "date": "20 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Osananananajimi Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Osananananajimi Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTAv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Osananananajimi Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -95,5 +101,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }
