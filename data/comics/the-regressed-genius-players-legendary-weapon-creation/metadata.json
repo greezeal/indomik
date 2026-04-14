@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-12T07:02:24.426947",
+  "scraped_at": "2026-04-14T20:45:16.443909",
   "alternative_titles": "Regressed Genius Creates Mythic Items, 회귀한 천재 플레이어의 신화급 무기창조",
   "status": "Berjalan",
   "author": "Hong Ah Jin",
@@ -22,10 +22,22 @@
   "synopsis": "Manhwa                    The Regressed Genius Player’s Legendary Weapon Creation yang dibuat oleh komikus bernama\n                    Hong Ah Jin ini bercerita tentang\n                    Kisah The Regressed Genius Player’s Mythical Weapon Creation memperkenalkan Kim Si-moon, seorang alkemis Level 1 yang dikutuk dengan ketidakmampuan sihir. Pada hari Bumi berada di ambang kehancuran, Si-moon berhasil menciptakan Batu Bertuah—sebuah benda ajaib yang dapat mencapai apa pun melalui pertukaran yang setara. “Apa pun mungkin, katamu? Kalau begitu, yang kuinginkan sekarang adalah membalas orang yang menghancurkan Bumi dan membunuh adikku, dan menjalani hidup yang bebas dari ketidakberdayaan!” Saat hidupnya yang penuh penyesalan tampaknya akan berakhir, Si-moon tiba-tiba terbangun 11 tahun di masa lalu. “Kali ini… aku akan mengubah segalanya.” Bertekad untuk menulis ulang masa lalunya yang tragis sebagai seorang alkemis yang tidak berdaya, Si-moon bekerja sama dengan Batu Bertuah untuk mengubah masa depan, memperbaiki semua kemalangan, dan membangun kehidupan yang benar-benar layak untuknya.",
   "chapters": [
     {
+      "chapter": "77",
+      "title": "Komik The Regressed Genius Player’s Legendary Weapon Creation Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1nZW5pdXMtcGxheWVycy1sZWdlbmRhcnktd2VhcG9uLWNyZWF0aW9uLWNoYXB0ZXItNzcv",
+      "date": "50 menit yang lalu"
+    },
+    {
+      "chapter": "76",
+      "title": "Komik The Regressed Genius Player’s Legendary Weapon Creation Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1nZW5pdXMtcGxheWVycy1sZWdlbmRhcnktd2VhcG9uLWNyZWF0aW9uLWNoYXB0ZXItNzYv",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "75",
       "title": "Komik The Regressed Genius Player’s Legendary Weapon Creation Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1nZW5pdXMtcGxheWVycy1sZWdlbmRhcnktd2VhcG9uLWNyZWF0aW9uLWNoYXB0ZXItNzUv",
-      "date": "5 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "74",
@@ -139,7 +151,7 @@
       "chapter": "56",
       "title": "Komik The Regressed Genius Player’s Legendary Weapon Creation Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1nZW5pdXMtcGxheWVycy1sZWdlbmRhcnktd2VhcG9uLWNyZWF0aW9uLWNoYXB0ZXItNTYv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -187,7 +199,7 @@
       "chapter": "48",
       "title": "Komik The Regressed Genius Player’s Legendary Weapon Creation Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1nZW5pdXMtcGxheWVycy1sZWdlbmRhcnktd2VhcG9uLWNyZWF0aW9uLWNoYXB0ZXItNDgv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "47",
@@ -217,7 +229,7 @@
       "chapter": "43",
       "title": "Komik The Regressed Genius Player’s Legendary Weapon Creation Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1nZW5pdXMtcGxheWVycy1sZWdlbmRhcnktd2VhcG9uLWNyZWF0aW9uLWNoYXB0ZXItNDMv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -235,7 +247,7 @@
       "chapter": "40",
       "title": "Komik The Regressed Genius Player’s Legendary Weapon Creation Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlZ3Jlc3NlZC1nZW5pdXMtcGxheWVycy1sZWdlbmRhcnktd2VhcG9uLWNyZWF0aW9uLWNoYXB0ZXItNDAv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -472,5 +484,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 75
+  "total_chapters": 77
 }

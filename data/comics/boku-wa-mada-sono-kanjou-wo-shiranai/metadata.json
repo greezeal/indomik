@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-06T16:03:13.229105",
+  "scraped_at": "2026-04-14T20:42:21.622788",
   "alternative_titles": "僕はまだその“感情”を知らない",
   "status": "Berjalan",
   "author": "",
@@ -14,23 +14,34 @@
   "genres": [
     "Comedy",
     "Romance",
-    "School",
     "School Life"
   ],
   "synopsis": "Manga                    Boku wa Mada Sono Kanjou wo Shiranai yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Aku, Kanae Misaki, seorang siswa SMP yang baru masuk, tidak mengerti. Aku menjawab pertanyaan bahasa Inggris yang diberikan oleh guru wali kelasku dengan jujur, tapi diberitahu bahwa jawabanku salah. Selain \"Aku mencintaimu\", apa lagi terjemahan yang tepat untuk \"Aku mencintaimu\"...?",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Boku wa Mada Sono Kanjou wo Shiranai Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS13YS1tYWRhLXNvbm8ta2Fuam91LXdvLXNoaXJhbmFpLWNoYXB0ZXItNC8=",
+      "date": "26 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Boku wa Mada Sono Kanjou wo Shiranai Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS13YS1tYWRhLXNvbm8ta2Fuam91LXdvLXNoaXJhbmFpLWNoYXB0ZXItMy8=",
+      "date": "4 hari yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Boku wa Mada Sono Kanjou wo Shiranai Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS13YS1tYWRhLXNvbm8ta2Fuam91LXdvLXNoaXJhbmFpLWNoYXB0ZXItMi8=",
-      "date": "27 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Boku wa Mada Sono Kanjou wo Shiranai Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS13YS1tYWRhLXNvbm8ta2Fuam91LXdvLXNoaXJhbmFpLWNoYXB0ZXItMS8=",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 4
 }

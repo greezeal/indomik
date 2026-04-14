@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.81,
-  "scraped_at": "2026-03-05T23:38:45.185351",
+  "scraped_at": "2026-04-14T20:44:18.339128",
   "alternative_titles": "貞操逆転世界ならモテると思っていたら",
   "status": "Berjalan",
   "author": "Hakuto",
@@ -26,35 +26,47 @@
   "synopsis": "Manga                    Teisou Gyakuten Sekai Nara Moteru to Omotte Itara yang dibuat oleh komikus bernama\n                    Hakuto ini bercerita tentang\n                    \"Dunia di Mana Kesucian Terbalik\"—Dunia mimpi di mana rasio pria dan wanita adalah 1:20, wanita memiliki hasrat seksual yang lebih kuat, dan pria-pria berharga menjalani kehidupan yang mulus dilindungi oleh pengawal mereka.Lima belas tahun telah berlalu sejak Ikuto Ichise bereinkarnasi ke dunia ini, yang seharusnya menjadi harem yang terjamin, tetapi entah mengapa, ia tidak populer. Ikuto mengeluh bahwa itu pasti karena pengawalnya semua pria tampan, terutama teman masa kecilnya Rui Toosaka, yang sangat berkelas... tetapi kenyataannya, para pengawalnya adalah gadis-gadis cantik yang menyamar sebagai pria!Tanpa disadari, Ikuto terlalu dekat dan lengah, membuat setiap gadis merasa mereka punya kesempatan. Saat ia secara tidak sengaja membentuk harem yang tidak disadari, Rui, yang ingin terlihat sebagai seorang gadis, mengungkapkan segalanya kepadanya—!?Tirai terbuka pada cerita harem komedi romantis di mana permintaan saya sangat besar, dan itu selalu menjadi periode puncak popularitas saya!",
   "chapters": [
     {
+      "chapter": "6.5",
+      "title": "Komik Teisou Gyakuten Sekai Nara Moteru to Omotte Itara Chapter 6.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLW5hcmEtbW90ZXJ1LXRvLW9tb3R0ZS1pdGFyYS1jaGFwdGVyLTYtNS8=",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Teisou Gyakuten Sekai Nara Moteru to Omotte Itara Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLW5hcmEtbW90ZXJ1LXRvLW9tb3R0ZS1pdGFyYS1jaGFwdGVyLTYv",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Teisou Gyakuten Sekai Nara Moteru to Omotte Itara Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLW5hcmEtbW90ZXJ1LXRvLW9tb3R0ZS1pdGFyYS1jaGFwdGVyLTUv",
-      "date": "7 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Teisou Gyakuten Sekai Nara Moteru to Omotte Itara Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLW5hcmEtbW90ZXJ1LXRvLW9tb3R0ZS1pdGFyYS1jaGFwdGVyLTQv",
-      "date": "6 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Teisou Gyakuten Sekai Nara Moteru to Omotte Itara Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLW5hcmEtbW90ZXJ1LXRvLW9tb3R0ZS1pdGFyYS1jaGFwdGVyLTMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Teisou Gyakuten Sekai Nara Moteru to Omotte Itara Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLW5hcmEtbW90ZXJ1LXRvLW9tb3R0ZS1pdGFyYS1jaGFwdGVyLTIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Teisou Gyakuten Sekai Nara Moteru to Omotte Itara Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLW5hcmEtbW90ZXJ1LXRvLW9tb3R0ZS1pdGFyYS1jaGFwdGVyLTEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 7
 }
