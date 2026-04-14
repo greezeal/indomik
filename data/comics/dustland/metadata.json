@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T03:33:47.296932",
+  "scraped_at": "2026-04-14T14:13:38.787932",
   "alternative_titles": "Dustland, ダストランド",
   "status": "Berjalan",
   "author": "Takahashi Hiroshi",
@@ -21,41 +21,47 @@
   "synopsis": "Manga                    Dustland yang dibuat oleh komikus bernama\n                    Takahashi Hiroshi ini bercerita tentang\n                    Di Distrik Utsusemi, Kota Toaru—di mana SMA Khusus Putra Suzuran menjulang tinggi di atas lanskap—seorang anak laki-laki bernama Asada Hibari pindah ke Kompleks Apartemen Nakahara, tempat yang terkenal sebagai bangunan berhantu. Masih terperangkap dalam bayang-bayang kematian ibunya, Hibari tetap tidak mampu melepaskan diri dari kesepiannya yang mencekik. Namun, pertemuan tak sengaja dengan Kobayashi Sanzou, seorang penghuni gedung yang sama, mulai mengarahkan masa mudanya menuju sesuatu yang lebih panas dan tak tergantikan daripada apa pun yang pernah ia ketahui!\r\n\r\nSekuel resmi dari manga bertema kenakalan remaja yang legendaris, Crows and Worst, akhirnya dimulai!",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Dustland Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVzdGxhbmQtY2hhcHRlci03Lw==",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Dustland Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVzdGxhbmQtY2hhcHRlci02Lw==",
-      "date": "3 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Dustland Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVzdGxhbmQtY2hhcHRlci01Lw==",
-      "date": "3 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Dustland Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVzdGxhbmQtY2hhcHRlci00Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Dustland Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVzdGxhbmQtY2hhcHRlci0zLw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Dustland Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVzdGxhbmQtY2hhcHRlci0yLw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Dustland Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVzdGxhbmQtY2hhcHRlci0xLw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }

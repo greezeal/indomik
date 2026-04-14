@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.59,
-  "scraped_at": "2026-04-05T14:58:38.022962",
+  "scraped_at": "2026-04-14T14:12:59.867335",
   "alternative_titles": "一生わたしの助手でいて！, Be my assistant for life!",
   "status": "Berjalan",
   "author": "Hitotose Hirune",
@@ -24,22 +24,28 @@
   "synopsis": "Manga                    Issho Watashi no Joshu de ite! yang dibuat oleh komikus bernama\n                    Hitotose Hirune ini bercerita tentang\n                    \"Hubungan antara detektif dan asistennya tidak jauh berbeda dengan romansa!\"\r\n\r\nKarena kecenderungan alaminya untuk membantu orang lain (tipe \"pembantu\" yang membuatnya selalu ingin membantu), Mitomo Tasuku selalu hidup dalam bayang-bayang. Untuk keluar dari situasi ini, ia menjadikan \"menjadi nomor satu\" sebagai misi hidupnya. Namun, di sekolah menengah tempat ia pindah, ia bertemu dengan tiga detektif perempuan, yang kebetulan adalah saingannya dari sekolah dasar yang membentuk klub detektif bersamanya. Maka dimulailah pertarungan sengit Tasuku untuk mendapatkan posisi detektif teratas! Namun... gadis-gadis ini tampaknya menyimpan perasaan yang berbeda...!?",
   "chapters": [
     {
+      "chapter": "16.5",
+      "title": "Komik Issho Watashi no Joshu de ite! Chapter 16.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG8td2F0YXNoaS1uby1qb3NodS1kZS1pdGUtY2hhcHRlci0xNi01Lw==",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Issho Watashi no Joshu de ite! Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG8td2F0YXNoaS1uby1qb3NodS1kZS1pdGUtY2hhcHRlci0xNi8=",
-      "date": "8 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Issho Watashi no Joshu de ite! Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG8td2F0YXNoaS1uby1qb3NodS1kZS1pdGUtY2hhcHRlci0xNS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Issho Watashi no Joshu de ite! Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG8td2F0YXNoaS1uby1qb3NodS1kZS1pdGUtY2hhcHRlci0xNC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -126,5 +132,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }
