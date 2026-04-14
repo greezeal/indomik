@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T03:44:10.292808",
-  "total_comics": 1423,
+  "last_updated": "2026-04-14T06:00:34.286760",
+  "total_comics": 1431,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1222,9 +1222,9 @@
       "slug": "my-empress-disciple-is-about-to-turn-dark",
       "title": "My Empress Disciple Is About to Turn Dark",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 67
     },
     {
       "slug": "687103-the-genius-grandson-of-namgung-clan",
@@ -1360,7 +1360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.08,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "the-genius-midfielders-pass-is-special",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "70-meter-girl",
@@ -2344,7 +2344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "my-bias-gets-on-the-last-train",
@@ -3040,7 +3040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life",
@@ -4024,7 +4024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 77
+      "total_chapters": 78
     },
     {
       "slug": "this-is-the-law",
@@ -5336,7 +5336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
@@ -5600,7 +5600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 197
+      "total_chapters": 198
     },
     {
       "slug": "oshi-no-teki-ni-natta-node",
@@ -5624,7 +5624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "kakkou-no-iinazuke",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -8176,7 +8176,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "one-room-hiatari-futsuu-tenshitsuki",
@@ -10640,7 +10640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "i-beat-up-my-boss",
@@ -11374,9 +11374,9 @@
       "slug": "evil-boy-kimsan",
       "title": "Evil Boy (Kimsan)",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 25
     },
     {
       "slug": "golden-martial-god",
@@ -11385,6 +11385,70 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 7
+    },
+    {
+      "slug": "mood-disorder",
+      "title": "Mood Disorder",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.02,
+      "total_chapters": 53
+    },
+    {
+      "slug": "gannibal",
+      "title": "Gannibal",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 17
+    },
+    {
+      "slug": "i-am-the-5-year-old-spy-who-kidnapped-the-villain",
+      "title": "I Am the 5-Year-Old Spy Who Kidnapped the Villain",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 18
+    },
+    {
+      "slug": "otoko-girai-na-bijin-shimai-wo-namae-mo-tsugezu-ni-tasuketara-ittai-dounaru",
+      "title": "Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.52,
+      "total_chapters": 24
+    },
+    {
+      "slug": "uruwashi-babaa-wa-mago-ga-hoshii",
+      "title": "Uruwashi Babaa wa Mago ga Hoshii!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "saint-seiya-meiou-iden-dark-wing",
+      "title": "Saint Seiya: Meiou Iden – Dark Wing",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "817591-rebirth-of-the-urban-immortal-cultivator",
+      "title": "Rebirth of the Urban Immortal Cultivator",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.37,
+      "total_chapters": 1054
+    },
+    {
+      "slug": "auto-skill-de-ore-dake-chousoku-level-up-megami-ga-michibiku-taida-na-tenseisha-no-sakutto-isekai-kouryaku",
+      "title": "Auto Skill de Ore dake Chousoku Level Up: Megami ga Michibiku Taida na Tenseisha no Sakutto Isekai Kouryaku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }
