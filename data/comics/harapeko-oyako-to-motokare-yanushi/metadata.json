@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.66,
-  "scraped_at": "2026-04-14T18:15:45.264889",
+  "scraped_at": "2026-04-15T14:08:59.537389",
   "alternative_titles": "はらぺこ母娘と元カレ家主, Hara peko Oyako to Motokare Yanushi, A Hungry Mother and Daughter and Her Ex-Boyfriend Landlord, Uma mãe faminta, sua filha e seu ex-namorado proprietário",
   "status": "Berjalan",
   "author": "Riori",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Harapeko Oyako to Motokare Yanushi yang dibuat oleh komikus bernama\n                    Riori ini bercerita tentang\n                    Takaharu yang berusia 36 tahun tinggal sendirian. Setelah lulus dari Sekolah Tinggi Seni, ia menjalani kehidupan yang tenang sambil melukis gambar.\r\n\r\nSuatu hari, mantan pacarnya Kyou, yang telah ia putuskan 17 tahun lalu, datang kepadanya bersama putrinya Minori dan meminta agar ia mengizinkan mereka tinggal di tempatnya. Seperti di masa kuliah mereka,\r\n\r\nKyou tertarik dengan makanan lezat itu, dan mereka bertiga pun mulai hidup bersama!",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik Harapeko Oyako to Motokare Yanushi Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFyYXBla28tb3lha28tdG8tbW90b2thcmUteWFudXNoaS1jaGFwdGVyLTE2Lw==",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Harapeko Oyako to Motokare Yanushi Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFyYXBla28tb3lha28tdG8tbW90b2thcmUteWFudXNoaS1jaGFwdGVyLTE1Lw==",
-      "date": "30 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "14",
@@ -112,5 +118,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 16
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-15T12:01:21.485654",
+  "scraped_at": "2026-04-15T14:07:15.213050",
   "alternative_titles": "마도전생기",
   "status": "Berjalan",
   "author": "codezero",
@@ -24,10 +24,22 @@
   "synopsis": "Manhwa                    Chronicles of the Demon Faction yang dibuat oleh komikus bernama\n                    codezero ini bercerita tentang\n                    Chun Hajin, pembunuh terkuat dari Aliansi Surgawi yang Benar dari Ortodoks Murim. Hajin kehilangan nyawanya saat dia mencoba melarikan diri untuk menemukan kebebasan.\r\n\r\nKemudian…\r\n\r\n\"Kultus ilahi itu abadi, semoga semua iblis tunduk. Selamat atas kesembuhanmu, tuan muda ketiga!\"\r\n\r\nDia bereinkarnasi ke dalam tubuh musuh publik Murim, tuan muda ketiga dari Kultus Iblis?!\r\n\r\nPenaklukan Demonic Murim oleh Chun Hajin, senjata rahasia terkuat dari Murim Ortodoks, dimulai sekarang.",
   "chapters": [
     {
+      "chapter": "166",
+      "title": "Komik Chronicles of the Demon Faction Chapter 166",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tZmFjdGlvbi1jaGFwdGVyLTE2Ni8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "165",
+      "title": "Komik Chronicles of the Demon Faction Chapter 165",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tZmFjdGlvbi1jaGFwdGVyLTE2NS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "164",
       "title": "Komik Chronicles of the Demon Faction Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tZmFjdGlvbi1jaGFwdGVyLTE2NC8=",
-      "date": "13 menit yang lalu"
+      "date": "9 jam yang lalu"
     },
     {
       "chapter": "163",
@@ -39,19 +51,19 @@
       "chapter": "162",
       "title": "Komik Chronicles of the Demon Faction Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tZmFjdGlvbi1jaGFwdGVyLTE2Mi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "161",
       "title": "Komik Chronicles of the Demon Faction Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tZmFjdGlvbi1jaGFwdGVyLTE2MS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "160",
       "title": "Komik Chronicles of the Demon Faction Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tZmFjdGlvbi1jaGFwdGVyLTE2MC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "159",
@@ -1008,5 +1020,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 164
+  "total_chapters": 166
 }

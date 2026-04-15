@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T12:04:12.896030",
-  "total_comics": 1441,
+  "last_updated": "2026-04-15T14:12:44.282671",
+  "total_comics": 1444,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -246,9 +246,9 @@
       "slug": "remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta",
       "title": "Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.92,
+      "total_chapters": 19
     },
     {
       "slug": "renai-no-jugyou",
@@ -352,7 +352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "children-of-the-rune",
@@ -512,7 +512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 90
     },
     {
       "slug": "bijin-de-okane-mochi-no-kanojo-ga-hoshii-to-ittara-wake-ari-joshi-ga-yattekita-ken",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 122
+      "total_chapters": 123
     },
     {
       "slug": "isshou-senkin",
@@ -1136,7 +1136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "643745-ranger-reject",
@@ -1382,9 +1382,9 @@
       "slug": "ryuuzaki-san-ga-ore-no-mae-dake-de-dereru-riyuu",
       "title": "Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
     },
     {
       "slug": "the-mage-next-door",
@@ -2136,7 +2136,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 515
+      "total_chapters": 519
     },
     {
       "slug": "game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau",
@@ -2288,7 +2288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "299482-rankers-return-remake",
@@ -2296,7 +2296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 239
+      "total_chapters": 240
     },
     {
       "slug": "reincarnation-of-the-demonic-god",
@@ -2672,7 +2672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 36
     },
     {
       "slug": "reincarnated-as-the-archdukes-son",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 64
+      "total_chapters": 66
     },
     {
       "slug": "peerless-soul",
@@ -4480,7 +4480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 164
+      "total_chapters": 166
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -4816,7 +4816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 41
     },
     {
       "slug": "after-the-high-school-goddess-dumped-me-i-became-a-martial-arts-god",
@@ -5006,9 +5006,9 @@
       "slug": "ore-ni-tsugo-ga-yosugiru-machi-shihaisha-skill-de-isekai-harem-musou",
       "title": "Ore ni Tsugo ga Yosugiru Machi ~Shihaisha Skill de Isekai Harem Musou~",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     },
     {
       "slug": "776263-study-group",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -5568,7 +5568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 346
+      "total_chapters": 356
     },
     {
       "slug": "247116-the-investor-who-sees-the-future",
@@ -5656,7 +5656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.45,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "eiyuu-to-majo-no-tensei-rabu-kome",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -6856,7 +6856,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.27,
-      "total_chapters": 69
+      "total_chapters": 71
     },
     {
       "slug": "top-star-sent-by-god",
@@ -6952,7 +6952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "doomsday-the-emperors-banner-invites-all-female-disciples-to-take-their-seats",
@@ -7256,7 +7256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "crimson-heart-wanderer",
@@ -7288,7 +7288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 63
+      "total_chapters": 65
     },
     {
       "slug": "the-genius-girl-who-hides-the-martial-worlds-public-enemy",
@@ -7384,7 +7384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 137
+      "total_chapters": 138
     },
     {
       "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 106
+      "total_chapters": 108
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -7984,7 +7984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "hyougakei-idol-no-manager-o-shite-imasu-ga-mou-genkai-desu",
@@ -8328,7 +8328,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.48,
-      "total_chapters": 120
+      "total_chapters": 121
     },
     {
       "slug": "resurrection-boy",
@@ -8680,7 +8680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.33,
-      "total_chapters": 174
+      "total_chapters": 175
     },
     {
       "slug": "kuma-kuma-kuma-bear",
@@ -8688,7 +8688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.51,
-      "total_chapters": 105
+      "total_chapters": 106
     },
     {
       "slug": "shikkaku-kara-hajimeru-nariagari-madou-shidou",
@@ -9088,7 +9088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "gokinjo-jk-isezaki-san-wa-isekaigaeri-no-daiseijo",
@@ -9136,7 +9136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "tsuma-wa-boku-wo-futorasetai",
@@ -10752,7 +10752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "yuusha-no-moto-nakama-fufu-wa-inaka-de-nonbiri-shiawase-ni-kurasu",
@@ -10864,7 +10864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "after-the-novel-villains-heard-my-inner-voice",
@@ -10912,7 +10912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.22,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "isekai-de-slow-life-wo-ganbou",
@@ -11016,7 +11016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 5.97,
-      "total_chapters": 141
+      "total_chapters": 143
     },
     {
       "slug": "the-black-haired-british-doctor",
@@ -11464,7 +11464,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.66,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "151544-return-of-the-flowery-mountain-sect",
@@ -11472,7 +11472,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 159
+      "total_chapters": 163
     },
     {
       "slug": "the-lie",
@@ -11529,6 +11529,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 25
+    },
+    {
+      "slug": "persona-3",
+      "title": "Persona 3",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.62,
+      "total_chapters": 7
+    },
+    {
+      "slug": "854026-tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu",
+      "title": "Tensei Shitara dai Nana Ouji dattanode, Kimamani Majutsu o Kiwamemasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.16,
+      "total_chapters": 219
+    },
+    {
+      "slug": "boku-no-kokoro-no-yabai-yatsu",
+      "title": "Boku no Kokoro no Yabai Yatsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.1,
+      "total_chapters": 222
     }
   ]
 }
