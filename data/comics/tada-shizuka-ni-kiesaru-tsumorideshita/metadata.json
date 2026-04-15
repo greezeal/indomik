@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.17,
-  "scraped_at": "2026-02-04T13:51:11.030295",
+  "scraped_at": "2026-04-15T09:51:48.544851",
   "alternative_titles": "ただ静かに消え去るつもりでした, Aku Hanya Bermaksud Untuk Menghilang Dengan Tenang",
   "status": "Berjalan",
   "author": "Fuyuna Yuuki",
@@ -20,35 +20,41 @@
   "synopsis": "Manga                    Tada Shizuka ni Kiesaru Tsumorideshita yang dibuat oleh komikus bernama\n                    Fuyuna Yuuki ini bercerita tentang\n                    Leticia, sang putri count, menyimpan rasa kepada teman masa kecilnya, Sebran. Dia berharap untuk menikah dengannya atas dasar cinta satu sama lain... Sampai saudari tirinya tiba. 2 bulan setelah ibunya meninggal dunia, ayahnya menyambut kekasih baru beserta putrinya, Leticia dengan cepat menyadari bahwa dirinya kehilangan tempat untuk tinggal. Lalu, Sebran juga...\r\nMaka, dia ingin menghilang dengan tenang... Atau begitulah yang ia kira...!?",
   "chapters": [
     {
+      "chapter": "4.1",
+      "title": "Komik Tada Shizuka ni Kiesaru Tsumorideshita Chapter 4.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkYS1zaGl6dWthLW5pLWtpZXNhcnUtdHN1bW9yaWRlc2hpdGEtY2hhcHRlci00LTEv",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "3.2",
       "title": "Komik Tada Shizuka ni Kiesaru Tsumorideshita Chapter 3.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkYS1zaGl6dWthLW5pLWtpZXNhcnUtdHN1bW9yaWRlc2hpdGEtY2hhcHRlci0zLTIv",
-      "date": "5 jam yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3.1",
       "title": "Komik Tada Shizuka ni Kiesaru Tsumorideshita Chapter 3.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkYS1zaGl6dWthLW5pLWtpZXNhcnUtdHN1bW9yaWRlc2hpdGEtY2hhcHRlci0zLTEv",
-      "date": "5 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2.2",
       "title": "Komik Tada Shizuka ni Kiesaru Tsumorideshita Chapter 2.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkYS1zaGl6dWthLW5pLWtpZXNhcnUtdHN1bW9yaWRlc2hpdGEtY2hhcHRlci0yLTIv",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "2.1",
       "title": "Komik Tada Shizuka ni Kiesaru Tsumorideshita Chapter 2.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkYS1zaGl6dWthLW5pLWtpZXNhcnUtdHN1bW9yaWRlc2hpdGEtY2hhcHRlci0yLTEv",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tada Shizuka ni Kiesaru Tsumorideshita Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkYS1zaGl6dWthLW5pLWtpZXNhcnUtdHN1bW9yaWRlc2hpdGEtY2hhcHRlci0xLw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }

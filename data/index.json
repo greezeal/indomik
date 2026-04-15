@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T08:01:49.261257",
-  "total_comics": 1434,
+  "last_updated": "2026-04-15T09:55:36.166341",
+  "total_comics": 1441,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "70-meter-girl",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 396
+      "total_chapters": 397
     },
     {
       "slug": "god-of-martial-arts",
@@ -3880,7 +3880,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.4,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "729096-shinka-tokusei-de-saikyou-necromancer",
@@ -4216,7 +4216,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "f-class-destiny-hunter",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 163
+      "total_chapters": 164
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -4744,7 +4744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "i-love-the-demon-lord-so-much-that-even-my-female-disciples-want-to-kill-me",
@@ -5248,7 +5248,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.88,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "superhuman-game-broadcast",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 37
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -6720,7 +6720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.92,
-      "total_chapters": 123
+      "total_chapters": 124
     },
     {
       "slug": "654785-im-not-that-kind-of-talent",
@@ -7800,7 +7800,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "spare-me-great-lord",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 65
+      "total_chapters": 67
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",
@@ -10528,7 +10528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 6
     },
     {
       "slug": "mentori-sama",
@@ -10912,7 +10912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.22,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "isekai-de-slow-life-wo-ganbou",
@@ -11472,7 +11472,63 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 158
+      "total_chapters": 159
+    },
+    {
+      "slug": "the-lie",
+      "title": "The Lie",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "shadow-of-paradise",
+      "title": "Shadow of Paradise",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 0.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "get-in-my-bed-supporting-male-leads",
+      "title": "Get in My Bed, Supporting Male Leads!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "beastly-night",
+      "title": "Beastly Night",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kimi-to-tsuzuru-utakata",
+      "title": "Kimi to Tsuzuru Utakata",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.99,
+      "total_chapters": 13
+    },
+    {
+      "slug": "koukando-ga-mieru-you-ni-natta-n-da-ga-heroine-ga-count-stop-shite-iru-ken",
+      "title": "Koukando ga Mieru you ni natta n da ga, Heroine ga Count Stop shite iru Ken",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 6.65,
+      "total_chapters": 3
+    },
+    {
+      "slug": "tonari-no-kuuderera-o-amayakashitara-uchi-no-aikagi-o-watasu-koto-ni-natta",
+      "title": "Tonari No Kuuderera O Amayakashitara, Uchi No Aikagi O Watasu Koto Ni Natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 25
     }
   ]
 }
