@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-13T19:31:32.048393",
+  "scraped_at": "2026-04-17T11:42:02.786351",
   "alternative_titles": "빌",
   "status": "Berjalan",
   "author": "",
@@ -22,22 +22,34 @@
   "synopsis": "Manhwa                    Bill The Blacksmith yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Bill Back, blacksmith yang menempa pedang sang hero, ia merasa puas menjalani kehidupan yang biasa. Namun, meningkatnya keresahan di seluruh kerajaan yang mulai mengancam keberadaannya, hingga akhirnya ia terseret ke dalam spiral peristiwa yang tak terkendali saat situasi memburuk dengan cepat.",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Bill The Blacksmith Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTIxLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Bill The Blacksmith Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTIwLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Bill The Blacksmith Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTE5Lw==",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Bill The Blacksmith Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTE4Lw==",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Bill The Blacksmith Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTE3Lw==",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "16",
@@ -55,7 +67,7 @@
       "chapter": "14",
       "title": "Komik Bill The Blacksmith Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTE0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
@@ -97,7 +109,7 @@
       "chapter": "7",
       "title": "Komik Bill The Blacksmith Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbC10aGUtYmxhY2tzbWl0aC1jaGFwdGVyLTcv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -136,5 +148,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 21
 }

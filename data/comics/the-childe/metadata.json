@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-14T05:59:19.172483",
+  "scraped_at": "2026-04-17T11:43:41.111228",
   "alternative_titles": "The Noble, 귀공자",
   "status": "Berjalan",
   "author": "Han Dong-Woo",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    The Childe yang dibuat oleh komikus bernama\n                    Han Dong-Woo ini bercerita tentang\n                    \"Jin Taeha,\" penerus perusahaan terkemuka Korea \"Cheongu,\" selamat sendirian setelah serangan teroris saat berlayar dengan keluarganya. Ia mengetahui bahwa keluarganya terbunuh bukan karena kecelakaan, tetapi karena perebutan kekuasaan di antara kerabatnya. Memasuki \"Keluarga Salerno,\" keluarga mafia Italia, ia bersiap untuk membalas dendam.\r\nSetelah 17 tahun, ia kembali ke Korea dan akhirnya memulai balas dendamnya.",
   "chapters": [
     {
+      "chapter": "76",
+      "title": "Komik The Childe Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTc2Lw==",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "75",
       "title": "Komik The Childe Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTc1Lw==",
-      "date": "11 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "74",
@@ -469,5 +475,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 75
+  "total_chapters": 76
 }

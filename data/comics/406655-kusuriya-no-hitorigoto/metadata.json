@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.32,
-  "scraped_at": "2026-04-14T05:58:19.060690",
+  "scraped_at": "2026-04-17T11:42:10.537542",
   "alternative_titles": "Drugstore Soliloquy, Les carnets de l'apothicaire, The Apothecary Diaries, The Pharmacist's Monologue, The Pharmacist's Soliloquies, Монолог в аптечной лавке, 药屋少女的呢喃, 薬屋のひとりごと, 약사의 혼잣말",
   "status": "Berjalan",
   "author": "Hyuuga Natsu, Nanao Ikki",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Kusuriya no Hitorigoto yang dibuat oleh komikus bernama\n                    Hyuuga Natsu, Nanao Ikki ini bercerita tentang\n                    Di istana kekaisaran, seorang wanita muda dijadikan budak, Maomao. Kisah ini baru saja dimulai untuk apoteker wanita dari distrik lampu merah, saat rumor beredar tentang kehidupan anak-anak kaisar yang berumur pendek. Sifatnya yang ingin tahu dan haus akan pengetahuan mendorongnya untuk bertindak. Untuk memuaskan rasa penasarannya, apoteker muda ini akan menyelidiki asal usulnya! Apa yang berubah di istana kekaisaran ..!?",
   "chapters": [
     {
+      "chapter": "83.5",
+      "title": "Komik Kusuriya no Hitorigoto Chapter 83.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdXJpeWEtbm8taGl0b3JpZ290by1jaGFwdGVyLTgzLTUv",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "83.4",
       "title": "Komik Kusuriya no Hitorigoto Chapter 83.4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdXJpeWEtbm8taGl0b3JpZ290by1jaGFwdGVyLTgzLTQv",
-      "date": "11 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "83.3",
       "title": "Komik Kusuriya no Hitorigoto Chapter 83.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdXJpeWEtbm8taGl0b3JpZ290by1jaGFwdGVyLTgzLTMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "83.2",
@@ -44,7 +50,7 @@
       "chapter": "83.1",
       "title": "Komik Kusuriya no Hitorigoto Chapter 83.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdXJpeWEtbm8taGl0b3JpZ290by1jaGFwdGVyLTgzLTEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "82.2",
@@ -80,7 +86,7 @@
       "chapter": "80",
       "title": "Komik Kusuriya no Hitorigoto Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdXJpeWEtbm8taGl0b3JpZ290by1jaGFwdGVyLTgwLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "79.2",
@@ -659,5 +665,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 106
+  "total_chapters": 107
 }

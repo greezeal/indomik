@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-03-28T08:08:04.694322",
+  "scraped_at": "2026-04-17T11:40:48.044388",
   "alternative_titles": "After the Moonlight Falls, Chronicles of the Moonlit Night, Moonlight Chat, Moonlight Conversation, Moonlight Talk, Tales of the Moonlit Night, 월야환담 (2026)",
   "status": "Berjalan",
   "author": "Big Bird, Hong Jung Hoon",
@@ -20,40 +20,52 @@
   "synopsis": "Manhwa                    Tales of the Moonlit Night yang dibuat oleh komikus bernama\n                    Big Bird, Hong Jung Hoon ini bercerita tentang\n                    Ketika Segun Han, seorang remaja berusia 16 tahun yang bermimpi menjadi pembalap motor, pulang ke rumah suatu malam setelah baku tembak dengan para pengendara motor, ia menemukan bahwa orang tua dan kakak laki-lakinya telah dibunuh oleh vampir. Segun menjadi sangat marah dan mulai memburu vampir! Akankah ia menjadi vampir atau mati sebagai manusia? Pertempuran brutal antara vampir dan pemburu terjadi di Seoul!",
   "chapters": [
     {
+      "chapter": "28",
+      "title": "Komik Tales of the Moonlit Night Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yOC8=",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Tales of the Moonlit Night Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yNy8=",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Tales of the Moonlit Night Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yNi8=",
-      "date": "5 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Tales of the Moonlit Night Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Tales of the Moonlit Night Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Tales of the Moonlit Night Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Tales of the Moonlit Night Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Tales of the Moonlit Night Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtdGhlLW1vb25saXQtbmlnaHQtY2hhcHRlci0yMS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -176,5 +188,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 28
 }

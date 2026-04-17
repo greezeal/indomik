@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-13T19:31:59.304162",
+  "scraped_at": "2026-04-17T11:42:39.453233",
   "alternative_titles": "Convenience Store Worker From Another World, Isekai Convenience Store Worker, 이세계 편돌이",
   "status": "Berjalan",
   "author": "Seulpeunbang Ulbaem",
@@ -21,22 +21,34 @@
   "synopsis": "Manhwa                    Magical Realm Shopkeeper yang dibuat oleh komikus bernama\n                    Seulpeunbang Ulbaem ini bercerita tentang\n                    Protagonis Chan, yang sedang mencari pekerjaan paruh waktu setelah perusahaan sebelumnya bangkrut, secara kebetulan menemukan sebuah toko serba ada. Terpikat oleh upah per jam yang sangat tinggi, ia memutuskan untuk menjadi pekerja paruh waktu sejak hari itu. Tapi pelanggan yang datang sepertinya agak aneh. Vampir, kobold, dan bahkan succubi??",
   "chapters": [
     {
+      "chapter": "98",
+      "title": "Komik Magical Realm Shopkeeper Chapter 98",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTgv",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "97",
+      "title": "Komik Magical Realm Shopkeeper Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTcv",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "96",
       "title": "Komik Magical Realm Shopkeeper Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTYv",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik Magical Realm Shopkeeper Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTUv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Magical Realm Shopkeeper Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFnaWNhbC1yZWFsbS1zaG9wa2VlcGVyLWNoYXB0ZXItOTQv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "93",
@@ -591,5 +603,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 95
+  "total_chapters": 97
 }
