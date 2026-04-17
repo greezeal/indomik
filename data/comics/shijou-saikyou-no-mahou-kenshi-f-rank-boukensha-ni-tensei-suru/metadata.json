@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 5.97,
-  "scraped_at": "2026-04-15T15:28:12.773565",
+  "scraped_at": "2026-04-17T15:38:08.203693",
   "alternative_titles": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru ~ Kensei to Matei, 2 Tsu no Zense o motta Otoko no Eiyuutan, Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru ~ Kensei to Matei, 2 Tsu no Zense wo motta Otoko no Eiyuutan, The",
   "status": "Berjalan",
   "author": "Kankitsu Yusura",
@@ -26,64 +26,82 @@
   "synopsis": "Manga                    Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru yang dibuat oleh komikus bernama\n                    Kankitsu Yusura ini bercerita tentang\n                    Aizawa Yuri telah bereinkarnasi dua kali sekarang dan sangat lelah menjadi kaisar ini dan itu. Menggunakan keahliannya, dia memperoleh artefak reinkarnasi, dan memulai hidupnya di dunia baru!",
   "chapters": [
     {
+      "chapter": "144",
+      "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 144",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xNDQv",
+      "date": "29 menit yang lalu"
+    },
+    {
+      "chapter": "143",
+      "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 143",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xNDMv",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "142",
+      "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 142",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xNDIv",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "141",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 141",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xNDEv",
-      "date": "53 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "140",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xNDAv",
-      "date": "53 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "139",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzkv",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "138",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzgv",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "137",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 137",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzcv",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "136",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzYv",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "135",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzUtMi8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "134",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 134",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzQv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "133",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzMtMi8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "132",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci0xMzItMi8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "131",
@@ -629,7 +647,7 @@
       "chapter": "42",
       "title": "Komik Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpam91LXNhaWt5b3Utbm8tbWFob3Uta2Vuc2hpLWYtcmFuay1ib3VrZW5zaGEtbmktdGVuc2VpLXN1cnUtY2hhcHRlci00Mi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "41",
@@ -884,5 +902,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 143
+  "total_chapters": 146
 }
