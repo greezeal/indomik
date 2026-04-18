@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.21,
-  "scraped_at": "2026-04-17T11:43:02.590366",
-  "alternative_titles": "역대급 창기사의 회귀, 史詩級槍騎士再臨, Yeokdaegeup Changgisaui Hoegwi, Return of the Unrivaled Spear Knight, Return of the Legendary Spear Knight, The Legendary Spearman Returns, Le retour du lancier légendaire, Retorno do lendário cavaleiro da lança, El retorno del legendario caballero de la lanza, Возмездие величайшего копейщика, Возвращение величайшего лансера всех времен, การกลับมาของอัศวินผู้ใช้หอกแห่งยุค, 歴代級槍騎士の回帰, Sự Trở Lại Của Hiệp Sĩ Giáo, 史诗级枪骑士再临, 英雄槍騎士的復仇, Kembalinya Kesatria Tombak Legendaris, El Regreso del Inigualable Caballero de la Lanza",
+  "scraped_at": "2026-04-18T09:03:42.056270",
+  "alternative_titles": "역대급 창기사의 회귀, 史詩級槍騎士再臨, Yeokdaegeup Changgisaui Hoegwi, Return of the Unrivaled Spear Knight, Return of the Legendary Spear Knight, The Legendary Spearman Returns, Le retour du lancier légendaire, Retorno do lendário cavaleiro da lança, El retorno del lege",
   "status": "Berjalan",
   "author": "Jo Husang,Joe Teacher",
   "illustrator": "Studio Inus (스튜디오 이너스)",
@@ -28,10 +28,16 @@
   "synopsis": "Manhwa                    Return of The Greatest Lancer yang dibuat oleh komikus bernama\n                    Jo Husang,Joe Teacher ini bercerita tentang\n                    Hanya karena menggunakan senjata yang disebut ‘tombak’. Dunia menertawakanku. Ini semua tentang keberanian. Saya keras kepala tentang keyakinan saya. Ini adalah kebenaran diri sendiri. Akan kutuunjukkan kepada kalian. ejekan dan hinaan yang terus-menerus mengikuti. Akan kubuat mereka semua tertidur dengan tombak ini. Lancer yang tak terkalahkan, Joshua Sanders. Kembali ke masa lalu untuk mengubah masa lalu yang diwarnai dengan rasa tidak hormat dan pengkhianatan.",
   "chapters": [
     {
+      "chapter": "192",
+      "title": "Komik Return of The Greatest Lancer Chapter 192",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ncmVhdGVzdC1sYW5jZXItY2hhcHRlci0xOTIv",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "191",
       "title": "Komik Return of The Greatest Lancer Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ncmVhdGVzdC1sYW5jZXItY2hhcHRlci0xOTEv",
-      "date": "15 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "190",
@@ -121,7 +127,7 @@
       "chapter": "177",
       "title": "Komik Return of The Greatest Lancer Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ncmVhdGVzdC1sYW5jZXItY2hhcHRlci0xNzcv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "176",
@@ -1186,5 +1192,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 193
+  "total_chapters": 194
 }

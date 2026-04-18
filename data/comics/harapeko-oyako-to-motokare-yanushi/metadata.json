@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.66,
-  "scraped_at": "2026-04-15T15:25:36.338577",
+  "scraped_at": "2026-04-18T09:02:10.462098",
   "alternative_titles": "はらぺこ母娘と元カレ家主, Hara peko Oyako to Motokare Yanushi, A Hungry Mother and Daughter and Her Ex-Boyfriend Landlord, Uma mãe faminta, sua filha e seu ex-namorado proprietário",
   "status": "Berjalan",
   "author": "Riori",
@@ -22,22 +22,34 @@
   "synopsis": "Manga                    Harapeko Oyako to Motokare Yanushi yang dibuat oleh komikus bernama\n                    Riori ini bercerita tentang\n                    Takaharu yang berusia 36 tahun tinggal sendirian. Setelah lulus dari Sekolah Tinggi Seni, ia menjalani kehidupan yang tenang sambil melukis gambar.\r\n\r\nSuatu hari, mantan pacarnya Kyou, yang telah ia putuskan 17 tahun lalu, datang kepadanya bersama putrinya Minori dan meminta agar ia mengizinkan mereka tinggal di tempatnya. Seperti di masa kuliah mereka,\r\n\r\nKyou tertarik dengan makanan lezat itu, dan mereka bertiga pun mulai hidup bersama!",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Harapeko Oyako to Motokare Yanushi Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFyYXBla28tb3lha28tdG8tbW90b2thcmUteWFudXNoaS1jaGFwdGVyLTE4Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Harapeko Oyako to Motokare Yanushi Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFyYXBla28tb3lha28tdG8tbW90b2thcmUteWFudXNoaS1jaGFwdGVyLTE3Lw==",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Harapeko Oyako to Motokare Yanushi Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFyYXBla28tb3lha28tdG8tbW90b2thcmUteWFudXNoaS1jaGFwdGVyLTE2Lw==",
-      "date": "42 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Harapeko Oyako to Motokare Yanushi Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFyYXBla28tb3lha28tdG8tbW90b2thcmUteWFudXNoaS1jaGFwdGVyLTE1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Harapeko Oyako to Motokare Yanushi Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFyYXBla28tb3lha28tdG8tbW90b2thcmUteWFudXNoaS1jaGFwdGVyLTE0Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -118,5 +130,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 18
 }

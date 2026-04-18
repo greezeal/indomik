@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.83,
-  "scraped_at": "2026-04-06T16:04:27.272741",
+  "scraped_at": "2026-04-18T09:08:10.791080",
   "alternative_titles": "Godsent Top Star, A Estrela Enviada por Deus, 신이 내린 탑스타",
   "status": "Berjalan",
   "author": "Dongjeon Pass,Kwon Yeongjun",
@@ -21,46 +21,58 @@
   "synopsis": "Manhwa                    Top Star Sent by God yang dibuat oleh komikus bernama\n                    Dongjeon Pass,Kwon Yeongjun ini bercerita tentang\n                    Dengan kemampuan spiritual bawaannya, Kang Yeon-woo ditakdirkan untuk menjadi dukun atau penghibur. Setelah selamat dari peristiwa yang mengancam jiwa, ia memperoleh kemampuan untuk memperpanjang hidupnya dengan menyelesaikan dendam. Hidupnya berubah total ketika ia bertemu bintang top Kwon Sung-hyun saat menangani permintaan",
   "chapters": [
     {
+      "chapter": "51",
+      "title": "Komik Top Star Sent by God Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci01MS8=",
+      "date": "51 menit yang lalu"
+    },
+    {
+      "chapter": "50",
+      "title": "Komik Top Star Sent by God Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci01MC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "49",
       "title": "Komik Top Star Sent by God Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00OS8=",
-      "date": "9 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Top Star Sent by God Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00OC8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Top Star Sent by God Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00Ny8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Top Star Sent by God Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00Ni8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Top Star Sent by God Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00NS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Top Star Sent by God Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00NC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Top Star Sent by God Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci00My8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -84,13 +96,13 @@
       "chapter": "39",
       "title": "Komik Top Star Sent by God Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci0zOS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Top Star Sent by God Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci0zOC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -108,7 +120,7 @@
       "chapter": "35",
       "title": "Komik Top Star Sent by God Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9wLXN0YXItc2VudC1ieS1nb2QtY2hhcHRlci0zNS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "34",
@@ -315,5 +327,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 51
 }
