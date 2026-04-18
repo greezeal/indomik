@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.8,
-  "scraped_at": "2026-04-13T04:49:18.033890",
+  "scraped_at": "2026-04-18T13:49:10.368788",
   "alternative_titles": "キミに恋する三姉妹, Three Sisters in Love with You",
   "status": "Berjalan",
   "author": "saku",
@@ -23,40 +23,46 @@
   "synopsis": "Manga                    Kimi ni Koisuru Sanshimai yang dibuat oleh komikus bernama\n                    saku ini bercerita tentang\n                    Di tengah dunia yang penuh dedikasi untuk belajar setiap hari, ada Itsuki, seorang siswa SMA. Alasan ia begitu tekun belajar adalah untuk bertemu kembali dengan cinta pertamanya, seorang gadis bernama Amane, dan berkencan dengannya. Di tengah kesibukannya belajar, karena suatu kebetulan, ia akhirnya tinggal bersama Amane dan saudara-saudara perempuannya, Shion dan Mone...!?",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI3Lw==",
+      "date": "30 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI2Lw==",
-      "date": "3 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI1Lw==",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIzLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -68,7 +74,7 @@
       "chapter": "19",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -188,8 +194,8 @@
       "chapter": "1",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTEv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }

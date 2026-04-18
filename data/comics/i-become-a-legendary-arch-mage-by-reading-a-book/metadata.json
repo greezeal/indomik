@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-13T15:48:02.928917",
+  "scraped_at": "2026-04-18T13:52:03.508513",
   "alternative_titles": "Please Read It, Please Read This, 제발 좀 읽어달라고",
   "status": "Berjalan",
   "author": "Geumhon, Yang Galb",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    I Become a Legendary Arch Mage by Reading a Book yang dibuat oleh komikus bernama\n                    Geumhon, Yang Galb ini bercerita tentang\n                    Aku bereinkarnasi sebagai grimoire dengan semua pengetahuan sihir di dunia ini.\r\n\r\nSiapa pun bisa menjadi archmage legendaris dengan bantuanku.\r\n\r\nBacalah dan aku akan memberimu kekuatan tak terbatas.",
   "chapters": [
     {
+      "chapter": "71",
+      "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNzEv",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "70",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNzAv",
-      "date": "22 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNjkv",
-      "date": "22 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNjgv",
-      "date": "22 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNjcv",
-      "date": "22 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNjYv",
-      "date": "22 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "65",
@@ -71,13 +77,13 @@
       "chapter": "62",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNjIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItNjEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "60",
@@ -281,7 +287,7 @@
       "chapter": "27",
       "title": "Komik I Become a Legendary Arch Mage by Reading a Book Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNvbWUtYS1sZWdlbmRhcnktYXJjaC1tYWdlLWJ5LXJlYWRpbmctYS1ib29rLWNoYXB0ZXItMjcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "26",
@@ -440,5 +446,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 70
+  "total_chapters": 71
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-13T04:49:02.539110",
+  "scraped_at": "2026-04-18T13:49:44.299966",
   "alternative_titles": "Secrets of the Silent Witch, サイレント・ウィッチ 沈黙の魔女の隠しごと",
   "status": "Berjalan",
   "author": "ISORA Matsuri",
@@ -25,22 +25,28 @@
   "synopsis": "Manga                    Silent Witch Chinmoku no Majo no Kakushigoto yang dibuat oleh komikus bernama\n                    ISORA Matsuri ini bercerita tentang\n                    Keajaiban tidak membutuhkan nyanyian. Ini adalah kisah tentang penyihir terlemah, paling pemalu, namun terkuat, dan bagaimana dia dilahirkan kembali, semuanya menjadi sebuah buku. (Penyihir Keheningan) Monica Everett. Satu-satunya penyihir di dunia yang bisa menggunakan sihir diam (tanpa nyanyian), dan seorang pahlawan muda yang membunuh sendiri naga hitam legendaris itu. Tapi apa sifat aslinya?? Alasan sebenarnya saya berlatih sihir diam adalah agar saya tidak perlu berbicara di depan umum. Ketika Monica terpilih sebagai salah satu dari 7 Watchers, tanpa disadari, dia terpaksa mengambil misi rahasia untuk melindungi pangeran kedua…? Lemah dan pemalu, namun yang terkuat. Penyihir surgawi yang antisosial menyembunyikan identitas aslinya dan diam-diam membawa kejahatan ke pengadilan melawan pangeran dalam fantasi yang menyakitkan! Fantasi penyihir web, terlahir kembali menjadi sebuah buku, dengan tambahan! Apa yang akan menjadi misteri baru yang berdiri di depan Monica Everett…?",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0yNy8=",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0yNi8=",
-      "date": "3 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0yNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0yNC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -52,7 +58,7 @@
       "chapter": "22",
       "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0yMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -148,7 +154,7 @@
       "chapter": "11",
       "title": "Komik Silent Witch Chinmoku no Majo no Kakushigoto Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lsZW50LXdpdGNoLWNoaW5tb2t1LW5vLW1ham8tbm8ta2FrdXNoaWdvdG8tY2hhcHRlci0xMS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -223,5 +229,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 34
 }

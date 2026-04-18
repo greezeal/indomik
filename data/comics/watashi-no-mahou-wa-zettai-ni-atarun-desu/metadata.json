@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-09T16:11:26.008616",
+  "scraped_at": "2026-04-18T13:48:33.938822",
   "alternative_titles": "Watashi no Mahou wa Zettai ni Atarun desu: Slow Life o Mamoru Tame ni Mahou o Uchitsuzuketeitara, Itsunomanika Mori no Seijo ni Natteimashita, 私の魔法は絶対に当たるんです ～スローライフを守るために魔法を撃ち続けていたら、いつの間にか森の聖女になっていました～, My Magic Never Misses – I Just Kept Casting Spells",
   "status": "Berjalan",
   "author": "Tsubasa Amasaka",
@@ -23,11 +23,29 @@
   "synopsis": "Manga                    Watashi no Mahou wa Zettai ni Atarun desu yang dibuat oleh komikus bernama\n                    Tsubasa Amasaka ini bercerita tentang\n                    Himemiya Kanon, seorang karyawan yang meninggal karena kelelahan kerja, bereinkarnasi sebagai seorang gadis cantik di dunia lain. Awalnya ia berharap dapat menikmati kehidupan yang santai, tetapi sebaliknya, karena tindakan seorang dewi yang agak kasar, ia memperoleh kekuatan sihir yang luar biasa dan kemampuan yang memungkinkannya untuk melacak target. Pada akhirnya, dengan kekuatannya yang tak tertandingi, ia terus membasmi monster hingga ia menjadi Saint Hutan...!?",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Watashi no Mahou wa Zettai ni Atarun desu Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1tYWhvdS13YS16ZXR0YWktbmktYXRhcnVuLWRlc3UtY2hhcHRlci00Lw==",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Watashi no Mahou wa Zettai ni Atarun desu Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1tYWhvdS13YS16ZXR0YWktbmktYXRhcnVuLWRlc3UtY2hhcHRlci0zLw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Watashi no Mahou wa Zettai ni Atarun desu Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1tYWhvdS13YS16ZXR0YWktbmktYXRhcnVuLWRlc3UtY2hhcHRlci0yLw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Watashi no Mahou wa Zettai ni Atarun desu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1tYWhvdS13YS16ZXR0YWktbmktYXRhcnVuLWRlc3UtY2hhcHRlci0xLw==",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 4
 }
