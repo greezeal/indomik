@@ -1,0 +1,45 @@
+{
+  "slug": "kinatos-magic",
+  "title": "Kinato’s Magic",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsva2luYXRvcy1tYWdpYy8=",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDQvS29taWstS2FpZ2VraS1uby1LaW5hdG8tMjIyeDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-04-18T21:48:21.701125",
+  "alternative_titles": "回撃のキナト, Kinato\\'s Magic, Circulation Blast Kinato, Магия Кинато",
+  "status": "Berjalan",
+  "author": "Amemiya Kento",
+  "illustrator": "Amemiya Kento",
+  "themes": [
+    "Magic"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "synopsis": "Manga                    Kinato’s Magic yang dibuat oleh komikus bernama\n                    Amemiya Kento ini bercerita tentang\n                    Di dunia yang penuh dengan sihir, Kinato muda mendambakan petualangan! Tapi kekuatan sihir spesialnya ternyata adalah... penyembuhan seitai?! Ketika petualangan datang menghampirinya, akankah Kinato mampu menggunakan kemampuan penyembuhan kecilnya untuk menjadi seorang pahlawan?!",
+  "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Kinato’s Magic Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTMv",
+      "date": "27 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Kinato’s Magic Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTIv",
+      "date": "28 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Kinato’s Magic Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTEv",
+      "date": "28 menit yang lalu"
+    }
+  ],
+  "total_chapters": 3
+}
