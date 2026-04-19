@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.47,
-  "scraped_at": "2026-04-17T22:10:03.584647",
+  "scraped_at": "2026-04-19T13:20:55.268009",
   "alternative_titles": "A Empregada que acabei de contratar é muito suspeita, La criada que contraté recientemente es sospechosa., Mi criada nueva es misteriosa, My Recently Hired Maid Is Mysterious, Saikin Yatotta Maid ga Ayashii, The Maid I Hired Recently Is Mysterious, The Ma",
   "status": "Berjalan",
   "author": "Konbu Wakame",
@@ -22,22 +22,34 @@
   "synopsis": "Manga                    My Recently Hired Maid Is Suspicious yang dibuat oleh komikus bernama\n                    Konbu Wakame ini bercerita tentang\n                    Tuan Muda melangkah dengan hati-hati, karena pelayan barunya melakukan hal-hal yang membuatnya bingung dan tidak nyaman. Apa siasat wanita menggoda ini !? ... Apakah itu cinta !?",
   "chapters": [
     {
+      "chapter": "67",
+      "title": "Komik My Recently Hired Maid Is Suspicious Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcmVjZW50bHktaGlyZWQtbWFpZC1pcy1zdXNwaWNpb3VzLWNoYXB0ZXItNjcv",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "66",
+      "title": "Komik My Recently Hired Maid Is Suspicious Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcmVjZW50bHktaGlyZWQtbWFpZC1pcy1zdXNwaWNpb3VzLWNoYXB0ZXItNjYv",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "65",
       "title": "Komik My Recently Hired Maid Is Suspicious Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcmVjZW50bHktaGlyZWQtbWFpZC1pcy1zdXNwaWNpb3VzLWNoYXB0ZXItNjUv",
-      "date": "27 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik My Recently Hired Maid Is Suspicious Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcmVjZW50bHktaGlyZWQtbWFpZC1pcy1zdXNwaWNpb3VzLWNoYXB0ZXItNjQv",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik My Recently Hired Maid Is Suspicious Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcmVjZW50bHktaGlyZWQtbWFpZC1pcy1zdXNwaWNpb3VzLWNoYXB0ZXItNjMv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "62",
@@ -430,5 +442,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 68
+  "total_chapters": 70
 }

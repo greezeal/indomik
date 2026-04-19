@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-18T09:02:32.624435",
+  "scraped_at": "2026-04-19T13:25:00.097577",
   "alternative_titles": "???ランクの裏装備無双, Unparalleled ??? Rank Hidden Equipment, ？？？ランクの裏装備無双",
   "status": "Berjalan",
   "author": "Kiyoro",
@@ -23,40 +23,46 @@
   "synopsis": "Manga                    ??? Rank no Ura Soubi Musou yang dibuat oleh komikus bernama\n                    Kiyoro ini bercerita tentang\n                    Seorang pemuda bernama Jinfrey, memutuskan untuk menjadi seorang petualang demi mendapatkan banyak uang dan membahagiakan keluarganya.\r\n\r\nNamun, saat dia mencoba menjadi seorang petualang, Jinfrey mengingat kenangan kehidupan sebelumnya.\r\n\r\nDunia dimana Jinfrey dilahirkan dan dibesarkan, adalah dunia yang persis sama dengan “Ground Seven”, sebuah permainan jelek yang dia mainkan di kehidupan sebelumnya hingga dia disebut sebagai “Pemain Hardcore”!\r\n\r\nMeski bingung dengan ingatan yang tiba-tiba muncul kembali, dengan menggunakan pengetahuan ini, Jinfrey bertujuan untuk menjadi tak tertandingi dengan bantuan rahasia “Peralatan Tersembunyi” di dunia ini.",
   "chapters": [
     {
+      "chapter": "94",
+      "title": "Komik ??? Rank no Ura Soubi Musou Chapter 94",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci05NC8=",
+      "date": "56 menit yang lalu"
+    },
+    {
       "chapter": "93",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci05My8=",
-      "date": "14 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci05Mi8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci05MS8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci05MC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci04OS8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "88",
       "title": "Komik ??? Rank no Ura Soubi Musou Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFuay1uby11cmEtc291YmktbXVzb3UtY2hhcHRlci04OC8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "87",
@@ -581,5 +587,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 93
+  "total_chapters": 94
 }
