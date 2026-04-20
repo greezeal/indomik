@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.56,
-  "scraped_at": "2026-04-13T15:52:12.594599",
+  "scraped_at": "2026-04-20T15:49:06.320101",
   "alternative_titles": "田所さん",
   "status": "Berjalan",
   "author": "Tatsubon",
@@ -22,28 +22,64 @@
   "synopsis": "Manga                    Tadokoro-san yang dibuat oleh komikus bernama\n                    Tatsubon ini bercerita tentang\n                    Pemalu dan tertutup, Kageko Tadokoro melewatkan waktu luangnya dengan menggambar di kelas daripada menghabiskan waktu dengan teman sekelasnya. Tetapi bahkan ketika teman sekelasnya mendekatinya, itu hanya untuk mengolok-olok gambar dan penampilannya. Sebaliknya, Nikaido sangat disukai di antara teman-temannya karena dia memiliki kecantikan dan kecerdasan. Dan sementara semua orang mengolok-olok Tadokoro, Sakurako Nikaido di sisi lain, sangat tergila-gila padanya. Lihat saja salah satu gambar Tadokoro dan Nikaido jatuh cinta pada seninya dan akhirnya, pada senimannya sendiri. Ketika Tadokoro menawarkan untuk menggambar potret Nikaido, Nikaido menjadi gembira karena ini mungkin kesempatannya untuk lebih dekat dengan gadis yang selama ini terobsesi.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Tadokoro-san Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMzAv",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Tadokoro-san Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjkv",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik Tadokoro-san Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjgv",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Tadokoro-san Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjcv",
+      "date": "4 hari yang lalu"
+    },
+    {
+      "chapter": "26.5",
+      "title": "Komik Tadokoro-san Chapter 26.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjYtNS8=",
+      "date": "6 hari yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Tadokoro-san Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjYv",
+      "date": "6 hari yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Tadokoro-san Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjUv",
-      "date": "7 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Tadokoro-san Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjQv",
-      "date": "7 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Tadokoro-san Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjMv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Tadokoro-san Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFkb2tvcm8tc2FuLWNoYXB0ZXItMjIv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "21",
@@ -184,5 +220,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 33
 }
