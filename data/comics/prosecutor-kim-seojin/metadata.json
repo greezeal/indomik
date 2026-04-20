@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-13T04:49:15.482778",
+  "scraped_at": "2026-04-20T23:07:37.545299",
   "alternative_titles": "Prosecutor Kim Seo-Jin, 검사 김서진",
   "status": "Berjalan",
   "author": "LEE Hae-Nal, Nasulrae",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    Prosecutor Kim Seojin yang dibuat oleh komikus bernama\n                    LEE Hae-Nal, Nasulrae ini bercerita tentang\n                    Seorang jaksa veteran, Seo Junjeong, yang tengah menyelidiki kasus korupsi di kalangan elite, difitnah sebagai pelaku kekerasan seksual dan ditemukan tewas dengan kondisi seolah bunuh diri.\r\n\r\nIa mengira dirinya telah mati. Namun, ia malah justru terbangun di tubuh Kim Seojin, seorang jaksa junior yang juga merupakan keponakan dari musuhnya.\r\n\r\nSetelah terlahir kembali, ia memperoleh kemampuan untuk melihat ingatan masa lalu, sebuah kekuatan bernama psikometri.\r\n\r\nDengan memanfaatkan kemampuan ini, ia mulai menjatuhkan satu per satu para tokoh politik dan ekonomi yang korup, serta para musuh yang telah menjerumuskannya ke dalam kematian.\r\n\r\nDi kehidupan kali ini, ia tak lagi peduli pada keadilan, hukum, atau kemanusiaan. Yang ia inginkan hanya satu: meraih uang, kekuasaan, dan segalanya.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik Prosecutor Kim Seojin Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHJvc2VjdXRvci1raW0tc2VvamluLWNoYXB0ZXItMzMv",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Prosecutor Kim Seojin Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHJvc2VjdXRvci1raW0tc2VvamluLWNoYXB0ZXItMzIv",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Prosecutor Kim Seojin Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHJvc2VjdXRvci1raW0tc2VvamluLWNoYXB0ZXItMzEv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Prosecutor Kim Seojin Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHJvc2VjdXRvci1raW0tc2VvamluLWNoYXB0ZXItMzAv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Prosecutor Kim Seojin Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHJvc2VjdXRvci1raW0tc2VvamluLWNoYXB0ZXItMjkv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Prosecutor Kim Seojin Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHJvc2VjdXRvci1raW0tc2VvamluLWNoYXB0ZXItMjgv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -58,7 +64,7 @@
       "chapter": "26",
       "title": "Komik Prosecutor Kim Seojin Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHJvc2VjdXRvci1raW0tc2VvamluLWNoYXB0ZXItMjYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -211,5 +217,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }
