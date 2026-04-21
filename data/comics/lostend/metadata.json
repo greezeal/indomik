@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-20T15:54:53.219630",
+  "scraped_at": "2026-04-21T14:20:42.221638",
   "alternative_titles": "ロストエンド, Lost End",
   "status": "Berjalan",
   "author": "Makoto Nosu",
@@ -25,34 +25,40 @@
   "synopsis": "Manga                    LOSTEND yang dibuat oleh komikus bernama\n                    Makoto Nosu ini bercerita tentang\n                    Tantanglah. Sesering yang dibutuhkan hingga semangatmu pudar. Demi menghidupkan kembali kehidupan yang telah padam, di pegunungan dunia bawah yang keras dan kejam — Sebuah epik bertahan hidup yang kelam dan mencengangkan, digambarkan dengan keterampilan artistik yang luar biasa.",
   "chapters": [
     {
+      "chapter": "73",
+      "title": "Komik LOSTEND Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTczLw==",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "72",
       "title": "Komik LOSTEND Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTcyLw==",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik LOSTEND Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTcxLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik LOSTEND Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTcwLw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik LOSTEND Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTY5Lw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik LOSTEND Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9zdGVuZC1jaGFwdGVyLTY4Lw==",
-      "date": "6 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "67",
@@ -451,5 +457,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 71
+  "total_chapters": 72
 }

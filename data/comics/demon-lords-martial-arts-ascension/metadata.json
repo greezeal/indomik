@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-20T15:51:27.734297",
+  "scraped_at": "2026-04-21T14:13:14.025629",
   "alternative_titles": "The Demon Lord Levels Up With Martial Arts, Martial Demon King, 새엄마의 자매들",
   "status": "Berjalan",
   "author": "Iboxson, Tya",
@@ -25,40 +25,46 @@
   "synopsis": "Manhwa                    Demon Lord’s Martial Arts Ascension yang dibuat oleh komikus bernama\n                    Iboxson, Tya ini bercerita tentang\n                    “Raja Iblis.” Itu… Mereka biasa memanggilku di kehidupanku sebelumnya, sebelum aku menjadi manusia.",
   "chapters": [
     {
+      "chapter": "144",
+      "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 144",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE0NC8=",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "143",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE0My8=",
-      "date": "21 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "142",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE0Mi8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "141",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 141",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE0MS8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "140",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE0MC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "139",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzOS8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "138",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzOC8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "137",
@@ -88,13 +94,13 @@
       "chapter": "133",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzMy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "132",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "131",
@@ -574,7 +580,7 @@
       "chapter": "52",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTUyLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "51",
@@ -883,5 +889,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 143
+  "total_chapters": 144
 }

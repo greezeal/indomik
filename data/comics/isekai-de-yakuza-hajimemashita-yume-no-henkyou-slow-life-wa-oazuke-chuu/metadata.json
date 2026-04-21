@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-02T12:41:34.636879",
+  "scraped_at": "2026-04-21T14:13:50.685953",
   "alternative_titles": "I Became a Yakuza in Another World: My Peaceful Slow Life Will Have to Wait, 異世界でヤクザ始めました～夢の辺境スローライフはお預け中～",
   "status": "Berjalan",
   "author": "Masaka Mike Neko",
@@ -25,29 +25,41 @@
   "synopsis": "Manga                    Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu yang dibuat oleh komikus bernama\n                    Masaka Mike Neko ini bercerita tentang\n                    Seharusnya aku menjalani hidup yang tenang dan damai, tetapi cucu perempuan bos yakuza itu terobsesi padaku dan entah bagaimana aku malah menjadi bosnya!?",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXlha3V6YS1oYWppbWVtYXNoaXRhLXl1bWUtbm8taGVua3lvdS1zbG93LWxpZmUtd2Etb2F6dWtlLWNodXUtY2hhcHRlci01Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXlha3V6YS1oYWppbWVtYXNoaXRhLXl1bWUtbm8taGVua3lvdS1zbG93LWxpZmUtd2Etb2F6dWtlLWNodXUtY2hhcHRlci00Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "4.1",
       "title": "Komik Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu Chapter 4.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXlha3V6YS1oYWppbWVtYXNoaXRhLXl1bWUtbm8taGVua3lvdS1zbG93LWxpZmUtd2Etb2F6dWtlLWNodXUtY2hhcHRlci00LTEv",
-      "date": "9 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXlha3V6YS1oYWppbWVtYXNoaXRhLXl1bWUtbm8taGVua3lvdS1zbG93LWxpZmUtd2Etb2F6dWtlLWNodXUtY2hhcHRlci0zLw==",
-      "date": "9 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXlha3V6YS1oYWppbWVtYXNoaXRhLXl1bWUtbm8taGVua3lvdS1zbG93LWxpZmUtd2Etb2F6dWtlLWNodXUtY2hhcHRlci0yLw==",
-      "date": "9 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Isekai de Yakuza Hajimemashita: Yume no Henkyou Slow Life wa Oazuke-chuu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLXlha3V6YS1oYWppbWVtYXNoaXRhLXl1bWUtbm8taGVua3lvdS1zbG93LWxpZmUtd2Etb2F6dWtlLWNodXUtY2hhcHRlci0xLw==",
-      "date": "9 jam yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 6
 }

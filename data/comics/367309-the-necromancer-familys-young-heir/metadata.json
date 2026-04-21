@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.18,
-  "scraped_at": "2026-04-18T09:06:25.206595",
+  "scraped_at": "2026-04-21T14:13:27.135792",
   "alternative_titles": "사령 가문의 어린 가주, The Necromancer Family's Young Heir",
   "status": "Berjalan",
   "author": "Jung SeonYul (정선율)",
@@ -24,10 +24,16 @@
   "synopsis": "Manhwa                    The Necromancer Family’s Young Heir yang dibuat oleh komikus bernama\n                    Jung SeonYul (정선율) ini bercerita tentang\n                    “Kematian hanyalah permulaan.”\r\n\r\nKata-kata yang lebih tepat tidak pernah diucapkan untuk Leon von Marbas muda, pewaris keluarga ahli nujum yang dulunya hebat. Dipaksa untuk mengeksekusi ayahnya sendiri oleh penguasa keluarga saingan, Leon tiba-tiba mendapati dirinya sebagai pemimpin klan yang sedang merosot dan terancam oleh musuh dari dalam dan luar.\r\n\r\nSatu-satunya cara untuk mengembalikan kejayaan keluarganya? Leon harus membuat perjanjian dengan iblis Marbas, sumber asli ilmu nujum yang kuat yang pernah dikenal oleh Keluarga Marbas…",
   "chapters": [
     {
+      "chapter": "58",
+      "title": "Komik The Necromancer Family’s Young Heir Chapter 58",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lY3JvbWFuY2VyLWZhbWlseXMteW91bmctaGVpci1jaGFwdGVyLTU4Lw==",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "57",
       "title": "Komik The Necromancer Family’s Young Heir Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lY3JvbWFuY2VyLWZhbWlseXMteW91bmctaGVpci1jaGFwdGVyLTU3Lw==",
-      "date": "29 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "56",
@@ -147,7 +153,7 @@
       "chapter": "37",
       "title": "Komik The Necromancer Family’s Young Heir Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lY3JvbWFuY2VyLWZhbWlseXMteW91bmctaGVpci1jaGFwdGVyLTM3Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -177,25 +183,25 @@
       "chapter": "32",
       "title": "Komik The Necromancer Family’s Young Heir Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lY3JvbWFuY2VyLWZhbWlseXMteW91bmctaGVpci1jaGFwdGVyLTMyLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik The Necromancer Family’s Young Heir Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lY3JvbWFuY2VyLWZhbWlseXMteW91bmctaGVpci1jaGFwdGVyLTMxLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The Necromancer Family’s Young Heir Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lY3JvbWFuY2VyLWZhbWlseXMteW91bmctaGVpci1jaGFwdGVyLTMwLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik The Necromancer Family’s Young Heir Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW5lY3JvbWFuY2VyLWZhbWlseXMteW91bmctaGVpci1jaGFwdGVyLTI5Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -372,5 +378,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 58
+  "total_chapters": 59
 }

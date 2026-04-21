@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T12:12:11.191278",
-  "total_comics": 1467,
+  "last_updated": "2026-04-21T14:20:58.136034",
+  "total_comics": 1474,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -304,7 +304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 46
     },
     {
       "slug": "the-player-of-the-fallen-family",
@@ -416,15 +416,15 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 210
+      "total_chapters": 211
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
       "title": "Tsuma ga Kanpeki sugiru no de, Chotto Midashite Ii desu ka?",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.32,
+      "total_chapters": 38
     },
     {
       "slug": "the-suspicious-little-prince-is-the-worlds-greatest-teenage-master",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 93
+      "total_chapters": 99
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -1088,7 +1088,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.65,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 59
+      "total_chapters": 62
     },
     {
       "slug": "70-meter-girl",
@@ -2344,7 +2344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "my-bias-gets-on-the-last-train",
@@ -2832,7 +2832,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 69
     },
     {
       "slug": "fighting-ward",
@@ -3312,7 +3312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 9
     },
     {
       "slug": "martial-evolution-start-by-awakening-the-king-of-monsters",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 71
+      "total_chapters": 72
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -4336,7 +4336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 227
+      "total_chapters": 229
     },
     {
       "slug": "the-rebirth-of-the-heros-partys-archmage",
@@ -4392,7 +4392,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.32,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "the-demonic-sect-masters-secret-apprentice",
@@ -4656,7 +4656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 52
+      "total_chapters": 54
     },
     {
       "slug": "548836-eternally-regressing-knight",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 166
+      "total_chapters": 167
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -5080,7 +5080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 26
     },
     {
       "slug": "898970-regressor-instruction-manual",
@@ -5416,7 +5416,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.94,
-      "total_chapters": 201
+      "total_chapters": 202
     },
     {
       "slug": "100402-solo-farming-in-the-tower",
@@ -5600,7 +5600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 198
+      "total_chapters": 199
     },
     {
       "slug": "oshi-no-teki-ni-natta-node",
@@ -6152,7 +6152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 171
+      "total_chapters": 172
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -6480,7 +6480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 208
+      "total_chapters": 215
     },
     {
       "slug": "360193-true-education",
@@ -6504,7 +6504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 157
+      "total_chapters": 158
     },
     {
       "slug": "367309-the-necromancer-familys-young-heir",
@@ -6512,7 +6512,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "696362-clever-cleaning-life-of-the-returned-genius-hunter",
@@ -6528,7 +6528,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 80
     },
     {
       "slug": "the-lucky-plan-of-an-idol-in-his-second-life",
@@ -7024,7 +7024,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 108
+      "total_chapters": 109
     },
     {
       "slug": "i-created-an-urban-legend",
@@ -7384,7 +7384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 143
+      "total_chapters": 144
     },
     {
       "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
@@ -7632,7 +7632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 15
+      "total_chapters": 18
     },
     {
       "slug": "the-stray-dogs-war",
@@ -8360,7 +8360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 111
+      "total_chapters": 112
     },
     {
       "slug": "myriad-tribes-invasion-rearguards-resolute-unity",
@@ -8400,7 +8400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 22
     },
     {
       "slug": "half-blood",
@@ -8848,7 +8848,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "starting-with-a-mythic-talent-i-cut-down-gods",
@@ -9184,7 +9184,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "528127-mokushiroku-no-yonkishi",
@@ -10480,7 +10480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 6
     },
     {
       "slug": "reiwa-no-dara-san",
@@ -10488,7 +10488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 19
     },
     {
       "slug": "hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e",
@@ -11568,7 +11568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.47,
-      "total_chapters": 71
+      "total_chapters": 72
     },
     {
       "slug": "567155-mudang-association",
@@ -11737,6 +11737,62 @@
       "status": "Berjalan",
       "rating": 7.07,
       "total_chapters": 29
+    },
+    {
+      "slug": "limitless",
+      "title": "Limitless",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 57
+    },
+    {
+      "slug": "chitose-kun-wa-ramune-bin-no-naka-webtoon",
+      "title": "Chitose-kun wa Ramune Bin no Naka (Webtoon)",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "ken-to-mahou-to-ntr",
+      "title": "Ken to Mahou to NTR",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "s-class-boukensha-ga-ayumu-michi-tsuihou-sareta-shounen-wa-shin-no-nouryoku-buki-master-de-sekai-saikyou-ni-itaru",
+      "title": "S-Class Boukensha ga Ayumu Michi ~Tsuihou Sareta Shounen wa Shin no Nouryoku “Buki Master” de Sekai Saikyou ni Itaru~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.64,
+      "total_chapters": 19
+    },
+    {
+      "slug": "teisou-gyakuten-sekai-de-tanomeba-yareru-to-uwasa-no-ore",
+      "title": "Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "oyasumi-punpun",
+      "title": "Oyasumi Punpun",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.74,
+      "total_chapters": 102
+    },
+    {
+      "slug": "himegasaki-sakurako-wa-kyoumo-fubin-kawaii",
+      "title": "Himegasaki Sakurako wa Kyoumo Fubin Kawaii!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.36,
+      "total_chapters": 51
     }
   ]
 }
