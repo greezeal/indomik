@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 0.0,
-  "scraped_at": "2026-04-17T11:44:01.682914",
+  "scraped_at": "2026-04-21T15:48:40.075840",
   "alternative_titles": "Doctor Quest: Fallen Physician Reincarnates as the Ultimate Doctor, Dr. Quest, ドクタークエスト 転落医師、転生して最強医師になる, 닥터 퀘스트, Doctor Quest",
   "status": "Berjalan",
   "author": "MYRIAGON STUDIO, nifuni",
@@ -21,59 +21,65 @@
   "synopsis": "Manga                    Doctor Quest yang dibuat oleh komikus bernama\n                    MYRIAGON STUDIO, nifuni ini bercerita tentang\n                    Makito Shindo, putra seorang direktur rumah sakit yang berpengaruh, bermimpi menyelamatkan nyawa. Namun setelah kematian mendadak ayahnya, ia menyadari bahwa ia memiliki banyak musuh hanya karena garis keturunannya. Dikhianati oleh sesama dokter, hancur secara profesional dan finansial, dan terpaksa bersembunyi, hidup Makito berakhir dalam tragedi... hingga sebuah pesan misterius \"Game Over\" memberinya kesempatan kedua. Kini, dipersenjatai dengan kekuatan misterius dan tekad untuk merebut kembali apa yang telah hilang, Makito memulai perjalanan balas dendam dan penyelamatan, bertekad untuk melindungi nyawa yang tidak dapat ia selamatkan sebelumnya.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Doctor Quest Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItMTAv",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Doctor Quest Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItOS8=",
-      "date": "27 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Doctor Quest Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItOC8=",
-      "date": "27 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Doctor Quest Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItNy8=",
-      "date": "27 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Doctor Quest Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItNi8=",
-      "date": "28 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Doctor Quest Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItNS8=",
-      "date": "28 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Doctor Quest Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItNC8=",
-      "date": "28 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Doctor Quest Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItMy8=",
-      "date": "28 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Doctor Quest Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItMi8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Doctor Quest Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9yLXF1ZXN0LWNoYXB0ZXItMS8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-17T11:43:41.111228",
+  "scraped_at": "2026-04-21T15:48:44.816931",
   "alternative_titles": "The Noble, 귀공자",
   "status": "Berjalan",
   "author": "Han Dong-Woo",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    The Childe yang dibuat oleh komikus bernama\n                    Han Dong-Woo ini bercerita tentang\n                    \"Jin Taeha,\" penerus perusahaan terkemuka Korea \"Cheongu,\" selamat sendirian setelah serangan teroris saat berlayar dengan keluarganya. Ia mengetahui bahwa keluarganya terbunuh bukan karena kecelakaan, tetapi karena perebutan kekuasaan di antara kerabatnya. Memasuki \"Keluarga Salerno,\" keluarga mafia Italia, ia bersiap untuk membalas dendam.\r\nSetelah 17 tahun, ia kembali ke Korea dan akhirnya memulai balas dendamnya.",
   "chapters": [
     {
+      "chapter": "77",
+      "title": "Komik The Childe Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTc3Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "76",
       "title": "Komik The Childe Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTc2Lw==",
-      "date": "28 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik The Childe Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTc1Lw==",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik The Childe Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTc0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik The Childe Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTczLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik The Childe Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTcyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "71",
@@ -154,25 +160,25 @@
       "chapter": "54",
       "title": "Komik The Childe Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTU0Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik The Childe Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTUzLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik The Childe Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTUyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik The Childe Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTUxLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -412,7 +418,7 @@
       "chapter": "11",
       "title": "Komik The Childe Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoaWxkZS1jaGFwdGVyLTExLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "10",
@@ -475,5 +481,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 76
+  "total_chapters": 77
 }

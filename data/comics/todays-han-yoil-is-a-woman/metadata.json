@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-18T22:20:38.789641",
+  "scraped_at": "2026-04-21T15:48:56.390942",
   "alternative_titles": "Who\\'s That Girl?, 오늘의 한요일은 여자다, Hôm nay tôi là con gái, Today Is a Woman Day, สวยเองนักเลงพอ, 反转练习生, 今天人家是女生, Today\\'s Han Yoil Is a Woman",
   "status": "Berjalan",
   "author": "Song Geukjang (송극장)",
@@ -21,65 +21,341 @@
   "synopsis": "Manhwa                    Today’s Han Yoil is a Woman yang dibuat oleh komikus bernama\n                    Song Geukjang (송극장) ini bercerita tentang\n                    Tokoh protagonis pria menyamar sebagai trainee wanita, memulai perjalanan yang mendebarkan dan penuh adrenalin!\r\n\r\nKehidupannya berantakan setelah ia dituduh secara salah sebagai pelaku perundungan di sekolah. Suatu hari, ia meminum pil misterius dan berubah menjadi \"dirinya di masa lalu\"—seorang wanita yang sangat cantik?! Bisakah ia menyembunyikan identitasnya dan berhasil debut di antara sekelompok trainee wanita?",
   "chapters": [
     {
+      "chapter": "56",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01Ni8=",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "55",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01NS8=",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "54",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01NC8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "53",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01My8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "52",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01Mi8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "51",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01MS8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "50",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01MC8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "49",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00OS8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00OC8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00Ny8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00Ni8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00NS8=",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "44",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00NC8=",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00My8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00Mi8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00MS8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "40",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00MC8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "39",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zOS8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zOC8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "37",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zNy8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zNi8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zNS8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zNC8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zMy8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zMi8=",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "31",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zMS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "30",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zMC8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yOS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yOC8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yNy8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yNi8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yNS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "24",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yNC8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yMy8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yMi8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yMS8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yMC8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xOS8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xOC8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xNy8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xNi8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xNS8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xNC8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xMy8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xMi8=",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Today’s Han Yoil is a Woman Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xMS8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xMC8=",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci05Lw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci04Lw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci03Lw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci02Lw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci01Lw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci00Lw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0zLw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0yLw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Today’s Han Yoil is a Woman Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9kYXlzLWhhbi15b2lsLWlzLWEtd29tYW4tY2hhcHRlci0xLw==",
-      "date": "50 menit yang lalu"
+      "date": "3 hari yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 56
 }

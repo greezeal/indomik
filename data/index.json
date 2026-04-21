@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T14:20:58.136034",
-  "total_comics": 1474,
+  "last_updated": "2026-04-21T15:51:34.949969",
+  "total_comics": 1480,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -40,7 +40,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.28,
-      "total_chapters": 252
+      "total_chapters": 254
     },
     {
       "slug": "50kg-cinderella",
@@ -1360,7 +1360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.08,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "the-genius-midfielders-pass-is-special",
@@ -1832,7 +1832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "kanan-sama-wa-akumade-choroi",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 323
+      "total_chapters": 325
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2176,7 +2176,7 @@
       "type": "Manhwa",
       "status": "Hiatus",
       "rating": 8.59,
-      "total_chapters": 176
+      "total_chapters": 177
     },
     {
       "slug": "tower-of-god-side-story-urek-mazino",
@@ -4912,7 +4912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "sss-level-paladin-who-breaks-all-logic",
@@ -6592,7 +6592,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 35
     },
     {
       "slug": "revenger-apocalypse-of-vengeance",
@@ -7568,7 +7568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "i-farmer-plant-the-undead",
@@ -8424,7 +8424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru",
@@ -8456,7 +8456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "535662-im-trapped-in-this-day-for-one-thousand-years",
@@ -10568,7 +10568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "stone-age",
@@ -11168,7 +11168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "youre-the-only-one-i-can-see",
@@ -11184,7 +11184,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "tsukimino-karma-wa-akumade-boku-no-pet-nanoni",
@@ -11688,7 +11688,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 56
     },
     {
       "slug": "the-youngest-member-filming-a-parenting-show-is-adorable",
@@ -11793,6 +11793,54 @@
       "status": "Berjalan",
       "rating": 7.36,
       "total_chapters": 51
+    },
+    {
+      "slug": "aldo-no-isekai-tensei",
+      "title": "Aldo no Isekai Tensei",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "im-the-commander-of-the-second-male-leads-knights",
+      "title": "I’m the Commander of the Second Male Lead’s Knights",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "the-immoral-duke-needs-to-be-homeschooled",
+      "title": "The Immoral Duke Needs to Be Homeschooled",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "harten",
+      "title": "Harten",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "unconventional-isekai-isnt-it-too-much-of-a-black-company-treatment-to-fight-hordes-of-monsters-without-magic",
+      "title": "Unconventional Isekai: Isn’t It Too Much of a Black-Company Treatment to Fight Hordes of Monsters without Magic?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "osananajimitachi-ga-ninki-idol-ni-natta-amama-na-kanojotachi-wa-ore-ni-mitsuide-kureteiru",
+      "title": "Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }
