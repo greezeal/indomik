@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.39,
-  "scraped_at": "2026-04-21T14:19:02.136232",
+  "scraped_at": "2026-04-22T14:16:05.773735",
   "alternative_titles": "Shokei Sareta Kenja wa Lich ni Tensei Shite Shinryaku Sensou wo Hajimaru, Казненный мудрец переродился в некроманта и начал тотальную войну, الساحر العائد للإنتقام من العالم~الساحر الذي تم إعدامه أعيد إحيائه كليتش وبدأ حرب ضد الجميع, จอมปราชญ์ผู้มีกายาเป็",
   "status": "Berjalan",
   "author": "Yuuki Karaku",
@@ -28,16 +28,22 @@
   "synopsis": "Manga                    The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War yang dibuat oleh komikus bernama\n                    Yuuki Karaku ini bercerita tentang\n                    Sage Dwight, dia bersama dengan Pahlawan mengalahkan Raja Iblis yang menenggelamkan dunia ke dalam kegelapan.\r\nNamun, mereka salah dituduh menjadi Raja Iblis berikutnya karena kekuatannya, dan dilempar ke Lembah Orang Mati untuk mati ...\r\nTetapi meskipun dagingnya telah membusuk, dia hidup sebagai kerangka karena dendamnya terhadap dunia. Dwight telah bersumpah untuk menyangkal dunia yang salah itu, dan dengan kekuatan yang bahkan melampaui Raja Iblis di masa lalu, dan juga memimpin Tengkorak yang tak terhitung jumlahnya, dia akan memulai perang habis-habisan ...!",
   "chapters": [
     {
+      "chapter": "61",
+      "title": "Komik The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4ZWN1dGVkLXNhZ2UtaXMtcmVpbmNhcm5hdGVkLWFzLWEtbGljaC1hbmQtc3RhcnRzLWFuLWFsbC1vdXQtd2FyLWNoYXB0ZXItNjEv",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "60",
       "title": "Komik The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4ZWN1dGVkLXNhZ2UtaXMtcmVpbmNhcm5hdGVkLWFzLWEtbGljaC1hbmQtc3RhcnRzLWFuLWFsbC1vdXQtd2FyLWNoYXB0ZXItNjAv",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik The Executed Sage Is Reincarnated as a Lich and Starts an All-Out War Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWV4ZWN1dGVkLXNhZ2UtaXMtcmVpbmNhcm5hdGVkLWFzLWEtbGljaC1hbmQtc3RhcnRzLWFuLWFsbC1vdXQtd2FyLWNoYXB0ZXItNTkv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "58",
@@ -460,5 +466,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 72
+  "total_chapters": 73
 }

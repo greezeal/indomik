@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-15T15:27:33.481386",
+  "scraped_at": "2026-04-22T14:14:11.746316",
   "alternative_titles": "竜崎さんが俺の前だけでデレるリユウ, Alasan Mengapa Ryuuzaki-san Hanya Menunjukkan Sisi Manisnya di Hadapanku, The Reasons Why Ryuuzaki-san Only Shows Her Sweet Side to Me",
   "status": "Berjalan",
   "author": "Asatsuki Yusha",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu yang dibuat oleh komikus bernama\n                    Asatsuki Yusha ini bercerita tentang\n                    Ryuzaki-san, yang dikenal sebagai gadis tercantik di kelas kami, bersikap dingin padaku. Setiap kali mata kami bertemu, dia menatapku seperti aku sampah. Lalu suatu hari, aku melihat sesuatu yang luar biasa tentang dirinya. Ryuzaki-san sama sekali bukan manusia. Dia adalah Dragonkin.“T-Tolong jangan menatapku seperti itu!”Gadis tercantik di sekolah hanya menunjukkan wajah aslinya padaku, dan ternyata dia sangat menggemaskan, membuatku benar-benar bingung. Sebuah komedi romantis yang sedikit fantastis berlatar dunia nyata. Biarkan kisah cinta dimulai!",
   "chapters": [
     {
+      "chapter": "05",
+      "title": "Komik Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu Chapter 05",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcnl1dXpha2ktc2FuLWdhLW9yZS1uby1tYWUtZGFrZS1kZS1kZXJlcnUtcml5dXUtY2hhcHRlci0wNS8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "04",
       "title": "Komik Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu Chapter 04",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcnl1dXpha2ktc2FuLWdhLW9yZS1uby1tYWUtZGFrZS1kZS1kZXJlcnUtcml5dXUtY2hhcHRlci0wNC8=",
-      "date": "1 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "03",
       "title": "Komik Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu Chapter 03",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcnl1dXpha2ktc2FuLWdhLW9yZS1uby1tYWUtZGFrZS1kZS1kZXJlcnUtcml5dXUtY2hhcHRlci0wMy8=",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "02",
@@ -49,5 +55,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

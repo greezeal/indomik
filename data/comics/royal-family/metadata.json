@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-21T15:50:51.650998",
+  "scraped_at": "2026-04-22T14:19:07.394073",
   "alternative_titles": "Gia Tộc Tài Phiệt, 로열패밀리",
   "status": "Berjalan",
   "author": "MAJOR Ok, Handol",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Royal Family yang dibuat oleh komikus bernama\n                    MAJOR Ok, Handol ini bercerita tentang\n                    Kang Jihyuk adalah cucu tertua dari Taesung, konglomerat terbesar di Korea Selatan.\r\n\r\nSeharusnya ia mewarisi semua kekayaan Taesung, tetapi karena konspirasi seseorang, ia kehilangan orang tuanya dan ditinggalkan di panti asuhan.\r\n\r\n20 tahun kemudian, ia kembali ke Taesung dengan nama 'Seo Jihyuk'... dan balas dendamnya pun dimulai.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Royal Family Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm95YWwtZmFtaWx5LWNoYXB0ZXItMTAv",
+      "date": "50 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Royal Family Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm95YWwtZmFtaWx5LWNoYXB0ZXItOS8=",
-      "date": "1 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "8",
@@ -40,7 +46,7 @@
       "chapter": "6",
       "title": "Komik Royal Family Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm95YWwtZmFtaWx5LWNoYXB0ZXItNi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "5",
@@ -73,5 +79,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }

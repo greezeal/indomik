@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-21T14:18:52.126636",
+  "scraped_at": "2026-04-22T14:15:20.594285",
   "alternative_titles": "사장님이 너무 강함",
   "status": "Berjalan",
   "author": "Cheok Jun-Gyeong",
@@ -19,22 +19,28 @@
   "synopsis": "Manhwa                    The Boss Is Too Strong yang dibuat oleh komikus bernama\n                    Cheok Jun-Gyeong ini bercerita tentang\n                    Pemilik bar tetap di sebuah pub lokal favorit ternyata adalah mantan pemburu legendaris. Para pelanggan biasa terkejut ketika \"bos\" mereka yang sederhana mengungkapkan kekuatan dan keterampilan luar biasa yang jauh melampaui kemampuan bartender biasa. Kisah ini terungkap saat mantan sosok perkasa ini menjalani kehidupan di balik bar, terkadang menghadapi ancaman dari masa lalunya sebagai pemburu dan melindungi tempat usaha (dan para tamunya) dengan cara yang hanya bisa dilakukan oleh seorang legenda sejati—mengaburkan batas antara kehidupan sipil yang damai dan dunia tersembunyi para pemburu super.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik The Boss Is Too Strong Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI3Lw==",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik The Boss Is Too Strong Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI2Lw==",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Boss Is Too Strong Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI1Lw==",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Boss Is Too Strong Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI0Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "23",
@@ -175,5 +181,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }
