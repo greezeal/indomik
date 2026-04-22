@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-17T22:08:53.064020",
+  "scraped_at": "2026-04-22T11:22:25.080788",
   "alternative_titles": "영웅, 회귀하다",
   "status": "Berjalan",
   "author": "Black Ajin",
@@ -24,34 +24,40 @@
   "synopsis": "Manhwa                    The Hero Returns yang dibuat oleh komikus bernama\n                    Black Ajin ini bercerita tentang\n                    Pahlawan kemanusiaan terkuat, Kim Sung Bin.\r\n\r\nDia mempertaruhkan segalanya dan bertarung ... tapi dia masih tidak bisa mencegah kehancuran dunia.\r\n\r\nNamun, legendanya baru saja dimulai saat ia kembali 20 tahun ke masa lalu.\r\n\r\n“Aku pasti akan… membunuhnya kali ini.\r\n\r\nSekarang sepenuhnya dilengkapi dengan kekuatan dan pengalaman yang luar biasa, serangan pahlawan belum berakhir!",
   "chapters": [
     {
+      "chapter": "150",
+      "title": "Komik The Hero Returns Chapter 150",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE1MC8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "149",
       "title": "Komik The Hero Returns Chapter 149",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE0OS8=",
-      "date": "5 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "148",
       "title": "Komik The Hero Returns Chapter 148",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE0OC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "147",
       "title": "Komik The Hero Returns Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE0Ny8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "146",
       "title": "Komik The Hero Returns Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE0Ni8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "145",
       "title": "Komik The Hero Returns Chapter 145",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE0NS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "144",
@@ -87,7 +93,7 @@
       "chapter": "139",
       "title": "Komik The Hero Returns Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTEzOS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "138",
@@ -111,7 +117,7 @@
       "chapter": "135",
       "title": "Komik The Hero Returns Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTEzNS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "134",
@@ -135,7 +141,7 @@
       "chapter": "131",
       "title": "Komik The Hero Returns Chapter 131",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTEzMS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "130",
@@ -189,7 +195,7 @@
       "chapter": "122",
       "title": "Komik The Hero Returns Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTEyMi8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "121",
@@ -345,7 +351,7 @@
       "chapter": "96",
       "title": "Komik The Hero Returns Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTk2Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "95",
@@ -924,5 +930,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 150
+  "total_chapters": 151
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-21T15:51:21.505574",
+  "scraped_at": "2026-04-22T11:24:31.532503",
   "alternative_titles": "The Mad Dog of the Ducal House, 공작가에는 미친개가 산다",
   "status": "Berjalan",
   "author": "Fanmison (판미손)",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    The Mad Dog of the Duke’s Estate yang dibuat oleh komikus bernama\n                    Fanmison (판미손) ini bercerita tentang\n                    Aku menjalani seluruh hidupku sebagai budak, terikat tali kekang. Tapi ada satu hal yang bisa kupilih sendiri: tempat di mana aku akan mati.\r\n\r\n\"...Ada kata-kata terakhir?\"\r\n\r\nSatu-satunya temanku bertanya dengan suara tenang, dan aku menjawab pelan sambil memejamkan mata.\r\n\r\n\"Waaaah!\"\r\n\r\n...Waaaah?\r\n\r\nSingkatnya, aku bereinkarnasi. Dan bukan sembarang orang, melainkan sebagai cucu bungsu temanku. Jadi, apa yang akan kulakukan sekarang? Nah, apa lagi yang bisa kulakukan?\r\n\r\nAku akan membuat kekacauan.",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik The Mad Dog of the Duke’s Estate Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZC1kb2ctb2YtdGhlLWR1a2VzLWVzdGF0ZS1jaGFwdGVyLTQ3Lw==",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "46",
       "title": "Komik The Mad Dog of the Duke’s Estate Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZC1kb2ctb2YtdGhlLWR1a2VzLWVzdGF0ZS1jaGFwdGVyLTQ2Lw==",
-      "date": "1 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik The Mad Dog of the Duke’s Estate Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZC1kb2ctb2YtdGhlLWR1a2VzLWVzdGF0ZS1jaGFwdGVyLTQ1Lw==",
-      "date": "1 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "44",
@@ -299,5 +305,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 46
+  "total_chapters": 47
 }
