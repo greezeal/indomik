@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-13T15:53:32.491774",
+  "scraped_at": "2026-04-22T17:54:02.519870",
   "alternative_titles": "Girl Go, 围棋少女, 소녀바둑",
   "status": "Berjalan",
   "author": "Cutie Pong",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    Girl-Go yang dibuat oleh komikus bernama\n                    Cutie Pong ini bercerita tentang\n                    Di papan Go seluas lautan atau bintang-bintang, seorang gadis yang gigih kembali ke permainan untuk merebut kembali sesuatu yang berharga yang telah hilang. Bersama seorang anak laki-laki pendiam yang berbagi kerinduan yang tak terucapkan, setiap batu yang ditempatkan menguji ingatan, tekad, dan keterampilan. Sebuah kisah pendewasaan yang lembut dan kompetitif di mana setiap langkah membuka jalan baru ke depan.",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik Girl-Go Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2lybC1nby1jaGFwdGVyLTI2Lw==",
+      "date": "43 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Girl-Go Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2lybC1nby1jaGFwdGVyLTI1Lw==",
-      "date": "7 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Girl-Go Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2lybC1nby1jaGFwdGVyLTI0Lw==",
-      "date": "7 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Girl-Go Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2lybC1nby1jaGFwdGVyLTIzLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Girl-Go Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2lybC1nby1jaGFwdGVyLTIyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Girl-Go Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2lybC1nby1jaGFwdGVyLTIxLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "20",
@@ -169,5 +175,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }

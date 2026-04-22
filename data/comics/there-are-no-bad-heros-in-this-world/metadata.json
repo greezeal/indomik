@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.04,
-  "scraped_at": "2026-04-22T04:21:40.132833",
+  "scraped_at": "2026-04-22T17:52:30.881577",
   "alternative_titles": "There Are No Bad Warriors in the World, There are No Bad Heros In the World, There’s No Such Thing as a Bad Hero in the World, 세상에 나쁜 용사는 없다",
   "status": "Berjalan",
   "author": "Hansol",
@@ -26,34 +26,40 @@
   "synopsis": "Manhwa                    There Are No Bad Heros in This World yang dibuat oleh komikus bernama\n                    Hansol ini bercerita tentang\n                    “Seorang pria yang pernah disebut sebagai yang terkuat di dunia. Juara kelas berat dari liga seni bela diri terbesar di dunia. Choi Hyun-seok, yang pernah menjadi pria terkuat, memulai hidup baru sebagai pahlawan di dunia lain setelah kematiannya. ‘Seorang pahlawan yang memonopoli kekayaan, ketenaran, dan wanita cantik!’ Memimpikan masa depan yang gemilang, ia tiba di dunia lain, hanya untuk bertemu dengan monster mengerikan dengan kepala yang satu ukuran lebih besar dari kepalanya sendiri. Monster itu, seorang perwira tinggi dari pasukan Raja Iblis, bertanya: ‘Pahlawan? Apakah kau yang disebut pahlawan?’ ‘Uh… kurasa akulah pahlawannya…?’ Dan begitulah, neraka dimulai.”",
   "chapters": [
     {
+      "chapter": "64",
+      "title": "Komik There Are No Bad Heros in This World Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlcmUtYXJlLW5vLWJhZC1oZXJvcy1pbi10aGlzLXdvcmxkLWNoYXB0ZXItNjQv",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "63",
       "title": "Komik There Are No Bad Heros in This World Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlcmUtYXJlLW5vLWJhZC1oZXJvcy1pbi10aGlzLXdvcmxkLWNoYXB0ZXItNjMv",
-      "date": "12 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik There Are No Bad Heros in This World Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlcmUtYXJlLW5vLWJhZC1oZXJvcy1pbi10aGlzLXdvcmxkLWNoYXB0ZXItNjIv",
-      "date": "12 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik There Are No Bad Heros in This World Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlcmUtYXJlLW5vLWJhZC1oZXJvcy1pbi10aGlzLXdvcmxkLWNoYXB0ZXItNjEv",
-      "date": "12 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik There Are No Bad Heros in This World Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlcmUtYXJlLW5vLWJhZC1oZXJvcy1pbi10aGlzLXdvcmxkLWNoYXB0ZXItNjAv",
-      "date": "12 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik There Are No Bad Heros in This World Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlcmUtYXJlLW5vLWJhZC1oZXJvcy1pbi10aGlzLXdvcmxkLWNoYXB0ZXItNTkv",
-      "date": "12 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "58",
@@ -404,5 +410,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }

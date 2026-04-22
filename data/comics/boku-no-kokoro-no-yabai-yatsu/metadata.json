@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.1,
-  "scraped_at": "2026-04-15T15:27:45.473307",
+  "scraped_at": "2026-04-22T17:51:43.197756",
   "alternative_titles": "BokuYaba, The Dangers in My Heart, Угроза в моём сердце, 僕の心のヤバイやつ, 僕ヤバ, 我心裡危險的東西, 我心里危险的东西, 내 마음의 위험한 놈",
   "status": "Berjalan",
   "author": "Sakurai Norio",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Boku no Kokoro no Yabai Yatsu yang dibuat oleh komikus bernama\n                    Sakurai Norio ini bercerita tentang\n                    Sebuah 'psiko-thriller menakutkan' yang berpusat pada 'sisi gelap masa remaja'.\r\nMengikuti Ichikawa Kyoutarou, seorang remaja laki-laki dari kasta paling bawah di sekolahnya, karya ini merinci interaksinya yang bermasalah dengan teman sekelas tertentu, dan upayanya untuk menyembunyikan impuls pembunuh yang menemukan diri mereka dalam relung tergelap dalam jiwanya.\r\n\r\nPada kenyataannya, ini adalah rom-com remaja yang manis antara bocah lelaki yang kacau dan seorang gadis yang cerdas, jika agak aneh, dan cantik. Dipersembahkan oleh pikiran lucu di balik Mitsudomoe dan Rororro !, Sakurai Norio.",
   "chapters": [
     {
+      "chapter": "170",
+      "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 170",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci0xNzAv",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "169",
       "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci0xNjkv",
-      "date": "52 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "168",
       "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 168",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci0xNjgv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "167",
@@ -590,31 +596,31 @@
       "chapter": "75",
       "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci03NS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci03NC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci03My8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci03Mi8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Boku no Kokoro no Yabai Yatsu Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rb2tvcm8tbm8teWFiYWkteWF0c3UtY2hhcHRlci03MS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "70",
@@ -1355,5 +1361,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 222
+  "total_chapters": 223
 }

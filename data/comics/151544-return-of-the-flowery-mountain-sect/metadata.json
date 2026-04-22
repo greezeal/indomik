@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-15T15:24:39.595760",
+  "scraped_at": "2026-04-22T17:49:08.115765",
   "alternative_titles": "Volcano return, 화산귀환",
   "status": "Berjalan",
   "author": "비가",
@@ -23,40 +23,46 @@
   "synopsis": "Manhwa                    Return of the Flowery Mountain Sect yang dibuat oleh komikus bernama\n                    비가 ini bercerita tentang\n                    Chung Myung, Murid ke-13 dari Sekte Gunung Bunga Besar, Salah satu dari 3 Pendekar Pedang Besar, Pedang Suci Bunga Plum, mengalahkan Chun Ma, yang telah membawa kehancuran dan kekacauan ke dunia. Setelah pertempuran, dia menghembuskan nafas terakhirnya di atas gunung markas dari Sekte Penyembahan Iblis. Ia terlahir kembali setelah 100 tahun dalam tubuh seorang anak. ……Apa? Sekte Gunung Bunga telah jatuh? Omong kosong macam apa itu !?",
   "chapters": [
     {
+      "chapter": "159",
+      "title": "Komik Return of the Flowery Mountain Sect Chapter 159",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNTkv",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "158",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 158",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNTgv",
-      "date": "28 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "157",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNTcv",
-      "date": "29 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "156",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNTYv",
-      "date": "30 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "155",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNTUv",
-      "date": "31 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "154",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNTQv",
-      "date": "9 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "153",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNTMv",
-      "date": "18 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "152.4",
@@ -128,7 +134,7 @@
       "chapter": "145",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 145",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci0xNDUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "144",
@@ -434,7 +440,7 @@
       "chapter": "94",
       "title": "Komik Return of the Flowery Mountain Sect Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mbG93ZXJ5LW1vdW50YWluLXNlY3QtY2hhcHRlci05NC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "93",
@@ -1001,5 +1007,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 163
+  "total_chapters": 164
 }
