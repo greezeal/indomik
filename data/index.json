@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T01:09:12.616417",
-  "total_comics": 1480,
+  "last_updated": "2026-04-22T04:25:19.902045",
+  "total_comics": 1482,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2280,7 +2280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 137
+      "total_chapters": 139
     },
     {
       "slug": "308020-leveling-with-the-gods",
@@ -2296,7 +2296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 240
+      "total_chapters": 241
     },
     {
       "slug": "reincarnation-of-the-demonic-god",
@@ -2320,7 +2320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 164
+      "total_chapters": 165
     },
     {
       "slug": "reincarnators-stream",
@@ -3944,7 +3944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.24,
-      "total_chapters": 599
+      "total_chapters": 605
     },
     {
       "slug": "prepaid-dragon-king-tanks-everything",
@@ -7120,7 +7120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 35
     },
     {
       "slug": "demon-evolution",
@@ -8896,7 +8896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.04,
-      "total_chapters": 58
+      "total_chapters": 63
     },
     {
       "slug": "ten-thousandfold-return-senior-sister-please-behave",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -9864,7 +9864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 77
+      "total_chapters": 84
     },
     {
       "slug": "the-masters-are-watching-over-me",
@@ -11248,7 +11248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 60
+      "total_chapters": 72
     },
     {
       "slug": "cheolleung-high-school",
@@ -11616,7 +11616,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 60
     },
     {
       "slug": "juusho-futei-camper-wa-dungeon-de-nonbiri-to-kurashitai-kiken-na-shinsou-monster-mo-ore-ni-totte-wa-shokuzai-desu",
@@ -11841,6 +11841,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "all-people-scramble-for-the-tower-i-cleared-999-floors-in-advance",
+      "title": "All People Scramble for the Tower, I Cleared 999 Floors in Advance",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 47
+    },
+    {
+      "slug": "release-that-witch",
+      "title": "Release That Witch",
+      "type": "Manhua",
+      "status": "Tamat",
+      "rating": 8.37,
+      "total_chapters": 696
     }
   ]
 }
