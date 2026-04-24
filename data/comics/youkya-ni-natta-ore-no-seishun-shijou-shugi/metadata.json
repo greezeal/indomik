@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-18T22:21:57.665405",
+  "scraped_at": "2026-04-24T04:00:19.703590",
   "alternative_titles": "陽キャになった俺の青春至上主義",
   "status": "Berjalan",
   "author": "Mochizaki Yuba",
@@ -21,22 +21,28 @@
   "synopsis": "Manga                    Youkya ni Natta Ore no Seishun Shijou Shugi yang dibuat oleh komikus bernama\n                    Mochizaki Yuba ini bercerita tentang\n                    [Ekstrovert] dan [Introvert]. Secara umum, ada dua tipe orang di dunia. Untuk memanfaatkan masa muda Anda yang terbatas sebaik-baiknya, hanya ada satu jalan yang bisa dipilih. Dengan kata lain, jika Anda ingin populer, jadilah ekstrovert. Mantan introvert Ueda Hashita memulai debut sekolah menengahnya dengan kerja keras dan tekad, dan menikmati kehidupan sekolah yang lancar dikelilingi oleh para ekstrovert. Seandainya saja dia bisa menemukan pacar perempuan, itu akan sempurna -- tetapi satu-satunya yang dia sukai adalah gadis-gadis introvert --!?",
   "chapters": [
     {
+      "chapter": "9.2",
+      "title": "Komik Youkya ni Natta Ore no Seishun Shijou Shugi Chapter 9.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91a3lhLW5pLW5hdHRhLW9yZS1uby1zZWlzaHVuLXNoaWpvdS1zaHVnaS1jaGFwdGVyLTktMi8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "9.1",
       "title": "Komik Youkya ni Natta Ore no Seishun Shijou Shugi Chapter 9.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91a3lhLW5pLW5hdHRhLW9yZS1uby1zZWlzaHVuLXNoaWpvdS1zaHVnaS1jaGFwdGVyLTktMS8=",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Youkya ni Natta Ore no Seishun Shijou Shugi Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91a3lhLW5pLW5hdHRhLW9yZS1uby1zZWlzaHVuLXNoaWpvdS1zaHVnaS1jaGFwdGVyLTgv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Youkya ni Natta Ore no Seishun Shijou Shugi Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91a3lhLW5pLW5hdHRhLW9yZS1uby1zZWlzaHVuLXNoaWpvdS1zaHVnaS1jaGFwdGVyLTcv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "6.3",
@@ -60,13 +66,13 @@
       "chapter": "5",
       "title": "Komik Youkya ni Natta Ore no Seishun Shijou Shugi Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91a3lhLW5pLW5hdHRhLW9yZS1uby1zZWlzaHVuLXNoaWpvdS1zaHVnaS1jaGFwdGVyLTUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4.3",
       "title": "Komik Youkya ni Natta Ore no Seishun Shijou Shugi Chapter 4.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91a3lhLW5pLW5hdHRhLW9yZS1uby1zZWlzaHVuLXNoaWpvdS1zaHVnaS1jaGFwdGVyLTQtMy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "4.2",
@@ -123,5 +129,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }

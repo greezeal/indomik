@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-22T22:12:11.337326",
+  "scraped_at": "2026-04-24T03:59:53.102578",
   "alternative_titles": "A Love Letter From the Future, 未来からのラブレター〜滅亡する世界の英雄は俺！？〜, 미래에서 온 연애편지",
   "status": "Berjalan",
   "author": "alcoholic, yeohan",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Love Letter From The Future yang dibuat oleh komikus bernama\n                    alcoholic, yeohan ini bercerita tentang\n                    Ian Percus, seorang mahasiswa tahun ketiga dari jurusan ilmu pedang Akademi, suatu pagi terbangun dan menemukan kalender lipat di mejanya dan sepucuk surat yang tidak ia ingat pernah diterimanya. Surat itu berisi pesan samar: \"Jika kita tidak melindungi masa depan, dunia akan hancur.\"\r\n\r\nKetika ia pergi ke Akademi, ia mengetahui bahwa, tanpa sepengetahuannya, seminggu telah berlalu dan selama waktu itu, ia mengalahkan seorang junior yang sebelumnya tidak terkalahkan.\r\n\r\nAwalnya, Ian skeptis, tetapi saat peristiwa yang dijelaskan dalam surat itu mulai terungkap, ia perlahan mulai mempercayai apa yang tertulis.\r\n\r\nApa yang sebenarnya terjadi selama seminggu yang tidak dapat ia ingat...?\r\n\r\nAkankah Ian mampu melindungi masa depan?",
   "chapters": [
     {
+      "chapter": "39",
+      "title": "Komik Love Letter From The Future Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItMzkv",
+      "date": "37 menit yang lalu"
+    },
+    {
       "chapter": "38",
       "title": "Komik Love Letter From The Future Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItMzgv",
-      "date": "42 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "37",
@@ -250,5 +256,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 38
+  "total_chapters": 39
 }

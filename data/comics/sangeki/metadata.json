@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-12T13:52:03.911899",
+  "scraped_at": "2026-04-24T04:01:22.711973",
   "alternative_titles": "山劇, Haunted Peak, مسرحية الجبل, La montaña embrujada",
   "status": "Berjalan",
   "author": "Minenami Ryo",
@@ -19,17 +19,29 @@
   "synopsis": "Manga                    Sangeki yang dibuat oleh komikus bernama\n                    Minenami Ryo ini bercerita tentang\n                    Miko, seorang siswi SMA yang mengira akan mewarisi gunung kakeknya, telah kehilangan gebetannya karena temannya dan berada di peringkat terbawah hierarki sekolahnya. Satu-satunya pelipur lara baginya adalah gunung itu, tetapi sekarang seorang pria bertopeng misterius sedang membangun sebuah pondok kecil di sana... Tagline: Apakah aku lemah? Sebuah kisah cinta dan benci yang berputar di sekitar gunung.",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Sangeki Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTQv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Sangeki Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTMv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Sangeki Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTIv",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Sangeki Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTEv",
-      "date": "19 jam yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 4
 }

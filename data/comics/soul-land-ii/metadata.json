@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.39,
-  "scraped_at": "2026-04-22T22:09:25.709762",
+  "scraped_at": "2026-04-24T03:56:21.007322",
   "alternative_titles": "Combat Continent 2, Combat Continent II, Douluo Dalu II - Jueshui Tangmen, Đấu La Đại Lục 2 - Tuyệt Thế Đường Môn, Soul Land 2, Soul Land II, 斗罗大陆2 - 绝世唐门",
   "status": "Berjalan",
   "author": "Tang Jia San Shao",
@@ -22,34 +22,40 @@
   "synopsis": "Manhua                    Soul Land II yang dibuat oleh komikus bernama\n                    Tang Jia San Shao ini bercerita tentang\n                    Tanah tanpa sihir, dou-qi, seni bela diri, tetapi dengan roh esensi sebagai gantinya. Ini adalah benua 10.000 tahun setelah pembentukan Sekte Tang. Pahlawan baru dan temannya menjelajahi negeri, \"Tujuh Monster Jeritan\" baru. Akankah mereka mempertahankan nama Sekte Tang? Atau akankah itu runtuh karena sistem esensi baru?",
   "chapters": [
     {
+      "chapter": "482",
+      "title": "Komik Soul Land II Chapter 482",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDgyLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "481",
       "title": "Komik Soul Land II Chapter 481",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDgxLw==",
-      "date": "15 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "480",
       "title": "Komik Soul Land II Chapter 480",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDgwLw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "479",
       "title": "Komik Soul Land II Chapter 479",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDc5Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "478",
       "title": "Komik Soul Land II Chapter 478",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDc4LTIv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "478",
       "title": "Komik Soul Land II Chapter 478",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDc4Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "477",
@@ -67,7 +73,7 @@
       "chapter": "475",
       "title": "Komik Soul Land II Chapter 475",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDc1Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "474",
@@ -439,13 +445,13 @@
       "chapter": "410",
       "title": "Komik Soul Land II Chapter 410",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDEwLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "409",
       "title": "Komik Soul Land II Chapter 409",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDA5Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "408",
@@ -487,7 +493,7 @@
       "chapter": "402",
       "title": "Komik Soul Land II Chapter 402",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDAyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "401",
@@ -583,13 +589,13 @@
       "chapter": "386",
       "title": "Komik Soul Land II Chapter 386",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItMzg2Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "385",
       "title": "Komik Soul Land II Chapter 385",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItMzg1Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "384",
@@ -3574,5 +3580,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 592
+  "total_chapters": 593
 }

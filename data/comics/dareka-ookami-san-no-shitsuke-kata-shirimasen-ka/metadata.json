@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T10:38:11.025859",
+  "scraped_at": "2026-04-24T03:56:16.061099",
   "alternative_titles": "誰かオオカミさんのしつけ方知りませんか！？, ¿¡Alguien sabe cómo domesticar a Ookami-san!?, Does Anyone Know How to Train a Wolf!?",
   "status": "Berjalan",
   "author": "Anmi Tsuki",
@@ -21,17 +21,23 @@
   "synopsis": "Manga                    Dareka Ookami-san no shitsuke-kata shirimasen ka?! yang dibuat oleh komikus bernama\n                    Anmi Tsuki ini bercerita tentang\n                    Ookami-san telah tiba di sekolah.Himura Akane, seorang siswi kelas dua SMA dan anggota komite disiplin,sangat rajin belajar, tetapi juga tulus, bertubuh kecil, dan menggemaskan, membuatnya disayangi oleh semua orang di sekolah dan sangat populer.Suatu hari, kepala sekolah memintanya untuk menjadi tutor Ookami Ren, putri ketua OSIS.Karena Akane bertujuan untuk masuk universitas dengan beasiswa, dia memutuskan untuk menerima tugas tersebut.Namun, ternyata Ren jauh lebih besar darinya secara fisik dan, terlebih lagi, seorang pembuat onar dengan pikiran licik yang penuh dengan ide-ide buruk…!?Sebuah komedi antar siswi dimulai, dibintangi oleh seorang siswi senior yang kecil dan menggemaskan serta seorang siswi junior yang besar dan sulit diatur!",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Dareka Ookami-san no shitsuke-kata shirimasen ka?! Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyZWthLW9va2FtaS1zYW4tbm8tc2hpdHN1a2Uta2F0YS1zaGlyaW1hc2VuLWthLWNoYXB0ZXItMy8=",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Dareka Ookami-san no shitsuke-kata shirimasen ka?! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyZWthLW9va2FtaS1zYW4tbm8tc2hpdHN1a2Uta2F0YS1zaGlyaW1hc2VuLWthLWNoYXB0ZXItMi8=",
-      "date": "4 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Dareka Ookami-san no shitsuke-kata shirimasen ka?! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFyZWthLW9va2FtaS1zYW4tbm8tc2hpdHN1a2Uta2F0YS1zaGlyaW1hc2VuLWthLWNoYXB0ZXItMS8=",
-      "date": "4 jam yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }
