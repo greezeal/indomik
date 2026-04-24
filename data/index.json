@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T11:36:18.205277",
-  "total_comics": 1495,
+  "last_updated": "2026-04-24T14:36:44.319537",
+  "total_comics": 1500,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -328,7 +328,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.13,
-      "total_chapters": 112
+      "total_chapters": 114
     },
     {
       "slug": "magic-emperor",
@@ -984,7 +984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 231
+      "total_chapters": 233
     },
     {
       "slug": "leveling-in-the-future",
@@ -1072,7 +1072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 123
+      "total_chapters": 125
     },
     {
       "slug": "isshou-senkin",
@@ -1208,7 +1208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.99,
-      "total_chapters": 88
+      "total_chapters": 89
     },
     {
       "slug": "serpent-ancestor",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 63
+      "total_chapters": 65
     },
     {
       "slug": "70-meter-girl",
@@ -1888,7 +1888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 34
     },
     {
       "slug": "931897-reborn-as-the-enemy-prince",
@@ -2016,7 +2016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.08,
-      "total_chapters": 102
+      "total_chapters": 104
     },
     {
       "slug": "enishi-kun-wa-masho-harem-taishitsu-ni-mezamemashita",
@@ -2072,7 +2072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "unemployed-gye-baeksun",
@@ -2672,7 +2672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "reincarnated-as-the-archdukes-son",
@@ -2752,7 +2752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 196
+      "total_chapters": 198
     },
     {
       "slug": "151515-omniscient-readers-viewpoint",
@@ -3696,7 +3696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "the-counts-youngest-son-is-a-player",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 74
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -3992,7 +3992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "my-death-flags-show-no-sign-of-ending",
@@ -4080,7 +4080,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 101
     },
     {
       "slug": "the-berserkers-second-playthrough",
@@ -4118,9 +4118,9 @@
       "slug": "tensei-shitara-ken-deshita",
       "title": "Tensei Shitara Ken Deshita",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.6,
+      "total_chapters": 97
     },
     {
       "slug": "hazure-skill-soine-ga-kakuseishi-boku-ga-saikyou-harem-wo-kizuku-made-micchaku-soine-de-ganbou-kaihou-yuuwakusare-makutte-komattemasu",
@@ -4288,7 +4288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "686339-i-obtained-a-mythic-item",
@@ -4320,7 +4320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 40
     },
     {
       "slug": "became-the-patron-of-villains",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 88
+      "total_chapters": 91
     },
     {
       "slug": "colorist",
@@ -4680,7 +4680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 31
     },
     {
       "slug": "ogami-tsumiki-to-kinichijou",
@@ -4872,7 +4872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 99
+      "total_chapters": 101
     },
     {
       "slug": "284443-meccha-shoukan-sareta-ken",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -6648,7 +6648,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "isekai-meikyuu-no-saishinbu-o-mezasou",
@@ -7384,7 +7384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 146
+      "total_chapters": 148
     },
     {
       "slug": "asa-no-tsuukin-densha-de-yatara-to-hanashikakete-kuru-joshikousei",
@@ -7728,7 +7728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 36
+      "total_chapters": 39
     },
     {
       "slug": "reborn-in-the-water-margin-world-as-the-strongest-wu-dalang",
@@ -7824,7 +7824,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "chikasugiru-futari",
@@ -8136,7 +8136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku",
@@ -8416,7 +8416,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "the-childe",
@@ -10288,7 +10288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "dou-ka-ore-wo-houtte-oitekure",
@@ -10488,7 +10488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e",
@@ -10832,7 +10832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 10
     },
     {
       "slug": "toumei-na-yoru-ni-kakeru-kun-to-me-ni-mienai-koi-wo-shita",
@@ -11144,7 +11144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 122
+      "total_chapters": 124
     },
     {
       "slug": "hyouketsu-reijou-sama-wo-follow-shitara-mechamecha-dekiai-sareteshimatta-ken",
@@ -11672,7 +11672,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
     },
     {
       "slug": "gakuen-no-madonna-no-watanabe-san-ga-naze-ka-maishu-yotei-wo-kitekuru",
@@ -11792,7 +11792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 52
+      "total_chapters": 54
     },
     {
       "slug": "aldo-no-isekai-tensei",
@@ -11832,7 +11832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 3
     },
     {
       "slug": "osananajimitachi-ga-ninki-idol-ni-natta-amama-na-kanojotachi-wa-ore-ni-mitsuide-kureteiru",
@@ -11880,7 +11880,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.63,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "underboxer",
@@ -11961,6 +11961,46 @@
       "status": "Berjalan",
       "rating": 8.26,
       "total_chapters": 19
+    },
+    {
+      "slug": "danjohi-15-no-sekai-demo-futsu-ni-ikirareru-to-omotta-geki-juu-kanjou-na-kanojotachi-ga-mujikaku-danshi-ni-honrousaretara",
+      "title": "Danjohi 1:5 no Sekai demo Futsu ni Ikirareru to Omotta? ~ Geki Juu Kanjou na Kanojotachi ga Mujikaku Danshi ni Honrousaretara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.84,
+      "total_chapters": 16
+    },
+    {
+      "slug": "ane-no-tomodachi",
+      "title": "Ane no Tomodachi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.9,
+      "total_chapters": 29
+    },
+    {
+      "slug": "yowa-yowa-sensei",
+      "title": "Yowa Yowa Sensei",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.87,
+      "total_chapters": 24
+    },
+    {
+      "slug": "isekai-shounin-skill-isekai-tokou-wo-kushi-shite-yuuyuu-jiteki-na-okanemochi-slow-life-wo-okurimasu",
+      "title": "Isekai Shounin Skill: Isekai Tokou wo Kushi Shite, Yuuyuu Jiteki na Okanemochi Slow Life wo Okurimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 59
+    },
+    {
+      "slug": "hone-dragon-no-mana-musume",
+      "title": "Hone Dragon no Mana Musume",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.01,
+      "total_chapters": 42
     }
   ]
 }

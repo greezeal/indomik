@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.81,
-  "scraped_at": "2026-04-21T05:54:39.488719",
+  "scraped_at": "2026-04-24T14:27:53.378967",
   "alternative_titles": "Walking in Another World, 異世界ウォーキング",
   "status": "Berjalan",
   "author": "Aruku Hito",
@@ -20,28 +20,34 @@
   "synopsis": "Manga                    Isekai Walking yang dibuat oleh komikus bernama\n                    Aruku Hito ini bercerita tentang\n                    Sora, seorang anak laki-laki Jepang yang dipanggil ke dunia lain, memperoleh keterampilan \"Berjalan\". Efeknya adalah \"tidak peduli berapa banyak dia berjalan, dia tidak pernah lelah\". Karena skill yang lemah ini, raja mengeluarkannya dari kelompok pahlawan yang dipanggil. Tapi saat Sora mulai berjalan di dunia lain, dia tiba-tiba naik level!\r\n\r\nBerjalan memiliki efek tersembunyi \"mendapatkan 1 EXP untuk setiap langkah yang diambil\". Dia memperoleh keterampilan yang berguna seperti 'Penilaian', 'Alkimia', dan sihir penyembuhan ...\r\n\r\nMendapatkan satu demi satu keterampilan, dia menjadi berbakat hanya dengan berjalan! Petualangan untuk bertemu dan menyentuh yang tidak diketahui akan segera dimulai!",
   "chapters": [
     {
+      "chapter": "57",
+      "title": "Komik Isekai Walking Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci01Ny8=",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "56",
       "title": "Komik Isekai Walking Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci01Ni8=",
-      "date": "12 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Isekai Walking Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci01NS8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Isekai Walking Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci01NC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Isekai Walking Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci01My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "52",
@@ -53,7 +59,7 @@
       "chapter": "51",
       "title": "Komik Isekai Walking Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci01MS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -101,13 +107,13 @@
       "chapter": "43",
       "title": "Komik Isekai Walking Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00My8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Isekai Walking Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci00Mi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "41",
@@ -356,5 +362,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 57
 }

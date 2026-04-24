@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-21T05:56:17.116331",
+  "scraped_at": "2026-04-24T14:33:52.959636",
   "alternative_titles": "빌런투킬",
   "status": "Berjalan",
   "author": "퓨핀",
@@ -21,10 +21,22 @@
   "synopsis": "Manhwa                    Villain To Kill yang dibuat oleh komikus bernama\n                    퓨핀 ini bercerita tentang\n                    Setelah dituduh membunuh seorang rekan, Cassian Lee menemui ajalnya. Saat dia mengira semuanya sudah berakhir, jiwanya tiba-tiba merasuki tubuh seorang anak laki-laki dan dia terbangun sebagai penjahat.",
   "chapters": [
     {
+      "chapter": "231",
+      "title": "Komik Villain To Kill Chapter 231",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjMxLw==",
+      "date": "31 menit yang lalu"
+    },
+    {
+      "chapter": "230",
+      "title": "Komik Villain To Kill Chapter 230",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjMwLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "229",
       "title": "Komik Villain To Kill Chapter 229",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjI5Lw==",
-      "date": "34 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "228",
@@ -36,7 +48,7 @@
       "chapter": "227",
       "title": "Komik Villain To Kill Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjI3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "226",
@@ -150,7 +162,7 @@
       "chapter": "209",
       "title": "Komik Villain To Kill Chapter 209",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjA5Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "208",
@@ -174,7 +186,7 @@
       "chapter": "205",
       "title": "Komik Villain To Kill Chapter 205",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjA1Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "204",
@@ -198,13 +210,13 @@
       "chapter": "201",
       "title": "Komik Villain To Kill Chapter 201",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjAxLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "200",
       "title": "Komik Villain To Kill Chapter 200",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjAwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "199",
@@ -228,13 +240,13 @@
       "chapter": "196",
       "title": "Komik Villain To Kill Chapter 196",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMTk2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "195",
       "title": "Komik Villain To Kill Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMTk1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "194",
@@ -306,7 +318,7 @@
       "chapter": "183",
       "title": "Komik Villain To Kill Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMTgzLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "182",
@@ -1407,5 +1419,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 231
+  "total_chapters": 233
 }

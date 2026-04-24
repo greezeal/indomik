@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.8,
-  "scraped_at": "2026-04-20T15:51:55.901238",
+  "scraped_at": "2026-04-24T14:32:52.773728",
   "alternative_titles": "今朝も揺られてます, Kesa Mo Yuraretemasu, Thình Thịch Mỗi Sớm Mai, They Are Still Being Shaken This Morning",
   "status": "Berjalan",
   "author": "Masuda Eiji",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Kesa Mo Yuraretemasu yang dibuat oleh komikus bernama\n                    Masuda Eiji ini bercerita tentang\n                    Ini adalah kisah khasmu tentang seorang laki-laki yang diam-diam jatuh cinta pada seorang perempuan. Mereka berdua berbagi perjalanan selama 20 menit dengan kereta komuter dalam perjalanan ke sekolah yang berbeda. Akankah laki-laki tersebut dapat mendekati perempuan tersebut dan mengakui cintanya? Dan juga... Apa yang dia tidak tahu: Ada 3 penumpang lain yang diam-diam mendukung cinta rahasia anak laki-laki tersebut terhadap gadis tersebut! Bacalah sekarang pesta pora yang terjadi ketika laki-laki mencoba mendekati perempuan; dari pencipta Jitsu wa Watashi wa dan Yumemi ga Oka Wonderland.",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik Kesa Mo Yuraretemasu Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci00MS8=",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci00MC8=",
-      "date": "29 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci0zOS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "38",
@@ -116,37 +122,37 @@
       "chapter": "25",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci0yNS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci0yNC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci0yMy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci0yMi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci0yMS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci0yMC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -263,5 +269,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }
