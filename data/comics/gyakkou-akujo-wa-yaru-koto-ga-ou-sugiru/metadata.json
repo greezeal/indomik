@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-22T22:12:03.315827",
+  "scraped_at": "2026-04-25T16:00:43.229888",
   "alternative_titles": "逆行悪女はやることが多すぎる, The Villainess Who Returned to the Past Has Too Much to Do, Penjahat wanita yang Kembali ke Masa Lalu punya terlalu Banyak Hal yang Harus Dilakukan",
   "status": "Berjalan",
   "author": "Michikusa Yamori",
@@ -24,22 +24,28 @@
   "synopsis": "Manga                    Gyakkou Akujo wa Yaru Koto ga Ou sugiru yang dibuat oleh komikus bernama\n                    Michikusa Yamori ini bercerita tentang\n                    Diana, lambang seorang wanita bangsawan, dijatuhi hukuman mati karena dituduh mencemarkan nama baik Rachel, kekasih tunangannya, Putra Mahkota August. Saat keputusasaan melandanya, seorang gadis mungil berbisik di telinganya, \"Terima kasih telah berperan sebagai penjahat yang menyedihkan ♡.\" Meskipun Diana marah karena dijebak, sudah terlambat—ia dieksekusi… atau begitulah kelihatannya. Ia terbangun tepat pada hari pesta teh yang menentukan yang menyebabkan kejatuhannya, waktu telah diputar balik! Dengan tekad bulat, ia bersumpah, \"Kali ini, aku akan menjadi penjahat yang lebih hebat darinya!\"\r\n\r\nNamun, hanya tersisa satu jam sebelum pesta teh! Untuk membersihkan namanya dan mengakali Rachel dengan menjadi penjahat terhebat, ia harus melakukan banyak hal—dan hampir tidak punya waktu untuk melakukannya! Perlombaan yang menegangkan dimulai bagi seorang wanita bangsawan yang melepaskan topeng keanggunannya untuk menghindari hukuman mati!",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Gyakkou Akujo wa Yaru Koto ga Ou sugiru Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3lha2tvdS1ha3Vqby13YS15YXJ1LWtvdG8tZ2Etb3Utc3VnaXJ1LWNoYXB0ZXItMTAv",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Gyakkou Akujo wa Yaru Koto ga Ou sugiru Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3lha2tvdS1ha3Vqby13YS15YXJ1LWtvdG8tZ2Etb3Utc3VnaXJ1LWNoYXB0ZXItOS8=",
-      "date": "32 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Gyakkou Akujo wa Yaru Koto ga Ou sugiru Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3lha2tvdS1ha3Vqby13YS15YXJ1LWtvdG8tZ2Etb3Utc3VnaXJ1LWNoYXB0ZXItOC8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Gyakkou Akujo wa Yaru Koto ga Ou sugiru Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3lha2tvdS1ha3Vqby13YS15YXJ1LWtvdG8tZ2Etb3Utc3VnaXJ1LWNoYXB0ZXItNy8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
@@ -78,5 +84,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }

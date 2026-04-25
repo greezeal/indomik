@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.62,
-  "scraped_at": "2026-04-15T15:23:40.787731",
+  "scraped_at": "2026-04-25T16:03:15.196968",
   "alternative_titles": "Shin Megami Tensei: Persona 3, ペルソナ3, 女神异闻录3",
   "status": "Berjalan",
   "author": "Atlus,Sogabe Shuuji",
@@ -40,10 +40,16 @@
   "synopsis": "Manga                    Persona 3 yang dibuat oleh komikus bernama\n                    Atlus,Sogabe Shuuji ini bercerita tentang\n                    Seorang remaja yang menjadi yatim piatu saat masih kecil kembali ke kota masa kecilnya. Tak lama setelah pindah ke SMA Gekkoukan, dia diserang oleh Shadows — makhluk yang memakan pikiran korbannya. Dia segera menemukan bahwa dia berbagi kemampuan khusus dengan siswa lain di sekolah barunya. Dari mereka, dia mengetahui tentang \"Jam Gelap\", sebuah waktu tersembunyi yang ada antara satu hari dan hari berikutnya, penuh dengan Bayangan. Dia bergabung dengan Pasukan Eksekusi Ekstrakurikuler Khusus (SEES), dan bersama teman-teman barunya, menghadapi ancaman dari Shadows.",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Persona 3 Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGVyc29uYS0zLWNoYXB0ZXItNy8=",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Persona 3 Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcGVyc29uYS0zLWNoYXB0ZXItNi8=",
-      "date": "11 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
@@ -82,5 +88,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }
