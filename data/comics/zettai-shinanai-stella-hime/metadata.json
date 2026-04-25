@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-27T10:38:22.811781",
+  "scraped_at": "2026-04-25T19:07:28.292151",
   "alternative_titles": "絶対死なないステラ姫, Stella Must Die, Stella, the Princess Who Will Never Die",
   "status": "Berjalan",
   "author": "Mitsunaga Yasunori",
@@ -31,11 +31,29 @@
   "synopsis": "Manga                    Zettai Shinanai Stella-hime yang dibuat oleh komikus bernama\n                    Mitsunaga Yasunori ini bercerita tentang\n                    Putri Stella, putri Kerajaan Lembah Bukit, yang kehilangan ayahnya, sang raja, berada di tengah perebutan tahta. Setelah menerima surat wasiat yang mewariskan tahta dan sebagian besar kekayaan raja kepada Stella, saudara iparnya, Illusia, berencana untuk membunuh Stella. Namun, rencananya selalu digagalkan oleh fenomena misterius. Kemudian, sebuah kebenaran yang mengejutkan terungkap... Apakah ada sesuatu di dalam diri sang putri?! Sebuah strategi untuk bertahan hidup di dunia lain pun dimulai!",
   "chapters": [
     {
+      "chapter": "3.1",
+      "title": "Komik Zettai Shinanai Stella-hime Chapter 3.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvemV0dGFpLXNoaW5hbmFpLXN0ZWxsYS1oaW1lLWNoYXB0ZXItMy0xLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "2.2",
+      "title": "Komik Zettai Shinanai Stella-hime Chapter 2.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvemV0dGFpLXNoaW5hbmFpLXN0ZWxsYS1oaW1lLWNoYXB0ZXItMi0yLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "2.1",
+      "title": "Komik Zettai Shinanai Stella-hime Chapter 2.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvemV0dGFpLXNoaW5hbmFpLXN0ZWxsYS1oaW1lLWNoYXB0ZXItMi0xLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Zettai Shinanai Stella-hime Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvemV0dGFpLXNoaW5hbmFpLXN0ZWxsYS1oaW1lLWNoYXB0ZXItMS8=",
-      "date": "5 jam yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 4
 }
