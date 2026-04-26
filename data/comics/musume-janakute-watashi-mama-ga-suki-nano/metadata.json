@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.63,
-  "scraped_at": "2026-04-24T14:27:58.683701",
+  "scraped_at": "2026-04-26T14:30:41.396988",
   "alternative_titles": "Kamu Suka Aku, Bukan Putriku?!, MAMASUKI, Musume Janakute, Watashi ga Suki Nano?!, You Like Me (Mama), Not My Daughter?!, 娘じゃなくて私が好きなの？！",
   "status": "Berjalan",
   "author": "Nozomi Kota",
@@ -19,16 +19,22 @@
   "synopsis": "Manga                    Musume Janakute, Watashi (Mama) ga Suki Nano?! yang dibuat oleh komikus bernama\n                    Nozomi Kota ini bercerita tentang\n                    Ini adalah komedi romantis yang dibintangi oleh seorang wanita dewasa berusia 30 tahun bernama Ayako yang diakui oleh seorang pria 10 tahun lebih muda, seorang mahasiswa berusia 20 tahun Takumi ... Seorang pria yang dia kenal sebagai anak laki-laki \"Takkun\" yang tinggal di sebelah dan yang telah membimbing putri angkatnya sejak dia berusia 10 tahun. Pengungkapan itu mengejutkannya saat dia mengira putrinya Miu dan dia adalah barang.",
   "chapters": [
     {
+      "chapter": "44",
+      "title": "Komik Musume Janakute, Watashi (Mama) ga Suki Nano?! Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVzdW1lLWphbmFrdXRlLXdhdGFzaGktbWFtYS1nYS1zdWtpLW5hbm8tY2hhcHRlci00NC8=",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "43",
       "title": "Komik Musume Janakute, Watashi (Mama) ga Suki Nano?! Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVzdW1lLWphbmFrdXRlLXdhdGFzaGktbWFtYS1nYS1zdWtpLW5hbm8tY2hhcHRlci00My8=",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Musume Janakute, Watashi (Mama) ga Suki Nano?! Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVzdW1lLWphbmFrdXRlLXdhdGFzaGktbWFtYS1nYS1zdWtpLW5hbm8tY2hhcHRlci00Mi8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "41",
@@ -52,7 +58,7 @@
       "chapter": "39",
       "title": "Komik Musume Janakute, Watashi (Mama) ga Suki Nano?! Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVzdW1lLWphbmFrdXRlLXdhdGFzaGktbWFtYS1nYS1zdWtpLW5hbm8tY2hhcHRlci0zOS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -385,5 +391,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 62
 }

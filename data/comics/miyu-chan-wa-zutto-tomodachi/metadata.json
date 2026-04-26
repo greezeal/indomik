@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.88,
-  "scraped_at": "2026-04-18T22:21:14.007477",
+  "scraped_at": "2026-04-26T14:33:05.140134",
   "alternative_titles": "みゆちゃんはずっと友達, Miyu-chan Will Always Be Your Friend, Miyu-chan Siempre Será tu Amiga, Miyu-chan Siempre Será tu Amiga",
   "status": "Berjalan",
   "author": "Hideki",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    Miyu-chan wa Zutto Tomodachi yang dibuat oleh komikus bernama\n                    Hideki ini bercerita tentang\n                    Pada musim panas tahun kedua sekolah menengahnya, sang protagonis, Yuushin Tahara, menemukan bahwa teman masa kecilnya, Miyu Fukagawa, yang telah pindah, telah kembali ke rumah sebelah. Meskipun Miyu telah tumbuh menjadi cukup imut, ada sesuatu yang sedikit aneh pada dirinya... Ini adalah komedi romantis yang segar dan menegangkan tentang protagonis yang lembut dan teman masa kecilnya yang lucu namun agak unik, bersama dengan teman-teman mereka dan petualangan yang mereka dapatkan. ke dalam!",
   "chapters": [
     {
+      "chapter": "32",
+      "title": "Komik Miyu-chan wa Zutto Tomodachi Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWl5dS1jaGFuLXdhLXp1dHRvLXRvbW9kYWNoaS1jaGFwdGVyLTMyLw==",
+      "date": "56 menit yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik Miyu-chan wa Zutto Tomodachi Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWl5dS1jaGFuLXdhLXp1dHRvLXRvbW9kYWNoaS1jaGFwdGVyLTMxLw==",
-      "date": "55 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Miyu-chan wa Zutto Tomodachi Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWl5dS1jaGFuLXdhLXp1dHRvLXRvbW9kYWNoaS1jaGFwdGVyLTMwLw==",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "29",
@@ -70,7 +76,7 @@
       "chapter": "24",
       "title": "Komik Miyu-chan wa Zutto Tomodachi Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWl5dS1jaGFuLXdhLXp1dHRvLXRvbW9kYWNoaS1jaGFwdGVyLTI0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -82,19 +88,19 @@
       "chapter": "22",
       "title": "Komik Miyu-chan wa Zutto Tomodachi Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWl5dS1jaGFuLXdhLXp1dHRvLXRvbW9kYWNoaS1jaGFwdGVyLTIyLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Miyu-chan wa Zutto Tomodachi Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWl5dS1jaGFuLXdhLXp1dHRvLXRvbW9kYWNoaS1jaGFwdGVyLTIxLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Miyu-chan wa Zutto Tomodachi Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWl5dS1jaGFuLXdhLXp1dHRvLXRvbW9kYWNoaS1jaGFwdGVyLTIwLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "19",
@@ -223,5 +229,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 34
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-31T09:54:59.212746",
+  "scraped_at": "2026-04-26T14:32:54.243059",
   "alternative_titles": "Eiyuu Blanc no Career Plan: Daini no Jinsei wa Zatsuyougakari de Onegaishimasu, Eiyū buran no jinsei keikaku daini no jinsei wa zatsuyō-gakari de onegaishimasu, The Former Strongest Hero Lives as a Side Character, 英雄ブランの人生計画 第二の人生は雑用係でお願いします",
   "status": "Berjalan",
   "author": "Miku (美紅)",
@@ -19,29 +19,47 @@
   "synopsis": "Manga                    The Former Strongest Hero Lives as a Side Character yang dibuat oleh komikus bernama\n                    Miku (美紅) ini bercerita tentang\n                    Blanc, Petualang Tingkat 0 terkuat, dikenal di seluruh dunia sebagai Kaisar Hitam. Setelah membunuh Naga Hitam yang menjerumuskan dunia ke dalam keputusasaan, ia menjadi pahlawan legendaris. Dan kemudian, ia membuat pernyataan mengejutkan: “Aku pensiun dari menjadi Petualang Tingkat 0.” Kini menempuh jalan baru, Blanc—yang pernah dipuji sebagai yang terkuat—mengambil pekerjaan serabutan sederhana saat ia memulai perjalanan penemuan diri yang tenang. Dari Miku, pencipta “The Fruit of Evolution”, hadir sebuah fantasi baru yang berani dan diwujudkan dalam skala epik!",
   "chapters": [
     {
+      "chapter": "3.3",
+      "title": "Komik The Former Strongest Hero Lives as a Side Character Chapter 3.3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1zdHJvbmdlc3QtaGVyby1saXZlcy1hcy1hLXNpZGUtY2hhcmFjdGVyLWNoYXB0ZXItMy0zLw==",
+      "date": "55 menit yang lalu"
+    },
+    {
+      "chapter": "3.2",
+      "title": "Komik The Former Strongest Hero Lives as a Side Character Chapter 3.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1zdHJvbmdlc3QtaGVyby1saXZlcy1hcy1hLXNpZGUtY2hhcmFjdGVyLWNoYXB0ZXItMy0yLw==",
+      "date": "55 menit yang lalu"
+    },
+    {
+      "chapter": "3.1",
+      "title": "Komik The Former Strongest Hero Lives as a Side Character Chapter 3.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1zdHJvbmdlc3QtaGVyby1saXZlcy1hcy1hLXNpZGUtY2hhcmFjdGVyLWNoYXB0ZXItMy0xLw==",
+      "date": "57 menit yang lalu"
+    },
+    {
       "chapter": "2.3",
       "title": "Komik The Former Strongest Hero Lives as a Side Character Chapter 2.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1zdHJvbmdlc3QtaGVyby1saXZlcy1hcy1hLXNpZGUtY2hhcmFjdGVyLWNoYXB0ZXItMi0zLw==",
-      "date": "30 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2.2",
       "title": "Komik The Former Strongest Hero Lives as a Side Character Chapter 2.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1zdHJvbmdlc3QtaGVyby1saXZlcy1hcy1hLXNpZGUtY2hhcmFjdGVyLWNoYXB0ZXItMi0yLw==",
-      "date": "30 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2.1",
       "title": "Komik The Former Strongest Hero Lives as a Side Character Chapter 2.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1zdHJvbmdlc3QtaGVyby1saXZlcy1hcy1hLXNpZGUtY2hhcmFjdGVyLWNoYXB0ZXItMi0xLw==",
-      "date": "30 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Former Strongest Hero Lives as a Side Character Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1zdHJvbmdlc3QtaGVyby1saXZlcy1hcy1hLXNpZGUtY2hhcmFjdGVyLWNoYXB0ZXItMS8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 7
 }

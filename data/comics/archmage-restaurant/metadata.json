@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.07,
-  "scraped_at": "2026-04-26T09:15:42.436512",
+  "scraped_at": "2026-04-26T14:28:20.521415",
   "alternative_titles": "어느 마법사의 식당, A Wizard's Restaurant, The Wizard's Restaurant, The Archmage's Restaurant",
   "status": "Berjalan",
   "author": "Bad Boys, chassi",
@@ -29,10 +29,16 @@
   "synopsis": "Manhwa                    Archmage Restaurant yang dibuat oleh komikus bernama\n                    Bad Boys, chassi ini bercerita tentang\n                    Seorang pria yang bereinkarnasi di dunia lain sebagai penyihir kelas 9 dan pensiun setelah menyelamatkan benua dari perang naga. Dia memutuskan untuk membuka restoran kecil di pedesaan, tetapi rutinitasnya tidak biasa. Di lantai dua restorannya, hiduplah seekor naga hitam yang telah menjelma menjadi seorang wanita bernama Rurin. Dia serakah, imut dan setia padanya, tapi juga cuek dan tidak mengerti tentang dunia manusia. Mereka menjalani kehidupan yang menyenangkan dan hangat, melayani pelanggan, memecahkan masalah, dan menanam bunga violet di taman.",
   "chapters": [
     {
+      "chapter": "128",
+      "title": "Komik Archmage Restaurant Chapter 128",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtcmVzdGF1cmFudC1jaGFwdGVyLTEyOC8=",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "127",
       "title": "Komik Archmage Restaurant Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtcmVzdGF1cmFudC1jaGFwdGVyLTEyNy8=",
-      "date": "27 menit yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "126",
@@ -104,7 +110,7 @@
       "chapter": "115",
       "title": "Komik Archmage Restaurant Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJjaG1hZ2UtcmVzdGF1cmFudC1jaGFwdGVyLTExNS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "114",
@@ -791,5 +797,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 127
+  "total_chapters": 128
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-26T09:14:32.598712",
+  "scraped_at": "2026-04-26T14:25:48.733922",
   "alternative_titles": "Goleiro 골레이로",
   "status": "Berjalan",
   "author": "",
@@ -18,16 +18,40 @@
   "synopsis": "Manhwa                    GOLIERO yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Kiper… Dengan tinggi 168cm?! Baek Seungwon dikeluarkan dari timnya akibat tinggi badannya yang dinilai kurang cocok untuk mengisi posisi kiper. Setelah itu, Baek Seungwon bersumpah bahwa dia tidak akan bermain sepak bola lagi. Tapi takdirnya berubah setelah dia bertemu dengan tim futsal yang bernama ‘Goranese’. Akankah Seungwon akan bisa tumbuh bersama dengan Goranese?!",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik GOLIERO Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTI2Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik GOLIERO Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTI1Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "24",
+      "title": "Komik GOLIERO Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTI0Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik GOLIERO Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTIzLw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik GOLIERO Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTIyLw==",
-      "date": "38 menit yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik GOLIERO Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTIxLw==",
-      "date": "40 menit yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "20",
@@ -150,5 +174,5 @@
       "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 26
 }

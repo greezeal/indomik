@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-25T16:04:18.901037",
+  "scraped_at": "2026-04-26T14:27:42.875989",
   "alternative_titles": "How to Live as the Enemy Prince, 적국의 왕자로 사는 법",
   "status": "Berjalan",
   "author": "Ja Seo Hyeon",
@@ -26,40 +26,52 @@
   "synopsis": "Manhwa                    Reborn As The Enemy Prince yang dibuat oleh komikus bernama\n                    Ja Seo Hyeon ini bercerita tentang\n                    Bayangkan menjadi saudara dengan musuh bebuyutan Anda.\r\nTewas dalam pertempuran saat membela negaranya, Bern terbangun di tubuh pangeran musuh, Kalian, dan bersumpah untuk membalaskan dendam rakyatnya. Namun antara menjinakkan saudara tirinya yang kejam dan selamat dari jaringan intrik mematikan ibunya, balas dendam yang manis tampaknya semakin lepas dari genggamannya di setiap kesempatan.",
   "chapters": [
     {
+      "chapter": "107",
+      "title": "Komik Reborn As The Enemy Prince Chapter 107",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDcv",
+      "date": "20 menit yang lalu"
+    },
+    {
+      "chapter": "106",
+      "title": "Komik Reborn As The Enemy Prince Chapter 106",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDYv",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "105",
       "title": "Komik Reborn As The Enemy Prince Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDUv",
-      "date": "35 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik Reborn As The Enemy Prince Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDQv",
-      "date": "35 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik Reborn As The Enemy Prince Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDMv",
-      "date": "35 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Reborn As The Enemy Prince Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDIv",
-      "date": "35 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "101",
       "title": "Komik Reborn As The Enemy Prince Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDEv",
-      "date": "37 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik Reborn As The Enemy Prince Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWFzLXRoZS1lbmVteS1wcmluY2UtY2hhcHRlci0xMDAv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "99",
@@ -662,5 +674,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 106
+  "total_chapters": 108
 }
