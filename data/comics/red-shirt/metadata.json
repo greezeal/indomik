@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.36,
-  "scraped_at": "2026-04-26T07:53:34.759871",
+  "scraped_at": "2026-04-26T09:13:10.526487",
   "alternative_titles": "레드셔츠, Червона сорочка",
   "status": "Berjalan",
   "author": "Punch Kick",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Red Shirt yang dibuat oleh komikus bernama\n                    Punch Kick ini bercerita tentang\n                    Legenda perusahaan pembunuh, Cha Si-hyuk. Ia memutuskan untuk pensiun setelah bertemu dengan wanita yang dicintainya, tetapi perusahaan tidak berniat melepaskannya begitu saja. Akhirnya, segalanya mulai diambil darinya, dan Cha Si-hyuk kembali mengangkat pedang. Balas dendam pun dimulai, dan perang dengan organisasi besar ‘Neville’ pun tak terelakkan... Apa yang tersisa di ujung pedang balas dendam?",
   "chapters": [
     {
+      "chapter": "55",
+      "title": "Komik Red Shirt Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNTUv",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "54",
       "title": "Komik Red Shirt Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNTQv",
-      "date": "10 jam yang lalu"
+      "date": "16 jam yang lalu"
     },
     {
       "chapter": "53",
@@ -274,74 +280,74 @@
       "chapter": "12",
       "title": "Komik Red Shirt Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItMTIv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Red Shirt Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItMTEv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Red Shirt Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItMTAv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Red Shirt Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItOS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Red Shirt Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItOC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Red Shirt Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNy8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Red Shirt Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNi8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Red Shirt Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Red Shirt Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItNC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Red Shirt Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItMy8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Red Shirt Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItMi8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Red Shirt Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVkLXNoaXJ0LWNoYXB0ZXItMS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 55
 }

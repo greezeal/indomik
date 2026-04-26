@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.84,
-  "scraped_at": "2026-04-25T16:06:05.800074",
+  "scraped_at": "2026-04-26T09:10:00.107294",
   "alternative_titles": "他校のボーイッシュ彼女, Boyish Girlfriend from Another School",
   "status": "Berjalan",
   "author": "Gyuunyuu Mugigohan",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Takou no Boyish Kanojo yang dibuat oleh komikus bernama\n                    Gyuunyuu Mugigohan ini bercerita tentang\n                    Pacar tomboy dari Sekolah Lain",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik Takou no Boyish Kanojo Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTQxLw==",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik Takou no Boyish Kanojo Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTQwLw==",
-      "date": "45 menit yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "39",
@@ -54,7 +60,7 @@
       "chapter": "35",
       "title": "Komik Takou no Boyish Kanojo Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTM1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -66,7 +72,7 @@
       "chapter": "33",
       "title": "Komik Takou no Boyish Kanojo Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTMzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -255,5 +261,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 39
+  "total_chapters": 40
 }

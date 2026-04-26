@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.76,
-  "scraped_at": "2026-04-19T21:29:20.964270",
+  "scraped_at": "2026-04-26T09:12:13.526814",
   "alternative_titles": "Death Flags, Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai, Orefura, 不知我的死亡flag将于何处停止, 俺の死亡フラグが留まるところを知らない, 俺フラ, 내 사망플래그가 그칠 줄 모른다",
   "status": "Berjalan",
   "author": "Izumi",
@@ -28,10 +28,16 @@
   "synopsis": "Manga                    My Death Flags Show No Sign of Ending yang dibuat oleh komikus bernama\n                    Izumi ini bercerita tentang\n                    Ketika dia sadar, Hirasawa Kazuki, seorang mahasiswa biasa, mendapati dirinya memiliki tubuh dari sebuah karakter permainan.\r\n\r\nTerlebih lagi, Harold Stokes, tokoh cerita yang paling dibenci yang bahkan diberi gelar 『King of tr * sh』 oleh para pemain. Banyak sekali ranjau darat menunggu dia untuk menginjak mereka, seperti bendera kematian!\r\n\r\nAkankah Harold dapat membersihkan rute bertahan hidup sambil menghindari bendera kematian yang tak terhitung jumlahnya di jalannya ?!",
   "chapters": [
     {
+      "chapter": "87",
+      "title": "Komik My Death Flags Show No Sign of Ending Chapter 87",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGVhdGgtZmxhZ3Mtc2hvdy1uby1zaWduLW9mLWVuZGluZy1jaGFwdGVyLTg3Lw==",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "86",
       "title": "Komik My Death Flags Show No Sign of Ending Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGVhdGgtZmxhZ3Mtc2hvdy1uby1zaWduLW9mLWVuZGluZy1jaGFwdGVyLTg2Lw==",
-      "date": "41 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "85",
@@ -580,5 +586,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 92
+  "total_chapters": 93
 }

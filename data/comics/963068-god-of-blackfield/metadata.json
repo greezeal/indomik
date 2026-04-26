@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.13,
-  "scraped_at": "2026-04-19T21:29:56.316484",
+  "scraped_at": "2026-04-26T09:13:52.091530",
   "alternative_titles": "گاد آف بلک‌فیلد, 갓 오브 블랙필드",
   "status": "Berjalan",
   "author": "무장, 운(雲)",
@@ -29,46 +29,52 @@
   "synopsis": "Manhwa                    God of Blackfield yang dibuat oleh komikus bernama\n                    무장, 운(雲) ini bercerita tentang\n                    \"Siapa saya?\"\r\n\r\nLegenda Legiun Asing Prancis, 'Kang Chan'!\r\nSelama perang Afrika, dia dipanggil 'Dewa Blackfield', Dewa tanah hitam, oleh musuh-musuhnya yang ketakutan tetapi kagum padanya.\r\nNamun, dalam misi untuk membunuh Masallan, otak di belakang SISS, kelompok pendukung sunni, Kang Chan tewas dalam aksi tembakan peluru tak dikenal dari belakangnya.\r\nSaat penglihatannya menjadi kabur, dia melihat tiga belas anggota timnya, yang memiliki keyakinan mutlak padanya, terbunuh satu demi satu.\r\nSaat Kang Chan sedang menunggu kematian setelah ditembak oleh seorang pengkhianat, dia diselamatkan oleh kekuatan misterius dan terbangun 3 tahun kemudian di Korea Selatan.\r\nNamun, dia berada di tubuh 'Kang Chan' yang lain, seorang anak SMA berusia 19 tahun yang di-bully di sekolah.\r\n\r\nPerjalanan Kang Chan untuk membalas dendam pada pengkhianat dan untuk menemukan kebenaran di balik kelahirannya kembali dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "316",
+      "title": "Komik God of Blackfield Chapter 316",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMTYv",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "315",
       "title": "Komik God of Blackfield Chapter 315",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMTUv",
-      "date": "7 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "314",
       "title": "Komik God of Blackfield Chapter 314",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMTQv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "313",
       "title": "Komik God of Blackfield Chapter 313",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMTMv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "312",
       "title": "Komik God of Blackfield Chapter 312",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMTIv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "311",
       "title": "Komik God of Blackfield Chapter 311",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMTEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "310",
       "title": "Komik God of Blackfield Chapter 310",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMTAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "309",
       "title": "Komik God of Blackfield Chapter 309",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0zMDkv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "308",
@@ -1058,13 +1064,13 @@
       "chapter": "144",
       "title": "Komik God of Blackfield Chapter 144",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0xNDQv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "143",
       "title": "Komik God of Blackfield Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29kLW9mLWJsYWNrZmllbGQtY2hhcHRlci0xNDMv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "142",
@@ -1919,5 +1925,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 315
+  "total_chapters": 316
 }
