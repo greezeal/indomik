@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.56,
-  "scraped_at": "2026-04-19T21:31:06.251680",
+  "scraped_at": "2026-04-26T16:10:11.342891",
   "alternative_titles": "Be Blues!, Be Blues! - Ao ni Nare, BE BLUES! ~นักเตะเลือดซามูไร~, BE BLUES!～化身为青～, BE BLUES!~化身為青~, BE BLUES!～青になれ～, BE BLUES!~파랑수~, Вперёд, Синие!, ビーブルーズ!　〜あおになれ〜",
   "status": "Berjalan",
   "author": "Tanaka Motoyuki",
@@ -23,10 +23,22 @@
   "synopsis": "Manga                    BE BLUES ~Ao ni Nare~ yang dibuat oleh komikus bernama\n                    Tanaka Motoyuki ini bercerita tentang\n                    Jika Anda lahir di Jepang dan bermain sepak bola, pada akhirnya Anda ingin mengenakan seragam tim nasional! Itu sama untuk semua orang! Ichijou Ryuu adalah anak laki-laki yang bermimpi menjadi pemain tim nasional Jepang. Dengan teman kembar masa kecilnya, Yuuto dan Yuki, tujuan pertama mereka adalah memenangkan Kejuaraan Sepak Bola U-12 Jepang!\r\nKegembiraan satu lawan satu! Ketegangan di depan gawang! Kegembiraan karena melakukan permainan link up yang sempurna! Inti dari apa yang membuat sepak bola menyenangkan ada di sini.",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTIwLw==",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTE5Lw==",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTE4Lw==",
-      "date": "8 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
@@ -131,5 +143,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 20
 }
