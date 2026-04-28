@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-28T04:14:34.535473",
+  "scraped_at": "2026-04-28T11:23:50.306917",
   "alternative_titles": "The Poison Master of Sacheondang Clan, 파브르 in 사천당가",
   "status": "Berjalan",
   "author": "에르훗",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    Entomologist in Sichuan Tang Clan yang dibuat oleh komikus bernama\n                    에르훗 ini bercerita tentang\n                    Streamer dengan subcriber jutaan, Spicy Fabre, dikenal sebagai ahlinya racun dan serangga beracun mati tergigit ular black mamba dalam perjalanan memotret di afrika dan mengalami reinkarnasi ke dunia murim.\r\n\r\nStreamer yang memelihara banyak serangga beracun di dalam hutan menarik perhatian klan tang dari sichuan, klan yang terkenal karena kemampuan mereka dalam hal racun, sekarang mereka menginginkannya.\r\n\r\n“Bergabunglah dengan kami dan jadilah anggota klan.”",
   "chapters": [
     {
+      "chapter": "83",
+      "title": "Komik Entomologist in Sichuan Tang Clan Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItODMv",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "82",
       "title": "Komik Entomologist in Sichuan Tang Clan Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW50b21vbG9naXN0LWluLXNpY2h1YW4tdGFuZy1jbGFuLWNoYXB0ZXItODIv",
-      "date": "3 jam yang lalu"
+      "date": "16 jam yang lalu"
     },
     {
       "chapter": "81",
@@ -513,5 +519,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 82
+  "total_chapters": 83
 }
