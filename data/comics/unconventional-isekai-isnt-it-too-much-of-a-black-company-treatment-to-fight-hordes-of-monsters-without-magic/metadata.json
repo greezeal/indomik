@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-24T14:28:56.836746",
+  "scraped_at": "2026-04-28T04:10:04.710397",
   "alternative_titles": "地味異世界～魔法ナシで化物の大群と戦えってブラックすぎません？～, Unconventional Isekai: Isn\\'t It Too Much of a Black-Company Treatment to Fight Hordes of Monsters Without Magic?",
   "status": "Berjalan",
   "author": "Fujita Kumori",
@@ -25,23 +25,29 @@
   "synopsis": "Manga                    Unconventional Isekai: Isn’t It Too Much of a Black-Company Treatment to Fight Hordes of Monsters without Magic? yang dibuat oleh komikus bernama\n                    Fujita Kumori ini bercerita tentang\n                    Seorang karyawan perusahaan dari \"perusahaan gelap\" bereinkarnasi ke dunia lain di mana sihir dan kekuatan psikis tidak ada, tetapi semakin keras Anda berlatih, semakin kuat Anda jadinya?!\r\n\r\nJauh dari idealisme tipikal, ini adalah fantasi isekai yang realistis dan tanpa basa-basi!",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Unconventional Isekai: Isn’t It Too Much of a Black-Company Treatment to Fight Hordes of Monsters without Magic? Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5jb252ZW50aW9uYWwtaXNla2FpLWlzbnQtaXQtdG9vLW11Y2gtb2YtYS1ibGFjay1jb21wYW55LXRyZWF0bWVudC10by1maWdodC1ob3JkZXMtb2YtbW9uc3RlcnMtd2l0aG91dC1tYWdpYy1jaGFwdGVyLTQv",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Unconventional Isekai: Isn’t It Too Much of a Black-Company Treatment to Fight Hordes of Monsters without Magic? Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5jb252ZW50aW9uYWwtaXNla2FpLWlzbnQtaXQtdG9vLW11Y2gtb2YtYS1ibGFjay1jb21wYW55LXRyZWF0bWVudC10by1maWdodC1ob3JkZXMtb2YtbW9uc3RlcnMtd2l0aG91dC1tYWdpYy1jaGFwdGVyLTMv",
-      "date": "14 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Unconventional Isekai: Isn’t It Too Much of a Black-Company Treatment to Fight Hordes of Monsters without Magic? Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5jb252ZW50aW9uYWwtaXNla2FpLWlzbnQtaXQtdG9vLW11Y2gtb2YtYS1ibGFjay1jb21wYW55LXRyZWF0bWVudC10by1maWdodC1ob3JkZXMtb2YtbW9uc3RlcnMtd2l0aG91dC1tYWdpYy1jaGFwdGVyLTIv",
-      "date": "14 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Unconventional Isekai: Isn’t It Too Much of a Black-Company Treatment to Fight Hordes of Monsters without Magic? Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5jb252ZW50aW9uYWwtaXNla2FpLWlzbnQtaXQtdG9vLW11Y2gtb2YtYS1ibGFjay1jb21wYW55LXRyZWF0bWVudC10by1maWdodC1ob3JkZXMtb2YtbW9uc3RlcnMtd2l0aG91dC1tYWdpYy1jaGFwdGVyLTEv",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }

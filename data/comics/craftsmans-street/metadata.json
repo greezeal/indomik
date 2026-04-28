@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-25T16:03:45.857409",
-  "alternative_titles": "Artisan's District, 장인의 거리",
+  "scraped_at": "2026-04-28T04:08:53.574305",
+  "alternative_titles": "Artisan\\'s District, 장인의 거리",
   "status": "Berjalan",
   "author": "kain_y",
   "illustrator": "Hojae",
@@ -18,23 +18,47 @@
   "synopsis": "Manhwa                    Craftsman’s Street yang dibuat oleh komikus bernama\n                    kain_y ini bercerita tentang\n                    Setelah kehilangan orang tuanya saat masih kecil dan menjadi budak pasukan Raja Iblis, ia diselamatkan oleh sang pahlawan \"Uta.\" Kemudian ia mengambil palunya dan menuju Jalan Para Pengrajin, mencari apa yang benar-benar diinginkannya.\r\n\r\nKisah para pandai besi yang membantunya, yang tidak ditemukan dalam dongeng sang pahlawan, diceritakan di sini. \"Selamat datang di Jalan Para Pengrajin.\"",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Craftsman’s Street Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JhZnRzbWFucy1zdHJlZXQtY2hhcHRlci02Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Craftsman’s Street Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JhZnRzbWFucy1zdHJlZXQtY2hhcHRlci01Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Craftsman’s Street Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JhZnRzbWFucy1zdHJlZXQtY2hhcHRlci00Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Craftsman’s Street Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JhZnRzbWFucy1zdHJlZXQtY2hhcHRlci0zLw==",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Craftsman’s Street Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JhZnRzbWFucy1zdHJlZXQtY2hhcHRlci0yLw==",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Craftsman’s Street Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JhZnRzbWFucy1zdHJlZXQtY2hhcHRlci0xLw==",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "0",
       "title": "Komik Craftsman’s Street Chapter 0",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JhZnRzbWFucy1zdHJlZXQtY2hhcHRlci0wLw==",
-      "date": "38 menit yang lalu"
+      "date": "2 hari yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 7
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.19,
-  "scraped_at": "2026-04-24T03:57:24.246589",
+  "scraped_at": "2026-04-28T04:14:15.242003",
   "alternative_titles": "A Hero Who Does Everything Perfectly, 다 잘하는 히어로",
   "status": "Berjalan",
   "author": "Hwang Gyu Young",
@@ -20,22 +20,28 @@
   "synopsis": "Manhwa                    A Hero Who Does Everything Well yang dibuat oleh komikus bernama\n                    Hwang Gyu Young ini bercerita tentang\n                    Pada tahun 2024, Na Gang-in terbangun di jantung Korea Selatan. Ia tidak ingat siapa dirinya atau di mana ia berada, tetapi melalui AI pendukung tempur bernama Jeon Ji-in yang tertanam di tubuhnya, ia menemukan bahwa ia berafiliasi dengan Earth Alliance dari tahun 2082. Untuk mendapatkan kembali ingatannya dan mencari tahu mengapa ia berakhir di sini, ia perlu mengumpulkan informasi... Dengan hanya bermodalkan banyak keterampilan, inilah perjalanan canggung Na Gang-in untuk beradaptasi dengan Bumi!",
   "chapters": [
     {
+      "chapter": "74",
+      "title": "Komik A Hero Who Does Everything Well Chapter 74",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTc0Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "73",
       "title": "Komik A Hero Who Does Everything Well Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTczLw==",
-      "date": "18 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik A Hero Who Does Everything Well Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTcyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik A Hero Who Does Everything Well Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTcxLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "70",
@@ -77,7 +83,7 @@
       "chapter": "64",
       "title": "Komik A Hero Who Does Everything Well Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTY0Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "63",
@@ -458,5 +464,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 73
+  "total_chapters": 74
 }

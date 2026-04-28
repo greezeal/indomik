@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-26T19:59:48.500082",
+  "scraped_at": "2026-04-28T04:12:53.715910",
   "alternative_titles": "Dara-san of Reiwa, Reiwa Dara-san, 令和のダラさん",
   "status": "Berjalan",
   "author": "TOMOTSUKA Haruomi",
@@ -22,34 +22,40 @@
   "synopsis": "Manga                    Reiwa no Dara-san yang dibuat oleh komikus bernama\n                    TOMOTSUKA Haruomi ini bercerita tentang\n                    Awan menghitamkan langit dan hujan deras mengubah hutan pegunungan menjadi labirin yang berbahaya. Tanah longsor menghancurkan pagar kawat berduri dan mengubur papan tanda \"DILARANG MASUK\". Saat dua saudara kandung muda memasuki dunia gelap yang bukan milik mereka, bayangan panjang dan mengerikan muncul untuk menyambut mereka, dan \"Lihat, aku dewa jahat, oke?! Kalian tidak akan ketakutan melihat wajahku yang mengerikan?!\" Pokoknya, begitulah cara kita bertemu Dara-san! Dia mungkin terlihat agak menakutkan, tapi tunggu sampai kalian mengenalnya!",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Reiwa no Dara-san Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0yMS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Reiwa no Dara-san Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0yMC8=",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Reiwa no Dara-san Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0xOS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Reiwa no Dara-san Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0xOC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "17.5",
       "title": "Komik Reiwa no Dara-san Chapter 17.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0xNy01Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Reiwa no Dara-san Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0xNy8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "16",
@@ -73,13 +79,13 @@
       "chapter": "13",
       "title": "Komik Reiwa no Dara-san Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0xMy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Reiwa no Dara-san Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci0xMi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "11",
@@ -121,7 +127,7 @@
       "chapter": "6",
       "title": "Komik Reiwa no Dara-san Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpd2Etbm8tZGFyYS1zYW4tY2hhcHRlci02Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
@@ -154,5 +160,5 @@
       "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

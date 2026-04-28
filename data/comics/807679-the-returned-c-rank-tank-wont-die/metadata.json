@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.24,
-  "scraped_at": "2026-04-26T19:58:52.612750",
+  "scraped_at": "2026-04-28T04:14:20.132988",
   "alternative_titles": "회귀한 C급 탱커가 죽지 않아!, Kembalinya Tank Rank-C Yang Tidak Akan Mati!",
   "status": "Berjalan",
   "author": "커피펜,또민,부숭",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    The Returned C-Rank Tank Won’t Die! yang dibuat oleh komikus bernama\n                    커피펜,또민,부숭 ini bercerita tentang\n                    Seorang tank peringkat C, yang ditinggalkan oleh rekan satu timnya hingga mati, membangkitkan kemampuan regeneratif yang langka setelah mengalami kematian yang tak terhitung jumlahnya. Sekarang abadi tetapi trauma, ia harus memutuskan langkah selanjutnya di dunia yang mengkhianatinya.",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik The Returned C-Rank Tank Won’t Die! Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybmVkLWMtcmFuay10YW5rLXdvbnQtZGllLWNoYXB0ZXItNTQv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "53",
       "title": "Komik The Returned C-Rank Tank Won’t Die! Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybmVkLWMtcmFuay10YW5rLXdvbnQtZGllLWNoYXB0ZXItNTMv",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "52",
@@ -156,7 +162,7 @@
       "chapter": "31",
       "title": "Komik The Returned C-Rank Tank Won’t Die! Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybmVkLWMtcmFuay10YW5rLXdvbnQtZGllLWNoYXB0ZXItMzEv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -339,5 +345,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 53
+  "total_chapters": 54
 }
