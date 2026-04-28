@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T17:22:51.700700",
-  "total_comics": 1514,
+  "last_updated": "2026-04-28T20:50:42.550802",
+  "total_comics": 1516,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -56,7 +56,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 122
+      "total_chapters": 123
     },
     {
       "slug": "583721-swordmasters-youngest-son",
@@ -360,7 +360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 52
+      "total_chapters": 54
     },
     {
       "slug": "archmage-curriculum",
@@ -1470,9 +1470,9 @@
       "slug": "663834-death-god",
       "title": "Death God",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.08,
+      "total_chapters": 127
     },
     {
       "slug": "shiunji-ke-no-kodomo-tachi",
@@ -1848,7 +1848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 113
+      "total_chapters": 114
     },
     {
       "slug": "immortals-are-slaves-gods-are-servants-and-the-emperor-is-the-watchdog",
@@ -2056,7 +2056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "the-crown-prince-that-sells-medicine",
@@ -2080,7 +2080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 73
+      "total_chapters": 76
     },
     {
       "slug": "847799-myst-might-mayhem",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 130
+      "total_chapters": 131
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2176,7 +2176,7 @@
       "type": "Manhwa",
       "status": "Hiatus",
       "rating": 8.59,
-      "total_chapters": 182
+      "total_chapters": 183
     },
     {
       "slug": "tower-of-god-side-story-urek-mazino",
@@ -2320,7 +2320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 165
+      "total_chapters": 166
     },
     {
       "slug": "reincarnators-stream",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 502
+      "total_chapters": 504
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 397
+      "total_chapters": 399
     },
     {
       "slug": "god-of-martial-arts",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 261
+      "total_chapters": 265
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4112,7 +4112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "tensei-shitara-ken-deshita",
@@ -4696,7 +4696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 169
+      "total_chapters": 170
     },
     {
       "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
@@ -4912,7 +4912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "sss-level-paladin-who-breaks-all-logic",
@@ -5184,7 +5184,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "545921-revenge-of-the-iron-blooded-sword-hound",
@@ -5288,7 +5288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.54,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "netoge-no-yome-ga-ninki-idol-datta",
@@ -5720,7 +5720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "the-new-employee-kim-chul-soo",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -5856,7 +5856,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "to-save-seven-villainesses-i-went-full-harem",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 43
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6176,7 +6176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "remonster",
@@ -6504,7 +6504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 158
+      "total_chapters": 159
     },
     {
       "slug": "367309-the-necromancer-familys-young-heir",
@@ -6616,7 +6616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 99
+      "total_chapters": 100
     },
     {
       "slug": "isshiki-san-wa-koi-wo-shiritai",
@@ -8856,7 +8856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 32
     },
     {
       "slug": "red-shirt",
@@ -9216,7 +9216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "ai-da-toka-fukushuu-da-toka",
@@ -9248,7 +9248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "tier-1-shimai-yuumei-yonshimai-wa-boku-nashi-de-wa-ikirarenai",
@@ -9472,7 +9472,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 3
     },
     {
       "slug": "on-my-way-to-see-my-mom",
@@ -9480,7 +9480,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 6.8,
-      "total_chapters": 37
+      "total_chapters": 39
     },
     {
       "slug": "kankin-ou",
@@ -9864,7 +9864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 114
+      "total_chapters": 119
     },
     {
       "slug": "the-masters-are-watching-over-me",
@@ -10088,7 +10088,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 13
     },
     {
       "slug": "the-merciless-fairy-shall-become-a-cultivation-vessel",
@@ -10264,7 +10264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 451
+      "total_chapters": 456
     },
     {
       "slug": "548726-kengan-omega",
@@ -10536,7 +10536,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "motome-sugaki-no-zako-sotsugyou%e2%99%a1",
@@ -10872,7 +10872,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 50
     },
     {
       "slug": "urakata-de-support-shiteta-geinou-ikka-wo-tsuihousareta-boku-wa-futsuu-no-seishun-wo-ouka-shitai",
@@ -10992,7 +10992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 26
     },
     {
       "slug": "gyaru-shinkan-wa-rizare-ga-darui",
@@ -11560,7 +11560,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 74
+      "total_chapters": 75
     },
     {
       "slug": "my-recently-hired-maid-is-suspicious",
@@ -11904,7 +11904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 13
     },
     {
       "slug": "watashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta",
@@ -12113,6 +12113,22 @@
       "status": "Berjalan",
       "rating": 7.25,
       "total_chapters": 45
+    },
+    {
+      "slug": "monster-pet-evolution",
+      "title": "Monster Pet Evolution",
+      "type": "Manhua",
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 398
+    },
+    {
+      "slug": "i-randomly-have-a-new-career-every-week",
+      "title": "I Randomly Have A New Career Every Week",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 859
     }
   ]
 }

@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-12T09:01:54.322331",
-  "alternative_titles": "小さくて可愛い文芸部の知的な先輩を、膝の上に乗せたら毎日座ってくるようになった, After I Let The Small And Cute Intellectual Senior Of The Literature Club Sit On My Lap, She Started Sitting There Every Day, Từ ngày tôi để đàn chị trong câu lạc bộ văn học nhỏ nhắn, đáng iu, tri thức ngồi lên đùi",
+  "scraped_at": "2026-04-28T20:44:20.334980",
+  "alternative_titles": "小さくて可愛い文芸部の知的な先輩を、膝の上に乗せたら毎日座ってくるようになった, After I Let The Small And Cute Intellectual Senior Of The Literature Club Sit On My Lap, She Started Sitting There Every Day, Từ ngày tôi để đàn chị trong câu lạc bộ văn học nhỏ nhắn, đáng iu, tri thức ngồi lên đùi. Ngày nào chị ấy cũng tìm đến tôi., Ghế đùi của Tiền Bối CLB Văn học",
   "status": "Berjalan",
   "author": "Kanro Ame, Yumeigetsu",
   "illustrator": "Kanro Ame",
@@ -21,11 +21,23 @@
   "synopsis": "Manga                    Chiisakute Kawaii Bungeibu no Chiteki na Senpai o, Hiza no Ue ni Nosetara Mainichi Suwattekuru you ni natta yang dibuat oleh komikus bernama\n                    Kanro Ame, Yumeigetsu ini bercerita tentang\n                    Suatu hari, kursi-kursi di Klub Sastra dipinjamkan ke klub lain, hanya menyisakan satu kursi.Kakeru dan Yuzu memulai perdebatan ringan, masing-masing berusaha memberikan kursi yang tersisa kepada yang lain.Masing-masing ingin yang lain duduk lebih sering daripada mereka. Karena kebaikan mereka yang saling timbal balik, tidak ada yang mau mengalah, sehingga terjadi kebuntuan—sampai akhirnya, pendapat Yuzu menang, dan Kakeru akhirnya duduk di kursi sendirian.Kakeru merasa bersalah karena hanya dia yang duduk, tetapi saat itu juga, ia mendapat ilham.“Karena akulah yang duduk di kursi, jika aku menjadi kursi dan membiarkan Yuzu-senpai duduk di pangkuanku… bukankah itu akan berhasil?”…Begitulah pikirnya.",
   "chapters": [
     {
+      "chapter": "2.2",
+      "title": "Komik Chiisakute Kawaii Bungeibu no Chiteki na Senpai o, Hiza no Ue ni Nosetara Mainichi Suwattekuru you ni natta Chapter 2.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpaXNha3V0ZS1rYXdhaWktYnVuZ2VpYnUtbm8tY2hpdGVraS1uYS1zZW5wYWktby1oaXphLW5vLXVlLW5pLW5vc2V0YXJhLW1haW5pY2hpLXN1d2F0dGVrdXJ1LXlvdS1uaS1uYXR0YS1jaGFwdGVyLTItMi8=",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "2.1",
+      "title": "Komik Chiisakute Kawaii Bungeibu no Chiteki na Senpai o, Hiza no Ue ni Nosetara Mainichi Suwattekuru you ni natta Chapter 2.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpaXNha3V0ZS1rYXdhaWktYnVuZ2VpYnUtbm8tY2hpdGVraS1uYS1zZW5wYWktby1oaXphLW5vLXVlLW5pLW5vc2V0YXJhLW1haW5pY2hpLXN1d2F0dGVrdXJ1LXlvdS1uaS1uYXR0YS1jaGFwdGVyLTItMS8=",
+      "date": "3 minggu yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Chiisakute Kawaii Bungeibu no Chiteki na Senpai o, Hiza no Ue ni Nosetara Mainichi Suwattekuru you ni natta Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpaXNha3V0ZS1rYXdhaWktYnVuZ2VpYnUtbm8tY2hpdGVraS1uYS1zZW5wYWktby1oaXphLW5vLXVlLW5pLW5vc2V0YXJhLW1haW5pY2hpLXN1d2F0dGVrdXJ1LXlvdS1uaS1uYXR0YS1jaGFwdGVyLTEv",
-      "date": "57 menit yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 3
 }

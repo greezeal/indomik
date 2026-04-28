@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-22T22:09:22.933132",
+  "scraped_at": "2026-04-28T20:47:41.938126",
   "alternative_titles": "狐面夫婦, Evil masked couple can\\'t be honest., Fox-Faced Husband And Wife, Fox Faced Couple, Fox Mask Couple",
   "status": "Berjalan",
   "author": "IWATOBINEKO",
@@ -27,65 +27,83 @@
   "synopsis": "Manga                    Komen Fuufu yang dibuat oleh komikus bernama\n                    IWATOBINEKO ini bercerita tentang\n                    Di dunia di mana hal-hal supernatural berbaur dengan kehidupan biasa, terdapat sebuah rumah tua Jepang. Di sana tinggallah pasangan pengantin baru, seorang pria manusia dan seorang wanita kitsune. Apa yang dapat mengganggu kehidupan bahagia mereka bersama… kecuali seekor burung pipit pemakan manusia?\r\n\r\nKehidupan sehari-hari antara manusia dan youkai berbahaya di siang hari, tetapi manis di malam hari!?",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Komen Fuufu Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xMy8=",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Komen Fuufu Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xMi8=",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Komen Fuufu Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xMS8=",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Komen Fuufu Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xMC8=",
-      "date": "13 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Komen Fuufu Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci05Lw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Komen Fuufu Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci04Lw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Komen Fuufu Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci03Lw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Komen Fuufu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci02Lw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Komen Fuufu Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci01Lw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Komen Fuufu Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci00Lw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Komen Fuufu Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0zLw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Komen Fuufu Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0yLw==",
-      "date": "14 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Komen Fuufu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 13
 }

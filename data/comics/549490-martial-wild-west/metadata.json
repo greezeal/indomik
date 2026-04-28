@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-28T04:14:05.295640",
+  "scraped_at": "2026-04-28T20:45:17.115384",
   "alternative_titles": "무림서부",
   "status": "Berjalan",
   "author": "웨스트, 정한길, 컵라면",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    Martial Wild West yang dibuat oleh komikus bernama\n                    웨스트, 정한길, 컵라면 ini bercerita tentang\n                    Ketika kaisar mempertahankan kekaisaran selama seribu tahun dengan aturan berdarah besi melalui seni bela diri, hanya tentara kekaisaran, mu-gong, yang bertahan sebagai kekuatan dan hukumnya, dan seni bela diri klasik runtuh. Jang Geon, sang protagonis, adalah seorang maniak seni bela diri yang telah bereinkarnasi di dunia ini. Akankah dia mampu menghidupkan kembali seni bela diri klasik yang selama ini dia rindukan? Inti dari seni bela diri otentik yang terjadi di perbatasan Benua Barat!",
   "chapters": [
     {
+      "chapter": "121",
+      "title": "Komik Martial Wild West Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMjEv",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "120",
       "title": "Komik Martial Wild West Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMjAv",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "119",
       "title": "Komik Martial Wild West Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMTkv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "118",
@@ -50,13 +56,13 @@
       "chapter": "116",
       "title": "Komik Martial Wild West Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMTYv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "115",
       "title": "Komik Martial Wild West Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "114",
@@ -110,7 +116,7 @@
       "chapter": "106",
       "title": "Komik Martial Wild West Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMDYv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "105",
@@ -692,7 +698,7 @@
       "chapter": "10",
       "title": "Komik Martial Wild West Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFydGlhbC13aWxkLXdlc3QtY2hhcHRlci0xMC8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "9",
@@ -755,5 +761,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 122
+  "total_chapters": 123
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-02T12:42:14.398210",
+  "scraped_at": "2026-04-28T20:44:43.731547",
   "alternative_titles": "めんとりさま",
   "status": "Berjalan",
   "author": "Camry",
@@ -23,35 +23,41 @@
   "synopsis": "Manga                    Mentori-Sama yang dibuat oleh komikus bernama\n                    Camry ini bercerita tentang\n                    Liburan musim panas di tahun ketiga kuliahku. Sebuah rumah pedesaan yang sangat panas. Sebuah gudang gelap yang tidak boleh dimasuki.Nenekku terus menggumamkan hal yang sama berulang-ulang: ‘Mentori-sama sedang mengawasi.’Tapi tidak apa-apa karena aku punya kakak perempuanku.Sebuah kisah horor rakyat yang mencekam tentang ikatan darah dan adat istiadat yang terkubur pun dimulai.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Mentori-Sama Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItNi8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Mentori-Sama Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItNS8=",
-      "date": "9 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Mentori-Sama Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItNC8=",
-      "date": "9 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Mentori-Sama Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItMy8=",
-      "date": "9 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Mentori-Sama Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItMi8=",
-      "date": "9 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Mentori-Sama Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItMS8=",
-      "date": "9 jam yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }
