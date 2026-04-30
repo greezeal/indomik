@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T16:54:31.822407",
-  "total_comics": 1519,
+  "last_updated": "2026-04-30T18:28:20.165174",
+  "total_comics": 1521,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -40,7 +40,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.28,
-      "total_chapters": 254
+      "total_chapters": 256
     },
     {
       "slug": "50kg-cinderella",
@@ -152,7 +152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.83,
-      "total_chapters": 104
+      "total_chapters": 106
     },
     {
       "slug": "idle-player-returns-as-a-god",
@@ -288,7 +288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 179
+      "total_chapters": 182
     },
     {
       "slug": "the-legendary-hero-is-an-academy-honors-student",
@@ -360,7 +360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 54
+      "total_chapters": 56
     },
     {
       "slug": "archmage-curriculum",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 310
+      "total_chapters": 315
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -1440,7 +1440,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.06,
-      "total_chapters": 36
+      "total_chapters": 38
     },
     {
       "slug": "muteki-no-ansatsu-ma-shirube-shi-last-boss-musume-to-tabi-wo-suru",
@@ -2232,7 +2232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 185
+      "total_chapters": 186
     },
     {
       "slug": "nibanme-na-boku-to-ichiban-no-kanojo",
@@ -2296,7 +2296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 241
+      "total_chapters": 242
     },
     {
       "slug": "reincarnation-of-the-demonic-god",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1124
+      "total_chapters": 1129
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -2896,7 +2896,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 57
+      "total_chapters": 61
     },
     {
       "slug": "soshiki-no-shukuteki-to-kekkon-shitara-mecha-amai",
@@ -3032,7 +3032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 52
+      "total_chapters": 55
     },
     {
       "slug": "510508-the-regressed-mercenarys-machinations",
@@ -3352,7 +3352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "the-demon-god",
@@ -3784,7 +3784,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 93
     },
     {
       "slug": "103355-shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
@@ -3840,7 +3840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 18
     },
     {
       "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
@@ -4344,7 +4344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 132
+      "total_chapters": 136
     },
     {
       "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 47
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -8672,7 +8672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 38
     },
     {
       "slug": "red-storm",
@@ -9496,7 +9496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "saikyou-saiaku-no-ura-boss-tenseisha-to-tomo-ni-hametsu-flag-kaihi-wo-mezasu",
@@ -9800,7 +9800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "dancer",
@@ -9808,7 +9808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 11
     },
     {
       "slug": "i-became-the-genius-bastard-of-a-noble-dark-clan",
@@ -9864,7 +9864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 119
+      "total_chapters": 129
     },
     {
       "slug": "the-masters-are-watching-over-me",
@@ -10208,7 +10208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "healing-agency",
@@ -10240,7 +10240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 206
+      "total_chapters": 208
     },
     {
       "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
@@ -10512,7 +10512,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "mahouka-koukou-no-rettousei-nama-koto-nairan-hen",
@@ -10552,7 +10552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "kimi-no-negai-ga-kanau-made",
@@ -10904,7 +10904,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 396
+      "total_chapters": 397
     },
     {
       "slug": "senki-survival-saga-isekai-no-unmei-o-kaketa-mujintou-fujun-iseikouyuu",
@@ -10992,7 +10992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 32
     },
     {
       "slug": "gyaru-shinkan-wa-rizare-ga-darui",
@@ -11024,7 +11024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "super-god-of-war",
@@ -11048,7 +11048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 176
+      "total_chapters": 181
     },
     {
       "slug": "titan-forge",
@@ -11480,7 +11480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 16
     },
     {
       "slug": "shadow-of-paradise",
@@ -11488,7 +11488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 7
+      "total_chapters": 16
     },
     {
       "slug": "get-in-my-bed-supporting-male-leads",
@@ -11496,7 +11496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 16
     },
     {
       "slug": "beastly-night",
@@ -11504,7 +11504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 16
     },
     {
       "slug": "kimi-to-tsuzuru-utakata",
@@ -11808,7 +11808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 16
     },
     {
       "slug": "the-immoral-duke-needs-to-be-homeschooled",
@@ -11816,7 +11816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 16
     },
     {
       "slug": "harten",
@@ -11848,7 +11848,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "release-that-witch",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 239
+      "total_chapters": 246
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12153,6 +12153,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 5
+    },
+    {
+      "slug": "784750-executioner",
+      "title": "Executioner",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.93,
+      "total_chapters": 52
+    },
+    {
+      "slug": "kuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shite-shimau",
+      "title": "Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou shite Shimau.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.28,
+      "total_chapters": 44
     }
   ]
 }
