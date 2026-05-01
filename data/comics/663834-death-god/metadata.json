@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.08,
-  "scraped_at": "2026-04-28T20:47:13.356491",
+  "scraped_at": "2026-05-01T09:19:31.941373",
   "alternative_titles": "Shashin, 사신, 死神",
   "status": "Berjalan",
   "author": "Lim Jae-Won, Seol Bong",
@@ -23,10 +23,28 @@
   "synopsis": "Manhwa                    Death God yang dibuat oleh komikus bernama\n                    Lim Jae-Won, Seol Bong ini bercerita tentang\n                    Anak laki-laki Zhong Li Chu, yang membunuh Musa Huangjung dari Sal Tianmen untuk balas dendam saudaranya. Untuk menghindari dikejar oleh Gerbang Astronomi Sal, dia tersapu oleh pusaran besar yang disebut Sepuluh Mang saat dia mempercayakan dirinya kepada musuh penyiram Salhonbu. Untuk melarikan diri dari bayang-bayang Sepuluh Jaringan, Anda harus menjadi komandan klerikal, ranah legenda! Bisakah Zhong Li Chu menjadi perwira klerikal dan menemukan kebebasan dalam disiplin menakjubkan yang telah diciptakan Jungfa Murim?",
   "chapters": [
     {
+      "chapter": "130",
+      "title": "Komik Death God Chapter 130",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTMwLw==",
+      "date": "35 menit yang lalu"
+    },
+    {
+      "chapter": "129",
+      "title": "Komik Death God Chapter 129",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI5Lw==",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "128",
+      "title": "Komik Death God Chapter 128",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI4Lw==",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "127",
       "title": "Komik Death God Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI3Lw==",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "126",
@@ -74,7 +92,7 @@
       "chapter": "119",
       "title": "Komik Death God Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTE5Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "118",
@@ -122,25 +140,25 @@
       "chapter": "111",
       "title": "Komik Death God Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTExLw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "110",
       "title": "Komik Death God Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTEwLw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "109",
       "title": "Komik Death God Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA5Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "108",
       "title": "Komik Death God Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA4Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "107",
@@ -785,5 +803,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 127
+  "total_chapters": 130
 }
