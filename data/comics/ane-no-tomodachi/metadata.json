@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.9,
-  "scraped_at": "2026-04-24T14:29:57.042152",
+  "scraped_at": "2026-05-02T15:39:09.337284",
   "alternative_titles": "姉のともだち, My Older Sister's Friend, The cutest girl closest to me., Подруга старшей сестры",
   "status": "Berjalan",
   "author": "Takase Waka",
@@ -23,16 +23,28 @@
   "synopsis": "Manga                    Ane no Tomodachi yang dibuat oleh komikus bernama\n                    Takase Waka ini bercerita tentang\n                    Hinako, teman kakak perempuan Asahi, sering menjadi tamu di rumah anak SMA tersebut. Dia selalu menyesatkan pikirannya dengan sikap sugestifnya sambil memperlakukannya seperti adik laki-laki...atau lebih tepatnya, hewan peliharaan? Kisah cinta antara seorang gadis yang memiliki rasa kedekatan yang tersadap dan seorang pria otaku yang bertingkah seperti orang tuanya! Sekarang diserialkan!",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik Ane no Tomodachi Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5lLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTIzLw==",
+      "date": "32 menit yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik Ane no Tomodachi Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5lLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTIyLw==",
+      "date": "33 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Ane no Tomodachi Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5lLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTIxLw==",
-      "date": "16 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Ane no Tomodachi Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5lLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTIwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -44,7 +56,7 @@
       "chapter": "18",
       "title": "Komik Ane no Tomodachi Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5lLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTE4Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -98,7 +110,7 @@
       "chapter": "12.2",
       "title": "Komik Ane no Tomodachi Chapter 12.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5lLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTEyLTIv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "12.1",
@@ -197,5 +209,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 31
 }

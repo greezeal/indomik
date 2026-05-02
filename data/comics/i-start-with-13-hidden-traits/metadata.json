@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-01T10:54:03.607706",
+  "scraped_at": "2026-05-02T15:36:05.800688",
   "alternative_titles": "히든 특성 13개 들고 시작한다",
   "status": "Berjalan",
   "author": "Final Inspection, Junyoung",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    I Start With 13 Hidden Traits yang dibuat oleh komikus bernama\n                    Final Inspection, Junyoung ini bercerita tentang\n                    Dalam dunia di mana garis antara permainan dan kenyataan telah kabur, seorang pria memulai dengan tiga belas sifat tersembunyi.",
   "chapters": [
     {
+      "chapter": "28",
+      "title": "Komik I Start With 13 Hidden Traits Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0yOC8=",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik I Start With 13 Hidden Traits Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zdGFydC13aXRoLTEzLWhpZGRlbi10cmFpdHMtY2hhcHRlci0yNy8=",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "26",
@@ -188,5 +194,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }

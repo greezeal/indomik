@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-22T16:47:19.413505",
+  "scraped_at": "2026-05-02T15:39:35.964440",
   "alternative_titles": "사장님이 너무 강함",
   "status": "Berjalan",
   "author": "Cheok Jun-Gyeong",
@@ -19,28 +19,46 @@
   "synopsis": "Manhwa                    The Boss Is Too Strong yang dibuat oleh komikus bernama\n                    Cheok Jun-Gyeong ini bercerita tentang\n                    Pemilik bar tetap di sebuah pub lokal favorit ternyata adalah mantan pemburu legendaris. Para pelanggan biasa terkejut ketika \"bos\" mereka yang sederhana mengungkapkan kekuatan dan keterampilan luar biasa yang jauh melampaui kemampuan bartender biasa. Kisah ini terungkap saat mantan sosok perkasa ini menjalani kehidupan di balik bar, terkadang menghadapi ancaman dari masa lalunya sebagai pemburu dan melindungi tempat usaha (dan para tamunya) dengan cara yang hanya bisa dilakukan oleh seorang legenda sejati—mengaburkan batas antara kehidupan sipil yang damai dan dunia tersembunyi para pemburu super.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik The Boss Is Too Strong Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTMwLw==",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik The Boss Is Too Strong Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI5Lw==",
+      "date": "39 menit yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik The Boss Is Too Strong Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI4Lw==",
+      "date": "20 jam yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik The Boss Is Too Strong Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI3Lw==",
-      "date": "19 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Boss Is Too Strong Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI2Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Boss Is Too Strong Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Boss Is Too Strong Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTI0Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
@@ -70,19 +88,19 @@
       "chapter": "19",
       "title": "Komik The Boss Is Too Strong Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTE5Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik The Boss Is Too Strong Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTE4Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The Boss Is Too Strong Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJvc3MtaXMtdG9vLXN0cm9uZy1jaGFwdGVyLTE3Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -181,5 +199,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 30
 }

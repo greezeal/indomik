@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T13:47:49.034409",
-  "total_comics": 1525,
+  "last_updated": "2026-05-02T15:41:33.548067",
+  "total_comics": 1529,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -40,7 +40,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.28,
-      "total_chapters": 256
+      "total_chapters": 258
     },
     {
       "slug": "50kg-cinderella",
@@ -248,7 +248,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.92,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "renai-no-jugyou",
@@ -312,7 +312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "the-return-of-the-corpse-king",
@@ -1480,7 +1480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.78,
-      "total_chapters": 69
+      "total_chapters": 70
     },
     {
       "slug": "houkago-no-luminous",
@@ -1976,7 +1976,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.41,
-      "total_chapters": 137
+      "total_chapters": 138
     },
     {
       "slug": "the-villain-of-destiny",
@@ -2176,7 +2176,7 @@
       "type": "Manhwa",
       "status": "Hiatus",
       "rating": 8.59,
-      "total_chapters": 183
+      "total_chapters": 187
     },
     {
       "slug": "tower-of-god-side-story-urek-mazino",
@@ -2726,9 +2726,9 @@
       "slug": "kiraware-majo-to-karada-ga-irekawatta-keredo-watashi-wa-kyou-mo-genki-ni-kurashiteimasu",
       "title": "Kiraware Majo to Karada ga Irekawatta Keredo, Watashi wa Kyou mo Genki ni Kurashiteimasu!",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
     },
     {
       "slug": "846048-eleceed",
@@ -2752,7 +2752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 198
+      "total_chapters": 199
     },
     {
       "slug": "151515-omniscient-readers-viewpoint",
@@ -3352,7 +3352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "the-demon-god",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 127
+      "total_chapters": 129
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4632,7 +4632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 130
+      "total_chapters": 131
     },
     {
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
@@ -5080,7 +5080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 30
     },
     {
       "slug": "898970-regressor-instruction-manual",
@@ -5264,7 +5264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "class-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 119
+      "total_chapters": 124
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -5448,7 +5448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.33,
-      "total_chapters": 53
+      "total_chapters": 55
     },
     {
       "slug": "supreme-academy-genius",
@@ -5568,7 +5568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 366
+      "total_chapters": 373
     },
     {
       "slug": "247116-the-investor-who-sees-the-future",
@@ -6200,7 +6200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 15
     },
     {
       "slug": "monogatari-no-kuromaku-ni-tensei-shite",
@@ -6568,7 +6568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 298
+      "total_chapters": 300
     },
     {
       "slug": "mia-has-returned",
@@ -6696,7 +6696,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "kimi-ni-koisuru-sanshimai",
@@ -6704,7 +6704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "612685-divine-beast-kindergarten",
@@ -7592,7 +7592,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "tsuki-ga-michibiku-isekai-douchuu",
@@ -8192,7 +8192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.22,
-      "total_chapters": 56
+      "total_chapters": 59
     },
     {
       "slug": "immature-succubus",
@@ -8304,7 +8304,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.59,
-      "total_chapters": 17
+      "total_chapters": 19
     },
     {
       "slug": "taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita",
@@ -10376,7 +10376,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 24
     },
     {
       "slug": "sekai-saikyou-no-shinjuu-tsukai",
@@ -10488,7 +10488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 28
     },
     {
       "slug": "hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e",
@@ -10728,7 +10728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 23
+      "total_chapters": 26
     },
     {
       "slug": "tsuihou-sarenakatta-otoko-nidome-no-jinsei-wa-dogeza-kara-hajimarimashita",
@@ -10912,7 +10912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.22,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "isekai-de-slow-life-wo-ganbou",
@@ -11096,7 +11096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "tonari-no-futomomo-san",
@@ -11112,7 +11112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "suterare-saijo-wa-kazoku-to-nonbiri-ikiru-koto-ni-shimasu",
@@ -11120,7 +11120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "high-school-conquest-war-against-the-bullies",
@@ -11160,7 +11160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "the-very-end",
@@ -11584,7 +11584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "nakinagi",
@@ -11592,7 +11592,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 21
+      "total_chapters": 22
     },
     {
       "slug": "tensei-oujo-to-tensai-reijou-no-mahou-kakumei",
@@ -11776,7 +11776,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "oyasumi-punpun",
@@ -11920,7 +11920,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 35
     },
     {
       "slug": "141066-artifact-devouring-player",
@@ -11976,7 +11976,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.9,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "yowa-yowa-sensei",
@@ -12201,6 +12201,38 @@
       "status": "Berjalan",
       "rating": 8.83,
       "total_chapters": 222
+    },
+    {
+      "slug": "586162-killing-killer",
+      "title": "Killing Killer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.29,
+      "total_chapters": 128
+    },
+    {
+      "slug": "kanojo-wo-ubatta-ikemen-bishoujo-ga-nazeka-ore-made-nerattekuru",
+      "title": "Kanojo wo Ubatta Ikemen Bishoujo ga Nazeka Ore made Nerattekuru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
+    },
+    {
+      "slug": "tonari-no-neko-to-koi-shirazu",
+      "title": "Tonari no Neko to Koi Shirazu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.67,
+      "total_chapters": 32
+    },
+    {
+      "slug": "like-a-chilling-flame",
+      "title": "Like a Chilling Flame",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
     }
   ]
 }

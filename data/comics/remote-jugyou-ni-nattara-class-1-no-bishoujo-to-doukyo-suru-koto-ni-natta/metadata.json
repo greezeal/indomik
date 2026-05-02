@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.92,
-  "scraped_at": "2026-04-15T15:23:33.200274",
+  "scraped_at": "2026-05-02T15:36:59.847458",
   "alternative_titles": "When I got to remote class, I had to move in with the most beautiful girl in my class, リモート授業になったらクラス1の美少女と同居することになった",
   "status": "Berjalan",
   "author": "Mihagi Senya",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta yang dibuat oleh komikus bernama\n                    Mihagi Senya ini bercerita tentang\n                    Siswa SMA Kanata Yoshino yang kehabisan akal, bertemu Haruka Hoshikawa, gadis tercantik di kelasnya, yang sedang melambaikan ponselnya sendirian di taman di tengah malam.\r\n\r\nDia diminta bantuan dari Hoshikawa yang buruk dengan mesin dan tidak tahu cara terhubung ke internet.\r\nDia akhirnya mengunjungi rumahnya, tapi sedikit yang dia tahu, dia punya tujuan rahasia...!\r\n\r\nKomedi cinta hidup bersama yang manis dan romantis dimulai dengan undangan terampil dari wanita muda!",
   "chapters": [
     {
+      "chapter": "20.1",
+      "title": "Komik Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta Chapter 20.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb3RlLWp1Z3lvdS1uaS1uYXR0YXJhLWNsYXNzLTEtbm8tYmlzaG91am8tdG8tZG91a3lvLXN1cnUta290by1uaS1uYXR0YS1jaGFwdGVyLTIwLTEv",
+      "date": "36 menit yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb3RlLWp1Z3lvdS1uaS1uYXR0YXJhLWNsYXNzLTEtbm8tYmlzaG91am8tdG8tZG91a3lvLXN1cnUta290by1uaS1uYXR0YS1jaGFwdGVyLTE5Lw==",
-      "date": "3 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "18",
@@ -44,7 +50,7 @@
       "chapter": "16",
       "title": "Komik Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb3RlLWp1Z3lvdS1uaS1uYXR0YXJhLWNsYXNzLTEtbm8tYmlzaG91am8tdG8tZG91a3lvLXN1cnUta290by1uaS1uYXR0YS1jaGFwdGVyLTE2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -137,5 +143,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }
