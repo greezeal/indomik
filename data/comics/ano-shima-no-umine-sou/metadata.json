@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-02T18:35:07.568022",
+  "scraped_at": "2026-05-03T19:44:56.930522",
   "alternative_titles": "あの島の海音〈うみね〉荘, あの島の海音荘, Ano Shima no Kaion-sou, Umine the Island Inn, La posada Umine de aquella isla, Umine-sou Trên Hòn Đảo Ấy, Umine, a pousada da ilha",
   "status": "Berjalan",
   "author": "Seo Kouji",
@@ -22,16 +22,22 @@
   "synopsis": "Manga                    Ano Shima no Umine-sou yang dibuat oleh komikus bernama\n                    Seo Kouji ini bercerita tentang\n                    Kazuma, seorang pemuda pengangguran berusia 19 tahun, dipanggil ke Pulau Asagiri, yang dikabarkan menyimpan harta karun bajak laut yang telah lama hilang. Ia akhirnya bekerja serabutan di Umine Inn, sebuah kafe tradisional Jepang dengan penginapan khusus wanita dan sejumlah wanita eksentrik namun cantik. Sebuah kisah impian bagi setiap pria - komedi romantis tentang kehidupan di pulau dan perburuan harta karun, di mana lingkungannya indah dalam berbagai hal!",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik Ano Shima no Umine-sou Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTE2Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Ano Shima no Umine-sou Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTE1Lw==",
-      "date": "58 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Ano Shima no Umine-sou Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTE0Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "13",
@@ -55,7 +61,7 @@
       "chapter": "10",
       "title": "Komik Ano Shima no Umine-sou Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTEwLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -112,5 +118,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 16
 }

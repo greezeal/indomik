@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-21T05:54:52.192701",
+  "scraped_at": "2026-05-03T19:43:48.110994",
   "alternative_titles": "学園のマドンナの渡辺さんが、なぜか毎週予定を聞いてくる@COMIC, Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei o Kitekuru, The School\\'s Madonna, Watanabe-san, for Some Reason Asks My Schedule Every Week, Watanabe-san, sang Madonna Sekolah, Entah Kenapa Selalu Menanyakan",
   "status": "Berjalan",
   "author": "Marusei",
@@ -21,17 +21,23 @@
   "synopsis": "Manga                    Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru yang dibuat oleh komikus bernama\n                    Marusei ini bercerita tentang\n                    Ryoichi Aikawa adalah seorang siswa SMA yang lebih memilih menghabiskan masa mudanya untuk memancing sendirian daripada mengejar asmara. Baginya, ketenangan di pelabuhan adalah segalanya—sampai suatu hari ia menyelamatkan seorang gadis yang digoda oleh pemancing nakal. Siapa sangka, gadis itu adalah Watanabe-san, sang \"Madonna\" sekolah yang sangat populer. Sejak pertemuan tak terduga itu, sang idola sekolah entah kenapa mulai tertarik dengan hobi memancing Ryoichi dan selalu menanyakan jadwal akhir pekannya.",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FrdWVuLW5vLW1hZG9ubmEtbm8td2F0YW5hYmUtc2FuLWdhLW5hemUta2EtbWFpc2h1LXlvdGVpLXdvLWtpdGVrdXJ1LWNoYXB0ZXItMy8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FrdWVuLW5vLW1hZG9ubmEtbm8td2F0YW5hYmUtc2FuLWdhLW5hemUta2EtbWFpc2h1LXlvdGVpLXdvLWtpdGVrdXJ1LWNoYXB0ZXItMi8=",
-      "date": "26 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FrdWVuLW5vLW1hZG9ubmEtbm8td2F0YW5hYmUtc2FuLWdhLW5hemUta2EtbWFpc2h1LXlvdGVpLXdvLWtpdGVrdXJ1LWNoYXB0ZXItMS8=",
-      "date": "2 hari yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

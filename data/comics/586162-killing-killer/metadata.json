@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.29,
-  "scraped_at": "2026-05-02T18:32:09.921907",
+  "scraped_at": "2026-05-03T19:42:34.247228",
   "alternative_titles": "킬링킬러",
   "status": "Berjalan",
   "author": "A_backk",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Killing Killer yang dibuat oleh komikus bernama\n                    A_backk ini bercerita tentang\n                    Karakter utama, Siwoo Lee, kehilangan orang tuanya karena seorang pembunuh sepuluh tahun yang lalu. Akhirnya, dia bertemu Jack, pembunuh yang membunuh orang tuanya, dan memenggalnya. \"Bukan aku yang membunuh orang tuamu.\"\r\nSetelah mengetahui bahwa pelaku sebenarnya adalah \"kontraktor\" milik sekelompok pembunuh yang menggunakan kekuatan super, Si-woo Lee memutuskan untuk memburu para pendaftar dengan bantuan Jack.",
   "chapters": [
     {
+      "chapter": "129",
+      "title": "Komik Killing Killer Chapter 129",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xMjkv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "128",
       "title": "Komik Killing Killer Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xMjgv",
-      "date": "14 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "127",
@@ -185,7 +191,7 @@
       "chapter": "101",
       "title": "Komik Killing Killer Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xMDEv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "100",
@@ -788,5 +794,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 128
+  "total_chapters": 129
 }

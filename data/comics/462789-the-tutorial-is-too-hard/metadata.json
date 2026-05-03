@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.28,
-  "scraped_at": "2026-05-02T18:32:07.771925",
+  "scraped_at": "2026-05-03T19:42:25.642444",
   "alternative_titles": "Tutorial Neomu Eolyeobda, 튜토리얼이 너무 어렵다",
   "status": "Berjalan",
   "author": "Gandara",
@@ -24,28 +24,34 @@
   "synopsis": "Manhwa                    The Tutorial is Too Hard yang dibuat oleh komikus bernama\n                    Gandara ini bercerita tentang\n                    Novel fantasi fusi Gandara, 'The Tutorial is Too Hard', sekarang hadir sebagai webtoon.\r\n\r\nSuatu hari, di tengah kehidupan yang membosankan, sebuah pesan undangan muncul di depan mata saya. [Apakah Anda ingin memasuki dunia tutorial?]\r\n\r\nSetelah itu adalah jendela pemilihan kesulitan. [Mudah] [Normal] [Sulit] [Neraka]. Saya memilih neraka-kesulitan tanpa ragu-ragu.\r\n\r\nDan saya menyesalinya.\r\n\r\nAku tahu itu mengatakan kesulitan, tapi ini terlalu berlebihan.",
   "chapters": [
     {
+      "chapter": "258",
+      "title": "Komik The Tutorial is Too Hard Chapter 258",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjU4Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "257",
       "title": "Komik The Tutorial is Too Hard Chapter 257",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjU3Lw==",
-      "date": "14 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "256",
       "title": "Komik The Tutorial is Too Hard Chapter 256",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjU2Lw==",
-      "date": "20 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "255",
       "title": "Komik The Tutorial is Too Hard Chapter 255",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjU1Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "254",
       "title": "Komik The Tutorial is Too Hard Chapter 254",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjU0Lw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "253",
@@ -171,13 +177,13 @@
       "chapter": "233",
       "title": "Komik The Tutorial is Too Hard Chapter 233",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjMzLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "232",
       "title": "Komik The Tutorial is Too Hard Chapter 232",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjMyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "231",
@@ -213,7 +219,7 @@
       "chapter": "226",
       "title": "Komik The Tutorial is Too Hard Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjI2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "225",
@@ -1083,7 +1089,7 @@
       "chapter": "81",
       "title": "Komik The Tutorial is Too Hard Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItODEv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "80",
@@ -1572,5 +1578,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 258
+  "total_chapters": 259
 }
