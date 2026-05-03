@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-01T10:52:28.549156",
+  "scraped_at": "2026-05-03T06:42:59.995741",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "Midnight Studio",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    Genius Martial Arts Trainer yang dibuat oleh komikus bernama\n                    Midnight Studio ini bercerita tentang\n                    Selama pandemi besar, gym saya bangkrut. Saat berusaha mati-matian untuk memenuhi kebutuhan, saya memiliki karakter di Murim. Saya sangat senang melihat saya berada di Kuil Shaolin, tapi apa-apaan ini? Tubuh setiap orang rusak karena cara berolahraga yang salah! Bagaimana saya bisa hanya duduk dan menonton ketika saya menjadi pelatih pribadi?! Saya akan mengajari Anda metode olahraga modern yang benar dan menyembuhkan Anda semua dengan pengobatan frekuensi rendah dan terapi inframerah menggunakan energi batin! X Hari sampai Shaolin Gym dibuka",
   "chapters": [
     {
+      "chapter": "109",
+      "title": "Komik Genius Martial Arts Trainer Chapter 109",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItMTA5Lw==",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "108",
       "title": "Komik Genius Martial Arts Trainer Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItMTA4Lw==",
-      "date": "24 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "107",
@@ -38,13 +44,13 @@
       "chapter": "106",
       "title": "Komik Genius Martial Arts Trainer Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItMTA2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "105",
       "title": "Komik Genius Martial Arts Trainer Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItMTA1Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "104",
@@ -194,7 +200,7 @@
       "chapter": "80",
       "title": "Komik Genius Martial Arts Trainer Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItODAv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "79",
@@ -224,7 +230,7 @@
       "chapter": "75",
       "title": "Komik Genius Martial Arts Trainer Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItNzUv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -242,19 +248,19 @@
       "chapter": "72",
       "title": "Komik Genius Martial Arts Trainer Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItNzIv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Genius Martial Arts Trainer Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItNzEv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Genius Martial Arts Trainer Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItNzAv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "69",
@@ -296,7 +302,7 @@
       "chapter": "63",
       "title": "Komik Genius Martial Arts Trainer Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hcnRpYWwtYXJ0cy10cmFpbmVyLWNoYXB0ZXItNjMv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "62",
@@ -671,5 +677,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 108
+  "total_chapters": 109
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.78,
-  "scraped_at": "2026-05-01T10:50:02.179494",
+  "scraped_at": "2026-05-03T06:42:06.104659",
   "alternative_titles": "I opened an orphanage in another world, but for some reason no one wants to leave., Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken Isekai de Kojiin wo hiraitakedo nazeka darehitori sudatou to shinaiken, 在异世界开了孤儿院，但不知为何没有一个人想离开,",
   "status": "Berjalan",
   "author": "HATSUEDA Renge",
@@ -25,16 +25,28 @@
   "synopsis": "Manga                    Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken yang dibuat oleh komikus bernama\n                    HATSUEDA Renge ini bercerita tentang\n                    Masatsugu dibawa dari dunia lain dalam pemanggilan pahlawan dan akhirnya menjadi bagian dari kasta serendah mungkin. Menunggu bocah ini, yang tidak memiliki apa pun kecuali keterampilan dasar, mengelola sebuah panti asuhan yang penuh dengan gadis-gadis cantik! Tapi, hari-harinya yang menjengkelkan baru saja dimulai ketika dia menemukan bangunan itu dalam reruntuhan, dan dia juga harus melunasi hutang besar yang ditinggalkan mantan direktur! Dan bukan itu saja, dia tidak punya waktu untuk beristirahat dari semua bajingan yang mengancam panti asuhan! Apakah Masatsugu dan anak yatim akan dapat melindungi rumah mereka yang berharga?",
   "chapters": [
     {
+      "chapter": "72",
+      "title": "Komik Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLWtvamlpbi13by1oaXJhaXRha2Vkby1uYXpla2EtZGFyZWhpdG9yaS1zdWRhdG91LXRvLXNoaW5haS1rZW4tY2hhcHRlci03Mi8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "71",
+      "title": "Komik Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLWtvamlpbi13by1oaXJhaXRha2Vkby1uYXpla2EtZGFyZWhpdG9yaS1zdWRhdG91LXRvLXNoaW5haS1rZW4tY2hhcHRlci03MS8=",
+      "date": "24 jam yang lalu"
+    },
+    {
       "chapter": "70",
       "title": "Komik Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLWtvamlpbi13by1oaXJhaXRha2Vkby1uYXpla2EtZGFyZWhpdG9yaS1zdWRhdG91LXRvLXNoaW5haS1rZW4tY2hhcHRlci03MC8=",
-      "date": "17 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLWtvamlpbi13by1oaXJhaXRha2Vkby1uYXpla2EtZGFyZWhpdG9yaS1zdWRhdG91LXRvLXNoaW5haS1rZW4tY2hhcHRlci02OS8=",
-      "date": "24 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "68",
@@ -457,5 +469,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 72
+  "total_chapters": 74
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-09T16:11:28.389845",
+  "scraped_at": "2026-05-03T06:42:01.655170",
   "alternative_titles": "隣の太ももさん, Thighs-san Next to Me, Cô bạn đùi múp bàn bên, Futomomo-san Di Sebelahku",
   "status": "Berjalan",
   "author": "Shiroya Maken",
@@ -21,23 +21,29 @@
   "synopsis": "Manga                    Tonari no Futomomo-san yang dibuat oleh komikus bernama\n                    Shiroya Maken ini bercerita tentang\n                    Kuonji adalah seorang siswa SMA yang sehat walafiat, tetapi hatinya terpikat oleh satu hal: paha gadis yang duduk tepat di sebelahnya! Setelah sebuah kecelakaan tak terduga, ia akhirnya menjalin kontak dengan gadis yang seharusnya berada di luar jangkauannya. Kini, kehidupan sehari-hari Kuonji yang membosankan akan mengalami perubahan besar—!!?",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Tonari no Futomomo-san Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWZ1dG9tb21vLXNhbi1jaGFwdGVyLTQv",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Tonari no Futomomo-san Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWZ1dG9tb21vLXNhbi1jaGFwdGVyLTMv",
-      "date": "7 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Tonari no Futomomo-san Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWZ1dG9tb21vLXNhbi1jaGFwdGVyLTIv",
-      "date": "7 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tonari no Futomomo-san Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWZ1dG9tb21vLXNhbi1jaGFwdGVyLTEv",
-      "date": "7 jam yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }

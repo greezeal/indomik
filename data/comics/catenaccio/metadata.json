@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.26,
-  "scraped_at": "2026-04-22T11:18:38.118245",
+  "scraped_at": "2026-05-03T06:42:33.161862",
   "alternative_titles": "カテナチオ, Katena Chio",
   "status": "Berjalan",
   "author": "Morimoto Daisuke",
@@ -19,34 +19,46 @@
   "synopsis": "Manga                    Catenaccio yang dibuat oleh komikus bernama\n                    Morimoto Daisuke ini bercerita tentang\n                    Yataro Araki, anggota tim sepak bola SMA Tojo, mempunyai impian besar. Dalam satu dekade, ia melihat dirinya menaklukkan puncak tertinggi dunia sepak bola: “sepak bola!” Maju cepat ke pertandingan sepak bola terakhirnya sebelum lulus, pertandingan yang akan mewujudkan atau menghancurkan impiannya. Setelah sejauh ini gagal menarik perhatian pramuka, ia kini putus asa melakukan apa pun untuk membuktikan dirinya. Yataro bersiap untuk mengotori tangannya jika itu berarti menang. Jika itu berarti berdiri di puncak! Selamat datang di dunia sepak bola internasional! Tidak ada yang sakral, tidak ada aturan yang tidak dilanggar! Tidak ketika kemenangan sudah di depan mata!",
   "chapters": [
     {
+      "chapter": "81",
+      "title": "Komik Catenaccio Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTgxLw==",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "80",
+      "title": "Komik Catenaccio Chapter 80",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTgwLw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "79",
       "title": "Komik Catenaccio Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTc5Lw==",
-      "date": "8 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Catenaccio Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTc4Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik Catenaccio Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTc3Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Catenaccio Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTc2Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Catenaccio Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTc1Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "74",
@@ -64,13 +76,13 @@
       "chapter": "72",
       "title": "Komik Catenaccio Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTcyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Catenaccio Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTcxLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -88,7 +100,7 @@
       "chapter": "68",
       "title": "Komik Catenaccio Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTY4Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "67",
@@ -505,5 +517,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 81
+  "total_chapters": 83
 }
