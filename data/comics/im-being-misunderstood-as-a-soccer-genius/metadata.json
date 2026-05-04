@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-04T09:40:35.760543",
+  "scraped_at": "2026-05-04T20:34:37.510966",
   "alternative_titles": "I'm Mistaken for a Soccer Genius, 축구천재로 오해받는 중입니다",
   "status": "Berjalan",
   "author": "Han Myeong Hyeon",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    I’m Being Misunderstood as a Soccer Genius yang dibuat oleh komikus bernama\n                    Han Myeong Hyeon ini bercerita tentang\n                    Anak laki-laki Korea, Lee Jian, yang dibebaskan dari tim muda bergengsi di Italia, menghabiskan hari-harinya bermalas-malasan sebagai pemain pengganti bahkan setelah tiba di tim muda AC Firenze, seolah-olah dia sedang melarikan diri, seperti biasa, dia menyombongkan diri pada teman masa kecilnya, Kim Jiwoo, mengaku sebagai seorang jenius, tetapi kemudian dia mendengar berita mengejutkan bahwa Jiwoo akan datang ke Italia untuk belajar di luar negeri. Bertekad untuk tidak mengecewakan temannya yang berharga, Jiwoo, Jian bertekad untuk menjadi starter",
   "chapters": [
     {
+      "chapter": "74",
+      "title": "Komik I’m Being Misunderstood as a Soccer Genius Chapter 74",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tYmVpbmctbWlzdW5kZXJzdG9vZC1hcy1hLXNvY2Nlci1nZW5pdXMtY2hhcHRlci03NC8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "73",
       "title": "Komik I’m Being Misunderstood as a Soccer Genius Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tYmVpbmctbWlzdW5kZXJzdG9vZC1hcy1hLXNvY2Nlci1nZW5pdXMtY2hhcHRlci03My8=",
-      "date": "8 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "72",
@@ -153,7 +159,7 @@
       "chapter": "51",
       "title": "Komik I’m Being Misunderstood as a Soccer Genius Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tYmVpbmctbWlzdW5kZXJzdG9vZC1hcy1hLXNvY2Nlci1nZW5pdXMtY2hhcHRlci01MS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -456,5 +462,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 73
+  "total_chapters": 74
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-01T10:51:06.362462",
+  "scraped_at": "2026-05-04T20:28:27.710728",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "우각",
@@ -22,22 +22,34 @@
   "synopsis": "Manhwa                    Memoir Of The King Of War yang dibuat oleh komikus bernama\n                    우각 ini bercerita tentang\n                    Bernapas tidak menjamin semua orang hidup! Dan Sa Yu, keturunan Goryeo, menegur Distrik Pusat demi temannya yang paling dia hargai. Dia memerintah setiap pertempuran! Tidak ada yang bisa menghentikannya! Angkatan Bersenjata Cheonpo. Seni bela diri terhebat di Goryeo! Legenda Angkatan Bersenjata Cheonpo terus hidup saat sejarah Raja Perang terungkap!",
   "chapters": [
     {
+      "chapter": "251",
+      "title": "Komik Memoir Of The King Of War Chapter 251",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI1MS8=",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "250",
+      "title": "Komik Memoir Of The King Of War Chapter 250",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI1MC8=",
+      "date": "3 hari yang lalu"
+    },
+    {
       "chapter": "249",
       "title": "Komik Memoir Of The King Of War Chapter 249",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI0OS8=",
-      "date": "18 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "248",
       "title": "Komik Memoir Of The King Of War Chapter 248",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI0OC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "247",
       "title": "Komik Memoir Of The King Of War Chapter 247",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI0Ny8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "246",
@@ -163,13 +175,13 @@
       "chapter": "226",
       "title": "Komik Memoir Of The King Of War Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTIyNi8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "225",
       "title": "Komik Memoir Of The King Of War Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTIyNS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "224",
@@ -205,19 +217,19 @@
       "chapter": "219",
       "title": "Komik Memoir Of The King Of War Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTIxOS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "218",
       "title": "Komik Memoir Of The King Of War Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTIxOC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "217",
       "title": "Komik Memoir Of The King Of War Chapter 217",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTIxNy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "216",
@@ -1510,5 +1522,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 248
+  "total_chapters": 250
 }

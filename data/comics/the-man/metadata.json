@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-04T09:40:47.790601",
+  "scraped_at": "2026-05-04T20:34:07.765914",
   "alternative_titles": "Hombre auténtico, Hombre de verdad, Real Man, เส้นทางลูกผู้ชาย, 上男子, 男子汉, 真なる男, 상남자",
   "status": "Berjalan",
   "author": "HA Neulso, KIM Tae-gung",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    The Man yang dibuat oleh komikus bernama\n                    HA Neulso, KIM Tae-gung ini bercerita tentang\n                    Yuhyeon menjadi CEO termuda Hansung, sebuah perusahaan elektronik sukses yang dibangun di atas budaya kerja yang beracun, tetapi tidak ada seorang pun yang dia sayangi yang ada di sana untuk merayakannya. Setelah semalaman minum dan bertanya-tanya apakah dia bisa mengubah masa lalu, dia bangun keesokan paginya, 20 tahun lebih muda daripada di awal kariernya.\r\nBerbekal pengalaman dan wawasan yang membuatnya menjadi CEO, Yuhyeon mulai meninjau kembali hubungan yang rusak dan melawan para pendukung lingkungan kerja Hansung yang kejam.",
   "chapters": [
     {
+      "chapter": "258",
+      "title": "Komik The Man Chapter 258",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hbi1jaGFwdGVyLTI1OC8=",
+      "date": "57 menit yang lalu"
+    },
+    {
       "chapter": "257",
       "title": "Komik The Man Chapter 257",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hbi1jaGFwdGVyLTI1Ny8=",
-      "date": "16 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "256",
@@ -1562,5 +1568,5 @@
       "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 257
+  "total_chapters": 258
 }

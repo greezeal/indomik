@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.01,
-  "scraped_at": "2026-04-24T14:32:23.838581",
+  "scraped_at": "2026-05-04T20:30:11.407906",
   "alternative_titles": "Skull Dragon's Precious Daughter, 骨ドラゴンのマナ娘",
   "status": "Berjalan",
   "author": "Yukishiro Ichi",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Hone Dragon no Mana Musume yang dibuat oleh komikus bernama\n                    Yukishiro Ichi ini bercerita tentang\n                    Hutan tempat sampah tempat segala sesuatu dibuang. Eve, seorang gadis muda yang dijatuhkan di sana, dijemput dan dibesarkan oleh seekor naga tua yang hampir mati. Di bawah perlindungan seekor naga tua bernama Nem, Hawa tumbuh sehat, tetapi hari-hari yang damai adalah momen perpisahan yang menyedihkan. Namun, Eve mengambil tindakan yang mengejutkan…? Naga tua dan seorang gadis, fantasi membesarkan orang tua dan anak-anak di luar spesies!",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik Hone Dragon no Mana Musume Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uZS1kcmFnb24tbm8tbWFuYS1tdXN1bWUtY2hhcHRlci0zMy8=",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Hone Dragon no Mana Musume Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uZS1kcmFnb24tbm8tbWFuYS1tdXN1bWUtY2hhcHRlci0zMi8=",
-      "date": "31 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "31.3",
@@ -277,5 +283,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 43
 }
