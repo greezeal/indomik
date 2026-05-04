@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.41,
-  "scraped_at": "2026-02-14T23:40:31.329274",
+  "scraped_at": "2026-05-04T09:42:54.479573",
   "alternative_titles": "My Female Friends Are Surprisingly Willing to Let Me Do It If I Ask For It, 女友達は頼めば意外とヤらせてくれる",
   "status": "Berjalan",
   "author": "KAGAMI Yuu",
@@ -20,40 +20,46 @@
   "synopsis": "Manga                    Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru yang dibuat oleh komikus bernama\n                    KAGAMI Yuu ini bercerita tentang\n                    Hisaya Minato, seorang siswi SMA biasa, memiliki seorang teman wanita yang agak aneh.\r\nDia adalah Aoi Hatsuki, gadis tercantik di SMA.\r\nUntuk beberapa alasan, mereka rukun, dan karena mereka kebetulan tinggal di lantai yang sama, mereka secara bertahap menjadi teman baik, datang dan pergi dari rumah masing-masing.\r\nSuatu hari, Minato tiba-tiba memintanya untuk menunjukkan celana dalamnya.\r\nAwalnya Hatsuki enggan, tapi kemudian dia mulai menggulung roknya?",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25uYS10b21vZGFjaGktd2EtdGFub21lYmEtaWdhaXRvLXlhcmFzZXRlLWt1cmVydS1jaGFwdGVyLTIxLw==",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25uYS10b21vZGFjaGktd2EtdGFub21lYmEtaWdhaXRvLXlhcmFzZXRlLWt1cmVydS1jaGFwdGVyLTIwLw==",
-      "date": "10 jam yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25uYS10b21vZGFjaGktd2EtdGFub21lYmEtaWdhaXRvLXlhcmFzZXRlLWt1cmVydS1jaGFwdGVyLTE5Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25uYS10b21vZGFjaGktd2EtdGFub21lYmEtaWdhaXRvLXlhcmFzZXRlLWt1cmVydS1jaGFwdGVyLTE4Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25uYS10b21vZGFjaGktd2EtdGFub21lYmEtaWdhaXRvLXlhcmFzZXRlLWt1cmVydS1jaGFwdGVyLTE3Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25uYS10b21vZGFjaGktd2EtdGFub21lYmEtaWdhaXRvLXlhcmFzZXRlLWt1cmVydS1jaGFwdGVyLTE2Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25uYS10b21vZGFjaGktd2EtdGFub21lYmEtaWdhaXRvLXlhcmFzZXRlLWt1cmVydS1jaGFwdGVyLTE1Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -152,5 +158,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }
