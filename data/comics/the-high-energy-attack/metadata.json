@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.59,
-  "scraped_at": "2026-04-22T22:12:27.400452",
+  "scraped_at": "2026-05-05T18:01:59.398481",
   "alternative_titles": "Gao Neng Strikes, 高能来袭",
   "status": "Berjalan",
   "author": "野比小培",
@@ -26,16 +26,28 @@
   "synopsis": "Manhua                    The High Energy Attack yang dibuat oleh komikus bernama\n                    野比小培 ini bercerita tentang\n                    Seratus tahun setelah bencana alam, profesi yang sama sekali baru lahir. Mereka mengendalikan besi, tembaga, fosfor, emas, silikon, karbon …… Pada awalnya dia membakar timah perempuan ke surga, Gao Neng melihat hadiahnya yang tersembunyi, dan membeku karena terkejut: besi 100%, tembaga 100%, timah 100%, perak 100%, emas 100%, fosfor 100%, sulfur 100%, silikon 100% ......",
   "chapters": [
     {
+      "chapter": "55",
+      "title": "Komik The High Energy Attack Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhpZ2gtZW5lcmd5LWF0dGFjay1jaGFwdGVyLTU1Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "54",
+      "title": "Komik The High Energy Attack Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhpZ2gtZW5lcmd5LWF0dGFjay1jaGFwdGVyLTU0Lw==",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "53",
       "title": "Komik The High Energy Attack Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhpZ2gtZW5lcmd5LWF0dGFjay1jaGFwdGVyLTUzLw==",
-      "date": "32 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik The High Energy Attack Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhpZ2gtZW5lcmd5LWF0dGFjay1jaGFwdGVyLTUyLw==",
-      "date": "6 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "51",
@@ -350,5 +362,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 56
 }

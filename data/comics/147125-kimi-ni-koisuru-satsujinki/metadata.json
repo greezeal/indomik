@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.94,
-  "scraped_at": "2026-05-03T06:43:47.255215",
+  "scraped_at": "2026-05-05T18:00:43.835097",
   "alternative_titles": "The Killer Who Loves You, きみに恋する殺人鬼, 너를 사랑하는 살인귀",
   "status": "Berjalan",
   "author": "Akiyama Enma",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    Kimi ni Koisuru Satsujinki yang dibuat oleh komikus bernama\n                    Akiyama Enma ini bercerita tentang\n                    Suzuki Ryuuto adalah seorang mahasiswa yang tertutup dan pemalu. Setiap hari dia membuat senyuman palsu, mencoba yang terbaik untuk berbaur dengan sekelompok siswa yang keluar meskipun dengan kejam menggoda tentang keperawanannya.\r\n\r\nTapi suatu hari, dia datang ke pesta minum dimana dia bertemu dengan seorang gadis cantik, Kokoa. Sesuai permintaannya, dia mulai berpura-pura menjadi pacarnya untuk mengusir penguntit yang melecehkan Kokoa.\r\n\r\nCinta yang lembut itu adalah awal dari sebuah tragedi ...",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Kimi ni Koisuru Satsujinki Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhdHN1amlua2ktY2hhcHRlci0yNC8=",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Kimi ni Koisuru Satsujinki Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhdHN1amlua2ktY2hhcHRlci0yMy8=",
-      "date": "33 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Kimi ni Koisuru Satsujinki Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhdHN1amlua2ktY2hhcHRlci0yMi8=",
-      "date": "33 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "21",
@@ -171,5 +177,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }

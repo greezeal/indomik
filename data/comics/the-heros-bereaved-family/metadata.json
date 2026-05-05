@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-22T16:49:52.575832",
-  "alternative_titles": "勇者遺族, Bereaved Family, The Hero's Bereaved Family",
+  "scraped_at": "2026-05-05T17:57:41.256525",
+  "alternative_titles": "勇者遺族, Bereaved Family, The Hero\\'s Bereaved Family",
   "status": "Berjalan",
   "author": "Kanemaki Maki",
   "illustrator": "Kanemaki Maki",
@@ -25,35 +25,59 @@
   "synopsis": "Manga                    The Hero’s Bereaved Family yang dibuat oleh komikus bernama\n                    Kanemaki Maki ini bercerita tentang\n                    Sang pahlawan yang mengalahkan Raja Iblis dan menyelamatkan dunia telah meninggal. Gil, seorang setengah elf yang mewarisi darahnya, dengan penuh semangat menuju pemakaman \"ayah yang belum pernah ia temui\" setelah mendengar tentang warisan, tetapi...?! Anak-anak sang pahlawan yang gemar berselingkuh dan haus kasih sayang terlibat dalam pertempuran warisan yang kejam dan berlumuran darah! Akankah berakhir dengan tumpukan mayat... atau sesuatu yang sama sekali berbeda?! Sebuah kisah isekai pasca-petualangan yang langka dan luar biasa!!\r\n\r\nSebuah kisah pasca-kejadian yang belum pernah terjadi sebelumnya di dunia lain!!",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik The Hero’s Bereaved Family Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTkv",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik The Hero’s Bereaved Family Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTgv",
+      "date": "6 hari yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik The Hero’s Bereaved Family Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTcv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik The Hero’s Bereaved Family Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTYv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik The Hero’s Bereaved Family Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTUv",
-      "date": "6 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Hero’s Bereaved Family Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTQv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Hero’s Bereaved Family Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTMv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Hero’s Bereaved Family Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTIv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Hero’s Bereaved Family Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm9zLWJlcmVhdmVkLWZhbWlseS1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 9
 }

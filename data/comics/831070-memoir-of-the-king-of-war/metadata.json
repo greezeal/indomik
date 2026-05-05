@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-05T04:48:49.672706",
+  "scraped_at": "2026-05-05T18:02:53.836035",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "우각",
@@ -22,16 +22,22 @@
   "synopsis": "Manhwa                    Memoir Of The King Of War yang dibuat oleh komikus bernama\n                    우각 ini bercerita tentang\n                    Bernapas tidak menjamin semua orang hidup! Dan Sa Yu, keturunan Goryeo, menegur Distrik Pusat demi temannya yang paling dia hargai. Dia memerintah setiap pertempuran! Tidak ada yang bisa menghentikannya! Angkatan Bersenjata Cheonpo. Seni bela diri terhebat di Goryeo! Legenda Angkatan Bersenjata Cheonpo terus hidup saat sejarah Raja Perang terungkap!",
   "chapters": [
     {
+      "chapter": "252",
+      "title": "Komik Memoir Of The King Of War Chapter 252",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI1Mi8=",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "251",
       "title": "Komik Memoir Of The King Of War Chapter 251",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI1MS8=",
-      "date": "11 menit yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "250",
       "title": "Komik Memoir Of The King Of War Chapter 250",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVtb2lyLW9mLXRoZS1raW5nLW9mLXdhci1jaGFwdGVyLTI1MC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "249",
@@ -1522,5 +1528,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 250
+  "total_chapters": 251
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.3,
-  "scraped_at": "2026-03-03T12:33:06.709146",
+  "scraped_at": "2026-05-05T18:03:34.235840",
   "alternative_titles": "ダンダダン",
   "status": "Berjalan",
   "author": "TATSU Yukinobu",
@@ -22,268 +22,298 @@
   "synopsis": "Manga                    DANDADAN yang dibuat oleh komikus bernama\n                    TATSU Yukinobu ini bercerita tentang\n                    Takakura, seorang anak laki-laki penggemar okultisme yang tidak percaya pada hantu, dan Ayase, seorang gadis yang tidak percaya pada alien, menemukan misteri luar biasa yang melampaui saling pengertian. Kisah Remaja Gaib !!",
   "chapters": [
     {
+      "chapter": "232",
+      "title": "Komik DANDADAN Chapter 232",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzIv",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "231",
+      "title": "Komik DANDADAN Chapter 231",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzEv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "230",
+      "title": "Komik DANDADAN Chapter 230",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzAv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "229",
+      "title": "Komik DANDADAN Chapter 229",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjkv",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "228",
+      "title": "Komik DANDADAN Chapter 228",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjgv",
+      "date": "2 bulan yang lalu"
+    },
+    {
       "chapter": "227",
       "title": "Komik DANDADAN Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjcv",
-      "date": "3 jam yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik DANDADAN Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "225",
       "title": "Komik DANDADAN Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjUv",
-      "date": "3 minggu yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "224",
       "title": "Komik DANDADAN Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjQv",
-      "date": "1 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik DANDADAN Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjMv",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "222",
       "title": "Komik DANDADAN Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjIv",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "221",
       "title": "Komik DANDADAN Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjEv",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "220",
       "title": "Komik DANDADAN Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjAv",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "219",
       "title": "Komik DANDADAN Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTkv",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "218",
       "title": "Komik DANDADAN Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTgv",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "217",
       "title": "Komik DANDADAN Chapter 217",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTcv",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "216",
       "title": "Komik DANDADAN Chapter 216",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTYv",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "215",
       "title": "Komik DANDADAN Chapter 215",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTUv",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "214",
       "title": "Komik DANDADAN Chapter 214",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTQv",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "213",
       "title": "Komik DANDADAN Chapter 213",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTMv",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "212",
       "title": "Komik DANDADAN Chapter 212",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTIv",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "211",
       "title": "Komik DANDADAN Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTEv",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "210",
       "title": "Komik DANDADAN Chapter 210",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTAv",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "209",
       "title": "Komik DANDADAN Chapter 209",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDkv",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "208",
       "title": "Komik DANDADAN Chapter 208",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDgv",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "207",
       "title": "Komik DANDADAN Chapter 207",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDcv",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "206",
       "title": "Komik DANDADAN Chapter 206",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDYv",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "205",
       "title": "Komik DANDADAN Chapter 205",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDUv",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "204",
       "title": "Komik DANDADAN Chapter 204",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDQv",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "203",
       "title": "Komik DANDADAN Chapter 203",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDMv",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "202",
       "title": "Komik DANDADAN Chapter 202",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDIv",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "201",
       "title": "Komik DANDADAN Chapter 201",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDEv",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "200",
       "title": "Komik DANDADAN Chapter 200",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDAv",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "199",
       "title": "Komik DANDADAN Chapter 199",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTkv",
-      "date": "8 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "198",
       "title": "Komik DANDADAN Chapter 198",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTgv",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "197",
       "title": "Komik DANDADAN Chapter 197",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTcv",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "196",
       "title": "Komik DANDADAN Chapter 196",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTYv",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "195",
       "title": "Komik DANDADAN Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTUv",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "194",
       "title": "Komik DANDADAN Chapter 194",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTQv",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "193",
       "title": "Komik DANDADAN Chapter 193",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTMv",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "192",
       "title": "Komik DANDADAN Chapter 192",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTIv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "191",
       "title": "Komik DANDADAN Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTEv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "190",
       "title": "Komik DANDADAN Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTAv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "189",
       "title": "Komik DANDADAN Chapter 189",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xODkv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "188",
       "title": "Komik DANDADAN Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xODgv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "187",
       "title": "Komik DANDADAN Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xODcv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "186",
       "title": "Komik DANDADAN Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xODYv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "185",
       "title": "Komik DANDADAN Chapter 185",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xODUv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "184",
       "title": "Komik DANDADAN Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xODQv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "183",
@@ -355,55 +385,55 @@
       "chapter": "172",
       "title": "Komik DANDADAN Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNzIv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik DANDADAN Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNzEv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "170",
       "title": "Komik DANDADAN Chapter 170",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNzAv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "169",
       "title": "Komik DANDADAN Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNjkv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "168",
       "title": "Komik DANDADAN Chapter 168",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNjgv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "167",
       "title": "Komik DANDADAN Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNjcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "166",
       "title": "Komik DANDADAN Chapter 166",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNjYv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "165",
       "title": "Komik DANDADAN Chapter 165",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNjUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "164",
       "title": "Komik DANDADAN Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNjQv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "163",
@@ -625,49 +655,49 @@
       "chapter": "127",
       "title": "Komik DANDADAN Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjcv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "126",
       "title": "Komik DANDADAN Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjYv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "125",
       "title": "Komik DANDADAN Chapter 125",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "124",
       "title": "Komik DANDADAN Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjQv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "123",
       "title": "Komik DANDADAN Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjMv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "122",
       "title": "Komik DANDADAN Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjIv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "121",
       "title": "Komik DANDADAN Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjEv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "120",
       "title": "Komik DANDADAN Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMjAv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "119",
@@ -973,61 +1003,61 @@
       "chapter": "69",
       "title": "Komik DANDADAN Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02OS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik DANDADAN Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02OC8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik DANDADAN Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02Ny8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik DANDADAN Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02Ni8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik DANDADAN Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02NS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik DANDADAN Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02NC8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik DANDADAN Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02My8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik DANDADAN Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02Mi8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik DANDADAN Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02MS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik DANDADAN Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci02MC8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "59",
@@ -1213,49 +1243,49 @@
       "chapter": "29",
       "title": "Komik DANDADAN Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yOS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik DANDADAN Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yOC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik DANDADAN Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yNy8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik DANDADAN Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yNi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik DANDADAN Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yNS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik DANDADAN Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yNC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik DANDADAN Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMy8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik DANDADAN Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "21",
@@ -1402,5 +1432,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 230
+  "total_chapters": 235
 }

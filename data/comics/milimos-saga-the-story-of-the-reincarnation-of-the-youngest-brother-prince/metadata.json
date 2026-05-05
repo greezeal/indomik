@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-28T11:23:28.141637",
+  "scraped_at": "2026-05-05T18:03:28.882073",
   "alternative_titles": "ミリモス・サーガ-末弟王子の転生戦記, Milimos Saga: The Story of the Reincarnation of the Youngest Brother Prince",
   "status": "Berjalan",
   "author": "tyu-moji",
@@ -24,22 +24,28 @@
   "synopsis": "Manga                    Milimos Saga – The Story of the Reincarnation of the Youngest Brother Prince yang dibuat oleh komikus bernama\n                    tyu-moji ini bercerita tentang\n                    Setelah mengalami kecelakaan kereta api, ia bereinkarnasi ke dunia lain, di mana ia menjadi pangeran termuda dari negara lemah di pegunungan!? Seharusnya ia menikmati kehidupan yang santai dan tenang, tetapi ia menguasai sihir dan teknik suci sendiri dan menjadi seorang marshal militer. Milimos memperoleh dua kekuatan yang tidak dapat hidup berdampingan, dan secara bertahap terlibat dalam perang nasional tanpa kehendaknya sendiri.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Milimos Saga – The Story of the Reincarnation of the Youngest Brother Prince Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlsaW1vcy1zYWdhLXRoZS1zdG9yeS1vZi10aGUtcmVpbmNhcm5hdGlvbi1vZi10aGUteW91bmdlc3QtYnJvdGhlci1wcmluY2UtY2hhcHRlci05Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Milimos Saga – The Story of the Reincarnation of the Youngest Brother Prince Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlsaW1vcy1zYWdhLXRoZS1zdG9yeS1vZi10aGUtcmVpbmNhcm5hdGlvbi1vZi10aGUteW91bmdlc3QtYnJvdGhlci1wcmluY2UtY2hhcHRlci04Lw==",
-      "date": "12 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Milimos Saga – The Story of the Reincarnation of the Youngest Brother Prince Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlsaW1vcy1zYWdhLXRoZS1zdG9yeS1vZi10aGUtcmVpbmNhcm5hdGlvbi1vZi10aGUteW91bmdlc3QtYnJvdGhlci1wcmluY2UtY2hhcHRlci03Lw==",
-      "date": "13 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Milimos Saga – The Story of the Reincarnation of the Youngest Brother Prince Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlsaW1vcy1zYWdhLXRoZS1zdG9yeS1vZi10aGUtcmVpbmNhcm5hdGlvbi1vZi10aGUteW91bmdlc3QtYnJvdGhlci1wcmluY2UtY2hhcHRlci02Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "5",
@@ -72,5 +78,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }
