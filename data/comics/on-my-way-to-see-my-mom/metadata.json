@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.8,
-  "scraped_at": "2026-04-28T20:48:49.094088",
+  "scraped_at": "2026-05-06T11:23:07.090455",
   "alternative_titles": "On the Way to Meet Mom, 엄마를 만나러 가는 길",
   "status": "Tamat",
   "author": "고먕",
@@ -22,40 +22,58 @@
   "synopsis": "Manhwa                    On My Way To See My Mom yang dibuat oleh komikus bernama\n                    고먕 ini bercerita tentang\n                    Mori, seorang anak yang ditemukan di sebuah rumah kosong, terbangun di tempat penampungan oleh tim penyelamat. Suatu hari, saat menyesuaikan diri dengan kehidupan asing, anak tersebut menerima cinta tanpa syarat dari sponsornya dan tumbuh dewasa... Seorang teman dekat meninggalkan ibunya, dan anak tersebut mengetahui bahwa ada makhluk bernama ibu. Mungkinkah orang ini... menjadi ibuku? Kisah perjalanan panjang dan sulit Mori untuk bertemu ibunya.",
   "chapters": [
     {
+      "chapter": "32.2",
+      "title": "Komik On My Way To See My Mom Chapter 32.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMi0yLw==",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "32.1",
+      "title": "Komik On My Way To See My Mom Chapter 32.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMi0xLw==",
+      "date": "7 hari yang lalu"
+    },
+    {
+      "chapter": "31.9",
+      "title": "Komik On My Way To See My Mom Chapter 31.9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMS05Lw==",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "31.8",
       "title": "Komik On My Way To See My Mom Chapter 31.8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMS04Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "31.7",
       "title": "Komik On My Way To See My Mom Chapter 31.7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMS03Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "31.6",
       "title": "Komik On My Way To See My Mom Chapter 31.6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMS02Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31.5",
       "title": "Komik On My Way To See My Mom Chapter 31.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMS01Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31.4",
       "title": "Komik On My Way To See My Mom Chapter 31.4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMS00Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31.3",
       "title": "Komik On My Way To See My Mom Chapter 31.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0zMS0zLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "31.2",
@@ -103,7 +121,7 @@
       "chapter": "26",
       "title": "Komik On My Way To See My Mom Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb24tbXktd2F5LXRvLXNlZS1teS1tb20tY2hhcHRlci0yNi8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "25",
@@ -256,5 +274,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 39
+  "total_chapters": 42
 }
