@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-03-22T20:40:22.744061",
+  "scraped_at": "2026-05-06T15:49:19.417736",
   "alternative_titles": "エイリアンヘッドバット, Alien Headbutt, Хэдбат пришельцам",
   "status": "Berjalan",
   "author": "Inui Shuutarou (乾修太朗)",
@@ -21,35 +21,65 @@
   "synopsis": "Manga                    Alien Headbutt yang dibuat oleh komikus bernama\n                    Inui Shuutarou (乾修太朗) ini bercerita tentang\n                    Sebagai seorang pemuda, Shirokiba meninggalkan pulau kecilnya untuk mencari kejayaan sebagai pegulat profesional di Tokyo. Setelah banyak pengorbanan, ia kembali ke kampung halamannya sebagai juara, tetapi ia mendapati bahwa tempat itu telah dikuasai oleh alien misterius! Serang, lempar, tahan, curang! Ia perlu menggunakan semua yang telah dipelajarinya dari gulat profesional untuk mengalahkan monster-monster ini! Darah, keringat, dan alien yang babak belur dalam serial aksi gulat profesional berintensitas tinggi ini!",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Alien Headbutt Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci0xMC8=",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Alien Headbutt Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci05Lw==",
+      "date": "6 hari yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Alien Headbutt Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci04Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Alien Headbutt Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci03Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Alien Headbutt Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci02Lw==",
+      "date": "1 bulan yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Alien Headbutt Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci01Lw==",
-      "date": "14 menit yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Alien Headbutt Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci00Lw==",
-      "date": "5 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Alien Headbutt Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci0zLw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Alien Headbutt Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci0yLw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Alien Headbutt Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWxpZW4taGVhZGJ1dHQtY2hhcHRlci0xLw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 10
 }

@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-06T11:29:06.961206",
+  "scraped_at": "2026-05-06T15:53:31.434253",
   "alternative_titles": "Sister-in-Law: I’m Really Not a Fool Anymore, 嫂子：我真不是傻子了",
   "status": "Berjalan",
   "author": "九川动漫",
@@ -28,34 +28,46 @@
   "synopsis": "Manhua                    Sister-in-Law: I’m Really Not a Fool Anymore yang dibuat oleh komikus bernama\n                    九川动漫 ini bercerita tentang\n                    Berpura-pura gila selama lima tahun, aku membalikkan keadaan dan membantai musuh-musuhku untuk mencapai puncak! Lalu, di saat yang tepat: giliranku untuk melindungi kalian semua selamanya! Sepuluh anggota keluarga dibunuh secara brutal, dan tujuh wanita cantik bersikeras menikahiku?",
   "chapters": [
     {
+      "chapter": "34",
+      "title": "Komik Sister-in-Law: I’m Really Not a Fool Anymore Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lzdGVyLWluLWxhdy1pbS1yZWFsbHktbm90LWEtZm9vbC1hbnltb3JlLWNoYXB0ZXItMzQv",
+      "date": "22 menit yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik Sister-in-Law: I’m Really Not a Fool Anymore Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lzdGVyLWluLWxhdy1pbS1yZWFsbHktbm90LWEtZm9vbC1hbnltb3JlLWNoYXB0ZXItMzMv",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Sister-in-Law: I’m Really Not a Fool Anymore Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lzdGVyLWluLWxhdy1pbS1yZWFsbHktbm90LWEtZm9vbC1hbnltb3JlLWNoYXB0ZXItMzIv",
-      "date": "4 jam yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Sister-in-Law: I’m Really Not a Fool Anymore Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lzdGVyLWluLWxhdy1pbS1yZWFsbHktbm90LWEtZm9vbC1hbnltb3JlLWNoYXB0ZXItMzEv",
-      "date": "4 jam yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Sister-in-Law: I’m Really Not a Fool Anymore Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lzdGVyLWluLWxhdy1pbS1yZWFsbHktbm90LWEtZm9vbC1hbnltb3JlLWNoYXB0ZXItMzAv",
-      "date": "4 jam yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Sister-in-Law: I’m Really Not a Fool Anymore Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lzdGVyLWluLWxhdy1pbS1yZWFsbHktbm90LWEtZm9vbC1hbnltb3JlLWNoYXB0ZXItMjkv",
-      "date": "4 jam yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Sister-in-Law: I’m Really Not a Fool Anymore Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2lzdGVyLWluLWxhdy1pbS1yZWFsbHktbm90LWEtZm9vbC1hbnltb3JlLWNoYXB0ZXItMjgv",
-      "date": "4 jam yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "27",
@@ -220,5 +232,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 34
 }

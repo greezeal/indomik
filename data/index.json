@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T13:17:49.148928",
-  "total_comics": 1546,
+  "last_updated": "2026-05-06T16:03:37.160831",
+  "total_comics": 1550,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -40,7 +40,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.28,
-      "total_chapters": 261
+      "total_chapters": 262
     },
     {
       "slug": "50kg-cinderella",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -1126,9 +1126,9 @@
       "slug": "turning-into-a-tentacle-monster-made-me-crazier",
       "title": "Turning Into A Tentacle Monster, Made Me Crazier",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 51
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "i-became-the-villain-the-hero-is-obsessed-with",
@@ -1144,7 +1144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "chronicles-of-the-lazy-sovereign",
@@ -1352,7 +1352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.96,
-      "total_chapters": 70
+      "total_chapters": 71
     },
     {
       "slug": "guest-gun",
@@ -2040,7 +2040,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 200
+      "total_chapters": 201
     },
     {
       "slug": "hima-ten",
@@ -2158,9 +2158,9 @@
       "slug": "the-veteran-healer-is-overpowered",
       "title": "The Veteran Healer Is Overpowered",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.44,
-      "total_chapters": 76
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "everyone-loves-her",
@@ -3752,7 +3752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.26,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru",
@@ -4280,7 +4280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 134
+      "total_chapters": 136
     },
     {
       "slug": "the-regressed-extra-becomes-a-genius",
@@ -5208,7 +5208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "soul-land-ii",
@@ -5256,7 +5256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 35
     },
     {
       "slug": "defense-breaker",
@@ -5296,7 +5296,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.49,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "global-beast-tamer-i-can-see-the-path-of-evolution",
@@ -5344,7 +5344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 123
+      "total_chapters": 125
     },
     {
       "slug": "the-vehement-emperor-of-steel",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.81,
-      "total_chapters": 57
+      "total_chapters": 60
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5656,7 +5656,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.45,
-      "total_chapters": 55
+      "total_chapters": 57
     },
     {
       "slug": "eiyuu-to-majo-no-tensei-rabu-kome",
@@ -5768,7 +5768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "konyaku-haki-made-10-nikkan",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 128
+      "total_chapters": 131
     },
     {
       "slug": "chronicle-of-runes",
@@ -6150,9 +6150,9 @@
       "slug": "774935-i-reincarnated-as-the-crazed-heir",
       "title": "I Reincarnated As The Crazed Heir",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 175
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -7120,7 +7120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "demon-evolution",
@@ -7200,7 +7200,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 34
     },
     {
       "slug": "574791-john-x-killer",
@@ -7504,7 +7504,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.62,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "inaka-de-koi-wa-muzukashii",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 80
+      "total_chapters": 82
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",
@@ -8536,7 +8536,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 10
     },
     {
       "slug": "konsei-wa-goen-ga-arimasu-you-ni-quinpath-romance",
@@ -8968,7 +8968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 64
+      "total_chapters": 68
     },
     {
       "slug": "apocalypse-sword-god",
@@ -9120,7 +9120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 163
+      "total_chapters": 164
     },
     {
       "slug": "apocalypse-smuggler-trading-spicy-strips-for-gold-bars",
@@ -10240,7 +10240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 208
+      "total_chapters": 209
     },
     {
       "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
@@ -10488,7 +10488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e",
@@ -10808,7 +10808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "785480-akane-banashi",
@@ -10928,7 +10928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "a-match-with-me",
@@ -11704,7 +11704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.56,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "yonin-no-mama-no-sei-de-ore-no-rabukome-ga-mama-naranai",
@@ -12344,7 +12344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 15
     },
     {
       "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-o-dekake-chuu",
@@ -12352,7 +12352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 78
+      "total_chapters": 80
     },
     {
       "slug": "isekai-dekasegi-nenshuu-icchouen-wo-mochikaeru-kantan-na-oshigoto",
@@ -12369,6 +12369,38 @@
       "status": "Berjalan",
       "rating": 7.77,
       "total_chapters": 3
+    },
+    {
+      "slug": "futago-matomete-kanojo-ni-shinai",
+      "title": "Futago Matomete “Kanojo” ni Shinai?",
+      "type": "Manga",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "isekai-de-haishin-katsudou-wo-shitara-tairyou-no-yandere-shinja-wo-umidashite-shimatta-ken",
+      "title": "Isekai de Haishin Katsudou wo Shitara Tairyou no Yandere Shinja wo Umidashite Shimatta Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.82,
+      "total_chapters": 54
+    },
+    {
+      "slug": "the-genius-decided-to-live-an-ordinary-life",
+      "title": "The Genius Decided to Live an Ordinary Life",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 53
+    },
+    {
+      "slug": "kami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita",
+      "title": "Kami No Techigai De Shindara Zumi De Isekai Ni Hourikomare Mashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.27,
+      "total_chapters": 37
     }
   ]
 }

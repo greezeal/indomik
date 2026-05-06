@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-01T10:51:57.039166",
+  "scraped_at": "2026-05-06T16:00:10.843756",
   "alternative_titles": "싸이코패스 in 무림, Murim Psychopath, Psychopath in Murim",
   "status": "Berjalan",
   "author": "Kim Eon",
@@ -24,34 +24,40 @@
   "synopsis": "Manhwa                    Psychopath in Murim yang dibuat oleh komikus bernama\n                    Kim Eon ini bercerita tentang\n                    [Selamat datang di Murim Online, dunia tempat tinggal para terkuat.][Perangkat Anda mengalami kerusakan, dan proses keluar gagal.][Apakah Anda ingin mencoba memutuskan koneksi sekali lagi?][Ya] [Tidak]Ketika dia mencoba kembali ke realitas virtual, tempat yang dia masuki justru adalah \"Murim yang sebenarnya.\"Seorang psikopat yang hanya muncul sekali dalam satu era jatuh ke Murim karena kesalahan Malaikat Maut.Taring Dong Bongsu yang tanpa ampun menebarkan bayangan di atas Murima, yang penuh dengan intrik dan kejahatan.",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik Psychopath in Murim Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHN5Y2hvcGF0aC1pbi1tdXJpbS1jaGFwdGVyLTI1Lw==",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik Psychopath in Murim Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHN5Y2hvcGF0aC1pbi1tdXJpbS1jaGFwdGVyLTI0Lw==",
-      "date": "25 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Psychopath in Murim Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHN5Y2hvcGF0aC1pbi1tdXJpbS1jaGFwdGVyLTIzLw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Psychopath in Murim Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHN5Y2hvcGF0aC1pbi1tdXJpbS1jaGFwdGVyLTIyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Psychopath in Murim Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHN5Y2hvcGF0aC1pbi1tdXJpbS1jaGFwdGVyLTIxLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Psychopath in Murim Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcHN5Y2hvcGF0aC1pbi1tdXJpbS1jaGFwdGVyLTIwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -168,5 +174,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }

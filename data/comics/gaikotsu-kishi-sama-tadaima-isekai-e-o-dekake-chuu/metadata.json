@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.84,
-  "scraped_at": "2026-05-05T23:57:52.455046",
+  "scraped_at": "2026-05-06T16:00:45.433178",
   "alternative_titles": "Le Chevalier Squelettique, découvrant un nouveau monde, Skeleton Knight, going out to the parallel universe, Skeleton Knight, in Another World, Рыцарь-скелет в ином мире, บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก, 骸骨騎士様、只今異世界へお出掛け中, 해골기사님은 지금 이세계 모험 중",
   "status": "Berjalan",
   "author": "Hakari Enki",
@@ -27,22 +27,34 @@
   "synopsis": "Manga                    Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu yang dibuat oleh komikus bernama\n                    Hakari Enki ini bercerita tentang\n                    Protagonis tertidur saat bermain game online. Namun, dia terbangun di dunia yang aneh dengan penampilan karakter gimnya. Dalam keadaan syok, dia menyadari bahwa dia tidak hanya dilengkapi dengan senjata dan baju besi terkuatnya. Lebih buruk lagi, penampilan pahlawan kita diubah oleh kulit avatar khusus 『Skeleton』 ketika dia memasuki dunia baru ini. Sang protagonis ingin hidup tanpa menarik perhatian, tetapi dia berkenalan dengan peri gelap Ariana dan menerima permintaannya.",
   "chapters": [
     {
+      "chapter": "70.2",
+      "title": "Komik Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu Chapter 70.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2Fpa290c3Uta2lzaGktc2FtYS10YWRhaW1hLWlzZWthaS1lLW8tZGVrYWtlLWNodXUtY2hhcHRlci03MC0yLw==",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "70.1",
+      "title": "Komik Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu Chapter 70.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2Fpa290c3Uta2lzaGktc2FtYS10YWRhaW1hLWlzZWthaS1lLW8tZGVrYWtlLWNodXUtY2hhcHRlci03MC0xLw==",
+      "date": "36 menit yang lalu"
+    },
+    {
       "chapter": "69.2",
       "title": "Komik Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu Chapter 69.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2Fpa290c3Uta2lzaGktc2FtYS10YWRhaW1hLWlzZWthaS1lLW8tZGVrYWtlLWNodXUtY2hhcHRlci02OS0yLw==",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "69.1",
       "title": "Komik Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu Chapter 69.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2Fpa290c3Uta2lzaGktc2FtYS10YWRhaW1hLWlzZWthaS1lLW8tZGVrYWtlLWNodXUtY2hhcHRlci02OS0xLw==",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2Fpa290c3Uta2lzaGktc2FtYS10YWRhaW1hLWlzZWthaS1lLW8tZGVrYWtlLWNodXUtY2hhcHRlci02OC8=",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "67",
@@ -495,5 +507,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 78
+  "total_chapters": 80
 }
