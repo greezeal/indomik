@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-04-26T15:26:46.160570",
+  "scraped_at": "2026-05-07T07:53:47.871653",
   "alternative_titles": "검은머리 기사왕",
   "status": "Berjalan",
   "author": "Mr. Quokka, Nine",
@@ -19,34 +19,46 @@
   "synopsis": "Manhwa                    Black-Haired Knight King yang dibuat oleh komikus bernama\n                    Mr. Quokka, Nine ini bercerita tentang\n                    Di antara orc dan elf, manusia berada di ambang kepunahan. Era manusia dianggap telah berakhir. Hingga ia bertemu dengan gadis berambut hitam, keturunan Raja Ksatria, yang bertugas membesarkan raja berikutnya. Untuk merebut kembali era manusia, ia mengangkat pedangnya untuk terakhir kalinya. Sebuah perang tunggal untuk menjadikan gadis berambut hitam itu raja.\r\n\r\n\"Untuk era manusia.\"",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik Black-Haired Knight King Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGFpcmVkLWtuaWdodC1raW5nLWNoYXB0ZXItMTUv",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Black-Haired Knight King Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGFpcmVkLWtuaWdodC1raW5nLWNoYXB0ZXItMTQv",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Black-Haired Knight King Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGFpcmVkLWtuaWdodC1raW5nLWNoYXB0ZXItMTMv",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Black-Haired Knight King Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGFpcmVkLWtuaWdodC1raW5nLWNoYXB0ZXItMTIv",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Black-Haired Knight King Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGFpcmVkLWtuaWdodC1raW5nLWNoYXB0ZXItMTEv",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Black-Haired Knight King Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGFpcmVkLWtuaWdodC1raW5nLWNoYXB0ZXItMTAv",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Black-Haired Knight King Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGFpcmVkLWtuaWdodC1raW5nLWNoYXB0ZXItOS8=",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "8",
@@ -97,5 +109,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 15
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-01T10:49:57.405016",
+  "scraped_at": "2026-05-07T07:57:11.917936",
   "alternative_titles": "서울기담 민원처리과",
   "status": "Berjalan",
   "author": "Kang Tae Kyung",
@@ -17,28 +17,34 @@
   "synopsis": "Manhwa                    Seoul Ghost Story Civil Complaints Department yang dibuat oleh komikus bernama\n                    Kang Tae Kyung ini bercerita tentang\n                    Dari hantu di kamar mandi Outback di Sinchon hingga dewa lokal kuil lingkungan, kami menangani keluhan tentang \"segala hal\" di Seoul. Peringkat #1 dalam kepuasan warga! Catatan keluhan Jeongsol, seorang pegawai negeri sipil baru di Divisi Keluhan Kisah Aneh Seoul. Seoul adalah tanah suci. Tanah kisah aneh dan mitos, tanah tempat semua makhluk suci dan aneh ini hidup berdampingan dengan manusia. Di masa lalu, ketika roh dan kisah aneh dipanggil melalui kesempatan dan doa, hari ini, ketika peristiwa duniawi sangat berpengaruh terhadap umat manusia, makhluk mitos telah menetap di antara kita. Dan bahkan makhluk-makhluk ini memiliki \"keluhan\" mereka sendiri.",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik Seoul Ghost Story Civil Complaints Department Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VvdWwtZ2hvc3Qtc3RvcnktY2l2aWwtY29tcGxhaW50cy1kZXBhcnRtZW50LWNoYXB0ZXItMTYv",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Seoul Ghost Story Civil Complaints Department Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VvdWwtZ2hvc3Qtc3RvcnktY2l2aWwtY29tcGxhaW50cy1kZXBhcnRtZW50LWNoYXB0ZXItMTUv",
-      "date": "15 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Seoul Ghost Story Civil Complaints Department Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VvdWwtZ2hvc3Qtc3RvcnktY2l2aWwtY29tcGxhaW50cy1kZXBhcnRtZW50LWNoYXB0ZXItMTQv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Seoul Ghost Story Civil Complaints Department Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VvdWwtZ2hvc3Qtc3RvcnktY2l2aWwtY29tcGxhaW50cy1kZXBhcnRtZW50LWNoYXB0ZXItMTMv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Seoul Ghost Story Civil Complaints Department Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VvdWwtZ2hvc3Qtc3RvcnktY2l2aWwtY29tcGxhaW50cy1kZXBhcnRtZW50LWNoYXB0ZXItMTIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -107,5 +113,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 16
 }

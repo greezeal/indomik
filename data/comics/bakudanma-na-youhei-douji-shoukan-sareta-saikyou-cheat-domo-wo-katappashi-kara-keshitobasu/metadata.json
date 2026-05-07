@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.51,
-  "scraped_at": "2026-05-05T23:57:32.413007",
+  "scraped_at": "2026-05-07T07:53:35.658215",
   "alternative_titles": "The Mercenary Bomber Explodes All Cheaters, 爆弾魔な傭兵、同時召喚された最強チート共を片っ端から消し飛ばす",
   "status": "Berjalan",
   "author": "Yuuki Karaku",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Bakudanma na Youhei, Douji Shoukan sareta Saikyou Cheat-domo wo Katappashi kara Keshitobasu yang dibuat oleh komikus bernama\n                    Yuuki Karaku ini bercerita tentang\n                    Jack Aaron is the strongest mercenary known by the nickname “The Bomber.” After completing a heavy mission, what awaited him was a summons to another world!In this summoning, everyone is granted a special ability. However, the ability Jack was given was quite limited: [Bomb Making]. The people who summoned him from the other world dismissed Jack’s ability as useless, and the other summoned individuals began to mock him as a useless foreigner.To return to his original world, he forms a partnership with Alice, an alchemist derisively called \"The Witch.\" During this process, Jack learns that the other summoned individuals, who he thought he had killed in an explosion, are still alive.In order to return to his original world, and to hunt down the surviving summoned individuals, Jack and Alice’s worst journey is about to begin...!",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Bakudanma na Youhei, Douji Shoukan sareta Saikyou Cheat-domo wo Katappashi kara Keshitobasu Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFrdWRhbm1hLW5hLXlvdWhlaS1kb3VqaS1zaG91a2FuLXNhcmV0YS1zYWlreW91LWNoZWF0LWRvbW8td28ta2F0YXBwYXNoaS1rYXJhLWtlc2hpdG9iYXN1LWNoYXB0ZXItMTAv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Bakudanma na Youhei, Douji Shoukan sareta Saikyou Cheat-domo wo Katappashi kara Keshitobasu Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFrdWRhbm1hLW5hLXlvdWhlaS1kb3VqaS1zaG91a2FuLXNhcmV0YS1zYWlreW91LWNoZWF0LWRvbW8td28ta2F0YXBwYXNoaS1rYXJhLWtlc2hpdG9iYXN1LWNoYXB0ZXItOS8=",
-      "date": "20 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "8",
@@ -76,5 +82,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }
