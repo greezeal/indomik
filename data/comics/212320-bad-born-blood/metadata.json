@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.05,
-  "scraped_at": "2026-05-03T19:44:30.286143",
+  "scraped_at": "2026-05-07T17:19:14.057750",
   "alternative_titles": "Sangre maldita, 배드 본 블러드",
   "status": "Berjalan",
   "author": "Pumpkin Bird (호박새),Baeksu Noble (백수귀족)",
@@ -23,34 +23,40 @@
   "synopsis": "Manhwa                    Bad Born Blood yang dibuat oleh komikus bernama\n                    Pumpkin Bird (호박새),Baeksu Noble (백수귀족) ini bercerita tentang\n                    Bumi bukan lagi tempat tinggal manusia. Perjalanan antarsel kini menjadi hal yang biasa, dan teknologi telah menggantikan darah dan daging.\r\n\r\nLuka, yang tumbuh di daerah kumuh, telah berusia lima belas tahun dan mengikuti ujian seleksi. Bakatnya setara dengan Pengawal Kekaisaran.",
   "chapters": [
     {
+      "chapter": "82",
+      "title": "Komik Bad Born Blood Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci04Mi8=",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "81",
       "title": "Komik Bad Born Blood Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci04MS8=",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Bad Born Blood Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci04MC8=",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Bad Born Blood Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci03OS8=",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Bad Born Blood Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci03OC8=",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik Bad Born Blood Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci03Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "76",
@@ -266,7 +272,7 @@
       "chapter": "41",
       "title": "Komik Bad Born Blood Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci00MS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "40",
@@ -290,7 +296,7 @@
       "chapter": "37",
       "title": "Komik Bad Born Blood Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFkLWJvcm4tYmxvb2QtY2hhcHRlci0zNy8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -509,5 +515,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 81
+  "total_chapters": 82
 }

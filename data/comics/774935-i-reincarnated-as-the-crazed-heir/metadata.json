@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-06T17:16:20.958733",
+  "scraped_at": "2026-05-07T17:17:26.424978",
   "alternative_titles": "망나니 소교주로 환생했다 [독점]",
   "status": "Berjalan",
   "author": "Dae Eun-ho",
@@ -22,28 +22,34 @@
   "synopsis": "Manhwa                    I Reincarnated As The Crazed Heir yang dibuat oleh komikus bernama\n                    Dae Eun-ho ini bercerita tentang\n                    putra klan. One Nam Yang Gak dari Moorim Maengism. Meskipun disebut mesin terbaik sepanjang masa, dia diracuni bahkan sebelum dia bisa menjadi pustakawan. - Ku mata terbuka di White Paper Cheon Ki Moorim. Kulitnya putih seperti abu-abu dan tubuhnya ramping dan memanjang. Wajah yang datar seperti parasit. \"mustahil… … !\" Ini tidak akan terjadi. Ini tidak mungkin. Aku buru-buru melihat ke selangkangan. “Wah … … . kamu laki-laki Dan… … Itu cukup bagus.” Dia bereinkarnasi dalam tubuh orang bodoh yang tidak memiliki segalanya kecuali penampilannya. Itu juga merupakan tubuh dari gereja minoritas penyihir kontemporer. Bisakah aku kembali ke Jeongpa? … ?",
   "chapters": [
     {
+      "chapter": "177",
+      "title": "Komik I Reincarnated As The Crazed Heir Chapter 177",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTc3Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "176",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTc2Lw==",
-      "date": "5 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "175",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 175",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTc1Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "174",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTc0Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "173",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTczLw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "172",
@@ -139,7 +145,7 @@
       "chapter": "157",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTU3Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "156",
@@ -163,13 +169,13 @@
       "chapter": "153",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTUzLw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "152",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 152",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMTUyLw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "151",
@@ -961,7 +967,7 @@
       "chapter": "20",
       "title": "Komik I Reincarnated As The Crazed Heir Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1yZWluY2FybmF0ZWQtYXMtdGhlLWNyYXplZC1oZWlyLWNoYXB0ZXItMjAv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "19",
@@ -1084,5 +1090,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 177
+  "total_chapters": 178
 }

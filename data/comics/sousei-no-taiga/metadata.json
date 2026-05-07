@@ -1,0 +1,49 @@
+{
+  "slug": "sousei-no-taiga",
+  "title": "Sousei no Taiga",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvc291c2VpLW5vLXRhaWdhLw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDEvS29taWstU291c2VpLW5vLVRhaWdhLTIyNHgzMTkuanBn",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.85,
+  "scraped_at": "2026-05-07T17:14:17.155001",
+  "alternative_titles": "Taiga of Genesis, Бытиё Тайги, 創世のタイガ, ฝ่ายุคมฤตยู, 创世的大河, تايغا من سفر التكوين",
+  "status": "Berjalan",
+  "author": "Mori Kouji",
+  "illustrator": "Mori Kouji",
+  "demographic": "Seinen",
+  "themes": [
+    "Supernatural",
+    "Survival",
+    "Time Travel"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Historical",
+    "Mystery"
+  ],
+  "synopsis": "Manga                    Sousei no Taiga yang dibuat oleh komikus bernama\n                    Mori Kouji ini bercerita tentang\n                    Kisah seorang pemuda yang tidak memiliki kesadaran akan kenyataan setelah dicampakkan oleh kekasihnya. Dia sedang mengunjungi seminar antropologi budaya bersama teman-teman sekelasnya ketika dia menemukan lukisan dinding kuno, yang membawanya ke masa lalu di mana mamut mendominasi dunia.",
+  "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Sousei no Taiga Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItMy8=",
+      "date": "9 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Sousei no Taiga Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItMi8=",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Sousei no Taiga Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItMS8=",
+      "date": "2 tahun yang lalu"
+    }
+  ],
+  "total_chapters": 3
+}
