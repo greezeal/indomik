@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-06T11:23:01.638537",
+  "scraped_at": "2026-05-07T05:08:59.163614",
   "alternative_titles": "Goleiro 골레이로",
   "status": "Berjalan",
   "author": "",
@@ -18,22 +18,28 @@
   "synopsis": "Manhwa                    GOLIERO yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Kiper… Dengan tinggi 168cm?! Baek Seungwon dikeluarkan dari timnya akibat tinggi badannya yang dinilai kurang cocok untuk mengisi posisi kiper. Setelah itu, Baek Seungwon bersumpah bahwa dia tidak akan bermain sepak bola lagi. Tapi takdirnya berubah setelah dia bertemu dengan tim futsal yang bernama ‘Goranese’. Akankah Seungwon akan bisa tumbuh bersama dengan Goranese?!",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik GOLIERO Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTQyLw==",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik GOLIERO Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTQxLw==",
-      "date": "4 menit yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik GOLIERO Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTQwLw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik GOLIERO Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTM5Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "38",
@@ -75,13 +81,13 @@
       "chapter": "32",
       "title": "Komik GOLIERO Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTMyLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik GOLIERO Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29saWVyby1jaGFwdGVyLTMxLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "30",
@@ -264,5 +270,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 42
 }
