@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.96,
-  "scraped_at": "2026-05-06T17:17:13.375431",
+  "scraped_at": "2026-05-08T22:46:33.417982",
   "alternative_titles": "В следующей жизни, ネクストライフ, 转生奇谭, 넥스트 라이프",
   "status": "Berjalan",
   "author": "Aino Jin",
@@ -28,10 +28,16 @@
   "synopsis": "Manga                    Next Life yang dibuat oleh komikus bernama\n                    Aino Jin ini bercerita tentang\n                    Yamada Takashi kehilangan nyawanya di pegunungan bersalju—itulah yang dia pikirkan, tetapi dia kemudian muncul di tempat yang tidak diketahui; dunia lain yang tampak seperti game yang dia mainkan. Apalagi ada banyak hal yang dia tidak tahu... Sementara bingung, dia masih mempertahankan kemampuan kelas terkuat dan lega. Penyihir tingkat tinggi, \"Orang Bijaksana\" Marius masih hidup sampai hari ini.",
   "chapters": [
     {
+      "chapter": "71",
+      "title": "Komik Next Life Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmV4dC1saWZlLWNoYXB0ZXItNzEv",
+      "date": "43 menit yang lalu"
+    },
+    {
       "chapter": "70",
       "title": "Komik Next Life Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmV4dC1saWZlLWNoYXB0ZXItNzAv",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "69",
@@ -97,7 +103,7 @@
       "chapter": "59",
       "title": "Komik Next Life Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmV4dC1saWZlLWNoYXB0ZXItNTkv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "58",
@@ -454,5 +460,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 71
+  "total_chapters": 72
 }

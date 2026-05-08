@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.65,
-  "scraped_at": "2026-05-07T20:40:17.649476",
+  "scraped_at": "2026-05-08T22:44:55.854824",
   "alternative_titles": "판사 이한영",
   "status": "Berjalan",
   "author": "LEE Haenal, MOON Sung-Ho",
@@ -21,10 +21,40 @@
   "synopsis": "Manhwa                    Judge Lee Han Young yang dibuat oleh komikus bernama\n                    LEE Haenal, MOON Sung-Ho ini bercerita tentang\n                    Sebelum akhirnya dibunuh, Hakim Lee, seorang hakim yang percaya bahwa keadilan dapat direalisasikan di ruang pengadilan, melawan perintah sang atasan dan malah memvonis seorang konglomerat dengan hukuman penjara. Namun, apakah itu karena ucapan yang pernah dia dengar dulu saat masih kecil? Dengan seluruh ingatannya, Lee mendapatkan kehidupan kedua. Lee Han Young, yang hanya ada keadilan di matanya, dunia membutuhkannya.",
   "chapters": [
     {
+      "chapter": "221",
+      "title": "Komik Judge Lee Han Young Chapter 221",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVkZ2UtbGVlLWhhbi15b3VuZy1jaGFwdGVyLTIyMS8=",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "220",
+      "title": "Komik Judge Lee Han Young Chapter 220",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVkZ2UtbGVlLWhhbi15b3VuZy1jaGFwdGVyLTIyMC8=",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "219",
+      "title": "Komik Judge Lee Han Young Chapter 219",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVkZ2UtbGVlLWhhbi15b3VuZy1jaGFwdGVyLTIxOS8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "218",
+      "title": "Komik Judge Lee Han Young Chapter 218",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVkZ2UtbGVlLWhhbi15b3VuZy1jaGFwdGVyLTIxOC8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "217",
+      "title": "Komik Judge Lee Han Young Chapter 217",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVkZ2UtbGVlLWhhbi15b3VuZy1jaGFwdGVyLTIxNy8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "216",
       "title": "Komik Judge Lee Han Young Chapter 216",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVkZ2UtbGVlLWhhbi15b3VuZy1jaGFwdGVyLTIxNi8=",
-      "date": "30 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "215",
@@ -1317,5 +1347,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 216
+  "total_chapters": 221
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.02,
-  "scraped_at": "2026-05-07T07:58:09.906329",
+  "scraped_at": "2026-05-08T22:47:11.404696",
   "alternative_titles": "무지개다리 파수꾼, Guard of the Rainbow Bridge",
   "status": "Berjalan",
   "author": "Iseo (이서)",
@@ -28,28 +28,46 @@
   "synopsis": "Manhwa                    Rainbow Bridge Watchman yang dibuat oleh komikus bernama\n                    Iseo (이서) ini bercerita tentang\n                    Han Cheol, seorang dokter hewan terkenal yang hanya tahu uang dan kesuksesan, suatu hari dapat mendengar hewan-hewan…",
   "chapters": [
     {
+      "chapter": "188",
+      "title": "Komik Rainbow Bridge Watchman Chapter 188",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xODgv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "187",
+      "title": "Komik Rainbow Bridge Watchman Chapter 187",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xODcv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "186",
+      "title": "Komik Rainbow Bridge Watchman Chapter 186",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xODYv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "185",
       "title": "Komik Rainbow Bridge Watchman Chapter 185",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xODUv",
-      "date": "44 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "184",
       "title": "Komik Rainbow Bridge Watchman Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xODQv",
-      "date": "45 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "183",
       "title": "Komik Rainbow Bridge Watchman Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xODMv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "182",
       "title": "Komik Rainbow Bridge Watchman Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xODIv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "181",
@@ -85,7 +103,7 @@
       "chapter": "176",
       "title": "Komik Rainbow Bridge Watchman Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmFpbmJvdy1icmlkZ2Utd2F0Y2htYW4tY2hhcHRlci0xNzYv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "174",
@@ -1132,5 +1150,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 184
+  "total_chapters": 187
 }

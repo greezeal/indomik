@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.2,
-  "scraped_at": "2026-05-07T20:41:30.004874",
+  "scraped_at": "2026-05-08T22:44:16.642089",
   "alternative_titles": "우주천마 3077, Space Heavenly Demon 3077, Cosmic Demon 3077",
   "status": "Berjalan",
   "author": "Sanha",
@@ -30,10 +30,16 @@
   "synopsis": "Manhwa                    Cosmic Heavenly Demon 3077 yang dibuat oleh komikus bernama\n                    Sanha ini bercerita tentang\n                    Setelah bertahun-tahun yang tak terhitung jumlahnya, Iblis Surgawi yang tersegel di dalam Gunung Tai akhirnya terbangun, hanya untuk mengetahui bahwa umat manusia telah lama meninggalkan Bumi yang penuh radiasi dan kini menjelajahi pelosok galaksi.",
   "chapters": [
     {
+      "chapter": "89",
+      "title": "Komik Cosmic Heavenly Demon 3077 Chapter 89",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci04OS8=",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "88",
       "title": "Komik Cosmic Heavenly Demon 3077 Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci04OC8=",
-      "date": "27 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "87",
@@ -63,7 +69,7 @@
       "chapter": "83",
       "title": "Komik Cosmic Heavenly Demon 3077 Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci04My8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "82",
@@ -171,7 +177,7 @@
       "chapter": "65",
       "title": "Komik Cosmic Heavenly Demon 3077 Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci02NS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "64",
@@ -225,7 +231,7 @@
       "chapter": "56",
       "title": "Komik Cosmic Heavenly Demon 3077 Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWhlYXZlbmx5LWRlbW9uLTMwNzctY2hhcHRlci01Ni8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -558,5 +564,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 88
+  "total_chapters": 89
 }

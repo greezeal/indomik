@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.25,
-  "scraped_at": "2026-05-07T20:40:55.436556",
+  "scraped_at": "2026-05-08T22:44:21.830558",
   "alternative_titles": "Мукхян — Дарк Леди, 묵향 다크레이디",
   "status": "Berjalan",
   "author": "구깃, 이재헌",
@@ -26,16 +26,22 @@
   "synopsis": "Manhwa                    MookHyang – Dark Lady yang dibuat oleh komikus bernama\n                    구깃, 이재헌 ini bercerita tentang\n                    Sebagai master dari School of Unholy Arts dan sebagai Unmasked Demon yang tak terkalahkan, MookHyang sayangnya jatuh ke dunia fantasi yang aneh oleh sihir musuhnya (School of Blood Arts). Di dunia baru peri, penyihir, ksatria, dan naga, petualangan MookHyang menemukan jalan kembali ke dunia lamanya (Murim) terungkap.",
   "chapters": [
     {
+      "chapter": "287",
+      "title": "Komik MookHyang – Dark Lady Chapter 287",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9va2h5YW5nLWRhcmstbGFkeS1jaGFwdGVyLTI4Ny8=",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "286",
       "title": "Komik MookHyang – Dark Lady Chapter 286",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9va2h5YW5nLWRhcmstbGFkeS1jaGFwdGVyLTI4Ni8=",
-      "date": "21 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "285",
       "title": "Komik MookHyang – Dark Lady Chapter 285",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9va2h5YW5nLWRhcmstbGFkeS1jaGFwdGVyLTI4NS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "284",
@@ -161,13 +167,13 @@
       "chapter": "264",
       "title": "Komik MookHyang – Dark Lady Chapter 264",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9va2h5YW5nLWRhcmstbGFkeS1jaGFwdGVyLTI2NC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "263",
       "title": "Komik MookHyang – Dark Lady Chapter 263",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9va2h5YW5nLWRhcmstbGFkeS1jaGFwdGVyLTI2My8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "262",
@@ -1736,5 +1742,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 285
+  "total_chapters": 286
 }
