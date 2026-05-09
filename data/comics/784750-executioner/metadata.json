@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.93,
-  "scraped_at": "2026-05-01T10:54:15.962149",
+  "scraped_at": "2026-05-09T16:14:06.789740",
   "alternative_titles": "The Executioner (Lee Jehwan), 사형집행관",
   "status": "Berjalan",
   "author": "Park Bumjin (박범진)",
@@ -27,16 +27,40 @@
   "synopsis": "Manhwa                    Executioner yang dibuat oleh komikus bernama\n                    Park Bumjin (박범진) ini bercerita tentang\n                    Penjahat yang tidak bisa membunuhnya saat dia menjadi pahlawan dan memenjarakannya. Sekarang dia menjadi sipir penjara dan melakukan eksekusi dengan tangannya sendiri.",
   "chapters": [
     {
+      "chapter": "56",
+      "title": "Komik Executioner Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01Ni8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "55",
+      "title": "Komik Executioner Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01NS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "54",
+      "title": "Komik Executioner Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01NC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "53",
+      "title": "Komik Executioner Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01My8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "52",
       "title": "Komik Executioner Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01Mi8=",
-      "date": "12 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Executioner Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01MS8=",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "50",
@@ -339,5 +363,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 52
+  "total_chapters": 56
 }

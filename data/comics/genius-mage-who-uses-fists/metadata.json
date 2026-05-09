@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.17,
-  "scraped_at": "2026-05-05T04:52:03.468623",
+  "scraped_at": "2026-05-09T16:11:53.023342",
   "alternative_titles": "주먹 쓰는 천재 마법사, The Genius Mage Who Uses His Fists, The Genius Mage Who Fights With Their Fists",
   "status": "Berjalan",
   "author": "Wolcheon,Team Potato Scones",
@@ -26,10 +26,16 @@
   "synopsis": "Manhwa                    Genius Mage Who Uses Fists yang dibuat oleh komikus bernama\n                    Wolcheon,Team Potato Scones ini bercerita tentang\n                    Juara dunia MMA Kim Jin-ho telah terbangun di dunia Last Saver, sebagai penyihir Zed Arahan.\r\n\r\nDi dunia lain ini, ksatria memiliki jarak dekat dan penyihir memiliki jarak jauh. Namun, sepertinya Zed tidak memiliki kekuatan sihir?!\r\n\r\nSeorang jenius yang melanggar hukum abadi telah muncul!",
   "chapters": [
     {
+      "chapter": "67",
+      "title": "Komik Genius Mage Who Uses Fists Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hZ2Utd2hvLXVzZXMtZmlzdHMtY2hhcHRlci02Ny8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "66",
       "title": "Komik Genius Mage Who Uses Fists Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hZ2Utd2hvLXVzZXMtZmlzdHMtY2hhcHRlci02Ni8=",
-      "date": "28 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "65",
@@ -77,13 +83,13 @@
       "chapter": "58",
       "title": "Komik Genius Mage Who Uses Fists Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hZ2Utd2hvLXVzZXMtZmlzdHMtY2hhcHRlci01OC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Genius Mage Who Uses Fists Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hZ2Utd2hvLXVzZXMtZmlzdHMtY2hhcHRlci01Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "56",
@@ -125,13 +131,13 @@
       "chapter": "50",
       "title": "Komik Genius Mage Who Uses Fists Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hZ2Utd2hvLXVzZXMtZmlzdHMtY2hhcHRlci01MC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Genius Mage Who Uses Fists Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLW1hZ2Utd2hvLXVzZXMtZmlzdHMtY2hhcHRlci00OS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "48",
@@ -422,5 +428,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 66
+  "total_chapters": 67
 }

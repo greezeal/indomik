@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-09T09:01:28.552696",
+  "scraped_at": "2026-05-09T16:11:30.714620",
   "alternative_titles": "Star Armor Soul Will Pass, 星甲魂将传",
   "status": "Berjalan",
   "author": "乐想动漫",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Legend of Star General yang dibuat oleh komikus bernama\n                    乐想动漫 ini bercerita tentang\n                    Song Yunxiang, Jenderal Jiwa Bintang terakhir dari Ras Manusia, membawa sistem kembali ke era kampus. Ketika remaja, ia dibutakan oleh jiwa yang tidak utuh, karena ia lemah dan hanya bisa menyaksikan kerabat dan teman-temannya mati di hadapannya.\r\n\r\nDalam kehidupan ini, ia kembali dengan kelahiran kembali sistem, dengan 60 tahun pengalaman tempur dan pengetahuan dan teknologi, dan kembali ke sekolah. Sejak saat itu, dia biasa membangun mecha untuk melawan monster…\r\n\r\nHal-hal yang disesali, orang-orang yang dirindukan, kali ini tidak akan meninggalkan penyesalan",
   "chapters": [
     {
+      "chapter": "362",
+      "title": "Komik Legend of Star General Chapter 362",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTM2Mi8=",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "361",
       "title": "Komik Legend of Star General Chapter 361",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTM2MS8=",
-      "date": "28 menit yang lalu"
+      "date": "9 jam yang lalu"
     },
     {
       "chapter": "360",
@@ -501,7 +507,7 @@
       "chapter": "283",
       "title": "Komik Legend of Star General Chapter 283",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXN0YXItZ2VuZXJhbC1jaGFwdGVyLTI4My8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "282",
@@ -2226,5 +2232,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 367
+  "total_chapters": 368
 }
