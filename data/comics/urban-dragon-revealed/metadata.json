@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-07T20:39:33.825558",
+  "scraped_at": "2026-05-09T08:57:44.602754",
   "alternative_titles": "都市隱龍, Dūshì Yǐn Lóng, Urban Dragon Revealed",
   "status": "Berjalan",
   "author": "Guó Dāng",
@@ -19,52 +19,76 @@
   "synopsis": "Manhua                    Urban Dragon Revealed yang dibuat oleh komikus bernama\n                    Guó Dāng ini bercerita tentang\n                    Wang Han, yang memicu kekacauan internasional, hidup menyendiri di kota dan mulai bekerja sebagai pengantar makanan. Setelah mabuk-mabukan, ia menghamili putri keluarga Su, dan kehidupan damainya kembali terganggu. Saat badai mengamuk, naga tersembunyi lahir, mengguncang dunia!",
   "chapters": [
     {
+      "chapter": "52",
+      "title": "Komik Urban Dragon Revealed Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNTIv",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "51",
+      "title": "Komik Urban Dragon Revealed Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNTEv",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "50",
+      "title": "Komik Urban Dragon Revealed Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNTAv",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "49",
+      "title": "Komik Urban Dragon Revealed Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDkv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Urban Dragon Revealed Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDgv",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Urban Dragon Revealed Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDcv",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Urban Dragon Revealed Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDYv",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Urban Dragon Revealed Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDUv",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Urban Dragon Revealed Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDQv",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Urban Dragon Revealed Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDMv",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Urban Dragon Revealed Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDIv",
-      "date": "9 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Urban Dragon Revealed Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItNDEv",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "40",
@@ -307,5 +331,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 52
 }
