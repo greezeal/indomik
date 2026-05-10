@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-21T11:06:19.273736",
+  "scraped_at": "2026-05-10T12:47:36.364145",
   "alternative_titles": "自分をSSS級だと思い込んでいるC級魔術学生, C-level Magic Student Who Thinks He Is SSS Class, Học sinh ma thuật hạng C ảo tưởng mình là hạng SSS",
   "status": "Berjalan",
   "author": "NKMR",
@@ -23,11 +23,23 @@
   "synopsis": "Manga                    Jibun Wo SSS Kyuda to Omoikondeiru C Kyu Majutsu Gakusei yang dibuat oleh komikus bernama\n                    NKMR ini bercerita tentang\n                    Pria terkuat di sekolah biasanya menyembunyikan kekuatan sebenarnya dan bertingkah seperti siswa biasa…… Ada seorang pria yang mempertaruhkan nyawanya pada Mousou seperti itu. Shion Ichinose, seorang siswa biasa di Akademi Sihir Crawford. Shion terus bertingkah seperti \"peringkat SSS\" baik di dalam maupun di luar sekolah, tetapi perilakunya yang eksentrik akhirnya melibatkan orang-orang di sekitarnya……? Hanya Mousou dan aktingnya yang berperingkat SSS! Kisah pahlawan yang salah kaprah tentang seorang siswa sihir peringkat C yang gila dan \"terkuat\" ini dibuka dengan megah di sini!!",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Jibun Wo SSS Kyuda to Omoikondeiru C Kyu Majutsu Gakusei Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamlidW4td28tc3NzLWt5dWRhLXRvLW9tb2lrb25kZWlydS1jLWt5dS1tYWp1dHN1LWdha3VzZWktY2hhcHRlci0zLw==",
+      "date": "44 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Jibun Wo SSS Kyuda to Omoikondeiru C Kyu Majutsu Gakusei Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamlidW4td28tc3NzLWt5dWRhLXRvLW9tb2lrb25kZWlydS1jLWt5dS1tYWp1dHN1LWdha3VzZWktY2hhcHRlci0yLw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Jibun Wo SSS Kyuda to Omoikondeiru C Kyu Majutsu Gakusei Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvamlidW4td28tc3NzLWt5dWRhLXRvLW9tb2lrb25kZWlydS1jLWt5dS1tYWp1dHN1LWdha3VzZWktY2hhcHRlci0xLw==",
-      "date": "3 jam yang lalu"
+      "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 3
 }
