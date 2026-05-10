@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.09,
-  "scraped_at": "2026-05-10T14:14:07.369944",
+  "scraped_at": "2026-05-10T19:50:48.151564",
   "alternative_titles": "My Crush's Crush, ぼくの好きな人が好きな人",
   "status": "Berjalan",
   "author": "Aoi Sekina",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Boku no Suki na Hito ga Suki na Hito yang dibuat oleh komikus bernama\n                    Aoi Sekina ini bercerita tentang\n                    Ketika tokoh utama, Kanara Akizuki, mengaku kepada gadis Miya Fuwa yang telah lama jatuh cinta dan memutuskannya. Mengetahui bahwa Miya memiliki seseorang yang disukainya, Kanata mengunjungi \"departemen uji klinis\" yang mencurigakan di mana orang tersebut dikatakan sebagai direkturnya, dan mencoba mencari tahu apakah dia orang yang tepat untuknya. Episode pertama menggambarkan realitas departemen uji klinis, yang kegiatannya tidak dapat dibayangkan dari namanya, dan alasan direkturnya, Suzukaze, memulai departemen uji klinis.",
   "chapters": [
     {
+      "chapter": "36.5",
+      "title": "Komik Boku no Suki na Hito ga Suki na Hito Chapter 36.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1zdWtpLW5hLWhpdG8tZ2Etc3VraS1uYS1oaXRvLWNoYXB0ZXItMzYtNS8=",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Boku no Suki na Hito ga Suki na Hito Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1zdWtpLW5hLWhpdG8tZ2Etc3VraS1uYS1oaXRvLWNoYXB0ZXItMzYv",
-      "date": "35 menit yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "35",
@@ -43,7 +49,7 @@
       "chapter": "33",
       "title": "Komik Boku no Suki na Hito ga Suki na Hito Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1zdWtpLW5hLWhpdG8tZ2Etc3VraS1uYS1oaXRvLWNoYXB0ZXItMzMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -310,5 +316,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 49
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-07T07:56:29.796044",
+  "scraped_at": "2026-05-10T19:47:35.571215",
   "alternative_titles": "아티팩트 먹는 플레이어",
   "status": "Berjalan",
   "author": "Giin, Venti",
@@ -19,40 +19,46 @@
   "synopsis": "Manhwa                    Artifact-Devouring Player yang dibuat oleh komikus bernama\n                    Giin, Venti ini bercerita tentang\n                    Metodeku untuk menjadi lebih kuat sangat sederhana—makan.\r\n\r\nAku hanya perlu makan artefak.\r\n\r\nAku sudah mengalami kemunduran, jadi aku bisa makan sebanyak yang aku mau sekarang, kan?",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik Artifact-Devouring Player Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTQxLw==",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik Artifact-Devouring Player Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTQwLw==",
-      "date": "25 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Artifact-Devouring Player Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTM5Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Artifact-Devouring Player Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTM4Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Artifact-Devouring Player Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTM3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Artifact-Devouring Player Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTM2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Artifact-Devouring Player Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTM1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "34",
@@ -94,25 +100,25 @@
       "chapter": "28",
       "title": "Komik Artifact-Devouring Player Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTI4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Artifact-Devouring Player Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTI3Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Artifact-Devouring Player Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTI2Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Artifact-Devouring Player Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTI1Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -259,5 +265,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }

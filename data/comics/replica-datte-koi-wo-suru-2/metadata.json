@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-07T20:43:06.609696",
+  "scraped_at": "2026-05-10T19:53:49.139501",
   "alternative_titles": "レプリカだって、恋をする。, Even a Replica Can Fall in Love, Kể Cả Bản Sao Cũng Biết Yêu, Даже копия может влюбиться, Las réplicas también se enamoran",
   "status": "Berjalan",
   "author": "Haruna Don",
@@ -25,22 +25,34 @@
   "synopsis": "Manga                    Replica Datte Koi wo suru yang dibuat oleh komikus bernama\n                    Haruna Don ini bercerita tentang\n                    Di hari-hari ketika dia sakit, di hari-hari ketika dia memiliki pekerjaan yang membosankan, di hari-hari ketika dia menghadapi ujian.\r\n\r\nDi hari-hari ketika dia terlalu malas untuk pergi ke sekolah, mereka beralih kepadaku.\r\n\r\nAku adalah pengganti tubuh yang praktis untuk seorang gadis bernama Sunao Aikawa, dan itu adalah aku.\r\nMungkin penampilanku persis sama, tetapi kepribadianku sedikit berbeda.\r\nAku tidak bisa keluar dengan bebas, aku bahkan tidak bisa membuat rencana untuk besok.\r\n\r\nAku adalah salinan yang misinya adalah bekerja untuk yang asli.\r\nAku seharusnya menjadi salinan, tetapi aku jatuh cinta.\r\n\r\nSebuah \"kisah cinta\" yang sangat indah dan sedikit misterius yang terjadi di kota tepi laut.",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Replica Datte Koi wo suru Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVwbGljYS1kYXR0ZS1rb2ktd28tc3VydS1jaGFwdGVyLTIxLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Replica Datte Koi wo suru Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVwbGljYS1kYXR0ZS1rb2ktd28tc3VydS1jaGFwdGVyLTIwLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Replica Datte Koi wo suru Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVwbGljYS1kYXR0ZS1rb2ktd28tc3VydS1jaGFwdGVyLTE5Lw==",
-      "date": "37 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Replica Datte Koi wo suru Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVwbGljYS1kYXR0ZS1rb2ktd28tc3VydS1jaGFwdGVyLTE4Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Replica Datte Koi wo suru Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVwbGljYS1kYXR0ZS1rb2ktd28tc3VydS1jaGFwdGVyLTE3Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "16",
@@ -58,7 +70,7 @@
       "chapter": "14",
       "title": "Komik Replica Datte Koi wo suru Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVwbGljYS1kYXR0ZS1rb2ktd28tc3VydS1jaGFwdGVyLTE0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -139,5 +151,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 21
 }

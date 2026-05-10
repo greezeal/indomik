@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-02T18:34:24.139453",
+  "scraped_at": "2026-05-10T19:53:56.782407",
   "alternative_titles": "Buku Harian Si Gadis Monster Tumbuhan, 植物モンスター娘日記　～聖女だった私が裏切られた果てにアルラウネに転生してしまったので、これからは光合成をしながら静かに植物ライフを過ごします～",
   "status": "Berjalan",
   "author": "Minase, Riritto",
@@ -23,22 +23,34 @@
   "synopsis": "Manga                    Shokubutsu Monster Musume Nikki yang dibuat oleh komikus bernama\n                    Minase, Riritto ini bercerita tentang\n                    Aku tanaman, jadi aku tidak bisa bergerak, tapi rupanya wujudku sangat cantik!?\r\n\r\nSeorang Saint yang dikhianati dan dibunuh oleh Kouhai dan sang pahlawan dalam perjalanan untuk menaklukkan Raja Iblis.\r\n\r\nDi ambang kematian, diriku mengingat kehidupanku sebelumnya sebagai gadis SMA di Jepang, tapi itu gak ada gunanya dan aku pun dilahap oleh monster bunga.\r\n\r\nTanpa kusadari, diriku telah bereinkarnasi menjadi sosok berwujud manusia di tubuh bagian atas dan monster tanaman di bagian bawah. Ialah Arlaune, dengan membawa ingatan seorang Gadis SMA dan seorang Saint.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Shokubutsu Monster Musume Nikki Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTE4Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Shokubutsu Monster Musume Nikki Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTE3Lw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Shokubutsu Monster Musume Nikki Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTE2Lw==",
-      "date": "27 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Shokubutsu Monster Musume Nikki Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTE1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Shokubutsu Monster Musume Nikki Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTE0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -62,19 +74,19 @@
       "chapter": "10",
       "title": "Komik Shokubutsu Monster Musume Nikki Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTEwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Shokubutsu Monster Musume Nikki Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTkv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Shokubutsu Monster Musume Nikki Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTgv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -122,8 +134,8 @@
       "chapter": "1",
       "title": "Komik Shokubutsu Monster Musume Nikki Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hva3VidXRzdS1tb25zdGVyLW11c3VtZS1uaWtraS1jaGFwdGVyLTEv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 19
 }
