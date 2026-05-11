@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.76,
-  "scraped_at": "2026-05-10T19:52:47.721485",
+  "scraped_at": "2026-05-11T12:03:33.406995",
   "alternative_titles": "The Child Loved by God, 神に愛された子",
   "status": "Berjalan",
   "author": "Suzuki Kataru",
@@ -24,10 +24,16 @@
   "synopsis": "Manga                    Kami ni Aisareta Ko yang dibuat oleh komikus bernama\n                    Suzuki Kataru ini bercerita tentang\n                    Orang tua yang menumpuk perbuatan baik di Jepang mencapai akhir hidupnya, dan bereinkarnasi ke dunia lain sebagai Lean Olgott, cucu dari raja tertentu. Suatu hari, bocah laki-laki, yang dibesarkan dihujani cinta keluarganya, memperhatikan bahwa dia telah dianugerahi gelar The Child Loved by God. Dia mengabaikannya untuk sementara waktu, tetapi secara bertahap, ketidaknormalan kemampuannya sendiri menjadi jelas.\r\n\r\nKekuatan sihir yang jauh melampaui orang biasa, berbicara dengan tumbuhan ……. penyebab semua ini, seperti yang diharapkan, adalah gelar itu!\r\n\r\nSuatu malam, Lean Olgott, yang menginginkan kehidupan sehari-hari yang damai, dipanggil oleh binatang suci yang legendaris, dan hidup benar-benar berubah–!",
   "chapters": [
     {
+      "chapter": "53",
+      "title": "Komik Kami ni Aisareta Ko Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaS1uaS1haXNhcmV0YS1rby1jaGFwdGVyLTUzLw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "52",
       "title": "Komik Kami ni Aisareta Ko Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaS1uaS1haXNhcmV0YS1rby1jaGFwdGVyLTUyLw==",
-      "date": "2 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "51",
@@ -336,5 +342,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 52
+  "total_chapters": 53
 }
