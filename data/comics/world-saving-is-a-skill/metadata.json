@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-05T04:48:54.452504",
+  "scraped_at": "2026-05-11T15:38:03.533697",
   "alternative_titles": "The One Who Saved a World Before Will Be Best at Saving Another, The Return of the World Savior, World-Saving Is a Skill, 세상도 구해본 놈이 잘 구한다",
   "status": "Berjalan",
   "author": "Anakpil, rororo",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    World-Saving Is A Skill yang dibuat oleh komikus bernama\n                    Anakpil, rororo ini bercerita tentang\n                    Selama 20 tahun, Hyeonseok melawan monster di dunia lain sebelum akhirnya berhasil menyelamatkannya dan dikirim kembali ke Bumi sebagai hadiah. Kini, sebagai mantan pengantar barang bernama Chanseok, ia berharap dapat menikmati kemudahan modern, hanya untuk menemukan bahwa Bumi sangat berbeda dari yang diingatnya. Monster mulai muncul dari Titik Erosi yang muncul secara acak, dan orang-orang dengan kemampuan bawaan menjadi Pemburu untuk mengalahkan mereka. Dengan enggan, Chanseok mendaftar untuk menjadi Pemburu, terutama karena uang. Ia pernah menyelamatkan dunia sekali sebelumnya, jadi seberapa sulitkah itu untuk kedua kalinya?",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik World-Saving Is A Skill Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0yNi8=",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik World-Saving Is A Skill Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0yNS8=",
-      "date": "12 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik World-Saving Is A Skill Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0yNC8=",
-      "date": "13 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik World-Saving Is A Skill Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0yMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik World-Saving Is A Skill Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0yMi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik World-Saving Is A Skill Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0yMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -60,7 +66,7 @@
       "chapter": "19",
       "title": "Komik World-Saving Is A Skill Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0xOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -84,7 +90,7 @@
       "chapter": "15",
       "title": "Komik World-Saving Is A Skill Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtc2F2aW5nLWlzLWEtc2tpbGwtY2hhcHRlci0xNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -177,5 +183,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

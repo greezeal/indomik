@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-10T19:47:40.940098",
+  "scraped_at": "2026-05-11T15:36:52.560749",
   "alternative_titles": "钢铁契约",
   "status": "Berjalan",
   "author": "乐想动漫, 摩动核豪霸",
@@ -22,64 +22,76 @@
   "synopsis": "Manhua                    Steel Covenant yang dibuat oleh komikus bernama\n                    乐想动漫, 摩动核豪霸 ini bercerita tentang\n                    Seorang Master martial Arts Menandatangani Kontrak “Magic” Dengan Steel Suit, mereka berpetualang jauh Melewati perkotaan.",
   "chapters": [
     {
+      "chapter": "62",
+      "title": "Komik Steel Covenant Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci02Mi8=",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "61",
+      "title": "Komik Steel Covenant Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci02MS8=",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "60",
       "title": "Komik Steel Covenant Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci02MC8=",
-      "date": "13 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Steel Covenant Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01OS8=",
-      "date": "13 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Steel Covenant Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01OC8=",
-      "date": "13 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Steel Covenant Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01Ny8=",
-      "date": "13 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Steel Covenant Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01Ni8=",
-      "date": "13 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Steel Covenant Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01NS8=",
-      "date": "13 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Steel Covenant Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01NC8=",
-      "date": "15 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Steel Covenant Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01My8=",
-      "date": "15 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Steel Covenant Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01Mi8=",
-      "date": "15 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Steel Covenant Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RlZWwtY292ZW5hbnQtY2hhcHRlci01MS8=",
-      "date": "16 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "50",
@@ -394,5 +406,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 62
+  "total_chapters": 64
 }
