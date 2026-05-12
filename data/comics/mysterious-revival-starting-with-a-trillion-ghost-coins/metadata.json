@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-09T08:56:33.039688",
+  "scraped_at": "2026-05-12T23:38:36.697129",
   "alternative_titles": "诡秘复苏：开局掌握万亿诡币",
   "status": "Berjalan",
   "author": "Chu Yang",
@@ -23,16 +23,22 @@
   "synopsis": "Manhua                    Mysterious Revival: Starting with a Trillion Ghost Coins yang dibuat oleh komikus bernama\n                    Chu Yang ini bercerita tentang\n                    Di dunia pasca-apokaliptik yang aneh, sang protagonis Chen Mu terlahir kembali dengan satu triliun koin hantu di tangannya. Sejak awal ia menjadi semacam \"investor malaikat\": sementara yang lain berjuang mati-matian memperebutkan beberapa koin hantu, Chen Mu sudah membeli berbagai lokasi menyeramkan. Sementara semua orang masih berjuang untuk bertahan hidup dalam aturan yang ada, ia malah membalikkan keadaan dan menjadi orang yang menetapkan aturan tersebut. \"Kau bahkan bisa memainkan kiamat seperti ini?\" Dihadapkan dengan keraguan seperti itu, Chen Mu hanya mengerutkan bibir dan berkata: \"Tenang—aku bisa mengatasinya.\"",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik Mysterious Revival: Starting with a Trillion Ghost Coins Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXlzdGVyaW91cy1yZXZpdmFsLXN0YXJ0aW5nLXdpdGgtYS10cmlsbGlvbi1naG9zdC1jb2lucy1jaGFwdGVyLTE1Lw==",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "14",
       "title": "Komik Mysterious Revival: Starting with a Trillion Ghost Coins Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXlzdGVyaW91cy1yZXZpdmFsLXN0YXJ0aW5nLXdpdGgtYS10cmlsbGlvbi1naG9zdC1jb2lucy1jaGFwdGVyLTE0Lw==",
-      "date": "3 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Mysterious Revival: Starting with a Trillion Ghost Coins Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXlzdGVyaW91cy1yZXZpdmFsLXN0YXJ0aW5nLXdpdGgtYS10cmlsbGlvbi1naG9zdC1jb2lucy1jaGFwdGVyLTEzLw==",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "12",
@@ -44,7 +50,7 @@
       "chapter": "11",
       "title": "Komik Mysterious Revival: Starting with a Trillion Ghost Coins Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXlzdGVyaW91cy1yZXZpdmFsLXN0YXJ0aW5nLXdpdGgtYS10cmlsbGlvbi1naG9zdC1jb2lucy1jaGFwdGVyLTExLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "10",
@@ -80,7 +86,7 @@
       "chapter": "5",
       "title": "Komik Mysterious Revival: Starting with a Trillion Ghost Coins Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXlzdGVyaW91cy1yZXZpdmFsLXN0YXJ0aW5nLXdpdGgtYS10cmlsbGlvbi1naG9zdC1jb2lucy1jaGFwdGVyLTUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "4",
@@ -107,5 +113,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 14
+  "total_chapters": 15
 }
