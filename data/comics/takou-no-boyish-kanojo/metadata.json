@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.84,
-  "scraped_at": "2026-05-11T12:01:24.380488",
+  "scraped_at": "2026-05-12T15:19:29.821984",
   "alternative_titles": "他校のボーイッシュ彼女, Boyish Girlfriend from Another School",
   "status": "Berjalan",
   "author": "Gyuunyuu Mugigohan",
@@ -21,34 +21,40 @@
   "synopsis": "Manga                    Takou no Boyish Kanojo yang dibuat oleh komikus bernama\n                    Gyuunyuu Mugigohan ini bercerita tentang\n                    Pacar tomboy dari Sekolah Lain",
   "chapters": [
     {
+      "chapter": "51",
+      "title": "Komik Takou no Boyish Kanojo Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTUxLw==",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "50",
       "title": "Komik Takou no Boyish Kanojo Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTUwLw==",
-      "date": "14 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Takou no Boyish Kanojo Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTQ5Lw==",
-      "date": "21 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Takou no Boyish Kanojo Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTQ4Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Takou no Boyish Kanojo Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTQ3Lw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Takou no Boyish Kanojo Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTQ2Lw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "45",
@@ -66,7 +72,7 @@
       "chapter": "43",
       "title": "Komik Takou no Boyish Kanojo Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTQzLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "42",
@@ -174,7 +180,7 @@
       "chapter": "25",
       "title": "Komik Takou no Boyish Kanojo Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTI1Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -186,7 +192,7 @@
       "chapter": "23",
       "title": "Komik Takou no Boyish Kanojo Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTIzLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -315,5 +321,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 50
 }
