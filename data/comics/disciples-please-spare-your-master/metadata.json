@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-12T23:34:59.719116",
+  "scraped_at": "2026-05-13T18:17:22.826693",
   "alternative_titles": "Fanpai Tu Er Ni Jiu Fangguo Shi Zun Ba, Fǎnpài Tú Er Nǐ Jiù Fàngguò Shī Zūn Ba, Villain Disciples, Let Your Master Go, 反派徒儿你就放过师尊吧",
   "status": "Berjalan",
   "author": "17K漫画",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Disciples Please Spare Your Master yang dibuat oleh komikus bernama\n                    17K漫画 ini bercerita tentang\n                    Aku memiliki lima murid wanita yang sangat cantik dan menawan. Tapi mereka semua adalah iblis terkenal?",
   "chapters": [
     {
+      "chapter": "57",
+      "title": "Komik Disciples Please Spare Your Master Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTU3Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "56",
       "title": "Komik Disciples Please Spare Your Master Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTU2Lw==",
-      "date": "9 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "55",
@@ -63,7 +69,7 @@
       "chapter": "50",
       "title": "Komik Disciples Please Spare Your Master Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTUwLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "49",
@@ -123,7 +129,7 @@
       "chapter": "40",
       "title": "Komik Disciples Please Spare Your Master Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTQwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -360,5 +366,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 57
 }
