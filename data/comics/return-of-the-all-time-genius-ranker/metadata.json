@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-07T20:40:57.576786",
+  "scraped_at": "2026-05-15T22:40:19.188691",
   "alternative_titles": "Ranker Thiên Tài Huyền Thoại Tái Xuất, 역대급 천재 랭커의 귀환, 역대급천재랭커의귀환",
   "status": "Berjalan",
   "author": "Baek Yeon-Bal, Geulnamu",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    Return Of The All-Time Genius Ranker yang dibuat oleh komikus bernama\n                    Baek Yeon-Bal, Geulnamu ini bercerita tentang\n                    God of Savior, game realitas virtual yang telah menguasai dunia, dan game sebelumnya yang menjadi cetak biru game tersebut, Deus Ex Machina - Ragnarok (a.k.a Demrok). Kaizer, pemain peringkat pertama Demrok, yang pernah disebut sebagai dewa, bersembunyi karena keadaan yang tidak diketahui, kembali setelah 1 tahun 6 bulan!\r\n\r\n“Apakah Anda ingin masuk ke dalam game?”",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Return Of The All-Time Genius Ranker Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1hbGwtdGltZS1nZW5pdXMtcmFua2VyLWNoYXB0ZXItMjQv",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Return Of The All-Time Genius Ranker Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1hbGwtdGltZS1nZW5pdXMtcmFua2VyLWNoYXB0ZXItMjMv",
-      "date": "23 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Return Of The All-Time Genius Ranker Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1hbGwtdGltZS1nZW5pdXMtcmFua2VyLWNoYXB0ZXItMjIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Return Of The All-Time Genius Ranker Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1hbGwtdGltZS1nZW5pdXMtcmFua2VyLWNoYXB0ZXItMjEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Return Of The All-Time Genius Ranker Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1hbGwtdGltZS1nZW5pdXMtcmFua2VyLWNoYXB0ZXItMjAv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Return Of The All-Time Genius Ranker Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1hbGwtdGltZS1nZW5pdXMtcmFua2VyLWNoYXB0ZXItMTkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -158,5 +164,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }
