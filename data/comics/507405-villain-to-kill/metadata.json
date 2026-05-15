@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-12T23:38:47.875154",
+  "scraped_at": "2026-05-15T01:50:31.557664",
   "alternative_titles": "빌런투킬",
   "status": "Berjalan",
   "author": "퓨핀",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    Villain To Kill yang dibuat oleh komikus bernama\n                    퓨핀 ini bercerita tentang\n                    Setelah dituduh membunuh seorang rekan, Cassian Lee menemui ajalnya. Saat dia mengira semuanya sudah berakhir, jiwanya tiba-tiba merasuki tubuh seorang anak laki-laki dan dia terbangun sebagai penjahat.",
   "chapters": [
     {
+      "chapter": "233",
+      "title": "Komik Villain To Kill Chapter 233",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjMzLw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "232",
       "title": "Komik Villain To Kill Chapter 232",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjMyLw==",
-      "date": "29 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "231",
@@ -990,7 +996,7 @@
       "chapter": "72",
       "title": "Komik Villain To Kill Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItNzIv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "71",
@@ -1182,13 +1188,13 @@
       "chapter": "40",
       "title": "Komik Villain To Kill Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItNDAv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Villain To Kill Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMzkv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "38",
@@ -1425,5 +1431,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 234
+  "total_chapters": 235
 }

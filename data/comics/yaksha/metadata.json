@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-10T14:13:33.401745",
+  "scraped_at": "2026-05-15T01:49:50.266229",
   "alternative_titles": "야차, Yacha",
   "status": "Berjalan",
   "author": "Park Shin (박신)",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    Yaksha yang dibuat oleh komikus bernama\n                    Park Shin (박신) ini bercerita tentang\n                    Sepuluh tahun yang lalu, kudeta terjadi di dalam Faksi Haegang, dan protagonis, Kang Min, kehilangan kakak laki-lakinya—seseorang yang seperti ayah baginya.Dipenuhi amarah, Kang Min memburu dan menghukum para pengkhianat, tetapi ditangkap dalam prosesnya dan dijatuhi hukuman penjara seumur hidup.Kemudian, sepuluh tahun kemudian, polisi—berusaha untuk mengendalikan Faksi Haegang yang kini di luar kendali—membebaskan Kang Min melalui penangguhan hukuman.Dan begitulah dimulainya balas dendam berdarah Kang Min, Yacha dari Neraka!",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Yaksha Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveWFrc2hhLWNoYXB0ZXItMTIv",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Yaksha Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveWFrc2hhLWNoYXB0ZXItMTEv",
-      "date": "12 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Yaksha Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveWFrc2hhLWNoYXB0ZXItMTAv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Yaksha Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveWFrc2hhLWNoYXB0ZXItOS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Yaksha Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveWFrc2hhLWNoYXB0ZXItOC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Yaksha Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveWFrc2hhLWNoYXB0ZXItNy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "6",
@@ -86,5 +92,5 @@
       "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }

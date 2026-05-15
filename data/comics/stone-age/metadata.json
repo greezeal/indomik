@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-10T19:51:43.817715",
+  "scraped_at": "2026-05-15T01:54:08.612621",
   "alternative_titles": "스톤에이지",
   "status": "Berjalan",
   "author": "JA",
@@ -18,16 +18,34 @@
   "synopsis": "Manhwa                    Stone Age yang dibuat oleh komikus bernama\n                    JA ini bercerita tentang\n                    Kapan aku terjebak dalam permainan yang memicu kejatuhan ini? Seorang anak jenius yang tak tersentuh, hal-hal aneh mulai terjadi padanya.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Stone Age Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvbmUtYWdlLWNoYXB0ZXItOS8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Stone Age Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvbmUtYWdlLWNoYXB0ZXItOC8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Stone Age Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvbmUtYWdlLWNoYXB0ZXItNy8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Stone Age Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvbmUtYWdlLWNoYXB0ZXItNi8=",
-      "date": "28 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Stone Age Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvbmUtYWdlLWNoYXB0ZXItNS8=",
-      "date": "28 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "4",
@@ -39,7 +57,7 @@
       "chapter": "3",
       "title": "Komik Stone Age Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RvbmUtYWdlLWNoYXB0ZXItMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
@@ -54,5 +72,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 9
 }
