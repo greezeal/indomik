@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-15T08:40:34.581665",
+  "scraped_at": "2026-05-16T17:43:11.058354",
   "alternative_titles": "もふもふと行く、腹ペコ料理人の絶品グルメライフ THE COMIC",
   "status": "Berjalan",
   "author": "Sakura Ryo",
@@ -19,16 +19,22 @@
   "synopsis": "Manga                    Mofumofu to Iku, Harapeko Ryourinin no Zeppin Gourmet Life yang dibuat oleh komikus bernama\n                    Sakura Ryo ini bercerita tentang\n                    Babel adalah negeri di ujung bumi yang tidak menerima berkah dari dewi Yggdrasil. Meskipun kondisinya keras, negeri ini konon merupakan gudang harta karun bahan-bahan langka, dan karena itu ada seorang gadis dan seekor binatang buas ilahi yang menuju ke negeri ini. Hanya ada satu alasan mengapa mereka menuju Babel: untuk mencicipi semua kelezatan dunia! Bahkan negeri yang ditinggalkan oleh dewi pun bisa menjadi ibu kota jika Anda tinggal di sana!",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Mofumofu to Iku, Harapeko Ryourinin no Zeppin Gourmet Life Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9mdW1vZnUtdG8taWt1LWhhcmFwZWtvLXJ5b3VyaW5pbi1uby16ZXBwaW4tZ291cm1ldC1saWZlLWNoYXB0ZXItOC8=",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Mofumofu to Iku, Harapeko Ryourinin no Zeppin Gourmet Life Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9mdW1vZnUtdG8taWt1LWhhcmFwZWtvLXJ5b3VyaW5pbi1uby16ZXBwaW4tZ291cm1ldC1saWZlLWNoYXB0ZXItNy8=",
-      "date": "42 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Mofumofu to Iku, Harapeko Ryourinin no Zeppin Gourmet Life Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9mdW1vZnUtdG8taWt1LWhhcmFwZWtvLXJ5b3VyaW5pbi1uby16ZXBwaW4tZ291cm1ldC1saWZlLWNoYXB0ZXItNi8=",
-      "date": "42 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "5.3",
@@ -73,5 +79,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }

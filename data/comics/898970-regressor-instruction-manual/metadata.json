@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-15T22:43:10.857034",
+  "scraped_at": "2026-05-16T17:48:09.467255",
   "alternative_titles": "회귀자 사용설명서",
   "status": "Berjalan",
   "author": "흙수저",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Regressor Instruction Manual yang dibuat oleh komikus bernama\n                    흙수저 ini bercerita tentang\n                    Suatu hari, dia dipanggil ke dunia lain. Binatang buas mengalir keluar, dan krisis yang luar biasa akan datang. Bakat Anda ada di bawah. [Tingkat bakat pemain adalah yang terendah.] [Hampir semua angka putus asa.] Prajurit terpilih atau penyihir berbakat. Seorang regressor yang kembali ke masa lalu. Anda harus menggunakan semuanya. Untuk bertahan hidup. Panduan Pengguna Regressor \"Bagaimana jika itu sampah? Apa yang tidak bisa Anda lakukan untuk bertahan hidup?\"",
   "chapters": [
     {
+      "chapter": "183",
+      "title": "Komik Regressor Instruction Manual Chapter 183",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE4My8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "182",
       "title": "Komik Regressor Instruction Manual Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE4Mi8=",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "181",
@@ -203,7 +209,7 @@
       "chapter": "152",
       "title": "Komik Regressor Instruction Manual Chapter 152",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTE1Mi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "151",
@@ -287,13 +293,13 @@
       "chapter": "138",
       "title": "Komik Regressor Instruction Manual Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTEzOC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "137",
       "title": "Komik Regressor Instruction Manual Chapter 137",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVncmVzc29yLWluc3RydWN0aW9uLW1hbnVhbC1jaGFwdGVyLTEzNy8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "136",
@@ -1118,5 +1124,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 183
+  "total_chapters": 184
 }

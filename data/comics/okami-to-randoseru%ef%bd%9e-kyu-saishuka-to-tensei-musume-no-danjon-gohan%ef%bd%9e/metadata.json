@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.24,
-  "scraped_at": "2026-05-11T23:16:18.980323",
+  "scraped_at": "2026-05-16T17:44:29.265220",
   "alternative_titles": "Okami To Randoseru ～ Kyu Saishuka To Tensei Musume No Danjon Gohan ～, 狼とランドセル～S級採集家と転生娘のダンジョンご飯～, The Wolf and the Schoolbag: An S-Rank Gatherer and the Reincarnated Girl’s Dungeon Meals",
   "status": "Berjalan",
   "author": "Amana Mitsuta",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Okami To Randoseru～ Kyu Saishuka To Tensei Musume No Danjon Gohan～ yang dibuat oleh komikus bernama\n                    Amana Mitsuta ini bercerita tentang\n                    Alba Thomas, seorang pengumpul peringkat S yang berkelana di seluruh negeri untuk mencari barang-barang berharga seperti tanduk naga dan inti golem, suatu hari menemukan seorang gadis yang mengenakan tas sekolah di dalam peti harta karun.\r\nGadis itu, yang menyebut dirinya Nono, masih muda dan tidak tahu dari mana asalnya.\r\nDan untuk memperumit masalah, di bawah aturan kerajaan, Alba dan Nono tidak lagi dapat meninggalkan ruang bawah tanah.\r\nKarena tidak tega meninggalkannya di tempat yang berbahaya seperti itu, Alba memutuskan untuk melindungi Nono.\r\nNamun, menyiapkan makanan terbukti sulit: meskipun Alba dapat dengan mudah mendapatkan bahan-bahan, ia sama sekali tidak berpengalaman dalam hal memasak.\r\nNono pun datang membantu, dan menunjukkan bakat yang luar biasa di dapur.\r\nMaka dimulailah perjalanan antara Alba, salah satu dari tujuh pengumpul peringkat S di kerajaan, dan Nono, gadis misterius yang penuh dengan hal-hal yang tidak diketahui.",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Okami To Randoseru～ Kyu Saishuka To Tensei Musume No Danjon Gohan～ Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2thbWktdG8tcmFuZG9zZXJ1JWVmJWJkJTllLWt5dS1zYWlzaHVrYS10by10ZW5zZWktbXVzdW1lLW5vLWRhbmpvbi1nb2hhbiVlZiViZCU5ZS1jaGFwdGVyLTUv",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "4.2",
       "title": "Komik Okami To Randoseru～ Kyu Saishuka To Tensei Musume No Danjon Gohan～ Chapter 4.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2thbWktdG8tcmFuZG9zZXJ1JWVmJWJkJTllLWt5dS1zYWlzaHVrYS10by10ZW5zZWktbXVzdW1lLW5vLWRhbmpvbi1nb2hhbiVlZiViZCU5ZS1jaGFwdGVyLTQtMi8=",
-      "date": "10 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "4.1",
@@ -61,5 +67,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }

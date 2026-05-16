@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-15T08:40:00.951304",
+  "scraped_at": "2026-05-16T17:42:20.081762",
   "alternative_titles": "捨てられ聖女の異世界ごはん旅, 捨てられ聖女の異世界ごはん旅　隠れスキルでキャンピングカーを召喚しました, Suterare Seijo no Isekai Gohantabi: Kakure Sukiru de Camping Car wo Shoukan Shimashita, Suterare Seijo no Isekai Gohantabi: Kakure Sukiru de Camping Car o Shoukan Shimashita, The Forsaken Saintess and",
   "status": "Berjalan",
   "author": "Kogami Nana, Yoneori",
@@ -26,10 +26,22 @@
   "synopsis": "Manga                    Suterare Seijo no Isekai Gohantabi yang dibuat oleh komikus bernama\n                    Kogami Nana, Yoneori ini bercerita tentang\n                    Rin Takanashi, seorang pengasuh berusia tiga puluhan, dibuang begitu saja sebagai \"sampah\" meskipun dipanggil sebagai seorang santa. Namun, sebagai pecinta alam bebas dan segala hal yang berkaitan dengan berkemah, ia diberkati dengan keterampilan khusus, [Bertahan Hidup], serta keterampilan unik lainnya! Maka, sebuah kisah yang mendebarkan pun dimulai: kisah tentang keringat, air mata, dan rasa lapar yang tak terpuaskan saat Rin, bersama dengan teman-teman yang ia temui di sepanjang jalan, dengan santai menjelajahi dunia paralel ini dan menikmati hidangan gourmet sepuas hatinya... Atau begitulah seharusnya cerita itu berjalan, tetapi tampaknya jalan mereka menuju ke arah yang tak terduga...?",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Suterare Seijo no Isekai Gohantabi Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3V0ZXJhcmUtc2Vpam8tbm8taXNla2FpLWdvaGFudGFiaS1jaGFwdGVyLTExLw==",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Suterare Seijo no Isekai Gohantabi Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3V0ZXJhcmUtc2Vpam8tbm8taXNla2FpLWdvaGFudGFiaS1jaGFwdGVyLTEwLw==",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Suterare Seijo no Isekai Gohantabi Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3V0ZXJhcmUtc2Vpam8tbm8taXNla2FpLWdvaGFudGFiaS1jaGFwdGVyLTkv",
-      "date": "34 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "8",
@@ -80,5 +92,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 11
 }
