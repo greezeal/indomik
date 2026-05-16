@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-16T19:53:34.935631",
-  "total_comics": 1601,
+  "last_updated": "2026-05-16T21:06:24.266657",
+  "total_comics": 1606,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -344,7 +344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -1896,7 +1896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 113
+      "total_chapters": 114
     },
     {
       "slug": "938340-ao-ashi",
@@ -1904,7 +1904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 134
+      "total_chapters": 357
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -4376,7 +4376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.59,
-      "total_chapters": 323
+      "total_chapters": 324
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -5232,7 +5232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 122
+      "total_chapters": 124
     },
     {
       "slug": "dukedoms-legendary-prodigy",
@@ -12809,6 +12809,46 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "another-world-contractor",
+      "title": "Another World Contractor",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "i-became-a-hatchling",
+      "title": "I Became a Hatchling",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "record-of-lodoss-war-the-necromancer-queen",
+      "title": "Record of Lodoss War: The Necromancer Queen",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "the-father-and-the-daughter",
+      "title": "The Father and the Daughter",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 60
+    },
+    {
+      "slug": "daytime-in-the-bunker",
+      "title": "Daytime in the Bunker",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
     }
   ]
 }
