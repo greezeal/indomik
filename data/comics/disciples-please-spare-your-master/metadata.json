@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-15T08:42:25.994640",
+  "scraped_at": "2026-05-16T07:29:32.061528",
   "alternative_titles": "Fanpai Tu Er Ni Jiu Fangguo Shi Zun Ba, Fǎnpài Tú Er Nǐ Jiù Fàngguò Shī Zūn Ba, Villain Disciples, Let Your Master Go, 反派徒儿你就放过师尊吧",
   "status": "Berjalan",
   "author": "17K漫画",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Disciples Please Spare Your Master yang dibuat oleh komikus bernama\n                    17K漫画 ini bercerita tentang\n                    Aku memiliki lima murid wanita yang sangat cantik dan menawan. Tapi mereka semua adalah iblis terkenal?",
   "chapters": [
     {
+      "chapter": "59",
+      "title": "Komik Disciples Please Spare Your Master Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTU5Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik Disciples Please Spare Your Master Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTU4Lw==",
-      "date": "45 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "57",
@@ -57,13 +63,13 @@
       "chapter": "53",
       "title": "Komik Disciples Please Spare Your Master Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTUzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Disciples Please Spare Your Master Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTUyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "51",
@@ -93,7 +99,7 @@
       "chapter": "47",
       "title": "Komik Disciples Please Spare Your Master Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTQ3Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -117,7 +123,7 @@
       "chapter": "43",
       "title": "Komik Disciples Please Spare Your Master Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGlzY2lwbGVzLXBsZWFzZS1zcGFyZS15b3VyLW1hc3Rlci1jaGFwdGVyLTQzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -372,5 +378,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 58
+  "total_chapters": 59
 }
