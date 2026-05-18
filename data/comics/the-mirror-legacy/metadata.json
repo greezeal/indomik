@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-12T15:19:39.910264",
+  "scraped_at": "2026-05-18T06:28:32.734225",
   "alternative_titles": "玄鉴仙族, The Profound Mirror Immortal Clan, The Mirror Legacy",
   "status": "Berjalan",
   "author": "Shí\\'èr Shíchén (十二时辰)",
@@ -24,28 +24,34 @@
   "synopsis": "Manhua                    The Mirror Legacy yang dibuat oleh komikus bernama\n                    Shí\\'èr Shíchén (十二时辰) ini bercerita tentang\n                    Lu Jiangxian, yang meninggal mendadak setelah begadang semalaman, menemukan sisa jiwanya melekat pada cermin perunggu abu-abu kebiruan yang retak. Cermin itu melayang ke dunia kultivasi abadi yang luas dan tak terbatas.\r\n\r\nDi Gunung Li Agung yang berbahaya dan tak terduga, di dekat sebuah desa kecil di sepanjang Sungai Mei Chi, sebuah klan kecil menemukan cermin tersebut. Dengan demikian, mereka mulai mengajarkan jalan keabadian dan metode esoteriknya, mengantarkan era baru yang megah dan epik.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik The Mirror Legacy Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1pcnJvci1sZWdhY3ktY2hhcHRlci0xOS8=",
+      "date": "12 jam yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik The Mirror Legacy Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1pcnJvci1sZWdhY3ktY2hhcHRlci0xOC8=",
-      "date": "41 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The Mirror Legacy Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1pcnJvci1sZWdhY3ktY2hhcHRlci0xNy8=",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Mirror Legacy Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1pcnJvci1sZWdhY3ktY2hhcHRlci0xNi8=",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Mirror Legacy Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1pcnJvci1sZWdhY3ktY2hhcHRlci0xNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
@@ -144,5 +150,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 21
 }

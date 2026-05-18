@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-16T21:01:08.503003",
+  "scraped_at": "2026-05-18T06:23:49.691252",
   "alternative_titles": "Record of Lodoss War (Blanton), Record of Lodoss War: Queen of Death, Record of Lodoss War: The Necromancer Queen, 로도스도 전기 : 사령의 여왕",
   "status": "Berjalan",
   "author": "Mizuno Ryo, Nambunakta",
@@ -19,41 +19,47 @@
   "synopsis": "Manhwa                    Record of Lodoss War: The Necromancer Queen yang dibuat oleh komikus bernama\n                    Mizuno Ryo, Nambunakta ini bercerita tentang\n                    Nectrella, seorang ahli sihir necromancer keturunan dari darah Castul. Untuk merebut kembali kekasihnya yang ditawan olehnya, Tain si berserker terjun ke dalam pertempuran hidup dan mati.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Record of Lodoss War: The Necromancer Queen Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3JkLW9mLWxvZG9zcy13YXItdGhlLW5lY3JvbWFuY2VyLXF1ZWVuLWNoYXB0ZXItNi8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Record of Lodoss War: The Necromancer Queen Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3JkLW9mLWxvZG9zcy13YXItdGhlLW5lY3JvbWFuY2VyLXF1ZWVuLWNoYXB0ZXItNS8=",
-      "date": "54 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Record of Lodoss War: The Necromancer Queen Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3JkLW9mLWxvZG9zcy13YXItdGhlLW5lY3JvbWFuY2VyLXF1ZWVuLWNoYXB0ZXItNC8=",
-      "date": "54 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Record of Lodoss War: The Necromancer Queen Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3JkLW9mLWxvZG9zcy13YXItdGhlLW5lY3JvbWFuY2VyLXF1ZWVuLWNoYXB0ZXItMy8=",
-      "date": "54 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Record of Lodoss War: The Necromancer Queen Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3JkLW9mLWxvZG9zcy13YXItdGhlLW5lY3JvbWFuY2VyLXF1ZWVuLWNoYXB0ZXItMi8=",
-      "date": "54 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Record of Lodoss War: The Necromancer Queen Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3JkLW9mLWxvZG9zcy13YXItdGhlLW5lY3JvbWFuY2VyLXF1ZWVuLWNoYXB0ZXItMS8=",
-      "date": "54 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "0",
       "title": "Komik Record of Lodoss War: The Necromancer Queen Chapter 0",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3JkLW9mLWxvZG9zcy13YXItdGhlLW5lY3JvbWFuY2VyLXF1ZWVuLWNoYXB0ZXItMC8=",
-      "date": "54 menit yang lalu"
+      "date": "1 hari yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }
