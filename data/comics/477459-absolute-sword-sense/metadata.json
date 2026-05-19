@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.01,
-  "scraped_at": "2026-05-18T06:24:09.401994",
+  "scraped_at": "2026-05-19T18:15:41.756744",
   "alternative_titles": "절대검감, Jeoldaegeomgam, Perfect Sword Sense, 絶對 劍感",
   "status": "Berjalan",
   "author": "Hanjung Wolya (한중월야), Kim Durumi (김두루미)",
@@ -26,16 +26,22 @@
   "synopsis": "Manhwa                    Absolute Sword Sense yang dibuat oleh komikus bernama\n                    Hanjung Wolya (한중월야), Kim Durumi (김두루미) ini bercerita tentang\n                    Dengan dantiannya yang hancur akibat amukan ki, So WoonHwi diasingkan oleh keluarganya.\r\nSetelah itu, dia diculik oleh Blood Cult, di mana dia menghabiskan hidupnya sebagai mata-mata kelas tiga.\r\n\r\nSuatu hari, dia terbunuh setelah digunakan untuk menemukan Catatan Rahasia legendaris dari Sword Sage.\r\nTapi bukannya benar-benar mati, dia terbangun 10 tahun yang lalu pada hari dia diculik oleh Blood Cult, bersama dengan kekuatan untuk mendengar suara pedang.",
   "chapters": [
     {
+      "chapter": "184",
+      "title": "Komik Absolute Sword Sense Chapter 184",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtc3dvcmQtc2Vuc2UtY2hhcHRlci0xODQv",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "183",
       "title": "Komik Absolute Sword Sense Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtc3dvcmQtc2Vuc2UtY2hhcHRlci0xODMv",
-      "date": "12 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "182",
       "title": "Komik Absolute Sword Sense Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtc3dvcmQtc2Vuc2UtY2hhcHRlci0xODIv",
-      "date": "13 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "181",
@@ -47,7 +53,7 @@
       "chapter": "180",
       "title": "Komik Absolute Sword Sense Chapter 180",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtc3dvcmQtc2Vuc2UtY2hhcHRlci0xODAv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "179",
@@ -1124,5 +1130,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 183
+  "total_chapters": 184
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-19T05:46:28.227008",
+  "scraped_at": "2026-05-19T18:17:00.980496",
   "alternative_titles": "狐面夫婦, Evil masked couple can\\'t be honest., Fox-Faced Husband And Wife, Fox Faced Couple, Fox Mask Couple",
   "status": "Berjalan",
   "author": "IWATOBINEKO",
@@ -27,16 +27,28 @@
   "synopsis": "Manga                    Komen Fuufu yang dibuat oleh komikus bernama\n                    IWATOBINEKO ini bercerita tentang\n                    Di dunia di mana hal-hal supernatural berbaur dengan kehidupan biasa, terdapat sebuah rumah tua Jepang. Di sana tinggallah pasangan pengantin baru, seorang pria manusia dan seorang wanita kitsune. Apa yang dapat mengganggu kehidupan bahagia mereka bersama… kecuali seekor burung pipit pemakan manusia?\r\n\r\nKehidupan sehari-hari antara manusia dan youkai berbahaya di siang hari, tetapi manis di malam hari!?",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Komen Fuufu Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xOS8=",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Komen Fuufu Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xOC8=",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik Komen Fuufu Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xNy8=",
-      "date": "9 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Komen Fuufu Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29tZW4tZnV1ZnUtY2hhcHRlci0xNi8=",
-      "date": "9 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "15",
@@ -129,5 +141,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 19
 }
