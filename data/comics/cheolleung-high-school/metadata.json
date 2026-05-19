@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-15T01:55:15.134281",
+  "scraped_at": "2026-05-19T05:47:53.273877",
   "alternative_titles": "철릉고등학교",
   "status": "Berjalan",
   "author": "Boonbalman",
@@ -20,40 +20,46 @@
   "synopsis": "Manhwa                    Cheolleung High School yang dibuat oleh komikus bernama\n                    Boonbalman ini bercerita tentang\n                    Peraturan rambut di SMA Cheolleung sangat ketat, hampir seperti tembok besi. Pelanggaran apa pun terhadap peraturan akan berujung pada tamparan dari para guru. Di tengah penindasan ini, \"Murid Pindahan,\" seorang pembuat onar dengan rambut panjang dan sulit diatur, dan \"Kwon Ki-soo,\" seorang anak laki-laki yang menolak potong rambut, berjuang untuk mengubah peraturan dan mendapatkan kembali kebebasan mereka.",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Cheolleung High School Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hlb2xsZXVuZy1oaWdoLXNjaG9vbC1jaGFwdGVyLTExLw==",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Cheolleung High School Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hlb2xsZXVuZy1oaWdoLXNjaG9vbC1jaGFwdGVyLTEwLw==",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Cheolleung High School Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hlb2xsZXVuZy1oaWdoLXNjaG9vbC1jaGFwdGVyLTkv",
-      "date": "1 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Cheolleung High School Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hlb2xsZXVuZy1oaWdoLXNjaG9vbC1jaGFwdGVyLTgv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Cheolleung High School Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hlb2xsZXVuZy1oaWdoLXNjaG9vbC1jaGFwdGVyLTcv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Cheolleung High School Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hlb2xsZXVuZy1oaWdoLXNjaG9vbC1jaGFwdGVyLTYv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Cheolleung High School Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hlb2xsZXVuZy1oaWdoLXNjaG9vbC1jaGFwdGVyLTUv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "4",
@@ -80,5 +86,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-15T01:54:28.072967",
+  "scraped_at": "2026-05-19T05:48:41.680754",
   "alternative_titles": "Revenge of the Bloom Flower, There Are No Red Flowers for Ten Days, Venganza de la Flor de Ciruelo, 花に十日の紅なし, 花无十日红, 花無十日紅, 解深密經疏, 화무십일홍",
   "status": "Berjalan",
   "author": "Bluebeard, Dongryeon",
@@ -20,40 +20,64 @@
   "synopsis": "Manhwa                    Revenge of the Bloom Flower yang dibuat oleh komikus bernama\n                    Bluebeard, Dongryeon ini bercerita tentang\n                    Guru Unseon Kang telah terbunuh di depan matanya – dan sekarang dialah satu-satunya yang masih hidup yang mengetahui rahasia yang ditulis gurunya. Siapa pun yang ditemuinya bisa jadi musuh yang akan melakukan apa saja untuk mendapatkan rahasia tersebut. Sekarang dia harus mencoba menavigasi dunia di mana dia tidak bisa mempercayai siapa pun sambil berusaha memperoleh keterampilan bela diri yang akan membantunya menjadi lebih kuat. Akankah dia mampu menjaga rahasianya agar tidak jatuh ke tangan musuh dan membalaskan kematian gurunya?",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Revenge of the Bloom Flower Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTkv",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Revenge of the Bloom Flower Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTgv",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Revenge of the Bloom Flower Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTcv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Revenge of the Bloom Flower Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTYv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Revenge of the Bloom Flower Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTUv",
-      "date": "4 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Revenge of the Bloom Flower Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTQv",
-      "date": "1 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Revenge of the Bloom Flower Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTMv",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Revenge of the Bloom Flower Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTIv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Revenge of the Bloom Flower Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTEv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Revenge of the Bloom Flower Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi10aGUtYmxvb20tZmxvd2VyLWNoYXB0ZXItMTAv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -110,5 +134,5 @@
       "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 19
 }

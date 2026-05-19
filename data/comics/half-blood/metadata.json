@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-12T23:35:46.809273",
+  "scraped_at": "2026-05-19T05:52:21.299795",
   "alternative_titles": "하프 블러드",
   "status": "Berjalan",
   "author": "Bangyo,Kim Jeong-Ryul",
@@ -19,22 +19,28 @@
   "synopsis": "Manhwa                    Half Blood yang dibuat oleh komikus bernama\n                    Bangyo,Kim Jeong-Ryul ini bercerita tentang\n                    Leon, si blasteran, lahir di antara manusia dan raksasa. Namun, yang kembali padanya sebagai blasteran hanyalah eksploitasi dan pengkhianatan manusia. Leon membenci manusia seperti itu dan bersumpah untuk membalas dendam. Bagi Leon, yang selalu menderita karena kekurangan kekuatan, keberuntungan datang memanggil, dan ia diberi kesempatan untuk membalas dendam kepada manusia.",
   "chapters": [
     {
+      "chapter": "48",
+      "title": "Komik Half Blood Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTQ4Lw==",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "47",
       "title": "Komik Half Blood Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTQ3Lw==",
-      "date": "15 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Half Blood Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTQ2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Half Blood Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTQ1Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "44",
@@ -64,25 +70,25 @@
       "chapter": "40",
       "title": "Komik Half Blood Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTQwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Half Blood Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTM5Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Half Blood Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTM4Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Half Blood Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsZi1ibG9vZC1jaGFwdGVyLTM3Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -301,5 +307,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 47
+  "total_chapters": 48
 }
