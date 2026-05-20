@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-04T09:39:44.646656",
+  "scraped_at": "2026-05-20T19:57:55.452436",
   "alternative_titles": "回撃のキナト, Kinato\\'s Magic, Circulation Blast Kinato, Магия Кинато",
   "status": "Berjalan",
   "author": "Amemiya Kento",
@@ -23,41 +23,53 @@
   "synopsis": "Manga                    Kinato’s Magic yang dibuat oleh komikus bernama\n                    Amemiya Kento ini bercerita tentang\n                    Di dunia yang penuh dengan sihir, Kinato muda mendambakan petualangan! Tapi kekuatan sihir spesialnya ternyata adalah... penyembuhan seitai?! Ketika petualangan datang menghampirinya, akankah Kinato mampu menggunakan kemampuan penyembuhan kecilnya untuk menjadi seorang pahlawan?!",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Kinato’s Magic Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTgv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Kinato’s Magic Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTcv",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Kinato’s Magic Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTYv",
-      "date": "13 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Kinato’s Magic Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTUv",
-      "date": "13 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Kinato’s Magic Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTQv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Kinato’s Magic Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTMv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Kinato’s Magic Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTIv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Kinato’s Magic Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luYXRvcy1tYWdpYy1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 8
 }
