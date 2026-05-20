@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T00:15:25.895996",
-  "total_comics": 1613,
+  "last_updated": "2026-05-20T04:50:10.780338",
+  "total_comics": 1620,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1264,7 +1264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "848336-the-max-leveled-hero-will-return",
@@ -1848,7 +1848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 116
+      "total_chapters": 117
     },
     {
       "slug": "immortals-are-slaves-gods-are-servants-and-the-emperor-is-the-watchdog",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 132
+      "total_chapters": 134
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 400
+      "total_chapters": 402
     },
     {
       "slug": "god-of-martial-arts",
@@ -3744,7 +3744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 109
+      "total_chapters": 113
     },
     {
       "slug": "gal-yome-no-himitsu",
@@ -4536,7 +4536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 47
     },
     {
       "slug": "death-penalty",
@@ -5336,7 +5336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 91
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -5936,7 +5936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 116
+      "total_chapters": 118
     },
     {
       "slug": "shikkoku-tsukai-no-saikyo-yusha-nakama-zenin-ni-uragira-retanode-saikyo-no-mamono",
@@ -11472,7 +11472,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 166
+      "total_chapters": 168
     },
     {
       "slug": "the-lie",
@@ -12905,6 +12905,62 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "senior-brother-lee-hoe",
+      "title": "Senior Brother Lee Hoe",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
+    },
+    {
+      "slug": "the-regressed-former-sword-saint-becomes-a-rebel-of-the-necromancer-house",
+      "title": "The Regressed Former Sword Saint Becomes A Rebel Of The Necromancer House",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
+    },
+    {
+      "slug": "the-possessed-villainess-is-causing-trouble",
+      "title": "The Possessed Villainess Is Causing Trouble",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 53
+    },
+    {
+      "slug": "villains-are-destined-to-die",
+      "title": "Villains Are Destined to Die",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 64
+    },
+    {
+      "slug": "surviving-as-a-pd-idol",
+      "title": "Surviving as a PD Idol",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 51
+    },
+    {
+      "slug": "i-can-evolve-everything-remake",
+      "title": "I Can Evolve Everything (Remake)",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "high-martial-arts-genius-is-only-the-threshold-to-meeting-me",
+      "title": "High Martial Arts: Genius Is Only the Threshold to Meeting Me!",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
     }
   ]
 }
