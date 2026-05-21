@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-21T16:23:32.235788",
+  "scraped_at": "2026-05-21T22:10:56.733560",
   "alternative_titles": "Ayangku Jenius Hitter,, 回到愛情本壘, 천재 타자가 강속구를 숨김",
   "status": "Berjalan",
   "author": "Evilline, Hwang Jiseong",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Genius Hitter Hits Fastball yang dibuat oleh komikus bernama\n                    Evilline, Hwang Jiseong ini bercerita tentang\n                    Bahkan dia, Kang Geon-woo, seorang pemain liga utama jenius yang memperoleh kekayaan, ketenaran, dan segalanya, tidak dapat melanjutkan kehidupan pernikahan yang bahagia dengan istrinya. Dia, yang merasa menyesal atas ketidakhadiran istrinya, kembali ke masa lalu dengan kekuatan cincin misterius.\r\n\r\nSebagai seorang siswa SMA di tengah-tengah romansa baru, akankah dia dapat menemukan cinta kali ini?",
   "chapters": [
     {
+      "chapter": "116",
+      "title": "Komik Genius Hitter Hits Fastball Chapter 116",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTE2Lw==",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "115",
       "title": "Komik Genius Hitter Hits Fastball Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTE1Lw==",
-      "date": "7 menit yang lalu"
+      "date": "5 jam yang lalu"
     },
     {
       "chapter": "114",
@@ -710,5 +716,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 115
+  "total_chapters": 116
 }

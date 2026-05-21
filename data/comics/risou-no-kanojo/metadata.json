@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.5,
-  "scraped_at": "2026-05-19T05:45:32.845618",
+  "scraped_at": "2026-05-21T22:05:27.483640",
   "alternative_titles": "理想の彼女, Riso no Kanojo, Ideal Girlfriend",
   "status": "Berjalan",
   "author": "Mori Marimo",
@@ -23,10 +23,28 @@
   "synopsis": "Manga                    Risou no Kanojo yang dibuat oleh komikus bernama\n                    Mori Marimo ini bercerita tentang\n                    Saeki adalah seorang siswa SMA biasa dengan seorang pacar, Sara, yang merupakan pewaris Grup Saionji, dan yang kecantikan serta kecerdasannya membuat semua orang iri.\r\n\r\nSara tampak seperti wanita muda yang sopan dan santun bagi orang lain, tetapi keduanya berbagi rahasia! Karena rahasia itu, Saeki tidak dapat berkomitmen sepenuhnya, tetapi Sara menyiapkan makan siang untuknya, memeluknya untuk memperdalam hubungan mereka, dan bertindak seolah-olah dia mencoba merayu Saeki untuk merusaknya!!!?\r\n\r\nApa rahasia hubungan mereka dan apa tujuan sebenarnya Sara…!!? Sebuah komedi cinta tentang seorang wanita muda yang menyamar, dan seorang pria dalam situasi yang patut ditiru!",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Risou no Kanojo Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMTQv",
+      "date": "9 menit yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Risou no Kanojo Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMTMv",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Risou no Kanojo Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMTIv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Risou no Kanojo Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMTEv",
-      "date": "6 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "10",
@@ -89,5 +107,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 14
 }

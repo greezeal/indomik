@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.55,
-  "scraped_at": "2026-05-11T12:01:14.515859",
+  "scraped_at": "2026-05-21T22:07:30.931970",
   "alternative_titles": "Re Monster, Re:Monster ราชันชาติอสูร, ReMonster, Перерождение: Монстр, リ・モンスター",
   "status": "Berjalan",
   "author": "Kanekiru Kogitsune",
@@ -30,10 +30,16 @@
   "synopsis": "Manga                    Re:Monster yang dibuat oleh komikus bernama\n                    Kanekiru Kogitsune ini bercerita tentang\n                    Tomokui Kanata telah bereinkarnasi menjadi ras terlemah, goblin, dan diberi nama baru, Rou, setelah mengalami kematian yang tidak menguntungkan.\r\nNamun, goblin Rou telah mempertahankan ingatan dan kemampuan hidupnya sebelumnya untuk mempelajari keterampilan dari apa yang dia makan.\r\nDi dunia alternatif survival of the fittest ini, berbagai peristiwa terungkap. Akankah pesta goblin menjadi pahlawan dunia ini, dengan sentuhan yang menyenangkan dari skenario biasa Anda?\r\nAdaptasi dari seri novel ringan yang ditulis oleh Kanekiru Kogitsune.",
   "chapters": [
     {
+      "chapter": "120",
+      "title": "Komik Re:Monster Chapter 120",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTIwLw==",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "119",
       "title": "Komik Re:Monster Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTE5Lw==",
-      "date": "15 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "118",
@@ -69,19 +75,19 @@
       "chapter": "113",
       "title": "Komik Re:Monster Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTEzLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Re:Monster Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTEyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "111",
       "title": "Komik Re:Monster Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTExLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "110",
@@ -93,25 +99,25 @@
       "chapter": "109",
       "title": "Komik Re:Monster Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA5Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "108",
       "title": "Komik Re:Monster Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA4Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik Re:Monster Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA3Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik Re:Monster Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVtb25zdGVyLWNoYXB0ZXItMTA2Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "105",
@@ -750,5 +756,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 120
+  "total_chapters": 121
 }
