@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-06T11:27:52.801361",
+  "scraped_at": "2026-05-21T16:25:14.720152",
   "alternative_titles": "Dan, the Bat-Wielding Knight, The Bat Knight: Dan, The Grand Cudgel Order, 몽둥이기사 단",
   "status": "Berjalan",
   "author": "Sangdan Studio",
@@ -19,46 +19,58 @@
   "synopsis": "Manhwa                    Dan, the Bat-Wielding Knight yang dibuat oleh komikus bernama\n                    Sangdan Studio ini bercerita tentang\n                    Awal inning ke-9, dua out. 'Bat Knight' mengincar comeback saat home run-nya dimulai! Sebuah kekuatan tak dikenal bersemayam di dalam tongkat bisbolnya. Petualangan Dan untuk menghancurkan monster dari dunia lain dan menemukan jalan pulang!",
   "chapters": [
     {
+      "chapter": "34",
+      "title": "Komik Dan, the Bat-Wielding Knight Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMzQv",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik Dan, the Bat-Wielding Knight Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMzMv",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Dan, the Bat-Wielding Knight Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMzIv",
-      "date": "4 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Dan, the Bat-Wielding Knight Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMzEv",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Dan, the Bat-Wielding Knight Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMzAv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Dan, the Bat-Wielding Knight Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMjkv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Dan, the Bat-Wielding Knight Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMjgv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Dan, the Bat-Wielding Knight Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMjcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Dan, the Bat-Wielding Knight Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuLXRoZS1iYXQtd2llbGRpbmcta25pZ2h0LWNoYXB0ZXItMjYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -211,5 +223,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 34
 }

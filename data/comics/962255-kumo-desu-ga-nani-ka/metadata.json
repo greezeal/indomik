@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.93,
-  "scraped_at": "2026-05-20T19:56:23.001540",
-  "alternative_titles": "Örümceğim ben, ne olmuş?, AÅ¡ voras, ir kas iÅ¡ to?, Jag är en spindel, vadå då?, Jeg er en edderkopp, hva så?, kumoko, No i co z tego że jestem pająkiem?, So I'm a Spider, So What?, Sono un ragno, e quindi?, Soy una araña, y que?, Да, я паук, и что же?,",
+  "scraped_at": "2026-05-21T16:28:48.316009",
+  "alternative_titles": "Örümceğim ben, ne olmuş?, AÅ¡ voras, ir kas iÅ¡ to?, Jag är en spindel, vadå då?, Jeg er en edderkopp, hva så?, kumoko, No i co z tego że jestem pająkiem?, So I'm a Spider, So What?, Sono un ragno, e quindi?, Soy una araña, y que?, Да, я паук, и что же?, Да, я паук, и что с того?, أنا عنكبوت، وماذا في ذلك؟, แมงมุมแล้วไง, ข้องใจเหรอคะ?, 不过是蜘蛛什么的, 蜘蛛ですが、なにか？, 거미입니다만, 문제라도?",
   "status": "Berjalan",
   "author": "Baba Okina",
   "illustrator": "Kakashi Asahiro",
@@ -31,10 +31,22 @@
   "synopsis": "Manga                    Kumo Desu ga, Nani ka? yang dibuat oleh komikus bernama\n                    Baba Okina ini bercerita tentang\n                    Ketika ledakan misterius menewaskan seluruh kelas yang penuh dengan siswa sekolah menengah, jiwa semua orang di kelas dipindahkan ke dunia fantasi dan bereinkarnasi. Sementara beberapa siswa bereinkarnasi sebagai pangeran atau keajaiban, yang lain tidak diberkati.\r\n\r\nPahlawan kami, yang paling rendah di kelas, menemukan bahwa dia bereinkarnasi sebagai laba-laba! Sekarang di bagian bawah rantai makanan, dia perlu beradaptasi dengan situasi saat ini dengan kemauan keras untuk hidup. Terjebak di labirin berbahaya yang dipenuhi monster, itu dimakan atau dimakan!\r\n\r\nIni adalah kisah tentang seekor laba-laba yang melakukan apapun yang dia bisa untuk bertahan hidup!",
   "chapters": [
     {
+      "chapter": "77.2",
+      "title": "Komik Kumo Desu ga, Nani ka? Chapter 77.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vtby1kZXN1LWdhLW5hbmkta2EtY2hhcHRlci03Ny0yLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "77.1",
+      "title": "Komik Kumo Desu ga, Nani ka? Chapter 77.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vtby1kZXN1LWdhLW5hbmkta2EtY2hhcHRlci03Ny0xLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "76.2",
       "title": "Komik Kumo Desu ga, Nani ka? Chapter 76.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vtby1kZXN1LWdhLW5hbmkta2EtY2hhcHRlci03Ni0yLw==",
-      "date": "3 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "76.1",
@@ -961,5 +973,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 155
+  "total_chapters": 157
 }
