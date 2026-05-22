@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-15T22:42:15.641753",
+  "scraped_at": "2026-05-22T22:51:18.456908",
   "alternative_titles": "勇者殺しの元暗殺者。～無職のおっさんから始まるセカンドライフ～, Ex-Assassin Who Killed the Hero.: Jobless Middle-Aged Man Starting a New Life",
   "status": "Berjalan",
   "author": "Okamoto Takeya",
@@ -18,40 +18,46 @@
   "synopsis": "Manga                    Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life yang dibuat oleh komikus bernama\n                    Okamoto Takeya ini bercerita tentang\n                    Juu, seorang pria yang ditinggalkan orang tuanya sejak kecil, telah membunuh orang selama lebih dari 30 tahun dalam sebuah organisasi pembunuh bayaran. Sebagai imbalan agar bisa keluar dari bisnis pembunuhan, ia diberi satu misi terakhir: membunuh seorang pahlawan.",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXgtYXNzYXNzaW4td2hvLWtpbGxlZC10aGUtaGVyby1qb2JsZXNzLW1pZGRsZS1hZ2VkLW1hbi1zdGFydGluZy1hLW5ldy1saWZlLWNoYXB0ZXItMTIv",
+      "date": "50 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXgtYXNzYXNzaW4td2hvLWtpbGxlZC10aGUtaGVyby1qb2JsZXNzLW1pZGRsZS1hZ2VkLW1hbi1zdGFydGluZy1hLW5ldy1saWZlLWNoYXB0ZXItMTEv",
-      "date": "27 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXgtYXNzYXNzaW4td2hvLWtpbGxlZC10aGUtaGVyby1qb2JsZXNzLW1pZGRsZS1hZ2VkLW1hbi1zdGFydGluZy1hLW5ldy1saWZlLWNoYXB0ZXItMTAv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXgtYXNzYXNzaW4td2hvLWtpbGxlZC10aGUtaGVyby1qb2JsZXNzLW1pZGRsZS1hZ2VkLW1hbi1zdGFydGluZy1hLW5ldy1saWZlLWNoYXB0ZXItOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXgtYXNzYXNzaW4td2hvLWtpbGxlZC10aGUtaGVyby1qb2JsZXNzLW1pZGRsZS1hZ2VkLW1hbi1zdGFydGluZy1hLW5ldy1saWZlLWNoYXB0ZXItOC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXgtYXNzYXNzaW4td2hvLWtpbGxlZC10aGUtaGVyby1qb2JsZXNzLW1pZGRsZS1hZ2VkLW1hbi1zdGFydGluZy1hLW5ldy1saWZlLWNoYXB0ZXItNy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Ex-Assassin Who Killed the Hero: Jobless Middle-Aged Man Starting a New Life Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXgtYXNzYXNzaW4td2hvLWtpbGxlZC10aGUtaGVyby1qb2JsZXNzLW1pZGRsZS1hZ2VkLW1hbi1zdGFydGluZy1hLW5ldy1saWZlLWNoYXB0ZXItNi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
@@ -84,5 +90,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }
