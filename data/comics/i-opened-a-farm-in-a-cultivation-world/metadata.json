@@ -6,20 +6,54 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-03T19:41:52.919282",
+  "scraped_at": "2026-05-23T17:13:05.502736",
   "alternative_titles": "我在修仙世界开农场",
   "status": "Berjalan",
-  "author": "",
-  "illustrator": "",
-  "genres": [],
-  "synopsis": "Manhua                    I Opened a Farm in a Cultivation World yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Karyawan kantoran Wang Hao dari zaman modern tiba-tiba berpindah ke dunia kultivasi dan menjadi seorang kultivator “sampah” dengan lima akar spiritual. Sejak awal, ia berselisih dengan ayahnya yang seorang alkemis, Wang Yanzhao, dan hanya tersisa dengan sebuah kantong penyimpanan serta sedikit sumber daya, hingga hampir berada di ambang keputusasaan. Beruntung, ia membangkitkan sebuah “komputer” yang telah menyatu dengan tubuhnya, lengkap dengan fitur “Penguin Farm” tempat ia bisa menanam tanaman spiritual. Di ladang ini, tanaman spiritual tumbuh jauh lebih cepat dibandingkan di dunia nyata, dan ia bisa membuka berbagai jenis benih tanaman roh — inilah yang menjadi dasar bagi kelangsungan hidupnya di dunia kultivasi.",
+  "author": "看点漫画",
+  "illustrator": "看点漫画",
+  "genres": [
+    "Fantasy",
+    "Martial Arts",
+    "Shounen"
+  ],
+  "synopsis": "Manhua                    I Opened a Farm in a Cultivation World yang dibuat oleh komikus bernama\n                    看点漫画 ini bercerita tentang\n                    Wang Hao, seorang pekerja kantoran dari zaman modern, secara tak terduga ter transported ke dunia kultivasi dan menjadi kultivator \"kelas bawah\" dengan lima akar spiritual. Di awal cerita, ia berselisih dengan ayahnya yang seorang alkemis, Wang Yanzhao, dan hanya memiliki kantung penyimpanan dan beberapa sumber daya, terdesak hingga ke ambang batas. Untungnya, ia membangunkan sebuah komputer yang menyatu dengan tubuhnya, yang dilengkapi dengan \"Kebun Penguin\" tempat ia dapat menanam tanaman spiritual. Di kebun ini, tanaman spiritual tumbuh jauh lebih cepat daripada di dunia nyata, dan ia dapat membuka semua jenis benih herbal spiritual — ini menjadi dasar kelangsungan hidupnya di dunia kultivasi.",
   "chapters": [
+    {
+      "chapter": "6",
+      "title": "Komik I Opened a Farm in a Cultivation World Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vcGVuZWQtYS1mYXJtLWluLWEtY3VsdGl2YXRpb24td29ybGQtY2hhcHRlci02Lw==",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik I Opened a Farm in a Cultivation World Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vcGVuZWQtYS1mYXJtLWluLWEtY3VsdGl2YXRpb24td29ybGQtY2hhcHRlci01Lw==",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik I Opened a Farm in a Cultivation World Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vcGVuZWQtYS1mYXJtLWluLWEtY3VsdGl2YXRpb24td29ybGQtY2hhcHRlci00Lw==",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik I Opened a Farm in a Cultivation World Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vcGVuZWQtYS1mYXJtLWluLWEtY3VsdGl2YXRpb24td29ybGQtY2hhcHRlci0zLw==",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik I Opened a Farm in a Cultivation World Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vcGVuZWQtYS1mYXJtLWluLWEtY3VsdGl2YXRpb24td29ybGQtY2hhcHRlci0yLw==",
+      "date": "6 menit yang lalu"
+    },
     {
       "chapter": "1",
       "title": "Komik I Opened a Farm in a Cultivation World Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vcGVuZWQtYS1mYXJtLWluLWEtY3VsdGl2YXRpb24td29ybGQtY2hhcHRlci0xLw==",
-      "date": "1 jam yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 6
 }

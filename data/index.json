@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-23T15:52:11.780400",
-  "total_comics": 1645,
+  "last_updated": "2026-05-23T17:20:27.763049",
+  "total_comics": 1646,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 53
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -4232,7 +4232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.58,
-      "total_chapters": 34
+      "total_chapters": 42
     },
     {
       "slug": "survive-as-the-heros-husband",
@@ -4496,7 +4496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "voice-phishing-turns-your-life-around",
@@ -4864,7 +4864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "584967-genius-grandson-of-the-loan-shark-king",
@@ -5024,7 +5024,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 111
     },
     {
       "slug": "im-a-super-rich-guy-so-its-reasonable-for-me-to-be-a-scumbag",
@@ -5272,7 +5272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "one-hundred-thousand-years-of-tribulation-by-heavenly-thunder",
@@ -5400,7 +5400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.72,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -5984,7 +5984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 59
+      "total_chapters": 63
     },
     {
       "slug": "isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou",
@@ -7912,7 +7912,7 @@
       "type": "Manga",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "realist-maou-niyoru-seiiki-naki-isekai-kaikaku",
@@ -8248,7 +8248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 760
+      "total_chapters": 761
     },
     {
       "slug": "kuse-tsuyo-kanojo-wa-toko-ni-izanau",
@@ -8840,7 +8840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "idol-yamerukedo-kekkon-shitekuremasu-ka",
@@ -9864,7 +9864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 151
+      "total_chapters": 152
     },
     {
       "slug": "the-masters-are-watching-over-me",
@@ -12032,7 +12032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 8
     },
     {
       "slug": "the-margraves-10th-class-scoundrel",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 299
+      "total_chapters": 300
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12272,7 +12272,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 6
     },
     {
       "slug": "academy-of-card",
@@ -12408,7 +12408,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 109
+      "total_chapters": 113
     },
     {
       "slug": "dungeon-master-madarame-playing-by-the-rules-wasnt-going-to-work-so-i-decided-to-build-a-casino",
@@ -12760,7 +12760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "the-strongest-monster-killer-dad-in-history",
@@ -12776,7 +12776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 131
+      "total_chapters": 137
     },
     {
       "slug": "ichizu-de-bitch-na-kouhai",
@@ -13161,6 +13161,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 2
+    },
+    {
+      "slug": "iinazuke-ga-dekita-to-omottara-sono-iinazuke-ga-gakkou-de-yuumei-na-akuyaku-reijou-dattan-dakedo-dou-sureba-ii",
+      "title": "Iinazuke ga Dekita to Omottara, Sono Iinazuke ga Gakkou de Yuumei na “Akuyaku Reijou” Dattan dakedo, Dou Sureba Ii?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.59,
+      "total_chapters": 14
     }
   ]
 }
