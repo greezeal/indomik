@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-22T23:54:23.931058",
+  "scraped_at": "2026-05-23T14:50:22.045949",
   "alternative_titles": "이세계 싱글대디",
   "status": "Berjalan",
   "author": "Watcha",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    Single Dad in Another World yang dibuat oleh komikus bernama\n                    Watcha ini bercerita tentang\n                    Suatu hari, istri saya menghilang. Putri saya yang masih kecil menderita penyakit langka yang belum sembuh, dan hidup seakan tak memberi kesempatan untuk bernapas. Tepat ketika saya hampir menyerah pada segalanya—tiba-tiba saya mendapati diri saya terhanyut ke dunia lain bersama putri saya. Dan bukan sembarang dunia... melainkan novel fantasi gelap dan mengerikan yang ditulis istri saya! Saya harus menyelamatkan putri saya, apa pun yang terjadi.",
   "chapters": [
     {
+      "chapter": "52",
+      "title": "Komik Single Dad in Another World Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItNTIv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "51",
       "title": "Komik Single Dad in Another World Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItNTEv",
-      "date": "3 menit yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Single Dad in Another World Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItNTAv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Single Dad in Another World Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItNDkv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Single Dad in Another World Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItNDgv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "47",
@@ -137,7 +143,7 @@
       "chapter": "32",
       "title": "Komik Single Dad in Another World Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMzIv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -209,19 +215,19 @@
       "chapter": "20",
       "title": "Komik Single Dad in Another World Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMjAv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Single Dad in Another World Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMTkv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Single Dad in Another World Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMTgv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -239,7 +245,7 @@
       "chapter": "15",
       "title": "Komik Single Dad in Another World Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2luZ2xlLWRhZC1pbi1hbm90aGVyLXdvcmxkLWNoYXB0ZXItMTUv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -326,5 +332,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 51
+  "total_chapters": 52
 }

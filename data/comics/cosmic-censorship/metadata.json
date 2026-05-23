@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.45,
-  "scraped_at": "2026-05-19T05:46:00.453839",
+  "scraped_at": "2026-05-23T14:49:05.916995",
   "alternative_titles": "Uchuu Kenetsukan, 宇宙検閲官",
   "status": "Berjalan",
   "author": "Sadamatsu Ryuuichi",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Cosmic Censorship yang dibuat oleh komikus bernama\n                    Sadamatsu Ryuuichi ini bercerita tentang\n                    Masa depan tidak bisa diubah! Pada tahun 2019, mantan anggota klub atletik Maki Makino bertemu dengan seorang pria misterius dengan kacamata hitam dalam perjalanan ke sekolah yang menyelamatkan hidupnya. Pertemuan itu menghubungkannya dengan masa lalu dan masa depannya... Disajikan dengan kekuatan luar biasa, kisah 'laki-laki bertemu perempuan' dibuka di sini dengan hasil yang tidak terduga!",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Cosmic Censorship Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWNlbnNvcnNoaXAtY2hhcHRlci0yNy8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Cosmic Censorship Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWNlbnNvcnNoaXAtY2hhcHRlci0yNi8=",
-      "date": "8 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "25.6",
@@ -176,7 +182,7 @@
       "chapter": "5",
       "title": "Komik Cosmic Censorship Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29zbWljLWNlbnNvcnNoaXAtY2hhcHRlci01Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "4",
@@ -209,5 +215,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 31
+  "total_chapters": 32
 }
