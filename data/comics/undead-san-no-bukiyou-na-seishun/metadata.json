@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-10T14:13:52.925819",
+  "scraped_at": "2026-05-24T08:47:10.932696",
   "alternative_titles": "アンデッドさんの不器用な青春, Ms. Undead\\'s Clumsy Youth, A Juventude Desastrada da senhorita Morta-Viva, Ms. Undead\\'s Awkward Age",
   "status": "Berjalan",
   "author": "hone",
@@ -22,35 +22,41 @@
   "synopsis": "Manga                    Undead-san no Bukiyou na Seishun yang dibuat oleh komikus bernama\n                    hone ini bercerita tentang\n                    Suatu hari setelah liburan musim panas, Sana Tsukuyomi, gadis muda yang sempurna, muncul di sekolah sebagai mayat hidup. Sebagai anggota komite kesehatan sekolah, aku, Hiyoshi, akhirnya membantunya menjalani kehidupan sehari-hari, meskipun gerakannya kaku seperti mayat… Sebuah komedi romantis sekolah yang menampilkan seorang heroine yang menakutkan sekaligus imut!",
   "chapters": [
     {
+      "chapter": "4.2",
+      "title": "Komik Undead-san no Bukiyou na Seishun Chapter 4.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZWFkLXNhbi1uby1idWtpeW91LW5hLXNlaXNodW4tY2hhcHRlci00LTIv",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "4.1",
       "title": "Komik Undead-san no Bukiyou na Seishun Chapter 4.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZWFkLXNhbi1uby1idWtpeW91LW5hLXNlaXNodW4tY2hhcHRlci00LTEv",
-      "date": "20 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3.2",
       "title": "Komik Undead-san no Bukiyou na Seishun Chapter 3.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZWFkLXNhbi1uby1idWtpeW91LW5hLXNlaXNodW4tY2hhcHRlci0zLTIv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "3.1",
       "title": "Komik Undead-san no Bukiyou na Seishun Chapter 3.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZWFkLXNhbi1uby1idWtpeW91LW5hLXNlaXNodW4tY2hhcHRlci0zLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Undead-san no Bukiyou na Seishun Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZWFkLXNhbi1uby1idWtpeW91LW5hLXNlaXNodW4tY2hhcHRlci0yLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Undead-san no Bukiyou na Seishun Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZWFkLXNhbi1uby1idWtpeW91LW5hLXNlaXNodW4tY2hhcHRlci0xLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }

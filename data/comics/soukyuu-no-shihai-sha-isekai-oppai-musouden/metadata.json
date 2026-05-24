@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.29,
-  "scraped_at": "2026-05-23T14:50:04.513707",
+  "scraped_at": "2026-05-24T08:44:38.829557",
   "alternative_titles": "Soukyuu no Shihaisha: Isekai ni Tensei shitara Sekai no oppai wa Ore no mono!, 双窮の支配者 ～異世界おっぱい無双伝～",
   "status": "Berjalan",
   "author": "AKAI Maruboro",
@@ -27,10 +27,16 @@
   "synopsis": "Manga                    Soukyuu no Shihai-sha ~ Isekai Oppai Musouden yang dibuat oleh komikus bernama\n                    AKAI Maruboro ini bercerita tentang\n                    Hanakizawa Haruzawa, seorang siswa SMA yang sangat normal, bereinkarnasi ke dunia baru karena kecelakaan. Seorang dewi mengatakan kepadanya, \"Aku ingin kamu menyelamatkan dunia yang didominasi oleh makhluk gaib\". Dia kemudian memberinya kekuatan yang disebut [The Double Sky Leader]. Dan kemampuan ini memberinya kemampuan untuk memanipulasi payudara sebanyak yang dia inginkan! Bagaimana kisah Haruzawa – yang tinggal di dunia dengan putri, ksatria wanita, eksekutif wanita, gadis bertelinga kucing, dan wanita memesona lainnya - terungkap !?",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Soukyuu no Shihai-sha ~ Isekai Oppai Musouden Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291a3l1dS1uby1zaGloYWktc2hhLWlzZWthaS1vcHBhaS1tdXNvdWRlbi1jaGFwdGVyLTIxLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Soukyuu no Shihai-sha ~ Isekai Oppai Musouden Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291a3l1dS1uby1zaGloYWktc2hhLWlzZWthaS1vcHBhaS1tdXNvdWRlbi1jaGFwdGVyLTIwLw==",
-      "date": "2 jam yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "16",
@@ -42,7 +48,7 @@
       "chapter": "15",
       "title": "Komik Soukyuu no Shihai-sha ~ Isekai Oppai Musouden Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291a3l1dS1uby1zaGloYWktc2hhLWlzZWthaS1vcHBhaS1tdXNvdWRlbi1jaGFwdGVyLTE1Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -129,5 +135,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }

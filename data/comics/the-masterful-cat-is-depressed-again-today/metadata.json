@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-05T23:58:26.969591",
+  "scraped_at": "2026-05-24T08:45:20.128638",
   "alternative_titles": "デキる猫は今日も憂鬱, デキ猫, Dekiru Neko wa Kyō mo Yūutsu, DekiNeko, The Masterful Cat Is Depressed Again Today, Кот-мастер на все лапки сегодня снова грустит, Kucing Mahir Tertekan Lagi, Hari Ini, เรื่องน่ากลุ้มของเจ้าเหมียวผู้สามารถ, 야무진 고양이는 오늘도 우울, 能干的猫今天也忧郁",
   "status": "Berjalan",
   "author": "Yamada Hitsuzi",
@@ -22,148 +22,250 @@
   "synopsis": "Manga                    The Masterful Cat Is Depressed Again Today yang dibuat oleh komikus bernama\n                    Yamada Hitsuzi ini bercerita tentang\n                    Ketika Saku mengadopsi seekor anak kucing hitam liar, dia tidak pernah menyangka kucing itu akan tumbuh menjadi pasangan hidupnya. Namun Yukichi, seekor kucing raksasa yang lebih tinggi dari Saku sendiri, bukanlah kucing biasa. Dia sangat bangga dengan kemampuan memasaknya, dan diskon besar di supermarket membuat kumisnya berkedut. Saku mungkin belum melupakan amarahnya, tetapi setidaknya dia sekarang memiliki Yukichi!",
   "chapters": [
     {
+      "chapter": "89",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 89",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODkv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "88",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 88",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODgv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "87",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 87",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODcv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "86",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 86",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODYv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "85",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODUv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODQv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "83",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODMv",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "82.5",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 82.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODItNS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "82",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODIv",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "81",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODEv",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "80",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 80",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItODAv",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "79",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 79",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzkv",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "78",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzgv",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "77",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzcv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "76",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzYv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "75",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzUv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "74",
+      "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 74",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzQv",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "73",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzMv",
-      "date": "6 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzIv",
-      "date": "6 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzEv",
-      "date": "6 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNzAv",
-      "date": "3 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "69.5",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 69.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjktNS8=",
-      "date": "3 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjkv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjgv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjcv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjYv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjUv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjQv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjMv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjIv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjEv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNjAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTkv",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTgv",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNTEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -235,254 +337,254 @@
       "chapter": "39",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzkv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzcv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzYv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "35.5",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 35.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzUtNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzUv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzQv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzEv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMzAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjkv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjcv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjYv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjUv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjQv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "22.5",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 22.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjItNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjEv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMjAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTkv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTcv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTYv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTUv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTQv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "12.5",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 12.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTItNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTEv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMTAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItOS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItOC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNy8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItNC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMy8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Masterful Cat Is Depressed Again Today Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hc3RlcmZ1bC1jYXQtaXMtZGVwcmVzc2VkLWFnYWluLXRvZGF5LWNoYXB0ZXItMS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 77
+  "total_chapters": 94
 }

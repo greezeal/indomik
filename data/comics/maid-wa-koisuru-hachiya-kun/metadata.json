@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.28,
-  "scraped_at": "2026-05-10T14:13:05.244904",
+  "scraped_at": "2026-05-24T08:45:49.119739",
   "alternative_titles": "メイドは恋する蜂谷くん, Maid wa Koisuru Hachiya-kun",
   "status": "Berjalan",
   "author": "KOMORI Chihiro",
@@ -22,28 +22,34 @@
   "synopsis": "Manga                    Maid wa Koisuru Hachiya-kun yang dibuat oleh komikus bernama\n                    KOMORI Chihiro ini bercerita tentang\n                    Dia mengakui perasaannya kepada Hanazono yang dicintainya, namun Hanazono menolaknya, dengan mengatakan, ``Saya memiliki tunangan yang dipilih oleh orang tua saya.'' Rekannya adalah Ikegai-kun, yang kaya, tampan, dan berkepribadian baik. Hachiya berpikir meskipun kami bertarung secara normal, tidak ada kemungkinan kami menang, jadi dia menyamar sebagai wanita dan menjadi pelayan keluarga Ikegai, berpikir bahwa dia akan membuat Ikegai-kun jatuh cinta padanya dan memutuskan pertunangan. Cinta segitiga slapstick (?) Komedi!",
   "chapters": [
     {
+      "chapter": "25.1",
+      "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 25.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMjUtMS8=",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "24.2",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 24.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMjQtMi8=",
-      "date": "11 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24.1",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 24.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMjQtMS8=",
-      "date": "11 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23.3",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 23.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMjMtMy8=",
-      "date": "11 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23.2",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 23.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMjMtMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "23.1",
@@ -79,13 +85,13 @@
       "chapter": "18",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMTgv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMTcv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -163,19 +169,19 @@
       "chapter": "4",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItNC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMy8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Maid wa Koisuru Hachiya-kun Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpZC13YS1rb2lzdXJ1LWhhY2hpeWEta3VuLWNoYXB0ZXItMi8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "1",
@@ -184,5 +190,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 28
 }
