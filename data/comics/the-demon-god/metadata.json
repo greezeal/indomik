@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-21T16:28:21.098232",
+  "scraped_at": "2026-05-25T22:46:20.697265",
   "alternative_titles": "마신",
   "status": "Berjalan",
   "author": "Jeon Myeong-Woo, Kim Kang-Hyun",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    The Demon God yang dibuat oleh komikus bernama\n                    Jeon Myeong-Woo, Kim Kang-Hyun ini bercerita tentang\n                    Seratus anak terperangkap di Gunung Hengshan. Hanya satu yang berhasil keluar hidup-hidup, seorang anak laki-laki bernama Dan Hyeongwoo.\r\n\r\nIa bertahan dari neraka yang diciptakan oleh Cheon Gija dan sebagai gantinya memperoleh kekuatan yang layak disebut sebagai kekuatan dewa iblis. Namun, dunia terasa asing baginya, dan aturan-aturannya sama sekali tak masuk akal…\r\n\r\nKarena itu, ia menjadi seorang pendekar pengawal di Agen Pengawalan Henan, mempelajari kembali apa arti menjadi manusia dan bagaimana dunia bekerja, dari nol.\r\n\r\nSemua yang ia lakukan hanya demi satu tujuan: hari ketika ia akan menuntut balas pada Cheon Gija.",
   "chapters": [
     {
+      "chapter": "32",
+      "title": "Komik The Demon God Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTMyLw==",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik The Demon God Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTMxLw==",
-      "date": "26 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The Demon God Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTMwLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik The Demon God Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTI5Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Demon God Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTI4Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "27",
@@ -89,7 +95,7 @@
       "chapter": "20",
       "title": "Komik The Demon God Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWdvZC1jaGFwdGVyLTIwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -206,5 +212,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 31
+  "total_chapters": 32
 }

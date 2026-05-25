@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-18T06:26:39.542001",
+  "scraped_at": "2026-05-25T22:44:10.261193",
   "alternative_titles": "병아리반 헌터는 효도 중!, Byeongariban Hunter-neun Hyodo Jung!, Byeongariban Heonteoneun Hyodo Jung!, The Chick-Class Hunter Is Being Filial!, A Caçadora Mirim Está em Busca de Guardiões, The Chick-Class Hunter Is Filial!",
   "status": "Berjalan",
   "author": "Milcha (밀차),Potdo (폳도)",
@@ -22,28 +22,34 @@
   "synopsis": "Manhwa                    Dungeons and Crayons yang dibuat oleh komikus bernama\n                    Milcha (밀차),Potdo (폳도) ini bercerita tentang\n                    Umurnya baru 4 tahun, tapi Groo udah jadi S-rank termuda di seluruh negeri. Sebagai “ace” kebanggaan kelas TK-nya (ngaku-ngaku sendiri sih), dia siap hadapi tantangan apa pun! Jadi pas quest pertamanya muncul dan nyuruh cari orang dewasa buat ngurusin dia, Groo langsung nekat datang ke guild paling top di Korea dan minta direkrut. Guildmaster yang sadar kalau bocah overpower ini nggak boleh jatuh ke tangan yang salah, akhirnya terpaksa mengadopsinya. Cuma dia nggak nyangka sama sekali—si mungil ini bakal bikin hidupnya jungkir balik!",
   "chapters": [
     {
+      "chapter": "71",
+      "title": "Komik Dungeons and Crayons Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci03MS8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "70",
       "title": "Komik Dungeons and Crayons Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci03MC8=",
-      "date": "12 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik Dungeons and Crayons Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci02OS8=",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik Dungeons and Crayons Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci02OC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik Dungeons and Crayons Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci02Ny8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "66",
@@ -55,7 +61,7 @@
       "chapter": "65",
       "title": "Komik Dungeons and Crayons Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci02NS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "64",
@@ -79,19 +85,19 @@
       "chapter": "61",
       "title": "Komik Dungeons and Crayons Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci02MS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Dungeons and Crayons Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci02MC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Dungeons and Crayons Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci01OS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "58",
@@ -121,7 +127,7 @@
       "chapter": "54",
       "title": "Komik Dungeons and Crayons Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHVuZ2VvbnMtYW5kLWNyYXlvbnMtY2hhcHRlci01NC8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "53",
@@ -442,5 +448,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 70
+  "total_chapters": 71
 }
