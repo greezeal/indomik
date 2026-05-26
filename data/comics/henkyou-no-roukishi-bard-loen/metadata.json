@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.05,
-  "scraped_at": "2026-05-22T23:54:43.726004",
+  "scraped_at": "2026-05-26T19:31:51.841877",
   "alternative_titles": "Henkyou no Roukishi - Bard Roen, Henkyou no Roukishi - Barudo Rooen, Old Knight in Frontier, The Old Knight in the Border - Bard Loen, Старый рыцарь из приграничных земель - Бард Лоен, 辺境の老騎士 バルド・ローエン, 邊境的老騎士, 변경의 노기사 -발드 로엔",
   "status": "Berjalan",
   "author": "Shien BIS",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Henkyou no Roukishi – Bard Loen yang dibuat oleh komikus bernama\n                    Shien BIS ini bercerita tentang\n                    Meninggalkan uang, ketenaran dan kehormatan, ksatria Bard memulai perjalanan untuk menemukan tempat peristirahatan terakhirnya. Mencicipi makanan lezat, mengagumi pemandangan asing sendirian, perjalanannya untuk menemukan tempat untuk mati dengan tenang dimulai.\r\nNamun yang tidak dia ketahui adalah bahwa ini adalah awal dari petualangan baru untuknya.",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Henkyou no Roukishi – Bard Loen Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1uby1yb3VraXNoaS1iYXJkLWxvZW4tY2hhcHRlci00Lw==",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Henkyou no Roukishi – Bard Loen Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVua3lvdS1uby1yb3VraXNoaS1iYXJkLWxvZW4tY2hhcHRlci0zLw==",
-      "date": "9 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2",
@@ -67,5 +73,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }
