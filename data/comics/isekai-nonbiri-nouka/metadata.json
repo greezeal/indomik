@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.01,
-  "scraped_at": "2026-05-26T23:56:38.119709",
+  "scraped_at": "2026-05-28T08:31:13.520225",
   "alternative_titles": "Farming Life in Another World, La vie de fermier dans un autre monde, 異世界のんびり農家",
   "status": "Berjalan",
   "author": "Naitou Kinosuke",
@@ -25,16 +25,34 @@
   "synopsis": "Manga                    Isekai Nonbiri Nouka yang dibuat oleh komikus bernama\n                    Naitou Kinosuke ini bercerita tentang\n                    Meninggal karena sakit pada usia 39, Machio Hiraku diberi kesempatan untuk pergi ke dunia lain. Ketika ditanya apa keinginannya oleh Tuhan yang ingin memberinya kekuatan, dia meminta untuk memiliki tubuh yang sehat, menawarkan keinginan kedua, dia memilih untuk hidup damai, keinginan ketiga untuk bisa tahu bahasa lokal, dan untuk keinginan terakhir. , untuk bisa menjadi petani.",
   "chapters": [
     {
+      "chapter": "298",
+      "title": "Komik Isekai Nonbiri Nouka Chapter 298",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yOTgv",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "297",
+      "title": "Komik Isekai Nonbiri Nouka Chapter 297",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yOTcv",
+      "date": "18 jam yang lalu"
+    },
+    {
+      "chapter": "296",
+      "title": "Komik Isekai Nonbiri Nouka Chapter 296",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yOTYv",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "295",
       "title": "Komik Isekai Nonbiri Nouka Chapter 295",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yOTUv",
-      "date": "37 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "294",
       "title": "Komik Isekai Nonbiri Nouka Chapter 294",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yOTQv",
-      "date": "8 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "293",
@@ -136,7 +154,7 @@
       "chapter": "277",
       "title": "Komik Isekai Nonbiri Nouka Chapter 277",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yNzcv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "276",
@@ -1795,5 +1813,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 295
+  "total_chapters": 298
 }

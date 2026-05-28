@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-22T23:58:56.088750",
+  "scraped_at": "2026-05-28T08:33:50.720808",
   "alternative_titles": "백XX",
   "status": "Berjalan",
   "author": "Byeongjang, Park Tae-joon Cartoon Company",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    Baek XX yang dibuat oleh komikus bernama\n                    Byeongjang, Park Tae-joon Cartoon Company ini bercerita tentang\n                    Agen HID Baek Yi-soo dan saudara kembarnya Baek Do-gyeong, bos organisasi kriminal.\r\nSaudara kembar yang hidup dengan wajah yang sama dan kehidupan yang berbeda. Adik laki-laki yang dikhianati oleh organisasi memutuskan untuk meninggalkan identitasnya dan menjadi kakak laki-laki.\r\nSeorang agen intelijen, menjadi bos organisasi kriminal...!",
   "chapters": [
     {
+      "chapter": "174",
+      "title": "Komik Baek XX Chapter 174",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3NC8=",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "173",
       "title": "Komik Baek XX Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3My8=",
-      "date": "44 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "172",
       "title": "Komik Baek XX Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3Mi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik Baek XX Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3MS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "170",
@@ -49,19 +55,19 @@
       "chapter": "169",
       "title": "Komik Baek XX Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2OS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "168",
       "title": "Komik Baek XX Chapter 168",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2OC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "167",
       "title": "Komik Baek XX Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "166",
@@ -85,13 +91,13 @@
       "chapter": "163",
       "title": "Komik Baek XX Chapter 163",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2My8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "162",
       "title": "Komik Baek XX Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2Mi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "161",
@@ -211,7 +217,7 @@
       "chapter": "142",
       "title": "Komik Baek XX Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0Mi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "141",
@@ -283,7 +289,7 @@
       "chapter": "130",
       "title": "Komik Baek XX Chapter 130",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTEzMC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "129",
@@ -451,7 +457,7 @@
       "chapter": "102",
       "title": "Komik Baek XX Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTEwMi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "101",
@@ -1066,5 +1072,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 174
+  "total_chapters": 175
 }

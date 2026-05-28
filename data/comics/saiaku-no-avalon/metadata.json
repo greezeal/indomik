@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.28,
-  "scraped_at": "2026-05-07T05:06:34.166100",
+  "scraped_at": "2026-05-28T08:28:34.099301",
   "alternative_titles": "Finding Avalon : The Quest of a Chaosbringer, Avalon of Disaster, Wazawai Aku no Avalon: Finding Avalon -The Quest of a Chaosbringer-, 災悪のアヴァロン",
   "status": "Berjalan",
   "author": "Akito Narusawa",
@@ -28,22 +28,28 @@
   "synopsis": "Manga                    Saiaku No Avalon yang dibuat oleh komikus bernama\n                    Akito Narusawa ini bercerita tentang\n                    Karakter utama menyukai game MMORPG bernama Dan-Ex. Selama satu\r\nhari tertentu, acara pengujian beta diumumkan, dan dia berhasil mengalahkannya.\r\nSebagai imbalan untuk menyelesaikan acara tersebut, dia diberikan izin untuk mencoba server pengujian beta.\r\nMemaksa untuk memilih avatar dan skill yang berbeda karena sistem tidak mengizinkannya sendiri, dia akhirnya memutuskan secara acak. Namun, dia dipindahkan ke tempat di mana, seperti yang diharapkan, dia menemukan karakter massa yang gemuk dan jahat...!",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Saiaku No Avalon Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ5Lw==",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Saiaku No Avalon Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ4Lw==",
-      "date": "32 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Saiaku No Avalon Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ3Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Saiaku No Avalon Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "45",
@@ -55,7 +61,7 @@
       "chapter": "44",
       "title": "Komik Saiaku No Avalon Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ0Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "43",
@@ -322,5 +328,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 50
 }
