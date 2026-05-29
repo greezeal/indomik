@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-26T23:57:31.165119",
+  "scraped_at": "2026-05-29T04:55:30.502547",
   "alternative_titles": "Off Work Today Too, 오늘도 퇴근",
   "status": "Berjalan",
   "author": "Parsher, White Grass",
@@ -18,16 +18,28 @@
   "synopsis": "Manhwa                    The Art of Leaving Work on Time yang dibuat oleh komikus bernama\n                    Parsher, White Grass ini bercerita tentang\n                    Lee Min-Soo adalah kepala tim ESG di Soya Group, sebuah konglomerat terkemuka Korea. Ia bekerja tanpa lelah, bertekad untuk pulang kerja tepat waktu. Suatu hari, putri bungsu sang ketua, Kang Chae-Eun, bergabung dengan tim, terjerat dalam politik perusahaan, berselisih dengan pihak internal, dan mengalami berbagai insiden. Akankah Lee Min-Soo mampu pulang kerja tepat waktu?",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik The Art of Leaving Work on Time Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFydC1vZi1sZWF2aW5nLXdvcmstb24tdGltZS1jaGFwdGVyLTQyLw==",
+      "date": "41 menit yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik The Art of Leaving Work on Time Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFydC1vZi1sZWF2aW5nLXdvcmstb24tdGltZS1jaGFwdGVyLTQxLw==",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik The Art of Leaving Work on Time Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFydC1vZi1sZWF2aW5nLXdvcmstb24tdGltZS1jaGFwdGVyLTQwLw==",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik The Art of Leaving Work on Time Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFydC1vZi1sZWF2aW5nLXdvcmstb24tdGltZS1jaGFwdGVyLTM5Lw==",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "38",
@@ -183,7 +195,7 @@
       "chapter": "13",
       "title": "Komik The Art of Leaving Work on Time Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFydC1vZi1sZWF2aW5nLXdvcmstb24tdGltZS1jaGFwdGVyLTEzLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -258,5 +270,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 42
 }

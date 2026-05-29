@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-21T16:27:04.596242",
+  "scraped_at": "2026-05-29T04:56:17.396296",
   "alternative_titles": "Kaisei no Rebelial, Kaisei no Riberiaru, Librale of Reincarnation, 廻生の血盟者",
   "status": "Berjalan",
   "author": "Eternal 14 Sai",
@@ -22,22 +22,28 @@
   "synopsis": "Manga                    Librale of Reincarnation yang dibuat oleh komikus bernama\n                    Eternal 14 Sai ini bercerita tentang\n                    Demi melindungi orang yang paling dicintainya, Johan Librale melakukan perbuatan yang tak termaafkan, ia membunuh pahlawan terkuat di dunia. Kini dicap sebagai pengkhianat umat manusia, ia menjadi target setiap kekuatan yang ada.\r\n\r\nJohan memiliki kemampuan curang yang luar biasa: [Memutar balik waktu]. Namun begitu rahasianya terungkap, tindakan balasan pun dibuat, dan setiap faksi mulai memburunya tanpa jalan keluar.\r\n\r\nBisakah Johan mengatasi musuh-musuh terbesarnya dan menyelamatkan pahlawan wanita yang telah ia sumpahi untuk lindungi… bahkan jika itu berarti menentang takdir itu sendiri?",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Librale of Reincarnation Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlicmFsZS1vZi1yZWluY2FybmF0aW9uLWNoYXB0ZXItMTMv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik Librale of Reincarnation Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlicmFsZS1vZi1yZWluY2FybmF0aW9uLWNoYXB0ZXItMTIv",
-      "date": "28 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Librale of Reincarnation Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlicmFsZS1vZi1yZWluY2FybmF0aW9uLWNoYXB0ZXItMTEv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Librale of Reincarnation Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlicmFsZS1vZi1yZWluY2FybmF0aW9uLWNoYXB0ZXItMTAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -49,13 +55,13 @@
       "chapter": "8",
       "title": "Komik Librale of Reincarnation Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlicmFsZS1vZi1yZWluY2FybmF0aW9uLWNoYXB0ZXItOC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Librale of Reincarnation Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlicmFsZS1vZi1yZWluY2FybmF0aW9uLWNoYXB0ZXItNy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -94,5 +100,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }
