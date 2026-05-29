@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-29T04:52:19.670469",
+  "scraped_at": "2026-05-29T18:46:55.068223",
   "alternative_titles": "N/A",
   "status": "Berjalan",
   "author": "",
@@ -22,16 +22,22 @@
   "synopsis": "Manhwa                    Doctor’s Rebirth yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Seorang dokter yang tewas diakibatkan melakukan tugas volunteer di daerah korea utara yang dimana terlibat perang sipil. Sewaktu tewas dokter ini masuk ke dunia murim dan disinilah cerita dimulai",
   "chapters": [
     {
+      "chapter": "235",
+      "title": "Komik Doctor’s Rebirth Chapter 235",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMjM1Lw==",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "234",
       "title": "Komik Doctor’s Rebirth Chapter 234",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMjM0Lw==",
-      "date": "13 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "233",
       "title": "Komik Doctor’s Rebirth Chapter 233",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMjMzLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "232",
@@ -91,7 +97,7 @@
       "chapter": "223",
       "title": "Komik Doctor’s Rebirth Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMjIzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "222",
@@ -433,7 +439,7 @@
       "chapter": "166",
       "title": "Komik Doctor’s Rebirth Chapter 166",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9jdG9ycy1yZWJpcnRoLWNoYXB0ZXItMTY2Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "165",
@@ -1426,5 +1432,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 234
+  "total_chapters": 235
 }
