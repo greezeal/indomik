@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.51,
-  "scraped_at": "2026-05-24T11:54:41.310022",
+  "scraped_at": "2026-05-30T15:39:54.836832",
   "alternative_titles": "kumaku, Ми-ми-мишка, くま クマ 熊 ベアー, 곰 곰 곰 베어",
   "status": "Berjalan",
   "author": "Kumanano",
@@ -21,34 +21,40 @@
   "synopsis": "Manga                    Kuma Kuma Kuma Bear yang dibuat oleh komikus bernama\n                    Kumanano ini bercerita tentang\n                    Yuna, seorang gadis berusia 15 tahun, mulai memainkan VRMMO pertama di dunia. Dia telah mendapatkan miliaran yen dalam bentuk saham dan mengurung dirinya di rumahnya dengan bermain game tanpa pergi ke sekolah.\r\nHari ini, pembaruan besar telah tiba dan dia mendapatkan pakaian beruang langka yang tidak bisa dipindahtangankan. Tapi perlengkapannya sangat memalukan sehingga dia tidak bisa memakainya bahkan di dalam game. Selanjutnya, ketika dia menjawab survei tentang pembaruan baru dan meluncurkan kembali game tersebut, dia muncul di hutan yang tidak diketahui dengan pakaian beruang. Dimana ini? Email dari Tuhan? Dunia yang berbeda?\r\nJika dia memakai pakaian beruang, dia curang, jika dia melepasnya dia adalah gadis normal. Petualangannya dimulai begitu saja. Yuna mulai melakukan apapun yang dia inginkan.",
   "chapters": [
     {
+      "chapter": "111",
+      "title": "Komik Kuma Kuma Kuma Bear Chapter 111",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTExMS8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "110",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTExMC8=",
-      "date": "32 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "109",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTEwOS8=",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "108",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTEwOC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTEwNy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTEwNi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "105",
@@ -78,7 +84,7 @@
       "chapter": "101",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTEwMS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "100",
@@ -144,13 +150,13 @@
       "chapter": "90",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTkwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik Kuma Kuma Kuma Bear Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VtYS1rdW1hLWt1bWEtYmVhci1jaGFwdGVyLTg5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "88",
@@ -681,5 +687,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 110
+  "total_chapters": 111
 }

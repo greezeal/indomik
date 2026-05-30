@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.04,
-  "scraped_at": "2026-05-03T06:44:13.539517",
+  "scraped_at": "2026-05-30T15:39:33.645655",
   "alternative_titles": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady, 転生王女と天才令嬢の魔法革命",
   "status": "Berjalan",
   "author": "Karasu Piero",
@@ -31,40 +31,46 @@
   "synopsis": "Manga                    Tensei Oujo to Tensai Reijou no Mahou Kakumei yang dibuat oleh komikus bernama\n                    Karasu Piero ini bercerita tentang\n                    Anne-Sophia, Putri yang mengenang kehidupan sebelumnya di usia muda, serta kecintaannya yang intens pada sihir, berangkat untuk mewujudkan fantasinya di dunia fantasi ini.\r\n\r\nSuatu hari, saat terjadi kecelakaan ajaib, dia menemukan sebuah adegan di mana kakaknya Algard memutuskan pertunangannya dengan tunangannya, Euphilia.\r\n\r\nApa yang tidak dapat diramalkan oleh siapa pun adalah bahwa pertemuan aneh ini pada akhirnya akan mengubah jalannya sejarah.",
   "chapters": [
     {
+      "chapter": "46",
+      "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItNDYv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "45",
       "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItNDUv",
-      "date": "27 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItNDQv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItNDMv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItNDIv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItNDEv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItNDAv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -214,7 +220,7 @@
       "chapter": "15",
       "title": "Komik Tensei Oujo to Tensai Reijou no Mahou Kakumei Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLW91am8tdG8tdGVuc2FpLXJlaWpvdS1uby1tYWhvdS1rYWt1bWVpLWNoYXB0ZXItMTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "14",
@@ -301,5 +307,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 45
+  "total_chapters": 46
 }
