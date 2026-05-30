@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-24T11:54:52.042223",
+  "scraped_at": "2026-05-30T07:31:09.310898",
   "alternative_titles": "A Love Letter From the Future, 未来からのラブレター〜滅亡する世界の英雄は俺！？〜, 미래에서 온 연애편지",
   "status": "Berjalan",
   "author": "alcoholic, yeohan",
@@ -22,22 +22,46 @@
   "synopsis": "Manhwa                    Love Letter From The Future yang dibuat oleh komikus bernama\n                    alcoholic, yeohan ini bercerita tentang\n                    Ian Percus, seorang mahasiswa tahun ketiga dari jurusan ilmu pedang Akademi, suatu pagi terbangun dan menemukan kalender lipat di mejanya dan sepucuk surat yang tidak ia ingat pernah diterimanya. Surat itu berisi pesan samar: \"Jika kita tidak melindungi masa depan, dunia akan hancur.\"\r\n\r\nKetika ia pergi ke Akademi, ia mengetahui bahwa, tanpa sepengetahuannya, seminggu telah berlalu dan selama waktu itu, ia mengalahkan seorang junior yang sebelumnya tidak terkalahkan.\r\n\r\nAwalnya, Ian skeptis, tetapi saat peristiwa yang dijelaskan dalam surat itu mulai terungkap, ia perlahan mulai mempercayai apa yang tertulis.\r\n\r\nApa yang sebenarnya terjadi selama seminggu yang tidak dapat ia ingat...?\r\n\r\nAkankah Ian mampu melindungi masa depan?",
   "chapters": [
     {
+      "chapter": "46",
+      "title": "Komik Love Letter From The Future Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItNDYv",
+      "date": "30 menit yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik Love Letter From The Future Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItNDUv",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "44",
+      "title": "Komik Love Letter From The Future Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItNDQv",
+      "date": "4 hari yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Love Letter From The Future Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItNDMv",
+      "date": "4 hari yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik Love Letter From The Future Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItNDIv",
-      "date": "38 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Love Letter From The Future Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItNDEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Love Letter From The Future Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItNDAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -61,7 +85,7 @@
       "chapter": "36",
       "title": "Komik Love Letter From The Future Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItMzYv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "35",
@@ -73,7 +97,7 @@
       "chapter": "34",
       "title": "Komik Love Letter From The Future Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG92ZS1sZXR0ZXItZnJvbS10aGUtZnV0dXJlLWNoYXB0ZXItMzQv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "33",
@@ -274,5 +298,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 46
 }

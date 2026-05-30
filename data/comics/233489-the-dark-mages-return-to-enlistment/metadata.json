@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-29T21:07:56.577351",
+  "scraped_at": "2026-05-30T07:30:09.491476",
   "alternative_titles": "귀환했는데 입대 전날이다",
   "status": "Berjalan",
   "author": "황금비둘기",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    The Dark Mage’s Return to Enlistment yang dibuat oleh komikus bernama\n                    황금비둘기 ini bercerita tentang\n                    Kim MinJun, anak sekolah menengah biasa, tiba-tiba dipanggil ke dunia lain yang membuatnya menjadi penyihir hitam.\r\n\r\nDemi kembali ke dunia asalnya, dia melewati berbagai kesulitan dan menyelamatkan dunia lain dengan kekuatan sihir hitam sebelum dia meninggalkan semua kekayaan dan kejayaannya sebagai pahlawan untuk kembali ke bumi.\r\n\r\nNamun, masalah muncul sebelum dia bisa menikmati kehidupannya yang baru di bumi. Terdapat Dungeon dan monster yang memenuhi dunia dan mengancam harinya yang damai.\r\nKarena itu, MinJun yang baru kembali ke bumi tidak punya pilihan selain… memasuki militer esok harinya!!",
   "chapters": [
     {
+      "chapter": "78",
+      "title": "Komik The Dark Mage’s Return to Enlistment Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci03OC8=",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "77",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci03Ny8=",
-      "date": "28 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci03Ni8=",
-      "date": "28 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "75",
@@ -485,5 +491,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 77
+  "total_chapters": 78
 }
