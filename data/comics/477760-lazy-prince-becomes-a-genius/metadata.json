@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-30T07:34:16.391658",
+  "scraped_at": "2026-05-31T16:28:19.271283",
   "alternative_titles": "Reformation of the Deadbeat Noble, 나태 공자, 노력 천재 되다",
   "status": "Berjalan",
   "author": "doip, Lee Deung Byeol",
@@ -19,10 +19,22 @@
   "synopsis": "Manhwa                    Lazy Prince Becomes a Genius yang dibuat oleh komikus bernama\n                    doip, Lee Deung Byeol ini bercerita tentang\n                    Irene Pareyra, pangeran pemalas yang tidak diharapkan siapa pun.",
   "chapters": [
     {
+      "chapter": "141",
+      "title": "Komik Lazy Prince Becomes a Genius Chapter 141",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE0MS8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "140",
+      "title": "Komik Lazy Prince Becomes a Genius Chapter 140",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE0MC8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "139",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTEzOS8=",
-      "date": "12 jam yang lalu"
+      "date": "4 jam yang lalu"
     },
     {
       "chapter": "138",
@@ -865,5 +877,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 141
+  "total_chapters": 143
 }

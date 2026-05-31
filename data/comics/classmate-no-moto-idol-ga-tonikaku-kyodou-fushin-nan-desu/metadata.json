@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.82,
-  "scraped_at": "2026-05-21T16:23:52.033870",
+  "scraped_at": "2026-05-31T16:20:46.645312",
   "alternative_titles": "クラスメイトの元アイドルが、とにかく挙動不審なんです。, The Idol Girl in My Class Is Acting Suspiciously, Class no Idol Bishoujo ga, Tonikaku Kyodou Fushin nan desu, クラスのアイドル美少女が、とにかく挙動不審なんです",
   "status": "Berjalan",
   "author": "Korin-san",
@@ -23,10 +23,22 @@
   "synopsis": "Manga                    Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu yang dibuat oleh komikus bernama\n                    Korin-san ini bercerita tentang\n                    Saegusa, yang pensiun dari idola ketika dia duduk di bangku SMA, tampan dan cerdas. Dia selalu ceria dan ramah, dan merupakan orang yang paling populer di sekolah.\r\n\r\nTakuya, bagaimanapun, tahu sisi tertentu dari Nona Saegusa yang berbudi luhur.\r\n\r\nHari ini juga, seorang wanita yang tampak mencurigakan dengan penyamaran yang meragukan muncul di toko serba ada tempat dia bekerja paruh waktu.\r\nKemungkinan besar, dia adalah Saegusa-san...?\r\n\r\nAdaptasi komik yang telah lama ditunggu-tunggu dari komedi romantis yang sangat populer dengan pahlawan wanita yang terlalu imut dan mencurigakan!",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3NtYXRlLW5vLW1vdG8taWRvbC1nYS10b25pa2FrdS1reW9kb3UtZnVzaGluLW5hbi1kZXN1LWNoYXB0ZXItMjcv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3NtYXRlLW5vLW1vdG8taWRvbC1nYS10b25pa2FrdS1reW9kb3UtZnVzaGluLW5hbi1kZXN1LWNoYXB0ZXItMjYv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3NtYXRlLW5vLW1vdG8taWRvbC1nYS10b25pa2FrdS1reW9kb3UtZnVzaGluLW5hbi1kZXN1LWNoYXB0ZXItMjUv",
-      "date": "15 menit yang lalu"
+      "date": "3 jam yang lalu"
     },
     {
       "chapter": "24",
@@ -38,13 +50,13 @@
       "chapter": "23",
       "title": "Komik Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3NtYXRlLW5vLW1vdG8taWRvbC1nYS10b25pa2FrdS1reW9kb3UtZnVzaGluLW5hbi1kZXN1LWNoYXB0ZXItMjMv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3NtYXRlLW5vLW1vdG8taWRvbC1nYS10b25pa2FrdS1reW9kb3UtZnVzaGluLW5hbi1kZXN1LWNoYXB0ZXItMjIv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -152,7 +164,7 @@
       "chapter": "4",
       "title": "Komik Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2xhc3NtYXRlLW5vLW1vdG8taWRvbC1nYS10b25pa2FrdS1reW9kb3UtZnVzaGluLW5hbi1kZXN1LWNoYXB0ZXItNC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "3",
@@ -173,5 +185,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 27
 }

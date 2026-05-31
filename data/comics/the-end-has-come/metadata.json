@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-10T19:51:17.749048",
+  "scraped_at": "2026-05-31T16:32:08.505889",
   "alternative_titles": "The Apocalypse Has Arrived, The Apocalypse Is Here, 종말이 찾아왔다",
   "status": "Berjalan",
   "author": "Jeon Seon-Wook",
@@ -19,190 +19,94 @@
   "synopsis": "Manhwa                    The End Has Come yang dibuat oleh komikus bernama\n                    Jeon Seon-Wook ini bercerita tentang\n                    Dunia telah runtuh. Zombi berkeliaran di jalanan. Peradaban runtuh. Dan di tengah semua itu... Seorang buangan yang canggung, bangkrut, dan dirundung bernama Jung Min-jun mendapati dirinya bekerja sama dengan orang yang tidak pernah ia duga: Han Ye-na—gadis kaya dan populer yang tidak pernah harus berjuang untuk apa pun dalam hidupnya. Sekarang, bertahan hidup bukan hanya tentang kekuatan atau uang. Ini tentang kepercayaan, keberanian, dan melewati akhir dunia bersama-sama. Dari keheningan yang canggung hingga pertempuran yang berlumuran darah, dapatkah duo yang tidak mungkin ini bertahan hidup dari kiamat zombi—dan mungkin bahkan belajar untuk saling memahami di sepanjang jalan?",
   "chapters": [
     {
-      "chapter": "59",
-      "title": "Komik The End Has Come Chapter 59",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTU5Lw==",
-      "date": "19 menit yang lalu"
-    },
-    {
-      "chapter": "58",
-      "title": "Komik The End Has Come Chapter 58",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTU4Lw==",
-      "date": "7 hari yang lalu"
-    },
-    {
-      "chapter": "57",
-      "title": "Komik The End Has Come Chapter 57",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTU3Lw==",
-      "date": "3 minggu yang lalu"
-    },
-    {
-      "chapter": "56",
-      "title": "Komik The End Has Come Chapter 56",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTU2Lw==",
-      "date": "3 minggu yang lalu"
-    },
-    {
-      "chapter": "55",
-      "title": "Komik The End Has Come Chapter 55",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTU1Lw==",
-      "date": "4 minggu yang lalu"
-    },
-    {
-      "chapter": "54",
-      "title": "Komik The End Has Come Chapter 54",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTU0Lw==",
-      "date": "1 bulan yang lalu"
-    },
-    {
-      "chapter": "53",
-      "title": "Komik The End Has Come Chapter 53",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTUzLw==",
-      "date": "1 bulan yang lalu"
-    },
-    {
-      "chapter": "52",
-      "title": "Komik The End Has Come Chapter 52",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTUyLw==",
-      "date": "2 bulan yang lalu"
-    },
-    {
-      "chapter": "51",
-      "title": "Komik The End Has Come Chapter 51",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTUxLw==",
-      "date": "2 bulan yang lalu"
-    },
-    {
-      "chapter": "50",
-      "title": "Komik The End Has Come Chapter 50",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTUwLw==",
-      "date": "2 bulan yang lalu"
-    },
-    {
-      "chapter": "49",
-      "title": "Komik The End Has Come Chapter 49",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQ5Lw==",
-      "date": "2 bulan yang lalu"
-    },
-    {
-      "chapter": "48",
-      "title": "Komik The End Has Come Chapter 48",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQ4Lw==",
-      "date": "2 bulan yang lalu"
-    },
-    {
-      "chapter": "47",
-      "title": "Komik The End Has Come Chapter 47",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQ3Lw==",
-      "date": "3 bulan yang lalu"
-    },
-    {
-      "chapter": "46",
-      "title": "Komik The End Has Come Chapter 46",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQ2Lw==",
-      "date": "3 bulan yang lalu"
-    },
-    {
-      "chapter": "45",
-      "title": "Komik The End Has Come Chapter 45",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQ1Lw==",
-      "date": "3 bulan yang lalu"
-    },
-    {
-      "chapter": "44",
-      "title": "Komik The End Has Come Chapter 44",
-      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQ0Lw==",
-      "date": "3 bulan yang lalu"
-    },
-    {
       "chapter": "43",
       "title": "Komik The End Has Come Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQzLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik The End Has Come Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik The End Has Come Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQxLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik The End Has Come Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTQwLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik The End Has Come Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTM5Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik The End Has Come Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTM4Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik The End Has Come Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTM3Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik The End Has Come Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTM2Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik The End Has Come Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTM1Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik The End Has Come Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTM0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik The End Has Come Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTMzLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik The End Has Come Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTMyLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik The End Has Come Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTMxLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The End Has Come Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTMwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik The End Has Come Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTI5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -214,19 +118,19 @@
       "chapter": "27",
       "title": "Komik The End Has Come Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTI3Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The End Has Come Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTI2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The End Has Come Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTI1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -244,7 +148,7 @@
       "chapter": "22",
       "title": "Komik The End Has Come Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTIyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -256,19 +160,19 @@
       "chapter": "20",
       "title": "Komik The End Has Come Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTIwLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik The End Has Come Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTE5Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik The End Has Come Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTE4Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -286,43 +190,43 @@
       "chapter": "15",
       "title": "Komik The End Has Come Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTE1Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The End Has Come Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTE0Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The End Has Come Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTEzLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik The End Has Come Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTEyLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The End Has Come Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTExLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The End Has Come Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTEwLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik The End Has Come Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVuZC1oYXMtY29tZS1jaGFwdGVyLTkv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "8",
@@ -373,5 +277,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 43
 }

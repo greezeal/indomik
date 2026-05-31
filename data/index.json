@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31T14:51:49.334532",
-  "total_comics": 1656,
+  "last_updated": "2026-05-31T16:32:08.523704",
+  "total_comics": 1658,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -30,9 +30,9 @@
       "slug": "427649-the-delusional-hunter-in-another-world",
       "title": "The Delusional Hunter in Another World",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 49
     },
     {
       "slug": "462789-the-tutorial-is-too-hard",
@@ -224,7 +224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.97,
-      "total_chapters": 14
+      "total_chapters": 5
     },
     {
       "slug": "oukoku-e-tsuzuku-michi",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 869
+      "total_chapters": 870
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 321
+      "total_chapters": 324
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1056,7 +1056,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.54,
-      "total_chapters": 113
+      "total_chapters": 115
     },
     {
       "slug": "all-hail-the-sect-leader",
@@ -1152,7 +1152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 71
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1888,7 +1888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 38
     },
     {
       "slug": "931897-reborn-as-the-enemy-prince",
@@ -2006,9 +2006,9 @@
       "slug": "welcome-to-cheap-restaurant-of-outcasts",
       "title": "Welcome to Cheap Restaurant of Outcasts!",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 6.85,
+      "total_chapters": 61
     },
     {
       "slug": "hell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
@@ -2160,7 +2160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "everyone-loves-her",
@@ -2200,7 +2200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 86
+      "total_chapters": 83
     },
     {
       "slug": "koibami-shoujo",
@@ -2248,7 +2248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "the-rebellious-apostle-of-the-harvest-goddess",
@@ -2864,7 +2864,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.39,
-      "total_chapters": 53
+      "total_chapters": 42
     },
     {
       "slug": "ao-no-hako",
@@ -3760,7 +3760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 187
+      "total_chapters": 190
     },
     {
       "slug": "im-the-hero-but-the-main-heroines-are-trying-to-kill-me",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 266
+      "total_chapters": 250
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -3816,7 +3816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 102
+      "total_chapters": 87
     },
     {
       "slug": "im-being-misunderstood-as-a-soccer-genius",
@@ -4360,7 +4360,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 593
+      "total_chapters": 586
     },
     {
       "slug": "250964-the-extras-academy-survival-guide",
@@ -4942,9 +4942,9 @@
       "slug": "genkai-dokushin-joshi-26-gohan",
       "title": "Genkai Dokushin Joshi (26) Gohan",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.81,
+      "total_chapters": 17
     },
     {
       "slug": "valhalla-saga",
@@ -4960,7 +4960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 90
+      "total_chapters": 71
     },
     {
       "slug": "344794-the-games-top-troll",
@@ -5400,7 +5400,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.72,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 125
+      "total_chapters": 128
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -5760,7 +5760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 43
     },
     {
       "slug": "18-year-old-demon-king",
@@ -6048,7 +6048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 124
+      "total_chapters": 126
     },
     {
       "slug": "ice-lord",
@@ -6152,7 +6152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 178
+      "total_chapters": 179
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -6240,7 +6240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 166
+      "total_chapters": 147
     },
     {
       "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-o-kuratte-tsuyoku-naru",
@@ -6568,7 +6568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 308
+      "total_chapters": 309
     },
     {
       "slug": "mia-has-returned",
@@ -7040,7 +7040,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.44,
-      "total_chapters": 133
+      "total_chapters": 135
     },
     {
       "slug": "tachi-nomi-izakaya-de-kei-joshidaisei-ga-tonari-ni-kuru-hanashi",
@@ -8608,7 +8608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 301
+      "total_chapters": 283
     },
     {
       "slug": "520069-isekai-tensei-shitara-aiken-ga-saikyou-ni-narimashita-silver-fenrir-to-ore-ga-isekai-kurashi-wo-hajimetara",
@@ -9064,7 +9064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 88
+      "total_chapters": 89
     },
     {
       "slug": "bouken-ni-iku-fuku-ga-nai",
@@ -9296,7 +9296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 190
+      "total_chapters": 199
     },
     {
       "slug": "my-desire-is-not-a-sin",
@@ -9904,7 +9904,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 138
+      "total_chapters": 140
     },
     {
       "slug": "mr-magical-girl",
@@ -10848,7 +10848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 74
     },
     {
       "slug": "tensei-nanmin-shoujo-wa-shimin-ken-wo-0-kara-mezashite-hatarakimasu",
@@ -13064,7 +13064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.82,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "the-ultimate-romanticist",
@@ -13216,7 +13216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 141
+      "total_chapters": 143
     },
     {
       "slug": "my-academic-system-is-making-me-date",
@@ -13249,6 +13249,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 4
+    },
+    {
+      "slug": "rojiura-de-hirotta-onnanoko-ga-bad-end-go-no-otome-game-no-heroine-datta-ken",
+      "title": "Rojiura de Hirotta Onnanoko ga Bad End-go no Otome Game no Heroine Datta Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.85,
+      "total_chapters": 8
+    },
+    {
+      "slug": "the-fox-eyed-villain-of-the-demon-academy",
+      "title": "The Fox-Eyed Villain of the Demon Academy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.23,
+      "total_chapters": 59
     }
   ]
 }
