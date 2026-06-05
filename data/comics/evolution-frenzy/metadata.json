@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-04T18:13:34.897475",
+  "scraped_at": "2026-06-05T22:10:13.415692",
   "alternative_titles": "The Frenzy of Evolution, 进化狂潮",
   "status": "Berjalan",
   "author": "Voltz",
@@ -18,10 +18,16 @@
   "synopsis": "Manhua                    Evolution Frenzy yang dibuat oleh komikus bernama\n                    Voltz ini bercerita tentang\n                    Setelah Duan Fei meninggal di kehidupan sebelumnya, ia dilahirkan kembali dan kembali ke 20 tahun yang lalu, beberapa jam sebelum penderitaan virus. Penyesalan Duan Fei selama 20 tahun itu akhirnya dapat diatasi dengan menggunakan 20 tahun pengetahuannya dari kehidupan sebelumnya untuk mempersenjatai dirinya di dunia sekarang. Duan Fei, yang telah memperoleh pohon evolusi, terus meningkatkan kekuatannya. Meskipun dia adalah satu-satunya yang selamat di kehidupan sebelumnya, Sekarang dia adalah pahlawan dunia dalam kehidupan ini …",
   "chapters": [
     {
+      "chapter": "147",
+      "title": "Komik Evolution Frenzy Chapter 147",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWZyZW56eS1jaGFwdGVyLTE0Ny8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "146",
       "title": "Komik Evolution Frenzy Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWZyZW56eS1jaGFwdGVyLTE0Ni8=",
-      "date": "25 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "145",
@@ -894,5 +900,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 146
+  "total_chapters": 147
 }

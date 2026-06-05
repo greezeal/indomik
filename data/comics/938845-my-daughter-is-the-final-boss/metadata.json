@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.71,
-  "scraped_at": "2026-06-04T18:14:29.296369",
+  "scraped_at": "2026-06-05T22:10:59.987802",
   "alternative_titles": "내 딸은 최종 보스, Моя дочь — Финальный Босс",
   "status": "Berjalan",
   "author": "geulsseunya (글쓰냐), RK Studio (RK스튜디오)",
@@ -27,10 +27,16 @@
   "synopsis": "Manhwa                    My Daughter is the Final Boss yang dibuat oleh komikus bernama\n                    geulsseunya (글쓰냐), RK Studio (RK스튜디오) ini bercerita tentang\n                    Putriku menghancurkan dunia. Di akhir divergensi, saya mati tak berdaya. Ketika saya membuka mata lagi, putri saya yang berusia lima tahun ada di depan saya.\r\n\r\n\r\nHentikan lima kemalangan Seol-ah Lee. (0/5)\r\n\r\nKesempatan diberikan sekali lagi\r\nJika dibesarkan secara tidak benar, dunia akan binasa.",
   "chapters": [
     {
+      "chapter": "157",
+      "title": "Komik My Daughter is the Final Boss Chapter 157",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGF1Z2h0ZXItaXMtdGhlLWZpbmFsLWJvc3MtY2hhcHRlci0xNTcv",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "156",
       "title": "Komik My Daughter is the Final Boss Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGF1Z2h0ZXItaXMtdGhlLWZpbmFsLWJvc3MtY2hhcHRlci0xNTYv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "155",
@@ -969,5 +975,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 157
+  "total_chapters": 158
 }

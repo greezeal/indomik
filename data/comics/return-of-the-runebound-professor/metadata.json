@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-04T18:12:24.765226",
+  "scraped_at": "2026-06-05T22:08:11.521946",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "Actus",
@@ -18,28 +18,34 @@
   "synopsis": "Manhwa                    Return of the Runebound Professor yang dibuat oleh komikus bernama\n                    Actus ini bercerita tentang\n                    Magus Vermil adalah seorang bajingan — profesor yang paling dibenci di sebuah akademi sihir. Kemudian seseorang membunuhnya. Dia tidak akan pernah terdengar lagi jika bukan karena jiwa yang hilang dari Bumi bernama Noah Vines. Bertransmigrasi ke tubuh Vermil, Noah mengambil alih kekuatan rahasia pria itu dan daftar panjang musuh. Hanya ada satu masalah. Noah harus mengajar kelas besok, dan dia sama sekali tidak tahu apa itu sihir.",
   "chapters": [
     {
+      "chapter": "59",
+      "title": "Komik Return of the Runebound Professor Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNTkv",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik Return of the Runebound Professor Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNTgv",
-      "date": "15 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Return of the Runebound Professor Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNTcv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Return of the Runebound Professor Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNTYv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Return of the Runebound Professor Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNTUv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "54",
@@ -69,7 +75,7 @@
       "chapter": "50",
       "title": "Komik Return of the Runebound Professor Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNTAv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -99,7 +105,7 @@
       "chapter": "45",
       "title": "Komik Return of the Runebound Professor Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNDUv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "44",
@@ -366,5 +372,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 58
+  "total_chapters": 59
 }

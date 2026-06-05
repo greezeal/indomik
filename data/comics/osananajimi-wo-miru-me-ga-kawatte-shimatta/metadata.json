@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-18T22:20:31.827609",
+  "scraped_at": "2026-06-05T22:09:22.301210",
   "alternative_titles": "幼馴染を見る目が変わってしまった, The Way I Look at My Childhood Friend has Changed, Cô bạn thanh mai trúc mã trong mắt tôi giờ đã khác, Cara Pandangku terhadap Teman Masa Kecilku Telah Berubah",
   "status": "Berjalan",
   "author": "Komekura (こめくら)",
@@ -19,23 +19,41 @@
   "synopsis": "Manga                    Osananajimi wo Miru Me ga Kawatte Shimatta yang dibuat oleh komikus bernama\n                    Komekura (こめくら) ini bercerita tentang\n                    Sampai baru-baru ini, mereka seharusnya hanya teman masa kecil… tetapi begitu kalian mulai menyadari keberadaan satu sama lain, tidak ada jalan kembali. Sebuah komedi romantis masa muda tentang titik balik itu!\r\n\r\nSerial yang sangat populer di media sosial kini hadir di GANMA! (dengan lebih dari 450.000 total suka).",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Osananajimi wo Miru Me ga Kawatte Shimatta Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWktd28tbWlydS1tZS1nYS1rYXdhdHRlLXNoaW1hdHRhLWNoYXB0ZXItNi8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Osananajimi wo Miru Me ga Kawatte Shimatta Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWktd28tbWlydS1tZS1nYS1rYXdhdHRlLXNoaW1hdHRhLWNoYXB0ZXItNS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Osananajimi wo Miru Me ga Kawatte Shimatta Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWktd28tbWlydS1tZS1nYS1rYXdhdHRlLXNoaW1hdHRhLWNoYXB0ZXItNC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Osananajimi wo Miru Me ga Kawatte Shimatta Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWktd28tbWlydS1tZS1nYS1rYXdhdHRlLXNoaW1hdHRhLWNoYXB0ZXItMy8=",
-      "date": "35 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Osananajimi wo Miru Me ga Kawatte Shimatta Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWktd28tbWlydS1tZS1nYS1rYXdhdHRlLXNoaW1hdHRhLWNoYXB0ZXItMi8=",
-      "date": "35 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Osananajimi wo Miru Me ga Kawatte Shimatta Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWktd28tbWlydS1tZS1nYS1rYXdhdHRlLXNoaW1hdHRhLWNoYXB0ZXItMS8=",
-      "date": "35 menit yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 6
 }

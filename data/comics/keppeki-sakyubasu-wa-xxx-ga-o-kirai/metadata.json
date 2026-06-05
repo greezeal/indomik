@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.56,
-  "scraped_at": "2026-06-04T18:15:42.014211",
+  "scraped_at": "2026-06-05T22:08:31.058810",
   "alternative_titles": "潔癖サキュバスは×××がお嫌い, NEAT-FREAK SUCCUBUS HATES ×××!",
   "status": "Berjalan",
   "author": "Yumano Yuki",
@@ -21,22 +21,28 @@
   "synopsis": "Manga                    Keppeki sakyubasu wa ××× ga o kirai! yang dibuat oleh komikus bernama\n                    Yumano Yuki ini bercerita tentang\n                    Seorang succubus bernama Saki tiba-tiba muncul di hadapan Ao, seorang siswa SMA. ××× yang paling panas dan paling erotis akan segera dimulai— …atau begitulah kelihatannya, sampai ternyata Saki adalah seorang germaphobe yang bahkan tidak bisa menyentuhnya!? Sebuah komedi nakal namun menyehatkan tentang seorang succubus yang mencoba mengatasi kebersihannya yang ekstrem!",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Keppeki sakyubasu wa ××× ga o kirai! Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VwcGVraS1zYWt5dWJhc3Utd2EteHh4LWdhLW8ta2lyYWktY2hhcHRlci04Lw==",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Keppeki sakyubasu wa ××× ga o kirai! Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VwcGVraS1zYWt5dWJhc3Utd2EteHh4LWdhLW8ta2lyYWktY2hhcHRlci03Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Keppeki sakyubasu wa ××× ga o kirai! Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VwcGVraS1zYWt5dWJhc3Utd2EteHh4LWdhLW8ta2lyYWktY2hhcHRlci02Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Keppeki sakyubasu wa ××× ga o kirai! Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VwcGVraS1zYWt5dWJhc3Utd2EteHh4LWdhLW8ta2lyYWktY2hhcHRlci01Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "4",
@@ -63,5 +69,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }
