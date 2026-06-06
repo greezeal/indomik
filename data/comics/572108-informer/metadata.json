@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-19T05:50:10.264573",
+  "scraped_at": "2026-06-06T11:59:42.553131",
   "alternative_titles": "Chetamja, Che Tamja, 체탐자",
   "status": "Berjalan",
   "author": "Byeongjang",
@@ -23,34 +23,46 @@
   "synopsis": "Manhwa                    Informer yang dibuat oleh komikus bernama\n                    Byeongjang ini bercerita tentang\n                    'Senjata rahasia Sejong, informan Unit Bayangan.'\r\nGwiyoung, yang disebut Bayangan Hantu, telah berkeliaran di medan perang sejak kecil.\r\nBersumpah untuk membalas dendam, ia memutuskan untuk menjadi anggota pasukan khusus terbaik bangsa sebagai informan.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Informer Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0zNy8=",
+      "date": "26 menit yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Informer Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0zNi8=",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "35",
       "title": "Komik Informer Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0zNS8=",
-      "date": "11 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Informer Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0zNC8=",
-      "date": "11 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Informer Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0zMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Informer Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0zMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Informer Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0zMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -170,19 +182,19 @@
       "chapter": "11",
       "title": "Komik Informer Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0xMS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Informer Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci0xMC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Informer Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5mb3JtZXItY2hhcHRlci05Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "8",
@@ -233,5 +245,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 37
 }
