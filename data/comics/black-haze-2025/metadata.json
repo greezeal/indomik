@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.35,
-  "scraped_at": "2026-06-04T18:10:48.109943",
+  "scraped_at": "2026-06-07T21:00:55.564844",
   "alternative_titles": "Black Haze (Reboot), 블랙 헤이즈, مه سیاه, Черная мгла, Schwarzer Dunst, Juoda migla, Brume noire, Bruma negra",
   "status": "Berjalan",
   "author": "Yong Yong (용용)",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Black Haze (2025) yang dibuat oleh komikus bernama\n                    Yong Yong (용용) ini bercerita tentang\n                    Dahulu kala, portal ke dunia lain terbuka, dan mereka yang memperoleh kemampuan khusus beserta tanda mulai disebut penyihir. Setelah kejadian yang dikenal sebagai \"hari itu\", penyihir kelas satu dari Ophion, yang dikenal sebagai \"Blow\", menjadi sangat terkenal. Suatu hari, ia menerima misi yang sangat istimewa: melindungi putra kedua keluarga Artian, yang menderita karena disebut sebagai \"monster\" di sekolah sihir \"Helios\"! Karena itu, Blow mendaftar di Helios dengan nama \"Rood Krisch\" untuk menyembunyikan identitas aslinya...",
   "chapters": [
     {
+      "chapter": "72",
+      "title": "Komik Black Haze (2025) Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNzIv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "71",
       "title": "Komik Black Haze (2025) Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNzEv",
-      "date": "6 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "70",
@@ -43,13 +49,13 @@
       "chapter": "68",
       "title": "Komik Black Haze (2025) Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNjgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik Black Haze (2025) Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNjcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "66",
@@ -151,7 +157,7 @@
       "chapter": "50",
       "title": "Komik Black Haze (2025) Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNTAv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -163,7 +169,7 @@
       "chapter": "48",
       "title": "Komik Black Haze (2025) Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNDgv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "47",
@@ -205,7 +211,7 @@
       "chapter": "41",
       "title": "Komik Black Haze (2025) Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItNDEv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "40",
@@ -259,7 +265,7 @@
       "chapter": "32",
       "title": "Komik Black Haze (2025) Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItMzIv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -277,7 +283,7 @@
       "chapter": "29",
       "title": "Komik Black Haze (2025) Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmxhY2staGF6ZS0yMDI1LWNoYXB0ZXItMjkv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "28",
@@ -448,5 +454,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 71
+  "total_chapters": 72
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.72,
-  "scraped_at": "2026-06-06T14:05:10.331182",
+  "scraped_at": "2026-06-07T21:04:47.449129",
   "alternative_titles": "The Unwanted Undead Adventurer, Нежеланный бессмертный авантюрист, 望まぬ不死の冒険者",
   "status": "Berjalan",
   "author": "Okano Yuu",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    Nozomanu Fushi no Boukensha yang dibuat oleh komikus bernama\n                    Okano Yuu ini bercerita tentang\n                    Protagonisnya adalah petualang peringkat tembaga abadi di daerah perbatasan, Prapaskah. Dengan nasib buruknya, dia bertemu monster yang kuat di dalam labirin dan dikalahkan, sebelum berubah menjadi manusia tulang 《Skeleton》.\r\nSedih karena dia tidak bisa pergi ke kota dalam kondisinya saat ini, dia mengingat keberadaan evolusi monster, dan, dengan tujuan untuk mendapatkan tubuh dengan otot, dia pergi untuk mengalahkan monster labirin.",
   "chapters": [
     {
+      "chapter": "69",
+      "title": "Komik Nozomanu Fushi no Boukensha Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm96b21hbnUtZnVzaGktbm8tYm91a2Vuc2hhLWNoYXB0ZXItNjkv",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "68",
       "title": "Komik Nozomanu Fushi no Boukensha Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm96b21hbnUtZnVzaGktbm8tYm91a2Vuc2hhLWNoYXB0ZXItNjgv",
-      "date": "29 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik Nozomanu Fushi no Boukensha Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm96b21hbnUtZnVzaGktbm8tYm91a2Vuc2hhLWNoYXB0ZXItNjcv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "66",
@@ -46,7 +52,7 @@
       "chapter": "65",
       "title": "Komik Nozomanu Fushi no Boukensha Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm96b21hbnUtZnVzaGktbm8tYm91a2Vuc2hhLWNoYXB0ZXItNjUv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "64",
@@ -493,5 +499,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 78
+  "total_chapters": 79
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-24T04:01:22.711973",
+  "scraped_at": "2026-06-07T21:03:19.646920",
   "alternative_titles": "山劇, Haunted Peak, مسرحية الجبل, La montaña embrujada",
   "status": "Berjalan",
   "author": "Minenami Ryo",
@@ -19,29 +19,59 @@
   "synopsis": "Manga                    Sangeki yang dibuat oleh komikus bernama\n                    Minenami Ryo ini bercerita tentang\n                    Miko, seorang siswi SMA yang mengira akan mewarisi gunung kakeknya, telah kehilangan gebetannya karena temannya dan berada di peringkat terbawah hierarki sekolahnya. Satu-satunya pelipur lara baginya adalah gunung itu, tetapi sekarang seorang pria bertopeng misterius sedang membangun sebuah pondok kecil di sana... Tagline: Apakah aku lemah? Sebuah kisah cinta dan benci yang berputar di sekitar gunung.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Sangeki Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTkv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Sangeki Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTgv",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Sangeki Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTcv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Sangeki Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTYv",
+      "date": "3 minggu yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Sangeki Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTUv",
+      "date": "1 bulan yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Sangeki Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTQv",
-      "date": "2 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Sangeki Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Sangeki Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTIv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Sangeki Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZ2VraS1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 9
 }
