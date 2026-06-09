@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-07T20:59:22.652684",
+  "scraped_at": "2026-06-09T19:05:33.528113",
   "alternative_titles": "近すぎる2人, Слишком близкая пара",
   "status": "Berjalan",
   "author": "Yamiaraa",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Chikasugiru Futari yang dibuat oleh komikus bernama\n                    Yamiaraa ini bercerita tentang\n                    Sejak lahir, mereka selalu bersama dalam segala hal—saat terjaga, tidur, bahkan saat mandi. Pada titik ini, menyebut mereka \"teman masa kecil\" terasa terlalu lunak. Tidak, mereka berdua adalah \"Teman Kelas Buruk.\"Lebih dari sekadar teman masa kecil, tetapi kurang dari sepasang kekasih. Setelah berputar kembali ke titik awal, mereka pada dasarnya seperti pasangan suami istri yang sudah tua.Tirai terbuka untuk komedi romantis \"Teman Kelas Buruk\" ini, di mana rasa ruang pribadi benar-benar hancur!",
   "chapters": [
     {
+      "chapter": "10.1",
+      "title": "Komik Chikasugiru Futari Chapter 10.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTAtMS8=",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "9.2",
       "title": "Komik Chikasugiru Futari Chapter 9.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItOS0yLw==",
-      "date": "16 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "9.1",
@@ -61,13 +67,13 @@
       "chapter": "6",
       "title": "Komik Chikasugiru Futari Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Chikasugiru Futari Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "4.2",
@@ -100,5 +106,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }

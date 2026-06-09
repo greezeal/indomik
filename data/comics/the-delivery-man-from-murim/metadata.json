@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-07T20:57:56.471529",
+  "scraped_at": "2026-06-09T19:06:24.793396",
   "alternative_titles": "Delivery Man From Murim, Delivery Man From Moorim, The Delivery Man From Moorim, 무림에서 온 배달부",
   "status": "Berjalan",
   "author": "Hyangran, Studio Jilpung",
@@ -23,28 +23,40 @@
   "synopsis": "Manhwa                    The Delivery Man From Murim yang dibuat oleh komikus bernama\n                    Hyangran, Studio Jilpung ini bercerita tentang\n                    Dewa bela diri Murim menjadi pengantar barang super cepat!\r\n\r\nBahkan sebelum mencapai usia empat puluh, dewa perang “Kang So” telah menaklukkan dunia. Saat dia sedang mengkonsolidasikan energinya setelah mencapai pencerahan, dia tiba-tiba turun ke celah yang baru terbentuk…\r\n\r\nDia tiba di Korea Selatan abad ke-21, sebuah negeri yang terpencil oleh gerbang dan binatang iblis. Di sini, dewa perang dari dunia persilatan, yang sekarang menjadi pengantar barang, akan membawa kedamaian!",
   "chapters": [
     {
+      "chapter": "108",
+      "title": "Komik The Delivery Man From Murim Chapter 108",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItMTA4Lw==",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "107",
+      "title": "Komik The Delivery Man From Murim Chapter 107",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItMTA3Lw==",
+      "date": "20 jam yang lalu"
+    },
+    {
       "chapter": "106",
       "title": "Komik The Delivery Man From Murim Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItMTA2Lw==",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "105",
       "title": "Komik The Delivery Man From Murim Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItMTA1Lw==",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik The Delivery Man From Murim Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItMTA0Lw==",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik The Delivery Man From Murim Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItMTAzLw==",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "102",
@@ -56,7 +68,7 @@
       "chapter": "101",
       "title": "Komik The Delivery Man From Murim Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItMTAxLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "100",
@@ -158,7 +170,7 @@
       "chapter": "84",
       "title": "Komik The Delivery Man From Murim Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItODQv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "83",
@@ -230,13 +242,13 @@
       "chapter": "72",
       "title": "Komik The Delivery Man From Murim Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItNzIv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik The Delivery Man From Murim Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbGl2ZXJ5LW1hbi1mcm9tLW11cmltLWNoYXB0ZXItNzEv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -659,5 +671,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 106
+  "total_chapters": 108
 }

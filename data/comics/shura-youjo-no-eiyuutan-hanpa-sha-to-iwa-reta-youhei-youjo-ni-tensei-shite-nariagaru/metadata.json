@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-06T14:06:21.096140",
+  "scraped_at": "2026-06-09T19:11:34.397773",
   "alternative_titles": "修羅幼女の英雄譚～半端者と言われた傭兵、幼女に転生して成り上がる～, The Heroic Tale of Shura Young Girl: A Mercenary Who was Said to be Half-Baked is Reincarnated as a Young Girl and Rises to Success",
   "status": "Berjalan",
   "author": "Sunashiro Nagare",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Shura Youjo no Eiyuutan ~Hanpa-sha to Iwa Reta Youhei, Youjo ni Tensei Shite Nariagaru~ yang dibuat oleh komikus bernama\n                    Sunashiro Nagare ini bercerita tentang\n                    \"Jika aku memiliki kehidupan kedua, bukankah aku bisa bercita-cita untuk menjadi 'pahlawan' lagi?\"Solfort Enuma adalah seorang prajurit veteran yang telah menghabiskan lebih dari enam puluh tahun berlatih untuk menjadi seorang \"Pahlawan\". Dia adalah pria biasa tanpa bakat, tetapi dia tidak pernah menyerah dan terus mengejar mimpinya. Suatu hari, Solfort berhadapan dengan \"Pahlawan\" yang selalu dia kagumi, tetapi pedangnya gagal mengenai sasaran dan dia menemui akhir yang tidak memuaskan... atau begitulah yang dia pikirkan, tetapi ketika dia bangun, dia mendapati dirinya bereinkarnasi sebagai seorang gadis kecil--!?",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Shura Youjo no Eiyuutan ~Hanpa-sha to Iwa Reta Youhei, Youjo ni Tensei Shite Nariagaru~ Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2h1cmEteW91am8tbm8tZWl5dXV0YW4taGFucGEtc2hhLXRvLWl3YS1yZXRhLXlvdWhlaS15b3Vqby1uaS10ZW5zZWktc2hpdGUtbmFyaWFnYXJ1LWNoYXB0ZXItOC8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Shura Youjo no Eiyuutan ~Hanpa-sha to Iwa Reta Youhei, Youjo ni Tensei Shite Nariagaru~ Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2h1cmEteW91am8tbm8tZWl5dXV0YW4taGFucGEtc2hhLXRvLWl3YS1yZXRhLXlvdWhlaS15b3Vqby1uaS10ZW5zZWktc2hpdGUtbmFyaWFnYXJ1LWNoYXB0ZXItNy8=",
-      "date": "6 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Shura Youjo no Eiyuutan ~Hanpa-sha to Iwa Reta Youhei, Youjo ni Tensei Shite Nariagaru~ Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2h1cmEteW91am8tbm8tZWl5dXV0YW4taGFucGEtc2hhLXRvLWl3YS1yZXRhLXlvdWhlaS15b3Vqby1uaS10ZW5zZWktc2hpdGUtbmFyaWFnYXJ1LWNoYXB0ZXItNi8=",
-      "date": "4 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "5",
@@ -63,8 +69,8 @@
       "chapter": "1",
       "title": "Komik Shura Youjo no Eiyuutan ~Hanpa-sha to Iwa Reta Youhei, Youjo ni Tensei Shite Nariagaru~ Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2h1cmEteW91am8tbm8tZWl5dXV0YW4taGFucGEtc2hhLXRvLWl3YS1yZXRhLXlvdWhlaS15b3Vqby1uaS10ZW5zZWktc2hpdGUtbmFyaWFnYXJ1LWNoYXB0ZXItMS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }
