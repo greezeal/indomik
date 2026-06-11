@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-16T07:29:45.352902",
+  "scraped_at": "2026-06-11T18:33:30.070988",
   "alternative_titles": "환생좌",
   "status": "Berjalan",
   "author": "ALLA",
@@ -25,28 +25,46 @@
   "synopsis": "Manhwa                    Reincarnator yang dibuat oleh komikus bernama\n                    ALLA ini bercerita tentang\n                    Dewa menciptakan Abyss untuk menghilangkan kebosanannya. Terperangkap di jurang maut yang mengerikan, umat manusia berada di jalan menuju kiamat… “Apakah ini sudah berakhir bagi kita… sekarang…” Di ambang kehancuran umat manusia, empat orang terkuat yang selamat mencoba mencegahnya dengan melakukan perjalanan kembali ke masa lalu ke titik tepat sebelum umat manusia ditarik ke dalam jurang maut. Tapi hanya satu dari mereka yang bisa kembali ke masa lalu. “Apa yang perlu dipikirkan? Bukankah sudah diputuskan siapa yang akan pergi? Yang terkuat di antara kita, Kang Hansoo.” Ini adalah kisah kehidupan orang kuat yang legendaris, Kang Hansoo, yang kembali demi menyelamatkan umat manusia dari kehancuran. Akankah dia bisa menyelamatkan semua orang?",
   "chapters": [
     {
+      "chapter": "86",
+      "title": "Komik Reincarnator Chapter 86",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItODYv",
+      "date": "56 menit yang lalu"
+    },
+    {
+      "chapter": "85",
+      "title": "Komik Reincarnator Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItODUv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik Reincarnator Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItODQv",
+      "date": "4 minggu yang lalu"
+    },
+    {
       "chapter": "83",
       "title": "Komik Reincarnator Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItODMv",
-      "date": "11 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Reincarnator Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItODIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik Reincarnator Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItODEv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Reincarnator Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItODAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "79",
@@ -178,31 +196,31 @@
       "chapter": "58",
       "title": "Komik Reincarnator Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItNTgv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Reincarnator Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItNTcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Reincarnator Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItNTYv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Reincarnator Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItNTUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Reincarnator Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9yLWNoYXB0ZXItNTQv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "53",
@@ -529,5 +547,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 84
+  "total_chapters": 87
 }
