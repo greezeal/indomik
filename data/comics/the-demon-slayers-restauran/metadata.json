@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-11T18:31:53.239252",
+  "scraped_at": "2026-06-14T01:39:48.438405",
   "alternative_titles": "Eat and Go, Eat Before You Go, Eat Then Leave, Have a Meal Before You Go, 밥먹고가라",
   "status": "Berjalan",
   "author": "Go Du Yeol, Kim Hae Ma",
@@ -22,28 +22,40 @@
   "synopsis": "Manhwa                    The Demon Slayer’s Restaurant yang dibuat oleh komikus bernama\n                    Go Du Yeol, Kim Hae Ma ini bercerita tentang\n                    Kang Cheol-ho dulunya adalah pejuang terkuat—dipanggil ke dunia lain, tempat ia bertarung dan mengalahkan Raja Iblis setelah puluhan tahun berperang.\r\n\r\nSekarang, 30 tahun kemudian, ia akhirnya kembali ke Bumi... hanya untuk menemukannya di tengah krisis baru: era serangan monster.\r\n\r\nNamun Cheol-ho lelah. Ia sudah muak dengan pertumpahan darah, pertempuran, dan kejayaan.\r\n\r\nJadi ia menggantung pedangnya dan memilih mimpi yang berbeda: membuka restoran kecil—tempat yang damai tempat siapa pun dapat mampir, makan, dan beristirahat.\r\n\r\nSaat para Pemburu yang lelah, orang asing yang patah hati, dan pengunjung yang penasaran berjalan melewati pintunya, Cheol-ho menawarkan mereka kehangatan bukan melalui kekuatan, tetapi melalui makanan yang lezat dan telinga yang mau mendengarkan.\r\n\r\nSebuah kisah lembut dan mengharukan tentang makanan, penyembuhan, dan kesempatan kedua.",
   "chapters": [
     {
+      "chapter": "61",
+      "title": "Komik The Demon Slayer’s Restaurant Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTYxLw==",
+      "date": "2 menit yang lalu"
+    },
+    {
+      "chapter": "60",
+      "title": "Komik The Demon Slayer’s Restaurant Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTYwLw==",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "59",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTU5Lw==",
-      "date": "47 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTU4Lw==",
-      "date": "6 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTU3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTU2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "55",
@@ -289,13 +301,13 @@
       "chapter": "16",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTE2Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Demon Slayer’s Restaurant Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFudC1jaGFwdGVyLTE1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -331,7 +343,7 @@
       "chapter": "9",
       "title": "Komik The Demon Slayer’s Restauran Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLXNsYXllcnMtcmVzdGF1cmFuLWNoYXB0ZXItOS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "8",
@@ -382,5 +394,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 60
+  "total_chapters": 62
 }
