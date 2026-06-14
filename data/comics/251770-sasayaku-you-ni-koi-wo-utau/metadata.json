@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.88,
-  "scraped_at": "2026-06-06T10:29:19.479839",
+  "scraped_at": "2026-06-14T06:29:12.553678",
   "alternative_titles": "Membisikan Lagu Cinta, Sasakoi, Whispering You a Love Song, Susurrándote Una Canción de Amor, Susurrame Una Canción de Amor, Whisper Me a Love Song, Прошепчу тебе песню о любви, ささやくように恋を唄う",
   "status": "Berjalan",
   "author": "Takeshima Eku",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Sasayaku you ni koi wo utau yang dibuat oleh komikus bernama\n                    Takeshima Eku ini bercerita tentang\n                    Himari adalah seorang siswa sekolah menengah pertama yang pada hari pertama menghadiri pertunjukan klub musik ringan di gym sekolah, jatuh cinta pada kakak kelas dan penyanyi Yori pada pandangan pertama, mengakuinya di loker sepatu. Kemudian mencari kakak kelas tersebut, Himari mengetahui bahwa Yori bukan bagian dari klub dan dia malah suka bermain musik sendirian di atap. Di sana, dia mengetahui bahwa Yori juga jatuh cinta padanya.",
   "chapters": [
     {
+      "chapter": "62.5",
+      "title": "Komik Sasayaku you ni koi wo utau Chapter 62.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNjItNS8=",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "62",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNjIv",
-      "date": "25 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "61",
@@ -44,7 +50,7 @@
       "chapter": "59",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNTkv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "58",
@@ -56,7 +62,7 @@
       "chapter": "57",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNTcv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "56",
@@ -401,5 +407,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-12T18:25:16.927308",
+  "scraped_at": "2026-06-14T06:26:40.378237",
   "alternative_titles": "A Word from Violet, Violet's Poisoned Words, Words from Violet, バイオレットの一言, 바이올렛의 한마디",
   "status": "Berjalan",
   "author": "Lisabel, Muhwa",
@@ -20,35 +20,41 @@
   "synopsis": "Manhwa                    A Word from Violet yang dibuat oleh komikus bernama\n                    Lisabel, Muhwa ini bercerita tentang\n                    Violet Everdeen dikenal sebagai penyihir terburuk di akademi dan dia adalah anak haram dari keluarga bangsawan. Kehidupan rumah dan sekolahnya mengerikan. Tiba-tiba, dia mendapatkan kekuatan untuk melihat penglihatan masa depan. Masa depan yang dilihatnya adalah seorang penjahat dan hukuman mati. Mengetahui hal ini, dia membuat rencana untuk menghindari kematiannya dan label penjahat tersebut.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik A Word from Violet Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13b3JkLWZyb20tdmlvbGV0LWNoYXB0ZXItNi8=",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik A Word from Violet Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13b3JkLWZyb20tdmlvbGV0LWNoYXB0ZXItNS8=",
-      "date": "56 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik A Word from Violet Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13b3JkLWZyb20tdmlvbGV0LWNoYXB0ZXItNC8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik A Word from Violet Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13b3JkLWZyb20tdmlvbGV0LWNoYXB0ZXItMy8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik A Word from Violet Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13b3JkLWZyb20tdmlvbGV0LWNoYXB0ZXItMi8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik A Word from Violet Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13b3JkLWZyb20tdmlvbGV0LWNoYXB0ZXItMS8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }

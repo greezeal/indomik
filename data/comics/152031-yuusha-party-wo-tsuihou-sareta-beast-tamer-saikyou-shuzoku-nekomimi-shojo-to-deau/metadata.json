@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.21,
-  "scraped_at": "2026-06-04T18:17:58.067941",
+  "scraped_at": "2026-06-14T06:22:02.797294",
   "alternative_titles": "The beast tamer who got kicked out from his party meets a cat girl from the superior race., Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau, 勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う, 勇者パーティーを追放されたビーストテイマー、最強種族の猫耳少女と出会う, 용사 파티에서 추방당한 비스트 테이머, 최강종인 고양이귀 소녀와 만나다",
   "status": "Berjalan",
   "author": "Suzu Miyama",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau yang dibuat oleh komikus bernama\n                    Suzu Miyama ini bercerita tentang\n                    Karena Rein adalah penjinak binatang yang lemah dan sederhana, dia dikeluarkan dari kelompok pahlawan tetapi itu tidak menghentikan keinginannya untuk menjadi seorang petualang. Dengan mengambil misi sederhana setelahnya, dia telah ditakdirkan untuk bertemu dengan gadis kucing yang kuat.",
   "chapters": [
     {
+      "chapter": "79",
+      "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 79",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItNzkv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "78",
       "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItNzgv",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItNzcv",
-      "date": "1 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItNzYv",
-      "date": "2 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItNzUv",
-      "date": "2 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "74",
@@ -284,7 +290,7 @@
       "chapter": "37",
       "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItMzcv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "36",
@@ -509,5 +515,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 81
+  "total_chapters": 82
 }
