@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-14T01:45:16.972949",
+  "scraped_at": "2026-06-14T17:56:09.370538",
   "alternative_titles": "8歳から始める魔法学, Old Enough to Learn Magic!, Magicology Starting From Age 8, Изучение магии с 8 лет",
   "status": "Berjalan",
   "author": "Ueno Yuuhi",
@@ -23,46 +23,52 @@
   "synopsis": "Manga                    8-sai kara Hajimeru Mahougaku yang dibuat oleh komikus bernama\n                    Ueno Yuuhi ini bercerita tentang\n                    Roy Aveillam, dari keluarga bangsawan yang terkenal, ditakuti oleh semua orang di sekitarnya karena sikapnya yang kurang ajar dan arogan. Namun, di tengah kekacauan dengan teman sekelasnya, Van, ia mendapatkan kembali \"ingatan akan kehidupan sebelumnya\" dan \"keinginannya\"! Itu adalah keinginan untuk \"menguasai sesuatu dan menjadi istimewa.\" Dan kemudian, Roy mengalami pertemuan yang lebih istimewa lagi. Ia bertemu seseorang yang memiliki sihir di dunia ini! Pada usia 8 tahun, ia membangkitkan \"sihir\" dan bertekad untuk mengubah hidupnya dengan bantuan dari berbagai pertemuannya!",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0yMi8=",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0yMS8=",
-      "date": "52 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0yMC8=",
-      "date": "24 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0xOS8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0xOC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0xNy8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0xNi8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0xNS8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "14",
@@ -92,7 +98,7 @@
       "chapter": "10",
       "title": "Komik 8-sai kara Hajimeru Mahougaku Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOC1zYWkta2FyYS1oYWppbWVydS1tYWhvdWdha3UtY2hhcHRlci0xMC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -155,5 +161,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-14T01:46:40.985277",
+  "scraped_at": "2026-06-14T17:59:05.634278",
   "alternative_titles": "영주님의 코인이 줄지 않음?!",
   "status": "Berjalan",
   "author": "목현",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    The Lord’s Coins Aren’t Decreasing?! yang dibuat oleh komikus bernama\n                    목현 ini bercerita tentang\n                    Ern kembali ke masa lalu setelah kematian yang menyedihkan oleh seorang pembunuh. Namun, ada di matanya !!! ???: Mari kita beri kekuatan. Ayo kita lakukan zero-cha, zero-cha bersama ???: Muda ???: Teh ???: Muda ???: Muda-cha dan Nabal .. Kalau berakhir begini, kita semua ... Ern : Hoo, Hoo, Hoo [Transaksi selesai.] [Point of possession: ????? P] Ern kembali dengan semua kenangan, negara dimensi bekas ... Tidak, badai telah dimulai dengan damai negara dimensi !!",
   "chapters": [
     {
+      "chapter": "203",
+      "title": "Komik The Lord’s Coins Aren’t Decreasing?! Chapter 203",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvcmRzLWNvaW5zLWFyZW50LWRlY3JlYXNpbmctY2hhcHRlci0yMDMv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "202",
       "title": "Komik The Lord’s Coins Aren’t Decreasing?! Chapter 202",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvcmRzLWNvaW5zLWFyZW50LWRlY3JlYXNpbmctY2hhcHRlci0yMDIv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "201",
@@ -229,7 +235,7 @@
       "chapter": "169",
       "title": "Komik The Lord’s Coins Aren’t Decreasing?! Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvcmRzLWNvaW5zLWFyZW50LWRlY3JlYXNpbmctY2hhcHRlci0xNjkv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "168",
@@ -409,7 +415,7 @@
       "chapter": "139",
       "title": "Komik The Lord’s Coins Aren’t Decreasing?! Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvcmRzLWNvaW5zLWFyZW50LWRlY3JlYXNpbmctY2hhcHRlci0xMzkv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "138",
@@ -1240,5 +1246,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 203
+  "total_chapters": 204
 }
