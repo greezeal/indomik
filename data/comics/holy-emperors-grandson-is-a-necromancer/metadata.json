@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-14T06:27:22.039384",
+  "scraped_at": "2026-06-15T07:44:33.148943",
   "alternative_titles": "Grandson of the Holy Emperor Is a Necromancer, 성황의 손자는 네크로맨서",
   "status": "Berjalan",
   "author": "Geulim Jakkun, Studio Neulbom",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Holy Emperor’s Grandson is a Necromancer yang dibuat oleh komikus bernama\n                    Geulim Jakkun, Studio Neulbom ini bercerita tentang\n                    MC kita meninggal karena sengatan listrik yang tidak disengaja dan akhirnya menghuni tubuh seorang pangeran muda di dunia lain, profesi barunya adalah Necromancer yang dia pilih dalam game yang dia mainkan sebelum kematiannya. Namun, hal-hal tidak seperti yang terlihat – termasuk keterampilan Necromancy miliknya!",
   "chapters": [
     {
+      "chapter": "113",
+      "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 113",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTEzLw==",
+      "date": "43 menit yang lalu"
+    },
+    {
       "chapter": "112",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTEyLw==",
-      "date": "19 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "111",
@@ -35,13 +41,13 @@
       "chapter": "110",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTEwLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "109",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTA5Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "108",
@@ -692,5 +698,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 112
+  "total_chapters": 113
 }

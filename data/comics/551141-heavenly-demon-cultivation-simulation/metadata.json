@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-12T18:20:40.936192",
+  "scraped_at": "2026-06-15T07:44:28.372300",
   "alternative_titles": "Cheonmayugseong, Cultivation of Heaven, 천마육성",
   "status": "Berjalan",
   "author": "Cho Hyeong-geun",
@@ -25,16 +25,22 @@
   "synopsis": "Manhwa                    Heavenly Demon Cultivation Simulation yang dibuat oleh komikus bernama\n                    Cho Hyeong-geun ini bercerita tentang\n                    Sebuah kelompok non-gaejo dikirim ke daerah letusan gunung berapi di bawah komando 'Mantis' di Wang Agung Magyo.\r\n'Seol-hui' dalam bahaya dibunuh oleh 'Koo Jong-myeong,' seorang penguasa mutlak kelompok vulkanik.\r\nPada saat itu, jendela status akan muncul di depan Anda dan Anda akan kembali tepat sebelum menerima misi pengintaian.\r\nKetika Seol-hui menerima misi yang sama dengan yang dia bunuh di kehidupan sebelumnya, dia berjuang untuk bertahan hidup dengan mengubah lingkungan sekitarnya bahkan sedikit.\r\nJendela pilihan muncul di depan mata Anda di setiap titik balik, sidik jari yang masa depannya tidak diketahui. Di dunia di mana hidup dan mati hidup berdampingan, kami mencari cara terbaik.",
   "chapters": [
     {
+      "chapter": "179",
+      "title": "Komik Heavenly Demon Cultivation Simulation Chapter 179",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE3OS8=",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "178",
       "title": "Komik Heavenly Demon Cultivation Simulation Chapter 178",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE3OC8=",
-      "date": "11 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "177",
       "title": "Komik Heavenly Demon Cultivation Simulation Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE3Ny8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "176",
@@ -58,19 +64,19 @@
       "chapter": "173",
       "title": "Komik Heavenly Demon Cultivation Simulation Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE3My8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "172",
       "title": "Komik Heavenly Demon Cultivation Simulation Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE3Mi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik Heavenly Demon Cultivation Simulation Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE3MS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "170",
@@ -118,13 +124,13 @@
       "chapter": "163",
       "title": "Komik Heavenly Demon Cultivation Simulation Chapter 163",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE2My8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "162",
       "title": "Komik Heavenly Demon Cultivation Simulation Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24tY3VsdGl2YXRpb24tc2ltdWxhdGlvbi1jaGFwdGVyLTE2Mi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "161",
@@ -1093,5 +1099,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 178
+  "total_chapters": 179
 }

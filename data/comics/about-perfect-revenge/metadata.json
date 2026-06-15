@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-06T14:06:13.376066",
+  "scraped_at": "2026-06-15T07:41:50.881695",
   "alternative_titles": "About Perfect Revenge, About the Perfect Revenge, 완벽한 복수에 대하여",
   "status": "Berjalan",
   "author": "Baek Seol-Eun, Najeong",
@@ -20,29 +20,101 @@
   "synopsis": "Manhwa                    About Perfect Revenge yang dibuat oleh komikus bernama\n                    Baek Seol-Eun, Najeong ini bercerita tentang\n                    Cinta pertamaku, yang telah meninggal, telah kembali. Curtis, yang terbunuh setelah rencana jahat ayahku menghancurkan seluruh keluarganya, kini berdiri di hadapanku untuk membalas dendam.\r\n\r\n“Ayo, memohonlah, Roxana. Siapa tahu? Jika kau bersikap manis dengan wajah cantikmu itu, mungkin aku akan mengampunimu.”\r\n\r\nDengan ujung pedangnya yang berlumuran darah menggoda leherku, ia melontarkan ejekan dinginnya. Dosa ayahku akhirnya datang untuk membunuhku.",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik About Perfect Revenge Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMTYv",
+      "date": "20 menit yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik About Perfect Revenge Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMTUv",
+      "date": "20 menit yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik About Perfect Revenge Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMTQv",
+      "date": "20 menit yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik About Perfect Revenge Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMTMv",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik About Perfect Revenge Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMTIv",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik About Perfect Revenge Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMTEv",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik About Perfect Revenge Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMTAv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik About Perfect Revenge Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItOS8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik About Perfect Revenge Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItOC8=",
+      "date": "5 hari yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik About Perfect Revenge Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItNy8=",
+      "date": "6 hari yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik About Perfect Revenge Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItNi8=",
+      "date": "7 hari yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik About Perfect Revenge Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItNS8=",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik About Perfect Revenge Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItNC8=",
-      "date": "41 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik About Perfect Revenge Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMy8=",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik About Perfect Revenge Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMi8=",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik About Perfect Revenge Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJvdXQtcGVyZmVjdC1yZXZlbmdlLWNoYXB0ZXItMS8=",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 16
 }
