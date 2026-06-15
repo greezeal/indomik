@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.18,
-  "scraped_at": "2026-06-14T20:59:11.058301",
+  "scraped_at": "2026-06-15T18:21:35.008825",
   "alternative_titles": "The After School Idol Has a Secret, 放課後のアイドルには秘密がある, У школьных айдолов есть свои секреты",
   "status": "Berjalan",
   "author": "Amane Kashiko",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Houkago no Idol ni wa Himitsu ga aru yang dibuat oleh komikus bernama\n                    Amane Kashiko ini bercerita tentang\n                    “Di kelasku, ada idola sejati.”\r\nSeorang siswa sekolah menengah tahun pertama di sekolah ultra-elit, Hiruno harus menjadi siswa terbaik di kelasnya sesuai dengan perintah ketat ibunya, tetapi ketika dia gagal mengisi tes prestasi pertamanya, dia mendapat nilai merah dan memiliki untuk mengambil kelas perbaikan. Namun, ada peserta lain di kelas remedial...?",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItNDkv",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItNDgv",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItNDcv",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItNDYv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItNDUv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "44",
@@ -62,7 +68,7 @@
       "chapter": "42",
       "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItNDIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "41",
@@ -212,13 +218,13 @@
       "chapter": "17",
       "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItMTcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Houkago no Idol ni wa Himitsu ga aru Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG91a2Fnby1uby1pZG9sLW5pLXdhLWhpbWl0c3UtZ2EtYXJ1LWNoYXB0ZXItMTYv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "15",
@@ -311,5 +317,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 49
 }
