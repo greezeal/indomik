@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.21,
-  "scraped_at": "2026-06-15T07:42:17.793165",
+  "scraped_at": "2026-06-16T12:47:05.424400",
   "alternative_titles": "The beast tamer who got kicked out from his party meets a cat girl from the superior race., Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau, 勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う, 勇者パーティーを追放されたビーストテイマー、最強種族の猫耳少女と出会う, 용사 파티에서 추방당한 비스트 테이머, 최강종인 고양이귀 소녀와 만나다",
   "status": "Berjalan",
   "author": "Suzu Miyama",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau yang dibuat oleh komikus bernama\n                    Suzu Miyama ini bercerita tentang\n                    Karena Rein adalah penjinak binatang yang lemah dan sederhana, dia dikeluarkan dari kelompok pahlawan tetapi itu tidak menghentikan keinginannya untuk menjadi seorang petualang. Dengan mengambil misi sederhana setelahnya, dia telah ditakdirkan untuk bertemu dengan gadis kucing yang kuat.",
   "chapters": [
     {
+      "chapter": "81",
+      "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItODEv",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "80",
       "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItODAv",
-      "date": "19 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LXdvLXRzdWlob3Utc2FyZXRhLWJlYXN0LXRhbWVyLXNhaWt5b3Utc2h1em9rdS1uZWtvbWltaS1zaG9qby10by1kZWF1LWNoYXB0ZXItNzkv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "78",
@@ -521,5 +527,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 83
+  "total_chapters": 84
 }

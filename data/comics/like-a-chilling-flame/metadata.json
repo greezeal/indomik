@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-14T20:58:46.512113",
+  "scraped_at": "2026-06-16T12:48:08.567336",
   "alternative_titles": "Chilling Flame, Ice Cold, Like Fire, Like a Fiery Flame, 冷冽如焰, 凍てる火花の如く, 시리도록 불꽃처럼",
   "status": "Berjalan",
   "author": "Yu Jin-Sung",
@@ -22,40 +22,46 @@
   "synopsis": "Manhwa                    Like a Chilling Flame yang dibuat oleh komikus bernama\n                    Yu Jin-Sung ini bercerita tentang\n                    Beban yang dipikul oleh keluarga sangatlah berat. Untuk menjaga kelangsungan hidup klannya yang semakin melemah, pemimpin Mujin Baek tidak punya pilihan selain meninggalkan tanah kelahirannya dan terjun ke dunia seni bela diri. Ketika ia lulus ujian masuk Persatuan Langit Utara dengan nilai cemerlang—dengan meninggalkan satu lawan yang tak sadarkan diri—Mujin segera menyadari bahwa dunia tersebut bukanlah tempat mulia yang pernah ia bayangkan. Namun, dengan qi gaya esnya yang kuat, ia bertekad untuk meninggalkan jejak yang mengerikan di tengah pusaran api yang melanda dunia tersebut.",
   "chapters": [
     {
+      "chapter": "83",
+      "title": "Komik Like a Chilling Flame Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1hLWNoaWxsaW5nLWZsYW1lLWNoYXB0ZXItODMv",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "82",
       "title": "Komik Like a Chilling Flame Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1hLWNoaWxsaW5nLWZsYW1lLWNoYXB0ZXItODIv",
-      "date": "2 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik Like a Chilling Flame Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1hLWNoaWxsaW5nLWZsYW1lLWNoYXB0ZXItODEv",
-      "date": "2 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Like a Chilling Flame Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1hLWNoaWxsaW5nLWZsYW1lLWNoYXB0ZXItODAv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Like a Chilling Flame Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1hLWNoaWxsaW5nLWZsYW1lLWNoYXB0ZXItNzkv",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Like a Chilling Flame Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1hLWNoaWxsaW5nLWZsYW1lLWNoYXB0ZXItNzgv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik Like a Chilling Flame Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1hLWNoaWxsaW5nLWZsYW1lLWNoYXB0ZXItNzcv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "76",
@@ -520,5 +526,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 83
+  "total_chapters": 84
 }

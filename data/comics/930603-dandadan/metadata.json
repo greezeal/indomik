@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.3,
-  "scraped_at": "2026-06-09T19:09:51.261555",
+  "scraped_at": "2026-06-16T12:50:03.326775",
   "alternative_titles": "ダンダダン",
   "status": "Berjalan",
   "author": "TATSU Yukinobu",
@@ -22,28 +22,34 @@
   "synopsis": "Manga                    DANDADAN yang dibuat oleh komikus bernama\n                    TATSU Yukinobu ini bercerita tentang\n                    Takakura, seorang anak laki-laki penggemar okultisme yang tidak percaya pada hantu, dan Ayase, seorang gadis yang tidak percaya pada alien, menemukan misteri luar biasa yang melampaui saling pengertian. Kisah Remaja Gaib !!",
   "chapters": [
     {
+      "chapter": "237",
+      "title": "Komik DANDADAN Chapter 237",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzcv",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "236",
       "title": "Komik DANDADAN Chapter 236",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzYv",
-      "date": "2 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "235",
       "title": "Komik DANDADAN Chapter 235",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzUv",
-      "date": "2 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "234",
       "title": "Komik DANDADAN Chapter 234",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "233",
       "title": "Komik DANDADAN Chapter 233",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "232",
@@ -61,7 +67,7 @@
       "chapter": "230",
       "title": "Komik DANDADAN Chapter 230",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMzAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "229",
@@ -79,7 +85,7 @@
       "chapter": "227",
       "title": "Komik DANDADAN Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjcv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "226",
@@ -109,7 +115,7 @@
       "chapter": "222",
       "title": "Komik DANDADAN Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMjIv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "221",
@@ -151,7 +157,7 @@
       "chapter": "215",
       "title": "Komik DANDADAN Chapter 215",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTUv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "214",
@@ -175,7 +181,7 @@
       "chapter": "211",
       "title": "Komik DANDADAN Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMTEv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "210",
@@ -211,7 +217,7 @@
       "chapter": "205",
       "title": "Komik DANDADAN Chapter 205",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDUv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "204",
@@ -241,7 +247,7 @@
       "chapter": "200",
       "title": "Komik DANDADAN Chapter 200",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0yMDAv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "199",
@@ -259,7 +265,7 @@
       "chapter": "197",
       "title": "Komik DANDADAN Chapter 197",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xOTcv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "196",
@@ -385,7 +391,7 @@
       "chapter": "176",
       "title": "Komik DANDADAN Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xNzYv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "175",
@@ -649,7 +655,7 @@
       "chapter": "132",
       "title": "Komik DANDADAN Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0xMzIv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "131",
@@ -1255,13 +1261,13 @@
       "chapter": "31",
       "title": "Komik DANDADAN Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0zMS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik DANDADAN Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFuZGFkYW4tY2hhcHRlci0zMC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "29",
@@ -1456,5 +1462,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 239
+  "total_chapters": 240
 }
