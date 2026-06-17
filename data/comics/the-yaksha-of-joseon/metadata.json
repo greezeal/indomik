@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-05-29T21:10:25.328525",
+  "scraped_at": "2026-06-17T17:26:12.928529",
   "alternative_titles": "The Yaksha of Joseon, 조선야차",
   "status": "Berjalan",
   "author": "Doo Yeop, Jijon Seho",
@@ -21,53 +21,71 @@
   "synopsis": "Manhwa                    The Yaksha of Joseon yang dibuat oleh komikus bernama\n                    Doo Yeop, Jijon Seho ini bercerita tentang\n                    “Jadilah anjing pemburu Joseon. Ini adalah perintah kerajaan.” Dalam sekejap, perdamaian hancur. Atas panggilan raja, dua orang dipaksa untuk menjadi Yaksha—penegak hukum kejam yang terikat pada tahta. Namun seiring kekacauan bangkit dan ketegangan bertumbuh, apakah takdir Joseon sungguh dapat dipercayakan pada mereka…?",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik The Yaksha of Joseon Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci0xMS8=",
+      "date": "34 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik The Yaksha of Joseon Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci0xMC8=",
+      "date": "34 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik The Yaksha of Joseon Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci05Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik The Yaksha of Joseon Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci04Lw==",
-      "date": "1 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik The Yaksha of Joseon Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci03Lw==",
-      "date": "3 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik The Yaksha of Joseon Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci02Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik The Yaksha of Joseon Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci01Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Yaksha of Joseon Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci00Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Yaksha of Joseon Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci0zLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Yaksha of Joseon Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci0yLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Yaksha of Joseon Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXlha3NoYS1vZi1qb3Nlb24tY2hhcHRlci0xLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 11
 }

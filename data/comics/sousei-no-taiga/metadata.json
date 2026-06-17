@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.85,
-  "scraped_at": "2026-06-06T05:42:33.201460",
+  "scraped_at": "2026-06-17T17:28:01.657785",
   "alternative_titles": "Taiga of Genesis, Бытиё Тайги, 創世のタイガ, ฝ่ายุคมฤตยู, 创世的大河, تايغا من سفر التكوين",
   "status": "Berjalan",
   "author": "Mori Kouji",
@@ -27,22 +27,40 @@
   "synopsis": "Manga                    Sousei no Taiga yang dibuat oleh komikus bernama\n                    Mori Kouji ini bercerita tentang\n                    Kisah seorang pemuda yang tidak memiliki kesadaran akan kenyataan setelah dicampakkan oleh kekasihnya. Dia sedang mengunjungi seminar antropologi budaya bersama teman-teman sekelasnya ketika dia menemukan lukisan dinding kuno, yang membawanya ke masa lalu di mana mamut mendominasi dunia.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Sousei no Taiga Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItOC8=",
+      "date": "35 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Sousei no Taiga Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNy8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Sousei no Taiga Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNi8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Sousei no Taiga Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNS8=",
-      "date": "23 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Sousei no Taiga Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Sousei no Taiga Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
@@ -57,5 +75,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 8
 }

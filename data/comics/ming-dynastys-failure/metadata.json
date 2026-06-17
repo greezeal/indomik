@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-15T07:46:26.520320",
+  "scraped_at": "2026-06-17T17:27:11.061629",
   "alternative_titles": "Ming Chao Bai Jia Zi , Kẻ Ăn Hại Triều Minh, Ming Dynasty's Failure, Míng Cháo Bài Jiā Zi, Profligate of Ming Dynasty, Scapegrace of Ming Dynasty, 明朝败家子",
   "status": "Berjalan",
   "author": "阅文漫画",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Ming Dynasty’s Failure yang dibuat oleh komikus bernama\n                    阅文漫画 ini bercerita tentang\n                    Karya parodi lucu baru! T: Orang seperti apa Fang Ji Fan? Ayahnya, Jenderal: Kegagalan anak saya (menangis). Yang Mulia Kaisar: Saya sakit kepala setiap kali dia membuka mulutnya. Saat dia melangkah ke arahku, aku ingin lari.\r\n\r\nYang Mulia Pangeran: Saya dikritik setiap hari karena dia. Fang Ji Fan: Saya di sini, teman-teman, apakah Anda merindukan saya? Jenderal, Kaisar, dan Pangeran: Ayo pergi dari sini!!",
   "chapters": [
     {
+      "chapter": "97",
+      "title": "Komik Ming Dynasty’s Failure Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWluZy1keW5hc3R5cy1mYWlsdXJlLWNoYXB0ZXItOTcv",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "96",
       "title": "Komik Ming Dynasty’s Failure Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWluZy1keW5hc3R5cy1mYWlsdXJlLWNoYXB0ZXItOTYv",
-      "date": "14 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "95",
@@ -201,7 +207,7 @@
       "chapter": "67",
       "title": "Komik Ming Dynasty’s Failure Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWluZy1keW5hc3R5cy1mYWlsdXJlLWNoYXB0ZXItNjcv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "66",
@@ -309,7 +315,7 @@
       "chapter": "49",
       "title": "Komik Ming Dynasty’s Failure Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWluZy1keW5hc3R5cy1mYWlsdXJlLWNoYXB0ZXItNDkv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "48",
@@ -600,5 +606,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 96
+  "total_chapters": 97
 }

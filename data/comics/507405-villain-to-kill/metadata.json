@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-16T12:49:43.883147",
+  "scraped_at": "2026-06-17T17:28:12.666265",
   "alternative_titles": "빌런투킬",
   "status": "Berjalan",
   "author": "퓨핀",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    Villain To Kill yang dibuat oleh komikus bernama\n                    퓨핀 ini bercerita tentang\n                    Setelah dituduh membunuh seorang rekan, Cassian Lee menemui ajalnya. Saat dia mengira semuanya sudah berakhir, jiwanya tiba-tiba merasuki tubuh seorang anak laki-laki dan dia terbangun sebagai penjahat.",
   "chapters": [
     {
+      "chapter": "239",
+      "title": "Komik Villain To Kill Chapter 239",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjM5Lw==",
+      "date": "44 menit yang lalu"
+    },
+    {
       "chapter": "238",
       "title": "Komik Villain To Kill Chapter 238",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjM4Lw==",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "237",
       "title": "Komik Villain To Kill Chapter 237",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjM3Lw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "236",
@@ -48,7 +54,7 @@
       "chapter": "234",
       "title": "Komik Villain To Kill Chapter 234",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjM0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "233",
@@ -234,13 +240,13 @@
       "chapter": "204",
       "title": "Komik Villain To Kill Chapter 204",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjA0Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "203",
       "title": "Komik Villain To Kill Chapter 203",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItMjAzLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "202",
@@ -1176,7 +1182,7 @@
       "chapter": "47",
       "title": "Komik Villain To Kill Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmlsbGFpbi10by1raWxsLWNoYXB0ZXItNDcv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "46",
@@ -1461,5 +1467,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 240
+  "total_chapters": 241
 }
