@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.6,
-  "scraped_at": "2026-06-17T14:08:37.636974",
+  "scraped_at": "2026-06-18T20:03:08.623405",
   "alternative_titles": "Bad Guy, Bad Boy (Dooms), Người Xấu, 나쁜사람",
   "status": "Berjalan",
   "author": "Dooms",
@@ -24,16 +24,22 @@
   "synopsis": "Manhwa                    A Bad Person yang dibuat oleh komikus bernama\n                    Dooms ini bercerita tentang\n                    Saya bekerja keras selama 10 tahun untuk menjadi tipe idealnya, yang menyukai pria baik. Ngomong-ngomong! Dia tiba-tiba menyukai pria nakal... Mulai hari ini, aku... terlahir kembali sebagai pria jahat.",
   "chapters": [
     {
+      "chapter": "306",
+      "title": "Komik A Bad Person Chapter 306",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWQtcGVyc29uLWNoYXB0ZXItMzA2Lw==",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "305",
       "title": "Komik A Bad Person Chapter 305",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWQtcGVyc29uLWNoYXB0ZXItMzA1Lw==",
-      "date": "29 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "304",
       "title": "Komik A Bad Person Chapter 304",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWQtcGVyc29uLWNoYXB0ZXItMzA0Lw==",
-      "date": "29 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "303",
@@ -171,19 +177,19 @@
       "chapter": "281",
       "title": "Komik A Bad Person Chapter 281",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWQtcGVyc29uLWNoYXB0ZXItMjgxLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "280",
       "title": "Komik A Bad Person Chapter 280",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWQtcGVyc29uLWNoYXB0ZXItMjgwLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "279",
       "title": "Komik A Bad Person Chapter 279",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWQtcGVyc29uLWNoYXB0ZXItMjc5Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "278",
@@ -309,7 +315,7 @@
       "chapter": "258",
       "title": "Komik A Bad Person Chapter 258",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWQtcGVyc29uLWNoYXB0ZXItMjU4Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "257",
@@ -1902,5 +1908,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 313
+  "total_chapters": 314
 }
