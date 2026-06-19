@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-19T00:17:18.120532",
+  "scraped_at": "2026-06-19T20:13:31.654981",
   "alternative_titles": "召唤之主！当异变降临人间 签约",
   "status": "Berjalan",
   "author": "iCiyuan动漫",
@@ -19,28 +19,40 @@
   "synopsis": "Manhua                    Lord of Summons! Sudden Mutation yang dibuat oleh komikus bernama\n                    iCiyuan动漫 ini bercerita tentang\n                    Kiamat pun datang. Monster-monster di dalam game menerobos penghalang dimensi dan memulai pembantaian, mendorong peradaban manusia di Planet Biru ke ambang kehancuran. Di saat-saat terakhir kehancuran, waktunya tiba-tiba diputar kembali ke saat game pertama kali muncul. Sekarang dia mendedikasikan dirinya untuk mencari tahu siapa dalang di balik semua ini, melindungi rumahnya, dan mencegah tragedi itu terjadi lagi. Maka, permainan balas dendam pun dimulai, berpacu dengan waktu…",
   "chapters": [
     {
+      "chapter": "115",
+      "title": "Komik Lord of Summons! Sudden Mutation Chapter 115",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTExNS8=",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "114",
+      "title": "Komik Lord of Summons! Sudden Mutation Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTExNC8=",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "113",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTExMy8=",
-      "date": "35 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTExMi8=",
-      "date": "35 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "111",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTExMS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "110",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTExMC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "109",
@@ -82,13 +94,13 @@
       "chapter": "103",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTEwMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTEwMi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "101",
@@ -454,13 +466,13 @@
       "chapter": "41",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTQxLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Lord of Summons! Sudden Mutation Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9yZC1vZi1zdW1tb25zLXN1ZGRlbi1tdXRhdGlvbi1jaGFwdGVyLTQwLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -697,5 +709,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 113
+  "total_chapters": 115
 }

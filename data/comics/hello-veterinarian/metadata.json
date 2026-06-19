@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-19T00:14:28.187137",
+  "scraped_at": "2026-06-19T20:14:07.166015",
   "alternative_titles": "수의사님! 안녕하세요?, Veterinarian! Hello?",
   "status": "Berjalan",
   "author": "Seo Geon-Joo, Mi Yeok-Guk (Nini)",
@@ -23,10 +23,22 @@
   "synopsis": "Manhwa                    Hello? Veterinarian yang dibuat oleh komikus bernama\n                    Seo Geon-Joo, Mi Yeok-Guk (Nini) ini bercerita tentang\n                    Malam sebelum Lee Jun membuka rumah sakit hewan miliknya sendiri, hewan peliharaannya sejak kecil, Pebble, mengunjunginya dalam mimpi dan memberinya hadiah misterius. Jun berhasil merawat pasien pertamanya, tetapi ketika anjing itu berterima kasih kepadanya karena telah menyelamatkan nyawanya, Jun menyadari bahwa ia dapat berbicara dengan hewan! Kabar tentang dokter hewan yang dapat memahami mereka menyebar dengan cepat di antara penghuni berkaki empat di lingkungan tersebut, dan mereka berbondong-bondong datang ke rumah sakit Jun. Dengan kemampuan barunya, akankah Jun mampu menyelamatkan semua teman berbulu ini?",
   "chapters": [
     {
+      "chapter": "137",
+      "title": "Komik Hello? Veterinarian Chapter 137",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTM3Lw==",
+      "date": "28 menit yang lalu"
+    },
+    {
+      "chapter": "136",
+      "title": "Komik Hello? Veterinarian Chapter 136",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTM2Lw==",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "135",
       "title": "Komik Hello? Veterinarian Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTM1Lw==",
-      "date": "13 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "134",
@@ -833,5 +845,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 135
+  "total_chapters": 137
 }
