@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-06T14:04:54.912444",
+  "scraped_at": "2026-06-19T16:30:33.680431",
   "alternative_titles": "신과함께 돌아온 기사왕님",
   "status": "Berjalan",
   "author": "사람살려.",
@@ -20,46 +20,58 @@
   "synopsis": "Manhwa                    The Knight King Who Returned with a God yang dibuat oleh komikus bernama\n                    사람살려. ini bercerita tentang\n                    Setelah 300 tahun berburu iblis di dunia lain, dia kembali ke Bumi.\r\nTapi saya tidak datang sendirian.",
   "chapters": [
     {
+      "chapter": "169",
+      "title": "Komik The Knight King Who Returned with a God Chapter 169",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTY5Lw==",
+      "date": "24 menit yang lalu"
+    },
+    {
+      "chapter": "168",
+      "title": "Komik The Knight King Who Returned with a God Chapter 168",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTY4Lw==",
+      "date": "6 hari yang lalu"
+    },
+    {
       "chapter": "167",
       "title": "Komik The Knight King Who Returned with a God Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTY3Lw==",
-      "date": "20 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "166",
       "title": "Komik The Knight King Who Returned with a God Chapter 166",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTY2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "165",
       "title": "Komik The Knight King Who Returned with a God Chapter 165",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTY1Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "164",
       "title": "Komik The Knight King Who Returned with a God Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTY0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "163",
       "title": "Komik The Knight King Who Returned with a God Chapter 163",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTYzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "162",
       "title": "Komik The Knight King Who Returned with a God Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTYyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "161",
       "title": "Komik The Knight King Who Returned with a God Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTYxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "160",
@@ -89,7 +101,7 @@
       "chapter": "156",
       "title": "Komik The Knight King Who Returned with a God Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTU2Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "155",
@@ -107,7 +119,7 @@
       "chapter": "153",
       "title": "Komik The Knight King Who Returned with a God Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTUzLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "152",
@@ -131,13 +143,13 @@
       "chapter": "149",
       "title": "Komik The Knight King Who Returned with a God Chapter 149",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTQ5Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "148",
       "title": "Komik The Knight King Who Returned with a God Chapter 148",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTQ4Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "147",
@@ -155,13 +167,13 @@
       "chapter": "145",
       "title": "Komik The Knight King Who Returned with a God Chapter 145",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTQ1Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "144",
       "title": "Komik The Knight King Who Returned with a God Chapter 144",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTQ0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "143",
@@ -185,7 +197,7 @@
       "chapter": "140",
       "title": "Komik The Knight King Who Returned with a God Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTQwLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "139",
@@ -203,19 +215,19 @@
       "chapter": "137",
       "title": "Komik The Knight King Who Returned with a God Chapter 137",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTM3Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "136",
       "title": "Komik The Knight King Who Returned with a God Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTM2Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "135",
       "title": "Komik The Knight King Who Returned with a God Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTM1Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "134",
@@ -233,13 +245,13 @@
       "chapter": "132",
       "title": "Komik The Knight King Who Returned with a God Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTMyLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "131",
       "title": "Komik The Knight King Who Returned with a God Chapter 131",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTMxLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "130",
@@ -257,13 +269,13 @@
       "chapter": "128",
       "title": "Komik The Knight King Who Returned with a God Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTI4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "127",
       "title": "Komik The Knight King Who Returned with a God Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTI3Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "126",
@@ -281,13 +293,13 @@
       "chapter": "124",
       "title": "Komik The Knight King Who Returned with a God Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTI0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "123",
       "title": "Komik The Knight King Who Returned with a God Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTIzLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "122",
@@ -305,13 +317,13 @@
       "chapter": "120",
       "title": "Komik The Knight King Who Returned with a God Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTIwLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "119",
       "title": "Komik The Knight King Who Returned with a God Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTE5Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "118",
@@ -323,13 +335,13 @@
       "chapter": "117",
       "title": "Komik The Knight King Who Returned with a God Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTE3Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik The Knight King Who Returned with a God Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMTE2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "115",
@@ -473,19 +485,19 @@
       "chapter": "92",
       "title": "Komik The Knight King Who Returned with a God Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItOTIv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik The Knight King Who Returned with a God Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItOTEv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik The Knight King Who Returned with a God Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItOTAv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "89",
@@ -791,7 +803,7 @@
       "chapter": "39",
       "title": "Komik The Knight King Who Returned with a God Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWtuaWdodC1raW5nLXdoby1yZXR1cm5lZC13aXRoLWEtZ29kLWNoYXB0ZXItMzkv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "38",
@@ -1022,5 +1034,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 167
+  "total_chapters": 169
 }

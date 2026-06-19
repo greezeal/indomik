@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.34,
-  "scraped_at": "2026-06-17T14:11:14.903518",
+  "scraped_at": "2026-06-19T16:32:24.079628",
   "alternative_titles": "두근두근 귀연시, Трогательное милое стихотворение, Heart-Pounding Cute Poem",
   "status": "Berjalan",
   "author": "Dong9 (동우)",
@@ -25,28 +25,40 @@
   "synopsis": "Manhwa                    Heart-Pounding Ghostly Poem yang dibuat oleh komikus bernama\n                    Dong9 (동우) ini bercerita tentang\n                    Choi Do-yeon terus mencari nafkah sebagai streamer game di kamar sewaan di Banjiha.\r\nKepada senior di kampung halamannya dan senior penyiaran, yang banyak membantunya,\r\nAnda akan mendapatkan tautan ke sebuah game.\r\nDi depan Doyeon, yang mengunduh [Puisi Hantu yang Menggetarkan Hati] tanpa memikirkannya\r\nAnda mulai melihat gadis-gadis yang seharusnya tidak terlihat.\r\nKepanikan juga terjadi sesaat dan sim cinta hantu perawan yang mempertaruhkan nyawanya dimulai.",
   "chapters": [
     {
+      "chapter": "52",
+      "title": "Komik Heart-Pounding Ghostly Poem Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItNTIv",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "51",
+      "title": "Komik Heart-Pounding Ghostly Poem Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItNTEv",
+      "date": "9 jam yang lalu"
+    },
+    {
       "chapter": "50",
       "title": "Komik Heart-Pounding Ghostly Poem Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItNTAv",
-      "date": "11 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Heart-Pounding Ghostly Poem Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItNDkv",
-      "date": "11 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Heart-Pounding Ghostly Poem Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItNDgv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Heart-Pounding Ghostly Poem Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItNDcv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "46",
@@ -70,7 +82,7 @@
       "chapter": "43",
       "title": "Komik Heart-Pounding Ghostly Poem Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItNDMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -100,7 +112,7 @@
       "chapter": "38",
       "title": "Komik Heart-Pounding Ghostly Poem Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItMzgv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -172,7 +184,7 @@
       "chapter": "26",
       "title": "Komik Heart-Pounding Ghostly Poem Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhcnQtcG91bmRpbmctZ2hvc3RseS1wb2VtLWNoYXB0ZXItMjYv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -325,5 +337,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 50
+  "total_chapters": 52
 }

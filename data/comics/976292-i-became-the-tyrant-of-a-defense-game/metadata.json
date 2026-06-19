@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-17T19:39:24.882482",
+  "scraped_at": "2026-06-19T16:30:48.029527",
   "alternative_titles": "디펜스 게임의 폭군이 되었다",
   "status": "Berjalan",
   "author": "굥, 류은가람",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    I Became the Tyrant of a Defense Game yang dibuat oleh komikus bernama\n                    굥, 류은가람 ini bercerita tentang\n                    RPG Pertahanan Menara & Pelanggaran Bawah Tanah \r\nSaya melihat akhir permainan pada kesulitan yang tidak dapat diselesaikan oleh siapa pun.\r\nTetapi ketika Anda bangun, Anda curang dalam permainan.\r\nIni juga merupakan tahap tutorial yang tidak dapat diserang.\r\n\"Aku akan memastikan untuk menyelesaikannya, permainan pengemis ini...!\"",
   "chapters": [
     {
+      "chapter": "185",
+      "title": "Komik I Became the Tyrant of a Defense Game Chapter 185",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE4NS8=",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "184",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE4NC8=",
-      "date": "25 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "183",
@@ -138,7 +144,7 @@
       "chapter": "165",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 165",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE2NS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "164",
@@ -318,7 +324,7 @@
       "chapter": "135",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTEzNS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "134",
@@ -1125,5 +1131,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 184
+  "total_chapters": 185
 }
