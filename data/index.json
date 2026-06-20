@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T19:03:27.312145",
-  "total_comics": 1743,
+  "last_updated": "2026-06-20T20:48:24.497131",
+  "total_comics": 1747,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 55
+      "total_chapters": 59
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -440,7 +440,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 130
+      "total_chapters": 132
     },
     {
       "slug": "mikoto-chan-wa-kirawaretakunai",
@@ -1008,7 +1008,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 255
+      "total_chapters": 264
     },
     {
       "slug": "momose-akira-no-hatsukoi-hatan-chuu",
@@ -4488,7 +4488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.05,
-      "total_chapters": 140
+      "total_chapters": 146
     },
     {
       "slug": "455620-return-of-the-high-ranking-civil-servant",
@@ -4888,7 +4888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "office-worker-who-sees-fate",
@@ -5728,7 +5728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 152
+      "total_chapters": 154
     },
     {
       "slug": "zombie-papa",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6080,7 +6080,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 77
     },
     {
       "slug": "archmage-restaurant",
@@ -8384,7 +8384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 106
+      "total_chapters": 112
     },
     {
       "slug": "how-to-live-as-an-illegal-healer",
@@ -8904,7 +8904,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "ore-no-ichizu-wo-jama-suru-aitsu",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -9800,7 +9800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "dancer",
@@ -10648,7 +10648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 17
     },
     {
       "slug": "undead-san-no-bukiyou-na-seishun",
@@ -10936,7 +10936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 14
     },
     {
       "slug": "the-evil-alchemist-cant-handle-his-own-experiment",
@@ -11696,7 +11696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 30
     },
     {
       "slug": "be-blues-ao-ni-nare",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 336
+      "total_chapters": 337
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -13945,6 +13945,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 82
+    },
+    {
+      "slug": "isekai-gaeri-no-yuusha-wa-dungeon-ga-shutsugen-shita-genjitsu-sekai-de-influencer-ni-natte-kane-o-kasegimasu",
+      "title": "Isekai-gaeri no Yuusha wa, Dungeon ga Shutsugen Shita Genjitsu Sekai de, Influencer ni Natte Kane o Kasegimasu!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "legend-of-the-emperor",
+      "title": "Legend of the Emperor",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 22
+    },
+    {
+      "slug": "maou-sama-wa-kaifuku-majutsu-o-kiwametai-sono-seijo-sekai-saikyou-ni-tsuki",
+      "title": "Maou-sama wa Kaifuku Majutsu o Kiwametai: Sono Seijo, Sekai Saikyou ni Tsuki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "sovereign-of-a-hundred-blades-heir-to-the-ultimate-style",
+      "title": "Sovereign of a Hundred Blades: Heir to the Ultimate Style",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }
