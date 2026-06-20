@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.92,
-  "scraped_at": "2026-06-19T20:14:57.845922",
+  "scraped_at": "2026-06-20T16:07:06.287795",
   "alternative_titles": "Savior of Divine Blood ~Draw Out 0.00000001% To Become the Strongest~, 神血の救世主〜0.00000001%を引き当て最強へ〜",
   "status": "Berjalan",
   "author": "Etou Shunji",
@@ -24,10 +24,16 @@
   "synopsis": "Manga                    Kami Chi no Kyuuseishu -0. 00000001% o Hikiate Saikyou e- yang dibuat oleh komikus bernama\n                    Etou Shunji ini bercerita tentang\n                    Seorang pemain yang bisa melawan makhluk dari keajaiban dunia lain. Protagonis utama, Ariake Subaru, diintimidasi dan dipilih sebagai pemain dari peringkat \"Pelangi\", yang bukan emas, perak, atau tembaga. Dia memperoleh keterampilan untuk memanipulasi darah dengan bebas, dan kehidupan serta posisinya berubah sepenuhnya. Saat dia terus berjuang setiap hari, dia secara bertahap mendapatkan gelar sebagai \"Juruselamat\" yang akan menyelamatkan dunia.\r\n\r\nFantasi pertempuran modern dari tim produksi yang sedang naik daun, \"Studio No.9\"!",
   "chapters": [
     {
+      "chapter": "129",
+      "title": "Komik Kami Chi no Kyuuseishu -0. 00000001% o Hikiate Saikyou e- Chapter 129",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaS1jaGktbm8ta3l1dXNlaXNodS0wLTAwMDAwMDAxLW8taGlraWF0ZS1zYWlreW91LWUtY2hhcHRlci0xMjkv",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "128",
       "title": "Komik Kami Chi no Kyuuseishu -0. 00000001% o Hikiate Saikyou e- Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaS1jaGktbm8ta3l1dXNlaXNodS0wLTAwMDAwMDAxLW8taGlraWF0ZS1zYWlreW91LWUtY2hhcHRlci0xMjgv",
-      "date": "2 jam yang lalu"
+      "date": "24 jam yang lalu"
     },
     {
       "chapter": "127",
@@ -135,7 +141,7 @@
       "chapter": "110",
       "title": "Komik Kami Chi no Kyuuseishu -0. 00000001% o Hikiate Saikyou e- Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaS1jaGktbm8ta3l1dXNlaXNodS0wLTAwMDAwMDAxLW8taGlraWF0ZS1zYWlreW91LWUtY2hhcHRlci0xMTAv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "109",
@@ -183,7 +189,7 @@
       "chapter": "102",
       "title": "Komik Kami Chi no Kyuuseishu -0. 00000001% o Hikiate Saikyou e- Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaS1jaGktbm8ta3l1dXNlaXNodS0wLTAwMDAwMDAxLW8taGlraWF0ZS1zYWlreW91LWUtY2hhcHRlci0xMDIv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "101",
@@ -792,5 +798,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 128
+  "total_chapters": 129
 }
