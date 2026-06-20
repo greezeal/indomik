@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T09:54:29.188276",
-  "total_comics": 1732,
+  "last_updated": "2026-06-20T12:13:20.205515",
+  "total_comics": 1736,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -304,7 +304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "the-player-of-the-fallen-family",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 876
+      "total_chapters": 878
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 218
+      "total_chapters": 219
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 119
+      "total_chapters": 121
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -480,7 +480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.89,
-      "total_chapters": 117
+      "total_chapters": 120
     },
     {
       "slug": "627456-return-of-the-mad-demon",
@@ -488,7 +488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 194
+      "total_chapters": 197
     },
     {
       "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
@@ -1232,7 +1232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "strength-through-adversity-my-cultivation-knows-no-limits",
@@ -3752,7 +3752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.26,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru",
@@ -3760,7 +3760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 191
+      "total_chapters": 193
     },
     {
       "slug": "im-the-hero-but-the-main-heroines-are-trying-to-kill-me",
@@ -3976,7 +3976,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 230
+      "total_chapters": 240
     },
     {
       "slug": "absolute-regression",
@@ -4264,7 +4264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 210
+      "total_chapters": 211
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -4374,9 +4374,9 @@
       "slug": "345461-overgeared",
       "title": "Overgeared",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.59,
+      "total_chapters": 329
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 134
+      "total_chapters": 136
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 173
+      "total_chapters": 176
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 129
+      "total_chapters": 131
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -5792,7 +5792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 95
     },
     {
       "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru",
@@ -6000,7 +6000,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "reborn-as-the-heavenly-demon",
@@ -7062,9 +7062,9 @@
       "slug": "kimi-wa-yotsuba-no-clover",
       "title": "Kimi wa Yotsuba no Clover",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.37,
+      "total_chapters": 91
     },
     {
       "slug": "inkya-no-ore-ga-sekigae-de-s-kyuu-bishoujo-ni-kakomaretara-himitsu-no-kankei-ga-hajimatta",
@@ -7256,7 +7256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "crimson-heart-wanderer",
@@ -8144,7 +8144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 18
+      "total_chapters": 20
     },
     {
       "slug": "104992-mushoku-tensei-isekai-ittara-honki-dasu",
@@ -8192,7 +8192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.22,
-      "total_chapters": 66
+      "total_chapters": 68
     },
     {
       "slug": "immature-succubus",
@@ -9064,7 +9064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 91
+      "total_chapters": 94
     },
     {
       "slug": "bouken-ni-iku-fuku-ga-nai",
@@ -10168,7 +10168,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.77,
-      "total_chapters": 256
+      "total_chapters": 257
     },
     {
       "slug": "maou-to-hajimeru-rpg",
@@ -11280,7 +11280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "henkyou-no-ofuroya-san-harem-ni-naru",
@@ -12160,7 +12160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.93,
-      "total_chapters": 62
+      "total_chapters": 63
     },
     {
       "slug": "kuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shite-shimau",
@@ -12840,7 +12840,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 69
+      "total_chapters": 72
     },
     {
       "slug": "daytime-in-the-bunker",
@@ -13000,7 +13000,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "megane-tokidoki-yankee-kun",
@@ -13136,7 +13136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 84
+      "total_chapters": 89
     },
     {
       "slug": "the-corporate-underdog-who-does-everything-right",
@@ -13160,7 +13160,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 36
     },
     {
       "slug": "iinazuke-ga-dekita-to-omottara-sono-iinazuke-ga-gakkou-de-yuumei-na-akuyaku-reijou-dattan-dakedo-dou-sureba-ii",
@@ -13280,7 +13280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 85
+      "total_chapters": 88
     },
     {
       "slug": "houkago-no-idol-ni-wa-himitsu-ga-aru",
@@ -13288,7 +13288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.18,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "evolution-frenzy",
@@ -13496,7 +13496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 190
+      "total_chapters": 205
     },
     {
       "slug": "healing-with-deulbi",
@@ -13568,7 +13568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "hatsukoi-maze",
@@ -13744,7 +13744,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "the-story-of-becoming-a-married-man-in-another-world",
@@ -13792,7 +13792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 161
+      "total_chapters": 163
     },
     {
       "slug": "my-wife-waited-for-me-in-the-wheat-field",
@@ -13856,7 +13856,39 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.78,
-      "total_chapters": 69
+      "total_chapters": 70
+    },
+    {
+      "slug": "majo-no-ending-note",
+      "title": "Majo no Ending Note",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "the-abandoned-princes-ghost-bride",
+      "title": "The Abandoned Prince’s Ghost Bride",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "the-male-leads-little-lion-daughter",
+      "title": "The Male Lead’s Little Lion Daughter",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 169
+    },
+    {
+      "slug": "green-skin",
+      "title": "Green Skin",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }

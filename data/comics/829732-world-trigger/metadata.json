@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.77,
-  "scraped_at": "2026-06-15T21:32:23.575206",
+  "scraped_at": "2026-06-20T12:10:25.528028",
   "alternative_titles": "Импульс мира, ワールドトリガー, 境界触发者",
   "status": "Berjalan",
   "author": "Ashihara Daisuke",
@@ -28,16 +28,22 @@
   "synopsis": "Manga                    World Trigger yang dibuat oleh komikus bernama\n                    Ashihara Daisuke ini bercerita tentang\n                    Sebuah gerbang ke dimensi lain telah terbuka, dan dari sana muncul makhluk raksasa yang tak terkalahkan yang mengancam seluruh umat manusia. Satu-satunya pertahanan bumi adalah sekelompok prajurit misterius yang telah menggunakan teknologi alien untuk melawan!",
   "chapters": [
     {
+      "chapter": "256",
+      "title": "Komik World Trigger Chapter 256",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI1Ni8=",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "255",
       "title": "Komik World Trigger Chapter 255",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI1NS8=",
-      "date": "47 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "254",
       "title": "Komik World Trigger Chapter 254",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd29ybGQtdHJpZ2dlci1jaGFwdGVyLTI1NC8=",
-      "date": "47 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "253",
@@ -1564,5 +1570,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 256
+  "total_chapters": 257
 }

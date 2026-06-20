@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-17T14:08:52.637853",
+  "scraped_at": "2026-06-20T12:11:03.901757",
   "alternative_titles": "내가 키운 S 급들",
   "status": "Berjalan",
   "author": "근서",
@@ -20,16 +20,28 @@
   "synopsis": "Manhwa                    The S-Classes That I Raised yang dibuat oleh komikus bernama\n                    근서 ini bercerita tentang\n                    Ketika monster kelas satu Rauchitas muncul di ruang bawah tanah kelas D di mana karakter utama Han Yu-jin diam-diam masuk, adiknya Han Yu-hyeon menyelamatkan hidupnya dan mati. Kemudian, dengan efek gelar 'Nursor' yang dia terima, skill tambahan 'Last Reward' didemonstrasikan, dan Han Yu-jin menerima dua kali lipat kemampuan adiknya Han Yu-hyeon. Setelah mengalahkan Rauchitas menggunakan kekuatan itu, Han Yu-jin menerima 'Batu Menang' sebagai hadiah. Cerita dimulai dengan kembali ke 5 tahun yang lalu dengan kenangan.",
   "chapters": [
     {
+      "chapter": "162",
+      "title": "Komik The S-Classes That I Raised Chapter 162",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXMtY2xhc3Nlcy10aGF0LWktcmFpc2VkLWNoYXB0ZXItMTYyLw==",
+      "date": "7 jam yang lalu"
+    },
+    {
+      "chapter": "161",
+      "title": "Komik The S-Classes That I Raised Chapter 161",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXMtY2xhc3Nlcy10aGF0LWktcmFpc2VkLWNoYXB0ZXItMTYxLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "160",
       "title": "Komik The S-Classes That I Raised Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXMtY2xhc3Nlcy10aGF0LWktcmFpc2VkLWNoYXB0ZXItMTYwLw==",
-      "date": "33 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "159",
       "title": "Komik The S-Classes That I Raised Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXMtY2xhc3Nlcy10aGF0LWktcmFpc2VkLWNoYXB0ZXItMTU5Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "158",
@@ -47,7 +59,7 @@
       "chapter": "156",
       "title": "Komik The S-Classes That I Raised Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXMtY2xhc3Nlcy10aGF0LWktcmFpc2VkLWNoYXB0ZXItMTU2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "155",
@@ -986,5 +998,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 161
+  "total_chapters": 163
 }
