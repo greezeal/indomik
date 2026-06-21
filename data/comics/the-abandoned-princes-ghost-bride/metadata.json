@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-20T12:04:50.212113",
+  "scraped_at": "2026-06-21T16:54:14.766788",
   "alternative_titles": "Beorim Badeun Hwangja-ui Yuryeong Sinbu, La Novia Fantasma del Príncipe Abandonado, 버림 받은 황자의 유령 신부, 버림받은 황자의 유령 신부",
   "status": "Berjalan",
   "author": "HYEONSOL, Manbi",
@@ -21,35 +21,65 @@
   "synopsis": "Manhwa                    The Abandoned Prince’s Ghost Bride yang dibuat oleh komikus bernama\n                    HYEONSOL, Manbi ini bercerita tentang\n                    Pada usia delapan tahun, Lucian dipaksa untuk \"menikahi\" hantu tak terlihat dan tinggal di rumah hantunya. Merasa kasihan pada Lucian, hantu itu diam-diam memasak dan membersihkan untuknya, hanya untuk kemudian menyadari bahwa ia tiba-tiba dapat melihatnya! Setelah mereka semakin dekat, Lucian menamai pengantin hantunya \"Ria\" dan berjanji untuk menikahinya secara resmi suatu hari nanti. Tetapi kemudian terungkap bahwa Lucian adalah seorang pangeran, dan keduanya dipisahkan tak lama kemudian. Bertahun-tahun kemudian, pengantin pria kecil itu kembali sebagai seorang kaisar yang perkasa, siap untuk akhirnya memikat hati pengantin hantunya.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItMTAv",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItOS8=",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItOC8=",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItNy8=",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItNi8=",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItNS8=",
-      "date": "7 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItNC8=",
-      "date": "7 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItMy8=",
-      "date": "7 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItMi8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Abandoned Prince’s Ghost Bride Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFiYW5kb25lZC1wcmluY2VzLWdob3N0LWJyaWRlLWNoYXB0ZXItMS8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 10
 }

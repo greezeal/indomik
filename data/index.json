@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T14:59:44.430724",
-  "total_comics": 1754,
+  "last_updated": "2026-06-21T17:00:18.898608",
+  "total_comics": 1755,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 324
+      "total_chapters": 330
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 95
+      "total_chapters": 99
     },
     {
       "slug": "colorist",
@@ -6048,7 +6048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 126
+      "total_chapters": 129
     },
     {
       "slug": "ice-lord",
@@ -6672,7 +6672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu",
@@ -7232,7 +7232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 52
+      "total_chapters": 58
     },
     {
       "slug": "gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero",
@@ -7256,7 +7256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "crimson-heart-wanderer",
@@ -8264,7 +8264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 172
     },
     {
       "slug": "takou-no-boyish-kanojo",
@@ -9456,7 +9456,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 18
     },
     {
       "slug": "world-dai-star-encore",
@@ -11936,7 +11936,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "strinova-tomorrow-will-finally-come",
@@ -12640,7 +12640,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 52
     },
     {
       "slug": "a-baby-cat-who-commands-the-dog-clan",
@@ -12776,7 +12776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 140
+      "total_chapters": 141
     },
     {
       "slug": "ichizu-de-bitch-na-kouhai",
@@ -12816,7 +12816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 12
     },
     {
       "slug": "i-became-a-hatchling",
@@ -13872,7 +13872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 10
     },
     {
       "slug": "the-male-leads-little-lion-daughter",
@@ -13992,7 +13992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "once-divorced-fox-travel-meals",
@@ -14033,6 +14033,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 14
+    },
+    {
+      "slug": "i-will-raise-the-villain-properly",
+      "title": "I Will Raise the Villain Properly",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 34
     }
   ]
 }
