@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.31,
-  "scraped_at": "2026-06-14T06:32:22.893970",
+  "scraped_at": "2026-06-21T10:28:31.632184",
   "alternative_titles": "악당은 살고 싶다",
   "status": "Berjalan",
   "author": "Jee Gab Song (지갑송)",
@@ -29,28 +29,34 @@
   "synopsis": "Manhwa                    The Villain Wants to Live yang dibuat oleh komikus bernama\n                    Jee Gab Song (지갑송) ini bercerita tentang\n                    Deculein von Grahan-Yukline adalah mid-boss dari game kelas AAA yang dikembangkan REW. Seorang penjahat yang mati 999 kali dari 1.000 kali.\r\n\r\nSuatu hari, Kim Woojin, pengembang game untuk REW, terbangun sebagai dirinya.\r\n\r\nSebagai penjahat, Deculein pasti ditakdirkan untuk binasa.\r\n\r\n[Tujuan Bertahan Hidup Utama: Menjadi bagian penting dalam game.]\r\n\r\nJika kematian adalah takdirnya, maka ia akan memutarbalikkan takdir itu sendiri untuk bertahan hidup.n he will twist fate itself to survive.",
   "chapters": [
     {
+      "chapter": "57",
+      "title": "Komik The Villain Wants to Live Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTU3Lw==",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "56",
       "title": "Komik The Villain Wants to Live Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTU2Lw==",
-      "date": "41 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik The Villain Wants to Live Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTU1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik The Villain Wants to Live Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTU0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik The Villain Wants to Live Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTUzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "52",
@@ -68,7 +74,7 @@
       "chapter": "50",
       "title": "Komik The Villain Wants to Live Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTUwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -86,7 +92,7 @@
       "chapter": "47",
       "title": "Komik The Villain Wants to Live Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTQ3Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -140,7 +146,7 @@
       "chapter": "38",
       "title": "Komik The Villain Wants to Live Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW4td2FudHMtdG8tbGl2ZS1jaGFwdGVyLTM4Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -365,5 +371,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 57
 }

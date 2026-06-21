@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.8,
-  "scraped_at": "2026-06-14T06:21:52.604513",
+  "scraped_at": "2026-06-21T10:27:05.022283",
   "alternative_titles": "Albus Changes the World, 廻天のアルバス, Albus thay đổi thế giới",
   "status": "Berjalan",
   "author": "Maki Akihisa",
@@ -26,22 +26,28 @@
   "synopsis": "Manga                    Kaiten no Albus yang dibuat oleh komikus bernama\n                    Maki Akihisa ini bercerita tentang\n                    Raja Iblis dikalahkan. Dunia damai. Namun... sudah terlambat.\r\n\r\nPahlawan Albus sedang terburu-buru. Cerita berputar dan dimulai lagi, seolah-olah secara alami, dari tempat semuanya dimulai. Pahlawan Albus yang berpengetahuan luas memulai petualangan baru, di mana waktu adalah hal terpenting.\r\n\r\nHemat waktu! Strategi petualangan yang efisien! Saat merekrut pendeta, bersikaplah tegas! Tidak masalah jika Anda dikira sebagai jenis penipuan baru. Dan tiba-tiba, ia menantang monster berbahaya kelas S.\r\n\r\nPahlawan Albus berusaha merebut kembali masa depan yang diinginkannya dari masa lalu dalam fantasi petualangan ulang (serangan waktu nyata) yang sangat cepat ini!",
   "chapters": [
     {
+      "chapter": "89",
+      "title": "Komik Kaiten no Albus Chapter 89",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItODkv",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "88",
       "title": "Komik Kaiten no Albus Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItODgv",
-      "date": "2 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik Kaiten no Albus Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItODcv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik Kaiten no Albus Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItODYv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "85",
@@ -65,7 +71,7 @@
       "chapter": "82",
       "title": "Komik Kaiten no Albus Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItODIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "81",
@@ -131,7 +137,7 @@
       "chapter": "71",
       "title": "Komik Kaiten no Albus Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItNzEv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -143,13 +149,13 @@
       "chapter": "69",
       "title": "Komik Kaiten no Albus Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItNjkv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik Kaiten no Albus Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItNjgv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "67",
@@ -167,7 +173,7 @@
       "chapter": "65",
       "title": "Komik Kaiten no Albus Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FpdGVuLW5vLWFsYnVzLWNoYXB0ZXItNjUv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "64",
@@ -554,5 +560,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 88
+  "total_chapters": 89
 }
