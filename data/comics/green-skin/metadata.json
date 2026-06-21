@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-20T21:59:25.980357",
+  "scraped_at": "2026-06-21T21:49:47.542017",
   "alternative_titles": "Greenskin, Зеленая кожа, 그린 스킨, 그린스킨",
   "status": "Berjalan",
   "author": "Heulk Sujeo, Seung Gisa",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    Green Skin yang dibuat oleh komikus bernama\n                    Heulk Sujeo, Seung Gisa ini bercerita tentang\n                    Aku bertahan hidup selama sepuluh tahun di dunia lain. Namun, yang menantiku saat kembali hanyalah pengkhianatan dan kematian. Saat aku membuka mata lagi, aku bukan lagi manusia—aku telah menjadi goblin.",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Green Skin Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTUv",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Green Skin Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTQv",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Green Skin Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTMv",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "2",
@@ -45,5 +51,5 @@
       "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

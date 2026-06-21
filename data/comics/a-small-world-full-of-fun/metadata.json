@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-20T22:00:39.633060",
+  "scraped_at": "2026-06-21T21:53:18.832551",
   "alternative_titles": "Small Worlds, Endless Fun, 小世界其乐无穷",
   "status": "Berjalan",
   "author": "",
@@ -22,22 +22,34 @@
   "synopsis": "Manhua                    A Small World Full Of Fun yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Makhluk-makhluk luar biasa menghancurkan kesunyian dunia, dan sejak saat itu pohon teknologi menyimpang dari jalurnya. Sementara umat manusia meraba-raba dalam kegelapan mencari jalan menuju evolusi, aku merobek tulang rusukku, membakar hatiku, dan menghabiskan malam-malam tanpa tidur untuk menjadi garda terdepan mereka. Inilah perjalanan seperti permainan seorang pemain yang mempermainkan seluruh dunia. Di dunia-dunia kecil ini, kesenangan benar-benar tidak pernah berakhir.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik A Small World Full Of Fun Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI3Lw==",
+      "date": "46 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik A Small World Full Of Fun Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI2Lw==",
+      "date": "46 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik A Small World Full Of Fun Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI1Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik A Small World Full Of Fun Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI0Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik A Small World Full Of Fun Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTIzLw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "22",
@@ -49,7 +61,7 @@
       "chapter": "21",
       "title": "Komik A Small World Full Of Fun Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTIxLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "20",
@@ -109,7 +121,7 @@
       "chapter": "11",
       "title": "Komik A Small World Full Of Fun Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTExLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -172,5 +184,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 27
 }

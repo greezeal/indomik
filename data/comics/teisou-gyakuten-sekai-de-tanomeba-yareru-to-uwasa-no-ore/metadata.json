@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-06T14:06:28.738125",
+  "scraped_at": "2026-06-21T21:52:00.611180",
   "alternative_titles": "貞操逆転世界で頼めばヤれると噂の俺, The Rumor is I'm Easy Man if You Ask in a World of Reversed Chastity",
   "status": "Berjalan",
   "author": "aaa168",
@@ -24,28 +24,34 @@
   "synopsis": "Manga                    Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore yang dibuat oleh komikus bernama\n                    aaa168 ini bercerita tentang\n                    Aku, Sato Sora, terbangun dan mendapati diriku dipindahkan ke dunia di mana kesucian dibalik. Meskipun masih bingung, aku perlahan menyesuaikan diri dengan nilai-nilai kehidupan baruku. Kemudian, sekelompok gadis cantik mulai berkumpul, mempercayai desas-desus bahwa \"asisten toko pria itu akan membiarkanmu melakukan apa pun yang kau inginkan jika kau memintanya!\"",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLWRlLXRhbm9tZWJhLXlhcmVydS10by11d2FzYS1uby1vcmUtY2hhcHRlci0xMS8=",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "10.2",
       "title": "Komik Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore Chapter 10.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLWRlLXRhbm9tZWJhLXlhcmVydS10by11d2FzYS1uby1vcmUtY2hhcHRlci0xMC0yLw==",
-      "date": "6 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "10.1",
       "title": "Komik Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore Chapter 10.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLWRlLXRhbm9tZWJhLXlhcmVydS10by11d2FzYS1uby1vcmUtY2hhcHRlci0xMC0xLw==",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLWRlLXRhbm9tZWJhLXlhcmVydS10by11d2FzYS1uby1vcmUtY2hhcHRlci05Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVpc291LWd5YWt1dGVuLXNla2FpLWRlLXRhbm9tZWJhLXlhcmVydS10by11d2FzYS1uby1vcmUtY2hhcHRlci04Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "7.2",
@@ -96,5 +102,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }
