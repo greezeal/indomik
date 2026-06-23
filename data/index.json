@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T17:40:54.227827",
-  "total_comics": 1765,
+  "last_updated": "2026-06-23T19:37:10.282454",
+  "total_comics": 1767,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 337
+      "total_chapters": 339
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2296,7 +2296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 249
+      "total_chapters": 250
     },
     {
       "slug": "reincarnation-of-the-demonic-god",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 406
+      "total_chapters": 407
     },
     {
       "slug": "god-of-martial-arts",
@@ -5336,7 +5336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 28
     },
     {
       "slug": "124162-the-unbeatable-dungeons-lazy-boss-monster",
@@ -7480,7 +7480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 187
+      "total_chapters": 188
     },
     {
       "slug": "a-weary-child-looks-for-his-father",
@@ -9816,7 +9816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "shuuriya-lodge-no-kougubako",
@@ -12656,7 +12656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 88
+      "total_chapters": 89
     },
     {
       "slug": "after-transmigrating-into-the-cyberpunk-game-i-defeated-the-boss-and-successfully-rose-to-the-top",
@@ -14121,6 +14121,22 @@
       "status": "Berjalan",
       "rating": 7.58,
       "total_chapters": 49
+    },
+    {
+      "slug": "i-shall-master-this-family",
+      "title": "I Shall Master This Family!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 141
+    },
+    {
+      "slug": "contract-killer-enrollment",
+      "title": "Contract Killer Enrollment",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
     }
   ]
 }
