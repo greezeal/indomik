@@ -6,8 +6,8 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.62,
-  "scraped_at": "2026-04-05T14:58:51.848016",
-  "alternative_titles": "Cuentos de Demonios y Dioses, Fortellinger om Demoner og Guder, Historias De Dioses Y Demonios, Tales of Demons and Gods, TDG , TODAG, TODAG : Tales of Demons and Gods, TODG, Trach Yeu Ky , Una Vida Del Demonio, Yêu Thần Ký , Yāoshén jì, Yaoshenji, Клеймо",
+  "scraped_at": "2026-06-23T17:38:56.986669",
+  "alternative_titles": "Cuentos de Demonios y Dioses, Fortellinger om Demoner og Guder, Historias De Dioses Y Demonios, Tales of Demons and Gods, TDG , TODAG, TODAG : Tales of Demons and Gods, TODG, Trach Yeu Ky , Una Vida Del Demonio, Yêu Thần Ký , Yāoshén jì, Yaoshenji, Клеймо Зловещего Духа, Сказания о Демонах и Богах, 妖神记",
   "status": "Berjalan",
   "author": "Mad Snail",
   "illustrator": "Jiang Ruotai",
@@ -26,262 +26,328 @@
   "synopsis": "Manhua                    Tales of Demons and Gods yang dibuat oleh komikus bernama\n                    Mad Snail ini bercerita tentang\n                    Nie Li menjadi Spiritualis Iblis terkuat dan berdiri di puncak dunia persilatan. Namun, dia kehilangan nyawanya selama pertempuran dengan Kaisar Sage dan enam monster tingkat dewa.\r\n\r\nJiwanya kemudian dibawa kembali saat dia masih berusia 13 tahun. Pada titik ini dalam hidupnya, Nie Li dianggap yang paling menyedihkan dari teman-temannya. Namun, dengan pengetahuan luas yang dia kumpulkan dari kehidupan sebelumnya (masa depannya), dia mulai menjadi lebih kuat lebih cepat dari yang diharapkan siapa pun. Dia juga memutuskan untuk membantu mereka yang meninggal dengan mulia di kehidupan sebelumnya menjadi lebih kuat juga.\r\n\r\nBertujuan untuk mencegah kehancuran rumahnya di masa depan oleh binatang iblis, dan untuk menghindari nasib sebelumnya yang berakhir dengan kehancuran, Nie Li berjuang untuk melindungi kekasihnya, teman, keluarga dan sesama warga yang meninggal dalam serangan binatang itu atau akibatnya. Dia juga bertujuan untuk menghancurkan apa yang disebut \"keluarga suci\", yang akan meninggalkan tugas mereka dan mengkhianati kota.",
   "chapters": [
     {
+      "chapter": "521",
+      "title": "Komik Tales of Demons and Gods Chapter 521",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTIxLw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "520.5",
+      "title": "Komik Tales of Demons and Gods Chapter 520.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTIwLTUv",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "520",
+      "title": "Komik Tales of Demons and Gods Chapter 520",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTIwLw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "519.5",
+      "title": "Komik Tales of Demons and Gods Chapter 519.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE5LTUv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "519",
+      "title": "Komik Tales of Demons and Gods Chapter 519",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE5Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "518.5",
+      "title": "Komik Tales of Demons and Gods Chapter 518.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE4LTUv",
+      "date": "3 minggu yang lalu"
+    },
+    {
+      "chapter": "518",
+      "title": "Komik Tales of Demons and Gods Chapter 518",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE4Lw==",
+      "date": "3 minggu yang lalu"
+    },
+    {
+      "chapter": "517.5",
+      "title": "Komik Tales of Demons and Gods Chapter 517.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE3LTUv",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "517",
+      "title": "Komik Tales of Demons and Gods Chapter 517",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE3Lw==",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "516.5",
+      "title": "Komik Tales of Demons and Gods Chapter 516.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE2LTUv",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "516",
+      "title": "Komik Tales of Demons and Gods Chapter 516",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE2Lw==",
+      "date": "2 bulan yang lalu"
+    },
+    {
       "chapter": "515.5",
       "title": "Komik Tales of Demons and Gods Chapter 515.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE1LTUv",
-      "date": "9 jam yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "515",
       "title": "Komik Tales of Demons and Gods Chapter 515",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE1Lw==",
-      "date": "9 jam yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "514.5",
       "title": "Komik Tales of Demons and Gods Chapter 514.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE0LTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "514",
       "title": "Komik Tales of Demons and Gods Chapter 514",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTE0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "513.5",
       "title": "Komik Tales of Demons and Gods Chapter 513.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTEzLTUv",
-      "date": "4 minggu yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "513",
       "title": "Komik Tales of Demons and Gods Chapter 513",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTEzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "512.5",
       "title": "Komik Tales of Demons and Gods Chapter 512.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTEyLTUv",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "512",
       "title": "Komik Tales of Demons and Gods Chapter 512",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTEyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "511.5",
       "title": "Komik Tales of Demons and Gods Chapter 511.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTExLTUv",
-      "date": "2 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "511",
       "title": "Komik Tales of Demons and Gods Chapter 511",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTExLw==",
-      "date": "2 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "510.5",
       "title": "Komik Tales of Demons and Gods Chapter 510.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTEwLTUv",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "510",
       "title": "Komik Tales of Demons and Gods Chapter 510",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTEwLw==",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "509.5",
       "title": "Komik Tales of Demons and Gods Chapter 509.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA5LTUv",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "509",
       "title": "Komik Tales of Demons and Gods Chapter 509",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA5Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "508.5",
       "title": "Komik Tales of Demons and Gods Chapter 508.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA4LTUv",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "508",
       "title": "Komik Tales of Demons and Gods Chapter 508",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA4Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "507.5",
       "title": "Komik Tales of Demons and Gods Chapter 507.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA3LTUv",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "507",
       "title": "Komik Tales of Demons and Gods Chapter 507",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA3Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "506.5",
       "title": "Komik Tales of Demons and Gods Chapter 506.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA2LTUv",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "506",
       "title": "Komik Tales of Demons and Gods Chapter 506",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA2Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "505.5",
       "title": "Komik Tales of Demons and Gods Chapter 505.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA1LTUv",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "505",
       "title": "Komik Tales of Demons and Gods Chapter 505",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA1Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "504.5",
       "title": "Komik Tales of Demons and Gods Chapter 504.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA0LTUv",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "504",
       "title": "Komik Tales of Demons and Gods Chapter 504",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTA0Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "503",
       "title": "Komik Tales of Demons and Gods Chapter 503",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTAzLw==",
-      "date": "8 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "502.5",
       "title": "Komik Tales of Demons and Gods Chapter 502.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTAyLTUv",
-      "date": "8 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "502",
       "title": "Komik Tales of Demons and Gods Chapter 502",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTAyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "501.5",
       "title": "Komik Tales of Demons and Gods Chapter 501.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTAxLTUv",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "501",
       "title": "Komik Tales of Demons and Gods Chapter 501",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTAxLw==",
-      "date": "9 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "500.5",
       "title": "Komik Tales of Demons and Gods Chapter 500.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTAwLTUv",
-      "date": "9 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "500",
       "title": "Komik Tales of Demons and Gods Chapter 500",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNTAwLw==",
-      "date": "9 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "499.5",
       "title": "Komik Tales of Demons and Gods Chapter 499.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk5LTUv",
-      "date": "9 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "499",
       "title": "Komik Tales of Demons and Gods Chapter 499",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk5Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "498.5",
       "title": "Komik Tales of Demons and Gods Chapter 498.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk4LTUv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "498",
       "title": "Komik Tales of Demons and Gods Chapter 498",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk4Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "497.5",
       "title": "Komik Tales of Demons and Gods Chapter 497.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk3LTUv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "497",
       "title": "Komik Tales of Demons and Gods Chapter 497",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk3Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "496.5",
       "title": "Komik Tales of Demons and Gods Chapter 496.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk2LTUv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "496",
       "title": "Komik Tales of Demons and Gods Chapter 496",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk2Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "495.5",
       "title": "Komik Tales of Demons and Gods Chapter 495.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk1LTUv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "495",
       "title": "Komik Tales of Demons and Gods Chapter 495",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk1Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "494.5",
       "title": "Komik Tales of Demons and Gods Chapter 494.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk0LTUv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "494",
       "title": "Komik Tales of Demons and Gods Chapter 494",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDk0Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "493.5",
@@ -353,49 +419,49 @@
       "chapter": "488",
       "title": "Komik Tales of Demons and Gods Chapter 488",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg4Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "487.5",
       "title": "Komik Tales of Demons and Gods Chapter 487.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg3LTUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "487",
       "title": "Komik Tales of Demons and Gods Chapter 487",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg3Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "486.5",
       "title": "Komik Tales of Demons and Gods Chapter 486.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg2LTUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "486",
       "title": "Komik Tales of Demons and Gods Chapter 486",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg2Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "485.5",
       "title": "Komik Tales of Demons and Gods Chapter 485.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg1LTUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "485",
       "title": "Komik Tales of Demons and Gods Chapter 485",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg1Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "484.5",
       "title": "Komik Tales of Demons and Gods Chapter 484.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDg0LTUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "484",
@@ -713,115 +779,115 @@
       "chapter": "457.5",
       "title": "Komik Tales of Demons and Gods Chapter 457.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU3LTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "457",
       "title": "Komik Tales of Demons and Gods Chapter 457",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU3Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "456.5",
       "title": "Komik Tales of Demons and Gods Chapter 456.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU2LTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "456",
       "title": "Komik Tales of Demons and Gods Chapter 456",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU2Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "455.5",
       "title": "Komik Tales of Demons and Gods Chapter 455.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU1LTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "455",
       "title": "Komik Tales of Demons and Gods Chapter 455",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU1Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "454.5",
       "title": "Komik Tales of Demons and Gods Chapter 454.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU0LTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "454",
       "title": "Komik Tales of Demons and Gods Chapter 454",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDU0Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "453.5",
       "title": "Komik Tales of Demons and Gods Chapter 453.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUzLTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "453",
       "title": "Komik Tales of Demons and Gods Chapter 453",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUzLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "452.5",
       "title": "Komik Tales of Demons and Gods Chapter 452.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUyLTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "452",
       "title": "Komik Tales of Demons and Gods Chapter 452",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUyLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "451.5",
       "title": "Komik Tales of Demons and Gods Chapter 451.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUxLTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "451",
       "title": "Komik Tales of Demons and Gods Chapter 451",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUxLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "450.5",
       "title": "Komik Tales of Demons and Gods Chapter 450.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUwLTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "450",
       "title": "Komik Tales of Demons and Gods Chapter 450",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDUwLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "449.5",
       "title": "Komik Tales of Demons and Gods Chapter 449.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDQ5LTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "449",
       "title": "Komik Tales of Demons and Gods Chapter 449",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDQ5Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "448.5",
       "title": "Komik Tales of Demons and Gods Chapter 448.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDQ4LTUv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "448",
@@ -1277,139 +1343,139 @@
       "chapter": "410.5",
       "title": "Komik Tales of Demons and Gods Chapter 410.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDEwLTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "410",
       "title": "Komik Tales of Demons and Gods Chapter 410",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDEwLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "409.5",
       "title": "Komik Tales of Demons and Gods Chapter 409.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA5LTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "409",
       "title": "Komik Tales of Demons and Gods Chapter 409",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA5Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "408.5",
       "title": "Komik Tales of Demons and Gods Chapter 408.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA4LTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "408",
       "title": "Komik Tales of Demons and Gods Chapter 408",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA4Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "407.5",
       "title": "Komik Tales of Demons and Gods Chapter 407.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA3LTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "407",
       "title": "Komik Tales of Demons and Gods Chapter 407",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA3Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "406.5",
       "title": "Komik Tales of Demons and Gods Chapter 406.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA2LTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "406",
       "title": "Komik Tales of Demons and Gods Chapter 406",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA2Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "405.5",
       "title": "Komik Tales of Demons and Gods Chapter 405.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA1LTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "405",
       "title": "Komik Tales of Demons and Gods Chapter 405",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA1Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "404.5",
       "title": "Komik Tales of Demons and Gods Chapter 404.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA0LTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "404",
       "title": "Komik Tales of Demons and Gods Chapter 404",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDA0Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "403.5",
       "title": "Komik Tales of Demons and Gods Chapter 403.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAzLTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "403",
       "title": "Komik Tales of Demons and Gods Chapter 403",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAzLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "402.5",
       "title": "Komik Tales of Demons and Gods Chapter 402.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAyLTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "402",
       "title": "Komik Tales of Demons and Gods Chapter 402",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAyLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "401.5",
       "title": "Komik Tales of Demons and Gods Chapter 401.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAxLTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "401",
       "title": "Komik Tales of Demons and Gods Chapter 401",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAxLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "400.5",
       "title": "Komik Tales of Demons and Gods Chapter 400.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAwLTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "400",
       "title": "Komik Tales of Demons and Gods Chapter 400",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItNDAwLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "399.5",
       "title": "Komik Tales of Demons and Gods Chapter 399.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzk5LTUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "399",
@@ -1901,133 +1967,133 @@
       "chapter": "358.5",
       "title": "Komik Tales of Demons and Gods Chapter 358.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU4LTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "358",
       "title": "Komik Tales of Demons and Gods Chapter 358",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU4Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "357.5",
       "title": "Komik Tales of Demons and Gods Chapter 357.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU3LTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "357",
       "title": "Komik Tales of Demons and Gods Chapter 357",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU3Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "356.5",
       "title": "Komik Tales of Demons and Gods Chapter 356.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU2LTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "356",
       "title": "Komik Tales of Demons and Gods Chapter 356",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU2Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "355.5",
       "title": "Komik Tales of Demons and Gods Chapter 355.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU1LTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "355",
       "title": "Komik Tales of Demons and Gods Chapter 355",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU1Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "354.5",
       "title": "Komik Tales of Demons and Gods Chapter 354.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU0LTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "354",
       "title": "Komik Tales of Demons and Gods Chapter 354",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzU0Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "353.5",
       "title": "Komik Tales of Demons and Gods Chapter 353.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUzLTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "353",
       "title": "Komik Tales of Demons and Gods Chapter 353",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUzLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "352.5",
       "title": "Komik Tales of Demons and Gods Chapter 352.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUyLTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "352",
       "title": "Komik Tales of Demons and Gods Chapter 352",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUyLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "351.5",
       "title": "Komik Tales of Demons and Gods Chapter 351.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUxLTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "351",
       "title": "Komik Tales of Demons and Gods Chapter 351",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUxLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "350.5",
       "title": "Komik Tales of Demons and Gods Chapter 350.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUwLTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "350",
       "title": "Komik Tales of Demons and Gods Chapter 350",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzUwLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "349.5",
       "title": "Komik Tales of Demons and Gods Chapter 349.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzQ5LTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "349",
       "title": "Komik Tales of Demons and Gods Chapter 349",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzQ5Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "348.5",
       "title": "Komik Tales of Demons and Gods Chapter 348.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzQ4LTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "348",
       "title": "Komik Tales of Demons and Gods Chapter 348",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZXMtb2YtZGVtb25zLWFuZC1nb2RzLWNoYXB0ZXItMzQ4Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "347.5",
@@ -5708,5 +5774,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 947
+  "total_chapters": 958
 }

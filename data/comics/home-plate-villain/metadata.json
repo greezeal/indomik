@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-20T16:11:01.288266",
+  "scraped_at": "2026-06-23T17:39:49.147430",
   "alternative_titles": "Le Démon du Marbre, ホームベースの魔物, 홈 플레이트의 빌런",
   "status": "Berjalan",
   "author": "Eblaine, Randomorder",
@@ -21,16 +21,22 @@
   "synopsis": "Manhwa                    Home Plate Villain yang dibuat oleh komikus bernama\n                    Eblaine, Randomorder ini bercerita tentang\n                    Bin Hong, legenda yang memiliki rekor tak terhitung jumlahnya -- dimulai dengan rekor 3000 pukulannya -- pada usia 40 tahun telah menyelesaikan permainan terakhir dalam kariernya. Setelah akhirnya memenuhi syarat yang ditetapkan oleh \"Peri Bisbol\", dia kembali ke masa ketika dia berusia 18 tahun. \"Saya ingin mencoba untuk liga utama!\" seru Bin Hong yang telah kembali ke masa 22 tahun yang lalu. Kondisi selanjutnya yang ditetapkan sekarang adalah rekor 5000 hit. Bisakah dia mencapainya? Kisah Bin Hong yang kembali ke masa lalu dan bertujuan untuk mencapai liga besar dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "72",
+      "title": "Komik Home Plate Villain Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNzIv",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "71",
       "title": "Komik Home Plate Villain Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNzEv",
-      "date": "4 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Home Plate Villain Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNzAv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "69",
@@ -42,7 +48,7 @@
       "chapter": "68",
       "title": "Komik Home Plate Villain Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNjgv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "67",
@@ -60,13 +66,13 @@
       "chapter": "65",
       "title": "Komik Home Plate Villain Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNjUv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Home Plate Villain Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNjQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "63",
@@ -447,5 +453,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 71
+  "total_chapters": 72
 }

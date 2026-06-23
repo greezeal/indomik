@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-20T12:12:05.471416",
+  "scraped_at": "2026-06-23T17:35:09.800750",
   "alternative_titles": "Almacenes ocultos en el Apocalipsis, 아포칼립스에 물류센터를 숨김",
   "status": "Berjalan",
   "author": "Geul Wang Jae deok,Guchae",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    Hiding a Logistics Center in the Apocalypse yang dibuat oleh komikus bernama\n                    Geul Wang Jae deok,Guchae ini bercerita tentang\n                    Dunia mungkin telah kiamat, tetapi pusat logistik masih beroperasi—dalam ruang dimensi saya sendiri.",
   "chapters": [
     {
+      "chapter": "96",
+      "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 96",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTk2Lw==",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "95",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTk1Lw==",
-      "date": "7 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTk0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTkzLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTkyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "91",
@@ -83,7 +89,7 @@
       "chapter": "85",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTg1Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "84",
@@ -125,7 +131,7 @@
       "chapter": "78",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTc4Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "77",
@@ -461,13 +467,13 @@
       "chapter": "22",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTIyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Hiding a Logistics Center in the Apocalypse Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlkaW5nLWEtbG9naXN0aWNzLWNlbnRlci1pbi10aGUtYXBvY2FseXBzZS1jaGFwdGVyLTIxLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "20",
@@ -590,5 +596,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 95
+  "total_chapters": 96
 }
