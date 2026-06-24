@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T09:48:48.402620",
-  "total_comics": 1770,
+  "last_updated": "2026-06-24T12:20:16.388070",
+  "total_comics": 1771,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -448,7 +448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 63
+      "total_chapters": 64
     },
     {
       "slug": "war-of-corpses",
@@ -3720,7 +3720,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 369
+      "total_chapters": 379
     },
     {
       "slug": "lostend",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 250
+      "total_chapters": 271
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -3984,7 +3984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "the-third-prince-of-the-fallen-kingdom-has-regressed",
@@ -4480,7 +4480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 46
+      "total_chapters": 53
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
@@ -5728,7 +5728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 154
+      "total_chapters": 155
     },
     {
       "slug": "zombie-papa",
@@ -5904,7 +5904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "876366-gokurakugai",
@@ -6168,7 +6168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "girl-go",
@@ -7120,7 +7120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "demon-evolution",
@@ -8600,7 +8600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 348
+      "total_chapters": 355
     },
     {
       "slug": "isekai-nonbiri-nouka",
@@ -9328,7 +9328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "feasting-lord-in-another-world",
@@ -10808,7 +10808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "785480-akane-banashi",
@@ -11408,7 +11408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 30
     },
     {
       "slug": "otoko-girai-na-bijin-shimai-wo-namae-mo-tsugezu-ni-tasuketara-ittai-dounaru",
@@ -12448,7 +12448,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 28
     },
     {
       "slug": "the-forgotten-field",
@@ -13112,7 +13112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 5.92,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "henkyou-no-roukishi-bard-loen",
@@ -13656,7 +13656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "cherry-yuusha-to-sei-naru-ken",
@@ -13704,7 +13704,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 8
+      "total_chapters": 11
     },
     {
       "slug": "kimi-no-tamenara-nando-demo",
@@ -14161,6 +14161,14 @@
       "status": "Berjalan",
       "rating": 7.36,
       "total_chapters": 2
+    },
+    {
+      "slug": "ririmu-horikku",
+      "title": "Ririmu Horikku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
     }
   ]
 }

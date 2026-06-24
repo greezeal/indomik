@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.85,
-  "scraped_at": "2026-06-23T17:40:27.432983",
+  "scraped_at": "2026-06-24T12:14:01.526184",
   "alternative_titles": "みことちゃんは嫌われたくない！, Mikoto-chan Doesn't Want to Be Hated!",
   "status": "Berjalan",
   "author": "Pt",
@@ -24,34 +24,40 @@
   "synopsis": "Manga                    Mikoto-chan wa Kirawaretakunai! yang dibuat oleh komikus bernama\n                    Pt ini bercerita tentang\n                    Sahabat masa kecilku yang cantik dan berdada besar, Mikoto, benar-benar jatuh cinta padaku.\r\nKedengarannya seperti skenario mimpi yang akan membuat siapa pun iri — tetapi ada satu masalah besar...\r\nDia berubah menjadi orang yang sangat bergantung, tidak stabil secara mental, dan cintanya terlalu berat!!\r\n\r\nIni adalah komedi gelap sehari-hari tentang berada di bawah belas kasihan perilaku Mikoto yang tidak stabil dan keseksiannya yang tidak disengaja.\r\n\r\nRilis buku yang telah lama ditunggu-tunggu dari komedi romantis sehari-hari yang populer — kisah tentang seorang wanita cantik yang tidak stabil secara mental yang menggemparkan X (sebelumnya Twitter) — menampilkan bab-bab yang sama sekali baru dan belum pernah diterbitkan sebelumnya!!",
   "chapters": [
     {
+      "chapter": "63",
+      "title": "Komik Mikoto-chan wa Kirawaretakunai! Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlrb3RvLWNoYW4td2Eta2lyYXdhcmV0YWt1bmFpLWNoYXB0ZXItNjMv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "62",
       "title": "Komik Mikoto-chan wa Kirawaretakunai! Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlrb3RvLWNoYW4td2Eta2lyYXdhcmV0YWt1bmFpLWNoYXB0ZXItNjIv",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Mikoto-chan wa Kirawaretakunai! Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlrb3RvLWNoYW4td2Eta2lyYXdhcmV0YWt1bmFpLWNoYXB0ZXItNjEv",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Mikoto-chan wa Kirawaretakunai! Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlrb3RvLWNoYW4td2Eta2lyYXdhcmV0YWt1bmFpLWNoYXB0ZXItNjAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Mikoto-chan wa Kirawaretakunai! Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlrb3RvLWNoYW4td2Eta2lyYXdhcmV0YWt1bmFpLWNoYXB0ZXItNTkv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Mikoto-chan wa Kirawaretakunai! Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlrb3RvLWNoYW4td2Eta2lyYXdhcmV0YWt1bmFpLWNoYXB0ZXItNTgv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "57",
@@ -402,5 +408,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }

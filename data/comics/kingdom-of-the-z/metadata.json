@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 5.92,
-  "scraped_at": "2026-05-21T23:21:31.462478",
+  "scraped_at": "2026-06-24T12:15:13.781874",
   "alternative_titles": "KINGDOM OF \"Z\", KINGDOM OF THE \"Z\", REINO DE \"Z\", Z之王国, Королевство Z, キングダムオブザZ, キングダムオブザゼット",
   "status": "Berjalan",
   "author": "Harawata Saizou",
@@ -24,10 +24,16 @@
   "synopsis": "Manga                    Kingdom of the Z yang dibuat oleh komikus bernama\n                    Harawata Saizou ini bercerita tentang\n                    Lima hari setelah kemunculan tiba-tiba zombie ... Sang protagonis, Masaru, yang mengalami kesulitan bertahan hidup di sekolah, diselamatkan dengan baik dari keadaan sulit ini oleh siswa sekolah menengah Sekigahara Miki dan Nakiri Karin. Meskipun Masaru pada awalnya lega, dia akhirnya menyadari niat sebenarnya mereka ... !!",
   "chapters": [
     {
+      "chapter": "34",
+      "title": "Komik Kingdom of the Z Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZ2RvbS1vZi10aGUtei1jaGFwdGVyLTM0Lw==",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "33",
       "title": "Komik Kingdom of the Z Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZ2RvbS1vZi10aGUtei1jaGFwdGVyLTMzLw==",
-      "date": "51 menit yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -228,5 +234,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 34
+  "total_chapters": 35
 }

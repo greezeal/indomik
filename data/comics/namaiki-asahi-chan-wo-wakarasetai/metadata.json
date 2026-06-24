@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.16,
-  "scraped_at": "2026-06-15T21:30:33.613064",
+  "scraped_at": "2026-06-24T12:12:43.997644",
   "alternative_titles": "ナマイキ旭ちゃんをわからせたい, Namaiki Asahi-chan o Wakarasetai, I Want To Put The Cheeky Asahi-chan In Her Place, I Want to Teach that Cheeky Asahi-chan a Lesson",
   "status": "Berjalan",
   "author": "Aka Chihiro",
@@ -23,22 +23,40 @@
   "synopsis": "Manga                    Namaiki Asahi-chan wo Wakarasetai yang dibuat oleh komikus bernama\n                    Aka Chihiro ini bercerita tentang\n                    Ryou adalah siswa SMA kelas tiga yang menikmati kehidupan otaku-nya sepenuhnya, tetapi seorang gadis membuatnya pusing. Dia adalah Asahi-chan, teman masa kecil yang nakal yang dua tahun lebih muda darinya yang bersekolah di SMA yang sama! Meskipun Asahi-chan adalah juniornya, dia selalu menggoda dan menggoda Ryou! Namun, ketika seseorang menggodanya, dia kehilangan kata-kata dan membuat wajah kalah. Dia juga seorang gadis cantik yang memiliki sedikit teman, pemalu, dan tidak terlalu jujur. Hari ini, aku harus memberi pelajaran pada Asahi-chan yang nakal ini! Jenis baru komedi romantis yang menggoda",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Namaiki Asahi-chan wo Wakarasetai Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFtYWlraS1hc2FoaS1jaGFuLXdvLXdha2FyYXNldGFpLWNoYXB0ZXItMTEv",
+      "date": "2 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Namaiki Asahi-chan wo Wakarasetai Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFtYWlraS1hc2FoaS1jaGFuLXdvLXdha2FyYXNldGFpLWNoYXB0ZXItMTAv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Namaiki Asahi-chan wo Wakarasetai Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFtYWlraS1hc2FoaS1jaGFuLXdvLXdha2FyYXNldGFpLWNoYXB0ZXItOS8=",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Namaiki Asahi-chan wo Wakarasetai Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFtYWlraS1hc2FoaS1jaGFuLXdvLXdha2FyYXNldGFpLWNoYXB0ZXItOC8=",
-      "date": "13 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Namaiki Asahi-chan wo Wakarasetai Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFtYWlraS1hc2FoaS1jaGFuLXdvLXdha2FyYXNldGFpLWNoYXB0ZXItNy8=",
-      "date": "13 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Namaiki Asahi-chan wo Wakarasetai Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFtYWlraS1hc2FoaS1jaGFuLXdvLXdha2FyYXNldGFpLWNoYXB0ZXItNi8=",
-      "date": "13 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
@@ -56,7 +74,7 @@
       "chapter": "3",
       "title": "Komik Namaiki Asahi-chan wo Wakarasetai Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmFtYWlraS1hc2FoaS1jaGFuLXdvLXdha2FyYXNldGFpLWNoYXB0ZXItMy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "2",
@@ -71,5 +89,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 11
 }

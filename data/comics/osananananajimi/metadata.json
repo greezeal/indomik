@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.16,
-  "scraped_at": "2026-06-24T06:01:05.272257",
+  "scraped_at": "2026-06-24T12:13:10.750874",
   "alternative_titles": "おさななななじみ, Amiiiigos de Infância, 青梅竹马, Bạn Thuở-Thuở-Thuở Nhỏ, Bạn Thuở Nhỏ, Çocukluuuuk Arkadaşları, Nananana",
   "status": "Berjalan",
   "author": "Yukimori Nene",
@@ -23,34 +23,46 @@
   "synopsis": "Manga                    Osananananajimi yang dibuat oleh komikus bernama\n                    Yukimori Nene ini bercerita tentang\n                    Momose Yuuichi dan Fujino Sumi adalah teman masa kecil yang telah bersama sejak kecil. Sekarang, mereka sekelas di SMA, tetapi sejak mereka memasuki masa pubertas, mereka tidak lagi merasa sedekat dulu. Mereka saling mengenal dengan baik, tetapi ada kesan formalitas di sana. Inilah hubungan yang rumit di antara mereka, sampai suatu hari, Sumi tiba-tiba datang ke rumah Yuuichi...?",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Osananananajimi Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMjIv",
+      "date": "3 menit yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Osananananajimi Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMjEv",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Osananananajimi Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMjAv",
-      "date": "11 menit yang lalu"
+      "date": "7 jam yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Osananananajimi Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTkv",
-      "date": "13 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "18.1",
       "title": "Komik Osananananajimi Chapter 18.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTgtMS8=",
-      "date": "21 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Osananananajimi Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTgv",
-      "date": "21 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Osananananajimi Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYW5hbmFqaW1pLWNoYXB0ZXItMTcv",
-      "date": "21 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "16",
@@ -149,5 +161,5 @@
       "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 23
 }
