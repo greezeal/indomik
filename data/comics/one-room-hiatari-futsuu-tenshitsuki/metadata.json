@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.46,
-  "scraped_at": "2026-06-19T16:34:56.905506",
+  "scraped_at": "2026-06-25T12:31:54.670146",
   "alternative_titles": "One Room, Hiatari Futsuu, Tenshi-tsuki, Studio Apartment, Good Lighting, Angel Included., ワンルーム、日当たり普通、天使つき。, 單間, 光照尚好, 附帶天使",
   "status": "Berjalan",
   "author": "Matoba",
@@ -25,46 +25,52 @@
   "synopsis": "Manga                    One Room, Hiatari Futsuu, Tenshitsuki yang dibuat oleh komikus bernama\n                    Matoba ini bercerita tentang\n                    Apa yang akan terjadi ketika Anda bangun dan menemukan seorang gadis cantik tergeletak di samping Anda di tempat tidur? Apalagi dia bukan gadis biasa, melainkan Malaikat yang datang dari Surga???\r\n\r\nShintarou Tokamitsu adalah seorang anak SMA yang tinggal sendirian. Suatu hari, dia menemukan seorang gadis cantik sedang duduk di balkon rumahnya. Namanya Towa, tapi siapa identitas aslinya? Sebuah komedi romantis antara dua jiwa yang tidak bersalah.",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00Ny8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "46",
       "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00Ni8=",
-      "date": "9 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00NS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00NC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00Mi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00MS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik One Room, Hiatari Futsuu, Tenshitsuki Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25lLXJvb20taGlhdGFyaS1mdXRzdXUtdGVuc2hpdHN1a2ktY2hhcHRlci00MC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "39.6",
@@ -349,5 +355,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 55
 }

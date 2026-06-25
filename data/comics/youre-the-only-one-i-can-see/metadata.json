@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-11T18:28:38.061840",
+  "scraped_at": "2026-06-25T12:34:13.688630",
   "alternative_titles": "You're the Only One I Can See, I Can Only See You, I'm Telling You, I Only See You, 너만 보인단 말이야",
   "status": "Berjalan",
   "author": "ChaeGun",
@@ -22,28 +22,40 @@
   "synopsis": "Manhwa                    You’re the Only One I Can See yang dibuat oleh komikus bernama\n                    ChaeGun ini bercerita tentang\n                    Mengikuti saran teman khayalannya, Jason, yang mengatakan kepadanya, \"Perlakukan semua perempuan seperti batu,\" Park Jin-yong mulai memandang setiap perempuan sebagai batu. Namun kemudian Sunwoo, seorang mahasiswi yang tidak tampak seperti batu, muncul di hadapannya, dan untuk pertama kalinya dalam lima tahun, melihat wajah seorang perempuan membuat sirkuit kecil kebahagiaan Jin-yong bekerja berlebihan...",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik You’re the Only One I Can See Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTE3Lw==",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik You’re the Only One I Can See Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTE2Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik You’re the Only One I Can See Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTE1Lw==",
-      "date": "10 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik You’re the Only One I Can See Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTE0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik You’re the Only One I Can See Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTEzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik You’re the Only One I Can See Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTEyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -55,13 +67,13 @@
       "chapter": "10",
       "title": "Komik You’re the Only One I Can See Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTEwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik You’re the Only One I Can See Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTkv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -112,5 +124,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 17
 }

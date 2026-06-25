@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T09:58:19.232055",
-  "total_comics": 1775,
+  "last_updated": "2026-06-25T12:37:16.455449",
+  "total_comics": 1778,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -448,7 +448,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 64
+      "total_chapters": 67
     },
     {
       "slug": "war-of-corpses",
@@ -688,7 +688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "10-kaime-no-kokuhaku-de-tsukiau-osananajimi",
@@ -984,7 +984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 241
+      "total_chapters": 242
     },
     {
       "slug": "leveling-in-the-future",
@@ -1648,7 +1648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.6,
-      "total_chapters": 314
+      "total_chapters": 316
     },
     {
       "slug": "a-banished-failure-survives-in-the-borderland-and-becomes-an-s-ranked-exorcist",
@@ -1816,7 +1816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.74,
-      "total_chapters": 238
+      "total_chapters": 241
     },
     {
       "slug": "dungeon-crawler-carl",
@@ -1864,7 +1864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 156
+      "total_chapters": 158
     },
     {
       "slug": "jujutsu-kaisen-modulo",
@@ -2064,7 +2064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 114
     },
     {
       "slug": "witchriv",
@@ -2640,7 +2640,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 169
+      "total_chapters": 170
     },
     {
       "slug": "riches-cant-buy-loyalty",
@@ -3840,7 +3840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
@@ -4296,7 +4296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 180
+      "total_chapters": 184
     },
     {
       "slug": "976292-i-became-the-tyrant-of-a-defense-game",
@@ -4448,7 +4448,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 100
     },
     {
       "slug": "845199-btooom",
@@ -4600,7 +4600,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 74
+      "total_chapters": 76
     },
     {
       "slug": "osananajimi%e2%99%82-wo-onnanoko-ni-shiteshimatta",
@@ -4720,7 +4720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyou-to-shitara-betsu-no-tatakai-ga-hajimatta",
@@ -5096,7 +5096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 76
+      "total_chapters": 78
     },
     {
       "slug": "sekai-ni-hitori-zenzokusei-mahou-no-tsukaite",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 298
+      "total_chapters": 299
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 134
+      "total_chapters": 139
     },
     {
       "slug": "chronicle-of-runes",
@@ -6400,7 +6400,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.63,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "shitai-katsugi-no-nemu",
@@ -6904,7 +6904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 24
     },
     {
       "slug": "jitsu-wa-ore-saikyou-deshita",
@@ -7168,7 +7168,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 27
+      "total_chapters": 30
     },
     {
       "slug": "boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
@@ -7912,7 +7912,7 @@
       "type": "Manga",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "realist-maou-niyoru-seiiki-naki-isekai-kaikaku",
@@ -8184,7 +8184,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "551759-mount-hua-sects-genius-phantom-swordsman",
@@ -8488,7 +8488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "kage-no-jitsuryokusha-ni-naritakute-shichikage-retsuden",
@@ -8864,7 +8864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "572108-informer",
@@ -9784,7 +9784,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 35
     },
     {
       "slug": "watashi-kumo-na-monster-wo-tame-shitanode-spider-silk-de-saiho-wo-ganbarimasu",
@@ -10536,7 +10536,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "motome-sugaki-no-zako-sotsugyou%e2%99%a1",
@@ -11000,7 +11000,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 21
     },
     {
       "slug": "the-eunuchs-second-life",
@@ -11142,9 +11142,9 @@
       "slug": "youchien-wars",
       "title": "Youchien Wars",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.59,
-      "total_chapters": 124
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "hyouketsu-reijou-sama-wo-follow-shitara-mechamecha-dekiai-sareteshimatta-ken",
@@ -11176,7 +11176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "doctor-quest",
@@ -12104,7 +12104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 74
+      "total_chapters": 76
     },
     {
       "slug": "saikyo-shoku-ryukishi-kara-shokyu-shoku-hakobiya-ni-nattano-ni-naze-ka-yushatachi-kara-tayoraretemasu",
@@ -13272,7 +13272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "152031-yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyou-shuzoku-nekomimi-shojo-to-deau",
@@ -13280,7 +13280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "houkago-no-idol-ni-wa-himitsu-ga-aru",
@@ -13312,7 +13312,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.56,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "hiraheishi-wa-kako-o-yumemiru",
@@ -13512,7 +13512,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "isekai-yurutto-survival-seikatsu-gakkou-no-minna-to-isekai-no-mujintou-ni-tenishitakedo-ore-dake-rakushou-desu",
@@ -13656,7 +13656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "cherry-yuusha-to-sei-naru-ken",
@@ -13744,7 +13744,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "the-story-of-becoming-a-married-man-in-another-world",
@@ -13832,7 +13832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "563426-seiken-gakuin-no-maken-tsukai",
@@ -14201,6 +14201,30 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 45
+    },
+    {
+      "slug": "ookii-muki-muki-chiisai-muchi-muchi",
+      "title": "Ookii Muki Muki Chiisai Muchi Muchi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 25
+    },
+    {
+      "slug": "cataclysm-hunter-i-have-an-exp-system",
+      "title": "Cataclysm Hunter: I Have an EXP System",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "767540-marriagetoxin",
+      "title": "MARRIAGETOXIN",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.83,
+      "total_chapters": 145
     }
   ]
 }

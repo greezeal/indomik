@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.62,
-  "scraped_at": "2026-04-28T11:24:14.138699",
+  "scraped_at": "2026-06-25T12:30:56.865528",
   "alternative_titles": "Aren’t You Too Sweet Salt-God Sato-San?, ShioAma, The Salt-God Sato-san is only sweet to me!, 冷淡的佐藤同學只對我撒嬌, 塩対応の佐藤さんが俺にだけ甘い",
   "status": "Berjalan",
   "author": "SAWATARI Kazami",
@@ -23,22 +23,34 @@
   "synopsis": "Manga                    Shiotaiou no Sato-san ga Ore ni dake Amai yang dibuat oleh komikus bernama\n                    SAWATARI Kazami ini bercerita tentang\n                    Satou-san adalah bunga yang tak terjangkau di kelas. Dia selalu dingin dan singkat dengan teman sekelasnya, tapi hanya aku yang tahu dia sebenarnya sangat imut ketika dia tersenyum, meskipun dia bukan fotografer.\r\n\r\nOshio-kun ramah dan lincah, tapi hanya aku yang tahu dia bekerja di kafe keluarganya sepulang sekolah. Dia melakukan pekerjaan yang hebat dengan akun SNS kafe, dan senyumnya yang nakal membuat jantungku berdebar kencang!\r\n\r\nLugu dan manis, tapi terkadang membuat frustasi, ini adalah cerita halus 120% -murni tentang dua orang yang jatuh cinta untuk pertama kalinya.",
   "chapters": [
     {
+      "chapter": "77",
+      "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci03Ny8=",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "76",
+      "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci03Ni8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
       "chapter": "75",
       "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci03NS8=",
-      "date": "25 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci03NC8=",
-      "date": "25 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci03My8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "72",
@@ -242,19 +254,19 @@
       "chapter": "38",
       "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci0zOC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci0zNy8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Shiotaiou no Sato-san ga Ore ni dake Amai Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpb3RhaW91LW5vLXNhdG8tc2FuLWdhLW9yZS1uaS1kYWtlLWFtYWktY2hhcHRlci0zNi8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "35",
@@ -467,5 +479,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 74
+  "total_chapters": 76
 }

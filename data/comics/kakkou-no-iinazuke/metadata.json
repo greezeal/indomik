@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.66,
-  "scraped_at": "2026-06-23T17:39:41.151377",
+  "scraped_at": "2026-06-25T12:30:41.087265",
   "alternative_titles": "A Noiva do Cuco, Cuckoo no Iinazuke, Cuckoo's Fiancé, Cuckoo's Fiance, Cuckoo's Forgiveness, A Couple of Cuckoos, La prometida del cuco, Le fiancé du coucou, The Cuckoo's Fiancée, The Cuckoo's Fiance, The Cuckoo's Fiancee, Una pareja de cucos, Обрученные, Сведённые кукушкой, รักอลวนคนสลับบ้าน, カッコウの許嫁, 杜鹃的婚约, 뻐꾸기 약혼자, 뻐꾸기의 약혼녀",
   "status": "Berjalan",
   "author": "Yoshikawa Miki",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Kakkou no Iinazuke yang dibuat oleh komikus bernama\n                    Yoshikawa Miki ini bercerita tentang\n                    Nagi Umino secara keliru beralih saat lahir, dan sekarang bersekolah di sekolah menengah swasta bergengsi. Suatu hari, dia memiliki kesempatan untuk bertemu dengan Erika Amano, seorang gadis sekolah menengah atas yang mengaku sedang dalam perjalanan untuk bertemu tunangannya, dan yang meminta / memaksanya untuk menjadi pacar palsunya. Tak satu pun dari mereka, pada saat itu, memahami pentingnya pertemuan mereka bagi Erika adalah gadis yang ditukar dengan Nagi saat lahir, dan Nagi adalah calon tunangan Erika! Tirai diangkat pada komedi romantis tentang takdir yang saling terkait yang dimulai dengan ditukar saat lahir!",
   "chapters": [
     {
+      "chapter": "298",
+      "title": "Komik Kakkou no Iinazuke Chapter 298",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjk4Lw==",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "297",
       "title": "Komik Kakkou no Iinazuke Chapter 297",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjk3Lw==",
-      "date": "5 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "296",
@@ -116,7 +122,7 @@
       "chapter": "281",
       "title": "Komik Kakkou no Iinazuke Chapter 281",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjgxLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "280",
@@ -230,7 +236,7 @@
       "chapter": "262",
       "title": "Komik Kakkou no Iinazuke Chapter 262",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMjYyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "261",
@@ -974,7 +980,7 @@
       "chapter": "138",
       "title": "Komik Kakkou no Iinazuke Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fra291LW5vLWlpbmF6dWtlLWNoYXB0ZXItMTM4Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "137",
@@ -1811,5 +1817,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 298
+  "total_chapters": 299
 }
