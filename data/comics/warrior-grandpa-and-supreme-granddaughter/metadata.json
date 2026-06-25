@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.14,
-  "scraped_at": "2026-06-24T21:04:26.608491",
+  "scraped_at": "2026-06-25T06:36:29.708153",
   "alternative_titles": "Grandfather Warrior and Supreme Granddaughter, Grandpa Samurai and Granddaughter of the Supreme, 할배무사와 지존 손녀",
   "status": "Berjalan",
   "author": "Ilhyang, Shin Ui-Cheol",
@@ -27,10 +27,16 @@
   "synopsis": "Manhwa                    Warrior Grandpa and Supreme Granddaughter yang dibuat oleh komikus bernama\n                    Ilhyang, Shin Ui-Cheol ini bercerita tentang\n                    Tepat ketika Liu Jinshan mengira dia bisa mati tanpa penyesalan, keluarganya dimusnahkan! Akibatnya, ia bertekad untuk hidup hanya agar ia dapat melihat satu-satunya cucunya yang masih hidup, Liu Seol, mencapai usia dewasa. Saat dia berjuang untuk membesarkannya dan melatihnya dengan tubuhnya yang menua, Liu Seol, yang terlahir dengan bakat seorang seniman bela diri terbaik, tumbuh jauh lebih cepat dari yang dia kira. “Jangan khawatir, Kakek, aku akan melindungimu mulai sekarang!”",
   "chapters": [
     {
+      "chapter": "102",
+      "title": "Komik Warrior Grandpa and Supreme Granddaughter Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1ncmFuZHBhLWFuZC1zdXByZW1lLWdyYW5kZGF1Z2h0ZXItY2hhcHRlci0xMDIv",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "101",
       "title": "Komik Warrior Grandpa and Supreme Granddaughter Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1ncmFuZHBhLWFuZC1zdXByZW1lLWdyYW5kZGF1Z2h0ZXItY2hhcHRlci0xMDEv",
-      "date": "49 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "100",
@@ -633,5 +639,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 101
+  "total_chapters": 102
 }

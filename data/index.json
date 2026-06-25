@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T02:37:39.439014",
-  "total_comics": 1774,
+  "last_updated": "2026-06-25T06:41:28.899309",
+  "total_comics": 1775,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2112,7 +2112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 134
+      "total_chapters": 139
     },
     {
       "slug": "kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "peerless-soul",
@@ -2936,7 +2936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.26,
-      "total_chapters": 203
+      "total_chapters": 207
     },
     {
       "slug": "720516-terminally-ill-genius-dark-knight",
@@ -2952,7 +2952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 314
+      "total_chapters": 318
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -3024,7 +3024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 164
+      "total_chapters": 165
     },
     {
       "slug": "regression-of-the-yong-clan-heir",
@@ -3344,7 +3344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 188
+      "total_chapters": 189
     },
     {
       "slug": "i-start-with-13-hidden-traits",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 42
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -7488,7 +7488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 41
     },
     {
       "slug": "heavenly-demon-wants-to-be-a-chef",
@@ -8192,7 +8192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.22,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "immature-succubus",
@@ -9208,7 +9208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.09,
-      "total_chapters": 457
+      "total_chapters": 461
     },
     {
       "slug": "the-snow-leopard-baby-of-the-black-leopard-family",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 105
+      "total_chapters": 106
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -10240,7 +10240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 215
+      "total_chapters": 216
     },
     {
       "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
@@ -12040,7 +12040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "tanaka-ke-tensei-suru",
@@ -12680,7 +12680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 28
     },
     {
       "slug": "the-peaceful-life-of-a-maid-who-hides-her-power-and-enjoys-it",
@@ -13624,7 +13624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 178
+      "total_chapters": 179
     },
     {
       "slug": "889961-my-daughter-is-the-final-boss",
@@ -14184,7 +14184,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "my-favorite-idol-is-protected-by-the-strongest-fiance",
@@ -14193,6 +14193,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 9
+    },
+    {
+      "slug": "419100-the-magic-towers-problem-child",
+      "title": "The Magic Tower’s Problem Child",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 45
     }
   ]
 }
