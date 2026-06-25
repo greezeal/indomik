@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.69,
-  "scraped_at": "2026-06-24T12:18:21.977836",
+  "scraped_at": "2026-06-25T17:41:42.453489",
   "alternative_titles": "Ossan Teihen Chiyu-shi to Manasume no Henkyou Life, おっさん底辺治癒士と愛娘の辺境ライフ ～中年男が回復スキルに覚醒して、英雄へ成り上がる～, The Frontier Life of The Low-Class Ossan Healer And The Lovely Girl, The Frontier Life of the Low-Class Old Man Healer and His Beloved Daughter",
   "status": "Berjalan",
   "author": "IIDA Eisei",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Ossan Teihen Chiyushi to Mana Musume no Henkyou Raifu yang dibuat oleh komikus bernama\n                    IIDA Eisei ini bercerita tentang\n                    Reda Dikson, seorang healer peringkat F berusia 30 tahun yang dikik dari party karena usianya dan ranknya. Karena putus asa, ia memutuskan untuk pindah ke kota kecil Amulus untuk memulai hidup dari awal. Secara kebetulan, dia bertemu Mina, seorang gadis kecil berambut pirang, hanya berpakaian compang-camping dan begitu lemah. Dia tidak memiliki orang tua, jadi Reda dengan baik hati menjaganya. Karena sihir penyembuhan Reda, semua orang di desa memanggilnya “Sensei”. Reda dan keluarganya memecahkan masalah bersama dan memperkuat ikatan keluarga.",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Ossan Teihen Chiyushi to Mana Musume no Henkyou Raifu Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NzYW4tdGVpaGVuLWNoaXl1c2hpLXRvLW1hbmEtbXVzdW1lLW5vLWhlbmt5b3UtcmFpZnUtY2hhcHRlci0xNC8=",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Ossan Teihen Chiyushi to Mana Musume no Henkyou Raifu Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NzYW4tdGVpaGVuLWNoaXl1c2hpLXRvLW1hbmEtbXVzdW1lLW5vLWhlbmt5b3UtcmFpZnUtY2hhcHRlci0xMy8=",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "12",
@@ -103,5 +109,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }
