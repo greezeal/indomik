@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.72,
-  "scraped_at": "2026-06-24T12:17:50.724636",
+  "scraped_at": "2026-06-26T21:46:17.280608",
   "alternative_titles": "Senmetsumadou no Saikyou Kenja ~Musai no Kenja, Madou wo Kiwame Saikyou e Itaru~, 殲滅魔導の最強賢者, 殲滅魔導の最強賢者　無才の賢者、魔導を極め最強へ至る",
   "status": "Berjalan",
   "author": "Shinkou Shotou",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Senmetsumadou no Saikyou Kenja: Musai no Kenja, Madou wo Kiwame Saikyou e Itaru yang dibuat oleh komikus bernama\n                    Shinkou Shotou ini bercerita tentang\n                    Pesulap terkuat di dunia yang membawa \"lambang yang paling tidak cocok untuk pertempuran\" mencari teman untuk bertarung bersama. Yang cocok menjadi sahabatnya adalah ...!?\r\nSatu lagi fantasi \"puncak\" dunia lain diubah menjadi manga !!",
   "chapters": [
     {
+      "chapter": "32",
+      "title": "Komik Senmetsumadou no Saikyou Kenja: Musai no Kenja, Madou wo Kiwame Saikyou e Itaru Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VubWV0c3VtYWRvdS1uby1zYWlreW91LWtlbmphLW11c2FpLW5vLWtlbmphLW1hZG91LXdvLWtpd2FtZS1zYWlreW91LWUtaXRhcnUtY2hhcHRlci0zMi8=",
+      "date": "41 menit yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik Senmetsumadou no Saikyou Kenja: Musai no Kenja, Madou wo Kiwame Saikyou e Itaru Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VubWV0c3VtYWRvdS1uby1zYWlreW91LWtlbmphLW11c2FpLW5vLWtlbmphLW1hZG91LXdvLWtpd2FtZS1zYWlreW91LWUtaXRhcnUtY2hhcHRlci0zMS8=",
-      "date": "7 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "30",
@@ -46,7 +52,7 @@
       "chapter": "28",
       "title": "Komik Senmetsumadou no Saikyou Kenja: Musai no Kenja, Madou wo Kiwame Saikyou e Itaru Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VubWV0c3VtYWRvdS1uby1zYWlreW91LWtlbmphLW11c2FpLW5vLWtlbmphLW1hZG91LXdvLWtpd2FtZS1zYWlreW91LWUtaXRhcnUtY2hhcHRlci0yOC8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "27",
@@ -349,5 +355,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 55
 }

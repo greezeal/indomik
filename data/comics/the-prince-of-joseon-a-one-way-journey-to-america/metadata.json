@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.03,
-  "scraped_at": "2026-06-25T06:40:54.955166",
+  "scraped_at": "2026-06-26T21:44:16.877164",
   "alternative_titles": "The Joseon Prince Went to America and Did Not Return, Joseon Prince Went to America and Never Returned, The Joseon Prince Who Went to America and Never Returned, The Joseon Prince Went To America And Didn’t Return, 조선왕자가 미국갔다 안 돌아옴",
   "status": "Berjalan",
   "author": "Taru (타루)",
@@ -25,16 +25,22 @@
   "synopsis": "Manhwa                    The Prince of Joseon: A One-Way Journey to America yang dibuat oleh komikus bernama\n                    Taru (타루) ini bercerita tentang\n                    Akibat bencana alam yang tiba-tiba, Park Byung-jun, seorang pelobi Korea-Amerika, menemukan dirinya bereinkarnasi sebagai Yi Kang, putra kedua Kaisar Gojong dari Kekaisaran Korea, pada saat kematiannya. Berbekal pengetahuannya tentang sejarah asli, ia menyeberang ke Amerika Serikat dan memulai bisnis barunya sendiri untuk mengumpulkan kekayaan!",
   "chapters": [
     {
+      "chapter": "67",
+      "title": "Komik The Prince of Joseon: A One-Way Journey to America Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXByaW5jZS1vZi1qb3Nlb24tYS1vbmUtd2F5LWpvdXJuZXktdG8tYW1lcmljYS1jaGFwdGVyLTY3Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "66",
       "title": "Komik The Prince of Joseon: A One-Way Journey to America Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXByaW5jZS1vZi1qb3Nlb24tYS1vbmUtd2F5LWpvdXJuZXktdG8tYW1lcmljYS1jaGFwdGVyLTY2Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik The Prince of Joseon: A One-Way Journey to America Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXByaW5jZS1vZi1qb3Nlb24tYS1vbmUtd2F5LWpvdXJuZXktdG8tYW1lcmljYS1jaGFwdGVyLTY1Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "64",
@@ -421,5 +427,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 66
+  "total_chapters": 67
 }

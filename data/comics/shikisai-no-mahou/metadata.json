@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.88,
-  "scraped_at": "2026-06-24T21:04:23.905208",
+  "scraped_at": "2026-06-26T21:46:46.642345",
   "alternative_titles": "式彩の魔法",
   "status": "Berjalan",
   "author": "miyauru",
@@ -24,40 +24,46 @@
   "synopsis": "Manga                    Shikisai no Mahou yang dibuat oleh komikus bernama\n                    miyauru ini bercerita tentang\n                    Hiyori Kamishiro adalah seorang yang serba bisa di kota, yang melakukan apa saja. Di saat yang sama, dia adalah seorang penyihir yang mengusir Kaima, entitas misterius yang menyebabkan kemalangan dan tidak terlihat oleh manusia.\r\n\r\nTiba-tiba, sebuah teriakan bergema di telinganya. Saat Hiyori dan rekannya, seorang yokai bernama Kuu, bergegas menyelesaikan insiden yang disebabkan oleh Kaima, mereka bertemu dengan seorang anak laki-laki...",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik Shikisai no Mahou Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpa2lzYWktbm8tbWFob3UtY2hhcHRlci0xNS8=",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "14",
       "title": "Komik Shikisai no Mahou Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpa2lzYWktbm8tbWFob3UtY2hhcHRlci0xNC8=",
-      "date": "54 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Shikisai no Mahou Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpa2lzYWktbm8tbWFob3UtY2hhcHRlci0xMy8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Shikisai no Mahou Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpa2lzYWktbm8tbWFob3UtY2hhcHRlci0xMi8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Shikisai no Mahou Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpa2lzYWktbm8tbWFob3UtY2hhcHRlci0xMS8=",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Shikisai no Mahou Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpa2lzYWktbm8tbWFob3UtY2hhcHRlci0xMC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Shikisai no Mahou Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpa2lzYWktbm8tbWFob3UtY2hhcHRlci05Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "8",
@@ -108,5 +114,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 14
+  "total_chapters": 15
 }
