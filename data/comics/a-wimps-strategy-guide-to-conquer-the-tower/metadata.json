@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.29,
-  "scraped_at": "2026-06-27T04:33:33.407148",
+  "scraped_at": "2026-06-27T18:57:02.261025",
   "alternative_titles": "하남자의 탑 공략법",
   "status": "Berjalan",
   "author": "Pyopyo,Kuchikuchi",
@@ -21,22 +21,28 @@
   "synopsis": "Manhwa                    A Wimp’s Strategy Guide to Conquer the Tower yang dibuat oleh komikus bernama\n                    Pyopyo,Kuchikuchi ini bercerita tentang\n                    Suatu hari, menara-menara hitam misterius tiba-tiba muncul di seluruh dunia, dan beberapa orang terpilih mulai terbangun.Namun bagi Bong Joohyuk—seorang yang lemah, tidak beruntung, dan bukan siapa-siapa—itu adalah sesuatu yang seharusnya tidak ada hubungannya dengan dirinya.Setelah seharian melelahkan di pekerjaan paruh waktunya, dia baru saja akan menyantap ramen ketika—[Bong Joohyuk, kau telah terbangun.]“…Eh, sial, apa-apaan ini?!”Apakah ini akhirnya kesempatannya untuk mengubah hidupnya?",
   "chapters": [
     {
+      "chapter": "32",
+      "title": "Komik A Wimp’s Strategy Guide to Conquer the Tower Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13aW1wcy1zdHJhdGVneS1ndWlkZS10by1jb25xdWVyLXRoZS10b3dlci1jaGFwdGVyLTMyLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik A Wimp’s Strategy Guide to Conquer the Tower Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13aW1wcy1zdHJhdGVneS1ndWlkZS10by1jb25xdWVyLXRoZS10b3dlci1jaGFwdGVyLTMxLw==",
-      "date": "41 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik A Wimp’s Strategy Guide to Conquer the Tower Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13aW1wcy1zdHJhdGVneS1ndWlkZS10by1jb25xdWVyLXRoZS10b3dlci1jaGFwdGVyLTMwLw==",
-      "date": "41 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik A Wimp’s Strategy Guide to Conquer the Tower Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS13aW1wcy1zdHJhdGVneS1ndWlkZS10by1jb25xdWVyLXRoZS10b3dlci1jaGFwdGVyLTI5Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "28",
@@ -207,5 +213,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 31
+  "total_chapters": 32
 }

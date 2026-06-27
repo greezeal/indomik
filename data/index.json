@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T17:35:37.707576",
-  "total_comics": 1784,
+  "last_updated": "2026-06-27T18:57:52.563646",
+  "total_comics": 1785,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -32,7 +32,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 95
     },
     {
       "slug": "462789-the-tutorial-is-too-hard",
@@ -40,7 +40,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.28,
-      "total_chapters": 270
+      "total_chapters": 271
     },
     {
       "slug": "50kg-cinderella",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 91
+      "total_chapters": 92
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 521
+      "total_chapters": 522
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 121
+      "total_chapters": 122
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -455,8 +455,8 @@
       "title": "War of Corpses",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 0.0,
-      "total_chapters": 54
+      "rating": 7.0,
+      "total_chapters": 65
     },
     {
       "slug": "invincible-under-heaven-reborn-as-the-enemy",
@@ -1200,7 +1200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 141
+      "total_chapters": 142
     },
     {
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
@@ -1440,7 +1440,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.06,
-      "total_chapters": 39
+      "total_chapters": 45
     },
     {
       "slug": "muteki-no-ansatsu-ma-shirube-shi-last-boss-musume-to-tabi-wo-suru",
@@ -1784,7 +1784,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.2,
-      "total_chapters": 142
+      "total_chapters": 145
     },
     {
       "slug": "the-turn-bound-mage",
@@ -2304,7 +2304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 50
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 526
+      "total_chapters": 527
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -4920,7 +4920,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.0,
-      "total_chapters": 121
+      "total_chapters": 122
     },
     {
       "slug": "godeokchuns-food-truck",
@@ -4960,7 +4960,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "344794-the-games-top-troll",
@@ -5552,7 +5552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "haha-no-ai-wa-mama-naranai",
@@ -6152,7 +6152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 187
+      "total_chapters": 188
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -6240,7 +6240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 169
+      "total_chapters": 170
     },
     {
       "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-o-kuratte-tsuyoku-naru",
@@ -7224,7 +7224,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.19,
-      "total_chapters": 202
+      "total_chapters": 212
     },
     {
       "slug": "osoraku-kanojo-wa-ore-no-aniki-wo-neratteru",
@@ -7808,7 +7808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 747
+      "total_chapters": 748
     },
     {
       "slug": "tensei-shitara-dragon-no-tamago-datta-ibara-no-dragon-road",
@@ -7912,7 +7912,7 @@
       "type": "Manga",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 25
     },
     {
       "slug": "realist-maou-niyoru-seiiki-naki-isekai-kaikaku",
@@ -8408,7 +8408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 52
     },
     {
       "slug": "super-no-ura-de-yani-suu-hanashi",
@@ -8904,7 +8904,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "ore-no-ichizu-wo-jama-suru-aitsu",
@@ -9136,7 +9136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "tsuma-wa-boku-wo-futorasetai",
@@ -9424,7 +9424,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "hirotta-dorei-tachi-ga-tabi-datte-haya-juunen-naze-ka-ore-ga-densetsu-ni-natteita",
@@ -10112,7 +10112,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "superu",
@@ -11496,7 +11496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 50
     },
     {
       "slug": "beastly-night",
@@ -11576,7 +11576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.0,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "omiai-shitakunakattanode-muri-nandai-na-jouken-wo-tsuketara-doukyuusei-ga-kita-ken-ni-tsuite",
@@ -11696,7 +11696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "be-blues-ao-ni-nare",
@@ -11872,7 +11872,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 4
     },
     {
       "slug": "musume-janakute-watashi-mama-ga-suki-nano",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 343
+      "total_chapters": 344
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12128,7 +12128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 869
+      "total_chapters": 876
     },
     {
       "slug": "the-reincarnated-granny-wont-look-away-the-second-life-of-the-former-tyrannical-empress",
@@ -12440,7 +12440,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 80
     },
     {
       "slug": "this-emperor-runs-a-marriage-scam",
@@ -12480,7 +12480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "chrono-labyrinth",
@@ -12496,7 +12496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "revenge-of-the-bloom-flower",
@@ -13408,7 +13408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "251770-sasayaku-you-ni-koi-wo-utau",
@@ -14064,7 +14064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "national-power-level-labyrinth-designer",
@@ -14112,7 +14112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 14
     },
     {
       "slug": "175144-majo-to-youhei",
@@ -14152,7 +14152,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.69,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "until-my-bentos-are-made-with-the-loving-care-of-my-wife",
@@ -14273,6 +14273,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 10
+    },
+    {
+      "slug": "teto-x-egen",
+      "title": "Teto X Egen",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
     }
   ]
 }

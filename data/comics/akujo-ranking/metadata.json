@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-22T16:46:15.727168",
+  "scraped_at": "2026-06-27T18:57:07.579831",
   "alternative_titles": "悪女ランキング, Villainess Ranking",
   "status": "Berjalan",
   "author": "Murata Shinya",
@@ -21,17 +21,29 @@
   "synopsis": "Manga                    AKUJO RANKING yang dibuat oleh komikus bernama\n                    Murata Shinya ini bercerita tentang\n                    Ini adalah kisah yang menggambarkan pertarungan dunia bawah yang dikenal sebagai Peringkat Penjahat Wanita, di mana para penjahat wanita bersejarah saling bertarung. Tokoh protagonis, Otori Kujiramaru, seorang pria yang dikhianati oleh seorang wanita yang menipunya hingga kehilangan 50 juta yen, tidak dapat menerima kenyataan, berpikir,\"Tidak mungkin Rika-chan adalah penjahat wanita yang menipu pria dan mencuri uang mereka...\"Saat ia tenggelam dalam pikirannya, seorang wanita yang tiba-tiba muncul di kamarnya berbicara kepadanya, mengatakan,\"Gadis itu bukanlah penjahat wanita.\"Nama wanita itu adalah Marie Antoinette. Melalui pertemuannya dengan seorang penjahat wanita sejati, Kujiramaru terjebak dalam pertarungan Peringkat Penjahat Wanita.",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik AKUJO RANKING Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTQv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik AKUJO RANKING Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTMv",
+      "date": "1 bulan yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik AKUJO RANKING Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTIv",
-      "date": "5 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik AKUJO RANKING Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTEv",
-      "date": "1 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 4
 }
