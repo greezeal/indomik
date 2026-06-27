@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-25T06:41:13.118571",
+  "scraped_at": "2026-06-27T07:40:57.503531",
   "alternative_titles": "Ninja Royale: The Legendary Ninja Reborn After 500 Years, Ninja Royale: The Mightiest Ninja Across Time, Ninja Royale: The Strongest Ninja Across Time, Zamanın En Güçlü Ninjası, Королевский ниндзя ~Сильнейший ниндзя, превосходящий время~, การกำเนิดใหม่ของนินจาในตำนานใหม่ในรอบ 500, ニンジャロワイアル～時を超えた最強の忍者～",
   "status": "Berjalan",
   "author": "DAIFUKU Naka (YLAB), KATOU Kouhei",
@@ -20,10 +20,22 @@
   "synopsis": "Manga                    Ninja Royale: The Legendary Ninja Reborn After 500 Years yang dibuat oleh komikus bernama\n                    DAIFUKU Naka (YLAB), KATOU Kouhei ini bercerita tentang\n                    Ninja adalah makhluk super yang telah mengasah kemampuan tempur khusus mereka yang disebut ninjutsu (keterampilan ninja) dan beroperasi di balik bayang-bayang sejarah. Goku, ninja terkuat dari periode Sengoku, bereinkarnasi di zaman modern setelah 500 tahun dan menikmati kedamaian dunia… tetapi ninja jahat juga mengintai di bayang-bayang masyarakat modern! Prajurit tangguh, master, dan pahlawan menyerang satu demi satu! Para petarung terkuat saling berbenturan seperti angin, percikan api beterbangan! Aksi pertempuran kekuatan pamungkas yang tak tertandingi!",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Ninja Royale: The Legendary Ninja Reborn After 500 Years Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmluamEtcm95YWxlLXRoZS1sZWdlbmRhcnktbmluamEtcmVib3JuLWFmdGVyLTUwMC15ZWFycy1jaGFwdGVyLTE5Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Ninja Royale: The Legendary Ninja Reborn After 500 Years Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmluamEtcm95YWxlLXRoZS1sZWdlbmRhcnktbmluamEtcmVib3JuLWFmdGVyLTUwMC15ZWFycy1jaGFwdGVyLTE4Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik Ninja Royale: The Legendary Ninja Reborn After 500 Years Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmluamEtcm95YWxlLXRoZS1sZWdlbmRhcnktbmluamEtcmVib3JuLWFmdGVyLTUwMC15ZWFycy1jaGFwdGVyLTE3Lw==",
-      "date": "12 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "16",
@@ -122,5 +134,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 19
 }

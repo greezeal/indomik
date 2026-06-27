@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.19,
-  "scraped_at": "2026-06-19T20:12:01.103440",
+  "scraped_at": "2026-06-27T07:45:21.629491",
   "alternative_titles": "엔딩메이커",
   "status": "Berjalan",
   "author": "Chwiryong, 취룡",
@@ -29,28 +29,34 @@
   "synopsis": "Manhwa                    Ending Maker yang dibuat oleh komikus bernama\n                    Chwiryong, 취룡 ini bercerita tentang\n                    Dua pahlawan dari game Legend of Heroes 2 yang merupakan air busuk*.\r\n\r\nKang Jin-ho di tempat pertama dan Hong Yoo Hee di tempat kedua.\r\n\r\nSuatu hari, saya membuka mata saya dan bereinkarnasi sebagai karakter dalam game…\r\n\r\n“Hei…kau juga?”\r\n\r\n“Hei… aku juga!”\r\n\r\nAkhir dari Legend of Heroes 2 adalah kehancuran dunia manusia.\r\n\r\nTetapi jika ada kami berdua dan kami tidak sendirian.\r\n\r\nJika itu juga #1 dan #2 di peringkat server.\r\n\r\nJalur air busuk dimulai untuk akhir yang bahagia!\r\n\r\n(*Rotten water adalah bahasa gaul Korea untuk seseorang yang telah memainkan game tertentu untuk waktu yang lama dan menguasai segalanya. Anggap saja mereka sebagai orang tua, veteran, atau pro game.)",
   "chapters": [
     {
+      "chapter": "78",
+      "title": "Komik Ending Maker Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5kaW5nLW1ha2VyLWNoYXB0ZXItNzgv",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "77",
       "title": "Komik Ending Maker Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5kaW5nLW1ha2VyLWNoYXB0ZXItNzcv",
-      "date": "3 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Ending Maker Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5kaW5nLW1ha2VyLWNoYXB0ZXItNzYv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Ending Maker Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5kaW5nLW1ha2VyLWNoYXB0ZXItNzUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Ending Maker Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5kaW5nLW1ha2VyLWNoYXB0ZXItNzQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "73",
@@ -62,7 +68,7 @@
       "chapter": "72",
       "title": "Komik Ending Maker Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5kaW5nLW1ha2VyLWNoYXB0ZXItNzIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "71",
@@ -497,5 +503,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 78
+  "total_chapters": 79
 }
