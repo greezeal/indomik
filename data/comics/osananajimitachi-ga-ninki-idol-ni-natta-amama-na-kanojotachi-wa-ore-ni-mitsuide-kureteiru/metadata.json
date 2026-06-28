@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-04-22T04:24:57.906004",
+  "scraped_at": "2026-06-28T11:31:02.884051",
   "alternative_titles": "幼馴染たちが人気アイドルになった ～甘々な彼女たちは俺に貢いでくれている～, Childhood Friends Became Popular Idols, Bạn thuở nhỏ trở thành thần tượng nổi tiếng ~ Những cô gái dễ thương ấy đang nuông chiều tôi ~",
   "status": "Berjalan",
   "author": "kuroneko dragon",
@@ -24,11 +24,35 @@
   "synopsis": "Manga                    Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru yang dibuat oleh komikus bernama\n                    kuroneko dragon ini bercerita tentang\n                    Kazuma Kuzuhara, seorang siswa SMA yang tidak ingin bekerja, menghabiskan hari-harinya dengan menerima sumbangan uang dalam jumlah besar dari teman-teman idolanya sejak kecil, Yukina dan Arisa. Namun, cinta yang berlebihan dari keduanya secara bertahap mulai menumbuhkan kegilaan...? Sebuah komedi romantis gelap tentang kehidupan remaja yang bergantung pada sumbangan orang lain!",
   "chapters": [
     {
+      "chapter": "3.2",
+      "title": "Komik Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru Chapter 3.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWl0YWNoaS1nYS1uaW5raS1pZG9sLW5pLW5hdHRhLWFtYW1hLW5hLWthbm9qb3RhY2hpLXdhLW9yZS1uaS1taXRzdWlkZS1rdXJldGVpcnUtY2hhcHRlci0zLTIv",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "3.1",
+      "title": "Komik Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru Chapter 3.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWl0YWNoaS1nYS1uaW5raS1pZG9sLW5pLW5hdHRhLWFtYW1hLW5hLWthbm9qb3RhY2hpLXdhLW9yZS1uaS1taXRzdWlkZS1rdXJldGVpcnUtY2hhcHRlci0zLTEv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "2.2",
+      "title": "Komik Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru Chapter 2.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWl0YWNoaS1nYS1uaW5raS1pZG9sLW5pLW5hdHRhLWFtYW1hLW5hLWthbm9qb3RhY2hpLXdhLW9yZS1uaS1taXRzdWlkZS1rdXJldGVpcnUtY2hhcHRlci0yLTIv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "2.1",
+      "title": "Komik Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru Chapter 2.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWl0YWNoaS1nYS1uaW5raS1pZG9sLW5pLW5hdHRhLWFtYW1hLW5hLWthbm9qb3RhY2hpLXdhLW9yZS1uaS1taXRzdWlkZS1rdXJldGVpcnUtY2hhcHRlci0yLTEv",
+      "date": "2 bulan yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmFuYWppbWl0YWNoaS1nYS1uaW5raS1pZG9sLW5pLW5hdHRhLWFtYW1hLW5hLWthbm9qb3RhY2hpLXdhLW9yZS1uaS1taXRzdWlkZS1rdXJldGVpcnUtY2hhcHRlci0xLw==",
-      "date": "14 jam yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 5
 }

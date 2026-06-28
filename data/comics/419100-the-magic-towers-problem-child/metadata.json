@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-25T06:37:11.541190",
+  "scraped_at": "2026-06-28T11:31:57.962615",
   "alternative_titles": "The Magic Tower Problematic Child, 마탑의 문제아들",
   "status": "Berjalan",
   "author": "Jerry M, Saemmi",
@@ -23,10 +23,28 @@
   "synopsis": "Manhwa                    The Magic Tower’s Problem Child yang dibuat oleh komikus bernama\n                    Jerry M, Saemmi ini bercerita tentang\n                    Master Menara Sihir Putih, Oscar Sage, dan para Penyihir mereka telah mengorbankan segalanya—termasuk nyawa mereka—demi Masa Depan Umat Manusia.\r\n\r\n20 tahun telah berlalu, dan Oscar Sage membuka matanya pada pantulan dirinya di cermin—seorang penyihir level 1 yang hanya bisa menggunakan mantra dasar—dan Menara Sihir Putih yang saat ini berisiko dikucilkan dari Liga Empat Menara.\r\n\r\nBersumpah untuk mengembalikan Menara Sihir Putih ke kejayaannya sebelumnya, master menara yang kembali, Oscar, memulai kehidupan keduanya.",
   "chapters": [
     {
+      "chapter": "48",
+      "title": "Komik The Magic Tower’s Problem Child Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItNDgv",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik The Magic Tower’s Problem Child Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItNDcv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik The Magic Tower’s Problem Child Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItNDYv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "45",
       "title": "Komik The Magic Tower’s Problem Child Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItNDUv",
-      "date": "6 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "44",
@@ -128,7 +146,7 @@
       "chapter": "28",
       "title": "Komik The Magic Tower’s Problem Child Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItMjgv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -146,7 +164,7 @@
       "chapter": "25",
       "title": "Komik The Magic Tower’s Problem Child Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItMjUv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -170,13 +188,13 @@
       "chapter": "21",
       "title": "Komik The Magic Tower’s Problem Child Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItMjEv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik The Magic Tower’s Problem Child Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hZ2ljLXRvd2Vycy1wcm9ibGVtLWNoaWxkLWNoYXB0ZXItMjAv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -293,5 +311,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 45
+  "total_chapters": 48
 }

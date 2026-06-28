@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T09:47:44.452017",
+  "last_updated": "2026-06-28T11:34:46.187141",
   "total_comics": 1785,
   "comics": [
     {
@@ -206,9 +206,9 @@
       "slug": "maou-sama-retry-r",
       "title": "Maou-sama, Retry! R",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.55,
+      "total_chapters": 71
     },
     {
       "slug": "ming-dynastys-failure",
@@ -344,7 +344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -688,7 +688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.1,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "10-kaime-no-kokuhaku-de-tsukiau-osananajimi",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 527
+      "total_chapters": 531
     },
     {
       "slug": "marriagetoxin",
@@ -1152,7 +1152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
@@ -3800,7 +3800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 283
+      "total_chapters": 285
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4400,7 +4400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 29
+      "total_chapters": 31
     },
     {
       "slug": "one-piece-id",
@@ -4720,7 +4720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyou-to-shitara-betsu-no-tatakai-ga-hajimatta",
@@ -5528,7 +5528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "job-change-log",
@@ -7192,7 +7192,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 75
+      "total_chapters": 77
     },
     {
       "slug": "sister-in-law-im-really-not-a-fool-anymore",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 39
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -7736,7 +7736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "ore-ga-watashi-ni-naru-made",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -10424,7 +10424,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "the-divine-eyed-grimoire-mage-jewel-saga",
@@ -11840,7 +11840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 5
     },
     {
       "slug": "all-people-scramble-for-the-tower-i-cleared-999-floors-in-advance",
@@ -12352,7 +12352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "isekai-dekasegi-nenshuu-icchouen-wo-mochikaeru-kantan-na-oshigoto",
@@ -12648,7 +12648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "224091-the-max-level-players-100th-regression",
@@ -12752,7 +12752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 26
     },
     {
       "slug": "sandmancer-of-the-scorched-desert",
@@ -12776,7 +12776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 141
+      "total_chapters": 143
     },
     {
       "slug": "ichizu-de-bitch-na-kouhai",
@@ -13280,7 +13280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "houkago-no-idol-ni-wa-himitsu-ga-aru",
@@ -13624,7 +13624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 181
+      "total_chapters": 182
     },
     {
       "slug": "889961-my-daughter-is-the-final-boss",
@@ -13656,7 +13656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 19
     },
     {
       "slug": "cherry-yuusha-to-sei-naru-ken",
@@ -13768,7 +13768,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 182
+      "total_chapters": 184
     },
     {
       "slug": "the-evil-ring",
@@ -13888,7 +13888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "baby-trouble-maker",
@@ -14024,7 +14024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 13
     },
     {
       "slug": "the-sword-emperors-path-to-namgung",
@@ -14200,7 +14200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 48
     },
     {
       "slug": "ookii-muki-muki-chiisai-muchi-muchi",
@@ -14280,7 +14280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     }
   ]
 }

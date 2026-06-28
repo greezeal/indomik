@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-27T11:43:17.825977",
+  "scraped_at": "2026-06-28T11:30:51.064424",
   "alternative_titles": "ゼロの救世主 ～魔力０から固有スキルで世界を救う～",
   "status": "Berjalan",
   "author": "-",
@@ -20,22 +20,28 @@
   "synopsis": "Manga                    The Zero-Magic Savior: Using My Unique Skill to Save the World yang dibuat oleh komikus bernama\n                    - ini bercerita tentang\n                    Di dunia di mana sihir adalah hal yang biasa, Ikuta Kouki dicemooh karena konstitusi uniknya, yang membuatnya memiliki kekuatan sihir nol. Sementara itu, seorang penyihir besar meramalkan kedatangan “akhir dunia” dan keberadaan tujuh penyelamat yang akan menyelamatkannya. Orang-orang memuja para penyelamat itu, yang mendapatkan kekuatan dan mengendalikan semua orang. Namun, lima tahun kemudian, ketika akhir dunia benar-benar tiba, para penyelamat itu sama sekali tidak berdaya. Melihat secercah kekuatan dalam keputusasaan Kouki, saudara perempuannya yang sekarat mengerahkan sisa kekuatannya dan menggunakan sihir terlarang “Return”. Kouki diberitahu, “Aku ingin kau menyelamatkan dunia,” dan ketika dia bangun, dia menemukan dirinya berada di dunia lima tahun yang lalu. Untuk menyelamatkan orang-orang yang masih percaya pada “penyelamat palsu”, Kouki menggunakan sihir “Creation” yang terbangunkan untuk bangkit dan menyelamatkan dunia sebagai penyelamat sejati.",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik The Zero-Magic Savior: Using My Unique Skill to Save the World Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXplcm8tbWFnaWMtc2F2aW9yLXVzaW5nLW15LXVuaXF1ZS1za2lsbC10by1zYXZlLXRoZS13b3JsZC1jaGFwdGVyLTE3Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik The Zero-Magic Savior: Using My Unique Skill to Save the World Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXplcm8tbWFnaWMtc2F2aW9yLXVzaW5nLW15LXVuaXF1ZS1za2lsbC10by1zYXZlLXRoZS13b3JsZC1jaGFwdGVyLTE2Lw==",
-      "date": "20 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Zero-Magic Savior: Using My Unique Skill to Save the World Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXplcm8tbWFnaWMtc2F2aW9yLXVzaW5nLW15LXVuaXF1ZS1za2lsbC10by1zYXZlLXRoZS13b3JsZC1jaGFwdGVyLTE1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Zero-Magic Savior: Using My Unique Skill to Save the World Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXplcm8tbWFnaWMtc2F2aW9yLXVzaW5nLW15LXVuaXF1ZS1za2lsbC10by1zYXZlLXRoZS13b3JsZC1jaGFwdGVyLTE0Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "13",
@@ -59,7 +65,7 @@
       "chapter": "10",
       "title": "Komik The Zero-Magic Savior: Using My Unique Skill to Save the World Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXplcm8tbWFnaWMtc2F2aW9yLXVzaW5nLW15LXVuaXF1ZS1za2lsbC10by1zYXZlLXRoZS13b3JsZC1jaGFwdGVyLTEwLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -116,5 +122,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }

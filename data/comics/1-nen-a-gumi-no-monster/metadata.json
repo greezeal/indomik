@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.1,
-  "scraped_at": "2026-06-27T11:43:15.398381",
+  "scraped_at": "2026-06-28T11:29:48.402000",
   "alternative_titles": "1年A班的怪物, 1年A組のモンスター, 1학년 A반의 몬스터, Monster Kelas 10A, The Monster of 1st Grade, Class A, Монстр из класса 1-А",
   "status": "Berjalan",
   "author": "Hideki",
@@ -24,40 +24,46 @@
   "synopsis": "Manga                    1-nen A-gumi no Monster yang dibuat oleh komikus bernama\n                    Hideki ini bercerita tentang\n                    A Private Girls 'High adalah sekolah khusus yang membina gadis-gadis muda menjadi intelektual yang anggun dan lembut.\r\nKecuali kelas 1-A, yang dikenal sebagai \"Kelas Monster\", penuh dengan pengganggu, pemeras, sadis licik, dan pembuat masalah lainnya.\r\nDalam seminggu, setiap guru yang telah mengajar kelas ini telah berhenti, mengundurkan diri, atau bahkan dipenjara.\r\nNamun, Jimi Tarou yang berpenampilan polos akan mengukir namanya untuk menjadi guru legendaris.",
   "chapters": [
     {
+      "chapter": "93",
+      "title": "Komik 1-nen A-gumi no Monster Chapter 93",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci05My8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "92",
       "title": "Komik 1-nen A-gumi no Monster Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci05Mi8=",
-      "date": "16 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik 1-nen A-gumi no Monster Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci05MS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik 1-nen A-gumi no Monster Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci05MC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik 1-nen A-gumi no Monster Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci04OS8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "88",
       "title": "Komik 1-nen A-gumi no Monster Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci04OC8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik 1-nen A-gumi no Monster Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci04Ny8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "86",
@@ -105,7 +111,7 @@
       "chapter": "79",
       "title": "Komik 1-nen A-gumi no Monster Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMS1uZW4tYS1ndW1pLW5vLW1vbnN0ZXItY2hhcHRlci03OS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "78",
@@ -582,5 +588,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 93
+  "total_chapters": 94
 }

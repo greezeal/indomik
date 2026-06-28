@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-22T22:17:47.965696",
+  "scraped_at": "2026-06-28T11:33:06.590136",
   "alternative_titles": "Greenskin, Зеленая кожа, 그린 스킨, 그린스킨",
   "status": "Berjalan",
   "author": "Heulk Sujeo, Seung Gisa",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    Green Skin yang dibuat oleh komikus bernama\n                    Heulk Sujeo, Seung Gisa ini bercerita tentang\n                    Aku bertahan hidup selama sepuluh tahun di dunia lain. Namun, yang menantiku saat kembali hanyalah pengkhianatan dan kematian. Saat aku membuka mata lagi, aku bukan lagi manusia—aku telah menjadi goblin.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Green Skin Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTgv",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Green Skin Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTcv",
-      "date": "3 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Green Skin Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTYv",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Green Skin Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTUv",
-      "date": "24 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Green Skin Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTQv",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Green Skin Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTMv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
@@ -60,8 +66,8 @@
       "chapter": "1",
       "title": "Komik Green Skin Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JlZW4tc2tpbi1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }
