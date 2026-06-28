@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.29,
-  "scraped_at": "2026-06-23T21:23:00.774252",
+  "scraped_at": "2026-06-28T22:46:30.829310",
   "alternative_titles": "Even Though He's a Rookie, He's an Actor With 10+ Million Views, A Rookie, Also an Actor With 10+ Million Viewers, 신인인데 천만배우",
   "status": "Berjalan",
   "author": "Baeppu (배뿌) ,Choi Lot (최롯)",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    Rookie but One-in-a-Million Actor yang dibuat oleh komikus bernama\n                    Baeppu (배뿌) ,Choi Lot (최롯) ini bercerita tentang\n                    Mooyoung menghabiskan masa kecilnya di bawah pemerintahan ayah tirinya yang menindas, kehidupan yang terasa seperti hidup di neraka. Sebuah suara misterius di neraka menunjukkan kepadanya cara untuk bertahan hidup. “Jalani hidup orang lain, bukan hidupmu.” Begitulah perjalanan aktingnya dimulai… Apakah itu naluri bertahan hidup? Bahkan ketika dia melakukannya dengan baik, dia terlalu unggul. Melalui akting, Mooyoung memperoleh kehidupan baru. Ini adalah kisah Mooyoung, seorang jenius akting yang luar biasa, yang memulai tantangan di industri hiburan!",
   "chapters": [
     {
+      "chapter": "87",
+      "title": "Komik Rookie but One-in-a-Million Actor Chapter 87",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItODcv",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "86",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItODYv",
-      "date": "2 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItODUv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "84",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItODQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "83",
@@ -61,7 +67,7 @@
       "chapter": "80",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItODAv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "79",
@@ -115,7 +121,7 @@
       "chapter": "71",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItNzEv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -133,7 +139,7 @@
       "chapter": "68",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItNjgv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "67",
@@ -175,7 +181,7 @@
       "chapter": "61",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItNjEv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "60",
@@ -277,7 +283,7 @@
       "chapter": "44",
       "title": "Komik Rookie but One-in-a-Million Actor Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcm9va2llLWJ1dC1vbmUtaW4tYS1taWxsaW9uLWFjdG9yLWNoYXB0ZXItNDQv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "43",
@@ -538,5 +544,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 86
+  "total_chapters": 87
 }

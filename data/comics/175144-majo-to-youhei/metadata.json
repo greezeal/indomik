@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.58,
-  "scraped_at": "2026-06-23T21:23:41.306779",
+  "scraped_at": "2026-06-28T22:50:26.423969",
   "alternative_titles": "魔女と傭兵, The Witch and the Mercenary, WITCH AND MERCENARY, Ведьма и наёмник, La bruja y el mercenario",
   "status": "Berjalan",
   "author": "Chouhoukiteki Kaeru",
@@ -26,22 +26,28 @@
   "synopsis": "Manga                    Majo to Youhei yang dibuat oleh komikus bernama\n                    Chouhoukiteki Kaeru ini bercerita tentang\n                    Zig—seorang tentara bayaran bertubuh tinggi dan berbahu lebar—ikut serta dalam perburuan penyihir. Setelah duel sengit dengan penyihir yang mematikan itu, ia mengetahui keinginan penyihir itu. “Aku ingin kau melindungiku,” pintanya, lelah hidupnya diremehkan. Mencari tempat untuk bertahan hidup, penyihir dan tentara bayaran itu mengarahkan pandangan mereka ke benua yang tidak dikenal!",
   "chapters": [
     {
+      "chapter": "50",
+      "title": "Komik Majo to Youhei Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci01MC8=",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "49",
       "title": "Komik Majo to Youhei Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci00OS8=",
-      "date": "2 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Majo to Youhei Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci00OC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Majo to Youhei Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci00Ny8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "46",
@@ -53,19 +59,19 @@
       "chapter": "45",
       "title": "Komik Majo to Youhei Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci00NS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Majo to Youhei Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci00NC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Majo to Youhei Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci00My8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "42",
@@ -119,19 +125,19 @@
       "chapter": "34",
       "title": "Komik Majo to Youhei Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0zNC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Majo to Youhei Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0zMy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Majo to Youhei Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0zMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -155,7 +161,7 @@
       "chapter": "28",
       "title": "Komik Majo to Youhei Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci0yOC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -281,7 +287,7 @@
       "chapter": "7",
       "title": "Komik Majo to Youhei Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby10by15b3VoZWktY2hhcHRlci03Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -320,5 +326,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 50
 }
