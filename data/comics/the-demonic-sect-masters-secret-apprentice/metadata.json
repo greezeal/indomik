@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.23,
-  "scraped_at": "2026-06-29T10:01:53.298433",
+  "scraped_at": "2026-06-29T23:32:03.962314",
   "alternative_titles": "Secretly Cultivating by the Demon Cult Leader's Side, 魔教教主苟在我身边看我偷偷修炼, Mo Jiao Jiaozhu Gou Zai Wo Shenbian Kan Wo Toutou Xiulian, The Evil Cult Leader Hid Beside Me and Watched Me Practice Secretly",
   "status": "Berjalan",
   "author": "人加可以",
@@ -23,16 +23,22 @@
   "synopsis": "Manhua                    The Demonic Sect Master’s Secret Apprentice yang dibuat oleh komikus bernama\n                    人加可以 ini bercerita tentang\n                    He Yun, yang dijual ke Istana Iblis Jiuyou saat kecil, selamat berkat sifatnya yang 'rajin dan patuh'—dan juga seorang juru masak yang hebat. Namun, di suatu hari yang tenang dan tanpa kejadian apa pun, Pemimpin Sekte Iblis tiba-tiba \"ehem ehem\" membawanya dengan paksa!",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik The Demonic Sect Master’s Secret Apprentice Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uaWMtc2VjdC1tYXN0ZXJzLXNlY3JldC1hcHByZW50aWNlLWNoYXB0ZXItMzMv",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik The Demonic Sect Master’s Secret Apprentice Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uaWMtc2VjdC1tYXN0ZXJzLXNlY3JldC1hcHByZW50aWNlLWNoYXB0ZXItMzIv",
-      "date": "13 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik The Demonic Sect Master’s Secret Apprentice Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uaWMtc2VjdC1tYXN0ZXJzLXNlY3JldC1hcHByZW50aWNlLWNoYXB0ZXItMzEv",
-      "date": "24 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "30",
@@ -215,5 +221,5 @@
       "date": "12 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }

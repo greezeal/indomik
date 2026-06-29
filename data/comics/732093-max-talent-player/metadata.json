@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-27T04:32:32.179552",
+  "scraped_at": "2026-06-29T23:34:54.424830",
   "alternative_titles": "A Talented Player, Talent Management Player, 재능만렙 플레이어",
   "status": "Berjalan",
   "author": "Bi Chu, Hyomak",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Max Talent Player yang dibuat oleh komikus bernama\n                    Bi Chu, Hyomak ini bercerita tentang\n                    Saya menerima hasil tes.\r\n\r\n[Tak berbakat]\r\n\r\nHari ini, kata “tidak berbakat” muncul di benak saya. Itu salahku, kurangnya usahaku, kurangnya bakatku, atau kedua-duanya, atau bukan kedua-duanya. Apakah salahku hidup seperti ini, atau salah masyarakat?\r\n\r\nSehari berlalu. Saya tidak tahu kenapa, tapi saya kembali ke 10 tahun yang lalu.\r\n\r\n...Ini sangat mudah. Benarkah aku tidak punya bakat?",
   "chapters": [
     {
+      "chapter": "83",
+      "title": "Komik Max Talent Player Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci04My8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "82",
       "title": "Komik Max Talent Player Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci04Mi8=",
-      "date": "32 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "81",
@@ -512,5 +518,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 82
+  "total_chapters": 83
 }

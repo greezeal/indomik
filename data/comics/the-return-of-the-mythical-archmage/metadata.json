@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.05,
-  "scraped_at": "2026-06-25T21:17:39.689066",
+  "scraped_at": "2026-06-29T23:34:49.589862",
   "alternative_titles": "The Return of the Legendary Archmage, 신화 속 대마법사의 재림",
   "status": "Berjalan",
   "author": "Junsol",
@@ -25,10 +25,16 @@
   "synopsis": "Manhwa                    The Return of the Mythical Archmage yang dibuat oleh komikus bernama\n                    Junsol ini bercerita tentang\n                    \"Aku, seorang AI Misfit?\"\r\nSi jenius teknologi sihir modern, kecerdasan buatan - orang buangan yang tidak dapat ditanamkan. Pesulap jenius yang dikucilkan Shin Ha-ryul.\r\nSebuah buku muncul di hadapannya, pesulap yang telah dijatuhi hukuman mati.\r\n\"Untuk anak cucu yang dapat mendengar suara ini dan memiliki konstitusi yang sama denganku, aku, Rai Bell Vaitener, meninggalkan buku ini.\"\r\nBersama dengan buku yang ditinggalkan oleh penyihir agung legendaris.\r\nWaktu beku sang jenius mulai bergerak lagi.",
   "chapters": [
     {
+      "chapter": "91",
+      "title": "Komik The Return of the Mythical Archmage Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci05MS8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "90",
       "title": "Komik The Return of the Mythical Archmage Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci05MC8=",
-      "date": "12 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "89",
@@ -40,25 +46,25 @@
       "chapter": "88",
       "title": "Komik The Return of the Mythical Archmage Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci04OC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik The Return of the Mythical Archmage Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci04Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik The Return of the Mythical Archmage Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci04Ni8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik The Return of the Mythical Archmage Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci04NS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "84",
@@ -124,7 +130,7 @@
       "chapter": "74",
       "title": "Komik The Return of the Mythical Archmage Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci03NC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "73",
@@ -238,7 +244,7 @@
       "chapter": "55",
       "title": "Komik The Return of the Mythical Archmage Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci01NS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "54",
@@ -382,7 +388,7 @@
       "chapter": "31",
       "title": "Komik The Return of the Mythical Archmage Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtbXl0aGljYWwtYXJjaG1hZ2UtY2hhcHRlci0zMS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "30",
@@ -565,5 +571,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 90
+  "total_chapters": 91
 }
