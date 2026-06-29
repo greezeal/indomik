@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-23T21:23:11.652237",
+  "scraped_at": "2026-06-29T09:59:51.568041",
   "alternative_titles": "Ayangku Jenius Hitter,, 回到愛情本壘, 천재 타자가 강속구를 숨김",
   "status": "Berjalan",
   "author": "Evilline, Hwang Jiseong",
@@ -20,22 +20,34 @@
   "synopsis": "Manhwa                    Genius Hitter Hits Fastball yang dibuat oleh komikus bernama\n                    Evilline, Hwang Jiseong ini bercerita tentang\n                    Bahkan dia, Kang Geon-woo, seorang pemain liga utama jenius yang memperoleh kekayaan, ketenaran, dan segalanya, tidak dapat melanjutkan kehidupan pernikahan yang bahagia dengan istrinya. Dia, yang merasa menyesal atas ketidakhadiran istrinya, kembali ke masa lalu dengan kekuatan cincin misterius.\r\n\r\nSebagai seorang siswa SMA di tengah-tengah romansa baru, akankah dia dapat menemukan cinta kali ini?",
   "chapters": [
     {
+      "chapter": "121",
+      "title": "Komik Genius Hitter Hits Fastball Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTIxLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "120",
+      "title": "Komik Genius Hitter Hits Fastball Chapter 120",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTIwLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "119",
       "title": "Komik Genius Hitter Hits Fastball Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTE5Lw==",
-      "date": "2 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik Genius Hitter Hits Fastball Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTE4Lw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Genius Hitter Hits Fastball Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTE3Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "116",
@@ -77,7 +89,7 @@
       "chapter": "110",
       "title": "Komik Genius Hitter Hits Fastball Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTEwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "109",
@@ -125,7 +137,7 @@
       "chapter": "102",
       "title": "Komik Genius Hitter Hits Fastball Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItMTAyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "101",
@@ -143,7 +155,7 @@
       "chapter": "99",
       "title": "Komik Genius Hitter Hits Fastball Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItOTkv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "98",
@@ -293,7 +305,7 @@
       "chapter": "74",
       "title": "Komik Genius Hitter Hits Fastball Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2VuaXVzLWhpdHRlci1oaXRzLWZhc3RiYWxsLWNoYXB0ZXItNzQv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "73",
@@ -734,5 +746,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 119
+  "total_chapters": 121
 }
