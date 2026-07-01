@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-05T10:39:14.815727",
+  "scraped_at": "2026-07-01T16:44:05.582059",
   "alternative_titles": "The Not-So-Cool Adult Miss Ji-Hye, The Uncool Adult, Jihye, 안 멋진 어른 지혜 양",
   "status": "Berjalan",
   "author": "Horiho",
@@ -18,23 +18,71 @@
   "synopsis": "Manhwa                    Miss Ji-Hye, The Uncool Adult yang dibuat oleh komikus bernama\n                    Horiho ini bercerita tentang\n                    Joo Yeon-ho bekerja sebagai instruktur di akademi privat. Suatu hari, mantan murid bimbingannya, Ahn Ji-hye—yang sudah empat tahun tidak ia temui—kembali ke dalam hidupnya, sama sekali berbeda dari gadis yang pernah ia kenal. Karena keadaan memaksa, ia terpaksa setuju untuk tinggal bersama Ji-hye yang sangat melelahkan… Murid yang rajin dan cerdas yang pernah ia ingat tidak dapat ditemukan lagi. Ji-hye telah berubah menjadi sosok yang sangat kekanak-kanakan dan berantakan, bertingkah seperti anak kecil yang riang dan tidak bertanggung jawab tanpa rasa tanggung jawab orang dewasa!",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTExLw==",
+      "date": "35 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTEwLw==",
+      "date": "17 jam yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTkv",
+      "date": "17 jam yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTgv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTcv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTYv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTUv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTQv",
+      "date": "4 minggu yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTMv",
-      "date": "10 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTIv",
-      "date": "11 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Miss Ji-Hye, The Uncool Adult Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWlzcy1qaS1oeWUtdGhlLXVuY29vbC1hZHVsdC1jaGFwdGVyLTEv",
-      "date": "11 jam yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 11
 }

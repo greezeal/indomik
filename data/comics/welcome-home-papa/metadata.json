@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.27,
-  "scraped_at": "2026-06-05T10:40:03.507745",
+  "scraped_at": "2026-07-01T16:40:25.880785",
   "alternative_titles": "おかえり、パパ, Okaeri, Papa, 「おかえり、パパ」, \"Okaeri, Papa\"",
   "status": "Berjalan",
   "author": "semimaru",
@@ -23,10 +23,22 @@
   "synopsis": "Manga                    Welcome Home, Papa yang dibuat oleh komikus bernama\n                    semimaru ini bercerita tentang\n                    Seorang gadis sekolah menengah mencoba untuk secara obsesif dekat dengan ayah tirinya yang baik hati. Bahkan sampai mengawasinya di tempat tidur bersama ibunya.",
   "chapters": [
     {
+      "chapter": "38.5",
+      "title": "Komik Welcome Home, Papa Chapter 38.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zOC01Lw==",
+      "date": "20 menit yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik Welcome Home, Papa Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zOC8=",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Welcome Home, Papa Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zNy8=",
-      "date": "14 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "36",
@@ -38,37 +50,37 @@
       "chapter": "35",
       "title": "Komik Welcome Home, Papa Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zNS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "34.6",
       "title": "Komik Welcome Home, Papa Chapter 34.6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zNC02Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "34.5",
       "title": "Komik Welcome Home, Papa Chapter 34.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zNC01Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Welcome Home, Papa Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zNC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "33.5",
       "title": "Komik Welcome Home, Papa Chapter 33.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zMy01Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Welcome Home, Papa Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zMy8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -80,25 +92,25 @@
       "chapter": "31",
       "title": "Komik Welcome Home, Papa Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zMS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Welcome Home, Papa Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zMC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "29.5",
       "title": "Komik Welcome Home, Papa Chapter 29.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0yOS01Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Welcome Home, Papa Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0yOS8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "28",
@@ -311,5 +323,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 50
 }

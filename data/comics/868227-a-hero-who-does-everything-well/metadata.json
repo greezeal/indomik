@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.19,
-  "scraped_at": "2026-06-20T22:00:42.084969",
+  "scraped_at": "2026-07-01T16:39:17.217564",
   "alternative_titles": "A Hero Who Does Everything Perfectly, 다 잘하는 히어로",
   "status": "Berjalan",
   "author": "Hwang Gyu Young",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    A Hero Who Does Everything Well yang dibuat oleh komikus bernama\n                    Hwang Gyu Young ini bercerita tentang\n                    Pada tahun 2024, Na Gang-in terbangun di jantung Korea Selatan. Ia tidak ingat siapa dirinya atau di mana ia berada, tetapi melalui AI pendukung tempur bernama Jeon Ji-in yang tertanam di tubuhnya, ia menemukan bahwa ia berafiliasi dengan Earth Alliance dari tahun 2082. Untuk mendapatkan kembali ingatannya dan mencari tahu mengapa ia berakhir di sini, ia perlu mengumpulkan informasi... Dengan hanya bermodalkan banyak keterampilan, inilah perjalanan canggung Na Gang-in untuk beradaptasi dengan Bumi!",
   "chapters": [
     {
+      "chapter": "81",
+      "title": "Komik A Hero Who Does Everything Well Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTgxLw==",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "80",
       "title": "Komik A Hero Who Does Everything Well Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTgwLw==",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik A Hero Who Does Everything Well Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTc5Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik A Hero Who Does Everything Well Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTc4Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik A Hero Who Does Everything Well Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTc3Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "76",
@@ -71,13 +77,13 @@
       "chapter": "72",
       "title": "Komik A Hero Who Does Everything Well Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTcyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik A Hero Who Does Everything Well Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTcxLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -113,19 +119,19 @@
       "chapter": "65",
       "title": "Komik A Hero Who Does Everything Well Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTY1Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik A Hero Who Does Everything Well Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTY0Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik A Hero Who Does Everything Well Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1oZXJvLXdoby1kb2VzLWV2ZXJ5dGhpbmctd2VsbC1jaGFwdGVyLTYzLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "62",
@@ -500,5 +506,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 80
+  "total_chapters": 81
 }
