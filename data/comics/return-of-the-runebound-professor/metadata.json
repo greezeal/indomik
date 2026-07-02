@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-01T16:39:01.255462",
+  "scraped_at": "2026-07-02T23:51:06.138288",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "Actus",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    Return of the Runebound Professor yang dibuat oleh komikus bernama\n                    Actus ini bercerita tentang\n                    Magus Vermil adalah seorang bajingan — profesor yang paling dibenci di sebuah akademi sihir. Kemudian seseorang membunuhnya. Dia tidak akan pernah terdengar lagi jika bukan karena jiwa yang hilang dari Bumi bernama Noah Vines. Bertransmigrasi ke tubuh Vermil, Noah mengambil alih kekuatan rahasia pria itu dan daftar panjang musuh. Hanya ada satu masalah. Noah harus mengajar kelas besok, dan dia sama sekali tidak tahu apa itu sihir.",
   "chapters": [
     {
+      "chapter": "74",
+      "title": "Komik Return of the Runebound Professor Chapter 74",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNzQv",
+      "date": "50 menit yang lalu"
+    },
+    {
       "chapter": "73",
       "title": "Komik Return of the Runebound Professor Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNzMv",
-      "date": "13 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "72",
@@ -33,7 +39,7 @@
       "chapter": "71",
       "title": "Komik Return of the Runebound Professor Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNzEv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "70",
@@ -69,7 +75,7 @@
       "chapter": "65",
       "title": "Komik Return of the Runebound Professor Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItNjUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "64",
@@ -456,5 +462,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 73
+  "total_chapters": 74
 }
