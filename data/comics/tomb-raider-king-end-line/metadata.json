@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-30T01:34:32.017802",
+  "scraped_at": "2026-07-04T20:02:17.194012",
   "alternative_titles": "도굴왕: 엔드라인",
   "status": "Berjalan",
   "author": "SAN.G, Yuns",
@@ -24,11 +24,23 @@
   "synopsis": "Manhwa                    Tomb Raider King: End Line yang dibuat oleh komikus bernama\n                    SAN.G, Yuns ini bercerita tentang\n                    Kisah adalah kekuatan. Artefak yang lahir dari mitos dan cerita rakyat menganugerahkan kemampuan dan kekayaan kepada umat manusia, memicu pertempuran untuk memperebutkannya. Aku akhirnya menang dalam pertempuran ini dan menjadi Raja Artefak, Yang Mulia, tetapi... \"Pendaftaran Yang Mulia No. 187.487 Selesai. Reset Paksa Umat Manusia Dimulai. Perang Yang Mulia Diizinkan.\" Jadi itu baru permulaan? Lalu kenapa? Ada bajingan-bajingan itu yang mencuri milikku. \"Kau ingin melakukannya dengan hukum? Baiklah, dengan hukumku.\" Siapa pun bisa menang dengan kekerasan. Mereka menggulingkan mitos, mencuri aturan, dan menjarah dunia. \"Terima kasih banyak telah mengundangku ke ruang harta karun! Kalian bajingan!\"",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Tomb Raider King: End Line Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTMv",
+      "date": "58 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Tomb Raider King: End Line Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTIv",
+      "date": "58 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Tomb Raider King: End Line Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTEv",
-      "date": "7 menit yang lalu"
+      "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 3
 }

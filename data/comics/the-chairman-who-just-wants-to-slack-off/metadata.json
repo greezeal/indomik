@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-30T01:36:41.712485",
+  "scraped_at": "2026-07-04T20:07:48.147126",
   "alternative_titles": "Chairman Slacks Off, Enjoying Life, Chairman Who Wants to Live a Life of Leisure, The Chairman Who Just Wants to Slack Off and Enjoy Life, Председатель, который хочет играть и есть, 놀고먹고 싶은 회장님",
   "status": "Berjalan",
   "author": "Hyunwoo 001, stu. funistrada",
@@ -20,35 +20,53 @@
   "synopsis": "Manhwa                    The Chairman Who Just Wants to Slack Off yang dibuat oleh komikus bernama\n                    Hyunwoo 001, stu. funistrada ini bercerita tentang\n                    Hyun Sang-Yun adalah seorang chaebol generasi ketiga yang bermimpi tentang kehidupan tanpa beban sebagai pemilik gedung di Gangnam, hidup seperti pengangguran tanpa kekhawatiran. Untuk mewujudkannya, ia pertama-tama harus keluar dari pengawasan ketat ketua perusahaan.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTgv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTcv",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTYv",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTUv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTQv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTMv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTIv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTEv",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 8
 }
