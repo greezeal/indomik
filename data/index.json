@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T22:16:09.684050",
-  "total_comics": 1820,
+  "last_updated": "2026-07-04T23:34:34.816370",
+  "total_comics": 1822,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -6552,7 +6552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "the-princess-goes-to-school",
@@ -9880,7 +9880,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "yugami-no-toriko",
@@ -10912,7 +10912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.22,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "isekai-de-slow-life-wo-ganbou",
@@ -11696,7 +11696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "be-blues-ao-ni-nare",
@@ -14480,7 +14480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "the-mansion-awaits-spring",
@@ -14561,6 +14561,22 @@
       "status": "Berjalan",
       "rating": 7.51,
       "total_chapters": 10
+    },
+    {
+      "slug": "gimai-5-nin-iru",
+      "title": "Gimai 5-nin Iru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "ashita-mo-mata-yuusha-no-tonari",
+      "title": "Ashita mo Mata Yuusha no Tonari",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.21,
+      "total_chapters": 11
     }
   ]
 }
