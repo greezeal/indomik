@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-05T12:10:43.293395",
+  "scraped_at": "2026-07-05T15:40:13.770285",
   "alternative_titles": "我在异界的弑神之路",
   "status": "Berjalan",
   "author": "Neoman",
@@ -23,16 +23,22 @@
   "synopsis": "Manhua                    My Path to Killing God in Otherworld yang dibuat oleh komikus bernama\n                    Neoman ini bercerita tentang\n                    Seorang pria jenius disambar petir ketika mencoba menggoda gadis-gadis cantik, dia dibawa ke dunia lain?! hanya mengandalkan dirinya sendiri untuk bertahan hidup melawan monster, iblis, dan dewa. Bahaya menunggu, Saat naik level, dia menjadi lebih kuat tetapi apakah dia dapat kembali ke dunia aslinya dan bertemu gadis-gadis cantik lagi?",
   "chapters": [
     {
+      "chapter": "77",
+      "title": "Komik My Path to Killing God in Otherworld Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcGF0aC10by1raWxsaW5nLWdvZC1pbi1vdGhlcndvcmxkLWNoYXB0ZXItNzcv",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "76",
       "title": "Komik My Path to Killing God in Otherworld Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcGF0aC10by1raWxsaW5nLWdvZC1pbi1vdGhlcndvcmxkLWNoYXB0ZXItNzYv",
-      "date": "12 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik My Path to Killing God in Otherworld Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcGF0aC10by1raWxsaW5nLWdvZC1pbi1vdGhlcndvcmxkLWNoYXB0ZXItNzUv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "74",
@@ -44,19 +50,19 @@
       "chapter": "73",
       "title": "Komik My Path to Killing God in Otherworld Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcGF0aC10by1raWxsaW5nLWdvZC1pbi1vdGhlcndvcmxkLWNoYXB0ZXItNzMv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik My Path to Killing God in Otherworld Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcGF0aC10by1raWxsaW5nLWdvZC1pbi1vdGhlcndvcmxkLWNoYXB0ZXItNzIv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik My Path to Killing God in Otherworld Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktcGF0aC10by1raWxsaW5nLWdvZC1pbi1vdGhlcndvcmxkLWNoYXB0ZXItNzEv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "70",
@@ -491,5 +497,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 78
+  "total_chapters": 79
 }

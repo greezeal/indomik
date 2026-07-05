@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-14T06:24:36.759063",
+  "scraped_at": "2026-07-05T15:40:50.993421",
   "alternative_titles": "おしえて執事くん, Tell Me, Dear Butler, Please Tell Me My Butler",
   "status": "Berjalan",
   "author": "Masaki Michi",
@@ -22,29 +22,41 @@
   "synopsis": "Manga                    Oshiete Shitsuji-Kun yang dibuat oleh komikus bernama\n                    Masaki Michi ini bercerita tentang\n                    “Kalau kau mengerti, jangan selingkuh dariku, bodoh.” Kikyo telah mencintai pelayannya, Hanayanagi, secara sepihak sejak hari pertama mereka bertemu. Tak peduli berapa kali ia mencoba menarik perhatiannya, sepertinya itu tidak berpengaruh sama sekali…?",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Oshiete Shitsuji-Kun Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NoaWV0ZS1zaGl0c3VqaS1rdW4tY2hhcHRlci02Lw==",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Oshiete Shitsuji-Kun Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NoaWV0ZS1zaGl0c3VqaS1rdW4tY2hhcHRlci01Lw==",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Oshiete Shitsuji-Kun Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NoaWV0ZS1zaGl0c3VqaS1rdW4tY2hhcHRlci00Lw==",
-      "date": "10 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Oshiete Shitsuji-Kun Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NoaWV0ZS1zaGl0c3VqaS1rdW4tY2hhcHRlci0zLw==",
-      "date": "6 hari yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Oshiete Shitsuji-Kun Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NoaWV0ZS1zaGl0c3VqaS1rdW4tY2hhcHRlci0yLw==",
-      "date": "6 hari yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Oshiete Shitsuji-Kun Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NoaWV0ZS1zaGl0c3VqaS1rdW4tY2hhcHRlci0xLw==",
-      "date": "6 hari yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 6
 }

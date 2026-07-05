@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.51,
-  "scraped_at": "2026-07-04T20:12:58.627044",
+  "scraped_at": "2026-07-05T15:47:29.736162",
   "alternative_titles": "となりの黒川さん, My Neighbor Ms. Kurokawa",
   "status": "Berjalan",
   "author": "Ito Kyosuke",
@@ -22,10 +22,22 @@
   "synopsis": "Manga                    Tonari no Kurokawa-san yang dibuat oleh komikus bernama\n                    Ito Kyosuke ini bercerita tentang\n                    Rahasia antara aku dan dia itu sepele tapi penting.\r\n\r\nHajime Takahashi, mendaftar di SMA Shuubi semata-mata karena tempat itu adalah tempat suci dari manga favoritnya. Di mana-mana di sekolah itu ada lokasi yang muncul di manga, dan dia sangat gembira! Di tengah kegembiraan ini, Takahashi bertemu dengan seorang gadis cantik, Yayoi Kurokawa, yang tampak seperti tokoh utama wanita dari karya favoritnya, dan mereka pun berbagi rahasia tertentu.\r\n\r\nDuo canggung ini merangkai komedi romantis remaja yang manis dan tajam yang akan membuat Anda tersenyum!",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Tonari no Kurokawa-san Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTEyLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Tonari no Kurokawa-san Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTExLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Tonari no Kurokawa-san Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTEwLw==",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "9",
@@ -82,5 +94,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 12
 }
