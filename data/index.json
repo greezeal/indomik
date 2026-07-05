@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T23:34:34.816370",
-  "total_comics": 1822,
+  "last_updated": "2026-07-05T01:24:52.657557",
+  "total_comics": 1826,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -14577,6 +14577,38 @@
       "status": "Berjalan",
       "rating": 7.21,
       "total_chapters": 11
+    },
+    {
+      "slug": "dungeon-games-the-ex-corporate-slave-dominates-with-the-ultimate-job-trickster",
+      "title": "Dungeon Games: The Ex-Corporate Slave Dominates With the Ultimate Job “Trickster”",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "sekai-saikyou-no-majo-hajimemashita",
+      "title": "Sekai Saikyou no Majo, Hajimemashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.8,
+      "total_chapters": 54
+    },
+    {
+      "slug": "im-a-condemned-witch-but-im-being-loved-after-my-regression",
+      "title": "I’m a Condemned Witch, but I’m Being Loved After My Regression?!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "childcare-diary-with-the-villain",
+      "title": "Childcare Diary With the Villain",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 88
     }
   ]
 }
