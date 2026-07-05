@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.44,
-  "scraped_at": "2026-07-03T01:23:17.876728",
+  "scraped_at": "2026-07-05T05:30:04.807505",
   "alternative_titles": "1레벨 플레이어",
   "status": "Berjalan",
   "author": "Bang Eun-woo, SONG Si-Hyeon",
@@ -19,22 +19,40 @@
   "synopsis": "Manhwa                    Level 1 Player yang dibuat oleh komikus bernama\n                    Bang Eun-woo, SONG Si-Hyeon ini bercerita tentang\n                    Hyun-Sung telah bekerja di lokasi konstruksi untuk membayar biaya rumah sakit ayahnya ...\r\n\r\n[Kamu telah terbangun.] Pesan ajaib yang dia tunggu akhirnya muncul.\r\n\r\nSekarang dia telah menjadi seorang yang Bangkit, sepertinya semuanya akan berjalan lancar…\r\n\r\n\"Tunggu, kenapa levelku tidak naik?\"",
   "chapters": [
     {
+      "chapter": "147",
+      "title": "Komik Level 1 Player Chapter 147",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xNDcv",
+      "date": "23 menit yang lalu"
+    },
+    {
+      "chapter": "146",
+      "title": "Komik Level 1 Player Chapter 146",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xNDYv",
+      "date": "22 jam yang lalu"
+    },
+    {
+      "chapter": "145",
+      "title": "Komik Level 1 Player Chapter 145",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xNDUv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "144",
       "title": "Komik Level 1 Player Chapter 144",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xNDQv",
-      "date": "5 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "143",
       "title": "Komik Level 1 Player Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xNDMv",
-      "date": "5 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "142",
       "title": "Komik Level 1 Player Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xNDIv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "141",
@@ -106,7 +124,7 @@
       "chapter": "130",
       "title": "Komik Level 1 Player Chapter 130",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xMzAv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "129",
@@ -142,7 +160,7 @@
       "chapter": "124",
       "title": "Komik Level 1 Player Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGV2ZWwtMS1wbGF5ZXItY2hhcHRlci0xMjQv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "123",
@@ -883,5 +901,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 144
+  "total_chapters": 147
 }

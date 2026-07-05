@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-05T01:24:52.657557",
-  "total_comics": 1826,
+  "last_updated": "2026-07-05T05:34:06.391988",
+  "total_comics": 1830,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 881
+      "total_chapters": 885
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -344,7 +344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 122
+      "total_chapters": 124
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 331
+      "total_chapters": 334
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1152,7 +1152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
@@ -3320,7 +3320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 125
+      "total_chapters": 126
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -3760,7 +3760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "im-the-hero-but-the-main-heroines-are-trying-to-kill-me",
@@ -7096,7 +7096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.87,
-      "total_chapters": 24
+      "total_chapters": 28
     },
     {
       "slug": "goblin-slayer",
@@ -7216,7 +7216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "887850-jungle-juice",
@@ -9000,7 +9000,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.44,
-      "total_chapters": 144
+      "total_chapters": 147
     },
     {
       "slug": "the-regalia-of-the-underdog",
@@ -9352,7 +9352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 312
+      "total_chapters": 313
     },
     {
       "slug": "the-world-class-extras-walkthrough-remake",
@@ -11576,7 +11576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.0,
-      "total_chapters": 168
+      "total_chapters": 169
     },
     {
       "slug": "omiai-shitakunakattanode-muri-nandai-na-jouken-wo-tsuketara-doukyuusei-ga-kita-ken-ni-tsuite",
@@ -12776,7 +12776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 143
+      "total_chapters": 144
     },
     {
       "slug": "ichizu-de-bitch-na-kouhai",
@@ -14328,7 +14328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 15
     },
     {
       "slug": "akumade-taidana-akuyaku-kizoku",
@@ -14609,6 +14609,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 88
+    },
+    {
+      "slug": "104443-isekai-demo-bunan-ni-ikitai-shoukougun",
+      "title": "Isekai Demo Bunan ni Ikitai Shoukougun",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.95,
+      "total_chapters": 41
+    },
+    {
+      "slug": "saikyou-no-kensei-to-kenja-no-moto-ni-tenseishita-ore-wa-mujikaku-musou-suru",
+      "title": "Saikyou no Kensei to Kenja no moto ni Tenseishita Ore wa Mujikaku Musou suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "maou-no-musume-wa-yuusha-to-seiryaku-kekkon-shitai",
+      "title": "Maou no Musume wa Yuusha to Seiryaku Kekkon Shitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "akuyaku-reijou-ni-onee-ga-tenseishita-kedo-nanimo-mondai-ga-nai-ken",
+      "title": "Akuyaku Reijou ni Onee ga Tenseishita kedo nanimo Mondai ga Nai Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
     }
   ]
 }
