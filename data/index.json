@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T14:47:39.117854",
-  "total_comics": 1835,
+  "last_updated": "2026-07-06T17:39:56.074293",
+  "total_comics": 1838,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1160,7 +1160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 133
+      "total_chapters": 134
     },
     {
       "slug": "758554-the-great-mage-returns-after-4000-years",
@@ -1216,7 +1216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.35,
-      "total_chapters": 92
+      "total_chapters": 94
     },
     {
       "slug": "my-empress-disciple-is-about-to-turn-dark",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1296,7 +1296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 179
+      "total_chapters": 181
     },
     {
       "slug": "game-online-unrivaled-in-the-world-remake",
@@ -1904,7 +1904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 365
+      "total_chapters": 366
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -2376,7 +2376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "my-disciples-are-all-big-villains",
@@ -3824,7 +3824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 83
     },
     {
       "slug": "kingdom",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 45
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -4400,7 +4400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 33
+      "total_chapters": 39
     },
     {
       "slug": "one-piece-id",
@@ -4816,7 +4816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 52
     },
     {
       "slug": "after-the-high-school-goddess-dumped-me-i-became-a-martial-arts-god",
@@ -5056,7 +5056,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.63,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "963068-god-of-blackfield",
@@ -5064,7 +5064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.13,
-      "total_chapters": 322
+      "total_chapters": 324
     },
     {
       "slug": "kajiya-de-hajimeru-isekai-slow-life",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5382,9 +5382,9 @@
       "slug": "reset-life-of-regression-police",
       "title": "Reset Life of Regression Police",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Tamat",
+      "rating": 7.0,
+      "total_chapters": 151
     },
     {
       "slug": "252876-murim-login",
@@ -5528,7 +5528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "job-change-log",
@@ -6208,7 +6208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "the-genius-who-sees-through-the-world",
@@ -6232,7 +6232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 75
+      "total_chapters": 77
     },
     {
       "slug": "375645-the-knight-king-who-returned-with-a-god",
@@ -7272,7 +7272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "984731-night-of-the-soulless-heathens",
@@ -7320,7 +7320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "the-demon-king-who-lost-his-job",
@@ -8480,7 +8480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 68
+      "total_chapters": 69
     },
     {
       "slug": "ts-tensei-bishoujo-netora-reiko-wa-netoraretai",
@@ -8688,7 +8688,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.51,
-      "total_chapters": 113
+      "total_chapters": 115
     },
     {
       "slug": "shikkaku-kara-hajimeru-nariagari-madou-shidou",
@@ -9000,7 +9000,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.44,
-      "total_chapters": 147
+      "total_chapters": 148
     },
     {
       "slug": "the-regalia-of-the-underdog",
@@ -10936,7 +10936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "the-evil-alchemist-cant-handle-his-own-experiment",
@@ -11416,7 +11416,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 24
+      "total_chapters": 27
     },
     {
       "slug": "uruwashi-babaa-wa-mago-ga-hoshii",
@@ -12040,7 +12040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "tanaka-ke-tensei-suru",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 346
+      "total_chapters": 359
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12552,7 +12552,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "villain-at-work-is-crushing-the-boss-my-kpi",
@@ -12648,7 +12648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "224091-the-max-level-players-100th-regression",
@@ -12976,7 +12976,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "884957-super-god-pet-shop",
@@ -13192,7 +13192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 27
     },
     {
       "slug": "kokou-no-hito",
@@ -13296,7 +13296,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 153
+      "total_chapters": 166
     },
     {
       "slug": "938845-my-daughter-is-the-final-boss",
@@ -13768,7 +13768,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 184
+      "total_chapters": 191
     },
     {
       "slug": "the-evil-ring",
@@ -14072,7 +14072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "monster-onna-kanbu-wa-osanaki-yuusha-wo-dekiaisuru",
@@ -14136,7 +14136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 8
     },
     {
       "slug": "senmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru",
@@ -14376,7 +14376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 13
     },
     {
       "slug": "seiken-chan-wa-kojirasete-iru",
@@ -14480,7 +14480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "the-mansion-awaits-spring",
@@ -14616,7 +14616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.95,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "saikyou-no-kensei-to-kenja-no-moto-ni-tenseishita-ore-wa-mujikaku-musou-suru",
@@ -14681,6 +14681,30 @@
       "status": "Berjalan",
       "rating": 7.29,
       "total_chapters": 35
+    },
+    {
+      "slug": "older-womens-club",
+      "title": "Older Women’s Club",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "the-heavenly-paths-annihilation",
+      "title": "The Heavenly Path’s Annihilation",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "global-class-transition-the-magic-kings-skills-have-infinite-affixes",
+      "title": "Global Class Transition: The Magic King’s Skills Have Infinite Affixes",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }
