@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.03,
-  "scraped_at": "2026-07-05T23:54:17.006008",
+  "scraped_at": "2026-07-06T19:29:49.572766",
   "alternative_titles": "Gui Yi Feng Jiu, Mesmerizing Ghost Doctor, 鬼医凤九",
   "status": "Berjalan",
   "author": "Feng Jiong",
@@ -25,28 +25,34 @@
   "synopsis": "Manhua                    The Ghostly Doctor yang dibuat oleh komikus bernama\n                    Feng Jiong ini bercerita tentang\n                    Dia, pemimpin sekte tersembunyi, berspesialisasi dalam racun dan pembunuhan. Seorang jenius, dan orang aneh, di mata orang lain. Setelah meninggal karena kecelakaan, dia terlahir kembali dalam tubuh wanita yang cacat. Setelah identitasnya berubah dan tidak dapat kembali ke keluarganya, dia meninggalkan mereka, tetapi, jika dia tidak membalas dendam pada mereka yang menyebabkan kerugiannya, apakah dia layak mendapatkan gelar \"The Ghostly Doctor\"? Saat awan berkumpul, para pahlawan bertarung untuk menjadi yang terkuat! Bagaimana dia akan menaklukkan dunia dengan jubah merah, dan bertarung di antara para pahlawan yang kuat ?!",
   "chapters": [
     {
+      "chapter": "661",
+      "title": "Komik The Ghostly Doctor Chapter 661",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjYxLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "660",
       "title": "Komik The Ghostly Doctor Chapter 660",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjYwLw==",
-      "date": "33 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "659",
       "title": "Komik The Ghostly Doctor Chapter 659",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjU5Lw==",
-      "date": "33 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "658",
       "title": "Komik The Ghostly Doctor Chapter 658",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjU4Lw==",
-      "date": "22 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "657",
       "title": "Komik The Ghostly Doctor Chapter 657",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNjU3Lw==",
-      "date": "22 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "656",
@@ -724,13 +730,13 @@
       "chapter": "544",
       "title": "Komik The Ghostly Doctor Chapter 544",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNTQ0Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "543",
       "title": "Komik The Ghostly Doctor Chapter 543",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdob3N0bHktZG9jdG9yLWNoYXB0ZXItNTQzLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "542",
@@ -3925,5 +3931,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 650
+  "total_chapters": 651
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.09,
-  "scraped_at": "2026-06-29T09:58:17.745571",
+  "scraped_at": "2026-07-06T19:24:35.725878",
   "alternative_titles": "대기업 말단이 일을 잘함, A Corporate Underling Who Excels at Work, A Corporate Underling Who Excels at Work",
   "status": "Berjalan",
   "author": "나나비",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    The Corporate Underdog Who Does Everything Right yang dibuat oleh komikus bernama\n                    나나비 ini bercerita tentang\n                    Chae Gyeong-jun, yang meninggalkan kuliah dan impiannya karena krisis IMF,\r\nsekali lagi menghadapi keputusasaan karena biaya rumah sakit neneknya yang tiba-tiba.\r\nNamun, seorang \"Dermawan Misterius\" turun tangan untuk menanggung biaya rumah sakit keluarganya...\r\n\"Siapa yang akan memberikan dukungan yang sama sekali tidak membantu mereka, dan mengapa?\"\r\nUntuk mencari jawaban, Gyeong-jun menuju Taeseong.",
   "chapters": [
     {
+      "chapter": "72",
+      "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNzIv",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "71",
       "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNzEv",
-      "date": "18 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNzAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNjkv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "68",
@@ -61,7 +67,7 @@
       "chapter": "65",
       "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNjUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "64",
@@ -85,7 +91,7 @@
       "chapter": "61",
       "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNjEv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "60",
@@ -187,13 +193,13 @@
       "chapter": "44",
       "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNDQv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik The Corporate Underdog Who Does Everything Right Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNvcnBvcmF0ZS11bmRlcmRvZy13aG8tZG9lcy1ldmVyeXRoaW5nLXJpZ2h0LWNoYXB0ZXItNDMv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -448,5 +454,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 71
+  "total_chapters": 72
 }
