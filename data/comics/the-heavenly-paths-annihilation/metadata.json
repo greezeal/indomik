@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-06T17:33:48.663968",
+  "scraped_at": "2026-07-08T17:11:24.259838",
   "alternative_titles": "Annihilation of the Heavenly Way, Cheondobangmyeol, Heaven's Annihilation, The Eradication of Heaven's Way, 천도박멸",
   "status": "Berjalan",
   "author": "Wanana",
@@ -20,35 +20,41 @@
   "synopsis": "Manhwa                    The Heavenly Path’s Annihilation yang dibuat oleh komikus bernama\n                    Wanana ini bercerita tentang\n                    Park Tae-woong, seorang siswa SMA berusia 17 tahun, mengalami kematian dalam keadaan misterius. Apa yang terjadi selanjutnya menjadi serangkaian peristiwa luar biasa yang benar-benar mengubah jalan hidupnya.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik The Heavenly Path’s Annihilation Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlYXZlbmx5LXBhdGhzLWFubmloaWxhdGlvbi1jaGFwdGVyLTYv",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik The Heavenly Path’s Annihilation Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlYXZlbmx5LXBhdGhzLWFubmloaWxhdGlvbi1jaGFwdGVyLTUv",
-      "date": "11 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Heavenly Path’s Annihilation Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlYXZlbmx5LXBhdGhzLWFubmloaWxhdGlvbi1jaGFwdGVyLTQv",
-      "date": "11 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Heavenly Path’s Annihilation Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlYXZlbmx5LXBhdGhzLWFubmloaWxhdGlvbi1jaGFwdGVyLTMv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Heavenly Path’s Annihilation Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlYXZlbmx5LXBhdGhzLWFubmloaWxhdGlvbi1jaGFwdGVyLTIv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Heavenly Path’s Annihilation Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlYXZlbmx5LXBhdGhzLWFubmloaWxhdGlvbi1jaGFwdGVyLTEv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-24T12:18:58.593891",
+  "scraped_at": "2026-07-08T17:11:29.626455",
   "alternative_titles": "The Forgotten Meadow, 忘れられた野原, 잊혀진 들판",
   "status": "Berjalan",
   "author": "Kim Su-Ji",
@@ -20,40 +20,46 @@
   "synopsis": "Manhwa                    The Forgotten Field yang dibuat oleh komikus bernama\n                    Kim Su-Ji ini bercerita tentang\n                    \"Aku berdoa setiap hari agar cinta ini mati, agar aku hanya mencintaimu sampai hari ini, dan besok cinta ini akan mati.\"\r\n\r\nThalia Roem Grta, putri malang yang lahir dari perselingkuhan. Ia tumbuh besar dalam keadaan yang menyimpang di tengah orang tua yang acuh tak acuh, saudara tiri yang bermusuhan, dan para pelayan yang membencinya. Thalia melindungi dirinya dengan menancapkan duri-durinya kepada siapa pun yang mendekat. Namun, bahkan ia menjadi tak berdaya di hadapan satu orang. Ia tak lain adalah Pangeran Timur, Barkas Raedgo Sheerkan.\r\n\r\nDipaksa untuk menjadi sempurna sebagai pengawal istana kekaisaran dan pewaris Adipati Agung, ia tumbuh dengan sebagian besar emosinya mati rasa di bawah disiplin yang hampir seperti pelecehan. Seorang pria yang hidup semata-mata untuk kehormatan dan kewajiban keluarganya. Untuk menepati janji yang dibuat kepada mendiang Permaisuri, ia menikah dengan saudara tiri Thalia, Ayla, dan Thalia, yang diliputi keputusasaan, perlahan-lahan hancur.\r\n\r\nNamun, cintanya, yang ditakdirkan untuk mati, menghadapi titik balik yang tak terduga....",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik The Forgotten Field Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcmdvdHRlbi1maWVsZC1jaGFwdGVyLTI3Lw==",
+      "date": "46 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik The Forgotten Field Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcmdvdHRlbi1maWVsZC1jaGFwdGVyLTI2Lw==",
-      "date": "8 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Forgotten Field Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcmdvdHRlbi1maWVsZC1jaGFwdGVyLTI1Lw==",
-      "date": "6 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Forgotten Field Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcmdvdHRlbi1maWVsZC1jaGFwdGVyLTI0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Forgotten Field Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcmdvdHRlbi1maWVsZC1jaGFwdGVyLTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Forgotten Field Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcmdvdHRlbi1maWVsZC1jaGFwdGVyLTIyLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik The Forgotten Field Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcmdvdHRlbi1maWVsZC1jaGFwdGVyLTIxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -176,5 +182,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

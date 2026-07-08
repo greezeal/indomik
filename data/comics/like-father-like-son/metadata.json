@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-14T01:47:52.687430",
+  "scraped_at": "2026-07-08T17:06:31.330243",
   "alternative_titles": "그아비에 그아들",
   "status": "Berjalan",
   "author": "Author Song",
@@ -20,47 +20,77 @@
   "synopsis": "Manhwa                    Like Father, Like Son yang dibuat oleh komikus bernama\n                    Author Song ini bercerita tentang\n                    Kang Kwon, yang mewarisi perawakan kecil ayahnya dengan tinggi 159 cm dan berat 51 kg, jatuh dari atap setelah diintimidasi di sekolah setiap hari. Ia terbangun di tahun 1996 dalam tubuh sahabat terbaik ayahnya, pamannya Choi Kang-kwon, yang tingginya 188 cm dan berat 70 kg. Namun, bertentangan dengan harapannya, Paman Choi Kang-kwon ternyata adalah seorang pecundang yang sering diintimidasi...\r\n\r\nMeskipun ia telah tumbuh lebih tinggi, (Choi) Kang-kwon tetaplah seorang pecundang, dan kehidupan sekolah menengahnya yang sangat sulit (?) di tahun 1996 pun dimulai.",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Like Father, Like Son Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xMi8=",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Like Father, Like Son Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xMS8=",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Like Father, Like Son Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xMC8=",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Like Father, Like Son Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci05Lw==",
+      "date": "3 minggu yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Like Father, Like Son Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci04Lw==",
+      "date": "3 minggu yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Like Father, Like Son Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci03Lw==",
-      "date": "3 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Like Father, Like Son Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci02Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Like Father, Like Son Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci01Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Like Father, Like Son Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci00Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Like Father, Like Son Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0zLw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Like Father, Like Son Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0yLw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Like Father, Like Son Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xLw==",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 12
 }
