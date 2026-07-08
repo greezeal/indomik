@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-21T16:57:16.681164",
+  "scraped_at": "2026-07-08T11:21:50.115327",
   "alternative_titles": "勇者パーティを追い出された器用貧乏　～パーティ事情で付与術士をやっていた剣士、万能へと至る～",
   "status": "Berjalan",
   "author": "Kiyoshi Miyako",
@@ -20,16 +20,22 @@
   "synopsis": "Manga                    Yuusha Party O Oida Sareta Kiyou Binbou yang dibuat oleh komikus bernama\n                    Kiyoshi Miyako ini bercerita tentang\n                    Orn, yang termasuk dalam partai pemberani, tiba-tiba diberitahu oleh pemimpin partai suatu hari. \"Karena aku tidak cukup kuat, keluar dari pesta.\" Selain itu, Orn dituduh \"miskin dalam ketangkasan\" oleh rekan-rekannya yang lain. Memang, semuanya rata-rata dan tidak memiliki kemampuan yang luar biasa. Namun, dia cekatan dan cekatan, dan di atas segalanya, dia seharusnya melakukan yang terbaik untuk semua orang ...! ??\r\nDisappointed Orn memulai karir solonya.\r\nNamun, dadanya memiliki ambisi untuk menjadi \"ketangkasan yang buruk\" - \"orang universal\".",
   "chapters": [
     {
+      "chapter": "60.5",
+      "title": "Komik Yuusha Party O Oida Sareta Kiyou Binbou Chapter 60.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LW8tb2lkYS1zYXJldGEta2l5b3UtYmluYm91LWNoYXB0ZXItNjAtNS8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "60",
       "title": "Komik Yuusha Party O Oida Sareta Kiyou Binbou Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LW8tb2lkYS1zYXJldGEta2l5b3UtYmluYm91LWNoYXB0ZXItNjAv",
-      "date": "6 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Yuusha Party O Oida Sareta Kiyou Binbou Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LW8tb2lkYS1zYXJldGEta2l5b3UtYmluYm91LWNoYXB0ZXItNTkv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "58",
@@ -47,13 +53,13 @@
       "chapter": "56",
       "title": "Komik Yuusha Party O Oida Sareta Kiyou Binbou Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LW8tb2lkYS1zYXJldGEta2l5b3UtYmluYm91LWNoYXB0ZXItNTYv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Yuusha Party O Oida Sareta Kiyou Binbou Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LW8tb2lkYS1zYXJldGEta2l5b3UtYmluYm91LWNoYXB0ZXItNTUv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "54",
@@ -83,13 +89,13 @@
       "chapter": "50",
       "title": "Komik Yuusha Party O Oida Sareta Kiyou Binbou Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LW8tb2lkYS1zYXJldGEta2l5b3UtYmluYm91LWNoYXB0ZXItNTAv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Yuusha Party O Oida Sareta Kiyou Binbou Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLXBhcnR5LW8tb2lkYS1zYXJldGEta2l5b3UtYmluYm91LWNoYXB0ZXItNDkv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "48",
@@ -404,5 +410,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 65
 }

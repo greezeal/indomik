@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-05T10:47:45.608013",
+  "scraped_at": "2026-07-08T11:25:18.077835",
   "alternative_titles": "Return of the Star Player, Siêu Sao Trở Lại, 스타 플레이어의 귀환",
   "status": "Berjalan",
   "author": "Jenguk, Woo Sol Yeon",
@@ -20,29 +20,65 @@
   "synopsis": "Manhwa                    The Return of the Star Player yang dibuat oleh komikus bernama\n                    Jenguk, Woo Sol Yeon ini bercerita tentang\n                    “Aku pasti akan mencapai puncak dalam game brutal ini dan kembali dengan gemilang.” Dan Yun — mantan gamer profesional kelas atas yang dipaksa pensiun karena dicurigai melakukan pengaturan pertandingan. Menjalani hari-hari dengan susah payah, tiba-tiba sebuah jendela aneh muncul di hadapannya: [Four Star Masters telah masuk.] [‘Tutorial Kiamat’ dimulai.] [Hukuman Kegagalan: Kematian] Diberi satu kesempatan lagi meski dihantui masa lalunya, Dan Yun pun menjadi peserta dalam “Blackout” — sebuah permainan yang dimainkan demi hiburan para Constellations. Apakah ia benar-benar bisa merebut kembali posisi puncak sekali lagi?",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik The Return of the Star Player Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci0xMC8=",
+      "date": "32 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik The Return of the Star Player Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci05Lw==",
+      "date": "32 menit yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik The Return of the Star Player Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci04Lw==",
+      "date": "4 hari yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik The Return of the Star Player Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci03Lw==",
+      "date": "4 hari yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik The Return of the Star Player Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci02Lw==",
+      "date": "4 hari yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik The Return of the Star Player Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci01Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik The Return of the Star Player Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci00Lw==",
-      "date": "11 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Return of the Star Player Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci0zLw==",
-      "date": "11 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Return of the Star Player Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci0yLw==",
-      "date": "11 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Return of the Star Player Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldHVybi1vZi10aGUtc3Rhci1wbGF5ZXItY2hhcHRlci0xLw==",
-      "date": "11 jam yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 10
 }
