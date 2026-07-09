@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-08T17:08:19.828424",
+  "scraped_at": "2026-07-09T18:36:47.744878",
   "alternative_titles": "Small Worlds, Endless Fun, 小世界其乐无穷",
   "status": "Berjalan",
   "author": "",
@@ -22,10 +22,16 @@
   "synopsis": "Manhua                    A Small World Full Of Fun yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Makhluk-makhluk luar biasa menghancurkan kesunyian dunia, dan sejak saat itu pohon teknologi menyimpang dari jalurnya. Sementara umat manusia meraba-raba dalam kegelapan mencari jalan menuju evolusi, aku merobek tulang rusukku, membakar hatiku, dan menghabiskan malam-malam tanpa tidur untuk menjadi garda terdepan mereka. Inilah perjalanan seperti permainan seorang pemain yang mempermainkan seluruh dunia. Di dunia-dunia kecil ini, kesenangan benar-benar tidak pernah berakhir.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik A Small World Full Of Fun Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTMzLw==",
+      "date": "59 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik A Small World Full Of Fun Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTMyLw==",
-      "date": "24 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "31",
@@ -55,13 +61,13 @@
       "chapter": "27",
       "title": "Komik A Small World Full Of Fun Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik A Small World Full Of Fun Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
@@ -214,5 +220,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }

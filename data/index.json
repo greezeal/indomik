@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T16:40:20.974402",
-  "total_comics": 1851,
+  "last_updated": "2026-07-09T18:38:06.350094",
+  "total_comics": 1852,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -360,7 +360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 64
+      "total_chapters": 65
     },
     {
       "slug": "archmage-curriculum",
@@ -400,7 +400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 41
     },
     {
       "slug": "167225-subscribing-to-the-transcendents-channel",
@@ -984,7 +984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 244
+      "total_chapters": 245
     },
     {
       "slug": "leveling-in-the-future",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1163
+      "total_chapters": 1164
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -2848,7 +2848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "155258-juvenile-prison",
@@ -3808,7 +3808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "the-delivery-man-from-murim",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -4008,7 +4008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "god-level-assassin-im-the-shadow",
@@ -4072,7 +4072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "kurai-anoko-to-shitai-koto",
@@ -4400,7 +4400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "one-piece-id",
@@ -5232,7 +5232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 130
+      "total_chapters": 132
     },
     {
       "slug": "dukedoms-legendary-prodigy",
@@ -5686,9 +5686,9 @@
       "slug": "divine-leveling-system",
       "title": "Divine Leveling System",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 204
     },
     {
       "slug": "urenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6520,7 +6520,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 149
+      "total_chapters": 150
     },
     {
       "slug": "dao-of-the-bizarre-immortal",
@@ -7032,7 +7032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 84
+      "total_chapters": 87
     },
     {
       "slug": "goblin-slayer-side-story-year-one",
@@ -7064,7 +7064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.37,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "inkya-no-ore-ga-sekigae-de-s-kyuu-bishoujo-ni-kakomaretara-himitsu-no-kankei-ga-hajimatta",
@@ -7328,7 +7328,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 466
+      "total_chapters": 467
     },
     {
       "slug": "322250-juujika-no-rokunin",
@@ -7496,7 +7496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 79
+      "total_chapters": 81
     },
     {
       "slug": "maigo-ni-natteita-youjo-wo-tasuketara-otonari-ni-sumu-bishoujo-ryuugakusei-ga-ie-ni-asobi-ni-kuru-you-ni-natta-ken-nitsuite",
@@ -9352,7 +9352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 315
+      "total_chapters": 316
     },
     {
       "slug": "the-world-class-extras-walkthrough-remake",
@@ -10240,7 +10240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 217
+      "total_chapters": 218
     },
     {
       "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
@@ -10816,7 +10816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.64,
-      "total_chapters": 51
+      "total_chapters": 57
     },
     {
       "slug": "neko-neko-youjo-no-aijou-gohan-isekai-de-mofumofu-tachi-ni-ryouri-wo-tsukurimasu",
@@ -10872,7 +10872,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 53
     },
     {
       "slug": "urakata-de-support-shiteta-geinou-ikka-wo-tsuihousareta-boku-wa-futsuu-no-seishun-wo-ouka-shitai",
@@ -11848,7 +11848,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "release-that-witch",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 362
+      "total_chapters": 363
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12192,7 +12192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 139
+      "total_chapters": 140
     },
     {
       "slug": "739537-ranker-who-lives-a-second-time",
@@ -12288,7 +12288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "hinekure-ryoushu-no-koufukutan",
@@ -12936,7 +12936,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 211
+      "total_chapters": 213
     },
     {
       "slug": "surviving-as-a-pd-idol",
@@ -12960,7 +12960,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "the-strongest-villainess",
@@ -13104,7 +13104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "kingdom-of-the-z",
@@ -13408,7 +13408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "251770-sasayaku-you-ni-koi-wo-utau",
@@ -13896,7 +13896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 51
     },
     {
       "slug": "868227-a-hero-who-does-everything-well",
@@ -14112,7 +14112,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "175144-majo-to-youhei",
@@ -14336,7 +14336,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "uchi-no-maid-ga-class-no-suki-na-ko-ni-nite-iru",
@@ -14352,7 +14352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 33
     },
     {
       "slug": "i-became-the-most-terrifying-stepmother-in-history",
@@ -14360,7 +14360,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 21
     },
     {
       "slug": "saenai-ossan-jitsu-wa-saikyou",
@@ -14544,7 +14544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "the-fake-saintess-of-a-reverse-harem-game",
@@ -14672,7 +14672,7 @@
       "type": "Manga",
       "status": "Tamat",
       "rating": 7.58,
-      "total_chapters": 135
+      "total_chapters": 143
     },
     {
       "slug": "the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill",
@@ -14712,7 +14712,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 7
+      "total_chapters": 15
     },
     {
       "slug": "holy-knight",
@@ -14720,7 +14720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "marriage-protection-scandal",
@@ -14809,6 +14809,14 @@
       "status": "Berjalan",
       "rating": 7.11,
       "total_chapters": 90
+    },
+    {
+      "slug": "tokimori-san-ga-muboubi-desu",
+      "title": "Tokimori-san ga Muboubi desu!!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.87,
+      "total_chapters": 44
     }
   ]
 }

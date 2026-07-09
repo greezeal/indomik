@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-07T07:56:26.595140",
+  "scraped_at": "2026-07-09T18:30:32.751376",
   "alternative_titles": "A madrasta sem dons é o coração da família, I'm a Worthless Stepmother, but I Love My Family Madly!, Munou na Keibo desu ga, Kazoku no Dekiai ga Tomarimasen!, The Beloved Incompetent Stepmom, Tuy là một người mẹ kế vô dụng, nhưng tôi yêu gia đình của mình rất nhiều, 无能继母备受家族宠爱!, 無能な継母ですが、家族の溺愛が止まりません！",
   "status": "Berjalan",
   "author": "Tsuruko.",
@@ -20,34 +20,46 @@
   "synopsis": "Manga                    The Beloved Incompetent Stepmom yang dibuat oleh komikus bernama\n                    Tsuruko. ini bercerita tentang\n                    Dianggap tidak kompeten dan diabaikan oleh keluarganya, putri Duke, Elsha, tiba-tiba diperintahkan untuk menikah dengan Archduke Iceberg yang terkenal—seorang pahlawan perang yang ditakuti karena reputasinya yang kejam. Daripada putus asa, dia memanfaatkan kesempatan ini untuk memulai awal yang baru. Namun saat tiba di istananya, dia menemukan Archduke hilang dan malah ditemui oleh putra angkatnya yang waspada, Wilbert dan Hugh—yang tidak tahu ayah mereka akan menikah lagi. Dengan suami yang tidak ada, anak tiri yang tidak percaya, dan rumah yang penuh rahasia, dapatkah Elsha menemukan tempat untuk dirinya sendiri dan akhirnya menemukan kebahagiaan?",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik The Beloved Incompetent Stepmom Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlbG92ZWQtaW5jb21wZXRlbnQtc3RlcG1vbS1jaGFwdGVyLTMzLw==",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik The Beloved Incompetent Stepmom Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlbG92ZWQtaW5jb21wZXRlbnQtc3RlcG1vbS1jaGFwdGVyLTMyLw==",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik The Beloved Incompetent Stepmom Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlbG92ZWQtaW5jb21wZXRlbnQtc3RlcG1vbS1jaGFwdGVyLTMxLw==",
-      "date": "13 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The Beloved Incompetent Stepmom Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlbG92ZWQtaW5jb21wZXRlbnQtc3RlcG1vbS1jaGFwdGVyLTMwLw==",
-      "date": "13 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik The Beloved Incompetent Stepmom Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlbG92ZWQtaW5jb21wZXRlbnQtc3RlcG1vbS1jaGFwdGVyLTI5Lw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Beloved Incompetent Stepmom Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlbG92ZWQtaW5jb21wZXRlbnQtc3RlcG1vbS1jaGFwdGVyLTI4Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Beloved Incompetent Stepmom Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJlbG92ZWQtaW5jb21wZXRlbnQtc3RlcG1vbS1jaGFwdGVyLTI3Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "26",
@@ -206,5 +218,5 @@
       "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 31
+  "total_chapters": 33
 }

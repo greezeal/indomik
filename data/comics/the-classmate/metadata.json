@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-08T17:08:46.098115",
+  "scraped_at": "2026-07-09T18:37:03.721501",
   "alternative_titles": "Classmate (Sooriboo), 危险的同学, 旧校舎のお招きさま, 클래스메이트",
   "status": "Berjalan",
   "author": "Sooriboo",
@@ -22,34 +22,40 @@
   "synopsis": "Manhwa                    The Classmate yang dibuat oleh komikus bernama\n                    Sooriboo ini bercerita tentang\n                    Kehidupan SMA Eunha berubah drastis ketika para pengganggu memaksanya melakukan ritual pemanggilan hantu yang membawa Haesu, roh yang menawan namun menyeramkan, ke dalam hidupnya. Mengaku sebagai temannya, Haesu mulai membalas dendam kepada para pengganggu Eunha. Namun, metode kekerasan yang digunakan Haesu membuat Eunha khawatir, dan dia mulai mencari jawaban untuk mengungkap masa lalu dan identitas asli Haesu.",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik The Classmate Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTI5Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik The Classmate Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTI4Lw==",
-      "date": "25 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Classmate Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTI3Lw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Classmate Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTI2Lw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Classmate Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTI1Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Classmate Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTI0Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "23",
@@ -85,25 +91,25 @@
       "chapter": "18",
       "title": "Komik The Classmate Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTE4Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The Classmate Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTE3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Classmate Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTE2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Classmate Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYXNzbWF0ZS1jaGFwdGVyLTE1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
@@ -190,5 +196,5 @@
       "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }
