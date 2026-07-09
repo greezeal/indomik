@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T07:52:30.869295",
-  "total_comics": 1850,
+  "last_updated": "2026-07-09T11:32:08.480740",
+  "total_comics": 1851,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2768,7 +2768,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "sword-devouring-swordmaster",
@@ -4200,7 +4200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.03,
-      "total_chapters": 232
+      "total_chapters": 233
     },
     {
       "slug": "kyoukai-meikyuu-to-ikai-no-majutsushi",
@@ -4264,7 +4264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 211
+      "total_chapters": 214
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -4872,7 +4872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 109
+      "total_chapters": 112
     },
     {
       "slug": "284443-meccha-shoukan-sareta-ken",
@@ -5256,7 +5256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 38
     },
     {
       "slug": "defense-breaker",
@@ -5304,7 +5304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "bill-the-blacksmith",
@@ -6368,7 +6368,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 107
     },
     {
       "slug": "fair-trade-committee",
@@ -6512,7 +6512,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 69
+      "total_chapters": 72
     },
     {
       "slug": "696362-clever-cleaning-life-of-the-returned-genius-hunter",
@@ -7256,7 +7256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 45
     },
     {
       "slug": "crimson-heart-wanderer",
@@ -8360,7 +8360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 116
+      "total_chapters": 118
     },
     {
       "slug": "myriad-tribes-invasion-rearguards-resolute-unity",
@@ -9208,7 +9208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.09,
-      "total_chapters": 461
+      "total_chapters": 463
     },
     {
       "slug": "the-snow-leopard-baby-of-the-black-leopard-family",
@@ -10240,7 +10240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 216
+      "total_chapters": 217
     },
     {
       "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
@@ -11464,7 +11464,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.66,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "151544-return-of-the-flowery-mountain-sect",
@@ -13272,7 +13272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 73
+      "total_chapters": 75
     },
     {
       "slug": "152031-yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyou-shuzoku-nekomimi-shojo-to-deau",
@@ -14216,7 +14216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 8
     },
     {
       "slug": "767540-marriagetoxin",
@@ -14616,7 +14616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.95,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "saikyou-no-kensei-to-kenja-no-moto-ni-tenseishita-ore-wa-mujikaku-musou-suru",
@@ -14801,6 +14801,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 23
+    },
+    {
+      "slug": "transmigrating-to-the-otherworld-once-more",
+      "title": "Transmigrating to the Otherworld Once More",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.11,
+      "total_chapters": 90
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.95,
-  "scraped_at": "2026-07-08T11:21:54.973241",
+  "scraped_at": "2026-07-09T11:26:44.389778",
   "alternative_titles": "It's Sudden, but I Came to Another World! But I Hope to Live Safely, 異世界でも無難に生きたい症候群",
   "status": "Berjalan",
   "author": "Antai",
@@ -21,46 +21,52 @@
   "synopsis": "Manga                    Isekai Demo Bunan ni Ikitai Shoukougun yang dibuat oleh komikus bernama\n                    Antai ini bercerita tentang\n                    \"Memahami\" adalah \"Lebih Kuat\" dari pada Pedang! Tidak ada sihir tanpa senjata! Tapi! Ini adalah kisah tentang seorang pria yang ingin hidup dengan aman! \"Jadi, aku datang ke dunia yang berbeda.\" Pria itu berdiri sendirian di gunung yang penuh dengan tanaman dan makhluk yang tidak pernah dikenal atau dilihatnya sebelumnya. Dia turun gunung dengan menghindari pertemuan dengan lendir besar (dan bandit), dan ditangkap sebagai orang yang mencurigakan di kastil yang dia capai. Dalam interogasi, ksatria wanita Ilius bertemu di tempat yang dipenjara, ketika berbicara tentang bandit yang terlihat di gunung, Irias, yang terjebak dalam pencarian bandit tersebut, buru-buru memukul bandit. Keinginan saya untuk menjadi pria pemberani, atau membangun harem? \"Aku hanya ingin hidup di tempat yang aman\" - sebuah kisah bahwa orang seperti itu selamat dari dunia yang berbeda dengan \"Memahami\" sebagai senjata!",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0zMy8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0zMi8=",
-      "date": "12 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0zMS8=",
-      "date": "19 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0zMC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0yOS8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0yOC8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0yNy8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Isekai Demo Bunan ni Ikitai Shoukougun Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlbW8tYnVuYW4tbmktaWtpdGFpLXNob3Vrb3VndW4tY2hhcHRlci0yNi8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "25",
@@ -285,5 +291,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 44
+  "total_chapters": 45
 }
