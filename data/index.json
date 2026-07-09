@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T18:38:06.350094",
-  "total_comics": 1852,
+  "last_updated": "2026-07-09T20:31:57.081647",
+  "total_comics": 1853,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 531
+      "total_chapters": 534
     },
     {
       "slug": "marriagetoxin",
@@ -3728,7 +3728,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 80
+      "total_chapters": 83
     },
     {
       "slug": "get-some-honey-by-copying-skills",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 111
+      "total_chapters": 112
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -4312,7 +4312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 263
+      "total_chapters": 268
     },
     {
       "slug": "how-to-live-as-the-vampire-lord-crimson-reset",
@@ -4864,7 +4864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 115
+      "total_chapters": 118
     },
     {
       "slug": "584967-genius-grandson-of-the-loan-shark-king",
@@ -5136,7 +5136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 51
     },
     {
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
@@ -5256,7 +5256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 41
     },
     {
       "slug": "defense-breaker",
@@ -9168,7 +9168,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "400437-hachinan-tte-sore-wa-nai-deshou",
@@ -10128,7 +10128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "milimos-saga-the-story-of-the-reincarnation-of-the-youngest-brother-prince",
@@ -12552,7 +12552,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "villain-at-work-is-crushing-the-boss-my-kpi",
@@ -13480,7 +13480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 127
+      "total_chapters": 128
     },
     {
       "slug": "mamono-mandragora-tte-baretara-toubatsu-desu-ka",
@@ -13776,7 +13776,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "kouryakuhon-o-kushi-suru-saikyou-no-mahoutsukai-meirei-sa-sero-to-wa-iwa-senai-oreryuu-mao-tobatsu-saizen-ruuto",
@@ -14817,6 +14817,14 @@
       "status": "Berjalan",
       "rating": 7.87,
       "total_chapters": 44
+    },
+    {
+      "slug": "the-ruler-of-darkness",
+      "title": "The Ruler Of Darkness",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-05T23:54:22.512040",
+  "scraped_at": "2026-07-09T20:27:06.161283",
   "alternative_titles": "The Absolute Being's Modern Life, The Absolute's Modern Life, 절대자의 현대생활",
   "status": "Berjalan",
   "author": "Go Du-Yeol, Jeon Myeong-Woo",
@@ -18,40 +18,46 @@
   "synopsis": "Manhwa                    The Modern Life of the Absolute yang dibuat oleh komikus bernama\n                    Go Du-Yeol, Jeon Myeong-Woo ini bercerita tentang\n                    Pemburu Choi Kang-ho, yang dikenal sebagai salah satu dari \"Lima Pahlawan,\" kehilangan pasangannya yang berharga di akhir Perang Besar. Yang tertinggal di tempat pasangannya adalah sebuah telur. Dia diam-diam menghilang dari pandangan publik, merawat telur itu dengan penuh kasih sayang. Tepat 30 tahun kemudian, pada tengah malam tanggal 1 Januari, \"Seol-a\" lahir dari telur itu. Dengan munculnya tanda-tanda buruk sekali lagi, penguasa mutlak Cheorwon muncul dari pengasingannya yang panjang untuk memulai kehidupan di dunia modern — baik untuk melindungi perdamaian maupun untuk membesarkan Seol-a.",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik The Modern Life of the Absolute Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTI5Lw==",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik The Modern Life of the Absolute Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTI4Lw==",
-      "date": "36 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Modern Life of the Absolute Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTI3Lw==",
-      "date": "36 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Modern Life of the Absolute Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTI2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Modern Life of the Absolute Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTI1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Modern Life of the Absolute Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTI0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Modern Life of the Absolute Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -63,7 +69,7 @@
       "chapter": "21",
       "title": "Komik The Modern Life of the Absolute Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1vZGVybi1saWZlLW9mLXRoZS1hYnNvbHV0ZS1jaGFwdGVyLTIxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -186,5 +192,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }
