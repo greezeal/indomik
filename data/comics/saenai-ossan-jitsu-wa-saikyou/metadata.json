@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-30T01:36:39.232661",
+  "scraped_at": "2026-07-10T16:13:03.965665",
   "alternative_titles": "冴えないおっさん、実は最強",
   "status": "Berjalan",
   "author": "Sky Farm",
@@ -25,23 +25,29 @@
   "synopsis": "Manga                    Saenai Ossan, Jitsu wa Saikyou yang dibuat oleh komikus bernama\n                    Sky Farm ini bercerita tentang\n                    Satsuki, putri dari mantan rekan Renji, muncul di hadapannya, yang menjalani kehidupan sehari-hari yang berantakan. \"Ajari aku cara menaklukkan Dungeon.\" Saat ini, streaming Dungeon telah menjadi tren di kalangan anak muda. Satsuki, seorang siswi SMA, tidak terkecuali. Renji pernah menjadi penakluk terkuat di negeri ini, tetapi sepuluh tahun telah berlalu, dan dia telah sepenuhnya dilupakan oleh masyarakat, sekarang hanya seorang lelaki tua yang membosankan. Dungeon, setelah sekian lama―― Sambil berpikir demikian, dia tidak bisa begitu saja mengabaikannya dan akhirnya terjun ke dalam sebuah Dungeon... Lelaki tua membosankan yang hanya kuat sepuluh tahun yang lalu ternyata menjadi yang terkuat bahkan hingga hari ini! Seorang lelaki tua membosankan yang tiba-tiba muncul dan ketinggalan zaman menimbulkan kehebohan di dunia streaming Dungeon!!",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Saenai Ossan, Jitsu wa Saikyou Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FlbmFpLW9zc2FuLWppdHN1LXdhLXNhaWt5b3UtY2hhcHRlci00Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Saenai Ossan, Jitsu wa Saikyou Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FlbmFpLW9zc2FuLWppdHN1LXdhLXNhaWt5b3UtY2hhcHRlci0zLw==",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Saenai Ossan, Jitsu wa Saikyou Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FlbmFpLW9zc2FuLWppdHN1LXdhLXNhaWt5b3UtY2hhcHRlci0yLw==",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Saenai Ossan, Jitsu wa Saikyou Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FlbmFpLW9zc2FuLWppdHN1LXdhLXNhaWt5b3UtY2hhcHRlci0xLw==",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-30T01:36:44.173870",
+  "scraped_at": "2026-07-10T16:09:38.446869",
   "alternative_titles": "聖剣ちゃんはこじらせている, Seiken-chan Is Complicated, Seiken-chan yang Rumit",
   "status": "Berjalan",
   "author": "Tsumikidou",
@@ -24,11 +24,17 @@
   "synopsis": "Manga                    Seiken-chan wa Kojirasete Iru yang dibuat oleh komikus bernama\n                    Tsumikidou ini bercerita tentang\n                    Petualang malas bernama Alba sedang mencari harta karun untuk menjalani hidup yang mudah. ​​Secara kebetulan, ia menemukan pedang suci legendaris yang dihuni oleh roh pedang suci yang pemarah dan bengkok. Ini adalah fantasi komedi romantis dan pertempuran yang dikisahkan oleh seorang petualang malas dan pedang suci yang tsundere.",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Seiken-chan wa Kojirasete Iru Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vpa2VuLWNoYW4td2Eta29qaXJhc2V0ZS1pcnUtY2hhcHRlci0yLw==",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Seiken-chan wa Kojirasete Iru Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vpa2VuLWNoYW4td2Eta29qaXJhc2V0ZS1pcnUtY2hhcHRlci0xLw==",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }
