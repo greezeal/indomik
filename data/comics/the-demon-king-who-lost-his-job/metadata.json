@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.02,
-  "scraped_at": "2026-07-10T08:48:36.349697",
+  "scraped_at": "2026-07-10T23:28:46.562141",
   "alternative_titles": "Jobless Demon King, 失业魔王",
   "status": "Berjalan",
   "author": "Ye Wu",
@@ -23,10 +23,16 @@
   "synopsis": "Manhua                    The Demon King Who Lost His Job yang dibuat oleh komikus bernama\n                    Ye Wu ini bercerita tentang\n                    Dia adalah Raja Iblis yang dimakzulkan. Dia adalah pahlawan pemberani yang di-PHK karena ekspedisi yang gagal. Terikat oleh takdir, keduanya memulai petualangan untuk melunasi hutang mereka.",
   "chapters": [
     {
+      "chapter": "468",
+      "title": "Komik The Demon King Who Lost His Job Chapter 468",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ2OC8=",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "467",
       "title": "Komik The Demon King Who Lost His Job Chapter 467",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ2Ny8=",
-      "date": "14 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "466",
@@ -74,7 +80,7 @@
       "chapter": "459",
       "title": "Komik The Demon King Who Lost His Job Chapter 459",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmctd2hvLWxvc3QtaGlzLWpvYi1jaGFwdGVyLTQ1OS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "458",
@@ -2825,5 +2831,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 467
+  "total_chapters": 468
 }

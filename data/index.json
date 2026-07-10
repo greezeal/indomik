@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T22:13:01.453473",
-  "total_comics": 1860,
+  "last_updated": "2026-07-10T23:32:56.155271",
+  "total_comics": 1862,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -40,7 +40,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.28,
-      "total_chapters": 273
+      "total_chapters": 274
     },
     {
       "slug": "50kg-cinderella",
@@ -360,7 +360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "archmage-curriculum",
@@ -1968,7 +1968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.5,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "versatile-sword-cultivator",
@@ -2680,7 +2680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 38
+      "total_chapters": 40
     },
     {
       "slug": "the-youngest-hides-way-too-much",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1164
+      "total_chapters": 1165
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -4376,7 +4376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.59,
-      "total_chapters": 329
+      "total_chapters": 331
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -4400,7 +4400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "one-piece-id",
@@ -5864,7 +5864,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "sowing-shadows-harvesting-eternity-im-a-farmer-who-raises-the-undead",
@@ -6824,7 +6824,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.41,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "adachi-to-shimamura-yuzuhara-moke",
@@ -7328,7 +7328,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 467
+      "total_chapters": 468
     },
     {
       "slug": "322250-juujika-no-rokunin",
@@ -8584,7 +8584,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "teisou-gyakuten-sekai-nara-moteru-to-omotte-itara",
@@ -9216,7 +9216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 83
+      "total_chapters": 85
     },
     {
       "slug": "ai-da-toka-fukushuu-da-toka",
@@ -10024,7 +10024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 107
+      "total_chapters": 108
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 363
+      "total_chapters": 364
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12960,7 +12960,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "the-strongest-villainess",
@@ -13488,7 +13488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "615766-blinded-by-the-setting-sun",
@@ -13880,7 +13880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 169
+      "total_chapters": 171
     },
     {
       "slug": "green-skin",
@@ -14488,7 +14488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 22
     },
     {
       "slug": "646272-steel-eating-player",
@@ -14881,6 +14881,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 38
+    },
+    {
+      "slug": "695301-my-desire-is-not-a-sin",
+      "title": "My Desire Is Not a Sin",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 56
+    },
+    {
+      "slug": "murims-debt-king",
+      "title": "Murim’s Debt King",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
     }
   ]
 }
