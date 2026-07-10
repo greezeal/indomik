@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.01,
-  "scraped_at": "2026-07-07T07:54:42.848081",
+  "scraped_at": "2026-07-10T18:08:44.271614",
   "alternative_titles": "Skull Dragon's Precious Daughter, 骨ドラゴンのマナ娘",
   "status": "Berjalan",
   "author": "Yukishiro Ichi",
@@ -25,16 +25,28 @@
   "synopsis": "Manga                    Hone Dragon no Mana Musume yang dibuat oleh komikus bernama\n                    Yukishiro Ichi ini bercerita tentang\n                    Hutan tempat sampah tempat segala sesuatu dibuang. Eve, seorang gadis muda yang dijatuhkan di sana, dijemput dan dibesarkan oleh seekor naga tua yang hampir mati. Di bawah perlindungan seekor naga tua bernama Nem, Hawa tumbuh sehat, tetapi hari-hari yang damai adalah momen perpisahan yang menyedihkan. Namun, Eve mengambil tindakan yang mengejutkan…? Naga tua dan seorang gadis, fantasi membesarkan orang tua dan anak-anak di luar spesies!",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Hone Dragon no Mana Musume Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uZS1kcmFnb24tbm8tbWFuYS1tdXN1bWUtY2hhcHRlci0zNy8=",
+      "date": "47 menit yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Hone Dragon no Mana Musume Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uZS1kcmFnb24tbm8tbWFuYS1tdXN1bWUtY2hhcHRlci0zNi8=",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "35",
       "title": "Komik Hone Dragon no Mana Musume Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uZS1kcmFnb24tbm8tbWFuYS1tdXN1bWUtY2hhcHRlci0zNS8=",
-      "date": "13 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Hone Dragon no Mana Musume Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uZS1kcmFnb24tbm8tbWFuYS1tdXN1bWUtY2hhcHRlci0zNC8=",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "33",
@@ -46,7 +58,7 @@
       "chapter": "32",
       "title": "Komik Hone Dragon no Mana Musume Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uZS1kcmFnb24tbm8tbWFuYS1tdXN1bWUtY2hhcHRlci0zMi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "31.3",
@@ -295,5 +307,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 45
+  "total_chapters": 47
 }

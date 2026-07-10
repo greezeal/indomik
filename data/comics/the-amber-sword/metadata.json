@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-06-27T11:43:22.677610",
+  "scraped_at": "2026-07-10T18:03:19.047346",
   "alternative_titles": "Amber Sword, Heros of Amber, Hổ Phách Chi Kiếm, 琥珀之劍",
   "status": "Berjalan",
   "author": "Fei Yan",
@@ -19,41 +19,53 @@
   "synopsis": "Manhua                    The Amber Sword yang dibuat oleh komikus bernama\n                    Fei Yan ini bercerita tentang\n                    Seorang pemain RPG yang telah memainkan VRMMORPG realistis 'The Amber Sword' selama bertahun-tahun, mendapati dirinya diteleportasi ke dunia paralel yang sangat mirip dengan game tersebut. Dia mengambil alih tubuh seorang NPC yang ditakdirkan untuk mati, dan dengan perasaan NPC yang sekarat serta peristiwa-peristiwa yang memilukan dalam game tersebut, dia bertekad untuk mengubah nasib sebuah kerajaan yang ditakdirkan untuk mengalami tragedi.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik The Amber Sword Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItOC8=",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik The Amber Sword Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItNy8=",
+      "date": "6 hari yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik The Amber Sword Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItNi8=",
-      "date": "21 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik The Amber Sword Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Amber Sword Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Amber Sword Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Amber Sword Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Amber Sword Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 8
 }
