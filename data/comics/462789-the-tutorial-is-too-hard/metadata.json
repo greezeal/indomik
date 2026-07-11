@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.28,
-  "scraped_at": "2026-07-10T23:29:58.088907",
+  "scraped_at": "2026-07-11T19:40:01.308366",
   "alternative_titles": "Tutorial Neomu Eolyeobda, 튜토리얼이 너무 어렵다",
   "status": "Berjalan",
   "author": "Gandara",
@@ -24,10 +24,16 @@
   "synopsis": "Manhwa                    The Tutorial is Too Hard yang dibuat oleh komikus bernama\n                    Gandara ini bercerita tentang\n                    Novel fantasi fusi Gandara, 'The Tutorial is Too Hard', sekarang hadir sebagai webtoon.\r\n\r\nSuatu hari, di tengah kehidupan yang membosankan, sebuah pesan undangan muncul di depan mata saya. [Apakah Anda ingin memasuki dunia tutorial?]\r\n\r\nSetelah itu adalah jendela pemilihan kesulitan. [Mudah] [Normal] [Sulit] [Neraka]. Saya memilih neraka-kesulitan tanpa ragu-ragu.\r\n\r\nDan saya menyesalinya.\r\n\r\nAku tahu itu mengatakan kesulitan, tapi ini terlalu berlebihan.",
   "chapters": [
     {
+      "chapter": "274",
+      "title": "Komik The Tutorial is Too Hard Chapter 274",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjc0Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "273",
       "title": "Komik The Tutorial is Too Hard Chapter 273",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjczLw==",
-      "date": "26 menit yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "272",
@@ -63,7 +69,7 @@
       "chapter": "267",
       "title": "Komik The Tutorial is Too Hard Chapter 267",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMjY3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "266",
@@ -525,7 +531,7 @@
       "chapter": "190",
       "title": "Komik The Tutorial is Too Hard Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXR1dG9yaWFsLWlzLXRvby1oYXJkLWNoYXB0ZXItMTkwLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "189",
@@ -1668,5 +1674,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 274
+  "total_chapters": 275
 }

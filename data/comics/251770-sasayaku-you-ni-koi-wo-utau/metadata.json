@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.88,
-  "scraped_at": "2026-06-14T06:29:12.553678",
+  "scraped_at": "2026-07-11T19:37:59.753523",
   "alternative_titles": "Membisikan Lagu Cinta, Sasakoi, Whispering You a Love Song, Susurrándote Una Canción de Amor, Susurrame Una Canción de Amor, Whisper Me a Love Song, Прошепчу тебе песню о любви, ささやくように恋を唄う",
   "status": "Berjalan",
   "author": "Takeshima Eku",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Sasayaku you ni koi wo utau yang dibuat oleh komikus bernama\n                    Takeshima Eku ini bercerita tentang\n                    Himari adalah seorang siswa sekolah menengah pertama yang pada hari pertama menghadiri pertunjukan klub musik ringan di gym sekolah, jatuh cinta pada kakak kelas dan penyanyi Yori pada pandangan pertama, mengakuinya di loker sepatu. Kemudian mencari kakak kelas tersebut, Himari mengetahui bahwa Yori bukan bagian dari klub dan dia malah suka bermain musik sendirian di atap. Di sana, dia mengetahui bahwa Yori juga jatuh cinta padanya.",
   "chapters": [
     {
+      "chapter": "63",
+      "title": "Komik Sasayaku you ni koi wo utau Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNjMv",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "62.5",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 62.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNjItNS8=",
-      "date": "28 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNjIv",
-      "date": "1 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNjEv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNjAv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "59",
@@ -56,19 +62,19 @@
       "chapter": "58",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNTgv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNTcv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItNTYv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -188,7 +194,7 @@
       "chapter": "37",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItMzcv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "36",
@@ -242,7 +248,7 @@
       "chapter": "28",
       "title": "Komik Sasayaku you ni koi wo utau Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FzYXlha3UteW91LW5pLWtvaS13by11dGF1LWNoYXB0ZXItMjgv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "27",
@@ -407,5 +413,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 65
 }

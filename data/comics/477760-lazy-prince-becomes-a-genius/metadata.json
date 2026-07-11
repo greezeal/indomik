@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-05T01:23:22.007117",
+  "scraped_at": "2026-07-11T19:38:44.020829",
   "alternative_titles": "Reformation of the Deadbeat Noble, 나태 공자, 노력 천재 되다",
   "status": "Berjalan",
   "author": "doip, Lee Deung Byeol",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    Lazy Prince Becomes a Genius yang dibuat oleh komikus bernama\n                    doip, Lee Deung Byeol ini bercerita tentang\n                    Irene Pareyra, pangeran pemalas yang tidak diharapkan siapa pun.",
   "chapters": [
     {
+      "chapter": "150",
+      "title": "Komik Lazy Prince Becomes a Genius Chapter 150",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE1MC8=",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "149",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 149",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE0OS8=",
-      "date": "7 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "148",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 148",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE0OC8=",
-      "date": "5 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "147",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE0Ny8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "146",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE0Ni8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "145",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 145",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTE0NS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "144",
@@ -130,7 +136,7 @@
       "chapter": "131",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 131",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTEzMS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "130",
@@ -280,7 +286,7 @@
       "chapter": "106",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTEwNi8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "105",
@@ -442,7 +448,7 @@
       "chapter": "79",
       "title": "Komik Lazy Prince Becomes a Genius Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGF6eS1wcmluY2UtYmVjb21lcy1hLWdlbml1cy1jaGFwdGVyLTc5Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "78",
@@ -925,5 +931,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 151
+  "total_chapters": 152
 }
