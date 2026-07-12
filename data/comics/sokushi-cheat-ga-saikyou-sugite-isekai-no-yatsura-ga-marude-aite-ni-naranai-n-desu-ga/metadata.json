@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.52,
-  "scraped_at": "2026-07-10T16:08:20.517349",
+  "scraped_at": "2026-07-12T19:37:50.803223",
   "alternative_titles": "Ani Ölüm Gücü, Instant Death, Isekai Death Cheat, My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against, The Other World Doesn't Stand a Chance Against the Power of Instant Death, 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。, 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。－ΑΩ－",
   "status": "Berjalan",
   "author": "Tsuyoshi Fujitaka",
@@ -27,16 +27,28 @@
   "synopsis": "Manga                    Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga yang dibuat oleh komikus bernama\n                    Tsuyoshi Fujitaka ini bercerita tentang\n                    Kecurangan pertumbuhan? Kekuatan sihir tak terbatas? Kemampuan untuk memanfaatkan semua arketipe? Apa gunanya jika kematian instan mengakhiri segalanya dengan satu serangan?\r\n\r\nSMA Yogiri Takatou sedang dalam perjalanan sekolah ketika dia terbangun oleh seekor naga yang menyerang bus tamasya, dengan satu-satunya yang masih di dalam bus adalah dia dan teman sekelas perempuannya, Tomochika Dannoura yang panik. Rupanya teman sekelasnya yang lain telah diberi kekuatan khusus oleh Sion, seorang wanita yang memperkenalkan dirinya sebagai Sage, dan melarikan diri dari naga, meninggalkan mereka yang belum menerima kekuatan khusus sebagai umpan naga.\r\n\r\nMaka Yogiri terlempar ke alam semesta paralel yang penuh bahaya, tanpa tahu apa yang baru saja terjadi. Demikian pula, Sion tidak memiliki cara untuk mengetahui makhluk macam apa yang telah dia panggil ke dunianya.",
   "chapters": [
     {
+      "chapter": "53",
+      "title": "Komik Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29rdXNoaS1jaGVhdC1nYS1zYWlreW91LXN1Z2l0ZS1pc2VrYWktbm8teWF0c3VyYS1nYS1tYXJ1ZGUtYWl0ZS1uaS1uYXJhbmFpLW4tZGVzdS1nYS1jaGFwdGVyLTUzLw==",
+      "date": "19 menit yang lalu"
+    },
+    {
+      "chapter": "52",
+      "title": "Komik Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29rdXNoaS1jaGVhdC1nYS1zYWlreW91LXN1Z2l0ZS1pc2VrYWktbm8teWF0c3VyYS1nYS1tYXJ1ZGUtYWl0ZS1uaS1uYXJhbmFpLW4tZGVzdS1nYS1jaGFwdGVyLTUyLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "51",
       "title": "Komik Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29rdXNoaS1jaGVhdC1nYS1zYWlreW91LXN1Z2l0ZS1pc2VrYWktbm8teWF0c3VyYS1nYS1tYXJ1ZGUtYWl0ZS1uaS1uYXJhbmFpLW4tZGVzdS1nYS1jaGFwdGVyLTUxLw==",
-      "date": "9 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29rdXNoaS1jaGVhdC1nYS1zYWlreW91LXN1Z2l0ZS1pc2VrYWktbm8teWF0c3VyYS1nYS1tYXJ1ZGUtYWl0ZS1uaS1uYXJhbmFpLW4tZGVzdS1nYS1jaGFwdGVyLTUwLw==",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "49",
@@ -333,5 +345,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 51
+  "total_chapters": 53
 }
