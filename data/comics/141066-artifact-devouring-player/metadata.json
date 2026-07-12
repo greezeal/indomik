@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-12T01:14:15.217647",
+  "scraped_at": "2026-07-12T15:07:50.172074",
   "alternative_titles": "아티팩트 먹는 플레이어",
   "status": "Berjalan",
   "author": "Giin, Venti",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Artifact-Devouring Player yang dibuat oleh komikus bernama\n                    Giin, Venti ini bercerita tentang\n                    Metodeku untuk menjadi lebih kuat sangat sederhana—makan.\r\n\r\nAku hanya perlu makan artefak.\r\n\r\nAku sudah mengalami kemunduran, jadi aku bisa makan sebanyak yang aku mau sekarang, kan?",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Artifact-Devouring Player Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTQ5Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Artifact-Devouring Player Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJ0aWZhY3QtZGV2b3VyaW5nLXBsYXllci1jaGFwdGVyLTQ4Lw==",
-      "date": "20 menit yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "47",
@@ -307,5 +313,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 49
 }
