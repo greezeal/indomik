@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-10T08:51:08.266067",
+  "scraped_at": "2026-07-13T19:57:01.639772",
   "alternative_titles": "요리사가 되고 싶은 천마님",
   "status": "Berjalan",
   "author": "Jeomdori",
@@ -24,22 +24,28 @@
   "synopsis": "Manhwa                    Heavenly Demon Wants to Be A Chef yang dibuat oleh komikus bernama\n                    Jeomdori ini bercerita tentang\n                    Woojin menyadari kehidupan masa lalunya melalui insiden Monster Gate.\r\nDia adalah… Heavenly Demon yang menaklukan Dataran Tengah!\r\nBahkan ketika dia adalah Heavenly Demon, dia memiliki mimpi yang tidak dapat dia capai…\r\nDia pasti akan mencapainya kali ini.\r\n\r\nImpiannya adalah menjadi chef!",
   "chapters": [
     {
+      "chapter": "82",
+      "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItODIv",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "81",
       "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItODEv",
-      "date": "13 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItODAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItNzkv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "78",
@@ -51,13 +57,13 @@
       "chapter": "77",
       "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItNzcv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItNzYv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "75",
@@ -267,13 +273,13 @@
       "chapter": "41",
       "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItNDEv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Heavenly Demon Wants to Be A Chef Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZGVtb24td2FudHMtdG8tYmUtYS1jaGVmLWNoYXB0ZXItNDAv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "39",
@@ -510,5 +516,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 81
+  "total_chapters": 82
 }

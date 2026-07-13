@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-09T18:36:47.744878",
+  "scraped_at": "2026-07-13T19:57:46.433623",
   "alternative_titles": "Small Worlds, Endless Fun, 小世界其乐无穷",
   "status": "Berjalan",
   "author": "",
@@ -22,40 +22,52 @@
   "synopsis": "Manhua                    A Small World Full Of Fun yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    Makhluk-makhluk luar biasa menghancurkan kesunyian dunia, dan sejak saat itu pohon teknologi menyimpang dari jalurnya. Sementara umat manusia meraba-raba dalam kegelapan mencari jalan menuju evolusi, aku merobek tulang rusukku, membakar hatiku, dan menghabiskan malam-malam tanpa tidur untuk menjadi garda terdepan mereka. Inilah perjalanan seperti permainan seorang pemain yang mempermainkan seluruh dunia. Di dunia-dunia kecil ini, kesenangan benar-benar tidak pernah berakhir.",
   "chapters": [
     {
+      "chapter": "35",
+      "title": "Komik A Small World Full Of Fun Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTM1Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik A Small World Full Of Fun Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTM0Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "33",
       "title": "Komik A Small World Full Of Fun Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTMzLw==",
-      "date": "59 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik A Small World Full Of Fun Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTMyLw==",
-      "date": "1 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik A Small World Full Of Fun Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTMxLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik A Small World Full Of Fun Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTMwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik A Small World Full Of Fun Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI5Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik A Small World Full Of Fun Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTI4Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "27",
@@ -85,19 +97,19 @@
       "chapter": "23",
       "title": "Komik A Small World Full Of Fun Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTIzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik A Small World Full Of Fun Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTIyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik A Small World Full Of Fun Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zbWFsbC13b3JsZC1mdWxsLW9mLWZ1bi1jaGFwdGVyLTIxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -220,5 +232,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 35
 }

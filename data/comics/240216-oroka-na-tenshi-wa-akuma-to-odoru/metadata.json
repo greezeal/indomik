@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.62,
-  "scraped_at": "2026-07-10T16:06:27.464024",
+  "scraped_at": "2026-07-13T20:03:27.146194",
   "alternative_titles": "Stupid Angel Dances with the Devil, The Foolish Angel Dances with Demons, Неразумный ангел в пляске с демонами | Неразумный ангел в танце с демоном, 愚かな天使は悪魔と踊る, 愚蠢天使与恶魔共舞, 어리석은 천사는 악마와 춤춘다",
   "status": "Berjalan",
   "author": "Azuma Sawayoshi",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Oroka na Tenshi wa Akuma to Odoru yang dibuat oleh komikus bernama\n                    Azuma Sawayoshi ini bercerita tentang\n                    Masatora Akutsu baru saja pindah ke kelas di Jepang dari jauh - jauh-jauh dari Neraka, tepatnya. Akutsu adalah iblis yang datang ke Bumi untuk menemukan seseorang yang dapat memotivasi kekuatan Neraka untuk melawan pasukan Surgawi yang menyerang. Dia segera mengarahkan pandangannya pada salah satu teman sekelasnya, Lily Amane yang baik dan cantik, tetapi berakhir di atas kepalanya ketika ternyata Lily memiliki beberapa rahasia sendiri!",
   "chapters": [
     {
+      "chapter": "111",
+      "title": "Komik Oroka na Tenshi wa Akuma to Odoru Chapter 111",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Jva2EtbmEtdGVuc2hpLXdhLWFrdW1hLXRvLW9kb3J1LWNoYXB0ZXItMTExLw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "110",
       "title": "Komik Oroka na Tenshi wa Akuma to Odoru Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Jva2EtbmEtdGVuc2hpLXdhLWFrdW1hLXRvLW9kb3J1LWNoYXB0ZXItMTEwLw==",
-      "date": "4 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "109",
@@ -52,7 +58,7 @@
       "chapter": "106",
       "title": "Komik Oroka na Tenshi wa Akuma to Odoru Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Jva2EtbmEtdGVuc2hpLXdhLWFrdW1hLXRvLW9kb3J1LWNoYXB0ZXItMTA2Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "105",
@@ -88,7 +94,7 @@
       "chapter": "100",
       "title": "Komik Oroka na Tenshi wa Akuma to Odoru Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Jva2EtbmEtdGVuc2hpLXdhLWFrdW1hLXRvLW9kb3J1LWNoYXB0ZXItMTAwLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "99",
@@ -220,7 +226,7 @@
       "chapter": "78",
       "title": "Komik Oroka na Tenshi wa Akuma to Odoru Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Jva2EtbmEtdGVuc2hpLXdhLWFrdW1hLXRvLW9kb3J1LWNoYXB0ZXItNzgv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "77",
@@ -727,5 +733,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 117
+  "total_chapters": 118
 }

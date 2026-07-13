@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.87,
-  "scraped_at": "2026-07-05T12:08:54.421794",
+  "scraped_at": "2026-07-13T20:01:23.621951",
   "alternative_titles": "うしろの席のぎゃるに好かれてしまった。　もう俺はダメかもしれない。, The Gal Sitting Behind Me Likes Me.: Maybe I'm Screwed Already., The gal is sitting behind me, and loves me.",
   "status": "Berjalan",
   "author": "KOHARU Michinoku",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Ushiro no Seki no Gal ni Sukarete Shimatta. yang dibuat oleh komikus bernama\n                    KOHARU Michinoku ini bercerita tentang\n                    Kehidupan sekolahku berubah drastis hanya karena dia menyukaiku sehingga aku jarang berbicara dengannya?!\r\n\r\nYuzaki Shino, salah satu gadis tercantik di sekolah adalah teman sekelas Fujiwara Sandai yang duduk di belakangnya. Hanya karena kemauan Sandai membantunya meskipun menghabiskan hari-harinya dengan belajar dan tidak memiliki satu teman pun. Seharusnya itu―\r\n\r\n\"Aku tidak sabar menunggu sepulang sekolah! ....Hei, tunggu sebentar?\"\r\n\r\nHari dan momen itu membuat Sandai mulai berkencan dengan Shino. Mereka menghabiskan waktu bersama sepulang sekolah, saling melakukan hobi masing-masing, dan sering menginap.... Dia baik hati dan selalu menempel padanya. Dan entah kenapa, teman-teman sekelasnya mulai memperhatikan Sandai, perlahan-lahan mereka mengubah penampilan gayanya, dan banyak perbincangan seputar dirinya. Dia lebih gelisah dibandingkan saat Sandai sendirian sebelumnya. ....Yah, kehidupan sekolah seperti ini tidak terlalu buruk, bukan?",
   "chapters": [
     {
+      "chapter": "27.5",
+      "title": "Komik Ushiro no Seki no Gal ni Sukarete Shimatta. Chapter 27.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNoaXJvLW5vLXNla2ktbm8tZ2FsLW5pLXN1a2FyZXRlLXNoaW1hdHRhLWNoYXB0ZXItMjctNS8=",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik Ushiro no Seki no Gal ni Sukarete Shimatta. Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNoaXJvLW5vLXNla2ktbm8tZ2FsLW5pLXN1a2FyZXRlLXNoaW1hdHRhLWNoYXB0ZXItMjcv",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Ushiro no Seki no Gal ni Sukarete Shimatta. Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNoaXJvLW5vLXNla2ktbm8tZ2FsLW5pLXN1a2FyZXRlLXNoaW1hdHRhLWNoYXB0ZXItMjYv",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "25",
@@ -87,7 +93,7 @@
       "chapter": "17",
       "title": "Komik Ushiro no Seki no Gal ni Sukarete Shimatta. Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNoaXJvLW5vLXNla2ktbm8tZ2FsLW5pLXN1a2FyZXRlLXNoaW1hdHRhLWNoYXB0ZXItMTcv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "16",
@@ -192,5 +198,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }

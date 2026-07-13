@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T18:18:42.068078",
-  "total_comics": 1867,
+  "last_updated": "2026-07-13T20:03:29.828294",
+  "total_comics": 1868,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -240,7 +240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 98
+      "total_chapters": 99
     },
     {
       "slug": "remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta",
@@ -1256,7 +1256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.5,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "overlord-of-sichuan",
@@ -1272,7 +1272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 238
+      "total_chapters": 240
     },
     {
       "slug": "397466-the-last-adventurer",
@@ -1630,9 +1630,9 @@
       "slug": "9th-class-sword-master",
       "title": "9th Class Sword Master",
       "type": "Manhwa",
-      "status": "",
+      "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 0
+      "total_chapters": 42
     },
     {
       "slug": "a-0-0000001-demon-king",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 340
+      "total_chapters": 343
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1167
+      "total_chapters": 1168
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -4048,7 +4048,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 285
+      "total_chapters": 288
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4400,7 +4400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "one-piece-id",
@@ -4752,7 +4752,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 113
+      "total_chapters": 115
     },
     {
       "slug": "unrivaled-spear-demon",
@@ -4904,7 +4904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.91,
-      "total_chapters": 109
+      "total_chapters": 110
     },
     {
       "slug": "i-became-the-rogue-first-prince",
@@ -4984,7 +4984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 91
+      "total_chapters": 94
     },
     {
       "slug": "822659-black-corporation-joseon",
@@ -5056,7 +5056,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.63,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "963068-god-of-blackfield",
@@ -5368,7 +5368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 85
+      "total_chapters": 87
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -5552,7 +5552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "haha-no-ai-wa-mama-naranai",
@@ -6216,7 +6216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.39,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "yuusha-party-o-oida-sareta-kiyou-binbou",
@@ -6336,7 +6336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.14,
-      "total_chapters": 158
+      "total_chapters": 160
     },
     {
       "slug": "807679-the-returned-c-rank-tank-wont-die",
@@ -6872,7 +6872,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 117
+      "total_chapters": 118
     },
     {
       "slug": "immortal-fairy-please-listen-to-my-explanation",
@@ -7096,7 +7096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.87,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "goblin-slayer",
@@ -7496,7 +7496,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "maigo-ni-natteita-youjo-wo-tasuketara-otonari-ni-sumu-bishoujo-ryuugakusei-ga-ie-ni-asobi-ni-kuru-you-ni-natta-ken-nitsuite",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "shamoneyism",
@@ -8280,7 +8280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 52
+      "total_chapters": 54
     },
     {
       "slug": "the-regressor-can-make-them-all",
@@ -8456,7 +8456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 108
+      "total_chapters": 109
     },
     {
       "slug": "535662-im-trapped-in-this-day-for-one-thousand-years",
@@ -8864,7 +8864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.36,
-      "total_chapters": 64
+      "total_chapters": 65
     },
     {
       "slug": "572108-informer",
@@ -10016,7 +10016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "250907-black-killer-whale-baby",
@@ -10696,7 +10696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 105
+      "total_chapters": 106
     },
     {
       "slug": "anata-tachi-soredemo-sensei-desu-ka",
@@ -11128,7 +11128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 51
+      "total_chapters": 59
     },
     {
       "slug": "chittai-ore-no-makikomare-isekai-seikatsu",
@@ -11248,7 +11248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 159
+      "total_chapters": 160
     },
     {
       "slug": "cheolleung-high-school",
@@ -11752,7 +11752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 15
     },
     {
       "slug": "ken-to-mahou-to-ntr",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 366
+      "total_chapters": 367
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12288,7 +12288,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 35
     },
     {
       "slug": "hinekure-ryoushu-no-koufukutan",
@@ -12960,7 +12960,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "the-strongest-villainess",
@@ -13104,7 +13104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 80
+      "total_chapters": 81
     },
     {
       "slug": "kingdom-of-the-z",
@@ -13136,7 +13136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 89
+      "total_chapters": 92
     },
     {
       "slug": "the-corporate-underdog-who-does-everything-right",
@@ -13624,7 +13624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 196
+      "total_chapters": 197
     },
     {
       "slug": "889961-my-daughter-is-the-final-boss",
@@ -13888,7 +13888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "baby-trouble-maker",
@@ -13904,7 +13904,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 82
+      "total_chapters": 83
     },
     {
       "slug": "net-no-oshi-to-real-no-oshi-ga-tonari-ni-hikkoshite-kita",
@@ -14048,7 +14048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.21,
-      "total_chapters": 201
+      "total_chapters": 204
     },
     {
       "slug": "seishun-wa-sankakkei-no-loop",
@@ -14680,7 +14680,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.29,
-      "total_chapters": 40
+      "total_chapters": 43
     },
     {
       "slug": "older-womens-club",
@@ -14816,7 +14816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.87,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "the-ruler-of-darkness",
@@ -14937,6 +14937,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 2
+    },
+    {
+      "slug": "tensei-shita-kuukan-mahoutsukai-wa-shoutai-kakushite-medachitai",
+      "title": "Tensei Shita Kuukan Mahoutsukai wa Shoutai Kakushite Medachitai!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.92,
+      "total_chapters": 9
     }
   ]
 }
