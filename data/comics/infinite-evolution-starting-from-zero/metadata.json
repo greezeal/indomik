@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-12T19:38:51.303516",
+  "scraped_at": "2026-07-14T08:30:23.152798",
   "alternative_titles": "Cong Ling Kaishi Wuxian Jinhua, 从零开始无限进化, Infinite Evolution Starting from Zero",
   "status": "Berjalan",
   "author": "桃乐茜ci",
@@ -25,10 +25,40 @@
   "synopsis": "Manhua                    Infinite Evolution Starting From Zero yang dibuat oleh komikus bernama\n                    桃乐茜ci ini bercerita tentang\n                    Menghabiskan semua limbah dan kemunduran, menembus batas. Bakat bawaan makhluk surgawi, seorang cendekiawan terbaik di puncak. Berbagai wujud, melampaui evolusi. Terlahir kembali, mulai dari nol, evolusi tanpa batas.",
   "chapters": [
     {
+      "chapter": "100",
+      "title": "Komik Infinite Evolution Starting From Zero Chapter 100",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTEwMC8=",
+      "date": "28 menit yang lalu"
+    },
+    {
+      "chapter": "99",
+      "title": "Komik Infinite Evolution Starting From Zero Chapter 99",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTk5Lw==",
+      "date": "29 menit yang lalu"
+    },
+    {
+      "chapter": "98",
+      "title": "Komik Infinite Evolution Starting From Zero Chapter 98",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTk4Lw==",
+      "date": "29 menit yang lalu"
+    },
+    {
+      "chapter": "97",
+      "title": "Komik Infinite Evolution Starting From Zero Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTk3Lw==",
+      "date": "29 menit yang lalu"
+    },
+    {
+      "chapter": "96",
+      "title": "Komik Infinite Evolution Starting From Zero Chapter 96",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTk2Lw==",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "95",
       "title": "Komik Infinite Evolution Starting From Zero Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTk1Lw==",
-      "date": "6 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "94",
@@ -316,7 +346,7 @@
       "chapter": "47",
       "title": "Komik Infinite Evolution Starting From Zero Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTQ3Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -430,7 +460,7 @@
       "chapter": "28",
       "title": "Komik Infinite Evolution Starting From Zero Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTI4Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -502,13 +532,13 @@
       "chapter": "16",
       "title": "Komik Infinite Evolution Starting From Zero Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTE2Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Infinite Evolution Starting From Zero Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5maW5pdGUtZXZvbHV0aW9uLXN0YXJ0aW5nLWZyb20temVyby1jaGFwdGVyLTE1Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -595,5 +625,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 95
+  "total_chapters": 100
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-07T07:53:46.234419",
+  "scraped_at": "2026-07-14T08:30:50.058318",
   "alternative_titles": "Daesahyeong Lee-Hoe, Eldest Senior Lee Hui's Second Chance in Life, The Return of Senior Disciple Lee Hoo, The Return of Senior Disciple Lee Hwi, 대사형 이회",
   "status": "Berjalan",
   "author": "Kang Juyeon (AKEO STUDIO), Yang Gyeong",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    Senior Brother Lee Hoe yang dibuat oleh komikus bernama\n                    Kang Juyeon (AKEO STUDIO), Yang Gyeong ini bercerita tentang\n                    Murid Lee Hui, mulai sekarang aku akan hidup semaunya! Lee Hui yang tidak memiliki bakat dalam bela diri. Dia hidup sebagai pemimpin Sekte Seongui, namun tewas tanpa daya di tangan Sekte Hyeolgyo, lalu kembali ke masa lalu. Namun, meski disebut “Kakak Tertua”, pada kenyataannya dia hanya mengasuh anak, mencuci pakaian, memasak… Lee Hui bertekad untuk hidup berbeda dari kehidupan sebelumnya yang penuh penderitaan. Namun, segalanya berjalan tidak seperti yang dia duga. Katanya aku seorang jenius bela diri? Katanya aku jenius bela diri? Katanya aku jenius luar biasa? Kisah penyelamatan dunia bela diri untuk kehidupan tanpa penyesalan sang protagonis, Lee Hui",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik Senior Brother Lee Hoe Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VuaW9yLWJyb3RoZXItbGVlLWhvZS1jaGFwdGVyLTI5Lw==",
+      "date": "43 menit yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik Senior Brother Lee Hoe Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VuaW9yLWJyb3RoZXItbGVlLWhvZS1jaGFwdGVyLTI4Lw==",
-      "date": "13 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Senior Brother Lee Hoe Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VuaW9yLWJyb3RoZXItbGVlLWhvZS1jaGFwdGVyLTI3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Senior Brother Lee Hoe Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VuaW9yLWJyb3RoZXItbGVlLWhvZS1jaGFwdGVyLTI2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Senior Brother Lee Hoe Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VuaW9yLWJyb3RoZXItbGVlLWhvZS1jaGFwdGVyLTI1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Senior Brother Lee Hoe Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VuaW9yLWJyb3RoZXItbGVlLWhvZS1jaGFwdGVyLTI0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -59,7 +65,7 @@
       "chapter": "22",
       "title": "Komik Senior Brother Lee Hoe Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VuaW9yLWJyb3RoZXItbGVlLWhvZS1jaGFwdGVyLTIyLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -188,5 +194,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }
