@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-08T11:26:14.173820",
+  "scraped_at": "2026-07-15T22:18:41.119889",
   "alternative_titles": "A Talented Player, Talent Management Player, 재능만렙 플레이어",
   "status": "Berjalan",
   "author": "Bi Chu, Hyomak",
@@ -20,22 +20,28 @@
   "synopsis": "Manhwa                    Max Talent Player yang dibuat oleh komikus bernama\n                    Bi Chu, Hyomak ini bercerita tentang\n                    Saya menerima hasil tes.\r\n\r\n[Tak berbakat]\r\n\r\nHari ini, kata “tidak berbakat” muncul di benak saya. Itu salahku, kurangnya usahaku, kurangnya bakatku, atau kedua-duanya, atau bukan kedua-duanya. Apakah salahku hidup seperti ini, atau salah masyarakat?\r\n\r\nSehari berlalu. Saya tidak tahu kenapa, tapi saya kembali ke 10 tahun yang lalu.\r\n\r\n...Ini sangat mudah. Benarkah aku tidak punya bakat?",
   "chapters": [
     {
+      "chapter": "85",
+      "title": "Komik Max Talent Player Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci04NS8=",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "84",
       "title": "Komik Max Talent Player Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci04NC8=",
-      "date": "12 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik Max Talent Player Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci04My8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Max Talent Player Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci04Mi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "81",
@@ -65,31 +71,31 @@
       "chapter": "77",
       "title": "Komik Max Talent Player Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci03Ny8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Max Talent Player Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci03Ni8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Max Talent Player Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci03NS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Max Talent Player Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci03NC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Max Talent Player Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci03My8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "72",
@@ -215,19 +221,19 @@
       "chapter": "52",
       "title": "Komik Max Talent Player Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci01Mi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Max Talent Player Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci01MS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Max Talent Player Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LXRhbGVudC1wbGF5ZXItY2hhcHRlci01MC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "49",
@@ -524,5 +530,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 84
+  "total_chapters": 85
 }

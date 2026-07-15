@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-08T22:50:04.670310",
+  "scraped_at": "2026-07-15T22:19:17.820296",
   "alternative_titles": "Star-Forging Titan, Titán Forjador de Estrellas, กำเนิดไททันจากเตาหลอม, 铸星泰坦",
   "status": "Berjalan",
   "author": "月饼",
@@ -20,40 +20,46 @@
   "synopsis": "Manhua                    Titan Forge yang dibuat oleh komikus bernama\n                    月饼 ini bercerita tentang\n                    Setelah mengalami transmigrasi, tokoh utama Aiven mendapati dirinya terlahir kembali sebagai penjahat masa depan.\r\n\r\nMelalui modifikasi tubuh magis, ia mengubah dirinya menjadi sesuatu yang jauh melampaui manusia, dan terlibat dalam dunia yang mengalami transformasi besar-besaran—dari peradaban pedang dan sihir menjadi era industri magitech.\r\n\r\nKisah ini terungkap di tengah gelombang revolusi uap, peningkatan kekuatan gaib, dan kebangkitan bangsa naga, di mana berbagai peradaban saling berbenturan dan bertabrakan.\r\n\r\nDi balik permukaan, muncul benang-benang gelap—invasi dewa-dewa jahat dan penjelajahan benua baru.\r\n\r\nDunia ini memadukan elemen fantasi perang abad pertengahan dengan mecha super, menghadirkan visi unik di mana teknologi steampunk dan ritual okultisme saling terkait dalam evolusi peradaban.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Titan Forge Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xOS8=",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Titan Forge Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xOC8=",
-      "date": "27 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Titan Forge Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xNy8=",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Titan Forge Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Titan Forge Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xNS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Titan Forge Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xNC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Titan Forge Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -65,7 +71,7 @@
       "chapter": "11",
       "title": "Komik Titan Forge Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci0xMS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -89,7 +95,7 @@
       "chapter": "7",
       "title": "Komik Titan Forge Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGl0YW4tZm9yZ2UtY2hhcHRlci03Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -128,5 +134,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }
