@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.93,
-  "scraped_at": "2026-07-14T11:53:14.637580",
+  "scraped_at": "2026-07-17T12:27:19.218653",
   "alternative_titles": "I Think I'll Hide My True Ability to the Last Moment, Shin no Jitsuryoku wa Girigiri Made Kakushiteiyou to Omou, Я думаю скрывать свои истинные способности до последнего момента, 真の実力はギリギリまで隠していようと思う",
   "status": "Berjalan",
   "author": "Nekoyasha",
@@ -25,10 +25,28 @@
   "synopsis": "Manga                    Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou yang dibuat oleh komikus bernama\n                    Nekoyasha ini bercerita tentang\n                    Dunia di mana kau dapat membuat kontrak dengan dewa dan memperoleh skill. Terlahir sebagai putra ketiga dari keluarga ksatria terkenal, Yuno begitu sibuk mengendalikan kekuatan bawaannya sehingga dia akhirnya disebut sebagai \"tidak kompeten\".\r\nTapi, di akademi ksatria sihir, dia terdaftar karena suatu alasan, dia bertemu dengan dewa yang dipandang rendah sebagai \"tidak kompeten\" seperti dirinya ..\r\nYuno, yang membuat kontrak dengan dewa dan menamainya [Athena], diam-diam memutuskan untuk menjadikannya dewa tertinggi, dan memutuskan untuk menjadi sedikit lebih serius.",
   "chapters": [
     {
+      "chapter": "44",
+      "title": "Komik Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpbi1uby1qaXRzdXJ5b2t1LXdhLWdpcmlnaXJpLW1hZGUta2FrdXNoaXRlLWl5b3UtdG8tb21vdS1jaGFwdGVyLTQ0Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpbi1uby1qaXRzdXJ5b2t1LXdhLWdpcmlnaXJpLW1hZGUta2FrdXNoaXRlLWl5b3UtdG8tb21vdS1jaGFwdGVyLTQzLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpbi1uby1qaXRzdXJ5b2t1LXdhLWdpcmlnaXJpLW1hZGUta2FrdXNoaXRlLWl5b3UtdG8tb21vdS1jaGFwdGVyLTQyLw==",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpbi1uby1qaXRzdXJ5b2t1LXdhLWdpcmlnaXJpLW1hZGUta2FrdXNoaXRlLWl5b3UtdG8tb21vdS1jaGFwdGVyLTQxLw==",
-      "date": "28 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "40",
@@ -277,5 +295,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 45
 }
