@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-11T14:06:37.487699",
+  "scraped_at": "2026-07-17T19:41:30.344209",
   "alternative_titles": "나혼자 탑에서 농사, Farming in the tower alone",
   "status": "Berjalan",
   "author": "Hyung Lim, sdcknight",
@@ -23,34 +23,40 @@
   "synopsis": "Manhwa                    Solo Farming In The Tower yang dibuat oleh komikus bernama\n                    Hyung Lim, sdcknight ini bercerita tentang\n                    Suatu hari, sebuah menara misterius tiba-tiba muncul di kota. Orang-orang memutuskan untuk menyebutnya penjara bawah tanah, dan meskipun penuh dengan medan terjal dan monster berbahaya, itu juga merupakan tanah peluang, tempat harta karun yang tak terhitung jumlahnya menunggu. Ketika Sejun, seorang pemuda yang menjalani kehidupan biasa, diundang ke ruang bawah tanah secara kebetulan, dia sangat senang dengan kemungkinan menjadi kaya, tetapi dia terdampar di area tersembunyi di menara misterius. Yang dia miliki hanyalah beberapa biji dan tubuhnya. Sekarang Sejun harus bertani, mengumpulkan sumber daya, dan memikirkan strategi bertahan hidupnya sendiri!",
   "chapters": [
     {
+      "chapter": "135",
+      "title": "Komik Solo Farming In The Tower Chapter 135",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEzNS8=",
+      "date": "45 menit yang lalu"
+    },
+    {
       "chapter": "134",
       "title": "Komik Solo Farming In The Tower Chapter 134",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEzNC8=",
-      "date": "4 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "133",
       "title": "Komik Solo Farming In The Tower Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEzMy8=",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "132",
       "title": "Komik Solo Farming In The Tower Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEzMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "131",
       "title": "Komik Solo Farming In The Tower Chapter 131",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEzMS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "130",
       "title": "Komik Solo Farming In The Tower Chapter 130",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEzMC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "129",
@@ -86,7 +92,7 @@
       "chapter": "124",
       "title": "Komik Solo Farming In The Tower Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTEyNC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "123",
@@ -116,13 +122,13 @@
       "chapter": "119",
       "title": "Komik Solo Farming In The Tower Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTExOS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik Solo Farming In The Tower Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1mYXJtaW5nLWluLXRoZS10b3dlci1jaGFwdGVyLTExOC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "117",
@@ -827,5 +833,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 134
+  "total_chapters": 135
 }

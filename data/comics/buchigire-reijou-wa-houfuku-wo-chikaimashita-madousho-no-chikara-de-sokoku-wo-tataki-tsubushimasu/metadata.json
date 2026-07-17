@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 0.0,
-  "scraped_at": "2026-07-17T12:24:21.816656",
+  "scraped_at": "2026-07-17T19:40:06.169514",
   "alternative_titles": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～, Buchigire Reijou wa Houfuku o Chikaimashita. ~Madousho no Chikara de Sokoku o Tataki Tsubushimasu~, A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
   "status": "Berjalan",
   "author": "Haguremetabo",
@@ -23,22 +23,34 @@
   "synopsis": "Manga                    Buchigire Reijou wa Houfuku wo Chikaimashita. ~Madousho no Chikara de Sokoku wo Tataki Tsubushimasu~ yang dibuat oleh komikus bernama\n                    Haguremetabo ini bercerita tentang\n                    Lady Elizabeth membatalkan pertunangannya di sebuah pesta oleh putra mahkota, yang hatinya telah berpindah ke wanita bangsawan muda lainnya. Dia kemudian dipenjarakan di penjara bawah tanah karena tuduhan yang tidak adil, dan mengetahui bahwa dia telah dikhianati oleh negara tempat dia mengabdikan segalanya…\r\n\r\nPada puncak frustrasinya, Elizabeth akhirnya memutuskan untuk membelot, dengan grimoire memegang kekuatan tersembunyi dan tangguh di tangan!! Dia memulai kehidupan barunya dan berdagang dengan bantuan Viscount Lucas dari negara tetangga. Dengan hasrat keras untuk membalas dendam terhadap negara asalnya di dalam hatinya.",
   "chapters": [
     {
+      "chapter": "28",
+      "title": "Komik Buchigire Reijou wa Houfuku wo Chikaimashita. ~Madousho no Chikara de Sokoku wo Tataki Tsubushimasu~ Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVjaGlnaXJlLXJlaWpvdS13YS1ob3VmdWt1LXdvLWNoaWthaW1hc2hpdGEtbWFkb3VzaG8tbm8tY2hpa2FyYS1kZS1zb2tva3Utd28tdGF0YWtpLXRzdWJ1c2hpbWFzdS1jaGFwdGVyLTI4Lw==",
+      "date": "32 menit yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Buchigire Reijou wa Houfuku wo Chikaimashita. ~Madousho no Chikara de Sokoku wo Tataki Tsubushimasu~ Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVjaGlnaXJlLXJlaWpvdS13YS1ob3VmdWt1LXdvLWNoaWthaW1hc2hpdGEtbWFkb3VzaG8tbm8tY2hpa2FyYS1kZS1zb2tva3Utd28tdGF0YWtpLXRzdWJ1c2hpbWFzdS1jaGFwdGVyLTI3Lw==",
+      "date": "33 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Buchigire Reijou wa Houfuku wo Chikaimashita. ~Madousho no Chikara de Sokoku wo Tataki Tsubushimasu~ Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVjaGlnaXJlLXJlaWpvdS13YS1ob3VmdWt1LXdvLWNoaWthaW1hc2hpdGEtbWFkb3VzaG8tbm8tY2hpa2FyYS1kZS1zb2tva3Utd28tdGF0YWtpLXRzdWJ1c2hpbWFzdS1jaGFwdGVyLTI2Lw==",
-      "date": "1 jam yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Buchigire Reijou wa Houfuku wo Chikaimashita. ~Madousho no Chikara de Sokoku wo Tataki Tsubushimasu~ Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVjaGlnaXJlLXJlaWpvdS13YS1ob3VmdWt1LXdvLWNoaWthaW1hc2hpdGEtbWFkb3VzaG8tbm8tY2hpa2FyYS1kZS1zb2tva3Utd28tdGF0YWtpLXRzdWJ1c2hpbWFzdS1jaGFwdGVyLTI1Lw==",
-      "date": "1 jam yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Buchigire Reijou wa Houfuku wo Chikaimashita. ~Madousho no Chikara de Sokoku wo Tataki Tsubushimasu~ Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVjaGlnaXJlLXJlaWpvdS13YS1ob3VmdWt1LXdvLWNoaWthaW1hc2hpdGEtbWFkb3VzaG8tbm8tY2hpa2FyYS1kZS1zb2tva3Utd28tdGF0YWtpLXRzdWJ1c2hpbWFzdS1jaGFwdGVyLTI0Lw==",
-      "date": "23 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "23",
@@ -179,5 +191,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 28
 }
