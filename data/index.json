@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T10:02:15.839236",
-  "total_comics": 1874,
+  "last_updated": "2026-07-18T11:26:25.724569",
+  "total_comics": 1878,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -264,7 +264,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "silent-witch-chinmoku-no-majo-no-kakushigoto",
@@ -304,7 +304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 64
+      "total_chapters": 67
     },
     {
       "slug": "the-player-of-the-fallen-family",
@@ -488,7 +488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.49,
-      "total_chapters": 200
+      "total_chapters": 201
     },
     {
       "slug": "takou-no-koori-hime-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -1984,7 +1984,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 343
+      "total_chapters": 344
     },
     {
       "slug": "113835-the-player-hides-his-past",
@@ -2040,7 +2040,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 206
+      "total_chapters": 207
     },
     {
       "slug": "hima-ten",
@@ -2182,9 +2182,9 @@
       "slug": "tower-of-god-side-story-urek-mazino",
       "title": "Tower Of God: Side Story Urek Mazino",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 70
     },
     {
       "slug": "563439-kowloon-saroka",
@@ -2680,7 +2680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.17,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "the-youngest-hides-way-too-much",
@@ -2944,7 +2944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 154
+      "total_chapters": 157
     },
     {
       "slug": "155895-nano-machine",
@@ -3352,7 +3352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "the-demon-god",
@@ -4376,7 +4376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.59,
-      "total_chapters": 331
+      "total_chapters": 332
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 177
+      "total_chapters": 180
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -5070,9 +5070,9 @@
       "slug": "kajiya-de-hajimeru-isekai-slow-life",
       "title": "Kajiya de Hajimeru Isekai Slow Life",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.56,
+      "total_chapters": 35
     },
     {
       "slug": "the-boss-is-too-strong",
@@ -5432,7 +5432,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "780759-isekai-walking",
@@ -5454,9 +5454,9 @@
       "slug": "supreme-academy-genius",
       "title": "Supreme Academy Genius",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 56
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -5488,7 +5488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 167
+      "total_chapters": 171
     },
     {
       "slug": "saijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-noryoku-kaimu-o-kagenagara-osewa-suru-koto-ni-narimashita",
@@ -6464,7 +6464,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.15,
-      "total_chapters": 69
+      "total_chapters": 72
     },
     {
       "slug": "how-to-live-as-a-civil-servant-in-murim",
@@ -6680,7 +6680,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 0.0,
-      "total_chapters": 28
+      "total_chapters": 31
     },
     {
       "slug": "kaifukushoku-no-akuyaku-reijou",
@@ -6816,7 +6816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 120
+      "total_chapters": 129
     },
     {
       "slug": "yurufuwa-nouka-no-mojibake-skill-isekai-de-katarogu-tsuuhan-yattemasu",
@@ -7840,7 +7840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 21
     },
     {
       "slug": "saigo-no-natsu-wo-hitozuma-to",
@@ -8272,7 +8272,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "shamoneyism",
@@ -8904,7 +8904,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "ore-no-ichizu-wo-jama-suru-aitsu",
@@ -9246,9 +9246,9 @@
       "slug": "mysterious-revival-starting-with-a-trillion-ghost-coins",
       "title": "Mysterious Revival: Starting with a Trillion Ghost Coins",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 22
     },
     {
       "slug": "tier-1-shimai-yuumei-yonshimai-wa-boku-nashi-de-wa-ikirarenai",
@@ -10104,7 +10104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "rebirth-of-the-thief-who-roamed-the-world",
@@ -11160,7 +11160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "the-very-end",
@@ -11680,7 +11680,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 15
     },
     {
       "slug": "todays-han-yoil-is-a-woman",
@@ -12104,7 +12104,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 76
+      "total_chapters": 83
     },
     {
       "slug": "saikyo-shoku-ryukishi-kara-shokyu-shoku-hakobiya-ni-nattano-ni-naze-ka-yushatachi-kara-tayoraretemasu",
@@ -12320,7 +12320,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 4
     },
     {
       "slug": "eiyuu-to-kenja-no-tensei-kon",
@@ -13272,7 +13272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 77
     },
     {
       "slug": "152031-yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyou-shuzoku-nekomimi-shojo-to-deau",
@@ -13624,7 +13624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 197
+      "total_chapters": 202
     },
     {
       "slug": "889961-my-daughter-is-the-final-boss",
@@ -13920,7 +13920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "usotsuki-kanojo-no-kagemori-san",
@@ -13968,7 +13968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 5
     },
     {
       "slug": "sovereign-of-a-hundred-blades-heir-to-the-ultimate-style",
@@ -14032,7 +14032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 18
     },
     {
       "slug": "i-will-raise-the-villain-properly",
@@ -14560,7 +14560,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 18
+      "total_chapters": 21
     },
     {
       "slug": "gimai-5-nin-iru",
@@ -14744,7 +14744,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "sword-gods-livestream",
@@ -14792,7 +14792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 14
     },
     {
       "slug": "looking-for-the-villainesss-contract-husband",
@@ -14993,6 +14993,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 29
+    },
+    {
+      "slug": "nihonkoku-shoukan",
+      "title": "Nihonkoku Shoukan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 52
+    },
+    {
+      "slug": "341473-the-princess-goes-to-school",
+      "title": "The Princess Goes to School",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 31
+    },
+    {
+      "slug": "binbou-kokka-no-kuroji-kaikaku-kanemouke-no-tame-nara-shudan-o-erabanai-ore-ga-naze-ka-zessansarete-iru-ken-ni-tsuite",
+      "title": "Binbou Kokka no Kuroji Kaikaku ~Kanemouke no Tame Nara Shudan o Erabanai ore ga, Naze ka Zessansarete iru Ken ni Tsuite~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.36,
+      "total_chapters": 7
+    },
+    {
+      "slug": "boku-no-ikezuna-konyakusha",
+      "title": "Boku no Ikezuna Konyakusha",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.29,
+      "total_chapters": 10
     }
   ]
 }
