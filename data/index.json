@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T14:45:37.213113",
-  "total_comics": 1878,
+  "last_updated": "2026-07-18T15:47:35.873386",
+  "total_comics": 1896,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -15025,6 +15025,150 @@
       "status": "Berjalan",
       "rating": 7.29,
       "total_chapters": 10
+    },
+    {
+      "slug": "mairimashita-iruma-kun-boku-doumei-no-game-michi",
+      "title": "Mairimashita! Iruma-kun: Boku Doumei no Game-michi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "after-breaking-off-the-relationship-all-my-summoned-beasts-were-dark-creatures",
+      "title": "After Breaking off the Relationship, All my Summoned Beasts Were Dark Creatures",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "i-married-the-dragon-i-killed",
+      "title": "I Married the Dragon I Killed",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "garuru-girl",
+      "title": "Garuru Girl",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "the-outcast-loser-necromancer",
+      "title": "The Outcast Loser Necromancer",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "return-of-the-adopted-child-in-a-world-of-bloodline-supremacy",
+      "title": "Return of the Adopted Child in a World of Bloodline Supremacy",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "senrihin-reijou-sheryl-wa-jibun-okorosu-otto-wo-kago-shitai",
+      "title": "Senrihin Reijou Sheryl wa Jibun Okorosu Otto wo Kago Shitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "everyone-else-became-a-romance-fantasy-heroine-but-i-became-a-closet-monster",
+      "title": "Everyone Else Became a Romance Fantasy Heroine, But I Became a Closet Monster",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "devil-princess",
+      "title": "Devil Princess",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "i-the-weakest-class-command-the-calamities",
+      "title": "I, the Weakest Class, Command the Calamities",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "i-ended-up-raising-my-younger-self",
+      "title": "I Ended Up Raising My Younger Self",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 11
+    },
+    {
+      "slug": "i-became-the-adopted-daughter-of-the-sea-guardian",
+      "title": "I Became the Adopted Daughter of the Sea Guardian",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 22
+    },
+    {
+      "slug": "ogamida-san-wa-hetare-gao-ga-mitai",
+      "title": "Ogamida-san wa Hetare-Gao ga Mitai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "tenmaku-no-jaadugar",
+      "title": "Tenmaku no Jaadugar",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "the-perfect-seniors-secret",
+      "title": "The Perfect Senior’s Secret!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 17
+    },
+    {
+      "slug": "looking-for-a-top-tier-combat-coach",
+      "title": "Looking for a Top-Tier Combat Coach",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "chou-koun-no-oredake-jinsei-kaiki",
+      "title": "Chou Koun no Oredake Jinsei Kaiki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.27,
+      "total_chapters": 26
+    },
+    {
+      "slug": "nine-star-jinx",
+      "title": "Nine Star Jinx",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
     }
   ]
 }
