@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T23:10:07.569828",
-  "total_comics": 1896,
+  "last_updated": "2026-07-19T00:18:30.976706",
+  "total_comics": 1905,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -64,7 +64,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 201
+      "total_chapters": 203
     },
     {
       "slug": "593213-the-lords-coins-arent-decreasing",
@@ -72,7 +72,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 205
+      "total_chapters": 208
     },
     {
       "slug": "786730-underworld-restaurant",
@@ -128,7 +128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "godly-strange-world-i-possess-unique-enlightment",
@@ -296,7 +296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.75,
-      "total_chapters": 93
+      "total_chapters": 95
     },
     {
       "slug": "the-mad-dog-of-the-dukes-estate",
@@ -1152,7 +1152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 55
+      "total_chapters": 56
     },
     {
       "slug": "698479-the-regressed-son-of-a-duke-is-an-assassin",
@@ -2248,7 +2248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "the-rebellious-apostle-of-the-harvest-goddess",
@@ -2304,7 +2304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "i-become-invincible-black-dragon-boss-at-the-start",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1172
+      "total_chapters": 1173
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -4032,7 +4032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 200
+      "total_chapters": 201
     },
     {
       "slug": "the-art-student-who-lived-twice",
@@ -4174,9 +4174,9 @@
       "slug": "berserk",
       "title": "Berserk",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 9.66,
+      "total_chapters": 393
     },
     {
       "slug": "183821-wind-breaker",
@@ -4400,7 +4400,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 44
+      "total_chapters": 50
     },
     {
       "slug": "one-piece-id",
@@ -4696,7 +4696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 176
+      "total_chapters": 177
     },
     {
       "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
@@ -5128,7 +5128,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "the-dark-swordsman-returns",
@@ -7272,7 +7272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "984731-night-of-the-soulless-heathens",
@@ -9024,7 +9024,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.99,
-      "total_chapters": 117
+      "total_chapters": 121
     },
     {
       "slug": "class-de-ichiban-kawaii-gal-wo-ezuke-shiteiru-hanashi",
@@ -9064,7 +9064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 97
+      "total_chapters": 101
     },
     {
       "slug": "bouken-ni-iku-fuku-ga-nai",
@@ -9712,7 +9712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 72
+      "total_chapters": 73
     },
     {
       "slug": "ha-buk-paengs-youngest-son",
@@ -11176,7 +11176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "doctor-quest",
@@ -11576,7 +11576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.0,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "omiai-shitakunakattanode-muri-nandai-na-jouken-wo-tsuketara-doukyuusei-ga-kita-ken-ni-tsuite",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 384
+      "total_chapters": 389
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12776,7 +12776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 144
+      "total_chapters": 146
     },
     {
       "slug": "ichizu-de-bitch-na-kouhai",
@@ -13216,7 +13216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 152
+      "total_chapters": 153
     },
     {
       "slug": "my-academic-system-is-making-me-date",
@@ -13296,7 +13296,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 174
+      "total_chapters": 178
     },
     {
       "slug": "938845-my-daughter-is-the-final-boss",
@@ -13504,7 +13504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "sister-in-law-of-the-heroine-in-a-childcare-novel",
@@ -13808,7 +13808,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "717088-dark-and-light-martial-emperor",
@@ -14528,7 +14528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 40
     },
     {
       "slug": "became-a-family-with-the-four-duke-brothers",
@@ -14536,7 +14536,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 20
     },
     {
       "slug": "akari-the-final-boss-girl-im-going-to-the-modern-age-to-find-someone-stronger-than-me",
@@ -14544,7 +14544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "the-fake-saintess-of-a-reverse-harem-game",
@@ -14552,7 +14552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 11
     },
     {
       "slug": "tonari-no-kurokawa-san",
@@ -14984,7 +14984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 22
     },
     {
       "slug": "maryoku-zero-no-saikyou-majutsushi-yahari-omaera-no-majutsu-riron-wa-machigatte-iru-nda-ga",
@@ -15064,7 +15064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "return-of-the-adopted-child-in-a-world-of-bloodline-supremacy",
@@ -15169,6 +15169,78 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 5
+    },
+    {
+      "slug": "the-overly-competent-junior-employee",
+      "title": "The Overly Competent Junior Employee",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
+    },
+    {
+      "slug": "summon-the-famous-generals-of-the-three-kingdoms-i-will-be-the-prime-minister-of-dongying",
+      "title": "Summon the Famous Generals of the Three Kingdoms, I Will Be the Prime Minister of Dongying",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "junjou-gyaru-wa-kanojo-janai-no-ni",
+      "title": "Junjou Gyaru wa Kanojo Janai no ni",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "suima-chan-wa-nekashitsuketai",
+      "title": "Suima-chan wa Nekashitsuketai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "tsuki-no-joou-no-nekashitsukekata",
+      "title": "Tsuki no Joou no Nekashitsukekata",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "ichiokunen-shugyou-no-mujikaku-kensei",
+      "title": "Ichiokunen Shugyou no Mujikaku Kensei",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "defiance-of-the-fall",
+      "title": "Defiance Of The Fall",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "a-painter-who-draws-dungeon",
+      "title": "A Painter Who Draws Dungeon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 16
+    },
+    {
+      "slug": "shounin-reijou-agnes-henkyou-ni-tsuihou-sareta-akuyaku-reijou-wa-shousai-o-hakki-shi-nariagaru",
+      "title": "Shounin Reijou Agnes Henkyou ni Tsuihou Sareta Akuyaku Reijou wa Shousai o Hakki Shi Nariagaru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
     }
   ]
 }
