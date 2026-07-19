@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-19T00:15:38.293042",
+  "scraped_at": "2026-07-19T11:46:18.667413",
   "alternative_titles": "Healing With D'Bly, Healing With Deubly, Healing With Deulbi, Healing With Drubly, Sanando con Deubeulli, 드블리와 힐링합니다, 드블리와 힐링합니다.",
   "status": "Berjalan",
   "author": "Fides",
@@ -20,10 +20,28 @@
   "synopsis": "Manhwa                    Healing With Deulbi yang dibuat oleh komikus bernama\n                    Fides ini bercerita tentang\n                    Theodophilus, seorang druid yang bereinkarnasi ke dalam tubuh seorang pekerja kantoran biasa, Sihyeon.\r\n\r\nSetelah turun ke desa terpencil untuk memulihkan diri—demi tubuh Sihyeon yang telah mati karena kelelahan—\r\n\r\nIa memulai kehidupan penyembuhan menggunakan kekuatan druidnya.",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Healing With Deulbi Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTIwLw==",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik Healing With Deulbi Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTE5Lw==",
+      "date": "6 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Healing With Deulbi Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTE4Lw==",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik Healing With Deulbi Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTE3Lw==",
-      "date": "4 jam yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "16",
@@ -122,5 +140,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 20
 }

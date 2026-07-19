@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-12T15:11:41.529895",
+  "scraped_at": "2026-07-19T11:47:39.053265",
   "alternative_titles": "The Baby Kitten Who Rules the Dog Family, 멍문세가를 호령하는 아기 고양이입니다",
   "status": "Berjalan",
   "author": "Kim Dan-Won, Owl Kim",
@@ -20,40 +20,46 @@
   "synopsis": "Manhwa                    A Baby Cat Who Commands the Dog Clan yang dibuat oleh komikus bernama\n                    Kim Dan-Won, Owl Kim ini bercerita tentang\n                    Seekor anak kucing kecil yang terdampar di tengah keluarga manusia anjing yang ganas — sebuah perjuangan mengharukan untuk bertahan hidup dan tumbuh!\r\n\r\nHong Seol, seorang manusia kucing yang ditinggalkan orang tuanya karena tidak mampu menggunakan kekuatan batinnya, menemui akhir yang menyedihkan… hanya untuk…",
   "chapters": [
     {
+      "chapter": "31",
+      "title": "Komik A Baby Cat Who Commands the Dog Clan Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWJ5LWNhdC13aG8tY29tbWFuZHMtdGhlLWRvZy1jbGFuLWNoYXB0ZXItMzEv",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "30",
       "title": "Komik A Baby Cat Who Commands the Dog Clan Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWJ5LWNhdC13aG8tY29tbWFuZHMtdGhlLWRvZy1jbGFuLWNoYXB0ZXItMzAv",
-      "date": "5 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik A Baby Cat Who Commands the Dog Clan Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWJ5LWNhdC13aG8tY29tbWFuZHMtdGhlLWRvZy1jbGFuLWNoYXB0ZXItMjkv",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik A Baby Cat Who Commands the Dog Clan Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWJ5LWNhdC13aG8tY29tbWFuZHMtdGhlLWRvZy1jbGFuLWNoYXB0ZXItMjgv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik A Baby Cat Who Commands the Dog Clan Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWJ5LWNhdC13aG8tY29tbWFuZHMtdGhlLWRvZy1jbGFuLWNoYXB0ZXItMjcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik A Baby Cat Who Commands the Dog Clan Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWJ5LWNhdC13aG8tY29tbWFuZHMtdGhlLWRvZy1jbGFuLWNoYXB0ZXItMjYv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik A Baby Cat Who Commands the Dog Clan Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iYWJ5LWNhdC13aG8tY29tbWFuZHMtdGhlLWRvZy1jbGFuLWNoYXB0ZXItMjUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -200,5 +206,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }

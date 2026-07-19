@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-17T19:42:39.999727",
+  "scraped_at": "2026-07-19T11:49:51.708114",
   "alternative_titles": "The Eldest Daughter of the Sichuan Tang Clan Defends Her Family, The Eldest Daughter of the Sichuan Tang Clan Protects Her Family, 사천당가의 장녀는 가문을 지킨다",
   "status": "Berjalan",
   "author": "Carrot, Damhwadam",
@@ -19,22 +19,28 @@
   "synopsis": "Manhwa                    The Eldest Daughter of the Tang Clan of Sacheon Protects the Family yang dibuat oleh komikus bernama\n                    Carrot, Damhwadam ini bercerita tentang\n                    Tang So-hwa, Sang Jenius Racun Terhebat: Sang Penguasa Sepuluh Ribu Penawar Racun.\r\n\r\nDikhianati oleh suaminya sendiri—Penguasa Klan Namgung—ia menyaksikan keluarganya terbakar menjadi abu. Sebagai satu-satunya yang selamat, So-hwa melepaskan gelombang racun mematikan, memusnahkan seluruh Klan Namgung sebelum mengakhiri hidupnya sendiri. Ia menutup matanya, berpikir bahwa ia akhirnya telah mencapai balas dendam yang telah lama dinantikannya... tetapi ketika ia membukanya, ia telah kembali ke masa mudanya yang berusia tujuh belas tahun, di masa keemasan Klan Tang Sichuan!\r\n\r\nKedamaian Dataran Tengah? Loyalitas Aliansi Murim? Ia tidak peduli.\r\n\r\nIa hanya ingin memperbaiki setiap bencana yang mengancam untuk melindungi keluarganya kali ini. Namun, entah mengapa, Klan Tang Sichuan terus terseret ke pusat kebenaran dan kepahlawanan...\r\n\r\n\"Tidak, aku katakan padamu, aku hanya ingin menyelamatkan klanku sendiri?!\" -",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik The Eldest Daughter of the Tang Clan of Sacheon Protects the Family Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci1vZi10aGUtdGFuZy1jbGFuLW9mLXNhY2hlb24tcHJvdGVjdHMtdGhlLWZhbWlseS1jaGFwdGVyLTI2Lw==",
+      "date": "23 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik The Eldest Daughter of the Tang Clan of Sacheon Protects the Family Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci1vZi10aGUtdGFuZy1jbGFuLW9mLXNhY2hlb24tcHJvdGVjdHMtdGhlLWZhbWlseS1jaGFwdGVyLTI1Lw==",
-      "date": "51 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Eldest Daughter of the Tang Clan of Sacheon Protects the Family Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci1vZi10aGUtdGFuZy1jbGFuLW9mLXNhY2hlb24tcHJvdGVjdHMtdGhlLWZhbWlseS1jaGFwdGVyLTI0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Eldest Daughter of the Tang Clan of Sacheon Protects the Family Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci1vZi10aGUtdGFuZy1jbGFuLW9mLXNhY2hlb24tcHJvdGVjdHMtdGhlLWZhbWlseS1jaGFwdGVyLTIzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "22",
@@ -46,13 +52,13 @@
       "chapter": "21",
       "title": "Komik The Eldest Daughter of the Tang Clan of Sacheon Protects the Family Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci1vZi10aGUtdGFuZy1jbGFuLW9mLXNhY2hlb24tcHJvdGVjdHMtdGhlLWZhbWlseS1jaGFwdGVyLTIxLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik The Eldest Daughter of the Tang Clan of Sacheon Protects the Family Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci1vZi10aGUtdGFuZy1jbGFuLW9mLXNhY2hlb24tcHJvdGVjdHMtdGhlLWZhbWlseS1jaGFwdGVyLTIwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -169,5 +175,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }
