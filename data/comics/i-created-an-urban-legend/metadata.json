@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.05,
-  "scraped_at": "2026-07-10T08:50:40.553295",
+  "scraped_at": "2026-07-20T18:36:11.403986",
   "alternative_titles": "Wǒ, Chuàngzàole Dūshì Chuánshuō!, 我，创造了都市传说！, I, Created Urban Legends, Urban Legend Maker",
   "status": "Berjalan",
   "author": "役满",
@@ -25,22 +25,28 @@
   "synopsis": "Manhua                    I Created an Urban Legend! yang dibuat oleh komikus bernama\n                    役满 ini bercerita tentang\n                    Protagonis Yuan Zhenji menyeberang ke dunia paralel Jiangshi, dan menemukan bahwa dunia ini penuh dengan berbagai kengerian dan keanehan, dan manusia biasa rapuh seperti kertas di depan mereka. Dia menggunakan buku catatan bernama \"Urban Legend Records\" untuk membuat legenda urban yang memengaruhi realitas, menghukum penjahat dan mengandung keanehan, menyerap kemampuan aturan aneh \"menggunakan sihir untuk mengalahkan sihir\", dan menjadi monitor yang melawan keanehan, dan bertarung dengan rekannya melawan keanehan tingkat kiamat yang akan datang...",
   "chapters": [
     {
+      "chapter": "87",
+      "title": "Komik I Created an Urban Legend! Chapter 87",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTg3Lw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "86",
       "title": "Komik I Created an Urban Legend! Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTg2Lw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik I Created an Urban Legend! Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTg1Lw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "84",
       "title": "Komik I Created an Urban Legend! Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTg0Lw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "83",
@@ -88,7 +94,7 @@
       "chapter": "76",
       "title": "Komik I Created an Urban Legend! Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTc2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "75",
@@ -100,19 +106,19 @@
       "chapter": "74",
       "title": "Komik I Created an Urban Legend! Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTc0Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik I Created an Urban Legend! Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTczLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik I Created an Urban Legend! Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1jcmVhdGVkLWFuLXVyYmFuLWxlZ2VuZC1jaGFwdGVyLTcyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "71",
@@ -547,5 +553,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 87
+  "total_chapters": 88
 }
