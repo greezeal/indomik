@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-13T23:17:06.557468",
+  "scraped_at": "2026-07-20T12:38:04.275253",
   "alternative_titles": "千歳くんはラムネ瓶のなか",
   "status": "Berjalan",
   "author": "Hiromu",
@@ -23,16 +23,34 @@
   "synopsis": "Manga                    Chitose-kun wa Ramune Bin no Naka (Webtoon) yang dibuat oleh komikus bernama\n                    Hiromu ini bercerita tentang\n                    Chitose Saku, anak SMA di sekolah elit Fukui, tuh bener-bener paket lengkap—pinter, jago olahraga, cakep lagi. Kayak manusia sempurna aja. Mulai dari Hiiragi Yūko yang auranya kayak putri bangsawan banget, sampai Uchida Yura si cantik tipe “cewek ideal banget”, Semua orang yang ngumpul di sekitar Saku juga isinya cowok-cewek cakep semua. Bikin orang melihat kearahnya terus. Suatu hari, beberapa waktu setelah naik kelas dua, Saku tiba-tiba ditembak sama Nanase Yūzuki—temen sekelas yang “sempurnanya” mirip banget sama dia—? Itu adalah drama masa muda anak-anak SMA—lugu dan meledak-ledak, manis tapi juga bikin deg-degan.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0xOC8=",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0xNy8=",
+      "date": "5 hari yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0xNi8=",
+      "date": "6 hari yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0xNS8=",
-      "date": "5 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0xNC8=",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "13",
@@ -113,5 +131,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 18
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.15,
-  "scraped_at": "2026-02-19T20:09:00.598108",
+  "scraped_at": "2026-07-20T12:40:41.684140",
   "alternative_titles": "むつ子、精をつけます！",
   "status": "Berjalan",
   "author": "Suu Anko",
@@ -24,23 +24,35 @@
   "synopsis": "Manga                    Mutsuko, Seiwo Tsukemasu! yang dibuat oleh komikus bernama\n                    Suu Anko ini bercerita tentang\n                    Satu bunga yang mewarnai kantor—Yamamori Mutsuko. Diam-diam, ia memendam perasaan pada atasannya… tapi tunggu dulu, apa nggak terlalu ekstrem caranya!? Beda usia diatasi dengan makanan penambah stamina! Inilah pembuka komedi romantis kantor penuh halu, dipersembahkan untuk seluruh pegawai kantoran yang kelelahan!",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Mutsuko, Seiwo Tsukemasu! Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXV0c3Vrby1zZWl3by10c3VrZW1hc3UtY2hhcHRlci01Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Mutsuko, Seiwo Tsukemasu! Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXV0c3Vrby1zZWl3by10c3VrZW1hc3UtY2hhcHRlci00Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Mutsuko, Seiwo Tsukemasu! Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXV0c3Vrby1zZWl3by10c3VrZW1hc3UtY2hhcHRlci0zLw==",
-      "date": "5 jam yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Mutsuko, Seiwo Tsukemasu! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXV0c3Vrby1zZWl3by10c3VrZW1hc3UtY2hhcHRlci0yLw==",
-      "date": "2 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Mutsuko, Seiwo Tsukemasu! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXV0c3Vrby1zZWl3by10c3VrZW1hc3UtY2hhcHRlci0xLw==",
-      "date": "2 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 5
 }

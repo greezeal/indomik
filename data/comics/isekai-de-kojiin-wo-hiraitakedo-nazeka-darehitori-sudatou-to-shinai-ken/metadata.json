@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.78,
-  "scraped_at": "2026-07-19T11:49:00.664186",
+  "scraped_at": "2026-07-20T12:41:32.580925",
   "alternative_titles": "I opened an orphanage in another world, but for some reason no one wants to leave., Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken Isekai de Kojiin wo hiraitakedo nazeka darehitori sudatou to shinaiken, 在异世界开了孤儿院，但不知为何没有一个人想离开, 異世界で孤児院を開いたけど、なぜか誰一人巣立とうとしない件, 이세계에서 고아원을 열었지만, 어째서인지 아무도 독립하려 하지 않는다",
   "status": "Berjalan",
   "author": "HATSUEDA Renge",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken yang dibuat oleh komikus bernama\n                    HATSUEDA Renge ini bercerita tentang\n                    Masatsugu dibawa dari dunia lain dalam pemanggilan pahlawan dan akhirnya menjadi bagian dari kasta serendah mungkin. Menunggu bocah ini, yang tidak memiliki apa pun kecuali keterampilan dasar, mengelola sebuah panti asuhan yang penuh dengan gadis-gadis cantik! Tapi, hari-harinya yang menjengkelkan baru saja dimulai ketika dia menemukan bangunan itu dalam reruntuhan, dan dia juga harus melunasi hutang besar yang ditinggalkan mantan direktur! Dan bukan itu saja, dia tidak punya waktu untuk beristirahat dari semua bajingan yang mengancam panti asuhan! Apakah Masatsugu dan anak yatim akan dapat melindungi rumah mereka yang berharga?",
   "chapters": [
     {
+      "chapter": "75",
+      "title": "Komik Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLWtvamlpbi13by1oaXJhaXRha2Vkby1uYXpla2EtZGFyZWhpdG9yaS1zdWRhdG91LXRvLXNoaW5haS1rZW4tY2hhcHRlci03NS8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "74",
       "title": "Komik Isekai de Kojiin wo Hiraitakedo, nazeka Darehitori Sudatou to Shinai Ken Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLWtvamlpbi13by1oaXJhaXRha2Vkby1uYXpla2EtZGFyZWhpdG9yaS1zdWRhdG91LXRvLXNoaW5haS1rZW4tY2hhcHRlci03NC8=",
-      "date": "19 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "73",
@@ -481,5 +487,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 76
+  "total_chapters": 77
 }

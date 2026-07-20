@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-06T17:36:57.860820",
+  "scraped_at": "2026-07-20T12:40:04.251048",
   "alternative_titles": "Contract Enrollment, 청부입학",
   "status": "Berjalan",
   "author": "Gangpil",
@@ -19,53 +19,65 @@
   "synopsis": "Manhwa                    Contract Killer Enrollment yang dibuat oleh komikus bernama\n                    Gangpil ini bercerita tentang\n                    Ryu Kang-Min adalah anggota organisasi pembunuh massal 'Batala.' Ini adalah tempat di mana tidak ada jalan keluar begitu Anda masuk. Kemudian suatu hari, ia menerima tugas khusus sebagai imbalan atas 'kebebasan.' Misinya adalah membunuh 'target yang berada di Korea.' Ryu kembali ke Korea untuk mendapatkan kebebasannya dan, sebagai pemanasan, ia terlebih dahulu melenyapkan 'pengkhianat' organisasi tersebut. Setelah menyelesaikan pemanasan singkatnya, ia memulai misi dengan sungguh-sungguh…",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Contract Killer Enrollment Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci0xMC8=",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Contract Killer Enrollment Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci05Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Contract Killer Enrollment Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci04Lw==",
-      "date": "12 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Contract Killer Enrollment Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci03Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Contract Killer Enrollment Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci02Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Contract Killer Enrollment Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci01Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Contract Killer Enrollment Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci00Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Contract Killer Enrollment Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci0zLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Contract Killer Enrollment Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci0yLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Contract Killer Enrollment Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY29udHJhY3Qta2lsbGVyLWVucm9sbG1lbnQtY2hhcHRlci0xLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 10
 }
