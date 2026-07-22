@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.51,
-  "scraped_at": "2026-07-18T15:47:24.407174",
+  "scraped_at": "2026-07-22T18:54:10.435265",
   "alternative_titles": "となりの黒川さん, My Neighbor Ms. Kurokawa",
   "status": "Berjalan",
   "author": "Ito Kyosuke",
@@ -22,46 +22,52 @@
   "synopsis": "Manga                    Tonari no Kurokawa-san yang dibuat oleh komikus bernama\n                    Ito Kyosuke ini bercerita tentang\n                    Rahasia antara aku dan dia itu sepele tapi penting.\r\n\r\nHajime Takahashi, mendaftar di SMA Shuubi semata-mata karena tempat itu adalah tempat suci dari manga favoritnya. Di mana-mana di sekolah itu ada lokasi yang muncul di manga, dan dia sangat gembira! Di tengah kegembiraan ini, Takahashi bertemu dengan seorang gadis cantik, Yayoi Kurokawa, yang tampak seperti tokoh utama wanita dari karya favoritnya, dan mereka pun berbagi rahasia tertentu.\r\n\r\nDuo canggung ini merangkai komedi romantis remaja yang manis dan tajam yang akan membuat Anda tersenyum!",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Tonari no Kurokawa-san Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTIyLw==",
+      "date": "59 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Tonari no Kurokawa-san Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTIxLw==",
-      "date": "5 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Tonari no Kurokawa-san Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTIwLw==",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Tonari no Kurokawa-san Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTE5Lw==",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Tonari no Kurokawa-san Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTE4Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Tonari no Kurokawa-san Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTE3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Tonari no Kurokawa-san Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTE2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Tonari no Kurokawa-san Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTE1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
@@ -91,7 +97,7 @@
       "chapter": "10",
       "title": "Komik Tonari no Kurokawa-san Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLWt1cm9rYXdhLXNhbi1jaGFwdGVyLTEwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -148,5 +154,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 22
 }

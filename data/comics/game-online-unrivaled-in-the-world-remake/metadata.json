@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-22T01:12:10.294861",
+  "scraped_at": "2026-07-22T18:47:31.038241",
   "alternative_titles": "Wangyou Zhi Tianxia Wushuang (Remake), The World of Online Games Is Unparalleled (Remake), 网游之天下无双【重制版】",
   "status": "Berjalan",
   "author": "梦鲸岛漫画",
@@ -20,16 +20,28 @@
   "synopsis": "Manhua                    Game Online: Unrivaled In The World (Remake) yang dibuat oleh komikus bernama\n                    梦鲸岛漫画 ini bercerita tentang\n                    Tes fisik dari permainan itu tidak normal, penundaan saraf menurun, dan ingatan kemarin hilang Lapisan misteri mengelilingi Lu Chen. Ketika Lu Chen, yang telah membuka profesi khusus, hendak kembali ke puncak, sebuah kecelakaan terjadi lagi...",
   "chapters": [
     {
+      "chapter": "79",
+      "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 79",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci03OS8=",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "78",
+      "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci03OC8=",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "77",
       "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci03Ny8=",
-      "date": "2 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci03Ni8=",
-      "date": "2 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "75",
@@ -488,5 +500,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 78
+  "total_chapters": 80
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-22T01:13:20.261348",
+  "scraped_at": "2026-07-22T18:49:29.904439",
   "alternative_titles": "Songbaek, 松百, 송백",
   "status": "Berjalan",
   "author": "Baekjoon",
@@ -24,16 +24,22 @@
   "synopsis": "Manhwa                    Song Baek yang dibuat oleh komikus bernama\n                    Baekjoon ini bercerita tentang\n                    Song Baek, putra keluarga Song yang kehilangan ayah dan ibunya di depan matanya karena invasi iblis.\r\nSong Baek, putra kedua dari keluarga Song.\r\n\r\nDia nyaris lolos dengan hidupnya dengan dituntun pergi dari tempat kejadian oleh kakak laki-lakinya, Song Young, tetapi sejak hari itu, dia membenci saudaranya karena menyeretnya pergi alih-alih membantu orang tuanya.\r\nDia kehilangan keluarganya, klannya, segalanya, dan mengembara di pedesaan Zhongyuan, dan ketika kakak laki-lakinya tidak kembali setelah pergi mencari makanan, Song",
   "chapters": [
     {
+      "chapter": "85",
+      "title": "Komik Song Baek Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29uZy1iYWVrLWNoYXB0ZXItODUv",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "84",
       "title": "Komik Song Baek Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29uZy1iYWVrLWNoYXB0ZXItODQv",
-      "date": "24 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik Song Baek Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29uZy1iYWVrLWNoYXB0ZXItODMv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "82",
@@ -75,7 +81,7 @@
       "chapter": "76",
       "title": "Komik Song Baek Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29uZy1iYWVrLWNoYXB0ZXItNzYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "75",
@@ -195,7 +201,7 @@
       "chapter": "56",
       "title": "Komik Song Baek Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29uZy1iYWVrLWNoYXB0ZXItNTYv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -528,5 +534,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 84
+  "total_chapters": 85
 }

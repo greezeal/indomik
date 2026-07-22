@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-05T23:53:12.274137",
+  "scraped_at": "2026-07-22T18:52:18.013839",
   "alternative_titles": "召唤恶魔，我既是深渊",
   "status": "Berjalan",
   "author": "普鲁斯特文化 普鲁斯特文化",
@@ -18,22 +18,34 @@
   "synopsis": "Manhua                    Summon The Demon, For I Am The Abyss yang dibuat oleh komikus bernama\n                    普鲁斯特文化 普鲁斯特文化 ini bercerita tentang\n                    Lin Tianhao, seorang penjelajah waktu, membangkitkan class sampah, Summoner, pada upacara awakening. Tepat ketika semua orang menertawakan kehidupan Lin Tianhao yang tanpa harapan, dia tiba-tiba membangunkan sistem dan mengikat dirinya pada [Demon Sacrifice]! Siapa bilang class summoner itu sampah?!\r\n\r\nAku memiliki talent Level SSS yang terkuat!",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Summon The Demon, For I Am The Abyss Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0yNy8=",
+      "date": "39 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Summon The Demon, For I Am The Abyss Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0yNi8=",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Summon The Demon, For I Am The Abyss Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0yNS8=",
-      "date": "29 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Summon The Demon, For I Am The Abyss Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0yNC8=",
-      "date": "29 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Summon The Demon, For I Am The Abyss Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0yMy8=",
-      "date": "29 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "22",
@@ -51,19 +63,19 @@
       "chapter": "20",
       "title": "Komik Summon The Demon, For I Am The Abyss Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0yMC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Summon The Demon, For I Am The Abyss Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0xOS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Summon The Demon, For I Am The Abyss Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3VtbW9uLXRoZS1kZW1vbi1mb3ItaS1hbS10aGUtYWJ5c3MtY2hhcHRlci0xOC8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "17",
@@ -168,5 +180,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 27
 }

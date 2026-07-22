@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-22T01:14:57.153135",
+  "scraped_at": "2026-07-22T18:54:20.328442",
   "alternative_titles": "Otherworldly Illusion Hunter, The Hunter of the Other World Who Is Being Misunderstood, 이세계 착각 헌터",
   "status": "Berjalan",
   "author": "Dae Dae Won",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    The Delusional Hunter in Another World yang dibuat oleh komikus bernama\n                    Dae Dae Won ini bercerita tentang\n                    Saya punya rahasia kecil: planet asal saya adalah dunia asing yang jauh. Bosan dengan pekerjaan yang tidak dibayar dan lembur yang tak ada habisnya, saya melarikan diri ke planet yang jauh bernama \"Bumi\"—sebagai roh! Namun, dari semua hal, saya bereinkarnasi ke dalam tubuh yang mati kelaparan!\r\n\r\nDapatkah Gireo, alien yang mendarat darurat di Bumi, menyembunyikan identitas aslinya dan beradaptasi dengan dunia baru ini?",
   "chapters": [
     {
+      "chapter": "99",
+      "title": "Komik The Delusional Hunter in Another World Chapter 99",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci05OS8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "98",
       "title": "Komik The Delusional Hunter in Another World Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci05OC8=",
-      "date": "2 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "97",
@@ -44,7 +50,7 @@
       "chapter": "95",
       "title": "Komik The Delusional Hunter in Another World Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci05NS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "94",
@@ -134,7 +140,7 @@
       "chapter": "80",
       "title": "Komik The Delusional Hunter in Another World Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbHVzaW9uYWwtaHVudGVyLWluLWFub3RoZXItd29ybGQtY2hhcHRlci04MC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "79",
@@ -611,5 +617,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 98
+  "total_chapters": 99
 }
