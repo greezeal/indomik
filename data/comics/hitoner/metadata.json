@@ -1,0 +1,51 @@
+{
+  "slug": "hitoner",
+  "title": "Hitoner",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvaGl0b25lci8=",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDYvS29taWstaGl0b25lci0yMTN4MzE5LmpwZw==",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-07-22T10:09:50.677960",
+  "alternative_titles": "ヒトナー, Hitoner, skinnie, humaner, Хитонер, Хитолюб",
+  "status": "Berjalan",
+  "author": "Yagi Tomohiro",
+  "illustrator": "Yagi Tomohiro",
+  "themes": [
+    "Aliens",
+    "Animals"
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "synopsis": "Manga                    Hitoner yang dibuat oleh komikus bernama\n                    Yagi Tomohiro ini bercerita tentang\n                    Seorang manusia dari Bumi tiba di sebuah planet terpencil yang dihuni oleh manusia buas yang dikenal sebagai \"Kemo,\" yang sangat terguncang saat melihat \"Hito\" untuk pertama kalinya. Dengan demikian, masyarakat mereka mulai berubah, didorong oleh pertukaran antar spesies ini…",
+  "chapters": [
+    {
+      "chapter": "4",
+      "title": "Komik Hitoner Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGl0b25lci1jaGFwdGVyLTQv",
+      "date": "49 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Hitoner Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGl0b25lci1jaGFwdGVyLTMv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Hitoner Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGl0b25lci1jaGFwdGVyLTIv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Hitoner Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGl0b25lci1jaGFwdGVyLTEv",
+      "date": "1 bulan yang lalu"
+    }
+  ],
+  "total_chapters": 4
+}

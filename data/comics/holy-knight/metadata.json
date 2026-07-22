@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-10T08:47:53.047147",
+  "scraped_at": "2026-07-22T10:07:38.544563",
   "alternative_titles": "ホーリーナイト",
   "status": "Berjalan",
   "author": "Miyazaki Maya",
@@ -25,28 +25,34 @@
   "synopsis": "Manga                    Holy Knight yang dibuat oleh komikus bernama\n                    Miyazaki Maya ini bercerita tentang\n                    Mizumura Shinta tidak tahu harus berbuat apa ketika gadis terseksi di sekolah, Kishimoto Ririsu, mulai merayunya dan keadaan menjadi sangat intim. Shinta bukanlah orang kaya atau anak populer di sekolah, jadi tidak masuk akal jika Ririsu begitu tertarik padanya. Namun, Ririsu sebenarnya adalah vampir, sebuah rahasia yang akan ia jaga agar tetap tersembunyi meskipun harus membunuh. Seiring hubungan antara Shinta dan Ririsu berkembang, semakin sulit baginya untuk merahasiakan rahasia tersebut. Dan ketika orang-orang terdekatnya, seperti teman masa kecilnya yang agak romantis, Makimura Chizuru, tanpa sengaja terseret ke dalam kekacauan, rahasia gelap yang dalam pun terungkap.",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik Holy Knight Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xNy8=",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Holy Knight Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xNi8=",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Holy Knight Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xNS8=",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Holy Knight Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Holy Knight Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xMy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -121,5 +127,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }

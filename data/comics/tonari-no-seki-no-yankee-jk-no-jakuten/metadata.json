@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-25T22:02:50.027295",
-  "alternative_titles": "ヤンキーJKあやかさんの弱点, Delinquent HS Girl Ayaka-san\\'s Weak Points, The Many Weaknesses of Ayaka the Yankee JK, As Muitas Fraquezas de Ayaka, a Delinquente JK, となりの席のヤンキーJKの弱点, Tonari no Seki no Yankee JK no Jakuten, The Weak Points Of The Delinquent HS Girl Sit",
+  "scraped_at": "2026-07-22T10:07:09.463663",
+  "alternative_titles": "ヤンキーJKあやかさんの弱点, Delinquent HS Girl Ayaka-san's Weak Points, The Many Weaknesses of Ayaka the Yankee JK, As Muitas Fraquezas de Ayaka, a Delinquente JK, となりの席のヤンキーJKの弱点, Tonari no Seki no Yankee JK no Jakuten, The Weak Points Of The Delinquent HS Girl Sitting Next To Me, Nàng Yankee ngồi cạnh tôi có vô vàn điểm yếu!",
   "status": "Berjalan",
   "author": "Komatsuri Tamago",
   "illustrator": "Komatsuri Tamago",
@@ -23,23 +23,35 @@
   "synopsis": "Manga                    Tonari no Seki no Yankee JK no Jakuten yang dibuat oleh komikus bernama\n                    Komatsuri Tamago ini bercerita tentang\n                    Rahasia-rahasianya yang hanya dia yang tahu…\r\n\r\nItsuki Hayashi, seorang otaku pemalu yang baru saja masuk SMA dan ingin menjadi seorang seniman manga, duduk di sebelah seorang siswi Yankee yang tampak sangat menakutkan! Cara bicaranya, penampilannya, tingkah lakunya, semuanya tentang dirinya menakutkan… Tapi ternyata, dia memiliki banyak kelemahan yang tak terduga!",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Tonari no Seki no Yankee JK no Jakuten Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLXNla2ktbm8teWFua2VlLWprLW5vLWpha3V0ZW4tY2hhcHRlci01Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Tonari no Seki no Yankee JK no Jakuten Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLXNla2ktbm8teWFua2VlLWprLW5vLWpha3V0ZW4tY2hhcHRlci00Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Tonari no Seki no Yankee JK no Jakuten Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLXNla2ktbm8teWFua2VlLWprLW5vLWpha3V0ZW4tY2hhcHRlci0zLw==",
-      "date": "4 jam yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Tonari no Seki no Yankee JK no Jakuten Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLXNla2ktbm8teWFua2VlLWprLW5vLWpha3V0ZW4tY2hhcHRlci0yLw==",
-      "date": "4 jam yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tonari no Seki no Yankee JK no Jakuten Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLXNla2ktbm8teWFua2VlLWprLW5vLWpha3V0ZW4tY2hhcHRlci0xLw==",
-      "date": "4 hari yang lalu"
+      "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 5
 }
