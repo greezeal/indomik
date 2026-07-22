@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.29,
-  "scraped_at": "2026-07-22T10:03:29.725294",
+  "scraped_at": "2026-07-22T21:24:53.582507",
   "alternative_titles": "僕のいけずな婚約者, My Fiance is So Mean!",
   "status": "Berjalan",
   "author": "Riku Fuyutani",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Boku no Ikezuna Konyakusha yang dibuat oleh komikus bernama\n                    Riku Fuyutani ini bercerita tentang\n                    Miyuki-san adalah seorang wanita muda yang lahir di Kyoto. Hubunganku dengannya tidak bisa digambarkan sebagai baik. Karena… \"Kamu sangat pandai dalam menyanjung.\" Apakah kata-kata itu tulus? Atau hanya untuk pertunjukan? Kisah cinta yang membuat frustrasi ketika perasaan kami terhadap satu sama lain terus melenceng.",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xMi8=",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Boku no Ikezuna Konyakusha Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xMS8=",
-      "date": "3 menit yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "10",
@@ -89,5 +95,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }
