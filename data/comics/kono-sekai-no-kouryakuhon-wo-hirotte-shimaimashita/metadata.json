@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 8.65,
-  "scraped_at": "2026-06-30T01:36:49.145500",
+  "scraped_at": "2026-07-23T16:18:29.072215",
   "alternative_titles": "I Picked Up This World's Strategy Guide!, この世界の攻略本を拾ってしまいました",
   "status": "Berjalan",
   "author": "Acchi Ai",
@@ -23,10 +23,34 @@
   "synopsis": "Manga                    Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita yang dibuat oleh komikus bernama\n                    Acchi Ai ini bercerita tentang\n                    Sana, putri dari toko peralatan di sudut kota kastil, pergi ke hutan untuk memetik ramuan obat seperti biasa untuk membuat ramuan pemulihan untuk produk toko.\r\nDi sana, Sana mengambil buku misteriusnya.\r\nKarena dia membaca buku strategi, putri dari toko perkakas, yang seharusnya tidak ada hubungannya dengan cerita, sangat terlibat dalam cerita permainan...!?\r\nFantasi petualangan komedi romantis dunia lainnya!",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1zZWthaS1uby1rb3VyeWFrdWhvbi13by1oaXJvdHRlLXNoaW1haW1hc2hpdGEtY2hhcHRlci0xMy8=",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "12.5",
+      "title": "Komik Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita Chapter 12.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1zZWthaS1uby1rb3VyeWFrdWhvbi13by1oaXJvdHRlLXNoaW1haW1hc2hpdGEtY2hhcHRlci0xMi01Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1zZWthaS1uby1rb3VyeWFrdWhvbi13by1oaXJvdHRlLXNoaW1haW1hc2hpdGEtY2hhcHRlci0xMi8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1zZWthaS1uby1rb3VyeWFrdWhvbi13by1oaXJvdHRlLXNoaW1haW1hc2hpdGEtY2hhcHRlci0xMS8=",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1zZWthaS1uby1rb3VyeWFrdWhvbi13by1oaXJvdHRlLXNoaW1haW1hc2hpdGEtY2hhcHRlci0xMC8=",
-      "date": "2 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -107,5 +131,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 14
+  "total_chapters": 18
 }

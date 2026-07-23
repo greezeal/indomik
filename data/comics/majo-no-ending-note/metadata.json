@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-06-28T22:48:36.603814",
+  "scraped_at": "2026-07-23T16:14:56.036397",
   "alternative_titles": "魔女の終活帳, The Witch's Ending Note, Catatan Akhir sang Penyihir",
   "status": "Berjalan",
   "author": "Sora Ishihara",
@@ -21,23 +21,41 @@
   "synopsis": "Manga                    Majo no Ending Note yang dibuat oleh komikus bernama\n                    Sora Ishihara ini bercerita tentang\n                    Dua puluh tahun setelah Raja Iblis dikalahkan oleh kelompok Pahlawan... Dyd, seorang petugas kamar mayat yang bekerja di rumah duka keluarganya, bertemu dengan Nina-Nina, penyihir legendaris dari kelompok Pahlawan. Dia juga kebetulan adalah \"cinta pertama\" Dyd. Meskipun terlihat seperti gadis muda, Nina-Nina telah hidup selama hampir 2.000 tahun. Karena sifat penyihir, yang membawa malapetaka jika mereka mati dan meninggalkan penyesalan, permintaan yang diterima Dyd adalah untuk membantunya dalam \"perencanaan akhir hidupnya\"...!?",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Majo no Ending Note Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTYv",
+      "date": "46 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Majo no Ending Note Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Majo no Ending Note Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTQv",
+      "date": "2 minggu yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Majo no Ending Note Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTMv",
-      "date": "38 menit yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Majo no Ending Note Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTIv",
-      "date": "1 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Majo no Ending Note Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTEv",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 6
 }

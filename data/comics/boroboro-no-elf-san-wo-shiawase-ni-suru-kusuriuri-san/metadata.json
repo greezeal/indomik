@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.26,
-  "scraped_at": "2026-07-23T04:42:59.436131",
+  "scraped_at": "2026-07-23T16:15:06.320834",
   "alternative_titles": "ボロボロのエルフさんを幸せにする薬売りさん, Boroboro no Elf-san o Shiawase ni Suru Kusuriuri-san, The Apothecary is Gonna Make This Ragged Elf Happy, The Apothecary Who'll Make This Battered Elf Happy, Chàng Dược Sư Sẽ Khiến Nàng Elf Được Hạnh Phúc, Sang Apoteker Akan Membuat Elf Malang Ini Bahagia",
   "status": "Berjalan",
   "author": "Akasaka Kyou,Giba-chan",
@@ -26,10 +26,16 @@
   "synopsis": "Manga                    Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san yang dibuat oleh komikus bernama\n                    Akasaka Kyou,Giba-chan ini bercerita tentang\n                    Seorang apoteker yang mengelola sebuah bengkel kecil di desa terpencil suatu hari didatangi oleh seorang pemilik pegadaian yang sudah dikenalnya, menanyakan apakah ia bersedia menerima peri yang compang-camping sebagai bahan obat. Merasa sangat marah melihat banyaknya bekas luka di sekujur tubuhnya, apoteker itu menghubunginya dan memutuskan untuk mengobatinya, tetapi…",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9yb2Jvcm8tbm8tZWxmLXNhbi13by1zaGlhd2FzZS1uaS1zdXJ1LWt1c3VyaXVyaS1zYW4tY2hhcHRlci0xOS8=",
+      "date": "43 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9yb2Jvcm8tbm8tZWxmLXNhbi13by1zaGlhd2FzZS1uaS1zdXJ1LWt1c3VyaXVyaS1zYW4tY2hhcHRlci0xOC8=",
-      "date": "9 menit yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "17",
@@ -152,5 +158,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 22
 }
