@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-08T03:55:37.891549",
+  "scraped_at": "2026-07-24T05:32:05.368080",
   "alternative_titles": "최강의 로맨티스트",
   "status": "Berjalan",
   "author": "Hanbyeol",
@@ -20,46 +20,58 @@
   "synopsis": "Manhwa                    The Ultimate Romanticist yang dibuat oleh komikus bernama\n                    Hanbyeol ini bercerita tentang\n                    Ryu Woo-jin, petarung terbaik tak terkalahkan di SMA Dupal — SMA terburuk di negara itu. Tak seorang pun bisa mengalahkannya dalam pertarungan, tetapi sebenarnya dia adalah penggemar berat kisah romantis dan calon kreator webtoon. Bertekad untuk menemukan kisah romantis sejati, Woo-jin pindah ke sekolah campuran biasa. Akankah dia mampu menemukan materi kisah romantis yang manis di sana dan akhirnya menciptakan karya yang layak?",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik The Ultimate Romanticist Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMjEv",
+      "date": "13 jam yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik The Ultimate Romanticist Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMjAv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik The Ultimate Romanticist Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMTkv",
-      "date": "23 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik The Ultimate Romanticist Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMTgv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The Ultimate Romanticist Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMTcv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Ultimate Romanticist Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMTYv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Ultimate Romanticist Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMTUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Ultimate Romanticist Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMTQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The Ultimate Romanticist Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXJvbWFudGljaXN0LWNoYXB0ZXItMTMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -134,5 +146,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 21
 }

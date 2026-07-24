@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-22T18:49:39.361664",
+  "scraped_at": "2026-07-24T05:29:37.625607",
   "alternative_titles": "重生水浒世界之最强武大郎",
   "status": "Berjalan",
   "author": "Meow Meow Anime, Meow Culture",
@@ -24,22 +24,28 @@
   "synopsis": "Manhua                    Reborn in the Water Margin World as the Strongest Wu Dalang yang dibuat oleh komikus bernama\n                    Meow Meow Anime, Meow Culture ini bercerita tentang\n                    Wu Zhi, seorang pemuda modern, melakukan perjalanan ke dunia Water Margin dan bertukar tubuh dengan Wu Dalang, mengakali Ximen Qing,\r\ndan menggunakan kemampuan prekognitifnya untuk memenangkan hati para pahlawan.",
   "chapters": [
     {
+      "chapter": "59",
+      "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01OS8=",
+      "date": "13 jam yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01OC8=",
-      "date": "21 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01Ny8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01Ni8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "55",
@@ -372,5 +378,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 58
+  "total_chapters": 59
 }

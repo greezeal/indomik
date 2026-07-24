@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.16,
-  "scraped_at": "2026-07-23T16:11:48.933929",
+  "scraped_at": "2026-07-24T05:32:40.977366",
   "alternative_titles": "김오진과 이상한 동물들, Kim O-jin and the Strange Animals",
   "status": "Berjalan",
   "author": "Kisun",
@@ -20,22 +20,28 @@
   "synopsis": "Manhwa                    Kim Ohjin’s Adventures With Strange Animals yang dibuat oleh komikus bernama\n                    Kisun ini bercerita tentang\n                    Dokter hewan Kim Ohjin tiba-tiba dipanggil oleh seekor naga. Setelah berhasil merawat hewan peliharaan naga itu, ia kembali ke rumah... hanya untuk menemukan dirinya di dunia lain.\r\n\r\n\"Hewan di dunia lain tetaplah hewan, kan?\" Saya adalah seorang dokter hewan yang nyaris tidak bisa bertahan hidup di dunia nyata, tetapi sekarang, di dunia baru yang aneh ini, saya menjadi dokter terkenal?\r\n\r\nKarena klinik lama saya hampir tutup, saya mengarahkan pandangan saya pada peluang baru—klinik kedua saya, dan mudah-mudahan, sukses besar!",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItNTQv",
+      "date": "13 jam yang lalu"
+    },
+    {
       "chapter": "53",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItNTMv",
-      "date": "7 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItNTIv",
-      "date": "7 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Kim Ohjin’s Adventures With Strange Animals Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltLW9oamlucy1hZHZlbnR1cmVzLXdpdGgtc3RyYW5nZS1hbmltYWxzLWNoYXB0ZXItNTEv",
-      "date": "7 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "50",
@@ -338,5 +344,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 53
+  "total_chapters": 54
 }
