@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-24T05:33:45.190504",
+  "scraped_at": "2026-07-24T17:20:15.086095",
   "alternative_titles": "BAR Flowers",
   "status": "Berjalan",
   "author": "Yukino",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Bar Flowers yang dibuat oleh komikus bernama\n                    Yukino ini bercerita tentang\n                    Komik terbaru dari Yukino, author komik “Jubunnoichi no Hanayome”",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Bar Flowers Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zMC8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik Bar Flowers Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0yOS8=",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Bar Flowers Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0yOC8=",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "27",
@@ -203,5 +209,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }

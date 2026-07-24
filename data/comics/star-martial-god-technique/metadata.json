@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.87,
-  "scraped_at": "2026-07-23T16:15:49.277802",
+  "scraped_at": "2026-07-24T17:18:07.720500",
   "alternative_titles": "Dewa Silat Bintang, El secreto del Guerrero Estrella, SMGT, Tinh Võ Thần Quyết, Xing Wu Shen Jue, Xīng Wǔshén Jué, Техника Бога звёздных боевых искусств, 星武神诀",
   "status": "Berjalan",
   "author": "Mad Snail, Taxue Dongman",
@@ -27,16 +27,22 @@
   "synopsis": "Manhua                    Star Martial God Technique yang dibuat oleh komikus bernama\n                    Mad Snail, Taxue Dongman ini bercerita tentang\n                    Di seluruh dunia ada dua belas jalur untuk mendaki Menara Dewa, dan dalam legenda dua belas jalur ini mengarah ke jalan legendaris keabadian. Namun jalan di Menara Dewa, terlalu panjang, tanpa akhir.\r\nDi zaman kuno dulu ada banyak jenis seni bela diri, sayangnya dunia mengalami perubahan yang mengerikan, dan hanya tiga yang tersisa: Flame, Dragon, dan Star Martial Arts. Generasi ahli dari ketiga pencak silat tersebut mencari jalan keabadian.\r\nMenemani praktisi Seni Bela Diri Bintang dalam perjalanan hidupnya, dengan wanita cantik di sisinya, dan berencana untuk menjadi Dewa Tertinggi.",
   "chapters": [
     {
+      "chapter": "801",
+      "title": "Komik Star Martial God Technique Chapter 801",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci04MDEv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "799",
       "title": "Komik Star Martial God Technique Chapter 799",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci03OTkv",
-      "date": "52 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "798",
       "title": "Komik Star Martial God Technique Chapter 798",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci03OTgv",
-      "date": "52 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "797",
@@ -90,19 +96,19 @@
       "chapter": "789",
       "title": "Komik Star Martial God Technique Chapter 789",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci03ODkv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "788",
       "title": "Komik Star Martial God Technique Chapter 788",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci03ODgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "787",
       "title": "Komik Star Martial God Technique Chapter 787",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci03ODcv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "786",
@@ -186,7 +192,7 @@
       "chapter": "773",
       "title": "Komik Star Martial God Technique Chapter 773",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci03NzMv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "772",
@@ -288,7 +294,7 @@
       "chapter": "756",
       "title": "Komik Star Martial God Technique Chapter 756",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci03NTYv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "755",
@@ -2316,7 +2322,7 @@
       "chapter": "417",
       "title": "Komik Star Martial God Technique Chapter 417",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Rhci1tYXJ0aWFsLWdvZC10ZWNobmlxdWUtY2hhcHRlci00MTcv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "416",
@@ -4815,5 +4821,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 798
+  "total_chapters": 799
 }

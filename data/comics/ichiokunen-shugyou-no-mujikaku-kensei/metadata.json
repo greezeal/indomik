@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-19T11:51:29.304005",
+  "scraped_at": "2026-07-24T17:23:33.651908",
   "alternative_titles": "一億年修行の無自覚剣聖〜ただの棒だと馬鹿にされた万能の神器と、極限の修行で生み出した『剣鬼』の人格で異世界を圧倒する〜, The Unaware Sword Saint Who Trained for 1.000.000.000.600 Years,The Unaware Sword Saint Who Trained for 100 Million Years ~Overwhelming the Otherworld with the Almighty Divine Tool Mocked as Just a Stick and the \"Sword Demon\" Persona Created Through Extreme Training~, 1억 년 수행한 무자각 검성 ~그저 막대기라고 바보 취급 당했던 만능의 신기와, 극한의 수행으로 만들어낸 '검귀'의 인격으로 이세계를 압도한다~, El Santo de la Espada inconsciente que entrenó durante 100 millones de años ~Abrumando al otro mundo con el arma divina omnipotente burlada como solo un palo y la personalidad del \"Demonio de la Espada\" creada a través de un entrenamiento extremo~, Kiếm Thánh không tự giác sau 100 triệu năm tu luyện ~Áp đảo dị giới bằng thần khí vạn năng từng bị chế giễu là cây gậy bình thường cùng nhân cách \"Kiếm Quỷ\" được tạo ra từ quá trình tu luyện khắc nghiệt~",
   "status": "Berjalan",
   "author": "Ibarakino",
@@ -27,17 +27,23 @@
   "synopsis": "Manga                    Ichiokunen Shugyou no Mujikaku Kensei yang dibuat oleh komikus bernama\n                    Ibarakino ini bercerita tentang\n                    Satu-satunya alasan dia menjadi yang terkuat adalah... usaha!! Ichitaro, seorang siswa SMA, memiliki kepribadian yang membuatnya benar-benar terfokus pada satu hal. Suatu hari, seluruh kelasnya dipindahkan ke dunia lain sebagai pahlawan. Peringkat pahlawan yang diberikan kepadanya di tempat tujuannya adalah yang terburuk. Dianggap sebagai makhluk yang tidak berguna, Ichitaro dikurung di penjara tempat waktu berhenti. Apa yang dia lakukan di sana... adalah berlatih selama 100 juta tahun. Pada saat dia keluar dari penjara, dia telah menguasai setiap gaya ilmu pedang, menjadi pahlawan terkuat!!",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Ichiokunen Shugyou no Mujikaku Kensei Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNoaW9rdW5lbi1zaHVneW91LW5vLW11amlrYWt1LWtlbnNlaS1jaGFwdGVyLTMv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Ichiokunen Shugyou no Mujikaku Kensei Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNoaW9rdW5lbi1zaHVneW91LW5vLW11amlrYWt1LWtlbnNlaS1jaGFwdGVyLTIv",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Ichiokunen Shugyou no Mujikaku Kensei Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWNoaW9rdW5lbi1zaHVneW91LW5vLW11amlrYWt1LWtlbnNlaS1jaGFwdGVyLTEv",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }
