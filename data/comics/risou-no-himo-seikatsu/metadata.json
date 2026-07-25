@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.23,
-  "scraped_at": "2026-07-22T10:05:11.963803",
+  "scraped_at": "2026-07-25T07:30:42.245953",
   "alternative_titles": "A Fantasy Lazy Life (FR), An Ideal Lazy Life, The Ideal Sponger Life, Моя идеальная жизнь, 理想のヒモ生活, 理想的小白脸生活, 이상적인 기둥서방 생활",
   "status": "Berjalan",
   "author": "Watanabe Tsunehiko",
@@ -26,10 +26,22 @@
   "synopsis": "Manga                    Risou no Himo Seikatsu yang dibuat oleh komikus bernama\n                    Watanabe Tsunehiko ini bercerita tentang\n                    Suatu hari, karyawan biasa Yamai Zenjirou memiliki pengalaman di luar dunia ini — secara harfiah! Dia ditarik dari Bumi dan diseret ke dunia lain di mana sihir tumbuh subur dan seorang ratu yang cantik dan kuat membutuhkan pendamping. Sekarang dia ditekan untuk menikahi raja itu dan membantunya melahirkan seorang anak. Akankah Zenjirou menerima kehidupan cinta yang malas dan mewah ini dengan mengorbankan rumahnya?",
   "chapters": [
     {
+      "chapter": "91",
+      "title": "Komik Risou no Himo Seikatsu Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTkxLw==",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "90",
+      "title": "Komik Risou no Himo Seikatsu Chapter 90",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTkwLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "89",
       "title": "Komik Risou no Himo Seikatsu Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTg5Lw==",
-      "date": "12 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "88",
@@ -47,7 +59,7 @@
       "chapter": "86",
       "title": "Komik Risou no Himo Seikatsu Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTg2Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "85",
@@ -584,5 +596,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 93
+  "total_chapters": 95
 }

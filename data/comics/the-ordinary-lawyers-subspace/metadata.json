@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-24T22:46:13.164281",
+  "scraped_at": "2026-07-25T07:34:13.136033",
   "alternative_titles": "Dimensi Rahasia Sang Pengacara Biasa, The Pocket Dimension of an Ordinary Lawyer, 범상한 변호사의 아공간",
   "status": "Berjalan",
   "author": "Hyenak, Seokan Dubui",
@@ -19,10 +19,28 @@
   "synopsis": "Manhwa                    The Ordinary Lawyer’s Subspace yang dibuat oleh komikus bernama\n                    Hyenak, Seokan Dubui ini bercerita tentang\n                    Sebuah pintu aneh muncul di hadapan pengacara Han Beom-sang. Di balik pintu itu terdapat ruang di mana waktu tidak mengalir.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik The Ordinary Lawyer’s Subspace Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yZGluYXJ5LWxhd3llcnMtc3Vic3BhY2UtY2hhcHRlci0zNy8=",
+      "date": "48 menit yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik The Ordinary Lawyer’s Subspace Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yZGluYXJ5LWxhd3llcnMtc3Vic3BhY2UtY2hhcHRlci0zNi8=",
+      "date": "48 menit yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik The Ordinary Lawyer’s Subspace Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yZGluYXJ5LWxhd3llcnMtc3Vic3BhY2UtY2hhcHRlci0zNS8=",
+      "date": "48 menit yang lalu"
+    },
+    {
       "chapter": "34",
       "title": "Komik The Ordinary Lawyer’s Subspace Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yZGluYXJ5LWxhd3llcnMtc3Vic3BhY2UtY2hhcHRlci0zNC8=",
-      "date": "2 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "33",
@@ -229,5 +247,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 38
 }
