@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.44,
-  "scraped_at": "2026-07-10T08:50:35.379036",
+  "scraped_at": "2026-07-26T01:20:26.756389",
   "alternative_titles": "Mobu kara Hajimaru Tansaku Eiyuutan, The Story of an Exploration Hero Who Has Worked His Way up From Common People, モブから始まる探索英雄譚, モブから始まる英雄譚",
   "status": "Berjalan",
   "author": "Kaito (II)",
@@ -22,70 +22,124 @@
   "synopsis": "Manga                    Mob kara Hajimaru Tansaku Eiyuutan yang dibuat oleh komikus bernama\n                    Kaito (II) ini bercerita tentang\n                    Kaito Takagi, seorang siswa SMA dengan status karakter yang buruk, adalah seorang penjelajah yang berburu slime setiap hari dan mendapatkan uang dari dungeon yang muncul di Jepang.\r\nSuatu hari, ‘Golden Slime’ yang belum pernah dia lihat muncul di hadapannnya. Item super langka yang dapat memanggil servant khusus pun muncul ketika dia mengalahkannya.\r\n\r\nInilah awal dari kisah battle fantasy masa kini dari seorang explorer dungeon!",
   "chapters": [
     {
+      "chapter": "21.5",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 21.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTIxLTUv",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTIxLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTIwLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTE5Lw==",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTE4Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTE3Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTE2Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTE1Lw==",
+      "date": "6 hari yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTE0Lw==",
+      "date": "6 hari yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTEzLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTEyLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTExLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTEwLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTkv",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTgv",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTcv",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTYv",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTUv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTQv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Mob kara Hajimaru Tansaku Eiyuutan Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iLWthcmEtaGFqaW1hcnUtdGFuc2FrdS1laXl1dXRhbi1jaGFwdGVyLTMv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
@@ -112,5 +166,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 24
 }

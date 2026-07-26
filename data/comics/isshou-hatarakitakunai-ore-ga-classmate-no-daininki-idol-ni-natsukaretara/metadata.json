@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.69,
-  "scraped_at": "2026-07-22T10:11:08.324602",
+  "scraped_at": "2026-07-26T01:20:51.167781",
   "alternative_titles": "一生働きたくない俺が、クラスメイトの大人気アイドルに懐かれたら",
   "status": "Berjalan",
   "author": "Kishimoto Kazuha",
@@ -22,10 +22,22 @@
   "synopsis": "Manga                    Isshou Hatarakitakunai Ore ga Classmate no Daininki Idol ni Natsukaretara yang dibuat oleh komikus bernama\n                    Kishimoto Kazuha ini bercerita tentang\n                    Rintaro Shido, seorang siswa SMA yang bercita-cita menjadi ibu rumah tangga penuh waktu, satu kelas dengan idola yang sangat populer, Rei Otosaki. Keduanya tidak memiliki hubungan selain menjadi teman sekelas, tetapi hubungan mereka berubah drastis ketika Rintaro menyajikan makanan rumahan untuk Rei setelah dia hampir pingsan karena kelaparan! Makanannya sangat enak sehingga Rei berkata, \"Bisakah saya datang ke sini setiap hari untuk makan?\"...?!",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik Isshou Hatarakitakunai Ore ga Classmate no Daininki Idol ni Natsukaretara Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LWhhdGFyYWtpdGFrdW5haS1vcmUtZ2EtY2xhc3NtYXRlLW5vLWRhaW5pbmtpLWlkb2wtbmktbmF0c3VrYXJldGFyYS1jaGFwdGVyLTI2Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik Isshou Hatarakitakunai Ore ga Classmate no Daininki Idol ni Natsukaretara Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LWhhdGFyYWtpdGFrdW5haS1vcmUtZ2EtY2xhc3NtYXRlLW5vLWRhaW5pbmtpLWlkb2wtbmktbmF0c3VrYXJldGFyYS1jaGFwdGVyLTI1Lw==",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik Isshou Hatarakitakunai Ore ga Classmate no Daininki Idol ni Natsukaretara Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNzaG91LWhhdGFyYWtpdGFrdW5haS1vcmUtZ2EtY2xhc3NtYXRlLW5vLWRhaW5pbmtpLWlkb2wtbmktbmF0c3VrYXJldGFyYS1jaGFwdGVyLTI0Lw==",
-      "date": "53 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "23",
@@ -172,5 +184,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 27
 }

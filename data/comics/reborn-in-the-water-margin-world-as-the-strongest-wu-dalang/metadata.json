@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-24T05:29:37.625607",
+  "scraped_at": "2026-07-26T01:21:44.956684",
   "alternative_titles": "重生水浒世界之最强武大郎",
   "status": "Berjalan",
   "author": "Meow Meow Anime, Meow Culture",
@@ -24,28 +24,40 @@
   "synopsis": "Manhua                    Reborn in the Water Margin World as the Strongest Wu Dalang yang dibuat oleh komikus bernama\n                    Meow Meow Anime, Meow Culture ini bercerita tentang\n                    Wu Zhi, seorang pemuda modern, melakukan perjalanan ke dunia Water Margin dan bertukar tubuh dengan Wu Dalang, mengakali Ximen Qing,\r\ndan menggunakan kemampuan prekognitifnya untuk memenangkan hati para pahlawan.",
   "chapters": [
     {
+      "chapter": "61",
+      "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci02MS8=",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "60",
+      "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci02MC8=",
+      "date": "14 jam yang lalu"
+    },
+    {
       "chapter": "59",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01OS8=",
-      "date": "13 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01OC8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01Ny8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01Ni8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "55",
@@ -57,13 +69,13 @@
       "chapter": "54",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01NC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Reborn in the Water Margin World as the Strongest Wu Dalang Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVib3JuLWluLXRoZS13YXRlci1tYXJnaW4td29ybGQtYXMtdGhlLXN0cm9uZ2VzdC13dS1kYWxhbmctY2hhcHRlci01My8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "52",
@@ -378,5 +390,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 61
 }
