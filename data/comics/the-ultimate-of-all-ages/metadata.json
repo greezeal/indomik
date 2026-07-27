@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-27T15:11:20.517142",
+  "scraped_at": "2026-07-27T17:10:18.393765",
   "alternative_titles": "万古至尊",
   "status": "Berjalan",
   "author": "太一生水",
@@ -23,10 +23,16 @@
   "synopsis": "Manhua                    The Ultimate of All Ages yang dibuat oleh komikus bernama\n                    太一生水 ini bercerita tentang\n                    Pertama di antara sepuluh kaisar bela diri, Kaisar Bela Diri Peerless Gu Feiyang menemui ajalnya di pegunungan Tiandang. Dia bereinkarnasi lima belas tahun kemudian, sebagai Li Yun Xiao dari Bangsa Tianshui, dan dengan demikian memulai pertempuran yang menantang surga dengan talenta yang tak terhitung jumlahnya dari generasi saat ini. Seni bela diri dari sembilan surga dan sepuluh realm suci. Sejak saat itu, seluruh dunia dibakar.",
   "chapters": [
     {
+      "chapter": "550",
+      "title": "Komik The Ultimate of All Ages Chapter 550",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTUwLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "549",
       "title": "Komik The Ultimate of All Ages Chapter 549",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLW9mLWFsbC1hZ2VzLWNoYXB0ZXItNTQ5Lw==",
-      "date": "28 menit yang lalu"
+      "date": "2 jam yang lalu"
     },
     {
       "chapter": "548",
@@ -3311,5 +3317,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 548
+  "total_chapters": 549
 }
