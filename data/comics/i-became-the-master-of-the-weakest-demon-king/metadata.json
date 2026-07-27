@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-20T12:39:41.543906",
+  "scraped_at": "2026-07-27T08:41:46.829857",
   "alternative_titles": "Becoming the Mentor of the Weakest Demon King, I Became the Master of the Weakest Demon King, I Became the Teacher of the Weakest Demon Lord, The Mentor of the Weakest Demon Lord, 최약체 마왕의 스승이 되었다",
   "status": "Berjalan",
   "author": "Team the Sieg, Writing Eve",
@@ -23,34 +23,40 @@
   "synopsis": "Manhwa                    I Became the Master of the Weakest Demon King yang dibuat oleh komikus bernama\n                    Team the Sieg, Writing Eve ini bercerita tentang\n                    Setelah mengkritik akhir permainan \"Evil Queen Maker\", sang protagonis ditarik masuk sebagai guru Raja Iblis dan harus membesarkan Raja Iblis terlemah, Seere yang berusia 7 tahun, menjadi penguasa terkuat agar bisa melarikan diri.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik I Became the Master of the Weakest Demon King Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLW1hc3Rlci1vZi10aGUtd2Vha2VzdC1kZW1vbi1raW5nLWNoYXB0ZXItMzAv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik I Became the Master of the Weakest Demon King Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLW1hc3Rlci1vZi10aGUtd2Vha2VzdC1kZW1vbi1raW5nLWNoYXB0ZXItMjkv",
-      "date": "5 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik I Became the Master of the Weakest Demon King Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLW1hc3Rlci1vZi10aGUtd2Vha2VzdC1kZW1vbi1raW5nLWNoYXB0ZXItMjgv",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik I Became the Master of the Weakest Demon King Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLW1hc3Rlci1vZi10aGUtd2Vha2VzdC1kZW1vbi1raW5nLWNoYXB0ZXItMjcv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik I Became the Master of the Weakest Demon King Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLW1hc3Rlci1vZi10aGUtd2Vha2VzdC1kZW1vbi1raW5nLWNoYXB0ZXItMjYv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik I Became the Master of the Weakest Demon King Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLW1hc3Rlci1vZi10aGUtd2Vha2VzdC1kZW1vbi1raW5nLWNoYXB0ZXItMjUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -62,7 +68,7 @@
       "chapter": "23",
       "title": "Komik I Became the Master of the Weakest Demon King Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLW1hc3Rlci1vZi10aGUtd2Vha2VzdC1kZW1vbi1raW5nLWNoYXB0ZXItMjMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -197,5 +203,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }
