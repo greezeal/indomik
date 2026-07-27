@@ -2,11 +2,11 @@
   "slug": "kuroko-to-akuyaku-kun",
   "title": "Kuroko to Akuyaku-kun",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsva3Vyb2tvLXRvLWFrdXlha3Uta3VuLw==",
-  "cover_url": "",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDUvS29taWstS3Vyb2tvLXRvLUFrdXlha3Uta3VuLTIwOHgzMTkuanBn",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-05-05T04:50:14.311187",
+  "scraped_at": "2026-07-27T15:15:55.738377",
   "alternative_titles": "黒子と悪役くん, Kuroko and Villain-kun, Kuroko to Heel-kun, Kuroko Girl Meets Heel Boy, Kuroko and Her Sweet Villain",
   "status": "Berjalan",
   "author": "Yamashina Tina",
@@ -22,29 +22,47 @@
   "synopsis": "Manga                    Kuroko to Akuyaku-kun yang dibuat oleh komikus bernama\n                    Yamashina Tina ini bercerita tentang\n                    Kayoko Kuroda adalah siswi kelas satu SMA yang hanya ingin membantu orang di balik layar. Namun, saat ia mencoba menjalani kehidupan sehari-harinya sebagai \"kuroko,\" seorang kru panggung yang bekerja di belakang panggung, ia secara tak terduga bertemu dengan Rento Shishima, yang dikabarkan sebagai anak laki-laki paling berbahaya di sekolah! Tepat ketika ia mengira Shishima membantunya dengan pekerjaannya di belakang panggung, Shishima menyatakan akan menjadikannya tokoh utama! Kayoko hanya melihat kekacauan yang akan terjadi dalam kehidupan sekolahnya dengan Shishima-kun yang tak terduga!!",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Kuroko to Akuyaku-kun Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb2tvLXRvLWFrdXlha3Uta3VuLWNoYXB0ZXItNy8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Kuroko to Akuyaku-kun Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb2tvLXRvLWFrdXlha3Uta3VuLWNoYXB0ZXItNi8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Kuroko to Akuyaku-kun Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb2tvLXRvLWFrdXlha3Uta3VuLWNoYXB0ZXItNS8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Kuroko to Akuyaku-kun Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb2tvLXRvLWFrdXlha3Uta3VuLWNoYXB0ZXItNC8=",
-      "date": "21 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Kuroko to Akuyaku-kun Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb2tvLXRvLWFrdXlha3Uta3VuLWNoYXB0ZXItMy8=",
-      "date": "1 hari yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Kuroko to Akuyaku-kun Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb2tvLXRvLWFrdXlha3Uta3VuLWNoYXB0ZXItMi8=",
-      "date": "1 hari yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Kuroko to Akuyaku-kun Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb2tvLXRvLWFrdXlha3Uta3VuLWNoYXB0ZXItMS8=",
-      "date": "1 hari yang lalu"
+      "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 7
 }

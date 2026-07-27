@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.86,
-  "scraped_at": "2026-07-20T12:38:32.498008",
+  "scraped_at": "2026-07-27T15:16:11.033643",
   "alternative_titles": "売れ残りの奴隷エルフを拾ったので、娘にすることにした, Urenokori no Dorei Elf o Hirotta no de, Musume ni Suru Koto ni shita, My Daughter Was an Unsold Enslaved Elf, My daughter was an unsold slave elf.",
   "status": "Berjalan",
   "author": "Haruka Touko",
@@ -25,34 +25,40 @@
   "synopsis": "Manga                    Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita yang dibuat oleh komikus bernama\n                    Haruka Touko ini bercerita tentang\n                    Weiss, seorang penyihir yang tinggal di Zenith yang penuh bajingan, menemukan seorang gadis elf tinggi untuk dijual, spesies elf tingkat tinggi yang dikatakan telah punah.\r\n\r\nIa memutuskan untuk membelinya dan membesarkannya sebagai putrinya. Elf tinggi itu bahkan tidak tahu cara berbicara bahasa itu, tetapi kerja keras Weiss dalam membesarkannya tampaknya membuahkan hasil...?\r\n\r\nFantasi hangat dan lembut yang menampilkan ayah pemula Weiss dan putri elf kecilnya yang lucu!",
   "chapters": [
     {
+      "chapter": "28",
+      "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yOC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yNy8=",
-      "date": "11 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yNi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yNS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJlbm9rb3JpLW5vLWRvcmVpLWVsZi13by1oaXJvdHRhLW5vLWRlLW11c3VtZS1uaS1zdXJ1LWtvdG8tbmktc2hpdGEtY2hhcHRlci0yMy8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -235,5 +241,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 36
 }
