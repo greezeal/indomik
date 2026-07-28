@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-27T15:16:16.053024",
+  "scraped_at": "2026-07-28T12:22:02.121599",
   "alternative_titles": "千歳くんはラムネ瓶のなか",
   "status": "Berjalan",
   "author": "Hiromu",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Chitose-kun wa Ramune Bin no Naka (Webtoon) yang dibuat oleh komikus bernama\n                    Hiromu ini bercerita tentang\n                    Chitose Saku, anak SMA di sekolah elit Fukui, tuh bener-bener paket lengkap—pinter, jago olahraga, cakep lagi. Kayak manusia sempurna aja. Mulai dari Hiiragi Yūko yang auranya kayak putri bangsawan banget, sampai Uchida Yura si cantik tipe “cewek ideal banget”, Semua orang yang ngumpul di sekitar Saku juga isinya cowok-cewek cakep semua. Bikin orang melihat kearahnya terus. Suatu hari, beberapa waktu setelah naik kelas dua, Saku tiba-tiba ditembak sama Nanase Yūzuki—temen sekelas yang “sempurnanya” mirip banget sama dia—? Itu adalah drama masa muda anak-anak SMA—lugu dan meledak-ledak, manis tapi juga bikin deg-degan.",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0yMS8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0yMC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Chitose-kun wa Ramune Bin no Naka (Webtoon) Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpdG9zZS1rdW4td2EtcmFtdW5lLWJpbi1uby1uYWthLXdlYnRvb24tY2hhcHRlci0xOS8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -143,5 +149,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 21
 }

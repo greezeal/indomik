@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.13,
-  "scraped_at": "2026-07-27T08:42:44.474865",
+  "scraped_at": "2026-07-28T12:25:32.471167",
   "alternative_titles": "O Soldado Esqueleto Que Não Conseguia Proteger a Dungeon, Skeleton Soldier, The Skeleton Soldier Failed to Defend the Dungeon, Воин-скелет не смог удержать подземелье, 해골병사는 던전을 지키지 못했다",
   "status": "Berjalan",
   "author": "Sosori",
@@ -25,10 +25,16 @@
   "synopsis": "Manhwa                    Skeleton Soldier Couldn’t Protect the Dungeon yang dibuat oleh komikus bernama\n                    Sosori ini bercerita tentang\n                    Tujuan satu-satunya adalah untuk melindungi tuannya. Namun dia tidak berdaya untuk melindunginya. Tapi takdir memiliki lebih banyak untuk dia karena dia mendapat kesempatan lain untuk melindungi tuannya sekali lagi dan mengubah takdirnya.",
   "chapters": [
     {
+      "chapter": "372",
+      "title": "Komik Skeleton Soldier Couldn’t Protect the Dungeon Chapter 372",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2tlbGV0b24tc29sZGllci1jb3VsZG50LXByb3RlY3QtdGhlLWR1bmdlb24tY2hhcHRlci0zNzIv",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "371",
       "title": "Komik Skeleton Soldier Couldn’t Protect the Dungeon Chapter 371",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2tlbGV0b24tc29sZGllci1jb3VsZG50LXByb3RlY3QtdGhlLWR1bmdlb24tY2hhcHRlci0zNzEv",
-      "date": "13 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "370",
@@ -40,13 +46,13 @@
       "chapter": "369",
       "title": "Komik Skeleton Soldier Couldn’t Protect the Dungeon Chapter 369",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2tlbGV0b24tc29sZGllci1jb3VsZG50LXByb3RlY3QtdGhlLWR1bmdlb24tY2hhcHRlci0zNjkv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "368",
       "title": "Komik Skeleton Soldier Couldn’t Protect the Dungeon Chapter 368",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2tlbGV0b24tc29sZGllci1jb3VsZG50LXByb3RlY3QtdGhlLWR1bmdlb24tY2hhcHRlci0zNjgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "367",
@@ -1048,7 +1054,7 @@
       "chapter": "200",
       "title": "Komik Skeleton Soldier Couldn’t Protect the Dungeon Chapter 200",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2tlbGV0b24tc29sZGllci1jb3VsZG50LXByb3RlY3QtdGhlLWR1bmdlb24tY2hhcHRlci0yMDAv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "199",
@@ -1636,7 +1642,7 @@
       "chapter": "102",
       "title": "Komik Skeleton Soldier Couldn’t Protect the Dungeon Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2tlbGV0b24tc29sZGllci1jb3VsZG50LXByb3RlY3QtdGhlLWR1bmdlb24tY2hhcHRlci0xMDIv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "101",
@@ -2251,5 +2257,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 371
+  "total_chapters": 372
 }

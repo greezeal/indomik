@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.58,
-  "scraped_at": "2026-07-27T15:13:46.631213",
+  "scraped_at": "2026-07-28T12:21:31.399664",
   "alternative_titles": "A Rough Lady is Being Deceived, Arakure Ojyosama ha Monmon Shiteiru, Грубую леди обманули, Искушение трудной барышни, あらくれお嬢様はもんもんしている",
   "status": "Hiatus",
   "author": "Kinoshita Yuichi",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Arakure Ojousama wa Monmon Shiteiru yang dibuat oleh komikus bernama\n                    Kinoshita Yuichi ini bercerita tentang\n                    Temui Tsubaki Kuchinashi, Putri Manhater. Cantik dan populer, kekuatan inti Tsubaki di sekolah menengah berasal dari posisinya sebagai cucu kepala sekolah - cukup untuk dikatakan, tetapi setiap siswa atau guru yang bahkan memandangnya dengan cara yang salah dapat dikeluarkan pada saat itu juga.\r\n\r\nTemui Tadashi Kiritsu, kepala Komite Moral Publik. Setajam dan kaku seperti kacamatanya, Tadashi membenci cengkeraman besi Kuchinashi di sekolah. Tentu saja, tantangan terhadap pemerintahannya mengganggu Kuchinashi, dan dia memutuskan untuk menyingkirkannya sesegera mungkin. Rencananya? Masukkan dia ke dalam perangkap madu. Namun, itu lebih mudah diucapkan daripada dilakukan.\r\n\r\nAkankah dia menang sebelum hati nuraninya memakannya dari ejekan cabulnya sendiri? Akankah Tadashi bermain di tangannya? Orang seperti apa yang akan dia buktikan ketika menghadapi ejekan wanita itu?",
   "chapters": [
     {
+      "chapter": "60",
+      "title": "Komik Arakure Ojousama wa Monmon Shiteiru Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJha3VyZS1vam91c2FtYS13YS1tb25tb24tc2hpdGVpcnUtY2hhcHRlci02MC8=",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "59",
       "title": "Komik Arakure Ojousama wa Monmon Shiteiru Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJha3VyZS1vam91c2FtYS13YS1tb25tb24tc2hpdGVpcnUtY2hhcHRlci01OS8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Arakure Ojousama wa Monmon Shiteiru Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJha3VyZS1vam91c2FtYS13YS1tb25tb24tc2hpdGVpcnUtY2hhcHRlci01OC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Arakure Ojousama wa Monmon Shiteiru Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJha3VyZS1vam91c2FtYS13YS1tb25tb24tc2hpdGVpcnUtY2hhcHRlci01Ny8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Arakure Ojousama wa Monmon Shiteiru Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJha3VyZS1vam91c2FtYS13YS1tb25tb24tc2hpdGVpcnUtY2hhcHRlci01Ni8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "55",
@@ -383,5 +389,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 60
+  "total_chapters": 61
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-14T11:54:30.509131",
+  "scraped_at": "2026-07-28T12:24:54.190380",
   "alternative_titles": "I Became a Hatchling, One Day I Became a Hatchling, Trở Thành Rồng Nhỏ, 某天变成了幼龙, 어느 날 해츨링이 되었다",
   "status": "Berjalan",
   "author": "Panthera",
@@ -18,52 +18,64 @@
   "synopsis": "Manhwa                    I Became a Hatchling yang dibuat oleh komikus bernama\n                    Panthera ini bercerita tentang\n                    Imugi yang berusia 999 tahun, satu tahun lagi akan naik ke surga, dibunuh secara tidak adil dan terbangun mendapati dirinya berubah menjadi anak naga berusia satu tahun. Kehidupan keduanya dimulai dengan ia mempertahankan semua ingatan masa lalunya. Ia secara bertahap, dan sepenuhnya, larut dalam cinta tanpa syarat yang ia terima untuk pertama kalinya. Di tengah cinta dan perluasan cakrawala hidupnya, kehidupan kedua anak naga \"Rune\" dimulai saat ia melangkah menuju menjadi seekor naga, tujuan yang tidak dapat ia capai di kehidupan sebelumnya!",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik I Became a Hatchling Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xOS8=",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik I Became a Hatchling Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xOC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik I Became a Hatchling Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xNy8=",
-      "date": "45 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik I Became a Hatchling Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xNi8=",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik I Became a Hatchling Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xNS8=",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik I Became a Hatchling Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik I Became a Hatchling Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xMy8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik I Became a Hatchling Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xMi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik I Became a Hatchling Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xMS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik I Became a Hatchling Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1oYXRjaGxpbmctY2hhcHRlci0xMC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -120,5 +132,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 19
 }

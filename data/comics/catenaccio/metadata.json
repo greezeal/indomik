@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.26,
-  "scraped_at": "2026-07-25T07:27:06.936207",
+  "scraped_at": "2026-07-28T12:26:24.843763",
   "alternative_titles": "カテナチオ, Katena Chio",
   "status": "Berjalan",
   "author": "Morimoto Daisuke",
@@ -19,16 +19,34 @@
   "synopsis": "Manga                    Catenaccio yang dibuat oleh komikus bernama\n                    Morimoto Daisuke ini bercerita tentang\n                    Yataro Araki, anggota tim sepak bola SMA Tojo, mempunyai impian besar. Dalam satu dekade, ia melihat dirinya menaklukkan puncak tertinggi dunia sepak bola: “sepak bola!” Maju cepat ke pertandingan sepak bola terakhirnya sebelum lulus, pertandingan yang akan mewujudkan atau menghancurkan impiannya. Setelah sejauh ini gagal menarik perhatian pramuka, ia kini putus asa melakukan apa pun untuk membuktikan dirinya. Yataro bersiap untuk mengotori tangannya jika itu berarti menang. Jika itu berarti berdiri di puncak! Selamat datang di dunia sepak bola internasional! Tidak ada yang sakral, tidak ada aturan yang tidak dilanggar! Tidak ketika kemenangan sudah di depan mata!",
   "chapters": [
     {
+      "chapter": "86",
+      "title": "Komik Catenaccio Chapter 86",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTg2Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "85",
+      "title": "Komik Catenaccio Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTg1Lw==",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik Catenaccio Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTg0Lw==",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "83",
       "title": "Komik Catenaccio Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTgzLw==",
-      "date": "4 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Catenaccio Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2F0ZW5hY2Npby1jaGFwdGVyLTgyLw==",
-      "date": "24 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "81",
@@ -529,5 +547,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 85
+  "total_chapters": 88
 }
