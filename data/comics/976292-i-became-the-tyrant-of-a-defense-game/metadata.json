@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-28T01:54:16.126798",
+  "scraped_at": "2026-07-28T20:54:56.043011",
   "alternative_titles": "디펜스 게임의 폭군이 되었다",
   "status": "Berjalan",
   "author": "굥, 류은가람",
@@ -21,10 +21,22 @@
   "synopsis": "Manhwa                    I Became the Tyrant of a Defense Game yang dibuat oleh komikus bernama\n                    굥, 류은가람 ini bercerita tentang\n                    RPG Pertahanan Menara & Pelanggaran Bawah Tanah \r\nSaya melihat akhir permainan pada kesulitan yang tidak dapat diselesaikan oleh siapa pun.\r\nTetapi ketika Anda bangun, Anda curang dalam permainan.\r\nIni juga merupakan tahap tutorial yang tidak dapat diserang.\r\n\"Aku akan memastikan untuk menyelesaikannya, permainan pengemis ini...!\"",
   "chapters": [
     {
+      "chapter": "192",
+      "title": "Komik I Became the Tyrant of a Defense Game Chapter 192",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE5Mi8=",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "191",
+      "title": "Komik I Became the Tyrant of a Defense Game Chapter 191",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE5MS8=",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "190",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE5MC8=",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "189",
@@ -42,13 +54,13 @@
       "chapter": "187",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE4Ny8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "186",
       "title": "Komik I Became the Tyrant of a Defense Game Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXR5cmFudC1vZi1hLWRlZmVuc2UtZ2FtZS1jaGFwdGVyLTE4Ni8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "185",
@@ -1161,5 +1173,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 190
+  "total_chapters": 192
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.13,
-  "scraped_at": "2026-07-28T01:55:22.624825",
+  "scraped_at": "2026-07-28T20:58:48.447988",
   "alternative_titles": "천하제일 곤륜객잔, The World's Best Kunlun Inn, 天下一の崑崙客桟, 天下第一 崑崙客棧, 天下第一崑崙客棧",
   "status": "Tamat",
   "author": "Baekbo,Kim Jakka",
@@ -24,16 +24,22 @@
   "synopsis": "Manhwa                    The World’s Best Kunlun Tavern yang dibuat oleh komikus bernama\n                    Baekbo,Kim Jakka ini bercerita tentang\n                    “Siapa kamu…?” “Aku Unryong.”\r\n\r\nSetelah seratus tahun menjalani pelatihan isolasi, Unryong akhirnya kembali ke dunia. Namun, Sekte Kunlun yang pernah dikenalnya telah berubah drastis, terkikis oleh perjalanan waktu.\r\n\r\nKelaparan dan mengembara tanpa tujuan, Takdir mempertemukannya dengan pertemuan tak terduga.\r\n\r\n“Saat masa sulit, kita harus saling membantu, bukan?”\r\n\r\nTersentuh oleh kehangatan kebaikan orang asing setelah satu abad terisolasi, Unryong mendapati dirinya menginap di Penginapan Kunlun.\r\n\r\nDengan keterampilan bela diri yang tak tertandingi di seluruh negeri dan penguasaan kuliner yang bahkan dapat membuat prajurit paling ganas pun menangis, Unryong, yang sekarang menjadi koki Penginapan Kunlun, memulai babak baru dalam hidupnya—yang penuh dengan cita rasa, kehangatan, dan mungkin… sedikit kedamaian.",
   "chapters": [
     {
+      "chapter": "118",
+      "title": "Komik The World’s Best Kunlun Tavern Chapter 118",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkcy1iZXN0LWt1bmx1bi10YXZlcm4tY2hhcHRlci0xMTgv",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "117",
       "title": "Komik The World’s Best Kunlun Tavern Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkcy1iZXN0LWt1bmx1bi10YXZlcm4tY2hhcHRlci0xMTcv",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik The World’s Best Kunlun Tavern Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkcy1iZXN0LWt1bmx1bi10YXZlcm4tY2hhcHRlci0xMTYv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "115",
@@ -153,7 +159,7 @@
       "chapter": "96",
       "title": "Komik The World’s Best Kunlun Tavern Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkcy1iZXN0LWt1bmx1bi10YXZlcm4tY2hhcHRlci05Ni8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "95",
@@ -726,5 +732,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 117
+  "total_chapters": 118
 }

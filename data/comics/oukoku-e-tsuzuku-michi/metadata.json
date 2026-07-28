@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.77,
-  "scraped_at": "2026-07-28T01:55:53.301501",
+  "scraped_at": "2026-07-28T20:57:14.590689",
   "alternative_titles": "Road to Kingdom, Oukoku e Tsuzuku Michi dorei Kenshi no Nariagari Eiyūtan (Haaremu Raifu), Road to the Kingdom Slave Swordsman the Rise of Heroes - Harem Life, 王国へ続く道, 王国へ続く道 奴隷剣士の成り上がり英雄譚（ハーレムライフ）",
   "status": "Berjalan",
   "author": "Ito Toshinori",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Oukoku E Tsuzuku Michi yang dibuat oleh komikus bernama\n                    Ito Toshinori ini bercerita tentang\n                    Ini adalah kisah seorang budak gladiator muda di arena bawah tanah. Dia tidak tahu tentang masa lalunya atau bagaimana dia sampai di mana dia sekarang, hanya namanya Aegir, dan dia kuat.\r\n\r\nSuatu hari dia membunuh bos dan melarikan diri dari arena, bergabung dengan sekelompok tentara bayaran sebagai rekrutan baru. Dalam satu misi, mereka bertemu dengan vampir, Lucy, yang membantai band dengan kekuatannya yang tidak manusiawi. Setelah mengetahui bahwa Aegir hanya tahu cara membunuh, Lucy mengizinkannya tinggal di rumahnya, mendidik dan merawatnya.\r\n\r\nDua tahun berlalu, dan pada hari keberangkatan Aegir, mereka berdua bertukar janji bahwa jika Aegir menjadi raja dan memiliki tanah hutan Erg, dia bisa datang dan mengambilnya sebagai wanitanya. Menjadikan ini sebagai tujuan hidupnya, Aegir memulai perjalanan untuk menjadi pahlawan, raja, dan menemukan kerajaannya sendiri.",
   "chapters": [
     {
+      "chapter": "108",
+      "title": "Komik Oukoku E Tsuzuku Michi Chapter 108",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Vrb2t1LWUtdHN1enVrdS1taWNoaS1jaGFwdGVyLTEwOC8=",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "107",
       "title": "Komik Oukoku E Tsuzuku Michi Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Vrb2t1LWUtdHN1enVrdS1taWNoaS1jaGFwdGVyLTEwNy8=",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik Oukoku E Tsuzuku Michi Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Vrb2t1LWUtdHN1enVrdS1taWNoaS1jaGFwdGVyLTEwNi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "105",
@@ -714,5 +720,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 115
+  "total_chapters": 116
 }
