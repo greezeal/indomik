@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-28T20:57:19.435998",
+  "scraped_at": "2026-07-29T17:52:40.790128",
   "alternative_titles": "Ming Chao Bai Jia Zi , Kẻ Ăn Hại Triều Minh, Ming Dynasty's Failure, Míng Cháo Bài Jiā Zi, Profligate of Ming Dynasty, Scapegrace of Ming Dynasty, 明朝败家子",
   "status": "Berjalan",
   "author": "阅文漫画",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Ming Dynasty’s Failure yang dibuat oleh komikus bernama\n                    阅文漫画 ini bercerita tentang\n                    Karya parodi lucu baru! T: Orang seperti apa Fang Ji Fan? Ayahnya, Jenderal: Kegagalan anak saya (menangis). Yang Mulia Kaisar: Saya sakit kepala setiap kali dia membuka mulutnya. Saat dia melangkah ke arahku, aku ingin lari.\r\n\r\nYang Mulia Pangeran: Saya dikritik setiap hari karena dia. Fang Ji Fan: Saya di sini, teman-teman, apakah Anda merindukan saya? Jenderal, Kaisar, dan Pangeran: Ayo pergi dari sini!!",
   "chapters": [
     {
+      "chapter": "104",
+      "title": "Komik Ming Dynasty’s Failure Chapter 104",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWluZy1keW5hc3R5cy1mYWlsdXJlLWNoYXB0ZXItMTA0Lw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "103",
       "title": "Komik Ming Dynasty’s Failure Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWluZy1keW5hc3R5cy1mYWlsdXJlLWNoYXB0ZXItMTAzLw==",
-      "date": "18 menit yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "102",
@@ -147,7 +153,7 @@
       "chapter": "83",
       "title": "Komik Ming Dynasty’s Failure Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWluZy1keW5hc3R5cy1mYWlsdXJlLWNoYXB0ZXItODMv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "82",
@@ -642,5 +648,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 103
+  "total_chapters": 104
 }
