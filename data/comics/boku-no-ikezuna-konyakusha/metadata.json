@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.29,
-  "scraped_at": "2026-07-23T04:43:47.231756",
+  "scraped_at": "2026-08-01T14:04:44.735439",
   "alternative_titles": "僕のいけずな婚約者, My Fiance is So Mean!",
   "status": "Berjalan",
   "author": "Riku Fuyutani",
@@ -23,28 +23,70 @@
   "synopsis": "Manga                    Boku no Ikezuna Konyakusha yang dibuat oleh komikus bernama\n                    Riku Fuyutani ini bercerita tentang\n                    Miyuki-san adalah seorang wanita muda yang lahir di Kyoto. Hubunganku dengannya tidak bisa digambarkan sebagai baik. Karena… \"Kamu sangat pandai dalam menyanjung.\" Apakah kata-kata itu tulus? Atau hanya untuk pertunjukan? Kisah cinta yang membuat frustrasi ketika perasaan kami terhadap satu sama lain terus melenceng.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xOS8=",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xOC8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xNy8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xNi8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xNS8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xNC8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Boku no Ikezuna Konyakusha Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xMy8=",
+      "date": "3 hari yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik Boku no Ikezuna Konyakusha Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xMi8=",
-      "date": "17 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Boku no Ikezuna Konyakusha Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xMS8=",
-      "date": "11 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Boku no Ikezuna Konyakusha Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci0xMC8=",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Boku no Ikezuna Konyakusha Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1pa2V6dW5hLWtvbnlha3VzaGEtY2hhcHRlci05Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "8",
@@ -95,5 +137,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 19
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.8,
-  "scraped_at": "2026-08-01T04:51:24.417487",
+  "scraped_at": "2026-08-01T14:09:19.771785",
   "alternative_titles": "Kusunoki-san Failed to Debut in High School, 楠木さんは高校デビューに失敗している, 楠木同学高中出道失败了",
   "status": "Berjalan",
   "author": "Mii Mitsuki",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Kusunoki-san wa Koukou Debut ni Shippai shite Iru yang dibuat oleh komikus bernama\n                    Mii Mitsuki ini bercerita tentang\n                    Setelah tahun-tahun traumatisnya di sekolah menengah pertama, Shizuki Keisuke yang ultra-introvert memutuskan untuk mengubah hidupnya, dan memberikan dirinya perubahan total untuk \"debut\" sekolah menengahnya. Kehidupan sekolah menengah barunya tampak menjanjikan, karena tidak ada yang mengetahui masa lalunya yang tersembunyi... kecuali satu orang: Kusunoki Shizuka, yang juga mengubah dirinya untuk mengejar kehidupan sekolah menengah yang lebih sukses! Saat nasib mereka terjalin, akankah Keisuke pada akhirnya bisa menjalani kehidupan yang damai di sekolah menengah...?!",
   "chapters": [
     {
+      "chapter": "53",
+      "title": "Komik Kusunoki-san wa Koukou Debut ni Shippai shite Iru Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdW5va2ktc2FuLXdhLWtvdWtvdS1kZWJ1dC1uaS1zaGlwcGFpLXNoaXRlLWlydS1jaGFwdGVyLTUzLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "52.2",
       "title": "Komik Kusunoki-san wa Koukou Debut ni Shippai shite Iru Chapter 52.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdW5va2ktc2FuLXdhLWtvdWtvdS1kZWJ1dC1uaS1zaGlwcGFpLXNoaXRlLWlydS1jaGFwdGVyLTUyLTIv",
-      "date": "6 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "52.1",
       "title": "Komik Kusunoki-san wa Koukou Debut ni Shippai shite Iru Chapter 52.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3VzdW5va2ktc2FuLXdhLWtvdWtvdS1kZWJ1dC1uaS1zaGlwcGFpLXNoaXRlLWlydS1jaGFwdGVyLTUyLTEv",
-      "date": "6 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "51",
@@ -390,5 +396,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 62
 }

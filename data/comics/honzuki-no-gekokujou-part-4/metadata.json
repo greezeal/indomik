@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-27T15:15:14.752876",
+  "scraped_at": "2026-08-01T14:03:52.983268",
   "alternative_titles": "Ascendance of a Bookworm: Part 4, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 4-bu - Kizoku-in no Jishou Tosho Iin, 本好きの下剋上~司書になるためには手段を選んでいられません~第四部「貴族院の自称図書委員」",
   "status": "Berjalan",
   "author": "KAZUKI Miya",
@@ -25,40 +25,46 @@
   "synopsis": "Manga                    Honzuki no Gekokujou Part 4 yang dibuat oleh komikus bernama\n                    KAZUKI Miya ini bercerita tentang\n                    Rosemain ​​terbangun dari tidur panjangnya selama dua tahun ke dunia yang tidak seperti dia ingat. Sensasi aneh membuatnya gelisah, tapi dia tidak punya waktu untuk istirahat, dia akan segera terdaftar di Royal Academy sebagai kandidat Archduke, di mana dia akan diajari cara mengontrol mana, membuat alat sihir, dan melakukan sihir yang dibutuhkan untuk memerintah sebagai seorang Archduke. Dia memulai kehidupan asrama dengan siswa dari wilayah lain, bertujuan untuk menjadi kakak perempuan terbaik, tapi kecil kemungkinannya segala sesuatunya akan berjalan sesuai rencana ketika ada perpustakaan besar disana. Dia segera menuju ke perpustakaan, kandidat Archduke lainnya dan bahkan keluarga kerajaan menghilang sepenuhnya dari pikirannya. Dia benar-benar akan melakukan apapun untuk buku! Sekarang mulailah babak baru dari serial fantasi ini, dengan sekolah sebagai latarnya!",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik Honzuki no Gekokujou Part 4 Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC00LWNoYXB0ZXItNTQv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "53.5",
       "title": "Komik Honzuki no Gekokujou Part 4 Chapter 53.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC00LWNoYXB0ZXItNTMtNS8=",
-      "date": "3 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Honzuki no Gekokujou Part 4 Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC00LWNoYXB0ZXItNTMv",
-      "date": "3 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Honzuki no Gekokujou Part 4 Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC00LWNoYXB0ZXItNTIv",
-      "date": "3 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Honzuki no Gekokujou Part 4 Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC00LWNoYXB0ZXItNTEv",
-      "date": "3 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Honzuki no Gekokujou Part 4 Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC00LWNoYXB0ZXItNTAv",
-      "date": "3 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "49.5",
       "title": "Komik Honzuki no Gekokujou Part 4 Chapter 49.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC00LWNoYXB0ZXItNDktNS8=",
-      "date": "1 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "49",
@@ -397,5 +403,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 62
+  "total_chapters": 63
 }
