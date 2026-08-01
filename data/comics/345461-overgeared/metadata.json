@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.59,
-  "scraped_at": "2026-07-28T01:51:16.241435",
+  "scraped_at": "2026-08-01T01:21:31.393364",
   "alternative_titles": "Overgeared (Team Argo), Во всеоружии (перезапуск), تا دندان مسلح, 템빨",
   "status": "Berjalan",
   "author": "박새날, 이동욱",
@@ -26,28 +26,34 @@
   "synopsis": "Manhwa                    Overgeared yang dibuat oleh komikus bernama\n                    박새날, 이동욱 ini bercerita tentang\n                    [Shin Youngwoo (Nama Pengguna: Kisi)]\r\nGame VR terhebat di dunia \r\n\r\nBaik dalam kenyataan atau dalam game, kesialan selalu menimpanya ...\r\nHadiah tak terduga yang dia temukan selama pencarian, 'Buku Langka Pagma'.\r\nBerubah menjadi salah satu jenis, terkuat, kelas Legendaris di antara +2 miliar pengguna.\r\n\r\n\"Bagaimana kabarmu masih hidup ...?!\"\r\n\"Yah, tidak ada yang rumit ...\"\r\n\r\n\"Aku Terlambat.\"",
   "chapters": [
     {
+      "chapter": "333",
+      "title": "Komik Overgeared Chapter 333",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTMzMy8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "332",
       "title": "Komik Overgeared Chapter 332",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTMzMi8=",
-      "date": "4 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "331",
       "title": "Komik Overgeared Chapter 331",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTMzMS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "330",
       "title": "Komik Overgeared Chapter 330",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTMzMC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "329",
       "title": "Komik Overgeared Chapter 329",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTMyOS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "328",
@@ -59,7 +65,7 @@
       "chapter": "327",
       "title": "Komik Overgeared Chapter 327",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTMyNy8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "326",
@@ -83,7 +89,7 @@
       "chapter": "323",
       "title": "Komik Overgeared Chapter 323",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTMyMy8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "322",
@@ -239,13 +245,13 @@
       "chapter": "297",
       "title": "Komik Overgeared Chapter 297",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTI5Ny8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "296",
       "title": "Komik Overgeared Chapter 296",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTI5Ni8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "295",
@@ -1031,7 +1037,7 @@
       "chapter": "165",
       "title": "Komik Overgeared Chapter 165",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTE2NS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "164",
@@ -1637,7 +1643,7 @@
       "chapter": "64",
       "title": "Komik Overgeared Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmdlYXJlZC1jaGFwdGVyLTY0Lw==",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "63",
@@ -2024,5 +2030,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 333
+  "total_chapters": 334
 }
