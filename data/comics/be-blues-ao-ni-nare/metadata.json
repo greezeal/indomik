@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.56,
-  "scraped_at": "2026-07-20T12:39:53.612574",
+  "scraped_at": "2026-08-02T12:18:03.571381",
   "alternative_titles": "Be Blues!, Be Blues! - Ao ni Nare, BE BLUES! ~นักเตะเลือดซามูไร~, BE BLUES!～化身为青～, BE BLUES!~化身為青~, BE BLUES!～青になれ～, BE BLUES!~파랑수~, Вперёд, Синие!, ビーブルーズ!　〜あおになれ〜",
   "status": "Berjalan",
   "author": "Tanaka Motoyuki",
@@ -23,52 +23,58 @@
   "synopsis": "Manga                    BE BLUES ~Ao ni Nare~ yang dibuat oleh komikus bernama\n                    Tanaka Motoyuki ini bercerita tentang\n                    Jika Anda lahir di Jepang dan bermain sepak bola, pada akhirnya Anda ingin mengenakan seragam tim nasional! Itu sama untuk semua orang! Ichijou Ryuu adalah anak laki-laki yang bermimpi menjadi pemain tim nasional Jepang. Dengan teman kembar masa kecilnya, Yuuto dan Yuki, tujuan pertama mereka adalah memenangkan Kejuaraan Sepak Bola U-12 Jepang!\r\nKegembiraan satu lawan satu! Ketegangan di depan gawang! Kegembiraan karena melakukan permainan link up yang sempurna! Inti dari apa yang membuat sepak bola menyenangkan ada di sini.",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTI5Lw==",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTI4Lw==",
-      "date": "5 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTI3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTI2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTI1Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTI0Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTIzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTIyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTIxLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -86,7 +92,7 @@
       "chapter": "18",
       "title": "Komik BE BLUES ~Ao ni Nare~ Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmUtYmx1ZXMtYW8tbmktbmFyZS1jaGFwdGVyLTE4Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -191,5 +197,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }

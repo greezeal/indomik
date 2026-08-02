@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-01T22:12:09.909622",
+  "scraped_at": "2026-08-02T12:17:58.528881",
   "alternative_titles": "Daywalker, 데이워커",
   "status": "Berjalan",
   "author": "Mute",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    Day Walker yang dibuat oleh komikus bernama\n                    Mute ini bercerita tentang\n                    Agen operasi rahasia Badan Intelijen Nasional 'Suhyeok' ditugaskan untuk membunuh 'Nanayama,' pemimpin Yakuza yang memimpin organisasi perdagangan narkoba di Korea. Yang mengejutkannya, targetnya adalah seorang wanita menawan bernama 'Anna,' yang tampaknya tidak terlibat dalam kekerasan apa pun. Merasa ada yang tidak beres dengan misinya, Suhyeok memulai jalan balas dendam terhadap Badan Intelijen Nasional, yang telah mengkhianatinya, dan 'Nanayama,' yang membantai rekan-rekannya.",
   "chapters": [
     {
+      "chapter": "97",
+      "title": "Komik Day Walker Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTk3Lw==",
+      "date": "37 menit yang lalu"
+    },
+    {
       "chapter": "96",
       "title": "Komik Day Walker Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTk2Lw==",
-      "date": "8 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "95",
@@ -61,13 +67,13 @@
       "chapter": "90",
       "title": "Komik Day Walker Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTkwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik Day Walker Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGF5LXdhbGtlci1jaGFwdGVyLTg5Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "88",
@@ -598,5 +604,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 96
+  "total_chapters": 97
 }
