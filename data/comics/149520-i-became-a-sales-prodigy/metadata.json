@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-27T17:13:33.288233",
+  "scraped_at": "2026-08-03T20:17:53.069944",
   "alternative_titles": "I Became a Genius in Sales, Became a Sales Genius, I Became a Sales Genius, 영업 천재가 되었다",
   "status": "Berjalan",
   "author": "Daenkim, Hyelim",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    I Became a Sales Prodigy yang dibuat oleh komikus bernama\n                    Daenkim, Hyelim ini bercerita tentang\n                    Saya memilih apa yang dapat saya lakukan segera untuk melunasi utang saya, dan bagi saya itu adalah penjualan. Dan saya diberi kesempatan lagi.",
   "chapters": [
     {
+      "chapter": "109",
+      "title": "Komik I Became a Sales Prodigy Chapter 109",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItMTA5Lw==",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "108",
       "title": "Komik I Became a Sales Prodigy Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItMTA4Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik I Became a Sales Prodigy Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItMTA3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik I Became a Sales Prodigy Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItMTA2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "105",
       "title": "Komik I Became a Sales Prodigy Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItMTA1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik I Became a Sales Prodigy Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItMTA0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "103",
@@ -60,7 +66,7 @@
       "chapter": "102",
       "title": "Komik I Became a Sales Prodigy Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItMTAyLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "101",
@@ -84,7 +90,7 @@
       "chapter": "98",
       "title": "Komik I Became a Sales Prodigy Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItOTgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "97",
@@ -180,7 +186,7 @@
       "chapter": "82",
       "title": "Komik I Became a Sales Prodigy Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItODIv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "81",
@@ -198,7 +204,7 @@
       "chapter": "79",
       "title": "Komik I Became a Sales Prodigy Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1zYWxlcy1wcm9kaWd5LWNoYXB0ZXItNzkv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "78",
@@ -669,5 +675,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 108
+  "total_chapters": 109
 }

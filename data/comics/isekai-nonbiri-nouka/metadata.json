@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.01,
-  "scraped_at": "2026-08-02T12:20:36.994028",
+  "scraped_at": "2026-08-03T20:18:05.155104",
   "alternative_titles": "Farming Life in Another World, La vie de fermier dans un autre monde, 異世界のんびり農家",
   "status": "Berjalan",
   "author": "Naitou Kinosuke",
@@ -25,34 +25,40 @@
   "synopsis": "Manga                    Isekai Nonbiri Nouka yang dibuat oleh komikus bernama\n                    Naitou Kinosuke ini bercerita tentang\n                    Meninggal karena sakit pada usia 39, Machio Hiraku diberi kesempatan untuk pergi ke dunia lain. Ketika ditanya apa keinginannya oleh Tuhan yang ingin memberinya kekuatan, dia meminta untuk memiliki tubuh yang sehat, menawarkan keinginan kedua, dia memilih untuk hidup damai, keinginan ketiga untuk bisa tahu bahasa lokal, dan untuk keinginan terakhir. , untuk bisa menjadi petani.",
   "chapters": [
     {
+      "chapter": "314",
+      "title": "Komik Isekai Nonbiri Nouka Chapter 314",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0zMTQv",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "313",
       "title": "Komik Isekai Nonbiri Nouka Chapter 313",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0zMTMv",
-      "date": "39 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "312",
       "title": "Komik Isekai Nonbiri Nouka Chapter 312",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0zMTIv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "311",
       "title": "Komik Isekai Nonbiri Nouka Chapter 311",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0zMTEv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "310",
       "title": "Komik Isekai Nonbiri Nouka Chapter 310",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0zMTAv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "309",
       "title": "Komik Isekai Nonbiri Nouka Chapter 309",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0zMDkv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "308",
@@ -154,7 +160,7 @@
       "chapter": "292",
       "title": "Komik Isekai Nonbiri Nouka Chapter 292",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yOTIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "291",
@@ -526,7 +532,7 @@
       "chapter": "230",
       "title": "Komik Isekai Nonbiri Nouka Chapter 230",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW5vbmJpcmktbm91a2EtY2hhcHRlci0yMzAv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "229",
@@ -1903,5 +1909,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 313
+  "total_chapters": 314
 }

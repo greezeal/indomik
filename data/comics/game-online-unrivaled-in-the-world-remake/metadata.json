@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-03T04:42:19.728094",
+  "scraped_at": "2026-08-03T20:16:22.667230",
   "alternative_titles": "Wangyou Zhi Tianxia Wushuang (Remake), The World of Online Games Is Unparalleled (Remake), 网游之天下无双【重制版】",
   "status": "Berjalan",
   "author": "梦鲸岛漫画",
@@ -20,22 +20,28 @@
   "synopsis": "Manhua                    Game Online: Unrivaled In The World (Remake) yang dibuat oleh komikus bernama\n                    梦鲸岛漫画 ini bercerita tentang\n                    Tes fisik dari permainan itu tidak normal, penundaan saraf menurun, dan ingatan kemarin hilang Lapisan misteri mengelilingi Lu Chen. Ketika Lu Chen, yang telah membuka profesi khusus, hendak kembali ke puncak, sebuah kecelakaan terjadi lagi...",
   "chapters": [
     {
+      "chapter": "83",
+      "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci04My8=",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "82",
       "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci04Mi8=",
-      "date": "22 menit yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci04MS8=",
-      "date": "14 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci04MC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "79",
@@ -71,13 +77,13 @@
       "chapter": "74",
       "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci03NC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Game Online: Unrivaled In The World (Remake) Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FtZS1vbmxpbmUtdW5yaXZhbGVkLWluLXRoZS13b3JsZC1yZW1ha2UtY2hhcHRlci03My8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "72",
@@ -518,5 +524,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 83
+  "total_chapters": 84
 }
