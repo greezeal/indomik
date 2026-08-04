@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.08,
-  "scraped_at": "2026-08-02T12:18:08.950068",
+  "scraped_at": "2026-08-04T21:46:21.654351",
   "alternative_titles": "Four Knights of the Apocalypse, The Four Knights of Apocalypse, 黙示録の四騎士, 묵시록의 사기사",
   "status": "Berjalan",
   "author": "Suzuki Nakaba",
@@ -27,16 +27,22 @@
   "synopsis": "Manga                    Mokushiroku no Yonkishi yang dibuat oleh komikus bernama\n                    Suzuki Nakaba ini bercerita tentang\n                    Percival, seorang anak baik, tinggal bersama kakeknya di sebuah tempat terpencil bernama \"Jari Tuhan\". Namun, dunia tidak akan membiarkan dia hidup dengan damai. Pertemuan dengan seorang ksatria misterius mengubah nasib mereka, dan rahasia mengejutkan terungkap. Anak laki-laki itu memulai perjalanan tanpa akhir. Apakah Anda tahu \"Tujuh Dosa Mematikan\" atau tidak, Anda masih bisa menikmatinya! Fantasi petualangan paling ditunggu di dunia!",
   "chapters": [
     {
+      "chapter": "248",
+      "title": "Komik Mokushiroku no Yonkishi Chapter 248",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9rdXNoaXJva3Utbm8teW9ua2lzaGktY2hhcHRlci0yNDgv",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "247",
       "title": "Komik Mokushiroku no Yonkishi Chapter 247",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9rdXNoaXJva3Utbm8teW9ua2lzaGktY2hhcHRlci0yNDcv",
-      "date": "23 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "246",
       "title": "Komik Mokushiroku no Yonkishi Chapter 246",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9rdXNoaXJva3Utbm8teW9ua2lzaGktY2hhcHRlci0yNDYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "245",
@@ -84,7 +90,7 @@
       "chapter": "238",
       "title": "Komik Mokushiroku no Yonkishi Chapter 238",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9rdXNoaXJva3Utbm8teW9ua2lzaGktY2hhcHRlci0yMzgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "237",
@@ -324,13 +330,13 @@
       "chapter": "198",
       "title": "Komik Mokushiroku no Yonkishi Chapter 198",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9rdXNoaXJva3Utbm8teW9ua2lzaGktY2hhcHRlci0xOTgv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "197",
       "title": "Komik Mokushiroku no Yonkishi Chapter 197",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9rdXNoaXJva3Utbm8teW9ua2lzaGktY2hhcHRlci0xOTcv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "196",
@@ -1509,5 +1515,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 247
+  "total_chapters": 248
 }
