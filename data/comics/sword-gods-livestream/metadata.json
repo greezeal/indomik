@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-07-28T20:56:14.492746",
+  "scraped_at": "2026-08-05T18:55:59.904006",
   "alternative_titles": "Sword God's Livestream, The Veteran Swordmaster's Stream, 검술 고인물의 게임방송",
   "status": "Berjalan",
   "author": "Jeon Song-Gi, Transmitter",
@@ -20,34 +20,46 @@
   "synopsis": "Manhwa                    Sword God’s Livestream yang dibuat oleh komikus bernama\n                    Jeon Song-Gi, Transmitter ini bercerita tentang\n                    “Apa gunanya menjadi Sword God di kehidupan masa laluku?” Entah kenapa, saat kecil aku jadi teringat kehidupan masa laluku. Apa mungkin itu alasan kenapa aku sangat menikmati game VR yang kumainkan? Namun, kelainan bawaan yang kuidap akhirnya mencegahku mengakses VR, dan butuh tujuh tahun sampai solusinya muncul. “Capsule itu harganya seratus juta won.” Mahal sekali. “Oh iya, pernah dengar soal LEOS?” League of Streaming? Turnamen streamer? Kenapa kau membahas itu? “Hadiah utamanya Capsule ini. Bagaimana menurutmu? Mau coba?”",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Sword God’s Livestream Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMzAv",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Sword God’s Livestream Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMjkv",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik Sword God’s Livestream Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMjgv",
-      "date": "13 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Sword God’s Livestream Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMjcv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Sword God’s Livestream Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMjYv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Sword God’s Livestream Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMjUv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Sword God’s Livestream Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMjQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -59,7 +71,7 @@
       "chapter": "22",
       "title": "Komik Sword God’s Livestream Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtZ29kcy1saXZlc3RyZWFtLWNoYXB0ZXItMjIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -188,5 +200,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 30
 }
