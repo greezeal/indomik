@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T15:33:23.589253",
-  "total_comics": 1986,
+  "last_updated": "2026-08-05T17:16:00.398595",
+  "total_comics": 1989,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -232,7 +232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 116
+      "total_chapters": 118
     },
     {
       "slug": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
@@ -4840,7 +4840,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.05,
-      "total_chapters": 90
+      "total_chapters": 94
     },
     {
       "slug": "i-became-the-rouge-first-prince",
@@ -4896,7 +4896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 178
+      "total_chapters": 184
     },
     {
       "slug": "isekai-ojisan",
@@ -6152,7 +6152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 191
+      "total_chapters": 192
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -8512,7 +8512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.52,
-      "total_chapters": 36
+      "total_chapters": 38
     },
     {
       "slug": "watashi-ni-ai-wo-oshiete",
@@ -10568,7 +10568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 7
     },
     {
       "slug": "stone-age",
@@ -13000,7 +13000,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 47
     },
     {
       "slug": "megane-tokidoki-yankee-kun",
@@ -13360,7 +13360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "first-time-as-a-loved-youngest-child",
@@ -14360,7 +14360,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "saenai-ossan-jitsu-wa-saikyou",
@@ -14544,7 +14544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "the-fake-saintess-of-a-reverse-harem-game",
@@ -14768,7 +14768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "654313-a-story-about-a-dragon-and-the-rising-of-an-adventurer-a-healer-who-was-seen-as-useless-and-was-kicked-out-from-an-s-rank-party-goes-off-to-revive-the-strongest-dragon-in-an-abandoned-area",
@@ -15889,6 +15889,30 @@
       "status": "Berjalan",
       "rating": 7.89,
       "total_chapters": 177
+    },
+    {
+      "slug": "isekai-tensei-reijou-shuppon-suru",
+      "title": "Isekai Tensei Reijou, Shuppon Suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "kyoukai-no-melody",
+      "title": "Kyoukai no Melody",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "i-became-a-humans-daughter",
+      "title": "I Became a Human’s Daughter",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 24
     }
   ]
 }

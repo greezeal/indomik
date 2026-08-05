@@ -1,0 +1,38 @@
+{
+  "slug": "kyoukai-no-melody",
+  "title": "Kyoukai no Melody",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsva3lvdWthaS1uby1tZWxvZHkv",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvS29taWstS3lvdWthaS1uby1NZWxvZHktMjI0eDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-08-05T17:12:39.410934",
+  "alternative_titles": "境界のメロディ",
+  "status": "Berjalan",
+  "author": "Miyata Toshiya",
+  "illustrator": "Sugimoto Ikura",
+  "themes": [
+    "Music",
+    "School Life"
+  ],
+  "genres": [
+    "Drama",
+    "Tragedy"
+  ],
+  "synopsis": "Manga                    Kyoukai no Melody yang dibuat oleh komikus bernama\n                    Miyata Toshiya ini bercerita tentang\n                    Kisah ini mengikuti musisi Kyousuke, yang kehilangan pasangannya, Kai, tepat sebelum debut besar mereka, dan akibatnya menjauhkan diri dari musik. Tiga tahun kemudian, Kai tiba-tiba muncul kembali di hadapan Kyousuke dan mengatakan kepadanya bahwa berdiam diri sama saja dengan mati.",
+  "chapters": [
+    {
+      "chapter": "2",
+      "title": "Komik Kyoukai no Melody Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3lvdWthaS1uby1tZWxvZHktY2hhcHRlci0yLw==",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Kyoukai no Melody Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3lvdWthaS1uby1tZWxvZHktY2hhcHRlci0xLw==",
+      "date": "1 minggu yang lalu"
+    }
+  ],
+  "total_chapters": 2
+}

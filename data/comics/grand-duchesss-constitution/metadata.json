@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-01T22:13:08.048520",
+  "scraped_at": "2026-08-05T17:12:46.559984",
   "alternative_titles": "Duchesse par nature, Grand Duchess's Constitution, Nacida para ser la gran duquesa, The Grand Duchess Is Suited for This, Đại Công Nương Hợp Gu Tôi, แกรนด์ดัชเชสล็อกมง, どうやら私、大公妃が天職みたいです, 一帆風順的大公妃生活, 대공비가 체질입니다",
   "status": "Berjalan",
   "author": "Lico, Rechimona",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Grand Duchess’s Constitution yang dibuat oleh komikus bernama\n                    Lico, Rechimona ini bercerita tentang\n                    Annette Fraise seharusnya mati sebagai tokoh antagonis jahat dalam novel tersebut. Namun, ia malah menggunakan pesonanya di abad ke-21 untuk bertahan hidup dalam pernikahannya dengan Adipati Agung Utara yang terkutuk, Loic Blenheim. Di antara satu kecelakaan yang canggung, kutukan magis, dan kontrak pernikahan satu tahun, cinta mungkin akan menjadi plot twist yang mengubah segalanya.",
   "chapters": [
     {
+      "chapter": "58",
+      "title": "Komik Grand Duchess’s Constitution Chapter 58",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JhbmQtZHVjaGVzc3MtY29uc3RpdHV0aW9uLWNoYXB0ZXItNTgv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "57",
       "title": "Komik Grand Duchess’s Constitution Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JhbmQtZHVjaGVzc3MtY29uc3RpdHV0aW9uLWNoYXB0ZXItNTcv",
-      "date": "10 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "56",
@@ -40,19 +46,19 @@
       "chapter": "54",
       "title": "Komik Grand Duchess’s Constitution Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JhbmQtZHVjaGVzc3MtY29uc3RpdHV0aW9uLWNoYXB0ZXItNTQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Grand Duchess’s Constitution Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JhbmQtZHVjaGVzc3MtY29uc3RpdHV0aW9uLWNoYXB0ZXItNTMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Grand Duchess’s Constitution Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3JhbmQtZHVjaGVzc3MtY29uc3RpdHV0aW9uLWNoYXB0ZXItNTIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "51",
@@ -361,5 +367,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 57
+  "total_chapters": 58
 }
