@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-05T18:58:07.471574",
+  "scraped_at": "2026-08-06T15:48:21.037062",
   "alternative_titles": "말단 사원이 너무 유능함",
   "status": "Berjalan",
   "author": "Nesishipbun, Yoon (윤)",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    The Overly Competent Junior Employee yang dibuat oleh komikus bernama\n                    Nesishipbun, Yoon (윤) ini bercerita tentang\n                    Karyawan cabang sekuritas Yoon Do Gyeong menerima pesan teks mencurigakan yang mengklaim bahwa ia telah terpilih untuk layanan saham VIP, tetapi ia mengabaikannya sebagai spam. Setelah berbagi wawasannya tentang sektor kertas dengan PB senior Choi Woo Jin, prediksinya secara tak terduga menjadi kenyataan. Terkesan dengan bakatnya, Woo Jin merekomendasikan Do Gyeong untuk sebuah proyek khusus. Saat Do Gyeong memasuki dunia investasi yang kompetitif, kedatangan manajer cabang baru Ryu Tae Hwa di Cabang Seongnam Yuseong Investment Securities mengubah segalanya.",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik The Overly Competent Junior Employee Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjQv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik The Overly Competent Junior Employee Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjMv",
-      "date": "37 menit yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "22",
@@ -156,5 +162,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.39,
-  "scraped_at": "2026-08-05T13:22:53.138691",
+  "scraped_at": "2026-08-06T15:46:52.356479",
   "alternative_titles": "Le villageois au niveau 999, Lv999 Dân làng, LV999 Villager, LV999の村人, LV999的村民, LV999의 마을사람, Крестьянин 999 уровня, ชาวบ้าน Lv999, 滿級村民",
   "status": "Berjalan",
   "author": "Hoshitsuki Koneko",
@@ -28,16 +28,28 @@
   "synopsis": "Manga                    LV999 no Murabito yang dibuat oleh komikus bernama\n                    Hoshitsuki Koneko ini bercerita tentang\n                    Di dunia ini, konsep level ada. Selain mereka yang hidup dari mengalahkan monster, kebanyakan orang hanya berada di sekitar Level 1 hingga 5. Terlebih lagi, tidak sembarang orang bisa keluar untuk berburu monster; itu sangat dipengaruhi oleh peran seseorang yang ditunjuk oleh Tuhan. Ada delapan peran yang memenuhi syarat tersebut: prajurit, pejuang, ulama, penyihir, penyamun, pedagang, pemburu, dan penyihir. Mereka yang diberkati dengan kekuatan luar biasa dibagi menjadi tiga jenis: bangsawan, pahlawan, dan orang bijak. Tetapi bagi mayoritas penduduk, mereka tidak memiliki kekuatan seperti itu dan hidup dengan bertani atau menjalankan toko. Kota dikembangkan oleh mereka yang memiliki peran terlemah: penduduk desa. Untuk penduduk desa yang tidak berdaya pergi berburu monster sama dengan bunuh diri. Tetapi suatu hari, seorang anak berusia dua tahun yang diberi peran sebagai penduduk desa memperhatikan sesuatu: begitu Anda mengalahkan monster… Anda bisa mendapatkan kekayaan besar.",
   "chapters": [
     {
+      "chapter": "96",
+      "title": "Komik LV999 no Murabito Chapter 96",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbHY5OTktbm8tbXVyYWJpdG8tY2hhcHRlci05Ni8=",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "95",
+      "title": "Komik LV999 no Murabito Chapter 95",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbHY5OTktbm8tbXVyYWJpdG8tY2hhcHRlci05NS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "94",
       "title": "Komik LV999 no Murabito Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbHY5OTktbm8tbXVyYWJpdG8tY2hhcHRlci05NC8=",
-      "date": "5 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik LV999 no Murabito Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbHY5OTktbm8tbXVyYWJpdG8tY2hhcHRlci05My8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "92",
@@ -49,13 +61,13 @@
       "chapter": "91",
       "title": "Komik LV999 no Murabito Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbHY5OTktbm8tbXVyYWJpdG8tY2hhcHRlci05MS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik LV999 no Murabito Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbHY5OTktbm8tbXVyYWJpdG8tY2hhcHRlci05MC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "89",
@@ -592,5 +604,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 94
+  "total_chapters": 96
 }

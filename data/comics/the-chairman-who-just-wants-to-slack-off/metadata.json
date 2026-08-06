@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-06T11:41:37.602540",
+  "scraped_at": "2026-08-06T15:48:25.463475",
   "alternative_titles": "Chairman Slacks Off, Enjoying Life, Chairman Who Wants to Live a Life of Leisure, The Chairman Who Just Wants to Slack Off and Enjoy Life, Председатель, который хочет играть и есть, 놀고먹고 싶은 회장님",
   "status": "Berjalan",
   "author": "Hyunwoo 001, stu. funistrada",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    The Chairman Who Just Wants to Slack Off yang dibuat oleh komikus bernama\n                    Hyunwoo 001, stu. funistrada ini bercerita tentang\n                    Hyun Sang-Yun adalah seorang chaebol generasi ketiga yang bermimpi tentang kehidupan tanpa beban sebagai pemilik gedung di Gangnam, hidup seperti pengangguran tanpa kekhawatiran. Untuk mewujudkannya, ia pertama-tama harus keluar dari pengawasan ketat ketua perusahaan.",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTIzLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik The Chairman Who Just Wants to Slack Off Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNoYWlybWFuLXdoby1qdXN0LXdhbnRzLXRvLXNsYWNrLW9mZi1jaGFwdGVyLTIyLw==",
-      "date": "30 menit yang lalu"
+      "date": "7 jam yang lalu"
     },
     {
       "chapter": "21",
@@ -152,5 +158,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }
