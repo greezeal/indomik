@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-06T15:43:12.353105",
+  "scraped_at": "2026-08-07T16:41:41.541754",
   "alternative_titles": "The Essence of Reincarnation ,환생의 정석",
   "status": "Berjalan",
   "author": "Blue Jaeng-i, Kim Pyung-beom",
@@ -20,10 +20,64 @@
   "synopsis": "Manhwa                    Standard Of Reincarnation yang dibuat oleh komikus bernama\n                    Blue Jaeng-i, Kim Pyung-beom ini bercerita tentang\n                    Samion samurai terkuat.\r\nDaven adalah sepupu Samion, dan dia adalah pria setengah tak bersenjata tanpa lengan kanan.",
   "chapters": [
     {
+      "chapter": "192",
+      "title": "Komik Standard Of Reincarnation Chapter 192",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE5Mi8=",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "191",
+      "title": "Komik Standard Of Reincarnation Chapter 191",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE5MS8=",
+      "date": "10 jam yang lalu"
+    },
+    {
+      "chapter": "190",
+      "title": "Komik Standard Of Reincarnation Chapter 190",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE5MC8=",
+      "date": "10 jam yang lalu"
+    },
+    {
+      "chapter": "189",
+      "title": "Komik Standard Of Reincarnation Chapter 189",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE4OS8=",
+      "date": "10 jam yang lalu"
+    },
+    {
+      "chapter": "188",
+      "title": "Komik Standard Of Reincarnation Chapter 188",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE4OC8=",
+      "date": "10 jam yang lalu"
+    },
+    {
+      "chapter": "187",
+      "title": "Komik Standard Of Reincarnation Chapter 187",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE4Ny8=",
+      "date": "10 jam yang lalu"
+    },
+    {
+      "chapter": "186",
+      "title": "Komik Standard Of Reincarnation Chapter 186",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE4Ni8=",
+      "date": "11 jam yang lalu"
+    },
+    {
+      "chapter": "185",
+      "title": "Komik Standard Of Reincarnation Chapter 185",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE4NS8=",
+      "date": "11 jam yang lalu"
+    },
+    {
+      "chapter": "184",
+      "title": "Komik Standard Of Reincarnation Chapter 184",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE4NC8=",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "183",
       "title": "Komik Standard Of Reincarnation Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE4My8=",
-      "date": "47 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "182",
@@ -143,7 +197,7 @@
       "chapter": "163",
       "title": "Komik Standard Of Reincarnation Chapter 163",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE2My8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "162",
@@ -167,7 +221,7 @@
       "chapter": "159",
       "title": "Komik Standard Of Reincarnation Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RhbmRhcmQtb2YtcmVpbmNhcm5hdGlvbi1jaGFwdGVyLTE1OS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "158",
@@ -1118,5 +1172,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 183
+  "total_chapters": 192
 }

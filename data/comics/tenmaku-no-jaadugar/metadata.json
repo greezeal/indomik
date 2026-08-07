@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-23T04:43:02.140056",
+  "scraped_at": "2026-08-07T16:43:10.740449",
   "alternative_titles": "天幕のジャードゥーガル, A Witch's Life in Mongol, मङ्गोलमा बोक्सीको जीवन, Tent Jaadugar, فَقِيْهَةُ ٱلْمَغُوْلِ",
   "status": "Berjalan",
   "author": "Tomato Soup",
@@ -21,23 +21,35 @@
   "synopsis": "Manga                    Tenmaku no Jaadugar yang dibuat oleh komikus bernama\n                    Tomato Soup ini bercerita tentang\n                    Pada abad ke-13, Fatima, seorang tawanan Kekaisaran Mongol, kekaisaran terkuat di dunia, ditangkap dan ditugaskan untuk melayani di istana kekaisaran. Dengan pengetahuan dari Iran, para ahli terkemuka di bidang kedokteran dan sains pada era itu, Fatima mencari dunia di mana ia dapat menampilkan bakatnya. Ia bertemu Töregene, istri keenam kaisar kedua, Ögedei, yang memiliki perasaan campur aduk tentang Kekaisaran Mongol....",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Tenmaku no Jaadugar Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVubWFrdS1uby1qYWFkdWdhci1jaGFwdGVyLTUv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Tenmaku no Jaadugar Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVubWFrdS1uby1qYWFkdWdhci1jaGFwdGVyLTQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Tenmaku no Jaadugar Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVubWFrdS1uby1qYWFkdWdhci1jaGFwdGVyLTMv",
-      "date": "12 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Tenmaku no Jaadugar Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVubWFrdS1uby1qYWFkdWdhci1jaGFwdGVyLTIv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tenmaku no Jaadugar Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVubWFrdS1uby1qYWFkdWdhci1jaGFwdGVyLTEv",
-      "date": "4 hari yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 5
 }

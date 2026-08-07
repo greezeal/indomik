@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.29,
-  "scraped_at": "2026-08-05T18:57:10.992294",
+  "scraped_at": "2026-08-07T16:36:21.627135",
   "alternative_titles": "킬링킬러",
   "status": "Berjalan",
   "author": "A_backk",
@@ -20,16 +20,28 @@
   "synopsis": "Manhwa                    Killing Killer yang dibuat oleh komikus bernama\n                    A_backk ini bercerita tentang\n                    Karakter utama, Siwoo Lee, kehilangan orang tuanya karena seorang pembunuh sepuluh tahun yang lalu. Akhirnya, dia bertemu Jack, pembunuh yang membunuh orang tuanya, dan memenggalnya. \"Bukan aku yang membunuh orang tuamu.\"\r\nSetelah mengetahui bahwa pelaku sebenarnya adalah \"kontraktor\" milik sekelompok pembunuh yang menggunakan kekuatan super, Si-woo Lee memutuskan untuk memburu para pendaftar dengan bantuan Jack.",
   "chapters": [
     {
+      "chapter": "142",
+      "title": "Komik Killing Killer Chapter 142",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xNDIv",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "141",
+      "title": "Komik Killing Killer Chapter 141",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xNDEv",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "140",
       "title": "Komik Killing Killer Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xNDAv",
-      "date": "23 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "139",
       "title": "Komik Killing Killer Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xMzkv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "138",
@@ -65,7 +77,7 @@
       "chapter": "133",
       "title": "Komik Killing Killer Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xMzMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "132",
@@ -137,13 +149,13 @@
       "chapter": "121",
       "title": "Komik Killing Killer Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xMjEv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "120",
       "title": "Komik Killing Killer Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0xMjAv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "119",
@@ -731,7 +743,7 @@
       "chapter": "22",
       "title": "Komik Killing Killer Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2lsbGluZy1raWxsZXItY2hhcHRlci0yMi8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "21",
@@ -860,5 +872,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 140
+  "total_chapters": 142
 }

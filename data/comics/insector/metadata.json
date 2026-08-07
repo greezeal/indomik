@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T05:27:16.729108",
+  "scraped_at": "2026-08-07T16:39:22.704906",
   "alternative_titles": "인섹터",
   "status": "Berjalan",
   "author": "Makabim",
@@ -20,28 +20,40 @@
   "synopsis": "Manhwa                    Insector yang dibuat oleh komikus bernama\n                    Makabim ini bercerita tentang\n                    Suatu hari, di sekolah, seorang guru wali kelas menjadi dan tanpa pandang bulu membunuh anak-anak di kelasnya. Semut hitam yang muncul kemudian menyelamatkan teman-teman sekelasnya, dan insiden ini menyebar melalui media dan media sosial, dan keberadaan di sektor tidak lagi menjadi cerita gosip perkotaan. Akhirnya, pemerintah mengajukan Bug Reaper, regu pemberantasan di sektor yang diam-diam menjalankan misi, dan mengejar semut hitam berdasarkan kesaksian yang selamat, yang identitasnya adalah siswa biasa yang tinggal dengan rumah semut yang dibangun di dalam tubuhnya. Hanya untuk menghindari dimakan oleh semut di tubuhnya, dia berubah menjadi anti-kuda di sektor dan bertarung dalam pertempuran yang tidak diinginkan.",
   "chapters": [
     {
+      "chapter": "97",
+      "title": "Komik Insector Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci05Ny8=",
+      "date": "35 menit yang lalu"
+    },
+    {
+      "chapter": "96",
+      "title": "Komik Insector Chapter 96",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci05Ni8=",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "95",
       "title": "Komik Insector Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci05NS8=",
-      "date": "13 jam yang lalu"
+      "date": "24 jam yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Insector Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci05NC8=",
-      "date": "13 jam yang lalu"
+      "date": "24 jam yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Insector Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci05My8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Insector Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci05Mi8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "91",
@@ -95,13 +107,13 @@
       "chapter": "83",
       "title": "Komik Insector Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci04My8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Insector Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW5zZWN0b3ItY2hhcHRlci04Mi8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "81",
@@ -590,5 +602,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 95
+  "total_chapters": 97
 }
