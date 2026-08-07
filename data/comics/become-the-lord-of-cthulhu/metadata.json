@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 6.81,
-  "scraped_at": "2026-08-03T04:42:35.941743",
+  "scraped_at": "2026-08-07T05:28:51.977403",
   "alternative_titles": "Chengwei Kesuku Shenzhu, Chengwei Kesuku Shen Zhu, I Became the Lord of Cthulhu, 成为克苏鲁神主, 成爲克蘇魯神主, 신이되다 - 크툴루신화",
   "status": "Berjalan",
   "author": "渚谙",
@@ -21,40 +21,46 @@
   "synopsis": "Manhua                    Become The Lord Of Cthulhu yang dibuat oleh komikus bernama\n                    渚谙 ini bercerita tentang\n                    Setelah kematian pemeran utama pria Su Qi, ia pergi ke Los Angeles untuk menjadi siswa sekolah menengah. Karena inspirasi yang berbeda dari orang biasa, saya menemukan bahwa ada semua jenis hantu dan dewa di sekitar saya. Untuk bertahan hidup, protagonis laki-laki tidak dimakan oleh hantu atau kehilangan kendali atas gangguan mentalnya. Dia memulai jalan menyamar sebagai dewa, dan membuka kisah penjelajahan dunia misterius elemen Cthulhu.",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Become The Lord Of Cthulhu Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci00OS8=",
+      "date": "13 jam yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Become The Lord Of Cthulhu Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci00OC8=",
-      "date": "31 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Become The Lord Of Cthulhu Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci00Ny8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Become The Lord Of Cthulhu Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci00Ni8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Become The Lord Of Cthulhu Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci00NS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Become The Lord Of Cthulhu Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci00NC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Become The Lord Of Cthulhu Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci00My8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -78,7 +84,7 @@
       "chapter": "39",
       "title": "Komik Become The Lord Of Cthulhu Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci0zOS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -102,7 +108,7 @@
       "chapter": "35",
       "title": "Komik Become The Lord Of Cthulhu Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmVjb21lLXRoZS1sb3JkLW9mLWN0aHVsaHUtY2hhcHRlci0zNS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -309,5 +315,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 49
 }

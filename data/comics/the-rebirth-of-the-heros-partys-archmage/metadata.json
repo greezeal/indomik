@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-05T03:22:04.628997",
+  "scraped_at": "2026-08-07T05:27:30.157274",
   "alternative_titles": "용사파티 대마법사의 환생",
   "status": "Berjalan",
   "author": "정훈鄭薰",
@@ -19,16 +19,22 @@
   "synopsis": "Manhwa                    The Rebirth of the Hero’s Party’s Archmage yang dibuat oleh komikus bernama\n                    정훈鄭薰 ini bercerita tentang\n                    Pertempuran dengan archnemesis dilanjutkan setelah 300 tahun. Si jenius penyihir, Lynn, memulai perjalanan besar, pada usia 13 tahun. Bersama dengan rombongan hero yang dipimpin oleh Esther, mereka bertujuan untuk mengalahkan kejahatan besar “Abyss” yang bermaksud mengacaukan dunia. Namun, pertempuran menjadi semakin sengit dan pada saat terakhir, Lynn tunduk pada racun gelap “Abyss”. Meninggalkan kata-kata “Aku akan kembali”, jiwa Lynn jatuh tertidur selama 300 tahun, sebelum dibangkitkan kembali ke dalam tubuh seorang anak laki-laki kelahiran bangsawan. Dengan demikian dimulai kehidupan keduanya di dunia yang damai. Tetapi dalam waktu yang bersamaan, kekuatan gelap sedang mengerumuni sekali lagi, mengancam untuk kembali menjatuhkan dunia ke dalam kekacauan.",
   "chapters": [
     {
+      "chapter": "148",
+      "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 148",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTE0OC8=",
+      "date": "13 jam yang lalu"
+    },
+    {
       "chapter": "147",
       "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTE0Ny8=",
-      "date": "2 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "146",
       "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTE0Ni8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "145",
@@ -46,7 +52,7 @@
       "chapter": "143",
       "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTE0My8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "142",
@@ -88,7 +94,7 @@
       "chapter": "136",
       "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTEzNi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "135",
@@ -190,7 +196,7 @@
       "chapter": "119",
       "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTExOS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "118",
@@ -214,7 +220,7 @@
       "chapter": "115",
       "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTExNS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "114",
@@ -358,7 +364,7 @@
       "chapter": "92",
       "title": "Komik The Rebirth of the Hero’s Party’s Archmage Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYmlydGgtb2YtdGhlLWhlcm9zLXBhcnR5cy1hcmNobWFnZS1jaGFwdGVyLTkyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "91",
@@ -919,5 +925,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 150
+  "total_chapters": 151
 }
