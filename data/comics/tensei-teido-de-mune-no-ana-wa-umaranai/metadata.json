@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-31T15:22:12.748672",
+  "scraped_at": "2026-08-08T10:17:12.392723",
   "alternative_titles": "転生程度で胸の穴は埋まらない, The Hole in My Heart Cannot Be Filled with Reincarnation, The Hole in My Heart Cannot Be Filled Merely by Reincarnating, Reincarnation Isn’t Enough to Fill the Hole in My Heart",
   "status": "Berjalan",
   "author": "Nitēron",
@@ -28,17 +28,23 @@
   "synopsis": "Manga                    Tensei Teido de Mune no Ana wa Umaranai yang dibuat oleh komikus bernama\n                    Nitēron ini bercerita tentang\n                    Di dunia lain ini, kerinduan terdalam seseorang menjadi sihir unik mereka.\r\n\r\nPara Adept—makhluk transenden yang menggunakan sihir unik dan melindungi umat manusia dari Dewa Jahat—diberi setiap hak yang dapat dibayangkan.\r\n\r\nKehidupan Konoe di masa lalu hanyalah kesepian. Jadi kali ini, ia berharap dengan segenap hatinya, “Aku ingin menjadi orang terpenting bagi seseorang.” Dan untuk mewujudkan keinginan itu, ia menjalani pelatihan brutal selama bertahun-tahun, akhirnya mendapatkan gelar Adept, semua itu untuk mendapatkan hak menggunakan ramuan cinta terlarang.\r\n\r\nOrang yang datang meminta bantuannya adalah seorang gadis berambut pirang yang menderita wabah mematikan.",
   "chapters": [
     {
+      "chapter": "2.2",
+      "title": "Komik Tensei Teido de Mune no Ana wa Umaranai Chapter 2.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXRlaWRvLWRlLW11bmUtbm8tYW5hLXdhLXVtYXJhbmFpLWNoYXB0ZXItMi0yLw==",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "2.1",
       "title": "Komik Tensei Teido de Mune no Ana wa Umaranai Chapter 2.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXRlaWRvLWRlLW11bmUtbm8tYW5hLXdhLXVtYXJhbmFpLWNoYXB0ZXItMi0xLw==",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tensei Teido de Mune no Ana wa Umaranai Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGVuc2VpLXRlaWRvLWRlLW11bmUtbm8tYW5hLXdhLXVtYXJhbmFpLWNoYXB0ZXItMS8=",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T16:36:12.040065",
+  "scraped_at": "2026-08-08T10:19:45.003297",
   "alternative_titles": "학사검전, Экзамен на учёного, 學士劍傳",
   "status": "Berjalan",
   "author": "Choe Hyun-woo (최현우), Jehaeng Musang (제행무상)",
@@ -24,10 +24,16 @@
   "synopsis": "Manhwa                    Records of the Swordsman Scholar yang dibuat oleh komikus bernama\n                    Choe Hyun-woo (최현우), Jehaeng Musang (제행무상) ini bercerita tentang\n                    Cendekiawan Woon Hyun memasuki istana setelah lulus Ujian Kekaisaran.\r\nMeskipun dia segera datang untuk meratapi kehidupannya yang miskin dan menyedihkan karena harus berurusan dengan hobi Putra Mahkota,\r\nMeski begitu, ia tidak menyerah dan mencoba yang terbaik untuk belajar seni bela diri.\r\nTapi Woon Hyun tiba-tiba mengambil kuasnya untuk menaklukkan Murim?!\r\n\r\nKisah tersembunyi seorang sarjana yang lulus Ujian Kekaisaran di usia muda dimulai.",
   "chapters": [
     {
+      "chapter": "207",
+      "title": "Komik Records of the Swordsman Scholar Chapter 207",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3Jkcy1vZi10aGUtc3dvcmRzbWFuLXNjaG9sYXItY2hhcHRlci0yMDcv",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "206",
       "title": "Komik Records of the Swordsman Scholar Chapter 206",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3Jkcy1vZi10aGUtc3dvcmRzbWFuLXNjaG9sYXItY2hhcHRlci0yMDYv",
-      "date": "8 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "205",
@@ -39,7 +45,7 @@
       "chapter": "204",
       "title": "Komik Records of the Swordsman Scholar Chapter 204",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3Jkcy1vZi10aGUtc3dvcmRzbWFuLXNjaG9sYXItY2hhcHRlci0yMDQv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "203",
@@ -81,7 +87,7 @@
       "chapter": "197",
       "title": "Komik Records of the Swordsman Scholar Chapter 197",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3Jkcy1vZi10aGUtc3dvcmRzbWFuLXNjaG9sYXItY2hhcHRlci0xOTcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "196",
@@ -201,7 +207,7 @@
       "chapter": "177",
       "title": "Komik Records of the Swordsman Scholar Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVjb3Jkcy1vZi10aGUtc3dvcmRzbWFuLXNjaG9sYXItY2hhcHRlci0xNzcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "176",
@@ -1266,5 +1272,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 207
+  "total_chapters": 208
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.98,
-  "scraped_at": "2026-08-05T17:13:58.476359",
+  "scraped_at": "2026-08-08T10:18:41.926757",
   "alternative_titles": "얼어붙은 플레이어의 귀환",
   "status": "Berjalan",
   "author": "제리엠",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    Return of the Frozen Player yang dibuat oleh komikus bernama\n                    제리엠 ini bercerita tentang\n                    5 tahun setelah dunia berubah, bos terakhir muncul. [Bos terakhir untuk area Earth, Ratu Embun Beku, telah muncul.] Bos terakhir! Jika kita bisa mengalahkannya, hidup kita akan kembali normal! Lima pemain teratas di dunia, termasuk Spectre Seo Jun-ho, akhirnya mengalahkan Frost Queen ... Tapi mereka jatuh tertidur lelap. 25 tahun berlalu. \"Lantai dua? Itu tidak berakhir saat Frost Queen meninggal? Spectre terbangun dari tidurnya.",
   "chapters": [
     {
+      "chapter": "222",
+      "title": "Komik Return of the Frozen Player Chapter 222",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMjIyLw==",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "221",
       "title": "Komik Return of the Frozen Player Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMjIxLw==",
-      "date": "22 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "220",
       "title": "Komik Return of the Frozen Player Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMjIwLw==",
-      "date": "5 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "219",
@@ -182,31 +188,31 @@
       "chapter": "195",
       "title": "Komik Return of the Frozen Player Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMTk1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "194",
       "title": "Komik Return of the Frozen Player Chapter 194",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMTk0Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "193",
       "title": "Komik Return of the Frozen Player Chapter 193",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMTkzLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "192",
       "title": "Komik Return of the Frozen Player Chapter 192",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMTkyLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "191",
       "title": "Komik Return of the Frozen Player Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1mcm96ZW4tcGxheWVyLWNoYXB0ZXItMTkxLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "190",
@@ -1355,5 +1361,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 222
+  "total_chapters": 223
 }

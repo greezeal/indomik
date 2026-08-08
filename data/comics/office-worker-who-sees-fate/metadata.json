@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.25,
-  "scraped_at": "2026-08-05T17:11:29.779913",
+  "scraped_at": "2026-08-08T10:21:38.001395",
   "alternative_titles": "운명을 보는 회사원, Employee that can see fate",
   "status": "Berjalan",
   "author": "Yeong Wan",
@@ -24,10 +24,22 @@
   "synopsis": "Manhwa                    Office Worker Who Sees Fate yang dibuat oleh komikus bernama\n                    Yeong Wan ini bercerita tentang\n                    Seorang anak yang lahir untuk menjadi dukun dan mengacaukan dunia. Dia mencoba menjadi pekerja kantoran biasa agar tidak melepaskan keserakahannya dan menerima Tuhan. Choi Young-hoon, yang melihat takdir melalui kontemplasi dan taji. Bisakah Anda benar-benar menjadi pekerja kantoran biasa?",
   "chapters": [
     {
+      "chapter": "184",
+      "title": "Komik Office Worker Who Sees Fate Chapter 184",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2ZmaWNlLXdvcmtlci13aG8tc2Vlcy1mYXRlLWNoYXB0ZXItMTg0Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "183",
+      "title": "Komik Office Worker Who Sees Fate Chapter 183",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2ZmaWNlLXdvcmtlci13aG8tc2Vlcy1mYXRlLWNoYXB0ZXItMTgzLw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "182",
       "title": "Komik Office Worker Who Sees Fate Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2ZmaWNlLXdvcmtlci13aG8tc2Vlcy1mYXRlLWNoYXB0ZXItMTgyLw==",
-      "date": "3 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "181",
@@ -51,7 +63,7 @@
       "chapter": "178",
       "title": "Komik Office Worker Who Sees Fate Chapter 178",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2ZmaWNlLXdvcmtlci13aG8tc2Vlcy1mYXRlLWNoYXB0ZXItMTc4Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "177",
@@ -111,7 +123,7 @@
       "chapter": "168",
       "title": "Komik Office Worker Who Sees Fate Chapter 168",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2ZmaWNlLXdvcmtlci13aG8tc2Vlcy1mYXRlLWNoYXB0ZXItMTY4Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "167",
@@ -261,7 +273,7 @@
       "chapter": "143",
       "title": "Komik Office Worker Who Sees Fate Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2ZmaWNlLXdvcmtlci13aG8tc2Vlcy1mYXRlLWNoYXB0ZXItMTQzLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "142",
@@ -1128,5 +1140,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 184
+  "total_chapters": 186
 }
