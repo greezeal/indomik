@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-08T15:54:39.738246",
+  "scraped_at": "2026-08-08T17:24:25.651898",
   "alternative_titles": "ホーリーナイト",
   "status": "Berjalan",
   "author": "Miyazaki Maya",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Holy Knight yang dibuat oleh komikus bernama\n                    Miyazaki Maya ini bercerita tentang\n                    Mizumura Shinta tidak tahu harus berbuat apa ketika gadis terseksi di sekolah, Kishimoto Ririsu, mulai merayunya dan keadaan menjadi sangat intim. Shinta bukanlah orang kaya atau anak populer di sekolah, jadi tidak masuk akal jika Ririsu begitu tertarik padanya. Namun, Ririsu sebenarnya adalah vampir, sebuah rahasia yang akan ia jaga agar tetap tersembunyi meskipun harus membunuh. Seiring hubungan antara Shinta dan Ririsu berkembang, semakin sulit baginya untuk merahasiakan rahasia tersebut. Dan ketika orang-orang terdekatnya, seperti teman masa kecilnya yang agak romantis, Makimura Chizuru, tanpa sengaja terseret ke dalam kekacauan, rahasia gelap yang dalam pun terungkap.",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Holy Knight Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yMS8=",
+      "date": "57 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Holy Knight Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yMC8=",
-      "date": "37 menit yang lalu"
+      "date": "10 jam yang lalu"
     },
     {
       "chapter": "19",
@@ -145,5 +151,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 21
 }

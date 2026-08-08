@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T16:39:18.031054",
+  "scraped_at": "2026-08-08T17:22:42.487761",
   "alternative_titles": "",
   "status": "Berjalan",
   "author": "Actus",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    Return of the Runebound Professor yang dibuat oleh komikus bernama\n                    Actus ini bercerita tentang\n                    Magus Vermil adalah seorang bajingan — profesor yang paling dibenci di sebuah akademi sihir. Kemudian seseorang membunuhnya. Dia tidak akan pernah terdengar lagi jika bukan karena jiwa yang hilang dari Bumi bernama Noah Vines. Bertransmigrasi ke tubuh Vermil, Noah mengambil alih kekuatan rahasia pria itu dan daftar panjang musuh. Hanya ada satu masalah. Noah harus mengajar kelas besok, dan dia sama sekali tidak tahu apa itu sihir.",
   "chapters": [
     {
+      "chapter": "85",
+      "title": "Komik Return of the Runebound Professor Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItODUv",
+      "date": "41 menit yang lalu"
+    },
+    {
       "chapter": "84",
       "title": "Komik Return of the Runebound Professor Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1ydW5lYm91bmQtcHJvZmVzc29yLWNoYXB0ZXItODQv",
-      "date": "48 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "83",
@@ -522,5 +528,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 84
+  "total_chapters": 85
 }

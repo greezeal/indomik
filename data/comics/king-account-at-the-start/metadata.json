@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 6.76,
-  "scraped_at": "2026-08-07T16:38:39.648382",
+  "scraped_at": "2026-08-08T17:22:13.701369",
   "alternative_titles": "It Starts With a Kingpin Account, 开局就有王者帐号",
   "status": "Berjalan",
   "author": "Renshan Animation",
@@ -26,10 +26,28 @@
   "synopsis": "Manhua                    King Account At The Start yang dibuat oleh komikus bernama\n                    Renshan Animation ini bercerita tentang\n                    Krisis mendadak membawa bumi langsung ke era OL, dan seluruh umat manusia direduksi menjadi telapak tangan kekuatan yang tidak diketahui. Setiap orang menjadi terompet kelas satu. Di era kejam yang lemah dan kuat, siswa sekolah menengah Ye Hao hanya bisa naik menjadi tiga. Level, ketika dia akan mati, secara tidak sengaja membuka sistem peningkatan akun raja, dapatkah Ye Hao menjadi raja terkuat?",
   "chapters": [
     {
+      "chapter": "271",
+      "title": "Komik King Account At The Start Chapter 271",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI3MS8=",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "270",
+      "title": "Komik King Account At The Start Chapter 270",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI3MC8=",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "269",
+      "title": "Komik King Account At The Start Chapter 269",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI2OS8=",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "268",
       "title": "Komik King Account At The Start Chapter 268",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI2OC8=",
-      "date": "36 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "267",
@@ -1487,7 +1505,7 @@
       "chapter": "25",
       "title": "Komik King Account At The Start Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI1Lw==",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "24",
@@ -1640,5 +1658,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 269
+  "total_chapters": 272
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 5.49,
-  "scraped_at": "2026-08-05T03:24:34.478716",
+  "scraped_at": "2026-08-08T17:21:17.209984",
   "alternative_titles": "Certain Victory Dungeon Administration Technique, The Way to Absolute Dungeon Administration – There Is No Reason To Meet With the Opponent!, Путь к абсолютному доминированию в подземелье!, 必勝ダンジョン運営方法　相手に合わせる理由がない, 필승 던전 운영 방법",
   "status": "Berjalan",
   "author": "Yukidaruma",
@@ -26,22 +26,34 @@
   "synopsis": "Manga                    Hisshou Dungeon Unei Houhou yang dibuat oleh komikus bernama\n                    Yukidaruma ini bercerita tentang\n                    Suatu hari di waktu luang yang cerah, seorang wanita mengunjungi rumah saya dan bertanya apakah saya tertarik mengelola penjara bawah tanah bersama dengan dukungan dari seorang dewi. Tapi tentu saja, saya menolak. Eh? Saya seharusnya tidak mengabaikan orang yang bermasalah, apalagi jika itu wanita cantik? Tidak mungkin, itu terlalu merepotkan dan mengapa saya harus melakukan itu? Saya sangat puas dengan hidup saya yang nyaman sekarang, membuangnya terlalu bodoh ... Sigh, baiklah.\r\nJadi saya hanya pergi ke dunia lain, menjadi master penjara bawah tanah, mengelola penjara bawah tanah, dan menangani masalah sirkulasi mana? Mengerti, tapi bagaimana melakukannya? Mari saya tunjukkan bagaimana caranya...",
   "chapters": [
     {
+      "chapter": "78",
+      "title": "Komik Hisshou Dungeon Unei Houhou Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlzc2hvdS1kdW5nZW9uLXVuZWktaG91aG91LWNoYXB0ZXItNzgv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "77",
+      "title": "Komik Hisshou Dungeon Unei Houhou Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlzc2hvdS1kdW5nZW9uLXVuZWktaG91aG91LWNoYXB0ZXItNzcv",
+      "date": "3 hari yang lalu"
+    },
+    {
       "chapter": "76",
       "title": "Komik Hisshou Dungeon Unei Houhou Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlzc2hvdS1kdW5nZW9uLXVuZWktaG91aG91LWNoYXB0ZXItNzYv",
-      "date": "31 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Hisshou Dungeon Unei Houhou Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlzc2hvdS1kdW5nZW9uLXVuZWktaG91aG91LWNoYXB0ZXItNzUv",
-      "date": "1 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Hisshou Dungeon Unei Houhou Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlzc2hvdS1kdW5nZW9uLXVuZWktaG91aG91LWNoYXB0ZXItNzQv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "73",
@@ -506,5 +518,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 80
+  "total_chapters": 82
 }
