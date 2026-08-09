@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.23,
-  "scraped_at": "2026-08-08T15:52:04.963731",
+  "scraped_at": "2026-08-09T14:26:36.445538",
   "alternative_titles": "A Fantasy Lazy Life (FR), An Ideal Lazy Life, The Ideal Sponger Life, Моя идеальная жизнь, 理想のヒモ生活, 理想的小白脸生活, 이상적인 기둥서방 생활",
   "status": "Berjalan",
   "author": "Watanabe Tsunehiko",
@@ -26,28 +26,34 @@
   "synopsis": "Manga                    Risou no Himo Seikatsu yang dibuat oleh komikus bernama\n                    Watanabe Tsunehiko ini bercerita tentang\n                    Suatu hari, karyawan biasa Yamai Zenjirou memiliki pengalaman di luar dunia ini — secara harfiah! Dia ditarik dari Bumi dan diseret ke dunia lain di mana sihir tumbuh subur dan seorang ratu yang cantik dan kuat membutuhkan pendamping. Sekarang dia ditekan untuk menikahi raja itu dan membantunya melahirkan seorang anak. Akankah Zenjirou menerima kehidupan cinta yang malas dan mewah ini dengan mengorbankan rumahnya?",
   "chapters": [
     {
+      "chapter": "97",
+      "title": "Komik Risou no Himo Seikatsu Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTk3Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "96",
       "title": "Komik Risou no Himo Seikatsu Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTk2Lw==",
-      "date": "2 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik Risou no Himo Seikatsu Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTk1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Risou no Himo Seikatsu Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTk0Lw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Risou no Himo Seikatsu Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTkzLw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "92",
@@ -71,7 +77,7 @@
       "chapter": "89",
       "title": "Komik Risou no Himo Seikatsu Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTg5Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "88",
@@ -95,7 +101,7 @@
       "chapter": "85",
       "title": "Komik Risou no Himo Seikatsu Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8taGltby1zZWlrYXRzdS1jaGFwdGVyLTg1Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "84",
@@ -626,5 +632,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 100
+  "total_chapters": 101
 }

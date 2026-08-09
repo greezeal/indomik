@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T16:36:28.866372",
+  "scraped_at": "2026-08-09T14:20:17.046496",
   "alternative_titles": "The Child Goddess Has Arrived!, The Child Goddess Has Descended!, お子さま女神が降臨しました！, 两百岁的萌娃女神, 인간의 딸이 되었다",
   "status": "Berjalan",
   "author": "Hong Daon",
@@ -19,52 +19,58 @@
   "synopsis": "Manhwa                    I Became a Human’s Daughter yang dibuat oleh komikus bernama\n                    Hong Daon ini bercerita tentang\n                    Terlahir dari bunga mawar, Ariel adalah pewaris takhta para dewa—tetapi kekuatannya yang lemah membuatnya dijuluki \"dewi bodoh.\" Lalu suatu hari, dia terbangun di dalam tubuh seorang gadis kecil yang menggemaskan! Seorang dewi berusia 200 tahun yang terjebak dalam tubuh seorang anak kecil… bagaimana dia bisa kembali ke tempat asalnya?",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik I Became a Human’s Daughter Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yNy8=",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik I Became a Human’s Daughter Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yNi8=",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik I Became a Human’s Daughter Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yNS8=",
-      "date": "10 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik I Became a Human’s Daughter Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yNC8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik I Became a Human’s Daughter Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yMy8=",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik I Became a Human’s Daughter Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yMi8=",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik I Became a Human’s Daughter Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yMS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik I Became a Human’s Daughter Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0yMC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik I Became a Human’s Daughter Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS1odW1hbnMtZGF1Z2h0ZXItY2hhcHRlci0xOS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "18",
@@ -175,5 +181,5 @@
       "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

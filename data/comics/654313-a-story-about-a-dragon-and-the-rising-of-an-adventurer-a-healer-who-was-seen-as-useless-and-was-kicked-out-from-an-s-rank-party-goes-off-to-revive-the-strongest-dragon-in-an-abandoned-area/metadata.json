@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-08T17:11:50.529010",
+  "scraped_at": "2026-08-09T14:23:36.113106",
   "alternative_titles": "竜と歩む成り上がり冒険者道 ~用済みとしてSランクパーティから追放された回復魔術師、捨てられた先で最強の神竜を復活させてしまう~",
   "status": "Berjalan",
   "author": "Kazuha Kishimoto",
@@ -20,10 +20,16 @@
   "synopsis": "Manga                    A Story About a Dragon and the Rising of an Adventurer ~ A Healer Who Was Seen as Useless and Was Kicked Out From an S Rank Party, Goes off to Revive the Strongest Dragon in an Abandoned Area yang dibuat oleh komikus bernama\n                    Kazuha Kishimoto ini bercerita tentang\n                    Dion, seorang penyihir pemulihan yang dijatuhkan ke bagian terdalam selama penangkapan bawah tanah oleh plot anggota partai. Saat hidupnya hampir habis, dia menemukan naga yang rusak di sana. Itu adalah naga dewa bernama Eldora yang membantu Dion dengan kekuatan terakhirnya. Eldora, yang telah mendapatkan kembali kekuatan naga, dan Dion, penyihir pemulihan yang diasingkan, memulai perjalanan mereka sebagai petualang. Sementara itu, Yuki, pemimpin partai yang jatuh ke Dion, sedang mencari keberadaannya sendirian ....",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik A Story About a Dragon and the Rising of an Adventurer ~ A Healer Who Was Seen as Useless and Was Kicked Out From an S Rank Party, Goes off to Revive the Strongest Dragon in an Abandoned Area Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zdG9yeS1hYm91dC1hLWRyYWdvbi1hbmQtdGhlLXJpc2luZy1vZi1hbi1hZHZlbnR1cmVyLWEtaGVhbGVyLXdoby13YXMtc2Vlbi1hcy11c2VsZXNzLWFuZC13YXMta2lja2VkLW91dC1mcm9tLWFuLXMtcmFuay1wYXJ0eS1nb2VzLW9mZi10by1yZXZpdmUtdGhlLXN0cm9uZ2VzdC1kcmFnb24taW4tYW4tYWJhbmRvbmVkLWFyZWEtY2hhcHRlci0xNC8=",
+      "date": "33 menit yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik A Story About a Dragon and the Rising of an Adventurer ~ A Healer Who Was Seen as Useless and Was Kicked Out From an S Rank Party, Goes off to Revive the Strongest Dragon in an Abandoned Area Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zdG9yeS1hYm91dC1hLWRyYWdvbi1hbmQtdGhlLXJpc2luZy1vZi1hbi1hZHZlbnR1cmVyLWEtaGVhbGVyLXdoby13YXMtc2Vlbi1hcy11c2VsZXNzLWFuZC13YXMta2lja2VkLW91dC1mcm9tLWFuLXMtcmFuay1wYXJ0eS1nb2VzLW9mZi10by1yZXZpdmUtdGhlLXN0cm9uZ2VzdC1kcmFnb24taW4tYW4tYWJhbmRvbmVkLWFyZWEtY2hhcHRlci0xMy8=",
-      "date": "45 menit yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -89,7 +95,7 @@
       "chapter": "1.2",
       "title": "Komik A Story About a Dragon and the Rising of an Adventurer ~ A Healer Who Was Seen as Useless and Was Kicked Out From an S Rank Party, Goes off to Revive the Strongest Dragon in an Abandoned Area Chapter 1.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1zdG9yeS1hYm91dC1hLWRyYWdvbi1hbmQtdGhlLXJpc2luZy1vZi1hbi1hZHZlbnR1cmVyLWEtaGVhbGVyLXdoby13YXMtc2Vlbi1hcy11c2VsZXNzLWFuZC13YXMta2lja2VkLW91dC1mcm9tLWFuLXMtcmFuay1wYXJ0eS1nb2VzLW9mZi10by1yZXZpdmUtdGhlLXN0cm9uZ2VzdC1kcmFnb24taW4tYW4tYWJhbmRvbmVkLWFyZWEtY2hhcHRlci0yLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "1.1",
@@ -98,5 +104,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }
