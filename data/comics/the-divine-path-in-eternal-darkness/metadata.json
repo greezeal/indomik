@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-08T21:51:13.840887",
+  "scraped_at": "2026-08-09T06:07:03.804674",
   "alternative_titles": "Sinister Immortal Path, Weird Immortal Path, 诡浊仙道",
   "status": "Berjalan",
   "author": "Thrush Animation",
@@ -24,28 +24,46 @@
   "synopsis": "Manhua                    The Divine Path in Eternal Darkness yang dibuat oleh komikus bernama\n                    Thrush Animation ini bercerita tentang\n                    Zhang Yuan naik ke keabadian melalui kultivasi, hanya untuk menemukan dirinya di dunia yang aneh. Dewa-dewa dan Buddha yang mengerikan menguasai sembilan surga, sementara manusia di bawah hanyalah ternak. Dunia ini penuh dengan [kelainan] yang berbahaya, dan para kultivator yang selamat bukanlah manusia atau hantu. Mungkinkah ada masa depan untuk dunia ini? Zhang Yuan tidak peduli. Yang dia inginkan hanyalah naik lagi dan kembali ke alam abadi. Tapi... bisakah dia benar-benar kembali?",
   "chapters": [
     {
+      "chapter": "63",
+      "title": "Komik The Divine Path in Eternal Darkness Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci02My8=",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "62",
+      "title": "Komik The Divine Path in Eternal Darkness Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci02Mi8=",
+      "date": "15 menit yang lalu"
+    },
+    {
+      "chapter": "61",
+      "title": "Komik The Divine Path in Eternal Darkness Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci02MS8=",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "60",
       "title": "Komik The Divine Path in Eternal Darkness Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci02MC8=",
-      "date": "2 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik The Divine Path in Eternal Darkness Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci01OS8=",
-      "date": "2 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik The Divine Path in Eternal Darkness Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci01OC8=",
-      "date": "2 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik The Divine Path in Eternal Darkness Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci01Ny8=",
-      "date": "2 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "56",
@@ -147,7 +165,7 @@
       "chapter": "41",
       "title": "Komik The Divine Path in Eternal Darkness Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpdmluZS1wYXRoLWluLWV0ZXJuYWwtZGFya25lc3MtY2hhcHRlci00MS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "40",
@@ -390,5 +408,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 64
 }

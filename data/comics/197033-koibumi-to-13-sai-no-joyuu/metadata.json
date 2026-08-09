@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T16:42:43.048968",
+  "scraped_at": "2026-08-09T06:08:58.482708",
   "alternative_titles": "A Love Letter and a 13-Year-Old Actress, 恋文と13歳の女優, 恋文と13歳の女優（アクトレス）",
   "status": "Berjalan",
   "author": "Jaga",
@@ -19,16 +19,22 @@
   "synopsis": "Manga                    Koibumi to 13-sai no Joyuu yang dibuat oleh komikus bernama\n                    Jaga ini bercerita tentang\n                    Isshiki Fumi bekerja sebagai seorang akuntan di sebuah agensi hiburan,\r\nSuatu hari, dia dipindahkan ke bagian manajemen dan malah berahir menjadi Manager Haga Ayano, seorang gadis yang baru berusia 13 tahun dan merupakan seorang aktris cilik,\r\ndan Ayano tampaknya secara aneh menyukainya…?\r\n\r\nMeskipun dia adalah seorang anak, dia berperilaku lebih seperti orang dewasa daripada orang dewasa,\r\nKisah ini diputar oleh seorang aktor cilik profesional dan manajernya",
   "chapters": [
     {
+      "chapter": "18.5",
+      "title": "Komik Koibumi to 13-sai no Joyuu Chapter 18.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xOC01Lw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Koibumi to 13-sai no Joyuu Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xOC8=",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "17.5",
       "title": "Komik Koibumi to 13-sai no Joyuu Chapter 17.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xNy01Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
@@ -94,7 +100,7 @@
       "chapter": "11.5",
       "title": "Komik Koibumi to 13-sai no Joyuu Chapter 11.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xMS01Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "11",
@@ -217,5 +223,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 34
 }

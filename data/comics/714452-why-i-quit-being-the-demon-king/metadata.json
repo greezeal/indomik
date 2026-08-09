@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.08,
-  "scraped_at": "2026-08-07T16:37:49.347997",
+  "scraped_at": "2026-08-09T06:07:14.755713",
   "alternative_titles": "The Reason Why I Quit Demon King, 마왕을 그만둔 이유",
   "status": "Berjalan",
   "author": "이상혁",
@@ -23,22 +23,46 @@
   "synopsis": "Manhwa                    Why I Quit Being the Demon King yang dibuat oleh komikus bernama\n                    이상혁 ini bercerita tentang\n                    Di masa kekacauan, Raja Iblis melintasi 665 alam sebelum menyerang alam manusia. Itu adalah pahlawan pemberani yang menghentikan perang. Berkat pengorbanan ilahi mereka, umat manusia nyaris tidak bisa bertahan hidup. Tapi itu mengarah pada kisah Raja Iblis yang baru. Temui Raja Iblis Demiourgos, yang ke-666. “",
   "chapters": [
     {
+      "chapter": "84",
+      "title": "Komik Why I Quit Being the Demon King Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2h5LWktcXVpdC1iZWluZy10aGUtZGVtb24ta2luZy1jaGFwdGVyLTg0Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "83",
+      "title": "Komik Why I Quit Being the Demon King Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2h5LWktcXVpdC1iZWluZy10aGUtZGVtb24ta2luZy1jaGFwdGVyLTgzLw==",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "82",
+      "title": "Komik Why I Quit Being the Demon King Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2h5LWktcXVpdC1iZWluZy10aGUtZGVtb24ta2luZy1jaGFwdGVyLTgyLw==",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "81",
+      "title": "Komik Why I Quit Being the Demon King Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2h5LWktcXVpdC1iZWluZy10aGUtZGVtb24ta2luZy1jaGFwdGVyLTgxLw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "80",
       "title": "Komik Why I Quit Being the Demon King Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2h5LWktcXVpdC1iZWluZy10aGUtZGVtb24ta2luZy1jaGFwdGVyLTgwLw==",
-      "date": "27 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Why I Quit Being the Demon King Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2h5LWktcXVpdC1iZWluZy10aGUtZGVtb24ta2luZy1jaGFwdGVyLTc5Lw==",
-      "date": "27 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Why I Quit Being the Demon King Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2h5LWktcXVpdC1iZWluZy10aGUtZGVtb24ta2luZy1jaGFwdGVyLTc4Lw==",
-      "date": "27 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "77",
@@ -563,5 +587,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 90
+  "total_chapters": 94
 }

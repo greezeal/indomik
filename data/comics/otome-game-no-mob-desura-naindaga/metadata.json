@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-08T21:54:39.305509",
+  "scraped_at": "2026-08-09T06:09:57.699770",
   "alternative_titles": "乙女ゲーのモブですらないんだが, Otomege no Mob de Sura Nain da ga, Otomege no Mobu de Sura Nain da ga, Otomege no Mobudesura Naindaga, I'm Not Even an NPC in This Otome Game!, Я Не Моб Из Девичьей Отомэ-игры, I'm Not Even an Otome Game Mob Character",
   "status": "Berjalan",
   "author": "Gyokuro",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    Otome Game no Mob Desura Naindaga yang dibuat oleh komikus bernama\n                    Gyokuro ini bercerita tentang\n                    Taichi bereinkarnasi sebagai Isaac, seorang tukang kebun magang di dunia gim otome. Namun, jika dipikir-pikir, Isaac bahkan bukan bagian dari gim tersebut... Inilah kisah tentang jalinan kehidupan putri Duke, Lydia, dan seorang anak laki-laki yang bahkan bukan NPC.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Otome Game no Mob Desura Naindaga Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3RvbWUtZ2FtZS1uby1tb2ItZGVzdXJhLW5haW5kYWdhLWNoYXB0ZXItMTkv",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Otome Game no Mob Desura Naindaga Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3RvbWUtZ2FtZS1uby1tb2ItZGVzdXJhLW5haW5kYWdhLWNoYXB0ZXItMTgv",
-      "date": "1 jam yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Otome Game no Mob Desura Naindaga Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3RvbWUtZ2FtZS1uby1tb2ItZGVzdXJhLW5haW5kYWdhLWNoYXB0ZXItMTcv",
-      "date": "6 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "16.5",
@@ -76,13 +82,13 @@
       "chapter": "12",
       "title": "Komik Otome Game no Mob Desura Naindaga Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3RvbWUtZ2FtZS1uby1tb2ItZGVzdXJhLW5haW5kYWdhLWNoYXB0ZXItMTIv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Otome Game no Mob Desura Naindaga Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3RvbWUtZ2FtZS1uby1tb2ItZGVzdXJhLW5haW5kYWdhLWNoYXB0ZXItMTEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "10",
@@ -157,5 +163,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

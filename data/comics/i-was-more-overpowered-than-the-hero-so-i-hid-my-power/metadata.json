@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.25,
-  "scraped_at": "2026-08-08T15:53:01.263232",
+  "scraped_at": "2026-08-09T06:11:24.335482",
   "alternative_titles": "용사보다 너무 강해서 힘을 숨김",
   "status": "Berjalan",
   "author": "HHAANN",
@@ -25,16 +25,28 @@
   "synopsis": "Manhwa                    I Was More Overpowered Than the Hero, so I Hid My Power! yang dibuat oleh komikus bernama\n                    HHAANN ini bercerita tentang\n                    “Sejak aku masih kecil, aku menyukai tipe karakter yang ‘normal dan berpenampilan ringan tetapi menyembunyikan kekuatannya yang kuat’.\r\n\r\nDan kemudian, kesempatan untuk terlahir kembali datang!\r\n\r\n“Kamu ingin menjadi apa di dunia baru?” mereka bertanya.\r\n“Saya ingin menjadi seseorang yang menyembunyikan kekuatan dan kekuatannya yang sebenarnya!”\r\n\r\n…Tapi aku tidak bermaksud seperti ini!?”",
   "chapters": [
     {
+      "chapter": "121",
+      "title": "Komik I Was More Overpowered Than the Hero, so I Hid My Power! Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbW9yZS1vdmVycG93ZXJlZC10aGFuLXRoZS1oZXJvLXNvLWktaGlkLW15LXBvd2VyLWNoYXB0ZXItMTIxLw==",
+      "date": "42 menit yang lalu"
+    },
+    {
+      "chapter": "120",
+      "title": "Komik I Was More Overpowered Than the Hero, so I Hid My Power! Chapter 120",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbW9yZS1vdmVycG93ZXJlZC10aGFuLXRoZS1oZXJvLXNvLWktaGlkLW15LXBvd2VyLWNoYXB0ZXItMTIwLw==",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "119",
       "title": "Komik I Was More Overpowered Than the Hero, so I Hid My Power! Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbW9yZS1vdmVycG93ZXJlZC10aGFuLXRoZS1oZXJvLXNvLWktaGlkLW15LXBvd2VyLWNoYXB0ZXItMTE5Lw==",
-      "date": "19 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik I Was More Overpowered Than the Hero, so I Hid My Power! Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbW9yZS1vdmVycG93ZXJlZC10aGFuLXRoZS1oZXJvLXNvLWktaGlkLW15LXBvd2VyLWNoYXB0ZXItMTE4Lw==",
-      "date": "19 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "117",
@@ -166,7 +178,7 @@
       "chapter": "96",
       "title": "Komik I Was More Overpowered Than the Hero, so I Hid My Power! Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbW9yZS1vdmVycG93ZXJlZC10aGFuLXRoZS1oZXJvLXNvLWktaGlkLW15LXBvd2VyLWNoYXB0ZXItOTYv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "95",
@@ -739,5 +751,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 119
+  "total_chapters": 121
 }

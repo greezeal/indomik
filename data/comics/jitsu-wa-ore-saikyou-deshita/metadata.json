@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.25,
-  "scraped_at": "2026-08-07T16:37:27.381271",
+  "scraped_at": "2026-08-09T06:10:20.556537",
   "alternative_titles": "¿En realidad soy el más fuerte?, Am I Actually the Strongest?, На самом деле, я самый сильный?, 実は俺、最強でした?",
   "status": "Berjalan",
   "author": "Sumimori Sai",
@@ -27,22 +27,28 @@
   "synopsis": "Manga                    Jitsu wa Ore, Saikyou Deshita? yang dibuat oleh komikus bernama\n                    Sumimori Sai ini bercerita tentang\n                    Seorang yang tertutup terlahir kembali ke dunia lain dengan janji kehidupan yang damai. Meski terlahir dari keluarga bangsawan, karena sihirnya tampak lemah, orang tuanya meninggalkannya tanpa berpikir di hutan untuk dimangsa monster. Namun, sihirnya sebenarnya sangat kuat. Apa yang harus dia lakukan untuk mencapai kehidupan damai yang dia inginkan?",
   "chapters": [
     {
+      "chapter": "147",
+      "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 147",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTE0Ny8=",
+      "date": "30 menit yang lalu"
+    },
+    {
       "chapter": "146",
       "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTE0Ni8=",
-      "date": "20 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "145",
       "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 145",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTE0NS8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "144",
       "title": "Komik Jitsu wa Ore, Saikyou Deshita? Chapter 144",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaml0c3Utd2Etb3JlLXNhaWt5b3UtZGVzaGl0YS1jaGFwdGVyLTE0NC8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "143",
@@ -1029,5 +1035,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 167
+  "total_chapters": 168
 }
