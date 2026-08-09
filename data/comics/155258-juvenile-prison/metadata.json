@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.12,
-  "scraped_at": "2026-08-07T05:31:27.674544",
+  "scraped_at": "2026-08-09T21:01:41.845497",
   "alternative_titles": "소년교도소",
   "status": "Berjalan",
   "author": "Cheongmin",
@@ -23,28 +23,34 @@
   "synopsis": "Manhwa                    Juvenile Prison yang dibuat oleh komikus bernama\n                    Cheongmin ini bercerita tentang\n                    'Cha Ju-young' dipenjara di pusat penahanan remaja karena membuat ayah gangsternya koma.\r\nTak lama kemudian, sang ayah yang dikira tak kunjung bangun, datang menjenguk...",
   "chapters": [
     {
+      "chapter": "106",
+      "title": "Komik Juvenile Prison Chapter 106",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItMTA2Lw==",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "105",
       "title": "Komik Juvenile Prison Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItMTA1Lw==",
-      "date": "13 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik Juvenile Prison Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItMTA0Lw==",
-      "date": "13 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik Juvenile Prison Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItMTAzLw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Juvenile Prison Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItMTAyLw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "101",
@@ -224,25 +230,25 @@
       "chapter": "72",
       "title": "Komik Juvenile Prison Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItNzIv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Juvenile Prison Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItNzEv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Juvenile Prison Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItNzAv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik Juvenile Prison Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanV2ZW5pbGUtcHJpc29uLWNoYXB0ZXItNjkv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "68",
@@ -653,5 +659,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 105
+  "total_chapters": 106
 }

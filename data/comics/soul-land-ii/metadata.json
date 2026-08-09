@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.39,
-  "scraped_at": "2026-08-07T16:35:45.505235",
+  "scraped_at": "2026-08-09T21:00:19.022648",
   "alternative_titles": "Combat Continent 2, Combat Continent II, Douluo Dalu II - Jueshui Tangmen, Đấu La Đại Lục 2 - Tuyệt Thế Đường Môn, Soul Land 2, Soul Land II, 斗罗大陆2 - 绝世唐门",
   "status": "Berjalan",
   "author": "Tang Jia San Shao",
@@ -22,16 +22,28 @@
   "synopsis": "Manhua                    Soul Land II yang dibuat oleh komikus bernama\n                    Tang Jia San Shao ini bercerita tentang\n                    Tanah tanpa sihir, dou-qi, seni bela diri, tetapi dengan roh esensi sebagai gantinya. Ini adalah benua 10.000 tahun setelah pembentukan Sekte Tang. Pahlawan baru dan temannya menjelajahi negeri, \"Tujuh Monster Jeritan\" baru. Akankah mereka mempertahankan nama Sekte Tang? Atau akankah itu runtuh karena sistem esensi baru?",
   "chapters": [
     {
+      "chapter": "492",
+      "title": "Komik Soul Land II Chapter 492",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDkyLw==",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "491",
+      "title": "Komik Soul Land II Chapter 491",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDkxLw==",
+      "date": "14 jam yang lalu"
+    },
+    {
       "chapter": "490",
       "title": "Komik Soul Land II Chapter 490",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDkwLw==",
-      "date": "8 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "489",
       "title": "Komik Soul Land II Chapter 489",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDg5Lw==",
-      "date": "11 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "488",
@@ -61,13 +73,13 @@
       "chapter": "484",
       "title": "Komik Soul Land II Chapter 484",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDg0Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "483",
       "title": "Komik Soul Land II Chapter 483",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1sYW5kLWlpLWNoYXB0ZXItNDgzLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "482",
@@ -3628,5 +3640,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 601
+  "total_chapters": 603
 }
