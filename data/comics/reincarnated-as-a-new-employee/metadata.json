@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-09T22:58:20.134364",
+  "scraped_at": "2026-08-10T07:58:33.808496",
   "alternative_titles": "전생했더니 신입사원",
   "status": "Berjalan",
   "author": "Bamboo House, Mungjwi",
@@ -21,22 +21,40 @@
   "synopsis": "Manhwa                    Reincarnated as a New Employee yang dibuat oleh komikus bernama\n                    Bamboo House, Mungjwi ini bercerita tentang\n                    Chang Seok selaku ketua dari perusahaan Shinwoo Tech, ia meninggal dunia dan kembali hidup di tubuh seorang pria yang memiliki nama yang sama dengannya.",
   "chapters": [
     {
+      "chapter": "44",
+      "title": "Komik Reincarnated as a New Employee Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNDQv",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Reincarnated as a New Employee Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNDMv",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Reincarnated as a New Employee Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNDIv",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik Reincarnated as a New Employee Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNDEv",
-      "date": "52 menit yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Reincarnated as a New Employee Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNDAv",
-      "date": "52 menit yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Reincarnated as a New Employee Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItMzkv",
-      "date": "52 menit yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "38",
@@ -267,5 +285,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 44
 }

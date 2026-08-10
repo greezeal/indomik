@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-08T15:54:52.639453",
+  "scraped_at": "2026-08-10T08:03:42.711747",
   "alternative_titles": "디파이언스 오브 더 폴",
   "status": "Berjalan",
   "author": "AETHON",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    Defiance Of The Fall yang dibuat oleh komikus bernama\n                    AETHON ini bercerita tentang\n                    Zac berada di tengah hutan ketika dunia berubah. Seluruh planet diperkenalkan ke multiverse oleh sebuah Sistem yang tak berperasaan. Sendirian, dikelilingi oleh binatang buas yang mematikan, iblis, dan yang lebih buruk lagi, Zac harus menemukan cara untuk bertahan hidup, menjadi lebih kuat, dan mencari keluarganya yang hilang di realitas baru yang kejam ini hanya dengan kapak sebagai senjatanya... atau mati dalam usaha tersebut.",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik Defiance Of The Fall Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVmaWFuY2Utb2YtdGhlLWZhbGwtY2hhcHRlci0yNi8=",
+      "date": "45 menit yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Defiance Of The Fall Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVmaWFuY2Utb2YtdGhlLWZhbGwtY2hhcHRlci0yNS8=",
-      "date": "42 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "24",
@@ -72,13 +78,13 @@
       "chapter": "17",
       "title": "Komik Defiance Of The Fall Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVmaWFuY2Utb2YtdGhlLWZhbGwtY2hhcHRlci0xNy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Defiance Of The Fall Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVmaWFuY2Utb2YtdGhlLWZhbGwtY2hhcHRlci0xNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "15",
@@ -171,5 +177,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }
