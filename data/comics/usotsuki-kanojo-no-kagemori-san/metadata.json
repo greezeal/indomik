@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-12T19:38:53.371961",
+  "scraped_at": "2026-08-11T23:22:01.138007",
   "alternative_titles": "Lying Girlfriend Kagemori-san, 嘘つきカノジョの影盛さん",
   "status": "Berjalan",
   "author": "Konishi Katsutoshi",
@@ -19,29 +19,35 @@
   "synopsis": "Manga                    Usotsuki Kanojo no Kagemori-san yang dibuat oleh komikus bernama\n                    Konishi Katsutoshi ini bercerita tentang\n                    Yuichi Usui hanyalah mahasiswa biasa yang pendiam dan tidak menonjol. Berbeda dengannya, Aina Kagemori adalah gadis populer yang dikenal karena kecantikannya, prestasinya yang sempurna, dan kepribadiannya yang nyaris tanpa cela. Usui selalu berpikir bahwa Kagemori adalah seseorang yang hidup di dunia yang berbeda darinya. Namun suatu hari, ia melihat sisi lain dari gadis itu saat Kagemori datang ke kafe tempatnya bekerja sambil mengenakan kostum penyihir dan ditemani seorang pria yang lebih tua.",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Usotsuki Kanojo no Kagemori-san Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNvdHN1a2kta2Fub2pvLW5vLWthZ2Vtb3JpLXNhbi1jaGFwdGVyLTUv",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Usotsuki Kanojo no Kagemori-san Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNvdHN1a2kta2Fub2pvLW5vLWthZ2Vtb3JpLXNhbi1jaGFwdGVyLTQv",
-      "date": "5 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Usotsuki Kanojo no Kagemori-san Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNvdHN1a2kta2Fub2pvLW5vLWthZ2Vtb3JpLXNhbi1jaGFwdGVyLTMv",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Usotsuki Kanojo no Kagemori-san Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNvdHN1a2kta2Fub2pvLW5vLWthZ2Vtb3JpLXNhbi1jaGFwdGVyLTIv",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Usotsuki Kanojo no Kagemori-san Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXNvdHN1a2kta2Fub2pvLW5vLWthZ2Vtb3JpLXNhbi1jaGFwdGVyLTEv",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

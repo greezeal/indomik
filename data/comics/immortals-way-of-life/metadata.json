@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-06T11:40:49.592827",
+  "scraped_at": "2026-08-11T23:22:13.539093",
   "alternative_titles": "Immortal's Ascending Path, Immortal's Way of Life, Living as the Immortal Lord, Living Immortally, To Live as an Immortal, What It Means to Live Undying and Immortal, 불로불사로 산다는 것은",
   "status": "Berjalan",
   "author": "Cha Won, Winter Air",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    Immortal’s Way Of Life yang dibuat oleh komikus bernama\n                    Cha Won, Winter Air ini bercerita tentang\n                    Roberta, seorang pendeta Gereja Umum, ditugaskan sebagai kepala pendeta Dietmarschen — sebuah daerah terpencil di ujung utara dunia. Jabatan itu diberikan kepadanya segera setelah pendahulunya menghilang secara misterius, sehingga Roberta mendekati jabatan barunya dengan waspada dan mulai diam-diam menyelidiki Adipati Dietmarschen, Ulrich. Menurut semua catatan, ia telah memegang gelar bangsawan selama lebih dari 300 tahun. Dan menurut pengakuannya sendiri, ia adalah seorang yang abadi — seseorang yang telah menjalani kehidupan yang tidak mungkin diketahui oleh manusia biasa.",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik Immortal’s Way Of Life Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWxzLXdheS1vZi1saWZlLWNoYXB0ZXItMjUv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik Immortal’s Way Of Life Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWxzLXdheS1vZi1saWZlLWNoYXB0ZXItMjQv",
-      "date": "21 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Immortal’s Way Of Life Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWxzLXdheS1vZi1saWZlLWNoYXB0ZXItMjMv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Immortal’s Way Of Life Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWxzLXdheS1vZi1saWZlLWNoYXB0ZXItMjIv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Immortal’s Way Of Life Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWxzLXdheS1vZi1saWZlLWNoYXB0ZXItMjEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Immortal’s Way Of Life Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWxzLXdheS1vZi1saWZlLWNoYXB0ZXItMjAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -58,7 +64,7 @@
       "chapter": "18",
       "title": "Komik Immortal’s Way Of Life Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW1tb3J0YWxzLXdheS1vZi1saWZlLWNoYXB0ZXItMTgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -169,5 +175,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }
