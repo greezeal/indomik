@@ -6,9 +6,9 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T05:25:19.524968",
+  "scraped_at": "2026-08-11T14:45:47.855940",
   "alternative_titles": "BAR Flowers",
-  "status": "Berjalan",
+  "status": "Tamat",
   "author": "Yukino",
   "illustrator": "",
   "themes": [
@@ -23,40 +23,46 @@
   "synopsis": "Manga                    Bar Flowers yang dibuat oleh komikus bernama\n                    Yukino ini bercerita tentang\n                    Komik terbaru dari Yukino, author komik “Jubunnoichi no Hanayome”",
   "chapters": [
     {
+      "chapter": "39",
+      "title": "Komik Bar Flowers Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zOS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "38",
       "title": "Komik Bar Flowers Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zOC8=",
-      "date": "9 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Bar Flowers Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zNy8=",
-      "date": "1 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Bar Flowers Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zNi8=",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Bar Flowers Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Bar Flowers Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Bar Flowers Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zMy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "32",
@@ -74,31 +80,31 @@
       "chapter": "30",
       "title": "Komik Bar Flowers Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0zMC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Bar Flowers Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0yOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Bar Flowers Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0yOC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Bar Flowers Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0yNy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Bar Flowers Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFyLWZsb3dlcnMtY2hhcHRlci0yNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
@@ -257,5 +263,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 39
+  "total_chapters": 40
 }

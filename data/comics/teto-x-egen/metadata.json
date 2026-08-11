@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-05T03:23:54.491512",
+  "scraped_at": "2026-08-11T14:40:26.510786",
   "alternative_titles": "테토X에겐",
   "status": "Berjalan",
   "author": "H2J",
@@ -18,34 +18,40 @@
   "synopsis": "Manhwa                    Teto X Egen yang dibuat oleh komikus bernama\n                    H2J ini bercerita tentang\n                    Haeseon, seorang \"gadis Teto\" yang ambisius dan seluruh hidupnya berpusat pada kariernya, dan Seonho, seorang \"pria Egen\" yang pendiam dan hanya ingin tinggal di rumah bersama kucingnya.\r\n\r\nHidup di dunia yang sangat berbeda, keduanya seperti garis paralel yang ditakdirkan untuk tidak pernah bersilangan. Sampai akhirnya mereka dipaksa berada di tim Satuan Tugas yang sama—dan yang lebih buruk lagi, mereka menemukan bahwa mereka tinggal tepat di sebelah satu sama lain! Saat rutinitas harian mereka menjadi sangat rumit, \"cinta pertama\" Seonho tiba-tiba muncul...!\r\n\r\nApa yang akan terjadi pada kisah cinta yang kacau, menegangkan, dan anehnya mendebarkan antara dua orang yang sangat berbeda ini?",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik Teto X Egen Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGV0by14LWVnZW4tY2hhcHRlci0xNy8=",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Teto X Egen Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGV0by14LWVnZW4tY2hhcHRlci0xNi8=",
-      "date": "22 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Teto X Egen Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGV0by14LWVnZW4tY2hhcHRlci0xNS8=",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Teto X Egen Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGV0by14LWVnZW4tY2hhcHRlci0xNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Teto X Egen Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGV0by14LWVnZW4tY2hhcHRlci0xMy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Teto X Egen Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGV0by14LWVnZW4tY2hhcHRlci0xMi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -114,5 +120,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }

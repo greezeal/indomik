@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.35,
-  "scraped_at": "2026-08-09T22:55:37.073532",
+  "scraped_at": "2026-08-11T14:39:23.403183",
   "alternative_titles": "Reincarnation's Little Girl Never Gives Up, Tensei Youjo wa Akiramenai, 転生幼女はあきらめない",
   "status": "Berjalan",
   "author": "kaya (カヤ)",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    The Reborn Little Girl Won’t Give Up yang dibuat oleh komikus bernama\n                    kaya (カヤ) ini bercerita tentang\n                    Ketika saya bangun, saya telah terlahir kembali sebagai bayi. Ibu saya meninggal dan saya diabaikan oleh ayah saya. Meskipun saya lahir di keluarga Marquis, hidup saya dimulai dengan HARD MODE. Tapi saya tidak akan putus asa. Saya akan makan dengan baik, tidur nyenyak, banyak bergerak, mendapatkan apa pun yang saya bisa dan hidup bahagia.\r\n\r\nTapi entah kenapa, banyak insiden terjadi. Ini adalah kisah tentang seorang gadis kecil dengan kekuatan untuk menciptakan penghalang di dunia tempat Hollow dan Manusia berada dalam konflik. Dia membuat orang lain terlibat dalam insiden itu dan menjadi bahagia.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0zMC8=",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0yOS8=",
-      "date": "7 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0yOC8=",
-      "date": "7 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "27",
@@ -205,5 +211,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }

@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-10T21:30:33.787918",
+  "scraped_at": "2026-08-11T14:46:55.766918",
   "alternative_titles": "Jiang Si Xiansheng, Mr. Jiang Si, 江思先生",
   "status": "Berjalan",
   "author": "Cao San Mu",
@@ -25,46 +25,52 @@
   "synopsis": "Manhua                    Mr. Zombie yang dibuat oleh komikus bernama\n                    Cao San Mu ini bercerita tentang\n                    1000 tahun yang lalu, MC menjadi zombie normal di kiamat. Untuk bertahan hidup dari perburuan manusia yang konstan, dia terus melatih dirinya sampai dia menjadi sangat kuat. Setelah 1000 tahun berlalu, dia kini siap memasuki masyarakat manusia lagi.",
   "chapters": [
     {
+      "chapter": "194",
+      "title": "Komik Mr. Zombie Chapter 194",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTk0Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "193",
       "title": "Komik Mr. Zombie Chapter 193",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTkzLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "192",
       "title": "Komik Mr. Zombie Chapter 192",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTkyLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "190",
       "title": "Komik Mr. Zombie Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTkwLw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "189",
       "title": "Komik Mr. Zombie Chapter 189",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTg5Lw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "188",
       "title": "Komik Mr. Zombie Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTg4Lw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "187",
       "title": "Komik Mr. Zombie Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTg3Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "186",
       "title": "Komik Mr. Zombie Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTg2Lw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "185",
@@ -76,7 +82,7 @@
       "chapter": "184",
       "title": "Komik Mr. Zombie Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTg0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "183",
@@ -100,7 +106,7 @@
       "chapter": "180",
       "title": "Komik Mr. Zombie Chapter 180",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTgwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "179",
@@ -136,13 +142,13 @@
       "chapter": "174",
       "title": "Komik Mr. Zombie Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTc0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "173",
       "title": "Komik Mr. Zombie Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTczLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "172",
@@ -394,7 +400,7 @@
       "chapter": "132",
       "title": "Komik Mr. Zombie Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXItem9tYmllLWNoYXB0ZXItMTMyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "131",
@@ -1189,5 +1195,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 194
+  "total_chapters": 195
 }
