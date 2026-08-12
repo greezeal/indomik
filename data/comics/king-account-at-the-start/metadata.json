@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 6.76,
-  "scraped_at": "2026-08-12T10:21:00.547736",
+  "scraped_at": "2026-08-12T20:00:50.044059",
   "alternative_titles": "It Starts With a Kingpin Account, 开局就有王者帐号",
   "status": "Berjalan",
   "author": "Renshan Animation",
@@ -26,22 +26,28 @@
   "synopsis": "Manhua                    King Account At The Start yang dibuat oleh komikus bernama\n                    Renshan Animation ini bercerita tentang\n                    Krisis mendadak membawa bumi langsung ke era OL, dan seluruh umat manusia direduksi menjadi telapak tangan kekuatan yang tidak diketahui. Setiap orang menjadi terompet kelas satu. Di era kejam yang lemah dan kuat, siswa sekolah menengah Ye Hao hanya bisa naik menjadi tiga. Level, ketika dia akan mati, secara tidak sengaja membuka sistem peningkatan akun raja, dapatkah Ye Hao menjadi raja terkuat?",
   "chapters": [
     {
+      "chapter": "275",
+      "title": "Komik King Account At The Start Chapter 275",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI3NS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "274",
       "title": "Komik King Account At The Start Chapter 274",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI3NC8=",
-      "date": "13 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "273",
       "title": "Komik King Account At The Start Chapter 273",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI3My8=",
-      "date": "17 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "272",
       "title": "Komik King Account At The Start Chapter 272",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI3Mi8=",
-      "date": "17 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "271",
@@ -1676,5 +1682,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 275
+  "total_chapters": 276
 }

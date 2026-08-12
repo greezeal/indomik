@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-31T15:20:24.119401",
+  "scraped_at": "2026-08-12T19:54:55.916072",
   "alternative_titles": "猫と竜, The Cat and the Dragon, 貓與龍, 猫竜, NekoRyuu, CatDragon, Kucing dan Naga, Mèo Và Rồng",
   "status": "Berjalan",
   "author": "Amara",
@@ -22,65 +22,71 @@
   "synopsis": "Manga                    Neko to Ryuu yang dibuat oleh komikus bernama\n                    Amara ini bercerita tentang\n                    Jauh di dalam hutan tempat tinggal binatang buas dan makhluk ajaib, seekor kucing mengadopsi seekor bayi naga yatim piatu sebagai salah satu anaknya sendiri.",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Neko to Ryuu Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItMTEv",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Neko to Ryuu Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItMTAv",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Neko to Ryuu Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItOS8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Neko to Ryuu Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItOC8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Neko to Ryuu Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItNy8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Neko to Ryuu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItNi8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Neko to Ryuu Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItNS8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Neko to Ryuu Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItNC8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Neko to Ryuu Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItMy8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Neko to Ryuu Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItMi8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Neko to Ryuu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVrby10by1yeXV1LWNoYXB0ZXItMS8=",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }
