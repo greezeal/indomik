@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-11T14:42:03.989040",
+  "scraped_at": "2026-08-13T15:15:03.014361",
   "alternative_titles": "A minha irmã é a protagonista, Chị gái tôi là nhân vật chính, Eonniga Juingongindeyo, Moja starsza siostra jest główną bohaterką, My Big Sister Is the Main Character, My Older Sister Is the Protagonist, My Sister Is the Main Character, My Sister Is the Protagonist Though, Моя сестра - главная героиня, 主人公はお姉様だったのに！, 언니가 주인공인데요",
   "status": "Berjalan",
   "author": "Moon Si-Hyeon, Solfi",
@@ -19,16 +19,22 @@
   "synopsis": "Manhwa                    My Sister Is the Main Character yang dibuat oleh komikus bernama\n                    Moon Si-Hyeon, Solfi ini bercerita tentang\n                    Ketika Helena terlahir kembali ke dalam sebuah novel, ia terpaksa tumbuh dewasa dengan mengetahui bahwa saudara perempuannya adalah tokoh utama dan bahwa kehidupan yang mengerikan menantinya… kecuali Helena dapat mencegahnya terjadi. Dengan mempelajari cara mengurus urusan keluarga, Helena menggantikan posisi saudara perempuannya, Callisto, sebagai kepala rumah tangga, memungkinkannya untuk mewujudkan mimpinya menjadi seorang ksatria. Namun kini ia mendapati dirinya terjerumus ke dalam nasib mengerikan yang pernah ditakdirkan untuk Callisto dan juga kepada pria yang mewujudkannya.",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik My Sister Is the Main Character Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktc2lzdGVyLWlzLXRoZS1tYWluLWNoYXJhY3Rlci1jaGFwdGVyLTI5Lw==",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik My Sister Is the Main Character Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktc2lzdGVyLWlzLXRoZS1tYWluLWNoYXJhY3Rlci1jaGFwdGVyLTI4Lw==",
-      "date": "28 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik My Sister Is the Main Character Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktc2lzdGVyLWlzLXRoZS1tYWluLWNoYXJhY3Rlci1jaGFwdGVyLTI3Lw==",
-      "date": "28 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "26",
@@ -52,13 +58,13 @@
       "chapter": "23",
       "title": "Komik My Sister Is the Main Character Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktc2lzdGVyLWlzLXRoZS1tYWluLWNoYXJhY3Rlci1jaGFwdGVyLTIzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik My Sister Is the Main Character Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktc2lzdGVyLWlzLXRoZS1tYWluLWNoYXJhY3Rlci1jaGFwdGVyLTIyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "21",
@@ -88,13 +94,13 @@
       "chapter": "17",
       "title": "Komik My Sister Is the Main Character Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktc2lzdGVyLWlzLXRoZS1tYWluLWNoYXJhY3Rlci1jaGFwdGVyLTE3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik My Sister Is the Main Character Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktc2lzdGVyLWlzLXRoZS1tYWluLWNoYXJhY3Rlci1jaGFwdGVyLTE2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "15",
@@ -187,5 +193,5 @@
       "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }
