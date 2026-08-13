@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T10:48:56.019579",
-  "total_comics": 2035,
+  "last_updated": "2026-08-13T11:41:32.494817",
+  "total_comics": 2039,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2944,7 +2944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 160
+      "total_chapters": 161
     },
     {
       "slug": "155895-nano-machine",
@@ -2952,7 +2952,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.54,
-      "total_chapters": 324
+      "total_chapters": 325
     },
     {
       "slug": "989844-grim-reaper-of-the-drifting-moon",
@@ -3360,7 +3360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "a-new-living-arrangement-with-my-friend-%e2%99%82-turned-succubus",
@@ -3824,7 +3824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "kingdom",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -4768,7 +4768,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 967
+      "total_chapters": 968
     },
     {
       "slug": "obshchaka",
@@ -4896,7 +4896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 186
+      "total_chapters": 187
     },
     {
       "slug": "isekai-ojisan",
@@ -5088,7 +5088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 196
+      "total_chapters": 198
     },
     {
       "slug": "shinobi-undercover",
@@ -7120,7 +7120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "demon-evolution",
@@ -7288,7 +7288,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.35,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "the-genius-girl-who-hides-the-martial-worlds-public-enemy",
@@ -7488,7 +7488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 47
     },
     {
       "slug": "heavenly-demon-wants-to-be-a-chef",
@@ -8280,7 +8280,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "the-regressor-can-make-them-all",
@@ -8640,7 +8640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.5,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "i-will-live-freely-in-another-world-with-equipment-manufacturing-cheat",
@@ -13336,7 +13336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "102863-trash-of-the-counts-family",
@@ -14224,7 +14224,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.83,
-      "total_chapters": 145
+      "total_chapters": 153
     },
     {
       "slug": "732093-max-talent-player",
@@ -14256,7 +14256,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.81,
-      "total_chapters": 9
+      "total_chapters": 11
     },
     {
       "slug": "504693-gwichonri",
@@ -14696,7 +14696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "global-class-transition-the-magic-kings-skills-have-infinite-affixes",
@@ -14848,7 +14848,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.37,
-      "total_chapters": 22
+      "total_chapters": 24
     },
     {
       "slug": "mazoku-no-musumetachi-to-okuru-midareta-isekai-seikatsu",
@@ -16281,6 +16281,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 6
+    },
+    {
+      "slug": "i-became-the-tutor-to-the-wolf-duke",
+      "title": "I Became the Tutor to the Wolf Duke",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "kamen-rider-kuuga",
+      "title": "Kamen Rider Kuuga",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "osananajimi-to-no-yakusoku-wo-hatasu-tame-ni-hyakunen-shugyo-shita-rouyuusha-nokori-no-jumyou-de-maou-wo-utsu",
+      "title": "Osananajimi to no Yakusoku wo Hatasu Tame ni Hyakunen Shugyo Shita Rouyuusha, Nokori no Jumyou de Maou wo Utsu",
+      "type": "",
+      "status": "Berjalan",
+      "rating": 7.3,
+      "total_chapters": 2
+    },
+    {
+      "slug": "ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni-shita",
+      "title": "Ore wa Gimai ni Uso wo Tsuku ~Chi no Tsunaganai Imouto wo Ore ga Hikitoru Koto ni Shita~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.28,
+      "total_chapters": 2
     }
   ]
 }

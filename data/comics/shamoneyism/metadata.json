@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-13T03:40:24.881024",
+  "scraped_at": "2026-08-13T11:39:10.348479",
   "alternative_titles": "Shamoneyism, ShaMONEYism, Sha-MONEY-ism, 샤MONEY즘",
   "status": "Berjalan",
   "author": "Narack",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    Shamoneyism yang dibuat oleh komikus bernama\n                    Narack ini bercerita tentang\n                    Dukun pelet cinta? lihat takdir? nyembuhin orang? muehehe ini lebih dari itu cuy~ ini cerita tentang Dukun Elit yang bergerak di bidang finansial. Pasar saham menjadi medan pertempuran sengit bagi mereka. bukan hanya puluhan atau ratusan ribu yang di pertaruhkan, melainkan Jutaan hingga milliaran Won yang di pertaruhkan. ini adalah kisah pertarungan Cheon Ji Seung, seorang dukun elit yang di kenal dengan julukan King of Instan Death. yang akan mengacak-acak pasar saham, dan membuat para konglomerat bersujud padanya. Judulnya 샤MONEY즘 = ShaMONEYism gabungan dari Shaman + Money + serapan ‘ism’ yang artinya Dukun + Uang karena ceritanya bergelut di bidang saham dan keuangan",
   "chapters": [
     {
+      "chapter": "62",
+      "title": "Komik Shamoneyism Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbW9uZXlpc20tY2hhcHRlci02Mi8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "61",
       "title": "Komik Shamoneyism Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbW9uZXlpc20tY2hhcHRlci02MS8=",
-      "date": "21 menit yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Shamoneyism Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbW9uZXlpc20tY2hhcHRlci02MC8=",
-      "date": "21 menit yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Shamoneyism Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbW9uZXlpc20tY2hhcHRlci01OS8=",
-      "date": "21 menit yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Shamoneyism Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbW9uZXlpc20tY2hhcHRlci01OC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Shamoneyism Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhbW9uZXlpc20tY2hhcHRlci01Ny8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "56",
@@ -386,5 +392,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 62
 }

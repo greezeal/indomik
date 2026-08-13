@@ -1,0 +1,63 @@
+{
+  "slug": "kamen-rider-kuuga",
+  "title": "Kamen Rider Kuuga",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsva2FtZW4tcmlkZXIta3V1Z2Ev",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvS29taWstS2FtZW4tUmlkZXItS3V1Z2EtMjI0eDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 7.0,
+  "scraped_at": "2026-08-13T11:37:56.775313",
+  "alternative_titles": "仮面ライダークウガ, Masked Rider KUUGA, Kamen Rider Kuuga, Kamen Rider Kûga",
+  "status": "Berjalan",
+  "author": "Inoue Toshiki, Ishinomori Shotaro",
+  "illustrator": "Yokoshima Hitotsu",
+  "themes": [
+    "Magic",
+    "Martial Arts",
+    "Military",
+    "Monsters",
+    "Office Workers",
+    "Police",
+    "Supernatural",
+    "Survival",
+    "Traditional Games",
+    "Vampires"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Romance",
+    "Sci-Fi",
+    "Superhero",
+    "Thriller",
+    "Tragedy"
+  ],
+  "synopsis": "Manga                    Kamen Rider Kuuga yang dibuat oleh komikus bernama\n                    Inoue Toshiki, Ishinomori Shotaro ini bercerita tentang\n                    Seorang pria serba bisa bernama Yusuke Godai memperoleh kekuatan prajurit kuno \"Kuuga\" dan, dengan bantuan petugas Kaoru Ichijo, bertarung melawan monster pembunuh yang dikenal sebagai Grongi demi menyelamatkan umat manusia. Namun, situasi mulai menjadi rumit ketika muncul entitas lain yang menyerupai Kuuga, dan pihak kepolisian memutuskan untuk menciptakan kostum anti-Grongi mereka sendiri.   Sebuah penuturan ulang kisah dari serial pahlawan *tokusatsu* *Kamen Rider Kuuga* dan *Kamen Rider Agito*.",
+  "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Kamen Rider Kuuga Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtZW4tcmlkZXIta3V1Z2EtY2hhcHRlci0zLw==",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Kamen Rider Kuuga Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtZW4tcmlkZXIta3V1Z2EtY2hhcHRlci0yLw==",
+      "date": "16 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Kamen Rider Kuuga Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtZW4tcmlkZXIta3V1Z2EtY2hhcHRlci0xLw==",
+      "date": "16 menit yang lalu"
+    }
+  ],
+  "total_chapters": 3
+}
