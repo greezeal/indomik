@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.81,
-  "scraped_at": "2026-08-11T09:09:11.937454",
+  "scraped_at": "2026-08-14T23:41:03.967151",
   "alternative_titles": "A Sage Is Summoned to Another World, A Sage Is Summoned to Another World ~The Undesired Items Are Now the Strongest~, El sabio es invocado a otro mundo, El sabio es invocado a otro mundo ~Los artículos más fuertes eran los menos deseados del inventario~, Shoukan sareta Kenja wa Isekai wo Yuku - Saikyou nano wa Fuyou Zaiko no Item deshita, 召喚された賢者は異世界を往く, 召喚された賢者は異世界を往く ～最強なのは不要在庫のアイテムでした～",
   "status": "Berjalan",
   "author": "Yashu",
@@ -28,16 +28,22 @@
   "synopsis": "Manga                    Shoukan Sareta Kenja wa Isekai o Iku ~ Saikyouna no wa Fuyou Zaiko no Aitemudeshita ~ yang dibuat oleh komikus bernama\n                    Yashu ini bercerita tentang\n                    Touya, pemain terkuat di game Pandemic World Online, telah memenangkan begitu banyak item sehingga dia memutuskan untuk membuat akun alternatif untuk menyimpan item tambahan. Saat memainkan game ini di akun keduanya, dia dipanggil ke dunia lain sebagai karakter yang dia buat, di mana orang-orang dengan riang mengharapkan seorang pahlawan. Namun, ketika diketahui bahwa dirinya tidak memiliki gelar pahlawan, dia dibuang dan digantikan oleh orang lain. Sekarang, dia harus bertahan hidup di dunia lain dengan akun yang hanya dia gunakan untuk menyimpan barang ekstra.",
   "chapters": [
     {
+      "chapter": "45",
+      "title": "Komik Shoukan Sareta Kenja wa Isekai o Iku ~ Saikyouna no wa Fuyou Zaiko no Aitemudeshita ~ Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hvdWthbi1zYXJldGEta2VuamEtd2EtaXNla2FpLW8taWt1LXNhaWt5b3VuYS1uby13YS1mdXlvdS16YWlrby1uby1haXRlbXVkZXNoaXRhLWNoYXB0ZXItNDUv",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik Shoukan Sareta Kenja wa Isekai o Iku ~ Saikyouna no wa Fuyou Zaiko no Aitemudeshita ~ Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hvdWthbi1zYXJldGEta2VuamEtd2EtaXNla2FpLW8taWt1LXNhaWt5b3VuYS1uby13YS1mdXlvdS16YWlrby1uby1haXRlbXVkZXNoaXRhLWNoYXB0ZXItNDQv",
-      "date": "4 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Shoukan Sareta Kenja wa Isekai o Iku ~ Saikyouna no wa Fuyou Zaiko no Aitemudeshita ~ Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hvdWthbi1zYXJldGEta2VuamEtd2EtaXNla2FpLW8taWt1LXNhaWt5b3VuYS1uby13YS1mdXlvdS16YWlrby1uby1haXRlbXVkZXNoaXRhLWNoYXB0ZXItNDMv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "42.2",
@@ -382,5 +388,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 60
 }

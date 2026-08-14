@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.98,
-  "scraped_at": "2026-08-03T04:41:32.022173",
+  "scraped_at": "2026-08-14T23:44:11.635550",
   "alternative_titles": "Welcome to Demon School! Iruma-kun (Mafia Alternate Universe), 魔入りました！入間くん if Episode of 魔フィア, Welcome to Demon School! Iruma-kun: If Episode of Mafia, Mairimashita! Iruma-kun: If Episode of Mafia",
   "status": "Berjalan",
   "author": "Hiroja",
@@ -26,10 +26,16 @@
   "synopsis": "Manga                    Mairimashita! Iruma-kun Mafia AU yang dibuat oleh komikus bernama\n                    Hiroja ini bercerita tentang\n                    Karakter tercinta Mairimashita! Iruma-kun membintangi spin-off berbasis Mafia ini! Iruma muda menyelamatkan bos mafia yang terluka dari kematian... dan kemudian menjadi cucunya!?",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTM3Lw==",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTM2Lw==",
-      "date": "17 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "35",
@@ -41,7 +47,7 @@
       "chapter": "34",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTM0Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -113,7 +119,7 @@
       "chapter": "23",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTIzLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -266,5 +272,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-12T14:47:56.972076",
+  "scraped_at": "2026-08-14T23:44:22.488972",
   "alternative_titles": "Daesahyong Sonnyu, Sonnyu, the Great Master, 대사형 선유",
   "status": "Berjalan",
   "author": "NOH Kyung-chan",
@@ -24,34 +24,40 @@
   "synopsis": "Manhwa                    The Great Master yang dibuat oleh komikus bernama\n                    NOH Kyung-chan ini bercerita tentang\n                    Anak-anak dibawa ke tangan benteng kelas tiga, Kwak No. Setelah menjalin hubungan pendeta, anak-anak dengan kikuk berlatih seni bela diri dan gerak kaki dan memimpikan impian mereka sendiri. Untuk mencari nafkah, Kwak Noh harus selalu pergi, dan Seonyu, anak sulung, harus mengurus para pendeta. Dia adalah duta besar.",
   "chapters": [
     {
+      "chapter": "150",
+      "title": "Komik The Great Master Chapter 150",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTE1MC8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "149",
       "title": "Komik The Great Master Chapter 149",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTE0OS8=",
-      "date": "2 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "148",
       "title": "Komik The Great Master Chapter 148",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTE0OC8=",
-      "date": "2 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "147",
       "title": "Komik The Great Master Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTE0Ny8=",
-      "date": "1 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "146",
       "title": "Komik The Great Master Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTE0Ni8=",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "145",
       "title": "Komik The Great Master Chapter 145",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTE0NS8=",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "144",
@@ -177,7 +183,7 @@
       "chapter": "124",
       "title": "Komik The Great Master Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTEyNC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "123",
@@ -567,7 +573,7 @@
       "chapter": "59",
       "title": "Komik The Great Master Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdyZWF0LW1hc3Rlci1jaGFwdGVyLTU5Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "58",
@@ -924,5 +930,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 150
+  "total_chapters": 151
 }
