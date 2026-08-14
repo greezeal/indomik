@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.01,
-  "scraped_at": "2026-08-13T11:40:20.593901",
+  "scraped_at": "2026-08-14T13:40:57.887261",
   "alternative_titles": "SMGL, 大王饶命",
   "status": "Berjalan",
   "author": "The Speaking Pork Trotter",
@@ -24,28 +24,34 @@
   "synopsis": "Manhua                    Spare Me, Great Lord! yang dibuat oleh komikus bernama\n                    The Speaking Pork Trotter ini bercerita tentang\n                    Setelah penyegaran dan kembalinya energi roh, pria dan wanita melakukan yang terbaik untuk menangkap setiap untaian energi roh dan berlatih, kecuali Lu Shu, dengan Sistem Emosi Negatifnya, dia menjadi lebih kuat dengan mengejek orang lain! Dia hanya ingin melindungi adik perempuannya, tetapi perubahan era tidak dapat dihindari, maka yang bisa dia lakukan hanyalah ... mengejek orang lain secara sepintas, dan menjadi yang terkuat! Lalu, apakah kamu siap? Inilah Lu Shu, 'Raja Iblis Hebat' ~",
   "chapters": [
     {
+      "chapter": "759",
+      "title": "Komik Spare Me, Great Lord! Chapter 759",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc1OS8=",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "758",
       "title": "Komik Spare Me, Great Lord! Chapter 758",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc1OC8=",
-      "date": "14 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "757",
       "title": "Komik Spare Me, Great Lord! Chapter 757",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc1Ny8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "756",
       "title": "Komik Spare Me, Great Lord! Chapter 756",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc1Ni8=",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "755",
       "title": "Komik Spare Me, Great Lord! Chapter 755",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc1NS8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "754",
@@ -4578,5 +4584,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 759
+  "total_chapters": 760
 }
