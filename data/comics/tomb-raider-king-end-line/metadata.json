@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T05:28:35.812224",
+  "scraped_at": "2026-08-14T12:07:24.608121",
   "alternative_titles": "도굴왕: 엔드라인",
   "status": "Berjalan",
   "author": "SAN.G, Yuns",
@@ -24,34 +24,40 @@
   "synopsis": "Manhwa                    Tomb Raider King: End Line yang dibuat oleh komikus bernama\n                    SAN.G, Yuns ini bercerita tentang\n                    Kisah adalah kekuatan. Artefak yang lahir dari mitos dan cerita rakyat menganugerahkan kemampuan dan kekayaan kepada umat manusia, memicu pertempuran untuk memperebutkannya. Aku akhirnya menang dalam pertempuran ini dan menjadi Raja Artefak, Yang Mulia, tetapi... \"Pendaftaran Yang Mulia No. 187.487 Selesai. Reset Paksa Umat Manusia Dimulai. Perang Yang Mulia Diizinkan.\" Jadi itu baru permulaan? Lalu kenapa? Ada bajingan-bajingan itu yang mencuri milikku. \"Kau ingin melakukannya dengan hukum? Baiklah, dengan hukumku.\" Siapa pun bisa menang dengan kekerasan. Mereka menggulingkan mitos, mencuri aturan, dan menjarah dunia. \"Terima kasih banyak telah mengundangku ke ruang harta karun! Kalian bajingan!\"",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Tomb Raider King: End Line Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTIxLw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Tomb Raider King: End Line Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTIwLw==",
-      "date": "13 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Tomb Raider King: End Line Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTE5Lw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Tomb Raider King: End Line Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTE4Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Tomb Raider King: End Line Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTE3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Tomb Raider King: End Line Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTE2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -141,8 +147,8 @@
       "chapter": "1",
       "title": "Komik Tomb Raider King: End Line Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tYi1yYWlkZXIta2luZy1lbmQtbGluZS1jaGFwdGVyLTEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 21
 }

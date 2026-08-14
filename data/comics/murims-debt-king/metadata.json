@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-01T04:48:45.301992",
+  "scraped_at": "2026-08-14T12:08:36.189571",
   "alternative_titles": "Murim Loan Shark King, Murim's Debt King, 무림사채왕, 무림의 빚왕",
   "status": "Berjalan",
   "author": "Hongsil, Sallyeojuseyo",
@@ -20,46 +20,58 @@
   "synopsis": "Manhwa                    Murim’s Debt King yang dibuat oleh komikus bernama\n                    Hongsil, Sallyeojuseyo ini bercerita tentang\n                    Tempat di mana uang dibutuhkan untuk mengasah pedang, untuk memberi makan dan pakaian kepada murid-muridmu—tidak, hanya untuk bernapas.\r\n\r\nMurim.\r\n\r\nApakah Anda butuh uang? Apakah peringkat kredit Anda turun? Kalau begitu, datanglah ke Medan Perang Kontinental. Persetujuan pinjaman tanpa jaminan di hari yang sama.\r\n\r\nAnda tidak punya uang untuk membayar? Ah. Jangan khawatir. Kami menerima tubuh Anda. Tenang! Anda akan terluka! Terima kasih, Tuan!",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Murim’s Debt King Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTE0Lw==",
+      "date": "5 jam yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Murim’s Debt King Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTEzLw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "12",
       "title": "Komik Murim’s Debt King Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTEyLw==",
-      "date": "15 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Murim’s Debt King Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTExLw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Murim’s Debt King Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTEwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Murim’s Debt King Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTkv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Murim’s Debt King Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTgv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Murim’s Debt King Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Murim’s Debt King Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "5",
@@ -92,5 +104,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 14
 }

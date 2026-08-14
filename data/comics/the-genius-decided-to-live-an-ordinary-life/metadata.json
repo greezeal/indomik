@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-10T21:25:23.118958",
+  "scraped_at": "2026-08-14T12:03:29.769247",
   "alternative_titles": "천재는 평범하게 살기로 했더, The Genius Who Chose a Normal Life, The Genius Decided to Live an Ordinary Life, The Genius Who Wanted a Normal Life",
   "status": "Berjalan",
   "author": "Jasone, Silk Scallop",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    The Genius Decided to Live an Ordinary Life yang dibuat oleh komikus bernama\n                    Jasone, Silk Scallop ini bercerita tentang\n                    Tokoh utama dari kehidupan sukses yang diakui oleh publik, 'Son Jinhyuk.'\r\n\r\nNamun, Jinhyuk hanya ingin menjalani kehidupan normal bersama keluarga tercintanya, dan ia tidak dapat menyembunyikan hatinya yang kesepian karena ia tidak dapat melakukannya.\r\n\r\nSuatu hari, aku terbangun dalam sebuah kecelakaan dan kembali ke masa saat aku berusia 9 tahun sebelum aku kehilangan kedua orang tuaku, yang sangat kuinginkan!\r\n\r\nAkankah Jinhyuk dapat menyelamatkan kedua orang tuanya dan menjalani kehidupan normal?",
   "chapters": [
     {
+      "chapter": "69",
+      "title": "Komik The Genius Decided to Live an Ordinary Life Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1kZWNpZGVkLXRvLWxpdmUtYW4tb3JkaW5hcnktbGlmZS1jaGFwdGVyLTY5Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "68",
       "title": "Komik The Genius Decided to Live an Ordinary Life Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1kZWNpZGVkLXRvLWxpdmUtYW4tb3JkaW5hcnktbGlmZS1jaGFwdGVyLTY4Lw==",
-      "date": "33 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "67",
@@ -202,7 +208,7 @@
       "chapter": "38",
       "title": "Komik The Genius Decided to Live an Ordinary Life Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1kZWNpZGVkLXRvLWxpdmUtYW4tb3JkaW5hcnktbGlmZS1jaGFwdGVyLTM4Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -214,7 +220,7 @@
       "chapter": "36",
       "title": "Komik The Genius Decided to Live an Ordinary Life Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1kZWNpZGVkLXRvLWxpdmUtYW4tb3JkaW5hcnktbGlmZS1jaGFwdGVyLTM2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "35",
@@ -352,7 +358,7 @@
       "chapter": "13",
       "title": "Komik The Genius Decided to Live an Ordinary Life Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1kZWNpZGVkLXRvLWxpdmUtYW4tb3JkaW5hcnktbGlmZS1jaGFwdGVyLTEzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "12",
@@ -427,5 +433,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 68
+  "total_chapters": 69
 }

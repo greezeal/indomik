@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-05T03:23:35.515214",
+  "scraped_at": "2026-08-14T12:03:05.705944",
   "alternative_titles": "I Became a Wizard in a Medieval Fantasy World, 중세 판타지의 마법사가 되었다",
   "status": "Berjalan",
   "author": "",
@@ -20,40 +20,52 @@
   "synopsis": "Manhwa                    I Became a Wizard in a Medieval Fantasy World yang dibuat oleh komikus bernama\n                     ini bercerita tentang\n                    “Ian Raven, kau… bukan siapa-siapa.”\r\n\r\nDi dunia fantasi abad pertengahan, seorang anak laki-laki bernama Ian bereinkarnasi sebagai putra seorang petani biasa. Seperti yang dinyatakan di jendela status, Ian menjalani hidup sebagai “bukan siapa-siapa.” Kemudian suatu hari, penyihir Elendis muncul di hadapannya. Dan karena alasan sederhana bahwa ia “memiliki rambut hitam yang disebutkan dalam ramalan,” ia menerima Ian sebagai muridnya. Setelah enam tahun pelatihan keras, Ian akhirnya memulai petualangan sebagai seorang penyihir.\r\n\r\nNamun dunia fantasi abad pertengahan ini jauh lebih rumit daripada yang terlihat! Ia bergidik melihat standar kebersihan yang keterlaluan dan marah pada keegoisan orang-orang yang tak terbayangkan. Dari seorang anak laki-laki yang bukan siapa-siapa, hingga seorang penyihir yang akan mengubah dunia— Inilah kisah petualangan kacau Ian, seorang penyihir di dunia fantasi abad pertengahan!",
   "chapters": [
     {
+      "chapter": "35",
+      "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMzUv",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMzQv",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "33",
       "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMzMv",
-      "date": "13 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMzIv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMzEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMzAv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMjkv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik I Became a Wizard in a Medieval Fantasy World Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtYS13aXphcmQtaW4tYS1tZWRpZXZhbC1mYW50YXN5LXdvcmxkLWNoYXB0ZXItMjgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -218,5 +230,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 35
 }
