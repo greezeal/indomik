@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-09T17:46:42.925828",
+  "scraped_at": "2026-08-15T17:30:19.347879",
   "alternative_titles": "転生ストリーマー, 환생자의 스트리밍, Reincarnated Streamer, Reincarnator’s Stream, Tensei Streamer",
   "status": "Berjalan",
   "author": "B. Ain (흑아인)",
@@ -22,28 +22,34 @@
   "synopsis": "Manhwa                    Reincarnator’s Stream yang dibuat oleh komikus bernama\n                    B. Ain (흑아인) ini bercerita tentang\n                    Narukami Subaru, \"Master Petir,\" pernah dipuji sebagai pemain terkuat. Namun, selama penyerangan Menara, ia dikhianati dan dibunuh oleh seorang teman yang dipercaya.Di saat-saat terakhirnya, ia mengerahkan seluruh kekuatannya untuk menyelamatkan rekan-rekannya. Namun, meskipun merasakan kematian menjemputnya, ia terbangun dan mendapati dirinya bereinkarnasi 20 tahun di masa depan.Di era baru ini, kebenaran telah terkubur, dan pengkhianat, Kyojo Itsuki, berkuasa sebagai pemain teratas. Untuk membalas dendam—dan demi sekutu yang mungkin masih menunggunya—Subaru harus menjadi kuat kembali, dan dengan cepat.\"Melakukan hal yang sama seperti sebelumnya tidak akan berhasil.\"Diberi kesempatan kedua dalam hidup, mantan juara memilih jalan baru... Siaran Langsung!Tidak masalah jika dunia penuh dengan streamer yang meniru Narukami Subaru yang legendaris.\"Karena akulah yang asli.\"",
   "chapters": [
     {
+      "chapter": "60",
+      "title": "Komik Reincarnator’s Stream Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci02MC8=",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "59",
       "title": "Komik Reincarnator’s Stream Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci01OS8=",
-      "date": "1 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Reincarnator’s Stream Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci01OC8=",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Reincarnator’s Stream Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci01Ny8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Reincarnator’s Stream Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci01Ni8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -97,7 +103,7 @@
       "chapter": "47",
       "title": "Komik Reincarnator’s Stream Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci00Ny8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -121,7 +127,7 @@
       "chapter": "43",
       "title": "Komik Reincarnator’s Stream Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci00My8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -145,7 +151,7 @@
       "chapter": "39",
       "title": "Komik Reincarnator’s Stream Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci0zOS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -175,7 +181,7 @@
       "chapter": "34",
       "title": "Komik Reincarnator’s Stream Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdG9ycy1zdHJlYW0tY2hhcHRlci0zNC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -376,5 +382,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 60
 }

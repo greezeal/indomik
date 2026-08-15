@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T16:59:36.803993",
-  "total_comics": 2066,
+  "last_updated": "2026-08-15T17:35:40.319201",
+  "total_comics": 2067,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -64,7 +64,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 206
+      "total_chapters": 207
     },
     {
       "slug": "593213-the-lords-coins-arent-decreasing",
@@ -2328,7 +2328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "defective-reincarnator-becomes-the-ultimate-teacher",
@@ -6392,7 +6392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 61
     },
     {
       "slug": "anta-to-osananajimitte-dake-demo-iyananoni-zekkou-kara-hajimaru-s-kyuu-bishoujo-to-no-gakuen-nariagari-seikatsu",
@@ -14296,7 +14296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "worlds-strongest-punch",
@@ -14304,7 +14304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "ghost-story-club-remake",
@@ -16529,6 +16529,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 6
+    },
+    {
+      "slug": "654814-the-legendary-hero-is-an-academy-honors-student",
+      "title": "The Legendary Hero is an Academy Honors Student",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.75,
+      "total_chapters": 99
     }
   ]
 }
