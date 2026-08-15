@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T05:50:29.967721",
-  "total_comics": 2045,
+  "last_updated": "2026-08-15T06:21:59.943369",
+  "total_comics": 2054,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4672,7 +4672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 183
+      "total_chapters": 184
     },
     {
       "slug": "the-supreme-demon-swordmaster",
@@ -6160,7 +6160,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.12,
-      "total_chapters": 156
+      "total_chapters": 158
     },
     {
       "slug": "the-politician-who-sees-the-future",
@@ -6624,7 +6624,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.53,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "eiyuu-kyoushitsu",
@@ -7008,7 +7008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.96,
-      "total_chapters": 158
+      "total_chapters": 159
     },
     {
       "slug": "the-girl-who-see-it",
@@ -8160,7 +8160,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.64,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "tonari-no-seki-no-inkya-joshi-ga-oshi-utaite-datta-ore-no-kyoku-wo-uttatekure",
@@ -9656,7 +9656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 247
+      "total_chapters": 252
     },
     {
       "slug": "boruto-two-blue-vortex",
@@ -14384,7 +14384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "kounai-sandai-bijo-no-himo-shite",
@@ -16360,7 +16360,79 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
+    },
+    {
+      "slug": "elf-san-no-mahou-ryouriten-yousei-joou-to-shite-tensei-shita-keredo-mazu-wa-nonbiri-oryouri-tsukurimakurimasu",
+      "title": "Elf-san no Mahou Ryouriten: Yousei Joou to shite Tensei Shita keredo, Mazu wa Nonbiri Oryouri Tsukurimakurimasu!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.36,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kuzulesse-oblige-18-kin-game-sekai-no-kuzu-akuyaku-ni-tensei-shiteshimatta-ore-wa-gensaku-chishiki-no-chikara-de-doushite-mo-mob-jinsei-wo-tsukami-toritai",
+      "title": "Kuzulesse Oblige – 18-kin Game Sekai no Kuzu Akuyaku ni Tensei Shiteshimatta Ore wa, Gensaku Chishiki no Chikara de Doushite mo Mob Jinsei wo Tsukami Toritai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.99,
+      "total_chapters": 10
+    },
+    {
+      "slug": "kamoku-dakedo-mechakucha-norinoii-kuroneko-chan",
+      "title": "Kamoku dakedo Mechakucha Norinoii Kuroneko-chan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.72,
+      "total_chapters": 2
+    },
+    {
+      "slug": "rinko-chan-to-himosugara",
+      "title": "Rinko-chan to Himosugara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.86,
+      "total_chapters": 6
+    },
+    {
+      "slug": "my-boyfriend-ten-years-younger-is-my-elite-boss",
+      "title": "My Boyfriend Ten Years Younger Is My Elite Boss",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 18
+    },
+    {
+      "slug": "time-healer-ceres",
+      "title": "Time Healer Ceres",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 10
+    },
+    {
+      "slug": "885841-kaoru-hana-wa-rin-to-saku",
+      "title": "Kaoru Hana Wa Rin To Saku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 204
+    },
+    {
+      "slug": "186779-otona-wo-shiritai-onnatomodachi",
+      "title": "Otona wo Shiritai Onnatomodachi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "492195-world-trigger",
+      "title": "World Trigger",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.77,
+      "total_chapters": 261
     }
   ]
 }

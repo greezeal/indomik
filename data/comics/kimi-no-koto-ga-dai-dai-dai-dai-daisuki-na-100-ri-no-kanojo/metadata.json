@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.12,
-  "scraped_at": "2026-08-12T10:20:50.279661",
+  "scraped_at": "2026-08-15T06:14:59.086300",
   "alternative_titles": "100 девушек, которые очень-очень-очень-очень-очень сильно тебя любят, 100kano, Hyakkano, The 100 Girlfriends Who Really, Really, Really, Really, Really Love You, Kimi no Koto ga daidaidaidaidai suki na 100-nin no Kanojo, Las 100 novias que te quieren mucho mucho mucho mucho mucho, Suki na 100-nin no Kanojo, 君のことが大大大大大好きな100人の彼女, 超超超超超喜歡你的100個女友",
   "status": "Berjalan",
   "author": "Nakamura Rikito",
@@ -23,10 +23,22 @@
   "synopsis": "Manga                    Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo yang dibuat oleh komikus bernama\n                    Nakamura Rikito ini bercerita tentang\n                    Aijou Rentarou mengalami 100 patah hati selama SMP. Saat berdoa di kuil, Dewa Cinta muncul, mengatakan bahwa Aijou akan bertemu 100 belahan jiwa. Jika hubungan mereka dengannya gagal, semua gadis akan menghadapi kecelakaan dan mati. Sekarang masalah cinta atau kematian, dan Aijou yang memutuskan.",
   "chapters": [
     {
+      "chapter": "145",
+      "title": "Komik Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo Chapter 145",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb3RvLWdhLWRhaS1kYWktZGFpLWRhaS1kYWlzdWtpLW5hLTEwMC1yaS1uby1rYW5vam8tY2hhcHRlci0xNDUv",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "144",
+      "title": "Komik Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo Chapter 144",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb3RvLWdhLWRhaS1kYWktZGFpLWRhaS1kYWlzdWtpLW5hLTEwMC1yaS1uby1rYW5vam8tY2hhcHRlci0xNDQv",
+      "date": "3 hari yang lalu"
+    },
+    {
       "chapter": "143",
       "title": "Komik Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb3RvLWdhLWRhaS1kYWktZGFpLWRhaS1kYWlzdWtpLW5hLTEwMC1yaS1uby1rYW5vam8tY2hhcHRlci0xNDMv",
-      "date": "13 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "142",
@@ -86,7 +98,7 @@
       "chapter": "134",
       "title": "Komik Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo Chapter 134",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb3RvLWdhLWRhaS1kYWktZGFpLWRhaS1kYWlzdWtpLW5hLTEwMC1yaS1uby1rYW5vam8tY2hhcHRlci0xMzQv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "133",
@@ -428,7 +440,7 @@
       "chapter": "81",
       "title": "Komik Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb3RvLWdhLWRhaS1kYWktZGFpLWRhaS1kYWlzdWtpLW5hLTEwMC1yaS1uby1rYW5vam8tY2hhcHRlci04MS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "80",
@@ -734,7 +746,7 @@
       "chapter": "38",
       "title": "Komik Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rb3RvLWdhLWRhaS1kYWktZGFpLWRhaS1kYWlzdWtpLW5hLTEwMC1yaS1uby1rYW5vam8tY2hhcHRlci0zOC8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "37",
@@ -959,5 +971,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 156
+  "total_chapters": 158
 }
