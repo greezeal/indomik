@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.37,
-  "scraped_at": "2026-08-13T15:19:36.879946",
+  "scraped_at": "2026-08-15T08:17:31.938929",
   "alternative_titles": "姉ちゃんの友達がうざい話, Nee-chan no Tomodachi ga Uzai-banashi, My Older Sister’s Friend Is Annoying",
   "status": "Berjalan",
   "author": "Azusa Kina",
@@ -20,28 +20,34 @@
   "synopsis": "Manga                    Nee-chan no Tomodachi ga Uzai-banashi yang dibuat oleh komikus bernama\n                    Azusa Kina ini bercerita tentang\n                    Nao Misumi, seorang siswa sekolah menengah tahun pertama, telah mengenal sahabat kakak perempuannya Rio, Sena Ikuta, sejak sekolah dasar. Meskipun dia merasa kesal dengan kebiasaan Sena yang memanggilnya sebagai adik laki-lakinya, dia adalah seseorang yang tidak bisa dia tinggalkan begitu saja...?",
   "chapters": [
     {
+      "chapter": "21.5",
+      "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 21.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTIxLTUv",
+      "date": "55 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTIxLw==",
-      "date": "9 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTIwLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTE5Lw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTE4Lw==",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "17",
@@ -53,7 +59,7 @@
       "chapter": "16.5",
       "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 16.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTE2LTUv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
@@ -65,13 +71,13 @@
       "chapter": "15",
       "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTE1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Nee-chan no Tomodachi ga Uzai-banashi Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVlLWNoYW4tbm8tdG9tb2RhY2hpLWdhLXV6YWktYmFuYXNoaS1jaGFwdGVyLTE0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
@@ -164,5 +170,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }
