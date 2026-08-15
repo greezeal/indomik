@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-13T11:40:59.387118",
+  "scraped_at": "2026-08-15T22:22:42.601452",
   "alternative_titles": "Obchaka, Ovcharka, Общака, 오브차카",
   "status": "Berjalan",
   "author": "Sergeant",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    Obshchaka yang dibuat oleh komikus bernama\n                    Sergeant ini bercerita tentang\n                    Spin-off pertama dari Baek XXX Upaya pembunuhan terhadap Big Boss mafia Rusia. Pengkhianatan yang mengincar kekuasaan menghancurkan organisasi. Obshchak Boris memilih balas dendam di hadapan darah sahabat terdekatnya.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Obshchaka Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMzAv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik Obshchaka Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMjkv",
-      "date": "14 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "28",
@@ -177,20 +183,20 @@
       "chapter": "3",
       "title": "Komik Obshchaka Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMy8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Obshchaka Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMi8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Obshchaka Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2JzaGNoYWthLWNoYXB0ZXItMS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }
