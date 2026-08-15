@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.52,
-  "scraped_at": "2026-08-05T17:10:42.966539",
+  "scraped_at": "2026-08-15T14:00:55.479956",
   "alternative_titles": "勇者に全部奪われた俺は勇者の母親とパーティを組みました！, The Hero Took Everything from Me, So I Partied with the Hero’s Mother!",
   "status": "Berjalan",
   "author": "Ishino Yassan",
@@ -26,28 +26,34 @@
   "synopsis": "Manga                    Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! yang dibuat oleh komikus bernama\n                    Ishino Yassan ini bercerita tentang\n                    Seorang pria muda ingin menikahi ibu dari pesta pahlawan—\r\n\r\nSebagai anggota kelompok pahlawan, Ceres, sang tokoh utama, berangkat untuk mengalahkan raja iblis.\r\nNamun suatu hari, dia tiba-tiba diberhentikan oleh sang pahlawan, dan dia harus meninggalkan party tersebut.\r\nSendirian, Ceres berusaha mencari budak rumah tangga untuk merawatnya. Apa yang dia lihat di pasar budak adalah Nona Shizuko, ibu dari sang pahlawan, dijual sebagai budak—??\r\n\r\nIsekai mama harem pemuda yang diusir secara tidak wajar telah lahir!!",
   "chapters": [
     {
+      "chapter": "36",
+      "title": "Komik Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLW5pLXplbmJ1LXViYXdhcmV0YS1vcmUtd2EteXV1c2hhLW5vLWhhaGFveWEtdG8tcGFydHktd28ta3VtaW1hc2hpdGEtY2hhcHRlci0zNi8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "35",
       "title": "Komik Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLW5pLXplbmJ1LXViYXdhcmV0YS1vcmUtd2EteXV1c2hhLW5vLWhhaGFveWEtdG8tcGFydHktd28ta3VtaW1hc2hpdGEtY2hhcHRlci0zNS8=",
-      "date": "2 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLW5pLXplbmJ1LXViYXdhcmV0YS1vcmUtd2EteXV1c2hhLW5vLWhhaGFveWEtdG8tcGFydHktd28ta3VtaW1hc2hpdGEtY2hhcHRlci0zNC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLW5pLXplbmJ1LXViYXdhcmV0YS1vcmUtd2EteXV1c2hhLW5vLWhhaGFveWEtdG8tcGFydHktd28ta3VtaW1hc2hpdGEtY2hhcHRlci0zMy8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLW5pLXplbmJ1LXViYXdhcmV0YS1vcmUtd2EteXV1c2hhLW5vLWhhaGFveWEtdG8tcGFydHktd28ta3VtaW1hc2hpdGEtY2hhcHRlci0zMi8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -83,7 +89,7 @@
       "chapter": "26",
       "title": "Komik Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveXV1c2hhLW5pLXplbmJ1LXViYXdhcmV0YS1vcmUtd2EteXV1c2hhLW5vLWhhaGFveWEtdG8tcGFydHktd28ta3VtaW1hc2hpdGEtY2hhcHRlci0yNi8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "25.1",
@@ -254,5 +260,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 38
+  "total_chapters": 39
 }

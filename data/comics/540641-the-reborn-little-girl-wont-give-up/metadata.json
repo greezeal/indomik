@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.35,
-  "scraped_at": "2026-08-15T09:51:38.748319",
+  "scraped_at": "2026-08-15T14:04:10.934851",
   "alternative_titles": "Reincarnation's Little Girl Never Gives Up, Tensei Youjo wa Akiramenai, 転生幼女はあきらめない",
   "status": "Berjalan",
   "author": "kaya (カヤ)",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    The Reborn Little Girl Won’t Give Up yang dibuat oleh komikus bernama\n                    kaya (カヤ) ini bercerita tentang\n                    Ketika saya bangun, saya telah terlahir kembali sebagai bayi. Ibu saya meninggal dan saya diabaikan oleh ayah saya. Meskipun saya lahir di keluarga Marquis, hidup saya dimulai dengan HARD MODE. Tapi saya tidak akan putus asa. Saya akan makan dengan baik, tidur nyenyak, banyak bergerak, mendapatkan apa pun yang saya bisa dan hidup bahagia.\r\n\r\nTapi entah kenapa, banyak insiden terjadi. Ini adalah kisah tentang seorang gadis kecil dengan kekuatan untuk menciptakan penghalang di dunia tempat Hollow dan Manusia berada dalam konflik. Dia membuat orang lain terlibat dalam insiden itu dan menjadi bahagia.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0zMy8=",
+      "date": "32 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0zMi8=",
-      "date": "2 jam yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "31",
@@ -229,5 +235,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 34
+  "total_chapters": 35
 }

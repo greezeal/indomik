@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-09T17:45:00.566495",
+  "scraped_at": "2026-08-15T14:03:05.702615",
   "alternative_titles": "Hombre auténtico, Hombre de verdad, Real Man, เส้นทางลูกผู้ชาย, 上男子, 男子汉, 真なる男, 상남자",
   "status": "Berjalan",
   "author": "HA Neulso, KIM Tae-gung",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    The Man yang dibuat oleh komikus bernama\n                    HA Neulso, KIM Tae-gung ini bercerita tentang\n                    Yuhyeon menjadi CEO termuda Hansung, sebuah perusahaan elektronik sukses yang dibangun di atas budaya kerja yang beracun, tetapi tidak ada seorang pun yang dia sayangi yang ada di sana untuk merayakannya. Setelah semalaman minum dan bertanya-tanya apakah dia bisa mengubah masa lalu, dia bangun keesokan paginya, 20 tahun lebih muda daripada di awal kariernya.\r\nBerbekal pengalaman dan wawasan yang membuatnya menjadi CEO, Yuhyeon mulai meninjau kembali hubungan yang rusak dan melawan para pendukung lingkungan kerja Hansung yang kejam.",
   "chapters": [
     {
+      "chapter": "273",
+      "title": "Komik The Man Chapter 273",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hbi1jaGFwdGVyLTI3My8=",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "272",
       "title": "Komik The Man Chapter 272",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hbi1jaGFwdGVyLTI3Mi8=",
-      "date": "45 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "271",
       "title": "Komik The Man Chapter 271",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hbi1jaGFwdGVyLTI3MS8=",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "270",
       "title": "Komik The Man Chapter 270",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hbi1jaGFwdGVyLTI3MC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "269",
       "title": "Komik The Man Chapter 269",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW1hbi1jaGFwdGVyLTI2OS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "268",
@@ -1652,5 +1658,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 272
+  "total_chapters": 273
 }
