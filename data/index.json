@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T17:35:40.319201",
-  "total_comics": 2067,
+  "last_updated": "2026-08-15T17:58:51.930112",
+  "total_comics": 2069,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2160,7 +2160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.44,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "everyone-loves-her",
@@ -3016,7 +3016,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 158
+      "total_chapters": 160
     },
     {
       "slug": "333015-chronicles-of-the-martial-gods-return",
@@ -8768,7 +8768,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.74,
-      "total_chapters": 83
+      "total_chapters": 84
     },
     {
       "slug": "the-strongest-dull-princes-secret-battle-for-the-throne",
@@ -10112,7 +10112,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 35
+      "total_chapters": 36
     },
     {
       "slug": "superu",
@@ -13992,7 +13992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "once-divorced-fox-travel-meals",
@@ -15672,7 +15672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 12
     },
     {
       "slug": "saitei-chingin-no-maou-rekidai-saikyou-no-maougun-sono-ashi-o-hipparu-no-ga-oshigoto-desu",
@@ -16128,7 +16128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 57
     },
     {
       "slug": "slime-master-chan-no-vrmmo",
@@ -16408,7 +16408,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "885841-kaoru-hana-wa-rin-to-saku",
@@ -16537,6 +16537,22 @@
       "status": "Berjalan",
       "rating": 6.75,
       "total_chapters": 99
+    },
+    {
+      "slug": "modern-man-who-fall-into-murim",
+      "title": "Modern Man Who Fall Into Murim",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 146
+    },
+    {
+      "slug": "214645-the-cold-blooded-warrior",
+      "title": "The Cold-Blooded Warrior",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 60
     }
   ]
 }
