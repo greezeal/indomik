@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-09T22:57:24.793483",
+  "scraped_at": "2026-08-16T08:58:25.559365",
   "alternative_titles": "아기 요정은 악당, Agi Yojeongeun Akdang, The Baby Fairy Is a Villainess, A bebê fada é uma vilã!, Маленька фея — Лиходійка, Малышка-фея — злодейка, ちびっこ妖精は悪党です！",
   "status": "Berjalan",
   "author": "Saha, Maesa (매사)",
@@ -22,34 +22,40 @@
   "synopsis": "Manhwa                    The Baby Fairy is a Villain yang dibuat oleh komikus bernama\n                    Saha, Maesa (매사) ini bercerita tentang\n                    Sejak terbangun sebagai peri, Lichesia sang Penyihir terus-menerus melarikan diri dari pemburu peri yang ingin menjualnya. Sekarang, berharap untuk mengetahui siapa sebenarnya yang berada di balik para pemburu itu, dia menyamar sebagai Chesha yang berusia 5 tahun untuk menyusup ke Rumah Basillian yang misterius... dengan cara diadopsi! Tetapi Pangeran Basillian dan ketiga putranya adalah kelompok yang aneh, dan sementara mereka memanjakan Chesha, sang pangeran tampaknya sedang merencanakan sesuatu yang jahat. Dapatkah sang Penyihir membalas dendam dan keluar dari rumah aneh ini hidup-hidup?",
   "chapters": [
     {
+      "chapter": "70",
+      "title": "Komik The Baby Fairy is a Villain Chapter 70",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktZmFpcnktaXMtYS12aWxsYWluLWNoYXB0ZXItNzAv",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "69",
       "title": "Komik The Baby Fairy is a Villain Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktZmFpcnktaXMtYS12aWxsYWluLWNoYXB0ZXItNjkv",
-      "date": "40 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik The Baby Fairy is a Villain Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktZmFpcnktaXMtYS12aWxsYWluLWNoYXB0ZXItNjgv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik The Baby Fairy is a Villain Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktZmFpcnktaXMtYS12aWxsYWluLWNoYXB0ZXItNjcv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik The Baby Fairy is a Villain Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktZmFpcnktaXMtYS12aWxsYWluLWNoYXB0ZXItNjYv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik The Baby Fairy is a Villain Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktZmFpcnktaXMtYS12aWxsYWluLWNoYXB0ZXItNjUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "64",
@@ -436,5 +442,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 69
+  "total_chapters": 70
 }

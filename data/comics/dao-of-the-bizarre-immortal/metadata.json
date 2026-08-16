@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-15T09:46:09.168748",
+  "scraped_at": "2026-08-16T08:58:20.181655",
   "alternative_titles": "Dao of the Bizarre Immortal, 道诡异仙",
   "status": "Berjalan",
   "author": "阅文漫画",
@@ -25,10 +25,16 @@
   "synopsis": "Manhua                    Dao of the Bizarre Immortal yang dibuat oleh komikus bernama\n                    阅文漫画 ini bercerita tentang\n                    Li Huowang tidak dapat mengambil keputusan. Apakah dia berada di rumah sakit atau di dunia fantasi yang berjuang untuk bertahan hidup? Kedua belah pihak mengklaim bahwa mereka nyata sementara yang lain adalah halusinasi. Ikuti petualangan Li Huowang saat ia mencoba memahami apa yang terjadi padanya. Jelajahi dunia para pembudidaya aneh dan kengerian yang penuh dengan hal-hal gaib saat semua orang mencoba bertahan hidup di dalamnya.\r\n\r\nJalan aneh menuju surga, dewa-dewi dan makhluk abadi yang tidak normal. Apakah itu nyata? Atau palsu? Li Huowang tidak dapat membedakan keduanya dalam kebingungannya. Namun, bukan itu saja yang menyebabkannya tidak dapat membedakan keduanya. Ada juga penyakitnya sendiri, yang melemahkan.",
   "chapters": [
     {
+      "chapter": "92",
+      "title": "Komik Dao of the Bizarre Immortal Chapter 92",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItOTIv",
+      "date": "52 menit yang lalu"
+    },
+    {
       "chapter": "91",
       "title": "Komik Dao of the Bizarre Immortal Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItOTEv",
-      "date": "12 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "90",
@@ -46,7 +52,7 @@
       "chapter": "88",
       "title": "Komik Dao of the Bizarre Immortal Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItODgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "87",
@@ -202,7 +208,7 @@
       "chapter": "62",
       "title": "Komik Dao of the Bizarre Immortal Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGFvLW9mLXRoZS1iaXphcnJlLWltbW9ydGFsLWNoYXB0ZXItNjIv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "61",
@@ -571,5 +577,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 91
+  "total_chapters": 92
 }

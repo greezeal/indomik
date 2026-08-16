@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-10T08:00:17.328277",
+  "scraped_at": "2026-08-16T08:53:16.574079",
   "alternative_titles": "무신의 후계자가 되었다",
   "status": "Berjalan",
   "author": "그루밤",
@@ -22,40 +22,46 @@
   "synopsis": "Manhwa                    I Became the Successor of the Martial God yang dibuat oleh komikus bernama\n                    그루밤 ini bercerita tentang\n                    Suatu hari, tiba-tiba aku menjadi tokoh utama dalam sebuah permainan.\r\n\r\nNamun, semakin lama kau melihat tokoh utama ini... semakin kau akan mendesah.\r\n\r\nDia memiliki statistik terburuk, bakat terburuk, dan tidak memiliki koneksi sama sekali.\r\n\r\nTapi tetap saja...\r\n\r\nKau telah memperoleh [Heavenly Martial Physique].\r\n\r\nKau telah menjadi penguasa [Martial God's Tome].\r\n\r\n\"Jadi apa? Aku pemain veteran terhebat!\"\r\n\r\nDia bukan hanya pemain veteran— dia seorang maniak obsesif sejati.\r\n\r\nMaka dimulailah permainan legendaris seorang veteran sejati!",
   "chapters": [
     {
+      "chapter": "45",
+      "title": "Komik I Became the Successor of the Martial God Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci00NS8=",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik I Became the Successor of the Martial God Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci00NC8=",
-      "date": "22 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik I Became the Successor of the Martial God Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci00My8=",
-      "date": "22 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik I Became the Successor of the Martial God Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci00Mi8=",
-      "date": "22 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik I Became the Successor of the Martial God Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci00MS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik I Became the Successor of the Martial God Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci00MC8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik I Became the Successor of the Martial God Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci0zOS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -85,7 +91,7 @@
       "chapter": "34",
       "title": "Komik I Became the Successor of the Martial God Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLXN1Y2Nlc3Nvci1vZi10aGUtbWFydGlhbC1nb2QtY2hhcHRlci0zNC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -286,5 +292,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 44
+  "total_chapters": 45
 }
