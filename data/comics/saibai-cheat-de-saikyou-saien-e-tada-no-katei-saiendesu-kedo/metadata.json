@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-10T21:25:12.445011",
+  "scraped_at": "2026-08-16T17:02:02.781723",
   "alternative_titles": "Saibai Cheat de Saikyou Saien - E, Tada no Katei Saiendesu kedo?, 栽培チートで最強菜園, 栽培チートで最強菜園 ~え、ただの家庭菜園ですけど?~",
   "status": "Berjalan",
   "author": "Kuzu Shichio",
@@ -18,16 +18,22 @@
   "synopsis": "Manga                    Saibai Cheat de Saikyou Saien E, Tada no Katei Saiendesu kedo? yang dibuat oleh komikus bernama\n                    Kuzu Shichio ini bercerita tentang\n                    Seorang pemuda dari desa, Gio, yang diberi skill yang sama sekali tidak berguna yang disebut [kebun dapur] pada hari ke-15 usianya.\r\nGio, yang telah bermimpi menjadi seorang petualang sejak dia masih kecil, pulang dengan kecewa... Namun, ketika dia mengaktifkan skill di taman yang sepi --- Dalam sekejap, dia menanam sayuran segar yang sangat luar biasa!\r\nSelain itu, \"Eh, ada daging di pohon!?\"\r\nAku akan memulai kehidupan santai yang lezat dengan adik perempuanku Akawawa dan teman masa kecilku!",
   "chapters": [
     {
+      "chapter": "32",
+      "title": "Komik Saibai Cheat de Saikyou Saien E, Tada no Katei Saiendesu kedo? Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYmFpLWNoZWF0LWRlLXNhaWt5b3Utc2FpZW4tZS10YWRhLW5vLWthdGVpLXNhaWVuZGVzdS1rZWRvLWNoYXB0ZXItMzIv",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik Saibai Cheat de Saikyou Saien E, Tada no Katei Saiendesu kedo? Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYmFpLWNoZWF0LWRlLXNhaWt5b3Utc2FpZW4tZS10YWRhLW5vLWthdGVpLXNhaWVuZGVzdS1rZWRvLWNoYXB0ZXItMzEv",
-      "date": "29 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Saibai Cheat de Saikyou Saien E, Tada no Katei Saiendesu kedo? Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYmFpLWNoZWF0LWRlLXNhaWt5b3Utc2FpZW4tZS10YWRhLW5vLWthdGVpLXNhaWVuZGVzdS1rZWRvLWNoYXB0ZXItMzAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "29",
@@ -135,7 +141,7 @@
       "chapter": "12",
       "title": "Komik Saibai Cheat de Saikyou Saien E, Tada no Katei Saiendesu kedo? Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYmFpLWNoZWF0LWRlLXNhaWt5b3Utc2FpZW4tZS10YWRhLW5vLWthdGVpLXNhaWVuZGVzdS1rZWRvLWNoYXB0ZXItMTIv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "11",
@@ -216,5 +222,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 33
+  "total_chapters": 34
 }

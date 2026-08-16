@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-11T14:38:42.537294",
+  "scraped_at": "2026-08-16T17:00:37.844867",
   "alternative_titles": "ホーリーナイト",
   "status": "Berjalan",
   "author": "Miyazaki Maya",
@@ -25,52 +25,70 @@
   "synopsis": "Manga                    Holy Knight yang dibuat oleh komikus bernama\n                    Miyazaki Maya ini bercerita tentang\n                    Mizumura Shinta tidak tahu harus berbuat apa ketika gadis terseksi di sekolah, Kishimoto Ririsu, mulai merayunya dan keadaan menjadi sangat intim. Shinta bukanlah orang kaya atau anak populer di sekolah, jadi tidak masuk akal jika Ririsu begitu tertarik padanya. Namun, Ririsu sebenarnya adalah vampir, sebuah rahasia yang akan ia jaga agar tetap tersembunyi meskipun harus membunuh. Seiring hubungan antara Shinta dan Ririsu berkembang, semakin sulit baginya untuk merahasiakan rahasia tersebut. Dan ketika orang-orang terdekatnya, seperti teman masa kecilnya yang agak romantis, Makimura Chizuru, tanpa sengaja terseret ke dalam kekacauan, rahasia gelap yang dalam pun terungkap.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Holy Knight Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yNy8=",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Holy Knight Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yNi8=",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik Holy Knight Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yNS8=",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik Holy Knight Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yNC8=",
-      "date": "3 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Holy Knight Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yMy8=",
-      "date": "3 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Holy Knight Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yMi8=",
-      "date": "3 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Holy Knight Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yMS8=",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Holy Knight Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0yMC8=",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Holy Knight Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xOS8=",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Holy Knight Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xOC8=",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Holy Knight Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xNy8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "16",
@@ -88,7 +106,7 @@
       "chapter": "14",
       "title": "Komik Holy Knight Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1rbmlnaHQtY2hhcHRlci0xNC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -169,5 +187,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 27
 }
