@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T21:46:32.770212",
-  "total_comics": 2109,
+  "last_updated": "2026-08-17T22:15:59.903938",
+  "total_comics": 2114,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -8336,7 +8336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 34
     },
     {
       "slug": "the-shepherd-wizard",
@@ -12912,7 +12912,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 34
     },
     {
       "slug": "the-regressed-former-sword-saint-becomes-a-rebel-of-the-necromancer-house",
@@ -14128,7 +14128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 141
+      "total_chapters": 230
     },
     {
       "slug": "contract-killer-enrollment",
@@ -14752,7 +14752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 32
     },
     {
       "slug": "489667-isekai-izakaya-nobu",
@@ -15728,7 +15728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 21
     },
     {
       "slug": "my-twin-stole-my-place-as-his-wife",
@@ -15984,7 +15984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 17
     },
     {
       "slug": "suterare-ouji-ga-saizensen-de-tekikoku-no-heishi-wo-chiryou-shitara-jitsu-wa-dainana-oujo-datta-ken",
@@ -16048,7 +16048,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta",
@@ -16873,6 +16873,46 @@
       "status": "Berjalan",
       "rating": 8.13,
       "total_chapters": 330
+    },
+    {
+      "slug": "the-youngest-daughter-of-the-great-magician-of-a-famous-swordsmanship-family",
+      "title": "The Youngest Daughter of the Great Magician of a Famous Swordsmanship Family",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
+    },
+    {
+      "slug": "soul-of-chi-you",
+      "title": "Soul of Chi You",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 15
+    },
+    {
+      "slug": "behemoth-no-hanamuko",
+      "title": "Behemoth no Hanamuko",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "sword-god-high-school-the-talentless-underachiever-becomes-the-strongest",
+      "title": "Sword God High School: The Talentless Underachiever Becomes the Strongest",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 14
+    },
+    {
+      "slug": "hai-no-sekai-wa-kami-no-me-de-irodoku-ore-dake-mieru-status-de-saijaku-kara-saikyou-e-kageagaru",
+      "title": "Hai no Sekai wa Kami-no-me de Irodoku: Ore dake Mieru Status de, Saijaku kara Saikyou e Kageagaru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 17
     }
   ]
 }
