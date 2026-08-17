@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T05:12:12.943045",
-  "total_comics": 2097,
+  "last_updated": "2026-08-17T06:00:37.703618",
+  "total_comics": 2099,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1064,7 +1064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 544
+      "total_chapters": 545
     },
     {
       "slug": "marriagetoxin",
@@ -4352,7 +4352,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "keep-a-low-profile-sect-leader",
@@ -4736,7 +4736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.09,
-      "total_chapters": 153
+      "total_chapters": 154
     },
     {
       "slug": "genius-mage-who-uses-fists",
@@ -6984,7 +6984,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 10
     },
     {
       "slug": "home-center-goto-yobidasareta-watashi-no-daimeikyuu-renovation",
@@ -15656,7 +15656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "im-really-not-a-demon-beast",
@@ -16112,7 +16112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.35,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "now-its-your-turn-to-regret",
@@ -16664,7 +16664,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.78,
-      "total_chapters": 302
+      "total_chapters": 303
     },
     {
       "slug": "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito",
@@ -16777,6 +16777,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 24
+    },
+    {
+      "slug": "363034-transcension-academy",
+      "title": "Transcension Academy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.16,
+      "total_chapters": 208
+    },
+    {
+      "slug": "revenge-of-reborn-villainess",
+      "title": "Revenge of Reborn Villainess",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-02-14T00:02:11.128226",
+  "scraped_at": "2026-08-17T05:55:22.915565",
   "alternative_titles": "兄に恋する私たち",
   "status": "Berjalan",
   "author": "Sakamoto Shino",
@@ -20,47 +20,65 @@
   "synopsis": "Manga                    Ani ni Koisuru Watashitachi yang dibuat oleh komikus bernama\n                    Sakamoto Shino ini bercerita tentang\n                    Kakak beradik kembar Momoka dan Koume mungkin terlihat identik, tetapi kepribadian mereka sangat berlawanan. Sejak kecil, keduanya diam-diam menyimpan perasaan terhadap saudara tiri mereka, Ouji. Suatu hari, mereka menemukan \"perasaan suka rahasia\" satu sama lain… Inilah kisah dua hati yang terjalin dalam satu cinta. Kisah Cinta Si Kembar!",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Ani ni Koisuru Watashitachi Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItMTAv",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Ani ni Koisuru Watashitachi Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItOS8=",
+      "date": "4 bulan yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Ani ni Koisuru Watashitachi Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItOC8=",
+      "date": "5 bulan yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItNy8=",
-      "date": "2 jam yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItNi8=",
-      "date": "2 jam yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItNC8=",
-      "date": "2 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItMy8=",
-      "date": "2 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItMi8=",
-      "date": "2 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItMS8=",
-      "date": "2 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 10
 }

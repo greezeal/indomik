@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-09T22:57:13.980255",
+  "scraped_at": "2026-08-17T05:56:08.147914",
   "alternative_titles": "Serim's Iron Rule, 세림의 철칙",
   "status": "Berjalan",
   "author": "Seyoon",
@@ -19,59 +19,65 @@
   "synopsis": "Manhwa                    Serim’s Golden Rule yang dibuat oleh komikus bernama\n                    Seyoon ini bercerita tentang\n                    Semua orang takut pada Han Serim karena rumor bahwa dia adalah seorang gangster. Kang Seung-Woo, si anak emas, akhirnya dipasangkan dengannya dalam program mentor-mentee. Sebagai seorang perfeksionis sejati, ia berusaha mendekati Serim untuk memastikan semuanya berjalan lancar.\r\n\r\nTapi… sebenarnya apa masalahnya?\r\n\r\nKisah romantis yang menegangkan antara Han Serim, yang hidup seolah tak ada hari esok, dan Kang Seung-Woo, yang hidupnya telah terencana dengan sempurna.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Serim’s Golden Rule Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItMTAv",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Serim’s Golden Rule Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItOS8=",
-      "date": "38 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Serim’s Golden Rule Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItOC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Serim’s Golden Rule Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItNy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Serim’s Golden Rule Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItNi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Serim’s Golden Rule Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItNS8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Serim’s Golden Rule Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItNC8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Serim’s Golden Rule Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItMy8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Serim’s Golden Rule Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItMi8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Serim’s Golden Rule Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VyaW1zLWdvbGRlbi1ydWxlLWNoYXB0ZXItMS8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }
