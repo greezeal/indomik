@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-10T08:03:18.205872",
+  "scraped_at": "2026-08-17T13:53:01.485656",
   "alternative_titles": "Anh Trai Tôi Đúng Là Chó Điên, My Brother Is a Vicious Dog, My Brother Is an Evil Dog, 我的哥哥是恶犬",
   "status": "Berjalan",
   "author": "Fanqi Dongman",
@@ -20,59 +20,65 @@
   "synopsis": "Manhua                    My Brother Is A Mad Dog yang dibuat oleh komikus bernama\n                    Fanqi Dongman ini bercerita tentang\n                    Di sebuah sekolah menengah elit untuk anak-anak dari konglomerat besar, para siswa telah membangun hierarki kejam mereka sendiri di mana yang kuat berkuasa dan yang lemah diinjak-injak. An Ran hanya ingin tetap tenang dan bertahan hidup, tetapi perundungan terus-menerus membuat hal itu mustahil.\r\n\r\nKetika ia secara tak terduga diselamatkan oleh saudara kembarnya yang telah lama hilang, keduanya membuat kesepakatan berbahaya: mereka akan bertukar identitas. Sang saudara, yang ditakuti sebagai anjing ganas di dunia bawah, akan menggantikan An Ran di sekolah elit tersebut, sementara An Ran harus bertahan hidup di daerah kumuh di bawah reputasi menakutkan saudaranya.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik My Brother Is A Mad Dog Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci0xMC8=",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik My Brother Is A Mad Dog Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci05Lw==",
-      "date": "38 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik My Brother Is A Mad Dog Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci04Lw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik My Brother Is A Mad Dog Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci03Lw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik My Brother Is A Mad Dog Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci02Lw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik My Brother Is A Mad Dog Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci01Lw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik My Brother Is A Mad Dog Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci00Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik My Brother Is A Mad Dog Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci0zLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik My Brother Is A Mad Dog Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci0yLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik My Brother Is A Mad Dog Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktYnJvdGhlci1pcy1hLW1hZC1kb2ctY2hhcHRlci0xLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.89,
-  "scraped_at": "2026-08-17T02:52:37.334442",
+  "scraped_at": "2026-08-17T13:56:36.743948",
   "alternative_titles": "Tune In to the Midnight Heart, 真夜中ハートチューン",
   "status": "Berjalan",
   "author": "Igarashi Masakuni",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Mayonaka Heart Tune yang dibuat oleh komikus bernama\n                    Igarashi Masakuni ini bercerita tentang\n                    \"Larut malam, sendirian di tempat tidurku, suaramu adalah satu-satunya hal yang menyelamatkanku. Aku ingin berbicara denganmu lagi. Ada sesuatu yang ingin aku katakan.\"\r\n\r\nTanpa mengetahui nama atau wajah aslinya, Yamabuki Arisu, seorang siswa sekolah menengah tahun kedua, sedang mencari seorang gadis bernama \"Apollo\" yang merupakan seorang livestreamer. Namun, suatu hari, Arisu mendapat petunjuk tentang Apollo dari klub penyiaran sekolah menengah tempat dia bersekolah. Ada 4 gadis cantik yang bermimpi \"mendapatkan pekerjaan yang berhubungan dengan suara\"!! Siapa Apollo? Apa yang akan terjadi dengan impian keempat orang itu? Sebuah komedi romantis sukses yang lucu namun kerja keras dimulai di sini!!",
   "chapters": [
     {
+      "chapter": "126",
+      "title": "Komik Mayonaka Heart Tune Chapter 126",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEyNi8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "125",
       "title": "Komik Mayonaka Heart Tune Chapter 125",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEyNS8=",
-      "date": "4 jam yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "124",
@@ -190,7 +196,7 @@
       "chapter": "98",
       "title": "Komik Mayonaka Heart Tune Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTk4Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "97",
@@ -775,5 +781,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 125
+  "total_chapters": 126
 }
