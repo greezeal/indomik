@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T03:40:47.905596",
-  "total_comics": 2091,
+  "last_updated": "2026-08-17T04:34:08.909520",
+  "total_comics": 2097,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -72,7 +72,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 208
+      "total_chapters": 214
     },
     {
       "slug": "786730-underworld-restaurant",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 230
+      "total_chapters": 232
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1144,7 +1144,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 94
     },
     {
       "slug": "chronicles-of-the-lazy-sovereign",
@@ -1176,7 +1176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 155
+      "total_chapters": 156
     },
     {
       "slug": "the-demon-king-overrun-by-heroes",
@@ -1256,7 +1256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.5,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "overlord-of-sichuan",
@@ -2776,7 +2776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.5,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
@@ -3344,7 +3344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 196
+      "total_chapters": 197
     },
     {
       "slug": "i-start-with-13-hidden-traits",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 176
+      "total_chapters": 177
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -6048,7 +6048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.2,
-      "total_chapters": 134
+      "total_chapters": 136
     },
     {
       "slug": "ice-lord",
@@ -6152,7 +6152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 194
+      "total_chapters": 195
     },
     {
       "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo",
@@ -7320,7 +7320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 81
+      "total_chapters": 82
     },
     {
       "slug": "the-demon-king-who-lost-his-job",
@@ -7736,7 +7736,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 71
+      "total_chapters": 72
     },
     {
       "slug": "ore-ga-watashi-ni-naru-made",
@@ -7808,7 +7808,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 762
+      "total_chapters": 763
     },
     {
       "slug": "tensei-shitara-dragon-no-tamago-datta-ibara-no-dragon-road",
@@ -8246,9 +8246,9 @@
       "slug": "against-the-gods",
       "title": "Against the Gods",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.38,
+      "total_chapters": 772
     },
     {
       "slug": "kuse-tsuyo-kanojo-wa-toko-ni-izanau",
@@ -10128,7 +10128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "milimos-saga-the-story-of-the-reincarnation-of-the-youngest-brother-prince",
@@ -10696,7 +10696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 111
     },
     {
       "slug": "anata-tachi-soredemo-sensei-desu-ka",
@@ -11312,7 +11312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 23
     },
     {
       "slug": "i-become-a-legendary-arch-mage-by-reading-a-book",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 424
+      "total_chapters": 426
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12976,7 +12976,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "884957-super-god-pet-shop",
@@ -13624,7 +13624,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 209
+      "total_chapters": 210
     },
     {
       "slug": "889961-my-daughter-is-the-final-boss",
@@ -13632,7 +13632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.71,
-      "total_chapters": 161
+      "total_chapters": 162
     },
     {
       "slug": "i-became-the-contract-mother-of-the-grim-reaper-dukes-family-and-they-became-obsessed-with-me",
@@ -14136,7 +14136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 14
     },
     {
       "slug": "senmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru",
@@ -14352,7 +14352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 49
+      "total_chapters": 51
     },
     {
       "slug": "i-became-the-most-terrifying-stepmother-in-history",
@@ -14648,7 +14648,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 72
     },
     {
       "slug": "summon-the-demon-for-i-am-the-abyss",
@@ -15072,7 +15072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 11
     },
     {
       "slug": "senrihin-reijou-sheryl-wa-jibun-okorosu-otto-wo-kago-shitai",
@@ -15088,7 +15088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "devil-princess",
@@ -15112,7 +15112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "i-became-the-adopted-daughter-of-the-sea-guardian",
@@ -15304,7 +15304,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 28
+      "total_chapters": 29
     },
     {
       "slug": "en-travesti-i-became-a-fake-prince",
@@ -15480,7 +15480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "the-hero-starts-over-at-the-academy",
@@ -16104,7 +16104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 15
     },
     {
       "slug": "540641-the-reborn-little-girl-wont-give-up",
@@ -16208,7 +16208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 14
     },
     {
       "slug": "honzuki-no-gekokujou-part-3",
@@ -16264,7 +16264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 6
     },
     {
       "slug": "marriage-with-a-suspiciously-demure-husband",
@@ -16272,7 +16272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "saiyakkyuu-skill-boushoku-maou-mochi-no-akuyaku-kizoku-ni-tensei-shimashita-ga-shokei-saretakunai-node-skill-wo-kakushite-hitasura-doryoku-shimasu",
@@ -16480,7 +16480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 15
     },
     {
       "slug": "424565-the-end-has-come",
@@ -16729,6 +16729,54 @@
       "status": "Berjalan",
       "rating": 7.12,
       "total_chapters": 36
+    },
+    {
+      "slug": "survival-supremacy",
+      "title": "Survival Supremacy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "crimson-yaksha",
+      "title": "Crimson Yaksha",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "ill-protect-my-handsome-older-brother",
+      "title": "I’ll Protect My Handsome Older Brother",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
+    },
+    {
+      "slug": "a-revenge-guide-for-the-terminally-ill-maid",
+      "title": "A Revenge Guide for the Terminally Ill Maid",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 46
+    },
+    {
+      "slug": "145503-my-bias-gets-on-the-last-train",
+      "title": "My Bias Gets On The Last Train",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.2,
+      "total_chapters": 91
+    },
+    {
+      "slug": "sekai-saikyou-no-shitsuji",
+      "title": "Sekai Saikyou no Shitsuji",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 24
     }
   ]
 }

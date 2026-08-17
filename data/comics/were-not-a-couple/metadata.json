@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-14T16:35:13.294432",
+  "scraped_at": "2026-08-17T04:27:02.812464",
   "alternative_titles": "We Are Not a Couple!, 우리 커플 아님!",
   "status": "Berjalan",
   "author": "Bom So-Hee",
@@ -20,29 +20,41 @@
   "synopsis": "Manhwa                    We’re Not a Couple! yang dibuat oleh komikus bernama\n                    Bom So-Hee ini bercerita tentang\n                    Sepasang kekasih yang sama-sama bersekolah di SMA seni sempat berpacaran lalu sama-sama terjun ke dunia akting; namun, sang mantan, Sun-ho, kini menjadi bintang papan atas yang terkenal, sementara Na-eun hanyalah aktris yang belum dikenal... Apakah ini adil? Alih-alih meraih kesuksesan lebih besar dari mantannya, ia justru harus menghadapi kenyataan pahit dan berniat mundur dari dunia hiburan, sampai akhirnya ia menerima tawaran naskah untuk proyek besar. Namun, ternyata lawan main pria dalam komedi romantis itu adalah mantan kekasihnya sendiri? Bagaimana mungkin ia harus melakoni adegan ciuman dengan pria itu!",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik We’re Not a Couple! Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VyZS1ub3QtYS1jb3VwbGUtY2hhcHRlci02Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik We’re Not a Couple! Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VyZS1ub3QtYS1jb3VwbGUtY2hhcHRlci01Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik We’re Not a Couple! Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VyZS1ub3QtYS1jb3VwbGUtY2hhcHRlci00Lw==",
-      "date": "8 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik We’re Not a Couple! Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VyZS1ub3QtYS1jb3VwbGUtY2hhcHRlci0zLw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik We’re Not a Couple! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VyZS1ub3QtYS1jb3VwbGUtY2hhcHRlci0yLw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik We’re Not a Couple! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VyZS1ub3QtYS1jb3VwbGUtY2hhcHRlci0xLw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 6
 }
