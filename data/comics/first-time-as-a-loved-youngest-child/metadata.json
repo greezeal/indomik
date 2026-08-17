@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-03T20:19:18.720702",
+  "scraped_at": "2026-08-17T21:16:38.607026",
   "alternative_titles": "First Time as a Loved Youngest Child, First Time as an Adored Youngest Child, It's My First Time Being Loved, Mein neues Leben als geliebtes Nesthäkchen, É a Primeira Vez Que Me Amam, ครั้งแรกกับการเป็นลูกคนเล็กผู้ได้รับความรัก, 愛され末っ子は初めてで, 第一次成为受宠的老幺, 第一次成為受寵小女兒, 사랑받는 막내는 처음이라",
   "status": "Berjalan",
   "author": "Miraenavi, NAJEONG",
@@ -20,40 +20,52 @@
   "synopsis": "Manhwa                    First Time as a Loved Youngest Child yang dibuat oleh komikus bernama\n                    Miraenavi, NAJEONG ini bercerita tentang\n                    Setelah mengorbankan dirinya untuk menyelamatkan dunia selama 99 kehidupan yang berbeda, Anastasia Enderblanc memulai kehidupan ke-100-nya dengan rasa pasrah yang frustrasi. Terlahir sebagai anak bungsu dari Keluarga Enderblanc, ia mengharapkan keluarga yang penuh kekerasan dan takut akan kekuatannya, tetapi ia bingung ketika mereka malah mencurahkan kasih sayang kepadanya. Kasih sayang tulus mereka mengejutkannya, tetapi ia terus menunggu hal buruk terjadi. Dapatkah Anastasia menerima cinta keluarga Enderblanc, atau akankah ia kecewa dan dikhianati sekali lagi?",
   "chapters": [
     {
+      "chapter": "107",
+      "title": "Komik First Time as a Loved Youngest Child Chapter 107",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTA3Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "106",
+      "title": "Komik First Time as a Loved Youngest Child Chapter 106",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTA2Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "105",
       "title": "Komik First Time as a Loved Youngest Child Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTA1Lw==",
-      "date": "24 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik First Time as a Loved Youngest Child Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTA0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik First Time as a Loved Youngest Child Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTAzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik First Time as a Loved Youngest Child Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTAyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "101",
       "title": "Komik First Time as a Loved Youngest Child Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTAxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik First Time as a Loved Youngest Child Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtdGltZS1hcy1hLWxvdmVkLXlvdW5nZXN0LWNoaWxkLWNoYXB0ZXItMTAwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "99",
@@ -650,5 +662,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 105
+  "total_chapters": 107
 }
