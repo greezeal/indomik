@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.23,
-  "scraped_at": "2026-08-18T07:59:05.758232",
+  "scraped_at": "2026-08-18T15:15:40.303859",
   "alternative_titles": "ケントゥリア, Centuria, Centuria, Центурия",
   "status": "Berjalan",
   "author": "Toru Kuramori",
@@ -24,10 +24,28 @@
   "synopsis": "Manga                    Centuria yang dibuat oleh komikus bernama\n                    Toru Kuramori ini bercerita tentang\n                    Sambil menyendiri di kapal budak, Julian berlayar ke benua besar dengan seratus budak, semuanya mendambakan kebebasan, sampai...?! Mulailah perjalanan inovatif melalui kisah fantasi gelap penuh aksi ini!!",
   "chapters": [
     {
+      "chapter": "96",
+      "title": "Komik Centuria Chapter 96",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05Ni8=",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "95",
+      "title": "Komik Centuria Chapter 95",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05NS8=",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "94",
+      "title": "Komik Centuria Chapter 94",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05NC8=",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "93",
       "title": "Komik Centuria Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05My8=",
-      "date": "2 jam yang lalu"
+      "date": "9 jam yang lalu"
     },
     {
       "chapter": "92",
@@ -111,7 +129,7 @@
       "chapter": "79",
       "title": "Komik Centuria Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci03OS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "78",
@@ -582,5 +600,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 93
+  "total_chapters": 96
 }

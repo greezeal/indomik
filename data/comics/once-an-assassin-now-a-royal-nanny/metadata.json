@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-15T09:48:05.851430",
+  "scraped_at": "2026-08-18T15:18:36.146329",
   "alternative_titles": "황자의 보모, 특기는 암살입니다",
   "status": "Berjalan",
   "author": "Nadaun, Nessa",
@@ -19,16 +19,22 @@
   "synopsis": "Manhwa                    Once an Assassin, Now a Royal Nanny yang dibuat oleh komikus bernama\n                    Nadaun, Nessa ini bercerita tentang\n                    Setahun setelah kekasihnya menikamnya dari belakang, pembunuh bayaran legendaris Kyla Angel terbangun di tubuh Rachel Brown, seorang pengasuh yang bertugas merawat pangeran dan putri yang terlantar. Mengetahui bahwa pria yang mengkhianatinya masih berkeliaran, Kyla harus menunggu waktu yang tepat sebelum ia bisa menyelinap keluar dari istana dan membalas dendam.\r\n\r\nNamun sementara itu, ia harus menghadapi tantangan terberatnya: mengasuh anak.\r\n\r\nSekarang terserah Kyla untuk mencari cara menenangkan balita yang menangis dengan tangan yang seharusnya digunakan untuk melempar belati dan menggorok leher...",
   "chapters": [
     {
+      "chapter": "31",
+      "title": "Komik Once an Assassin, Now a Royal Nanny Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25jZS1hbi1hc3Nhc3Npbi1ub3ctYS1yb3lhbC1uYW5ueS1jaGFwdGVyLTMxLw==",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "30",
       "title": "Komik Once an Assassin, Now a Royal Nanny Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25jZS1hbi1hc3Nhc3Npbi1ub3ctYS1yb3lhbC1uYW5ueS1jaGFwdGVyLTMwLw==",
-      "date": "42 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Once an Assassin, Now a Royal Nanny Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25jZS1hbi1hc3Nhc3Npbi1ub3ctYS1yb3lhbC1uYW5ueS1jaGFwdGVyLTI5Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "28",
@@ -40,25 +46,25 @@
       "chapter": "27",
       "title": "Komik Once an Assassin, Now a Royal Nanny Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25jZS1hbi1hc3Nhc3Npbi1ub3ctYS1yb3lhbC1uYW5ueS1jaGFwdGVyLTI3Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Once an Assassin, Now a Royal Nanny Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25jZS1hbi1hc3Nhc3Npbi1ub3ctYS1yb3lhbC1uYW5ueS1jaGFwdGVyLTI2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Once an Assassin, Now a Royal Nanny Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25jZS1hbi1hc3Nhc3Npbi1ub3ctYS1yb3lhbC1uYW5ueS1jaGFwdGVyLTI1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Once an Assassin, Now a Royal Nanny Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25jZS1hbi1hc3Nhc3Npbi1ub3ctYS1yb3lhbC1uYW5ueS1jaGFwdGVyLTI0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -199,5 +205,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }
