@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T05:40:07.069178",
-  "total_comics": 2114,
+  "last_updated": "2026-08-18T06:09:30.732006",
+  "total_comics": 2116,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -1808,7 +1808,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "tougen-anki",
@@ -1904,7 +1904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 368
+      "total_chapters": 372
     },
     {
       "slug": "shibou-yuugi-de-meshi-wo-kuu",
@@ -3976,7 +3976,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 247
+      "total_chapters": 249
     },
     {
       "slug": "absolute-regression",
@@ -6544,7 +6544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.3,
-      "total_chapters": 246
+      "total_chapters": 247
     },
     {
       "slug": "kareinaru-akujo-ni-naritai-wa-aisare-tensei-shoujo-wa-tanoshii-nidome-no-jinsei-o-okurimasu",
@@ -7072,7 +7072,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.46,
-      "total_chapters": 15
+      "total_chapters": 16
     },
     {
       "slug": "game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai",
@@ -7080,7 +7080,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "211615-souzai-saishuka-no-isekai-ryokouki",
@@ -8008,7 +8008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.87,
-      "total_chapters": 819
+      "total_chapters": 820
     },
     {
       "slug": "tensei-shitara-suterareta-ga-hirowarete-tanoshiku-ikiteimasu",
@@ -10312,7 +10312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 39
     },
     {
       "slug": "danshi-kinsei-game-sekai-de-ore-ga-yarubeki-yuiitsu-no-koto-yuri-no-ma-ni-hasamaru-otoko-to-shite-tensei-shite-shimaimashita",
@@ -11176,7 +11176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "doctor-quest",
@@ -11248,7 +11248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 164
+      "total_chapters": 165
     },
     {
       "slug": "cheolleung-high-school",
@@ -13208,7 +13208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.88,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "477760-lazy-prince-becomes-a-genius",
@@ -13360,7 +13360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 59
+      "total_chapters": 60
     },
     {
       "slug": "first-time-as-a-loved-youngest-child",
@@ -13752,7 +13752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "sono-isekai-harem-wa-seiyaku-tsuki",
@@ -13800,7 +13800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "otome-game-no-mob-desura-naindaga",
@@ -16512,7 +16512,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 4
     },
     {
       "slug": "645226-mamahaha-no-kokoroe",
@@ -16913,6 +16913,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 17
+    },
+    {
+      "slug": "cool-na-doukyuusei-no-10-nengo",
+      "title": "Cool na Doukyuusei no 10 Nengo",
+      "type": "",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "365424-kounai-sandai-bijo-no-himo-shite",
+      "title": "Kounai Sandai Bijo No Himo Shite",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
     }
   ]
 }

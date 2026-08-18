@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.23,
-  "scraped_at": "2026-08-12T14:49:54.048866",
+  "scraped_at": "2026-08-18T06:06:08.925398",
   "alternative_titles": "ケントゥリア, Centuria, Centuria, Центурия",
   "status": "Berjalan",
   "author": "Toru Kuramori",
@@ -24,34 +24,40 @@
   "synopsis": "Manga                    Centuria yang dibuat oleh komikus bernama\n                    Toru Kuramori ini bercerita tentang\n                    Sambil menyendiri di kapal budak, Julian berlayar ke benua besar dengan seratus budak, semuanya mendambakan kebebasan, sampai...?! Mulailah perjalanan inovatif melalui kisah fantasi gelap penuh aksi ini!!",
   "chapters": [
     {
+      "chapter": "93",
+      "title": "Komik Centuria Chapter 93",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05My8=",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "92",
       "title": "Komik Centuria Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05Mi8=",
-      "date": "13 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Centuria Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05MS8=",
-      "date": "13 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik Centuria Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci05MC8=",
-      "date": "13 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik Centuria Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci04OS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "88",
       "title": "Komik Centuria Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci04OC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "87",
@@ -129,7 +135,7 @@
       "chapter": "75",
       "title": "Komik Centuria Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci03NS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -147,7 +153,7 @@
       "chapter": "72",
       "title": "Komik Centuria Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci03Mi8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "71",
@@ -195,7 +201,7 @@
       "chapter": "64",
       "title": "Komik Centuria Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci02NC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "63",
@@ -207,7 +213,7 @@
       "chapter": "62",
       "title": "Komik Centuria Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VudHVyaWEtY2hhcHRlci02Mi8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "61",
@@ -576,5 +582,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 92
+  "total_chapters": 93
 }

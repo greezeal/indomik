@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-09T17:44:14.979169",
+  "scraped_at": "2026-08-18T06:05:21.988015",
   "alternative_titles": "A Fortune-Telling Princess, A Princess Who Reads Fortune, Fortune Telling Princess, The Fortune-Telling Lady, The Noble Fortune-Telling Lady, Зөгнөгч Гүнж, Принцесса-гадалка, เลดี้ผู้ทำนายโชคชะตา, 公女様は未来を見通す, 卜卦公女, 占卜的公女, 通靈千金, 점괘보는 공녀님",
   "status": "Berjalan",
   "author": "Gimgae, Saidin",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    A Princess Who Reads Fortune yang dibuat oleh komikus bernama\n                    Gimgae, Saidin ini bercerita tentang\n                    Aktris Lee Sia tidak hanya dihantui hantu selama bertahun-tahun, ia juga dihantui mimpi tentang seorang gadis bernama Camilla Sorphel yang berulang kali meninggal di tangan ayah tiri dan saudara tirinya. Meskipun ia berusaha mengabaikan mimpi-mimpi itu, ketika sebuah kecelakaan di tempat kerja membuatnya terbangun sebagai Camilla, ia terpaksa mencari bantuan berbagai hantu untuk memenangkan hati keluarganya dan menghindari pembunuhan. Tetapi, dapatkah mantan aktris ini memainkan peran sebagai putri dan saudara perempuan yang penyayang bagi para algojonya di masa depan?",
   "chapters": [
     {
+      "chapter": "165",
+      "title": "Komik A Princess Who Reads Fortune Chapter 165",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE2NS8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "164",
       "title": "Komik A Princess Who Reads Fortune Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE2NC8=",
-      "date": "19 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "163",
       "title": "Komik A Princess Who Reads Fortune Chapter 163",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE2My8=",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "162",
       "title": "Komik A Princess Who Reads Fortune Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE2Mi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "161",
       "title": "Komik A Princess Who Reads Fortune Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE2MS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "160",
       "title": "Komik A Princess Who Reads Fortune Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE2MC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "159",
@@ -60,7 +66,7 @@
       "chapter": "158",
       "title": "Komik A Princess Who Reads Fortune Chapter 158",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE1OC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "157",
@@ -102,7 +108,7 @@
       "chapter": "151",
       "title": "Komik A Princess Who Reads Fortune Chapter 151",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wcmluY2Vzcy13aG8tcmVhZHMtZm9ydHVuZS1jaGFwdGVyLTE1MS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "150",
@@ -1005,5 +1011,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 164
+  "total_chapters": 165
 }
