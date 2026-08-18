@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-18T06:08:54.247822",
+  "scraped_at": "2026-08-18T07:53:35.479934",
   "alternative_titles": "都市隱龍, Dūshì Yǐn Lóng, Urban Dragon Revealed",
   "status": "Berjalan",
   "author": "Guó Dāng",
@@ -19,10 +19,22 @@
   "synopsis": "Manhua                    Urban Dragon Revealed yang dibuat oleh komikus bernama\n                    Guó Dāng ini bercerita tentang\n                    Wang Han, yang memicu kekacauan internasional, hidup menyendiri di kota dan mulai bekerja sebagai pengantar makanan. Setelah mabuk-mabukan, ia menghamili putri keluarga Su, dan kehidupan damainya kembali terganggu. Saat badai mengamuk, naga tersembunyi lahir, mengguncang dunia!",
   "chapters": [
     {
+      "chapter": "91",
+      "title": "Komik Urban Dragon Revealed Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItOTEv",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "90",
+      "title": "Komik Urban Dragon Revealed Chapter 90",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItOTAv",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "89",
       "title": "Komik Urban Dragon Revealed Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdXJiYW4tZHJhZ29uLXJldmVhbGVkLWNoYXB0ZXItODkv",
-      "date": "12 jam yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "88",
@@ -553,5 +565,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 89
+  "total_chapters": 91
 }

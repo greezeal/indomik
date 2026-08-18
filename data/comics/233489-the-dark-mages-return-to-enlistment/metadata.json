@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-16T13:40:53.624985",
+  "scraped_at": "2026-08-18T07:53:57.154733",
   "alternative_titles": "귀환했는데 입대 전날이다",
   "status": "Berjalan",
   "author": "황금비둘기",
@@ -23,22 +23,34 @@
   "synopsis": "Manhwa                    The Dark Mage’s Return to Enlistment yang dibuat oleh komikus bernama\n                    황금비둘기 ini bercerita tentang\n                    Kim MinJun, anak sekolah menengah biasa, tiba-tiba dipanggil ke dunia lain yang membuatnya menjadi penyihir hitam.\r\n\r\nDemi kembali ke dunia asalnya, dia melewati berbagai kesulitan dan menyelamatkan dunia lain dengan kekuatan sihir hitam sebelum dia meninggalkan semua kekayaan dan kejayaannya sebagai pahlawan untuk kembali ke bumi.\r\n\r\nNamun, masalah muncul sebelum dia bisa menikmati kehidupannya yang baru di bumi. Terdapat Dungeon dan monster yang memenuhi dunia dan mengancam harinya yang damai.\r\nKarena itu, MinJun yang baru kembali ke bumi tidak punya pilihan selain… memasuki militer esok harinya!!",
   "chapters": [
     {
+      "chapter": "99",
+      "title": "Komik The Dark Mage’s Return to Enlistment Chapter 99",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci05OS8=",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "98",
+      "title": "Komik The Dark Mage’s Return to Enlistment Chapter 98",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci05OC8=",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "97",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci05Ny8=",
-      "date": "17 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "96",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci05Ni8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci05NS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "94",
@@ -80,19 +92,19 @@
       "chapter": "88",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci04OC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci04Ny8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci04Ni8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "85",
@@ -302,7 +314,7 @@
       "chapter": "51",
       "title": "Komik The Dark Mage’s Return to Enlistment Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRhcmstbWFnZXMtcmV0dXJuLXRvLWVubGlzdG1lbnQtY2hhcHRlci01MS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -605,5 +617,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 97
+  "total_chapters": 99
 }
