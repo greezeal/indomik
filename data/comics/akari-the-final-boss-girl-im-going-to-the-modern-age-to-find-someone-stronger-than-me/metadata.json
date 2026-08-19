@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-19T06:21:00.352591",
+  "scraped_at": "2026-08-19T22:12:01.730843",
   "alternative_titles": "Akari the Final Boss Girl ~I'm Going to the Modern Age to Find Someone Stronger Than Me~, Last Boss Shoujo Akari, ラスボス少女アカリ, ラスボス少女アカリ～ワタシより強いやつに会いに現代に行く～",
   "status": "Berjalan",
   "author": "Kishima Kiraku",
@@ -23,22 +23,28 @@
   "synopsis": "Manga                    Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ yang dibuat oleh komikus bernama\n                    Kishima Kiraku ini bercerita tentang\n                    Bos terakhir terkuat dari dunia lain, yang tak seorang pun bisa kalahkan, bereinkarnasi ke dalam tubuh seorang siswi SMA yang sering diintimidasi di zaman modern!? Kehidupan sekolah yang tak tertandingi dari raja iblis di dunia lain!!",
   "chapters": [
     {
+      "chapter": "60",
+      "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTYwLw==",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "59",
       "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTU5Lw==",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTU4Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTU3Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "56",
@@ -194,7 +200,7 @@
       "chapter": "31",
       "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTMxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -377,5 +383,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 59
+  "total_chapters": 60
 }
