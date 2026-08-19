@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.6,
-  "scraped_at": "2026-08-12T14:51:48.433676",
+  "scraped_at": "2026-08-19T15:56:35.208880",
   "alternative_titles": "彼女にしたい女子一位、の隣で見つけたあまりちゃん",
   "status": "Berjalan",
   "author": "Yuuji Yuuji",
@@ -20,10 +20,16 @@
   "synopsis": "Manga                    Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan yang dibuat oleh komikus bernama\n                    Yuuji Yuuji ini bercerita tentang\n                    \"Komedi Romantis Berawal dari Persahabatan dengan Pahlawan Wanita Tersembunyi yang Hanya Aku Tahu.\"\r\n\r\nDia pria yang baik, tetapi terlalu polos... Itulah Fukusuke Mogi, yang diam-diam mengagumi Kureha Yui, gadis tercantik di kelas.\r\n\r\nNamun, yang dikabarkan bersama Yui adalah sahabatnya, Fujisaki Yusei, jagoan tim basket.\r\n\r\nMerasa sedih karena menjadi \"tokoh mafia\" yang dibayangi oleh sahabatnya, Fukusuke menemukan gadis super imut lain yang tersembunyi di balik bayang-bayang Yui dan tidak menonjol—Usuba Amari!\r\n\r\n\"A-Maukah kau... menjadi temanku?\"\r\n\r\nKarena memiliki keadaan yang sama, Fukusuke dan Amari memutuskan untuk berlatih \"menjadi normal\" bersama—apa yang mungkin terjadi selanjutnya?",
   "chapters": [
     {
+      "chapter": "11.2",
+      "title": "Komik Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan Chapter 11.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5pLXNoaXRhaS1qb3NoaS1pY2hpaS1uby10b25hcmktZGUtbWl0c3VrZXRhLWFtYXJpLWNoYW4tY2hhcHRlci0xMS0yLw==",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "11.1",
       "title": "Komik Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan Chapter 11.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5pLXNoaXRhaS1qb3NoaS1pY2hpaS1uby10b25hcmktZGUtbWl0c3VrZXRhLWFtYXJpLWNoYW4tY2hhcHRlci0xMS0xLw==",
-      "date": "21 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "10.3",
@@ -35,7 +41,7 @@
       "chapter": "10.2",
       "title": "Komik Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan Chapter 10.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5pLXNoaXRhaS1qb3NoaS1pY2hpaS1uby10b25hcmktZGUtbWl0c3VrZXRhLWFtYXJpLWNoYW4tY2hhcHRlci0xMC0yLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "10.1",
@@ -53,7 +59,7 @@
       "chapter": "8.2",
       "title": "Komik Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan Chapter 8.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5pLXNoaXRhaS1qb3NoaS1pY2hpaS1uby10b25hcmktZGUtbWl0c3VrZXRhLWFtYXJpLWNoYW4tY2hhcHRlci04LTIv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "8.1",
@@ -77,13 +83,13 @@
       "chapter": "7.1",
       "title": "Komik Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan Chapter 7.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5pLXNoaXRhaS1qb3NoaS1pY2hpaS1uby10b25hcmktZGUtbWl0c3VrZXRhLWFtYXJpLWNoYW4tY2hhcHRlci03LTEv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "6.2",
       "title": "Komik Kanojo ni shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan Chapter 6.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5pLXNoaXRhaS1qb3NoaS1pY2hpaS1uby10b25hcmktZGUtbWl0c3VrZXRhLWFtYXJpLWNoYW4tY2hhcHRlci02LTIv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "6.1",
@@ -170,5 +176,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-15T17:58:51.912241",
+  "scraped_at": "2026-08-19T15:56:16.240097",
   "alternative_titles": "R15+じゃダメですか？, How About R15?, Xem phim \"người lớn\" được không?, Vamos Assistir Filmes Adultos?",
   "status": "Berjalan",
   "author": "Kishitani Todoroki",
@@ -23,11 +23,29 @@
   "synopsis": "Manga                    R15+ ja Dame desu ka? yang dibuat oleh komikus bernama\n                    Kishitani Todoroki ini bercerita tentang\n                    Apa yang harus kulakukan untuk menjadi dewasa? Akane Amou, yang dibesarkan oleh orang tuanya yang melarang segala jenis hiburan, agak sensitif terhadap hal-hal yang \"menstimulasi\", sampai-sampai ia bahkan tidak bisa menonton adegan ciuman dalam sebuah drama. Sekarang ia sudah menjadi siswa SMA, ia ingin mengatasinya! Itulah niatnya, tetapi tidak semudah itu. Sementara itu, ia berkenalan dengan seorang otaku film bernama Fuyumine. Akankah ia mampu menonton film R15...?",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik R15+ ja Dame desu ka? Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcjE1LWphLWRhbWUtZGVzdS1rYS1jaGFwdGVyLTQv",
+      "date": "24 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik R15+ ja Dame desu ka? Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcjE1LWphLWRhbWUtZGVzdS1rYS1jaGFwdGVyLTMv",
+      "date": "24 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik R15+ ja Dame desu ka? Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcjE1LWphLWRhbWUtZGVzdS1rYS1jaGFwdGVyLTIv",
+      "date": "24 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik R15+ ja Dame desu ka? Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcjE1LWphLWRhbWUtZGVzdS1rYS1jaGFwdGVyLTEv",
-      "date": "6 jam yang lalu"
+      "date": "4 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 4
 }

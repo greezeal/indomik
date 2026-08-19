@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.35,
-  "scraped_at": "2026-08-19T06:20:18.448018",
+  "scraped_at": "2026-08-19T15:56:59.121587",
   "alternative_titles": "Reincarnation's Little Girl Never Gives Up, Tensei Youjo wa Akiramenai, 転生幼女はあきらめない",
   "status": "Berjalan",
   "author": "kaya (カヤ)",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    The Reborn Little Girl Won’t Give Up yang dibuat oleh komikus bernama\n                    kaya (カヤ) ini bercerita tentang\n                    Ketika saya bangun, saya telah terlahir kembali sebagai bayi. Ibu saya meninggal dan saya diabaikan oleh ayah saya. Meskipun saya lahir di keluarga Marquis, hidup saya dimulai dengan HARD MODE. Tapi saya tidak akan putus asa. Saya akan makan dengan baik, tidur nyenyak, banyak bergerak, mendapatkan apa pun yang saya bisa dan hidup bahagia.\r\n\r\nTapi entah kenapa, banyak insiden terjadi. Ini adalah kisah tentang seorang gadis kecil dengan kekuatan untuk menciptakan penghalang di dunia tempat Hollow dan Manusia berada dalam konflik. Dia membuat orang lain terlibat dalam insiden itu dan menjadi bahagia.",
   "chapters": [
     {
+      "chapter": "36.2",
+      "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 36.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0zNi0yLw==",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "36.1",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 36.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0zNi0xLw==",
-      "date": "14 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "35.5",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 35.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0zNS01Lw==",
-      "date": "14 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "35",
@@ -259,5 +265,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 39
+  "total_chapters": 40
 }
