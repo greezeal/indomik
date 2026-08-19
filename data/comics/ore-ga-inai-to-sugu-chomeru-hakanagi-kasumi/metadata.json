@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-05T17:15:10.479505",
+  "scraped_at": "2026-08-19T07:58:10.952405",
   "alternative_titles": "俺がいないとすぐ ××〈チョメ〉る儚木かすみ, 俺がいないとすぐ ×× る儚木かすみ, Ore ga Inai to Sugu ×× ru Hakanagi Kasumi, Hakanagi Kasumi, Who ×× Right Away When I’m Not Around, Hakanagi Kasumi Yang Langsung ×× Saat Aku Tidak Ada, Hakanagi Kasumi, Quem quase ×× Quando Eu Não Estou Perto",
   "status": "Berjalan",
   "author": "Akitokage",
@@ -21,28 +21,34 @@
   "synopsis": "Manga                    Ore ga Inai to Sugu Chomeru Hakanagi Kasumi yang dibuat oleh komikus bernama\n                    Akitokage ini bercerita tentang\n                    Di musim semi tahun pertamanya di sekolah menengah atas, Takase Michiru memutuskan untuk tidak terlalu mempedulikan kehidupan sekolahnya. Namun, teman sekelas yang duduk di sebelahnya adalah Hikanagi Kasumi, seorang gadis yang dikelilingi rumor mencurigakan. Dengan penutup mata dan beberapa perban, dia tampak seperti tipe \"pembuat onar\" pada umumnya, jadi Michiru mencoba menjaga jarak. Tetapi, karena sebuah kejadian tak terduga, keduanya akhirnya menjalin hubungan di mana mereka saling mendukung dan melengkapi. Rapuh, tetapi selalu memberikan yang terbaik.",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLWdhLWluYWktdG8tc3VndS1jaG9tZXJ1LWhha2FuYWdpLWthc3VtaS1jaGFwdGVyLTI0Lw==",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLWdhLWluYWktdG8tc3VndS1jaG9tZXJ1LWhha2FuYWdpLWthc3VtaS1jaGFwdGVyLTIzLw==",
-      "date": "37 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLWdhLWluYWktdG8tc3VndS1jaG9tZXJ1LWhha2FuYWdpLWthc3VtaS1jaGFwdGVyLTIyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLWdhLWluYWktdG8tc3VndS1jaG9tZXJ1LWhha2FuYWdpLWthc3VtaS1jaGFwdGVyLTIxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLWdhLWluYWktdG8tc3VndS1jaG9tZXJ1LWhha2FuYWdpLWthc3VtaS1jaGFwdGVyLTIwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -60,7 +66,7 @@
       "chapter": "17",
       "title": "Komik Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLWdhLWluYWktdG8tc3VndS1jaG9tZXJ1LWhha2FuYWdpLWthc3VtaS1jaGFwdGVyLTE3Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -72,7 +78,7 @@
       "chapter": "15",
       "title": "Komik Ore ga Inai to Sugu Chomeru Hakanagi Kasumi Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLWdhLWluYWktdG8tc3VndS1jaG9tZXJ1LWhha2FuYWdpLWthc3VtaS1jaGFwdGVyLTE1Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -159,5 +165,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }
