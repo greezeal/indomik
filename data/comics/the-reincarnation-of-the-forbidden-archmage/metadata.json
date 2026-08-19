@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-19T06:21:44.425667",
+  "scraped_at": "2026-08-19T10:04:10.500407",
   "alternative_titles": "Kinki no Tensei Daimadoushi ~Munou kara Level Up de Saikyou ni~, 禁忌の転生大魔導士 ～無能からレベルアップで最強に～",
   "status": "Berjalan",
   "author": "AONO Hakuto",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    The Reincarnation of the Forbidden Archmage yang dibuat oleh komikus bernama\n                    AONO Hakuto ini bercerita tentang\n                    Suatu hari, dungeon muncul tiba-tiba. Manusia dengan kekuatan yang telah di bangkitkan, kemudian menghadapi dungeon ini demi harapan dan kekayaan. Protagonis kita, saeki tidak memiliki kemampuan. Demi menghasilkan uang yang cukup untuk perawatan adiknya yang memiliki suatu penyakit yang tidak bisa di sembuhkan, dia memutuskan untuk menjadi seorang adventurer. Saeki memiliki rahasia, di kehidupan sebelumnya dia adalah mage terkuat. Karena reinkarnasinya, dia harus naik level untuk mendapatkan kekuatannya semula. Ini adalah kisah dari seseorang yang tidak memiliki kemampuan yang akan membalikkan dunia dengan kekuatannya!",
   "chapters": [
     {
+      "chapter": "141",
+      "title": "Komik The Reincarnation of the Forbidden Archmage Chapter 141",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlaW5jYXJuYXRpb24tb2YtdGhlLWZvcmJpZGRlbi1hcmNobWFnZS1jaGFwdGVyLTE0MS8=",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "140",
       "title": "Komik The Reincarnation of the Forbidden Archmage Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlaW5jYXJuYXRpb24tb2YtdGhlLWZvcmJpZGRlbi1hcmNobWFnZS1jaGFwdGVyLTE0MC8=",
-      "date": "15 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "139",
       "title": "Komik The Reincarnation of the Forbidden Archmage Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlaW5jYXJuYXRpb24tb2YtdGhlLWZvcmJpZGRlbi1hcmNobWFnZS1jaGFwdGVyLTEzOS8=",
-      "date": "15 jam yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "138",
@@ -192,7 +198,7 @@
       "chapter": "112",
       "title": "Komik The Reincarnation of the Forbidden Archmage Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlaW5jYXJuYXRpb24tb2YtdGhlLWZvcmJpZGRlbi1hcmNobWFnZS1jaGFwdGVyLTExMi8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "111",
@@ -861,5 +867,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 140
+  "total_chapters": 141
 }

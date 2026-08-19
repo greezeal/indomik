@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T09:22:35.133128",
-  "total_comics": 2126,
+  "last_updated": "2026-08-19T10:08:39.713168",
+  "total_comics": 2127,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -3136,7 +3136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 67
+      "total_chapters": 69
     },
     {
       "slug": "a-gyaru-and-otaku-who-have-entered-a-school-where-they-will-have-to-dropout-if-they-cannot-get-a-lover",
@@ -3608,7 +3608,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 106
     },
     {
       "slug": "tang-clan-legend",
@@ -4480,7 +4480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.28,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "kininatteru-hito-ga-otoko-jyanakatta",
@@ -5208,7 +5208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 39
     },
     {
       "slug": "soul-land-ii",
@@ -5456,7 +5456,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 84
+      "total_chapters": 86
     },
     {
       "slug": "seikenshi-sama-no-maken-chan",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 146
+      "total_chapters": 147
     },
     {
       "slug": "chronicle-of-runes",
@@ -9656,7 +9656,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 252
+      "total_chapters": 253
     },
     {
       "slug": "boruto-two-blue-vortex",
@@ -12840,7 +12840,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 81
     },
     {
       "slug": "daytime-in-the-bunker",
@@ -14472,7 +14472,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 12
     },
     {
       "slug": "the-heavenly-demons-otherworld-livestream",
@@ -15944,7 +15944,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 140
+      "total_chapters": 141
     },
     {
       "slug": "my-disciples-cultivate-while-i-slack-off",
@@ -15952,7 +15952,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 85
+      "total_chapters": 87
     },
     {
       "slug": "569549-yomi-no-tsugai",
@@ -16552,7 +16552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 62
+      "total_chapters": 64
     },
     {
       "slug": "the-sword-saint-reincarnated-into-a-noble-mage-family",
@@ -16720,7 +16720,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 80
+      "total_chapters": 82
     },
     {
       "slug": "the-shamans-blade",
@@ -16728,7 +16728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 36
+      "total_chapters": 42
     },
     {
       "slug": "survival-supremacy",
@@ -16800,7 +16800,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.22,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "681210-the-regressed-son-of-a-duke-is-an-assassin",
@@ -16888,7 +16888,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 15
+      "total_chapters": 17
     },
     {
       "slug": "behemoth-no-hanamuko",
@@ -17009,6 +17009,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 10
+    },
+    {
+      "slug": "hakkou-shounen-no-shiawase-na-majutsu-kakumei",
+      "title": "Hakkou Shounen no Shiawase na Majutsu Kakumei",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
     }
   ]
 }
