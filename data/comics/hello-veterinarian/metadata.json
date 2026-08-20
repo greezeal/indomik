@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-07T05:29:03.103736",
+  "scraped_at": "2026-08-20T20:02:53.841764",
   "alternative_titles": "수의사님! 안녕하세요?, Veterinarian! Hello?",
   "status": "Berjalan",
   "author": "Seo Geon-Joo, Mi Yeok-Guk (Nini)",
@@ -23,46 +23,52 @@
   "synopsis": "Manhwa                    Hello? Veterinarian yang dibuat oleh komikus bernama\n                    Seo Geon-Joo, Mi Yeok-Guk (Nini) ini bercerita tentang\n                    Malam sebelum Lee Jun membuka rumah sakit hewan miliknya sendiri, hewan peliharaannya sejak kecil, Pebble, mengunjunginya dalam mimpi dan memberinya hadiah misterius. Jun berhasil merawat pasien pertamanya, tetapi ketika anjing itu berterima kasih kepadanya karena telah menyelamatkan nyawanya, Jun menyadari bahwa ia dapat berbicara dengan hewan! Kabar tentang dokter hewan yang dapat memahami mereka menyebar dengan cepat di antara penghuni berkaki empat di lingkungan tersebut, dan mereka berbondong-bondong datang ke rumah sakit Jun. Dengan kemampuan barunya, akankah Jun mampu menyelamatkan semua teman berbulu ini?",
   "chapters": [
     {
+      "chapter": "145",
+      "title": "Komik Hello? Veterinarian Chapter 145",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTQ1Lw==",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "144",
       "title": "Komik Hello? Veterinarian Chapter 144",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTQ0Lw==",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "143",
       "title": "Komik Hello? Veterinarian Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTQzLw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "142",
       "title": "Komik Hello? Veterinarian Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTQyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "141",
       "title": "Komik Hello? Veterinarian Chapter 141",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTQxLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "140",
       "title": "Komik Hello? Veterinarian Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTQwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "139",
       "title": "Komik Hello? Veterinarian Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTM5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "138",
       "title": "Komik Hello? Veterinarian Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTM4Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "137",
@@ -92,13 +98,13 @@
       "chapter": "133",
       "title": "Komik Hello? Veterinarian Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTMzLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "132",
       "title": "Komik Hello? Veterinarian Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVsbG8tdmV0ZXJpbmFyaWFuLWNoYXB0ZXItMTMyLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "131",
@@ -887,5 +893,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 144
+  "total_chapters": 145
 }

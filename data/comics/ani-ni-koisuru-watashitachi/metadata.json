@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-17T05:55:22.915565",
+  "scraped_at": "2026-08-20T20:02:49.008620",
   "alternative_titles": "兄に恋する私たち",
   "status": "Berjalan",
   "author": "Sakamoto Shino",
@@ -20,10 +20,16 @@
   "synopsis": "Manga                    Ani ni Koisuru Watashitachi yang dibuat oleh komikus bernama\n                    Sakamoto Shino ini bercerita tentang\n                    Kakak beradik kembar Momoka dan Koume mungkin terlihat identik, tetapi kepribadian mereka sangat berlawanan. Sejak kecil, keduanya diam-diam menyimpan perasaan terhadap saudara tiri mereka, Ouji. Suatu hari, mereka menemukan \"perasaan suka rahasia\" satu sama lain… Inilah kisah dua hati yang terjalin dalam satu cinta. Kisah Cinta Si Kembar!",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Ani ni Koisuru Watashitachi Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItMTEv",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Ani ni Koisuru Watashitachi Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5pLW5pLWtvaXN1cnUtd2F0YXNoaXRhY2hpLWNoYXB0ZXItMTAv",
-      "date": "4 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "9",
@@ -80,5 +86,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.12,
-  "scraped_at": "2026-08-20T11:40:21.434215",
+  "scraped_at": "2026-08-20T20:06:05.132672",
   "alternative_titles": "アオアシ, 青之芦苇, 青之蘆葦, 아오아시, Ao Ashi, AOASHI แข้งเด็กหัวใจนักสู้",
   "status": "Berjalan",
   "author": "Kobayashi Yuugo",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Ao Ashi yang dibuat oleh komikus bernama\n                    Kobayashi Yuugo ini bercerita tentang\n                    Aoi Ashito adalah siswa sekolah menengah tahun ketiga dari Ehime. Di balik permainan mentahnya menyembunyikan bakatnya yang luar biasa, tetapi Ashito mengalami kemunduran besar karena kepribadiannya yang terlalu lugas. Manajer tim junior klub J1 Tokyo City Esperion, Fukuda Tetsuya, muncul di depan Ashito. Fukuda melihat potensi Ashito yang tak terbatas dan mengundangnya untuk ambil bagian dalam uji coba timnya di Tokyo. Kisah bocah lelaki yang akan merevolusi sepak bola di Jepang dengan cepat mulai terungkap.",
   "chapters": [
     {
+      "chapter": "376",
+      "title": "Komik Ao Ashi Chapter 376",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tYXNoaS1jaGFwdGVyLTM3Ni8=",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "375",
       "title": "Komik Ao Ashi Chapter 375",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tYXNoaS1jaGFwdGVyLTM3NS8=",
-      "date": "44 menit yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "374",
       "title": "Komik Ao Ashi Chapter 374",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW8tYXNoaS1jaGFwdGVyLTM3NC8=",
-      "date": "44 menit yang lalu"
+      "date": "6 jam yang lalu"
     },
     {
       "chapter": "373",
@@ -2273,5 +2279,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 375
+  "total_chapters": 376
 }
