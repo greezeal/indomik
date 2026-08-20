@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.55,
-  "scraped_at": "2026-08-08T15:52:25.128384",
+  "scraped_at": "2026-08-20T11:38:11.726752",
   "alternative_titles": "Ribirudo Waarudo, リビルドワールド, 再构筑世界",
   "status": "Berjalan",
   "author": "Nafuse",
@@ -21,16 +21,28 @@
   "synopsis": "Manga                    Rebuild World yang dibuat oleh komikus bernama\n                    Nafuse ini bercerita tentang\n                    Peradaban masa lalu, sekarang disebut “Dunia Lama”, telah menghasilkan banyak “Peninggalan” dengan teknologi canggihnya. Banyak puing-puing material tak dikenal, gedung-gedung tinggi yang mengambang di air, obat-obatan aneh, dan sekelompok senjata yang terlalu kuat untuk digunakan orang. Setelah runtuhnya sains dan peradaban, orang-orang mengumpulkan “Relik” ini, dan seiring waktu mereka membangun kembali masyarakat manusia. Dengan cara ini “Pemburu” diciptakan, para pejuang yang menghadapi berbagai bahaya Dunia Lama. Akira, seorang bocah pemburu baru yang ingin naik dari permukiman kumuh, memasuki reruntuhan Dunia Lama ia bertemu dengan seorang gadis misterius yang hanya dapat dilihat olehnya sebagai hantu, di dunia di mana para pemburu berusaha untuk mengatasi warisan dari peradaban tua.",
   "chapters": [
     {
+      "chapter": "85",
+      "title": "Komik Rebuild World Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVidWlsZC13b3JsZC1jaGFwdGVyLTg1Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik Rebuild World Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVidWlsZC13b3JsZC1jaGFwdGVyLTg0Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "83",
       "title": "Komik Rebuild World Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVidWlsZC13b3JsZC1jaGFwdGVyLTgzLw==",
-      "date": "12 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Rebuild World Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVidWlsZC13b3JsZC1jaGFwdGVyLTgyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "81",
@@ -90,7 +102,7 @@
       "chapter": "72",
       "title": "Komik Rebuild World Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVidWlsZC13b3JsZC1jaGFwdGVyLTcyLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "71",
@@ -282,7 +294,7 @@
       "chapter": "40",
       "title": "Komik Rebuild World Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVidWlsZC13b3JsZC1jaGFwdGVyLTQwLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "39",
@@ -519,5 +531,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 83
+  "total_chapters": 85
 }

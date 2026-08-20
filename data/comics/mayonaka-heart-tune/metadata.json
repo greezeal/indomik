@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.89,
-  "scraped_at": "2026-08-17T15:03:25.419694",
+  "scraped_at": "2026-08-20T11:37:35.550554",
   "alternative_titles": "Tune In to the Midnight Heart, 真夜中ハートチューン",
   "status": "Berjalan",
   "author": "Igarashi Masakuni",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    Mayonaka Heart Tune yang dibuat oleh komikus bernama\n                    Igarashi Masakuni ini bercerita tentang\n                    \"Larut malam, sendirian di tempat tidurku, suaramu adalah satu-satunya hal yang menyelamatkanku. Aku ingin berbicara denganmu lagi. Ada sesuatu yang ingin aku katakan.\"\r\n\r\nTanpa mengetahui nama atau wajah aslinya, Yamabuki Arisu, seorang siswa sekolah menengah tahun kedua, sedang mencari seorang gadis bernama \"Apollo\" yang merupakan seorang livestreamer. Namun, suatu hari, Arisu mendapat petunjuk tentang Apollo dari klub penyiaran sekolah menengah tempat dia bersekolah. Ada 4 gadis cantik yang bermimpi \"mendapatkan pekerjaan yang berhubungan dengan suara\"!! Siapa Apollo? Apa yang akan terjadi dengan impian keempat orang itu? Sebuah komedi romantis sukses yang lucu namun kerja keras dimulai di sini!!",
   "chapters": [
     {
+      "chapter": "127",
+      "title": "Komik Mayonaka Heart Tune Chapter 127",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEyNy8=",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "126",
       "title": "Komik Mayonaka Heart Tune Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEyNi8=",
-      "date": "2 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "125",
       "title": "Komik Mayonaka Heart Tune Chapter 125",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEyNS8=",
-      "date": "23 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "124",
@@ -52,7 +58,7 @@
       "chapter": "122",
       "title": "Komik Mayonaka Heart Tune Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEyMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "121",
@@ -160,7 +166,7 @@
       "chapter": "104",
       "title": "Komik Mayonaka Heart Tune Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEwNC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "103",
@@ -184,7 +190,7 @@
       "chapter": "100",
       "title": "Komik Mayonaka Heart Tune Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF5b25ha2EtaGVhcnQtdHVuZS1jaGFwdGVyLTEwMC8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "99",
@@ -781,5 +787,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 126
+  "total_chapters": 127
 }
