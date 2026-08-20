@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.37,
-  "scraped_at": "2026-08-19T06:20:45.475689",
+  "scraped_at": "2026-08-20T14:02:55.591691",
   "alternative_titles": "友達の姉ちゃんに恋した話, The Story of a Guy Who Fell in Love with His Friend’s Sister, A história do cara que se apaixonou pela irmã mais velha do seu amigo",
   "status": "Berjalan",
   "author": "AZUSA Kina",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Tomodachi no Nee-chan ni Koishita Hanashi yang dibuat oleh komikus bernama\n                    AZUSA Kina ini bercerita tentang\n                    Arisawa Haruto, jatuh cinta dengan saudara perempuan temannya di awal tahun kedua sekolah menengahnya. Bagaimana hubungan ini akan berkembang, apakah dia mampu mengatasi perbedaan usia?",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Tomodachi no Nee-chan ni Koishita Hanashi Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tb2RhY2hpLW5vLW5lZS1jaGFuLW5pLWtvaXNoaXRhLWhhbmFzaGktY2hhcHRlci01Lw==",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Tomodachi no Nee-chan ni Koishita Hanashi Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9tb2RhY2hpLW5vLW5lZS1jaGFuLW5pLWtvaXNoaXRhLWhhbmFzaGktY2hhcHRlci00Lw==",
-      "date": "15 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3",
@@ -46,5 +52,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

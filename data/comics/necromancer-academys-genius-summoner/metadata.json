@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.11,
-  "scraped_at": "2026-08-19T22:45:50.110739",
+  "scraped_at": "2026-08-20T14:01:54.722794",
   "alternative_titles": "Necromancer Academy and the Genius Summoner, 네크로맨서 학교의 소환천재",
   "status": "Berjalan",
   "author": "AZI, Volley",
@@ -28,10 +28,22 @@
   "synopsis": "Manhwa                    Necromancer Academy’s Genius Summoner yang dibuat oleh komikus bernama\n                    AZI, Volley ini bercerita tentang\n                    Para ahli nujum telah membangun nama untuk diri mereka sendiri sebagai praktisi sihir menakutkan yang mampu membuat seluruh kerajaan bertekuk lutut. Simon Follentia adalah ahli nujum dengan bakat terpendam yang luar biasa! Setelah dibina di akademi ahli nujum, jenius ini siap untuk dibina dan dibawa ke level berikutnya. Tapi bisakah bakat gila Simon menimbulkan konsekuensi yang tidak terduga?",
   "chapters": [
     {
+      "chapter": "212",
+      "title": "Komik Necromancer Academy’s Genius Summoner Chapter 212",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVjcm9tYW5jZXItYWNhZGVteXMtZ2VuaXVzLXN1bW1vbmVyLWNoYXB0ZXItMjEyLw==",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "211",
+      "title": "Komik Necromancer Academy’s Genius Summoner Chapter 211",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVjcm9tYW5jZXItYWNhZGVteXMtZ2VuaXVzLXN1bW1vbmVyLWNoYXB0ZXItMjExLw==",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "210",
       "title": "Komik Necromancer Academy’s Genius Summoner Chapter 210",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVjcm9tYW5jZXItYWNhZGVteXMtZ2VuaXVzLXN1bW1vbmVyLWNoYXB0ZXItMjEwLw==",
-      "date": "21 menit yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "209",
@@ -121,7 +133,7 @@
       "chapter": "195",
       "title": "Komik Necromancer Academy’s Genius Summoner Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVjcm9tYW5jZXItYWNhZGVteXMtZ2VuaXVzLXN1bW1vbmVyLWNoYXB0ZXItMTk1Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "194",
@@ -151,7 +163,7 @@
       "chapter": "190",
       "title": "Komik Necromancer Academy’s Genius Summoner Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbmVjcm9tYW5jZXItYWNhZGVteXMtZ2VuaXVzLXN1bW1vbmVyLWNoYXB0ZXItMTkwLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "189",
@@ -1288,5 +1300,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 210
+  "total_chapters": 212
 }
