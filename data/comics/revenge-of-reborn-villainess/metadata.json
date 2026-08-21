@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-21T04:07:15.697674",
+  "scraped_at": "2026-08-21T22:04:38.157856",
   "alternative_titles": "Revenge of the Reborn Villainess, The Villainess Enjoys Married Life, The Villainess's Delightful Married Life, The Villainess’s Married Life is Fun, 악녀의 시집살이는 즐겁다",
   "status": "Berjalan",
   "author": "Choi Mu-Tak, Junye",
@@ -19,29 +19,41 @@
   "synopsis": "Manhwa                    Revenge of Reborn Villainess yang dibuat oleh komikus bernama\n                    Choi Mu-Tak, Junye ini bercerita tentang\n                    Esika menjalani hidup bersama mertuanya, hanya mengandalkan cinta. Namun, ketika suaminya berselingkuh dengan temannya dan mengalami kecelakaan besar, ia mengingat kembali kenangan masa lalunya.\r\n\r\nIa menemukan bahwa dirinya tak lain adalah tokoh antagonis Cheon Yeong-ryeong, dan bahwa tempat ini adalah dunia di dalam sebuah buku.\r\n\r\nMengingat kehidupan masa lalunya dan ikatan malang yang ia jalin dengan orang-orang yang menyiksanya, Esika akhirnya bersumpah untuk membalas dendam terhadap keluarga Duke.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Revenge of Reborn Villainess Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi1yZWJvcm4tdmlsbGFpbmVzcy1jaGFwdGVyLTYv",
+      "date": "27 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Revenge of Reborn Villainess Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi1yZWJvcm4tdmlsbGFpbmVzcy1jaGFwdGVyLTUv",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Revenge of Reborn Villainess Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi1yZWJvcm4tdmlsbGFpbmVzcy1jaGFwdGVyLTQv",
-      "date": "11 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Revenge of Reborn Villainess Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi1yZWJvcm4tdmlsbGFpbmVzcy1jaGFwdGVyLTMv",
-      "date": "11 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Revenge of Reborn Villainess Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi1yZWJvcm4tdmlsbGFpbmVzcy1jaGFwdGVyLTIv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Revenge of Reborn Villainess Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV2ZW5nZS1vZi1yZWJvcm4tdmlsbGFpbmVzcy1jaGFwdGVyLTEv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 6
 }
