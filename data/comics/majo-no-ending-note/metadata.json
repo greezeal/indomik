@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-01T22:11:07.147168",
+  "scraped_at": "2026-08-21T14:54:43.630542",
   "alternative_titles": "魔女の終活帳, The Witch's Ending Note, Catatan Akhir sang Penyihir",
   "status": "Berjalan",
   "author": "Sora Ishihara",
@@ -21,40 +21,52 @@
   "synopsis": "Manga                    Majo no Ending Note yang dibuat oleh komikus bernama\n                    Sora Ishihara ini bercerita tentang\n                    Dua puluh tahun setelah Raja Iblis dikalahkan oleh kelompok Pahlawan... Dyd, seorang petugas kamar mayat yang bekerja di rumah duka keluarganya, bertemu dengan Nina-Nina, penyihir legendaris dari kelompok Pahlawan. Dia juga kebetulan adalah \"cinta pertama\" Dyd. Meskipun terlihat seperti gadis muda, Nina-Nina telah hidup selama hampir 2.000 tahun. Karena sifat penyihir, yang membawa malapetaka jika mereka mati dan meninggalkan penyesalan, permintaan yang diterima Dyd adalah untuk membantunya dalam \"perencanaan akhir hidupnya\"...!?",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Majo no Ending Note Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTkv",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Majo no Ending Note Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Majo no Ending Note Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTcv",
-      "date": "7 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Majo no Ending Note Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTYv",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Majo no Ending Note Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTUv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Majo no Ending Note Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTQv",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Majo no Ending Note Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Majo no Ending Note Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFqby1uby1lbmRpbmctbm90ZS1jaGFwdGVyLTIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
@@ -63,5 +75,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 9
 }

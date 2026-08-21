@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-21T04:10:04.231812",
+  "scraped_at": "2026-08-21T14:54:51.579956",
   "alternative_titles": "The Demon Lord Levels Up With Martial Arts, Martial Demon King, 새엄마의 자매들",
   "status": "Berjalan",
   "author": "Iboxson, Tya",
@@ -25,10 +25,16 @@
   "synopsis": "Manhwa                    Demon Lord’s Martial Arts Ascension yang dibuat oleh komikus bernama\n                    Iboxson, Tya ini bercerita tentang\n                    “Raja Iblis.” Itu… Mereka biasa memanggilku di kehidupanku sebelumnya, sebelum aku menjadi manusia.",
   "chapters": [
     {
+      "chapter": "165",
+      "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 165",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE2NS8=",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "164",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE2NC8=",
-      "date": "43 menit yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "163",
@@ -40,7 +46,7 @@
       "chapter": "162",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTE2Mi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "161",
@@ -208,7 +214,7 @@
       "chapter": "135",
       "title": "Komik Demon Lord’s Martial Arts Ascension Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbG9yZHMtbWFydGlhbC1hcnRzLWFzY2Vuc2lvbi1jaGFwdGVyLTEzNS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "134",
@@ -1015,5 +1021,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 165
+  "total_chapters": 166
 }
