@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-19T15:57:52.175117",
+  "scraped_at": "2026-08-21T08:57:11.652433",
   "alternative_titles": "薄幸少年の幸せな魔術革命 ー破滅の魔眼を覚醒し、世界最強になりましたー",
   "status": "Berjalan",
   "author": "月島 秀一",
@@ -20,41 +20,47 @@
   "synopsis": "Manga                    Hakkou Shounen no Shiawase na Majutsu Kakumei yang dibuat oleh komikus bernama\n                    月島 秀一 ini bercerita tentang\n                    Terlahir dengan kekuatan sihir luar biasa dan kutukan “Anugerah Raja Iblis”, Ellen memiliki mata iblis yang disebut sebagai kekuatan terburuk dalam sejarah. Saat berusia lima tahun, kekuatannya bangkit demi melindungi keluarganya—namun justru membuat mereka ketakutan hingga mengurungnya selama sepuluh tahun. Hingga seorang penyihir agung bernama Hermes menemukan bakat terpendamnya. Di bawah bimbingannya, Ellen mulai menguasai sihir dan berkembang menjadi penyihir jenius. Kini, legenda sang penyihir terkuat dengan mata iblis yang mampu mendatangkan kehancuran pun dimulai!",
   "chapters": [
     {
+      "chapter": "4.5",
+      "title": "Komik Hakkou Shounen no Shiawase na Majutsu Kakumei Chapter 4.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFra291LXNob3VuZW4tbm8tc2hpYXdhc2UtbmEtbWFqdXRzdS1rYWt1bWVpLWNoYXB0ZXItNC01Lw==",
+      "date": "59 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Hakkou Shounen no Shiawase na Majutsu Kakumei Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFra291LXNob3VuZW4tbm8tc2hpYXdhc2UtbmEtbWFqdXRzdS1rYWt1bWVpLWNoYXB0ZXItNC8=",
-      "date": "4 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3.5",
       "title": "Komik Hakkou Shounen no Shiawase na Majutsu Kakumei Chapter 3.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFra291LXNob3VuZW4tbm8tc2hpYXdhc2UtbmEtbWFqdXRzdS1rYWt1bWVpLWNoYXB0ZXItMy01Lw==",
-      "date": "23 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Hakkou Shounen no Shiawase na Majutsu Kakumei Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFra291LXNob3VuZW4tbm8tc2hpYXdhc2UtbmEtbWFqdXRzdS1rYWt1bWVpLWNoYXB0ZXItMy8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2.5",
       "title": "Komik Hakkou Shounen no Shiawase na Majutsu Kakumei Chapter 2.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFra291LXNob3VuZW4tbm8tc2hpYXdhc2UtbmEtbWFqdXRzdS1rYWt1bWVpLWNoYXB0ZXItMi01Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Hakkou Shounen no Shiawase na Majutsu Kakumei Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFra291LXNob3VuZW4tbm8tc2hpYXdhc2UtbmEtbWFqdXRzdS1rYWt1bWVpLWNoYXB0ZXItMi8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Hakkou Shounen no Shiawase na Majutsu Kakumei Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFra291LXNob3VuZW4tbm8tc2hpYXdhc2UtbmEtbWFqdXRzdS1rYWt1bWVpLWNoYXB0ZXItMS8=",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }
