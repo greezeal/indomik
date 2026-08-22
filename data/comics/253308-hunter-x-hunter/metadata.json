@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.78,
-  "scraped_at": "2026-08-17T05:56:24.371538",
+  "scraped_at": "2026-08-22T14:32:25.458989",
   "alternative_titles": "Hunter Hunter, HUNTER×HUNTER, HxH, Jäger x Jäger, Medžiotojas x Medžiotojas, Охотник х Охотник, القناص, هنتر x هنتر, ハンター×ハンター, 全职猎人, 猎人, हन्टर x हन्टर",
   "status": "Berjalan",
   "author": "Togashi Yoshihiro",
@@ -36,40 +36,46 @@
   "synopsis": "Manga                    Hunter x Hunter yang dibuat oleh komikus bernama\n                    Togashi Yoshihiro ini bercerita tentang\n                    Pemburu adalah jenis khusus, yang didedikasikan untuk melacak harta karun, binatang ajaib, dan bahkan pria lain. Tetapi pengejaran seperti itu memerlukan lisensi, dan kurang dari satu dari seratus ribu orang dapat lulus ujian kualifikasi yang melelahkan. Mereka yang lulus mendapatkan akses ke area terlarang, penyimpanan informasi yang luar biasa, dan hak untuk menyebut diri mereka Pemburu.",
   "chapters": [
     {
+      "chapter": "418",
+      "title": "Komik Hunter x Hunter Chapter 418",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXgtaHVudGVyLWNoYXB0ZXItNDE4Lw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "417",
       "title": "Komik Hunter x Hunter Chapter 417",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXgtaHVudGVyLWNoYXB0ZXItNDE3Lw==",
-      "date": "10 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "416",
       "title": "Komik Hunter x Hunter Chapter 416",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXgtaHVudGVyLWNoYXB0ZXItNDE2Lw==",
-      "date": "1 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "415",
       "title": "Komik Hunter x Hunter Chapter 415",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXgtaHVudGVyLWNoYXB0ZXItNDE1Lw==",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "414",
       "title": "Komik Hunter x Hunter Chapter 414",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXgtaHVudGVyLWNoYXB0ZXItNDE0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "413",
       "title": "Komik Hunter x Hunter Chapter 413",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXgtaHVudGVyLWNoYXB0ZXItNDEzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "412",
       "title": "Komik Hunter x Hunter Chapter 412",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXgtaHVudGVyLWNoYXB0ZXItNDEyLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "411",
@@ -1854,5 +1860,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 303
+  "total_chapters": 304
 }

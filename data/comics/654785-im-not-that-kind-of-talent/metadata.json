@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-21T14:57:46.596738",
+  "scraped_at": "2026-08-22T14:32:04.887498",
   "alternative_titles": "저 그런 인재 아닙니다",
   "status": "Berjalan",
   "author": "Denpi",
@@ -19,22 +19,28 @@
   "synopsis": "Manhwa                    I’m Not That Kind of Talent yang dibuat oleh komikus bernama\n                    Denpi ini bercerita tentang\n                    Deon Hart, aku yang sakit-sakitan yang muntah darah saat stres. Namun, entah bagaimana dia disalahpahami sebagai kuat dan ditakuti oleh semua orang di kekaisaran, sementara pada saat yang sama dia menjadi komandan Korps 0, yang paling dipercaya oleh raja iblis... Ya?! saya? Aku bukan orang seperti itu?!",
   "chapters": [
     {
+      "chapter": "122",
+      "title": "Komik I’m Not That Kind of Talent Chapter 122",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tbm90LXRoYXQta2luZC1vZi10YWxlbnQtY2hhcHRlci0xMjIv",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "121",
       "title": "Komik I’m Not That Kind of Talent Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tbm90LXRoYXQta2luZC1vZi10YWxlbnQtY2hhcHRlci0xMjEv",
-      "date": "17 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "120",
       "title": "Komik I’m Not That Kind of Talent Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tbm90LXRoYXQta2luZC1vZi10YWxlbnQtY2hhcHRlci0xMjAv",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "119",
       "title": "Komik I’m Not That Kind of Talent Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW0tbm90LXRoYXQta2luZC1vZi10YWxlbnQtY2hhcHRlci0xMTkv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "118",
@@ -745,5 +751,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 121
+  "total_chapters": 122
 }

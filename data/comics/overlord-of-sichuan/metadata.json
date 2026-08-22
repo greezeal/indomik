@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-19T22:47:52.192535",
+  "scraped_at": "2026-08-22T14:32:20.638836",
   "alternative_titles": "사천패왕",
   "status": "Berjalan",
   "author": "Sa Do Yeon, San Bo",
@@ -22,16 +22,22 @@
   "synopsis": "Manhwa                    Overlord Of Sichuan yang dibuat oleh komikus bernama\n                    Sa Do Yeon, San Bo ini bercerita tentang\n                    Pada hari ketika Zaman Praktisi Iblis turun ke dunia, Tang Sewoon, pengrajin iblis yang pernah disebut sebagai pengrajin ilahi paling menakutkan di bawah langit, menemui ajalnya.",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik Overlord Of Sichuan Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTQxLw==",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik Overlord Of Sichuan Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTQwLw==",
-      "date": "37 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Overlord Of Sichuan Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTM5Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "38",
@@ -139,7 +145,7 @@
       "chapter": "21",
       "title": "Komik Overlord Of Sichuan Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTIxLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -163,7 +169,7 @@
       "chapter": "17",
       "title": "Komik Overlord Of Sichuan Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3ZlcmxvcmQtb2Ytc2ljaHVhbi1jaGFwdGVyLTE3Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -262,5 +268,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }

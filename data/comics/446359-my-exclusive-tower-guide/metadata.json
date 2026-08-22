@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.81,
-  "scraped_at": "2026-08-21T14:58:32.782109",
+  "scraped_at": "2026-08-22T14:33:28.082778",
   "alternative_titles": "나만 보는 탑 공략집, My Very Own Tower Strategy Guide, A Collection of Top Strategies That Only I See",
   "status": "Berjalan",
   "author": "Sado (사도)",
@@ -27,34 +27,40 @@
   "synopsis": "Manhwa                    My Exclusive Tower Guide yang dibuat oleh komikus bernama\n                    Sado (사도) ini bercerita tentang\n                    [Apakah Anda ingin menggunakan buku pedoman?]\r\nSuatu hari, sebuah pesan misterius datang kepada kami, dan permainan bertahan hidup pun dimulai.\r\n\r\nSebuah menara yang menyebabkan satu sama lain 'tidak percaya', 'perselisihan', dan 'kehancuran'.\r\n\r\nSaya tidak akan pernah goyah. Bersama mereka yang percaya padaku, aku akan membentuk akhir menara ini.",
   "chapters": [
     {
+      "chapter": "130",
+      "title": "Komik My Exclusive Tower Guide Chapter 130",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTMwLw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "129",
       "title": "Komik My Exclusive Tower Guide Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTI5Lw==",
-      "date": "20 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "128",
       "title": "Komik My Exclusive Tower Guide Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTI4Lw==",
-      "date": "20 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "127",
       "title": "Komik My Exclusive Tower Guide Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTI3Lw==",
-      "date": "20 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "126",
       "title": "Komik My Exclusive Tower Guide Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTI2Lw==",
-      "date": "20 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "125",
       "title": "Komik My Exclusive Tower Guide Chapter 125",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItMTI1Lw==",
-      "date": "20 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "124",
@@ -324,7 +330,7 @@
       "chapter": "80",
       "title": "Komik My Exclusive Tower Guide Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZXhjbHVzaXZlLXRvd2VyLWd1aWRlLWNoYXB0ZXItODAv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "79",
@@ -801,5 +807,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 129
+  "total_chapters": 130
 }

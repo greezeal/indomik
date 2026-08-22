@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-18T07:57:52.388245",
+  "scraped_at": "2026-08-22T14:37:12.624282",
   "alternative_titles": "I’m a Kept Man for the Three Most Beautiful Girls in School, 校内三大美女のヒモして, 在當校內三大美女的小白臉, 在当校内三大美女的小白脸",
   "status": "Berjalan",
   "author": "Akatsuki Kiki",
@@ -22,34 +22,40 @@
   "synopsis": "Manga                    Kounai Sandai Bijo No Himo Shite yang dibuat oleh komikus bernama\n                    Akatsuki Kiki ini bercerita tentang\n                    Tergoda oleh 3 Gadis Cantik—Bahkan Berpelukan Adalah Bagian dari Pekerjaan Pria Simpanan. Tiga \"Gadis Tercantik di Sekolah\" yang dikagumi semua orang—Karasumaru Kage, Ono Tsukasa, dan Daigo Sakurako. Bagi seorang pria miskin dan kesepian sepertiku, Kyousaka Kei, mereka seharusnya berada di luar jangkauanku… sampai aku menyelamatkan mereka dari potensi penyerangan dan mereka menjadi sangat menyukaiku. “Aku ingin lebih dekat denganmu, meskipun hanya sedikit. Aku ingin lebih mengenalmu, Kyousaka.” Kemudian, mereka memintaku untuk melakukan pekerjaan paruh waktu untuk memenuhi permintaan mereka. Kupikir itu hanya tugas-tugas sederhana, tetapi semuanya secara bertahap meningkat… “Hei, peluk aku erat-erat.” “Mau cium?” “Sentuh aku di sana. Lebih keras.” Dan itu semua karena— “““Tidak apa-apa, itu bagian dari pekerjaan.”” “Kehidupan yang penuh kasih sayang dengan bayaran 5.000 yen per jam… Apakah ini… menjadi pria simpanan?” “Ya. Kami ingin menjagamu, Kei-kun.” Kounai san dai Bijo no Himo Shitemasu",
   "chapters": [
     {
+      "chapter": "3.2",
+      "title": "Komik Kounai Sandai Bijo No Himo Shite Chapter 3.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291bmFpLXNhbmRhaS1iaWpvLW5vLWhpbW8tc2hpdGUtY2hhcHRlci0zLTIv",
+      "date": "39 menit yang lalu"
+    },
+    {
       "chapter": "3.1",
       "title": "Komik Kounai Sandai Bijo No Himo Shite Chapter 3.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291bmFpLXNhbmRhaS1iaWpvLW5vLWhpbW8tc2hpdGUtY2hhcHRlci0zLTEv",
-      "date": "51 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "2.4",
       "title": "Komik Kounai Sandai Bijo No Himo Shite Chapter 2.4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291bmFpLXNhbmRhaS1iaWpvLW5vLWhpbW8tc2hpdGUtY2hhcHRlci0yLTQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "2.3",
       "title": "Komik Kounai Sandai Bijo No Himo Shite Chapter 2.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291bmFpLXNhbmRhaS1iaWpvLW5vLWhpbW8tc2hpdGUtY2hhcHRlci0yLTMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2.2",
       "title": "Komik Kounai Sandai Bijo No Himo Shite Chapter 2.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291bmFpLXNhbmRhaS1iaWpvLW5vLWhpbW8tc2hpdGUtY2hhcHRlci0yLTIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2.1",
       "title": "Komik Kounai Sandai Bijo No Himo Shite Chapter 2.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva291bmFpLXNhbmRhaS1iaWpvLW5vLWhpbW8tc2hpdGUtY2hhcHRlci0yLTEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
@@ -58,5 +64,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }
