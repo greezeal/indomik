@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-21T10:05:35.406612",
+  "scraped_at": "2026-08-22T10:43:43.482751",
   "alternative_titles": "Restaurant in the After Life ,저승식당",
   "status": "Berjalan",
   "author": "ASSAM HY, UNG Sangjun",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    Underworld Restaurant yang dibuat oleh komikus bernama\n                    ASSAM HY, UNG Sangjun ini bercerita tentang\n                    “8, 8, 8, 8,2 miliar?!” 8,2 miliar bangunan tiba-tiba muncul dalam kehidupan sendok bumi!! Dan… restoran? Perilaku pelanggan yang datang ke restoran mencurigakan, dan mereka hanya mengatakan hal-hal yang tidak diketahui… … . terjadi di jantung kota Seoul Kisah menyentuh yang mengerikan. Setiap malam dari jam sebelas sampai jam satu. Restoran Jeoseung buka sekarang! Restoran dunia bawah buka sekarang!",
   "chapters": [
     {
+      "chapter": "128",
+      "title": "Komik Underworld Restaurant Chapter 128",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI4Lw==",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "127",
       "title": "Komik Underworld Restaurant Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI3Lw==",
-      "date": "29 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "126",
       "title": "Komik Underworld Restaurant Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI2Lw==",
-      "date": "21 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "125",
       "title": "Komik Underworld Restaurant Chapter 125",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "124",
@@ -784,5 +790,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 127
+  "total_chapters": 128
 }

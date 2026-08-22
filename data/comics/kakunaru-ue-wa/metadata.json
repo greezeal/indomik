@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.51,
-  "scraped_at": "2026-08-01T04:49:28.298114",
+  "scraped_at": "2026-08-22T10:43:08.186179",
   "alternative_titles": "描くなるうえは, Now That We Draw, Rupa Gambar Kita",
   "status": "Berjalan",
   "author": "Takahata Kyuu",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Kakunaru Ue wa yang dibuat oleh komikus bernama\n                    Takahata Kyuu ini bercerita tentang\n                    Uehara-kun menyukai karakter 2 dimensi dan keinginannya adalah menjadi seniman manga! Namun, mimpinya pupus ketika seorang editor menolak karyanya karena terlalu membosankan.\r\n\r\nKeesokan harinya ketika merenungkan untuk menyerah pada mimpinya, seorang gadis di kelasnya, Miyamoto Niina, melihat manuskripnya dan memulai romansa semu dengannya yang sedikit terlalu nyaman, untuk membantunya dengan manga-nya!\r\n\r\nIni adalah mangaka ✖ komedi cinta remaja!",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik Kakunaru Ue wa Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci01NC8=",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "53",
       "title": "Komik Kakunaru Ue wa Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci01My8=",
-      "date": "23 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Kakunaru Ue wa Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci01Mi8=",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "51",
@@ -45,7 +51,7 @@
       "chapter": "50",
       "title": "Komik Kakunaru Ue wa Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci01MC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -63,7 +69,7 @@
       "chapter": "47",
       "title": "Komik Kakunaru Ue wa Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci00Ny8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -75,7 +81,7 @@
       "chapter": "45",
       "title": "Komik Kakunaru Ue wa Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci00NS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "44",
@@ -129,13 +135,13 @@
       "chapter": "36",
       "title": "Komik Kakunaru Ue wa Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci0zNi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Kakunaru Ue wa Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdW5hcnUtdWUtd2EtY2hhcHRlci0zNS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "34",
@@ -342,5 +348,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 53
+  "total_chapters": 54
 }

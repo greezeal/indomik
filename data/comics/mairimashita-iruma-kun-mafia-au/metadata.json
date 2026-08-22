@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.98,
-  "scraped_at": "2026-08-15T06:21:17.870610",
+  "scraped_at": "2026-08-22T10:48:06.312546",
   "alternative_titles": "Welcome to Demon School! Iruma-kun (Mafia Alternate Universe), 魔入りました！入間くん if Episode of 魔フィア, Welcome to Demon School! Iruma-kun: If Episode of Mafia, Mairimashita! Iruma-kun: If Episode of Mafia",
   "status": "Berjalan",
   "author": "Hiroja",
@@ -26,22 +26,28 @@
   "synopsis": "Manga                    Mairimashita! Iruma-kun Mafia AU yang dibuat oleh komikus bernama\n                    Hiroja ini bercerita tentang\n                    Karakter tercinta Mairimashita! Iruma-kun membintangi spin-off berbasis Mafia ini! Iruma muda menyelamatkan bos mafia yang terluka dari kematian... dan kemudian menjadi cucunya!?",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTM4Lw==",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTM3Lw==",
-      "date": "11 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTM2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTM1Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -107,13 +113,13 @@
       "chapter": "25",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTI1Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTI0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -131,7 +137,7 @@
       "chapter": "21",
       "title": "Komik Mairimashita! Iruma-kun Mafia AU Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFpcmltYXNoaXRhLWlydW1hLWt1bi1tYWZpYS1hdS1jaGFwdGVyLTIxLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -272,5 +278,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 42
 }
