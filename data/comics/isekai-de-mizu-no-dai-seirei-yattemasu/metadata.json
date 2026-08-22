@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-22T05:36:15.824985",
+  "scraped_at": "2026-08-22T17:02:31.150454",
   "alternative_titles": "異世界で水の大精霊やってます。, I'm Working as the Great Water Spirit in Another World",
   "status": "Berjalan",
   "author": "Hotaka Inaho",
@@ -29,28 +29,34 @@
   "synopsis": "Manga                    Isekai de Mizu no Dai Seirei Yattemasu yang dibuat oleh komikus bernama\n                    Hotaka Inaho ini bercerita tentang\n                    Ketika Saejima Nagi, seorang siswa SMA yang santai, terbangun dari tidur siangnya dan mendapati dirinya berada di sebuah danau di dunia lain!? Setelah mengetahui bahwa dirinya adalah \"Roh Air Agung\" yang esensinya adalah danau tersebut, Nagi menggunakan kekuatan yang ada di dalam dirinya untuk menyembuhkan mereka yang menderita luka dan penyakit. Suatu hari, Nagi dituntun oleh suara yang meminta bantuan dan dipanggil oleh seorang anak laki-laki. Pertemuan ini akan sangat mengubah nasib Nagi...",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Isekai de Mizu no Dai Seirei Yattemasu Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLW1penUtbm8tZGFpLXNlaXJlaS15YXR0ZW1hc3UtY2hhcHRlci0xMi8=",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Isekai de Mizu no Dai Seirei Yattemasu Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLW1penUtbm8tZGFpLXNlaXJlaS15YXR0ZW1hc3UtY2hhcHRlci0xMS8=",
-      "date": "23 menit yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Isekai de Mizu no Dai Seirei Yattemasu Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLW1penUtbm8tZGFpLXNlaXJlaS15YXR0ZW1hc3UtY2hhcHRlci0xMC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Isekai de Mizu no Dai Seirei Yattemasu Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLW1penUtbm8tZGFpLXNlaXJlaS15YXR0ZW1hc3UtY2hhcHRlci05Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Isekai de Mizu no Dai Seirei Yattemasu Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWRlLW1penUtbm8tZGFpLXNlaXJlaS15YXR0ZW1hc3UtY2hhcHRlci04Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "7",
@@ -95,5 +101,5 @@
       "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }
