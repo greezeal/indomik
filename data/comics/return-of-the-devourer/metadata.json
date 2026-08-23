@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.2,
-  "scraped_at": "2026-08-20T11:41:27.444639",
+  "scraped_at": "2026-08-23T08:59:38.368346",
   "alternative_titles": "暴食者, The Glutton, Bàoshízhě, Eater of All",
   "status": "Berjalan",
   "author": "Dorlag Culture (多拉格文化)",
@@ -25,10 +25,16 @@
   "synopsis": "Manhua                    Return of the Devourer yang dibuat oleh komikus bernama\n                    Dorlag Culture (多拉格文化) ini bercerita tentang\n                    Dunia manusia dihancurkan oleh para raja iblis. Setelah kehilangan segalanya, pendekar yang telah bangkit kekuatannya, Si Chen, memilih untuk melancarkan serangan terakhir yang putus asa… mengorbankan dirinya sendiri untuk mengalahkan raja iblis kerakusan, Lan Yue. Tetapi ketika dia bangun lagi, dia mendapati dirinya ter transported sepuluh tahun ke masa lalu, sebelum semua ini terjadi. Menyadari bahwa kekuatannya telah bangkit lebih awal, dia memutuskan dia harus bertindak lebih awal. Dengan kembalinya dia, segala sesuatu di dunia tampaknya juga telah berubah…",
   "chapters": [
     {
+      "chapter": "43",
+      "title": "Komik Return of the Devourer Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTQzLw==",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik Return of the Devourer Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTQyLw==",
-      "date": "38 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "41",
@@ -46,13 +52,13 @@
       "chapter": "39",
       "title": "Komik Return of the Devourer Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTM5Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Return of the Devourer Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTM4Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -64,13 +70,13 @@
       "chapter": "36",
       "title": "Komik Return of the Devourer Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTM2Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Return of the Devourer Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTM1Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -88,7 +94,7 @@
       "chapter": "32",
       "title": "Komik Return of the Devourer Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTMyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -148,13 +154,13 @@
       "chapter": "22",
       "title": "Komik Return of the Devourer Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTIyLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Return of the Devourer Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTIxLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -232,7 +238,7 @@
       "chapter": "8",
       "title": "Komik Return of the Devourer Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS1kZXZvdXJlci1jaGFwdGVyLTgv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -277,5 +283,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 42
+  "total_chapters": 43
 }

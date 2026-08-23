@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-22T13:59:52.347851",
+  "scraped_at": "2026-08-23T08:56:37.203676",
   "alternative_titles": "Restaurant in the After Life ,저승식당",
   "status": "Berjalan",
   "author": "ASSAM HY, UNG Sangjun",
@@ -22,22 +22,28 @@
   "synopsis": "Manhwa                    Underworld Restaurant yang dibuat oleh komikus bernama\n                    ASSAM HY, UNG Sangjun ini bercerita tentang\n                    “8, 8, 8, 8,2 miliar?!” 8,2 miliar bangunan tiba-tiba muncul dalam kehidupan sendok bumi!! Dan… restoran? Perilaku pelanggan yang datang ke restoran mencurigakan, dan mereka hanya mengatakan hal-hal yang tidak diketahui… … . terjadi di jantung kota Seoul Kisah menyentuh yang mengerikan. Setiap malam dari jam sebelas sampai jam satu. Restoran Jeoseung buka sekarang! Restoran dunia bawah buka sekarang!",
   "chapters": [
     {
+      "chapter": "129",
+      "title": "Komik Underworld Restaurant Chapter 129",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI5Lw==",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "128",
       "title": "Komik Underworld Restaurant Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI4Lw==",
-      "date": "12 menit yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "127",
       "title": "Komik Underworld Restaurant Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI3Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "126",
       "title": "Komik Underworld Restaurant Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTI2Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "125",
@@ -67,13 +73,13 @@
       "chapter": "121",
       "title": "Komik Underworld Restaurant Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTIxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "120",
       "title": "Komik Underworld Restaurant Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItMTIwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "119",
@@ -241,13 +247,13 @@
       "chapter": "92",
       "title": "Komik Underworld Restaurant Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItOTIv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Underworld Restaurant Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJ3b3JsZC1yZXN0YXVyYW50LWNoYXB0ZXItOTEv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "90",
@@ -790,5 +796,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 128
+  "total_chapters": 129
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-18T06:07:50.888550",
+  "scraped_at": "2026-08-23T08:58:11.550039",
   "alternative_titles": "A Love Letter and a 13-Year-Old Actress, 恋文と13歳の女優, 恋文と13歳の女優（アクトレス）",
   "status": "Berjalan",
   "author": "Jaga",
@@ -19,16 +19,22 @@
   "synopsis": "Manga                    Koibumi to 13-sai no Joyuu yang dibuat oleh komikus bernama\n                    Jaga ini bercerita tentang\n                    Isshiki Fumi bekerja sebagai seorang akuntan di sebuah agensi hiburan,\r\nSuatu hari, dia dipindahkan ke bagian manajemen dan malah berahir menjadi Manager Haga Ayano, seorang gadis yang baru berusia 13 tahun dan merupakan seorang aktris cilik,\r\ndan Ayano tampaknya secara aneh menyukainya…?\r\n\r\nMeskipun dia adalah seorang anak, dia berperilaku lebih seperti orang dewasa daripada orang dewasa,\r\nKisah ini diputar oleh seorang aktor cilik profesional dan manajernya",
   "chapters": [
     {
+      "chapter": "19.5",
+      "title": "Komik Koibumi to 13-sai no Joyuu Chapter 19.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xOS01Lw==",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Koibumi to 13-sai no Joyuu Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xOS8=",
-      "date": "9 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "18.5",
       "title": "Komik Koibumi to 13-sai no Joyuu Chapter 18.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xOC01Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "18",
@@ -40,7 +46,7 @@
       "chapter": "17.5",
       "title": "Komik Koibumi to 13-sai no Joyuu Chapter 17.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xNy01Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "17",
@@ -58,7 +64,7 @@
       "chapter": "15.5",
       "title": "Komik Koibumi to 13-sai no Joyuu Chapter 15.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pYnVtaS10by0xMy1zYWktbm8tam95dXUtY2hhcHRlci0xNS01Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -229,5 +235,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 36
 }

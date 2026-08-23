@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-22T14:02:12.885043",
+  "scraped_at": "2026-08-23T08:56:53.326917",
   "alternative_titles": "継母の心得, Mama Haha no Kokoro-e, The Art of Being a Stepmother, Stepmother's Knowledge, Stepmother's Guide, The Stepmother's Principles, Наставления мачехи",
   "status": "Berjalan",
   "author": "Thor (トール), Fujimaru Mamenosuke",
@@ -27,40 +27,46 @@
   "synopsis": "Manga                    Mamahaha no Kokoroe yang dibuat oleh komikus bernama\n                    Thor (トール), Fujimaru Mamenosuke ini bercerita tentang\n                    Misaki Yamazaki meninggal karena sakit—hanya untuk terbangun dan bereinkarnasi di dunia manga yang pernah dibacanya. Ia terkejut mendapati dirinya terlahir kembali sebagai ibu tiri yang kejam dalam cerita tersebut, terkenal karena sering menyiksa tokoh protagonis muda. Lebih buruk lagi, ia mendapatkan kembali ingatannya hanya satu hari sebelum pernikahan, sehingga ia tidak punya kesempatan untuk melarikan diri dari takdirnya. Bertekad untuk mengubah cerita, Misaki bertekad untuk tidak pernah memperlakukan anak tirinya dengan buruk. Tetapi ketika mereka akhirnya bertemu... anak itu sangat menggemaskan! Saat ia membesarkannya menggunakan pengetahuan dari kehidupan sebelumnya, bahkan suaminya yang dingin dan acuh tak acuh pun mulai melunak. Demi anak tirinya, ia rela menggunakan setiap keuntungan yang dimilikinya.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Mamahaha no Kokoroe Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFtYWhhaGEtbm8ta29rb3JvZS1jaGFwdGVyLTE5Lw==",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Mamahaha no Kokoroe Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFtYWhhaGEtbm8ta29rb3JvZS1jaGFwdGVyLTE4Lw==",
-      "date": "36 menit yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Mamahaha no Kokoroe Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFtYWhhaGEtbm8ta29rb3JvZS1jaGFwdGVyLTE3Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Mamahaha no Kokoroe Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFtYWhhaGEtbm8ta29rb3JvZS1jaGFwdGVyLTE2Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Mamahaha no Kokoroe Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFtYWhhaGEtbm8ta29rb3JvZS1jaGFwdGVyLTE1Lw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Mamahaha no Kokoroe Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFtYWhhaGEtbm8ta29rb3JvZS1jaGFwdGVyLTE0Lw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Mamahaha no Kokoroe Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFtYWhhaGEtbm8ta29rb3JvZS1jaGFwdGVyLTEzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -135,5 +141,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }
