@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-19T15:57:15.856943",
+  "scraped_at": "2026-08-23T17:02:56.426505",
   "alternative_titles": "신화급 귀속 아이템을 손에 넣었다",
   "status": "Berjalan",
   "author": "Jung SeonYul (정선율)",
@@ -25,22 +25,28 @@
   "synopsis": "Manhwa                    I Obtained a Mythic Item yang dibuat oleh komikus bernama\n                    Jung SeonYul (정선율) ini bercerita tentang\n                    Raider non-tempur D-Rank menjadi musuh besar dewa yang akan menyelamatkan dunia dengan item restorasi terkuat.",
   "chapters": [
     {
+      "chapter": "191",
+      "title": "Komik I Obtained a Mythic Item Chapter 191",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTkxLw==",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "190",
       "title": "Komik I Obtained a Mythic Item Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTkwLw==",
-      "date": "44 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "189",
       "title": "Komik I Obtained a Mythic Item Chapter 189",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTg5Lw==",
-      "date": "44 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "188",
       "title": "Komik I Obtained a Mythic Item Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTg4Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "187",
@@ -166,13 +172,13 @@
       "chapter": "167",
       "title": "Komik I Obtained a Mythic Item Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTY3Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "166",
       "title": "Komik I Obtained a Mythic Item Chapter 166",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTY2Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "165",
@@ -196,7 +202,7 @@
       "chapter": "162",
       "title": "Komik I Obtained a Mythic Item Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTYyLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "161",
@@ -454,7 +460,7 @@
       "chapter": "119",
       "title": "Komik I Obtained a Mythic Item Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItMTE5Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "118",
@@ -610,7 +616,7 @@
       "chapter": "93",
       "title": "Komik I Obtained a Mythic Item Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItOTMv",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "92",
@@ -916,7 +922,7 @@
       "chapter": "42",
       "title": "Komik I Obtained a Mythic Item Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1vYnRhaW5lZC1hLW15dGhpYy1pdGVtLWNoYXB0ZXItNDIv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "41",
@@ -1171,5 +1177,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 191
+  "total_chapters": 192
 }

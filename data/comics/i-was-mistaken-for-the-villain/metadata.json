@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-20T14:01:31.833837",
+  "scraped_at": "2026-08-23T17:02:51.487387",
   "alternative_titles": "I Was Mistaken for the Villain, Memory in The Maze, 미로 인 메모리",
   "status": "Berjalan",
   "author": "Yui Soo",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    I Was Mistaken for the Villain yang dibuat oleh komikus bernama\n                    Yui Soo ini bercerita tentang\n                    Haechan, yang terlalu lemah dan diabaikan semua orang, bertemu dengan anak misterius bernama Miro dan mendapatkan kekuatan yang luar biasa. Namun, di saat yang sama, ia menyadari bahwa batu penyegel yang ia pikir akan melindungi semua orang ternyata adalah penyebab utama kehancuran dunia. Ia mencoba memperbaikinya sendiri, tetapi mereka yang tidak mengetahui kebenaran menganggapnya sebagai penjahat.",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik I Was Mistaken for the Villain Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItMjAv",
+      "date": "36 menit yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik I Was Mistaken for the Villain Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItMTkv",
-      "date": "6 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik I Was Mistaken for the Villain Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItMTgv",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik I Was Mistaken for the Villain Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItMTcv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik I Was Mistaken for the Villain Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItMTYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik I Was Mistaken for the Villain Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
@@ -70,7 +76,7 @@
       "chapter": "11",
       "title": "Komik I Was Mistaken for the Villain Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItMTEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "10",
@@ -100,13 +106,13 @@
       "chapter": "6",
       "title": "Komik I Was Mistaken for the Villain Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItNi8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik I Was Mistaken for the Villain Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtbWlzdGFrZW4tZm9yLXRoZS12aWxsYWluLWNoYXB0ZXItNS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "4",
@@ -133,5 +139,5 @@
       "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }

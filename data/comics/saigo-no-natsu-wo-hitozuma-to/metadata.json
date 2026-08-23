@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-23T02:21:33.805412",
+  "scraped_at": "2026-08-23T17:02:36.722696",
   "alternative_titles": "最後の夏を人妻と, Saigo no Natsu o Hitozuma to, Last Summer with a Married Woman, Spend Your Last Summer with a Married Woman",
   "status": "Berjalan",
   "author": "Engawa Nagatani",
@@ -18,16 +18,22 @@
   "synopsis": "Manga                    Saigo no Natsu wo Hitozuma to yang dibuat oleh komikus bernama\n                    Engawa Nagatani ini bercerita tentang\n                    \"Musim panas yang terik. Mari kita meleleh bersama...\"Wataru kembali ke pedesaan setelah gagal dalam ujian masuk universitas. Wataru tidak memiliki tempat di rumah orang tuanya yang ketat... Kemudian ia bertemu kembali dengan Sayoko, teman masa kecilnya yang dulu sering bermain bersamanya saat masih kecil. Wataru tertarik pada Sayoko, yang telah tumbuh menjadi wanita yang memesona. Namun, Sayoko memiliki sebuah rahasia!",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0yMS8=",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0yMC8=",
-      "date": "7 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0xOS8=",
-      "date": "6 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -138,5 +144,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 21
 }

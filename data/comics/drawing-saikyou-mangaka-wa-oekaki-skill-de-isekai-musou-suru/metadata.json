@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-22T14:02:34.137031",
+  "scraped_at": "2026-08-23T17:02:17.176918",
   "alternative_titles": "Drawing: Saikyō Mangaka wa o Oekaki Skill de Isekaii Musō Suru!, ドローイング 最強漫画家はお絵かきスキルで異世界無双する！",
   "status": "Berjalan",
   "author": "Lim Dall-young",
@@ -24,22 +24,28 @@
   "synopsis": "Manga                    Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru! yang dibuat oleh komikus bernama\n                    Lim Dall-young ini bercerita tentang\n                    Akira Kamidai, yang telah sangat sukses sebagai Author komikus, dia baru mengethaui dirinya mempunyai kanker darah\r\naku menyesali hidup ku ketika aku hanya bisa membangun hubungan kosong. (kesepian)\r\nDengan momentum kemarahan pada ibu yang hanya peduli pada uang\r\nMenunggu dia mati dalam kecelakaan yang merusak diri sendiri\r\nnamun satu sisi Itu adalah kesempatan untuk memilih ibuku sendiri dan bereinkarnasi di dunia lain….",
   "chapters": [
     {
+      "chapter": "200",
+      "title": "Komik Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru! Chapter 200",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhd2luZy1zYWlreW91LW1hbmdha2Etd2Etb2VrYWtpLXNraWxsLWRlLWlzZWthaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMjAwLw==",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "199",
       "title": "Komik Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru! Chapter 199",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhd2luZy1zYWlreW91LW1hbmdha2Etd2Etb2VrYWtpLXNraWxsLWRlLWlzZWthaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMTk5Lw==",
-      "date": "34 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "198",
       "title": "Komik Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru! Chapter 198",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhd2luZy1zYWlreW91LW1hbmdha2Etd2Etb2VrYWtpLXNraWxsLWRlLWlzZWthaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMTk4Lw==",
-      "date": "20 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "197",
       "title": "Komik Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru! Chapter 197",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhd2luZy1zYWlreW91LW1hbmdha2Etd2Etb2VrYWtpLXNraWxsLWRlLWlzZWthaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMTk3Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "196",
@@ -123,7 +129,7 @@
       "chapter": "183",
       "title": "Komik Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru! Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZHJhd2luZy1zYWlreW91LW1hbmdha2Etd2Etb2VrYWtpLXNraWxsLWRlLWlzZWthaS1tdXNvdS1zdXJ1LWNoYXB0ZXItMTgzLw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "182",
@@ -1224,5 +1230,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 200
+  "total_chapters": 201
 }
