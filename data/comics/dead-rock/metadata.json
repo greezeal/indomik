@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.29,
-  "scraped_at": "2026-04-13T15:49:33.129577",
+  "scraped_at": "2026-08-23T12:57:47.145213",
   "alternative_titles": "Dead Rock",
   "status": "Berjalan",
   "author": "Mashima Hiro",
@@ -25,28 +25,34 @@
   "synopsis": "Manga                    DEAD ROCK yang dibuat oleh komikus bernama\n                    Mashima Hiro ini bercerita tentang\n                    Seri terbaru dari Hiro Mashima adalah Demon World Academy Dark Fantasy!!\r\nDEAD ROCK adalah lembaga pelatihan raja iblis yang menjulang di kedalaman dunia iblis.\r\nYakuto, iblis muda, menantang ujian masuk yang keras untuk mengetuk pintu ROCK MATI!!",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik DEAD ROCK Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMjEv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik DEAD ROCK Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMjAv",
-      "date": "26 menit yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik DEAD ROCK Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMTkv",
-      "date": "5 hari yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik DEAD ROCK Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMTgv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik DEAD ROCK Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMTcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "16",
@@ -130,31 +136,31 @@
       "chapter": "8",
       "title": "Komik DEAD ROCK Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItOC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik DEAD ROCK Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItNy8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "6.2",
       "title": "Komik DEAD ROCK Chapter 6.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItNi0yLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "6.1",
       "title": "Komik DEAD ROCK Chapter 6.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItNi0xLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik DEAD ROCK Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItNS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "4",
@@ -187,5 +193,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 28
 }

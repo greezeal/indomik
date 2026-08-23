@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-20T11:37:25.156535",
+  "scraped_at": "2026-08-23T12:56:12.461526",
   "alternative_titles": "つづら先輩は元カノだから, Tsuzura-senpai Is My Ex-Girlfriend",
   "status": "Berjalan",
   "author": "Suzuno Shiyuu",
@@ -21,35 +21,41 @@
   "synopsis": "Manga                    Tsuzura-Senpai wa Motokano Dakara yang dibuat oleh komikus bernama\n                    Suzuno Shiyuu ini bercerita tentang\n                    Sebuah komedi romantis tentang mantan pacar yang kembali bersama!Osanai Ritsu adalah seorang siswa SMA yang menginginkan kehidupan yang sempurna dan damai. Namun di SMA tempat ia bersekolah terdapat Tsuzura Sana—seniornya dan \"mantan pacar\" yang pernah ia kencani di SMP...!?Kehidupan SMA-nya, yang selalu kacau karena mantan pacarnya yang tak terduga, akan segera dimulai...!Jika kamu memiliki mantan pacar seperti ini, dia akan membuatmu gila...!!",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Tsuzura-Senpai wa Motokano Dakara Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1enVyYS1zZW5wYWktd2EtbW90b2thbm8tZGFrYXJhLWNoYXB0ZXItNi8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Tsuzura-Senpai wa Motokano Dakara Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1enVyYS1zZW5wYWktd2EtbW90b2thbm8tZGFrYXJhLWNoYXB0ZXItNS8=",
-      "date": "21 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Tsuzura-Senpai wa Motokano Dakara Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1enVyYS1zZW5wYWktd2EtbW90b2thbm8tZGFrYXJhLWNoYXB0ZXItNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Tsuzura-Senpai wa Motokano Dakara Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1enVyYS1zZW5wYWktd2EtbW90b2thbm8tZGFrYXJhLWNoYXB0ZXItMy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Tsuzura-Senpai wa Motokano Dakara Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1enVyYS1zZW5wYWktd2EtbW90b2thbm8tZGFrYXJhLWNoYXB0ZXItMi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tsuzura-Senpai wa Motokano Dakara Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1enVyYS1zZW5wYWktd2EtbW90b2thbm8tZGFrYXJhLWNoYXB0ZXItMS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }

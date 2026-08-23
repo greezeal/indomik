@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-19T15:55:37.827412",
+  "scraped_at": "2026-08-23T13:00:28.658541",
   "alternative_titles": "말년용사",
   "status": "Berjalan",
   "author": "Hooding",
@@ -20,28 +20,40 @@
   "synopsis": "Manhwa                    Reincarnation Of The Veteran Soldier yang dibuat oleh komikus bernama\n                    Hooding ini bercerita tentang\n                    3 hari sebelum pembebasan Sersan Kim, dia meninggal. Tiba-tiba mendapatkan peringatan untuk pergi ke dunia lain. dia yang tidak percaya mulai membuat semuanya berantakan, ia lalu dihukum dan di buang ke dunia bawah tanpa sebuah skill apapun. ini tentang Sebuah cerita fantasi bertahan hidup dari sudut pandang seorang prajurit.",
   "chapters": [
     {
+      "chapter": "117",
+      "title": "Komik Reincarnation Of The Veteran Soldier Chapter 117",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTE3Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "116",
+      "title": "Komik Reincarnation Of The Veteran Soldier Chapter 116",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTE2Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "115",
       "title": "Komik Reincarnation Of The Veteran Soldier Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTE1Lw==",
-      "date": "29 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "114",
       "title": "Komik Reincarnation Of The Veteran Soldier Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTE0Lw==",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "113",
       "title": "Komik Reincarnation Of The Veteran Soldier Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTEzLw==",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Reincarnation Of The Veteran Soldier Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTEyLw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "111",
@@ -77,19 +89,19 @@
       "chapter": "106",
       "title": "Komik Reincarnation Of The Veteran Soldier Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTA2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "105",
       "title": "Komik Reincarnation Of The Veteran Soldier Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTA1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik Reincarnation Of The Veteran Soldier Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGlvbi1vZi10aGUtdmV0ZXJhbi1zb2xkaWVyLWNoYXB0ZXItMTA0Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "103",
@@ -710,5 +722,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 115
+  "total_chapters": 117
 }
