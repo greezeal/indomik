@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T07:42:12.204050",
-  "total_comics": 2163,
+  "last_updated": "2026-08-24T08:37:09.458477",
+  "total_comics": 2164,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -4296,7 +4296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 192
+      "total_chapters": 193
     },
     {
       "slug": "976292-i-became-the-tyrant-of-a-defense-game",
@@ -17305,6 +17305,14 @@
       "status": "Berjalan",
       "rating": 7.79,
       "total_chapters": 58
+    },
+    {
+      "slug": "499402-shuten-momoko-cant-be-defeated",
+      "title": "Shuten Momoko Can’t Be Defeated",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
     }
   ]
 }
