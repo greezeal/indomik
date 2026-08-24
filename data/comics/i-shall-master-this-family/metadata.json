@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-18T06:07:56.434452",
+  "scraped_at": "2026-08-24T23:07:57.004184",
   "alternative_titles": "이번 생은 가주가 되겠습니다, I Shall Master This Family, In This Life, I Will Be the Lord, I’ll Be the Matriarch in This Life, In This Life, I’ll Become the Head of the Family, En cette vie, je deviendrai la cheffe de famille, Nesta vida, serei a matriarca, Nesta vida, eu serei a matriarca, Serei a matriarca nessa vida, Цього разу я господарка свого життя, Цього разу я володарка свого життя, У цьому житті я очолю родину, В этой жизни я - глава семьи, На сей раз я - хозяйка этой жизни, Я стану хозяйкой этой жизни, เกิดใหม่ชาตินี้ฉันจะเป็นเจ้าตระกูล, 今世は当主になります, Энэ удаагийн амьдралаа би захирна, Энэ удаагийн амьдралаа би захирах болно, 这一世我来当家主, 今生我会成为家主, 今生我來當家主, Lần này, tôi sẽ trở thành gia chủ, Lần này, tôi sẽ trở thành Matriarch, Lần này, tôi sẽ trở thành mẫu hệ, Seré la matriarca en esta vida, En esta vida seré la soberana, Cette fois-ci, je serais la Matriarche, La nouvelle cheffe de clan (piccoma), Konyo Ha Toshu Ni Narimasu",
   "status": "Berjalan",
   "author": "Ant Studio (앤트스튜디오), Kim Roah (김로아)",
@@ -23,40 +23,46 @@
   "synopsis": "Manhwa                    I Shall Master This Family! yang dibuat oleh komikus bernama\n                    Ant Studio (앤트스튜디오), Kim Roah (김로아) ini bercerita tentang\n                    Keluarga Lombardi yang agung pernah berada di puncak kekuasaan kekaisaran. Setelah kematian kepala keluarga, nasib keluarga dan Firentia, yang lahir dari seorang Lombardi dan seorang petani, hancur di tangan sepupu-sepupunya yang tidak berguna dan kejam. Tetapi ketika ia bereinkarnasi sebagai dirinya yang berusia tujuh tahun, ia akan berupaya melindungi kehormatan keluarga, mendapatkan restu kakeknya, Lulac, dan mencegah kematian ayahnya sendiri. Dalam kehidupan ini, hanya ada satu cara baginya untuk menang: menjadi kepala keluarga besar mereka.",
   "chapters": [
     {
+      "chapter": "230",
+      "title": "Komik I Shall Master This Family! Chapter 230",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zaGFsbC1tYXN0ZXItdGhpcy1mYW1pbHktY2hhcHRlci0yMzAv",
+      "date": "46 menit yang lalu"
+    },
+    {
       "chapter": "229",
       "title": "Komik I Shall Master This Family! Chapter 229",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zaGFsbC1tYXN0ZXItdGhpcy1mYW1pbHktY2hhcHRlci0yMjkv",
-      "date": "9 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "228",
       "title": "Komik I Shall Master This Family! Chapter 228",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zaGFsbC1tYXN0ZXItdGhpcy1mYW1pbHktY2hhcHRlci0yMjgv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "227",
       "title": "Komik I Shall Master This Family! Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zaGFsbC1tYXN0ZXItdGhpcy1mYW1pbHktY2hhcHRlci0yMjcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik I Shall Master This Family! Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zaGFsbC1tYXN0ZXItdGhpcy1mYW1pbHktY2hhcHRlci0yMjYv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "225",
       "title": "Komik I Shall Master This Family! Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zaGFsbC1tYXN0ZXItdGhpcy1mYW1pbHktY2hhcHRlci0yMjUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "224",
       "title": "Komik I Shall Master This Family! Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1zaGFsbC1tYXN0ZXItdGhpcy1mYW1pbHktY2hhcHRlci0yMjQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "223",
@@ -1403,5 +1409,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 230
+  "total_chapters": 231
 }

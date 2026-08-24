@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-24T08:36:23.422770",
+  "scraped_at": "2026-08-24T23:03:31.141824",
   "alternative_titles": "Akari the Final Boss Girl ~I'm Going to the Modern Age to Find Someone Stronger Than Me~, Last Boss Shoujo Akari, ラスボス少女アカリ, ラスボス少女アカリ～ワタシより強いやつに会いに現代に行く～",
   "status": "Berjalan",
   "author": "Kishima Kiraku",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ yang dibuat oleh komikus bernama\n                    Kishima Kiraku ini bercerita tentang\n                    Bos terakhir terkuat dari dunia lain, yang tak seorang pun bisa kalahkan, bereinkarnasi ke dalam tubuh seorang siswi SMA yang sering diintimidasi di zaman modern!? Kehidupan sekolah yang tak tertandingi dari raja iblis di dunia lain!!",
   "chapters": [
     {
+      "chapter": "65",
+      "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTY1Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "64",
       "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTY0Lw==",
-      "date": "34 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "63",
@@ -62,7 +68,7 @@
       "chapter": "58",
       "title": "Komik Akari the Final Boss Girl ~I’m Going to the Modern Age to Find Someone Stronger Than Me~ Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWthcmktdGhlLWZpbmFsLWJvc3MtZ2lybC1pbS1nb2luZy10by10aGUtbW9kZXJuLWFnZS10by1maW5kLXNvbWVvbmUtc3Ryb25nZXItdGhhbi1tZS1jaGFwdGVyLTU4Lw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "57",
@@ -407,5 +413,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 65
 }

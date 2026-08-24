@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-19T06:20:50.407266",
+  "scraped_at": "2026-08-24T23:05:34.152287",
   "alternative_titles": "In May's Garden, In the Garden of May, ในสวนเดือนพฤษภาคม, 오월의 정원에서",
   "status": "Berjalan",
   "author": "Seodamyeon",
@@ -20,46 +20,52 @@
   "synopsis": "Manhwa                    Garden of May yang dibuat oleh komikus bernama\n                    Seodamyeon ini bercerita tentang\n                    Setelah kematian orang tuanya, Lady Vanessa hanya memiliki dua hal—segunung hutang dan sebuah pernikahan. Pamannya yang serakah sangat ingin menjualnya sebagai pengantin baru kepada seorang bangsawan tua. Untuk menghindari takdir yang telah diatur ini, dia membutuhkan skandal. Sebuah skandal yang benar-benar mengerikan dan menghancurkan.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Garden of May Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTMwLw==",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik Garden of May Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTI5Lw==",
-      "date": "15 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Garden of May Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTI4Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Garden of May Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTI3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Garden of May Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTI2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Garden of May Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTI1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Garden of May Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTI0Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Garden of May Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTIzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -83,13 +89,13 @@
       "chapter": "19",
       "title": "Komik Garden of May Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTE5Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Garden of May Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2FyZGVuLW9mLW1heS1jaGFwdGVyLTE4Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -194,5 +200,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }

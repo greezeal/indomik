@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.01,
-  "scraped_at": "2026-08-24T04:58:43.195854",
+  "scraped_at": "2026-08-24T23:09:15.365635",
   "alternative_titles": "SMGL, 大王饶命",
   "status": "Berjalan",
   "author": "The Speaking Pork Trotter",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Spare Me, Great Lord! yang dibuat oleh komikus bernama\n                    The Speaking Pork Trotter ini bercerita tentang\n                    Setelah penyegaran dan kembalinya energi roh, pria dan wanita melakukan yang terbaik untuk menangkap setiap untaian energi roh dan berlatih, kecuali Lu Shu, dengan Sistem Emosi Negatifnya, dia menjadi lebih kuat dengan mengejek orang lain! Dia hanya ingin melindungi adik perempuannya, tetapi perubahan era tidak dapat dihindari, maka yang bisa dia lakukan hanyalah ... mengejek orang lain secara sepintas, dan menjadi yang terkuat! Lalu, apakah kamu siap? Inilah Lu Shu, 'Raja Iblis Hebat' ~",
   "chapters": [
     {
+      "chapter": "769",
+      "title": "Komik Spare Me, Great Lord! Chapter 769",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc2OS8=",
+      "date": "58 menit yang lalu"
+    },
+    {
       "chapter": "768",
       "title": "Komik Spare Me, Great Lord! Chapter 768",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc2OC8=",
-      "date": "13 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "767",
@@ -51,13 +57,13 @@
       "chapter": "764",
       "title": "Komik Spare Me, Great Lord! Chapter 764",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc2NC8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "763",
       "title": "Komik Spare Me, Great Lord! Chapter 763",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc2My8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "762",
@@ -105,7 +111,7 @@
       "chapter": "755",
       "title": "Komik Spare Me, Great Lord! Chapter 755",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc1NS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "754",
@@ -123,7 +129,7 @@
       "chapter": "752",
       "title": "Komik Spare Me, Great Lord! Chapter 752",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTc1Mi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "751",
@@ -435,7 +441,7 @@
       "chapter": "700",
       "title": "Komik Spare Me, Great Lord! Chapter 700",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3BhcmUtbWUtZ3JlYXQtbG9yZC1jaGFwdGVyLTcwMC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "699",
@@ -4638,5 +4644,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 769
+  "total_chapters": 770
 }
