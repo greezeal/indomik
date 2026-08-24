@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.5,
-  "scraped_at": "2026-08-11T14:45:16.852246",
+  "scraped_at": "2026-08-24T06:33:56.418575",
   "alternative_titles": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu 「Ryouchi ni Hon o Hirogeyou!」, Ascendance of a Bookworm ~I'll do anything to become a librarian~ Part 3 「Let's Spread the Book to the Territory!」, Ascendance of a Bookworm: Part 3, Honzuki no Gekokujou: Part 3, La Petite Faiseuse de Livres, 本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第三部 「領地に本を広げよう！」",
   "status": "Berjalan",
   "author": "KAZUKI Miya",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Honzuki no Gekokujou: Part 3 yang dibuat oleh komikus bernama\n                    KAZUKI Miya ini bercerita tentang\n                    Ada insiden terjadi, Main dan keluarganya terancam dihukum. Demi untuk menyelamatkan keluarganya Main harus di anggap sudah meninggal mengganti namanya jadi Rosemain. Cerita palsu dibuat Rosemain sebagai anak dari Karstedt dan Istri ketiganya Rosemary dan memiliki jumlah mana yang luar biasa besar seperti ibunya Rosemary. Dalam perebutan kekuasaan antara istri Karstedt, Rosemary meninggal, dan demi keamanan Rosemain disembunyikan dan dibesarkan di dalam kuil. Main menjadi bangsawan, tapi disini dia akan di baptis lagi setelah di baptis Rosemain akan di adopsi oleh Sylvester, karena jumlah mana yang besar dan penemuannya yang membawa kemakmuran bagi Ehrenfest, menjadikannya putri dari archduke.",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Honzuki no Gekokujou: Part 3 Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC0zLWNoYXB0ZXItNDkv",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Honzuki no Gekokujou: Part 3 Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC0zLWNoYXB0ZXItNDgv",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "47.5",
@@ -282,19 +288,19 @@
       "chapter": "12",
       "title": "Komik Honzuki no Gekokujou: Part 3 Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC0zLWNoYXB0ZXItMTIv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Honzuki no Gekokujou: Part 3 Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC0zLWNoYXB0ZXItMTEv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Honzuki no Gekokujou: Part 3 Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9uenVraS1uby1nZWtva3Vqb3UtcGFydC0zLWNoYXB0ZXItMTAv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "9",
@@ -357,5 +363,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 57
 }
