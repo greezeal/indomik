@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-24T23:06:13.164566",
+  "scraped_at": "2026-08-25T16:13:08.922366",
   "alternative_titles": "Билли Бэт, بيلي بات, บิลลี่ แบ็ท, ビリーバット, 蝙蝠比利, 빌리 배트",
   "status": "Berjalan",
   "author": "Urasawa Naoki, Nagasaki Takashi",
@@ -28,65 +28,323 @@
   "synopsis": "Manga                    Billy Bat yang dibuat oleh komikus bernama\n                    Urasawa Naoki, Nagasaki Takashi ini bercerita tentang\n                    \"Billy Bat\" przedstawia losy japońsko-amerykańskiego artysty Kevina Yamagaty, autora mangi o identycznym tytule co dzieło, w którym sam występuje, czyli \"Billy Bat\". Pracuje dla wydawnictwa \"Komik Marmer\". Pewnego dnia do jego myeszkania pukają dwaj detektywi wyglądający jak Laurel Hardy z \"Dick Tracy\". Informasikan, Anda akan mendapatkan informasi lebih lanjut tentang layanan kesehatan yang Anda berikan. Wkrótce jeden z detektywów, chudzielec Laurel, zauważa prace Kevina and okazuje się fanem \"Billy'ego Bata\", podczas gdy otyły Hardy podnosi pojedynczą stronę ze stwierdzeniem, dan komiks wygląda zadziwiająco podobnie do mangi publikowanej niegdyś przez Jumpa. Oskarża bohatera o kradzież tokijskiego dzieła z 1949 roku.",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik Billy Bat Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNTQv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "53",
+      "title": "Komik Billy Bat Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNTMv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "52",
+      "title": "Komik Billy Bat Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNTIv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "51",
+      "title": "Komik Billy Bat Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNTEv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "50",
+      "title": "Komik Billy Bat Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNTAv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "49",
+      "title": "Komik Billy Bat Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDkv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik Billy Bat Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDgv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik Billy Bat Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDcv",
+      "date": "36 menit yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik Billy Bat Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDUv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "44",
+      "title": "Komik Billy Bat Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDQv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Billy Bat Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDMv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Billy Bat Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDIv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik Billy Bat Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDEv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "40",
+      "title": "Komik Billy Bat Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNDAv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "39",
+      "title": "Komik Billy Bat Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzkv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik Billy Bat Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzgv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "37",
+      "title": "Komik Billy Bat Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzcv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Billy Bat Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzYv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik Billy Bat Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzUv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Billy Bat Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzQv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik Billy Bat Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzMv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik Billy Bat Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzIv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "31",
+      "title": "Komik Billy Bat Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzEv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "30",
+      "title": "Komik Billy Bat Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMzAv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Billy Bat Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjkv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik Billy Bat Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjgv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Billy Bat Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjcv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Billy Bat Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjYv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik Billy Bat Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjUv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "24",
+      "title": "Komik Billy Bat Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjQv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Billy Bat Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjMv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik Billy Bat Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjIv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Billy Bat Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjEv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Billy Bat Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMjAv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik Billy Bat Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTkv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik Billy Bat Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTgv",
+      "date": "38 menit yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Billy Bat Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTcv",
+      "date": "8 jam yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Billy Bat Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTYv",
+      "date": "8 jam yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Billy Bat Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTUv",
+      "date": "8 jam yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Billy Bat Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTQv",
+      "date": "8 jam yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Billy Bat Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTMv",
+      "date": "8 jam yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Billy Bat Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTIv",
+      "date": "8 jam yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Billy Bat Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTEv",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Billy Bat Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMTAv",
-      "date": "26 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Billy Bat Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItOS8=",
-      "date": "26 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Billy Bat Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItOC8=",
-      "date": "26 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Billy Bat Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNy8=",
-      "date": "26 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Billy Bat Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNi8=",
-      "date": "27 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Billy Bat Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNS8=",
-      "date": "27 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Billy Bat Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItNC8=",
-      "date": "27 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Billy Bat Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMy8=",
-      "date": "27 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Billy Bat Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMi8=",
-      "date": "27 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Billy Bat Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmlsbHktYmF0LWNoYXB0ZXItMS8=",
-      "date": "27 menit yang lalu"
+      "date": "18 jam yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 53
 }

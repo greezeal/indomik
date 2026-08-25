@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-22T14:38:23.928189",
+  "scraped_at": "2026-08-25T16:11:18.060683",
   "alternative_titles": "Perfect Senior's Hide!, 완벽한 선배의 Hide!",
   "status": "Berjalan",
   "author": "Dooji",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    The Perfect Senior’s Secret! yang dibuat oleh komikus bernama\n                    Dooji ini bercerita tentang\n                    Taehyeok, siswa terbaik dan senior yang manis dan baik hati kepada semua orang. Namun, di balik penampilan sempurnanya tersembunyi seorang yang benar-benar gila? Satu-satunya gadis di departemen yang mengetahui rahasianya. Dan si gila yang semakin terobsesi padanya. Kehidupan kampus yang sedikit rumit dari dua individu menarik ini pun dimulai.",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik The Perfect Senior’s Secret! Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBlcmZlY3Qtc2VuaW9ycy1zZWNyZXQtY2hhcHRlci0yMy8=",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik The Perfect Senior’s Secret! Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBlcmZlY3Qtc2VuaW9ycy1zZWNyZXQtY2hhcHRlci0yMi8=",
-      "date": "6 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik The Perfect Senior’s Secret! Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBlcmZlY3Qtc2VuaW9ycy1zZWNyZXQtY2hhcHRlci0yMS8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik The Perfect Senior’s Secret! Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBlcmZlY3Qtc2VuaW9ycy1zZWNyZXQtY2hhcHRlci0yMC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik The Perfect Senior’s Secret! Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBlcmZlY3Qtc2VuaW9ycy1zZWNyZXQtY2hhcHRlci0xOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik The Perfect Senior’s Secret! Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXBlcmZlY3Qtc2VuaW9ycy1zZWNyZXQtY2hhcHRlci0xOC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "17",
@@ -151,5 +157,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

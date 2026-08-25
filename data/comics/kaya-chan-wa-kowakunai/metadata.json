@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.32,
-  "scraped_at": "2026-08-25T10:28:21.353908",
+  "scraped_at": "2026-08-25T16:15:32.589521",
   "alternative_titles": "Kaya-chan isn't scary, カヤちゃんはコワくない",
   "status": "Berjalan",
   "author": "Yuri Tarou",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Kaya-chan wa Kowakunai yang dibuat oleh komikus bernama\n                    Yuri Tarou ini bercerita tentang\n                    Kaya-chan adalah anak bermasalah yang terkenal di taman kanak-kanak. Namun, ketika Chie-sensei ditugaskan untuk menjaganya, dia mengetahui bahwa Kaya memiliki kemampuan... Mempersembahkan kepada Anda, serial aksi horor terkuat di taman kanak-kanak!!",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik Kaya-chan wa Kowakunai Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQxLw==",
+      "date": "59 menit yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik Kaya-chan wa Kowakunai Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQwLw==",
-      "date": "28 menit yang lalu"
+      "date": "7 jam yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Kaya-chan wa Kowakunai Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTM5Lw==",
-      "date": "28 menit yang lalu"
+      "date": "7 jam yang lalu"
     },
     {
       "chapter": "38",
@@ -264,5 +270,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.26,
-  "scraped_at": "2026-08-25T10:30:14.888220",
+  "scraped_at": "2026-08-25T16:17:37.878065",
   "alternative_titles": "Take Good Care of What You Pick Up A Man Favored by a Wolf Pup - A Story of His Journey to Another World, 拾ったものは大切にしましょう 子狼に気に入られた男の転移物語",
   "status": "Berjalan",
   "author": "Pon",
@@ -21,16 +21,22 @@
   "synopsis": "Manga                    Hirotta Mono Ha Taisetsu Ni Shimasho Kookami Ni Kinirareta Otoko No Teni Monogatari yang dibuat oleh komikus bernama\n                    Pon ini bercerita tentang\n                    Iori, seorang pemburu, dipindahkan ke dunia lain setelah menyelamatkan seekor anak serigala. Di hutan tempat ia tiba, ia menemukan dan memelihara sepasang saudara kembar beastkin yang menggemaskan, dan memutuskan untuk tinggal bersama mereka. Namun, saudara kembar ini ternyata sangat kuat!? Dan anak serigala yang dipindahkan bersamanya sebenarnya adalah \"binatang suci\"!?\r\n\r\nMaka dimulailah kehidupan Iori yang mengasyikkan dan memuaskan di dunia lain, bersama teman-teman barunya yang berharga. Meskipun baik hati, ia memiliki kecenderungan untuk berlebihan dalam hal memasak!",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Hirotta Mono Ha Taisetsu Ni Shimasho Kookami Ni Kinirareta Otoko No Teni Monogatari Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlyb3R0YS1tb25vLWhhLXRhaXNldHN1LW5pLXNoaW1hc2hvLWtvb2thbWktbmkta2luaXJhcmV0YS1vdG9rby1uby10ZW5pLW1vbm9nYXRhcmktY2hhcHRlci05Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Hirotta Mono Ha Taisetsu Ni Shimasho Kookami Ni Kinirareta Otoko No Teni Monogatari Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlyb3R0YS1tb25vLWhhLXRhaXNldHN1LW5pLXNoaW1hc2hvLWtvb2thbWktbmkta2luaXJhcmV0YS1vdG9rby1uby10ZW5pLW1vbm9nYXRhcmktY2hhcHRlci04Lw==",
-      "date": "40 menit yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Hirotta Mono Ha Taisetsu Ni Shimasho Kookami Ni Kinirareta Otoko No Teni Monogatari Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlyb3R0YS1tb25vLWhhLXRhaXNldHN1LW5pLXNoaW1hc2hvLWtvb2thbWktbmkta2luaXJhcmV0YS1vdG9rby1uby10ZW5pLW1vbm9nYXRhcmktY2hhcHRlci03Lw==",
-      "date": "40 menit yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "6",
@@ -69,5 +75,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

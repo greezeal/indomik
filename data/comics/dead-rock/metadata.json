@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.29,
-  "scraped_at": "2026-08-23T13:39:43.696870",
+  "scraped_at": "2026-08-25T16:15:05.431390",
   "alternative_titles": "Dead Rock",
   "status": "Berjalan",
   "author": "Mashima Hiro",
@@ -25,10 +25,22 @@
   "synopsis": "Manga                    DEAD ROCK yang dibuat oleh komikus bernama\n                    Mashima Hiro ini bercerita tentang\n                    Seri terbaru dari Hiro Mashima adalah Demon World Academy Dark Fantasy!!\r\nDEAD ROCK adalah lembaga pelatihan raja iblis yang menjulang di kedalaman dunia iblis.\r\nYakuto, iblis muda, menantang ujian masuk yang keras untuk mengetuk pintu ROCK MATI!!",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik DEAD ROCK Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMjMv",
+      "date": "56 menit yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik DEAD ROCK Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMjIv",
+      "date": "56 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik DEAD ROCK Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhZC1yb2NrLWNoYXB0ZXItMjEv",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "20",
@@ -193,5 +205,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 30
 }

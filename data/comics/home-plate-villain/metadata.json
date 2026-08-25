@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-21T10:06:16.661139",
+  "scraped_at": "2026-08-25T16:15:12.684716",
   "alternative_titles": "Le Démon du Marbre, ホームベースの魔物, 홈 플레이트의 빌런",
   "status": "Berjalan",
   "author": "Eblaine, Randomorder",
@@ -21,28 +21,34 @@
   "synopsis": "Manhwa                    Home Plate Villain yang dibuat oleh komikus bernama\n                    Eblaine, Randomorder ini bercerita tentang\n                    Bin Hong, legenda yang memiliki rekor tak terhitung jumlahnya -- dimulai dengan rekor 3000 pukulannya -- pada usia 40 tahun telah menyelesaikan permainan terakhir dalam kariernya. Setelah akhirnya memenuhi syarat yang ditetapkan oleh \"Peri Bisbol\", dia kembali ke masa ketika dia berusia 18 tahun. \"Saya ingin mencoba untuk liga utama!\" seru Bin Hong yang telah kembali ke masa 22 tahun yang lalu. Kondisi selanjutnya yang ditetapkan sekarang adalah rekor 5000 hit. Bisakah dia mencapainya? Kisah Bin Hong yang kembali ke masa lalu dan bertujuan untuk mencapai liga besar dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "88",
+      "title": "Komik Home Plate Villain Chapter 88",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItODgv",
+      "date": "58 menit yang lalu"
+    },
+    {
       "chapter": "87",
       "title": "Komik Home Plate Villain Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItODcv",
-      "date": "33 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik Home Plate Villain Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItODYv",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik Home Plate Villain Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItODUv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "84",
       "title": "Komik Home Plate Villain Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItODQv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "83",
@@ -60,7 +66,7 @@
       "chapter": "81",
       "title": "Komik Home Plate Villain Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItODEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "80",
@@ -72,13 +78,13 @@
       "chapter": "79",
       "title": "Komik Home Plate Villain Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNzkv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Home Plate Villain Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNzgv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "77",
@@ -96,7 +102,7 @@
       "chapter": "75",
       "title": "Komik Home Plate Villain Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItNzUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "74",
@@ -543,5 +549,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 87
+  "total_chapters": 88
 }
