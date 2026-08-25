@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-23T13:40:17.255213",
+  "scraped_at": "2026-08-25T10:29:03.444037",
   "alternative_titles": "전생했더니 신입사원",
   "status": "Berjalan",
   "author": "Bamboo House, Mungjwi",
@@ -21,46 +21,58 @@
   "synopsis": "Manhwa                    Reincarnated as a New Employee yang dibuat oleh komikus bernama\n                    Bamboo House, Mungjwi ini bercerita tentang\n                    Chang Seok selaku ketua dari perusahaan Shinwoo Tech, ia meninggal dunia dan kembali hidup di tubuh seorang pria yang memiliki nama yang sama dengannya.",
   "chapters": [
     {
+      "chapter": "67",
+      "title": "Komik Reincarnated as a New Employee Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjcv",
+      "date": "30 menit yang lalu"
+    },
+    {
+      "chapter": "66",
+      "title": "Komik Reincarnated as a New Employee Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjYv",
+      "date": "30 menit yang lalu"
+    },
+    {
       "chapter": "65",
       "title": "Komik Reincarnated as a New Employee Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjUv",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Reincarnated as a New Employee Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjQv",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Reincarnated as a New Employee Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjMv",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Reincarnated as a New Employee Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjIv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Reincarnated as a New Employee Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjEv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Reincarnated as a New Employee Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNjAv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Reincarnated as a New Employee Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVpbmNhcm5hdGVkLWFzLWEtbmV3LWVtcGxveWVlLWNoYXB0ZXItNTkv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "58",
@@ -411,5 +423,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 65
+  "total_chapters": 67
 }

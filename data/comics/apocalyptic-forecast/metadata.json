@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-23T13:39:46.102897",
+  "scraped_at": "2026-08-25T10:27:51.941257",
   "alternative_titles": "Apocalypse Forecast, Tianqi Yubao, 天启预报",
   "status": "Berjalan",
   "author": "合火人工作室",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Apocalyptic Forecast yang dibuat oleh komikus bernama\n                    合火人工作室 ini bercerita tentang\n                    Hidup sepertinya tidak pernah berjalan sesuai keinginan Huai Shi. Tidak ada teman, tidak ada keluarga, tidak ada uang… Dia melamar pekerjaan sebagai musisi restoran, tapi ternyata iklan untuk gigolo! Ini bukan cara untuk karakter utama dengan cheat untuk hidup … Namun, ketika supernatural akhirnya mulai mengejar dia, dia mulai berharap itu tidak pernah terjadi.",
   "chapters": [
     {
+      "chapter": "35",
+      "title": "Komik Apocalyptic Forecast Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXBvY2FseXB0aWMtZm9yZWNhc3QtY2hhcHRlci0zNS8=",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "34",
       "title": "Komik Apocalyptic Forecast Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXBvY2FseXB0aWMtZm9yZWNhc3QtY2hhcHRlci0zNC8=",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "33",
@@ -234,5 +240,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 36
 }
