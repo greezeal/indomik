@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.16,
-  "scraped_at": "2026-08-25T10:25:50.060204",
+  "scraped_at": "2026-08-26T14:12:41.373999",
   "alternative_titles": "만렙 플레이어, Max Talent Player",
   "status": "Berjalan",
   "author": "Bichu, Nelpi",
@@ -27,52 +27,58 @@
   "synopsis": "Manhwa                    Max Level Player yang dibuat oleh komikus bernama\n                    Bichu, Nelpi ini bercerita tentang\n                    Game realitas virtual, Olympus.\r\n\r\nSarana untuk mendukung realitas setelah semua pengetahuan dan catatan yang dikumpulkan umat manusia menghilang dalam semalam.\r\n\r\n'Kehidupanku yang sebenarnya dimulai sekarang!'\r\n\r\nKejahatan absolut muncul di dunia seperti itu!",
   "chapters": [
     {
+      "chapter": "89",
+      "title": "Komik Max Level Player Chapter 89",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTg5Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "88",
       "title": "Komik Max Level Player Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTg4Lw==",
-      "date": "18 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik Max Level Player Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTg3Lw==",
-      "date": "18 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik Max Level Player Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTg2Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik Max Level Player Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTg1Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "84",
       "title": "Komik Max Level Player Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTg0Lw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik Max Level Player Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTgzLw==",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Max Level Player Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTgyLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik Max Level Player Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWF4LWxldmVsLXBsYXllci1jaGFwdGVyLTgxLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "80",
@@ -555,5 +561,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 88
+  "total_chapters": 89
 }
