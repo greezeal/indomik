@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-21T10:06:19.349859",
+  "scraped_at": "2026-08-28T11:19:25.802193",
   "alternative_titles": "7황자는 애매해서 탈출합니다, The Seventh Prince Escapes His Uncertain Fate",
   "status": "Berjalan",
   "author": "Fit, Geonjin",
@@ -20,46 +20,52 @@
   "synopsis": "Manhwa                    The Seventh Prince Wants to Bail yang dibuat oleh komikus bernama\n                    Fit, Geonjin ini bercerita tentang\n                    Di penghujung hari yang melelahkan, aku tiba-tiba berpindah ke dalam novel fantasi \"Dark Heather\" dengan rasa sakit yang hebat! Tapi… dari semua orang, aku adalah Pangeran ke-7 yang terkenal, ditakdirkan untuk dieksekusi dengan menyedihkan tiga tahun lagi?! Mulai sekarang, aku hanya punya satu tujuan: hidup bersembunyi sampai protagonis asli muncul, lalu diam-diam melarikan diri dari Kekaisaran. Namun, peristiwa dalam cerita aslinya meletus lebih cepat dari yang diperkirakan, dan operasi rahasia untuk 'membersihkan' dimulai, bergerak di antara Istana Kekaisaran dan gang-gang belakang.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik The Seventh Prince Wants to Bail Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xOS8=",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xOC8=",
-      "date": "35 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xNy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xNS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xNC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci0xMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -83,7 +89,7 @@
       "chapter": "8",
       "title": "Komik The Seventh Prince Wants to Bail Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXNldmVudGgtcHJpbmNlLXdhbnRzLXRvLWJhaWwtY2hhcHRlci04Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -128,5 +134,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }
