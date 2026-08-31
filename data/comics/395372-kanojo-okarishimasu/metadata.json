@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.34,
-  "scraped_at": "2026-06-16T12:44:34.732541",
+  "scraped_at": "2026-08-31T20:54:31.943668",
   "alternative_titles": "Alugar uma Namorada, Dia, Aku Pinjam, Dziewczyna do wynajęcia, Eu gostaria de alugar essa namorada, Gadis Itu [Akan] Kupinjam, I'd like to Borrow a Girlfriend, Ich würde mir gerne eine Freundin ausleihen, J'aimerais emprunter une petite amie, KanoKari, Kiralık Sevgili, Me gustaría alquilar una novia, Pacar Sewaan, Rent-A-Girlfriend, Rental Girlfriend, Vorrei noleggiare una ragazza, Девушка на прокат, Девушка на час, สะดุดรักยัยแฟนเช่า, かのかり, 女朋友、借我一下, 彼女、お借りします, 租借女友, 여친, 빌리겠습니다",
   "status": "Berjalan",
   "author": "Miyajima Reiji",
@@ -23,268 +23,352 @@
   "synopsis": "Manga                    Kanojo, Okarishimasu yang dibuat oleh komikus bernama\n                    Miyajima Reiji ini bercerita tentang\n                    Kinoshita Kazuya adalah seorang mahasiswa biasa yang baru saja dicampakkan oleh pacarnya untuk pria lain. Merasa sedih, dia memutuskan untuk menggunakan aplikasi bernama Diamond untuk mempekerjakan Mizuhara Chizuru, pacar sewaan, untuk membuat dirinya merasa lebih baik. Dari pertemuan pertama mereka, dia tampaknya menjadi gadis yang sempurna untuknya, tetapi apakah ada yang lebih dari yang terlihat? Dan bagaimana hubungan mereka yang tidak terlalu khas berkembang?",
   "chapters": [
     {
+      "chapter": "436",
+      "title": "Komik Kanojo, Okarishimasu Chapter 436",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQzNi8=",
+      "date": "57 menit yang lalu"
+    },
+    {
+      "chapter": "435",
+      "title": "Komik Kanojo, Okarishimasu Chapter 435",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQzNS8=",
+      "date": "57 menit yang lalu"
+    },
+    {
+      "chapter": "434",
+      "title": "Komik Kanojo, Okarishimasu Chapter 434",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQzNC8=",
+      "date": "57 menit yang lalu"
+    },
+    {
+      "chapter": "433",
+      "title": "Komik Kanojo, Okarishimasu Chapter 433",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQzMy8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "432",
+      "title": "Komik Kanojo, Okarishimasu Chapter 432",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQzMi8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "431",
+      "title": "Komik Kanojo, Okarishimasu Chapter 431",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQzMS8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "430",
+      "title": "Komik Kanojo, Okarishimasu Chapter 430",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQzMC8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "429",
+      "title": "Komik Kanojo, Okarishimasu Chapter 429",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyOS8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "428",
+      "title": "Komik Kanojo, Okarishimasu Chapter 428",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyOC8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "427",
+      "title": "Komik Kanojo, Okarishimasu Chapter 427",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyNy8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "426",
+      "title": "Komik Kanojo, Okarishimasu Chapter 426",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyNi8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "425",
+      "title": "Komik Kanojo, Okarishimasu Chapter 425",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyNS8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "424",
+      "title": "Komik Kanojo, Okarishimasu Chapter 424",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyNC8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "423",
+      "title": "Komik Kanojo, Okarishimasu Chapter 423",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyMy8=",
+      "date": "2 bulan yang lalu"
+    },
+    {
       "chapter": "422",
       "title": "Komik Kanojo, Okarishimasu Chapter 422",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyMi8=",
-      "date": "18 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "421",
       "title": "Komik Kanojo, Okarishimasu Chapter 421",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyMS8=",
-      "date": "24 jam yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "420",
       "title": "Komik Kanojo, Okarishimasu Chapter 420",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQyMC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "419",
       "title": "Komik Kanojo, Okarishimasu Chapter 419",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxOS8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "418",
       "title": "Komik Kanojo, Okarishimasu Chapter 418",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxOC8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "417",
       "title": "Komik Kanojo, Okarishimasu Chapter 417",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxNy8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "416",
       "title": "Komik Kanojo, Okarishimasu Chapter 416",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxNi8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "415",
       "title": "Komik Kanojo, Okarishimasu Chapter 415",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxNS8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "414",
       "title": "Komik Kanojo, Okarishimasu Chapter 414",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxNC8=",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "413",
       "title": "Komik Kanojo, Okarishimasu Chapter 413",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxMy8=",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "412",
       "title": "Komik Kanojo, Okarishimasu Chapter 412",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxMi8=",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "411",
       "title": "Komik Kanojo, Okarishimasu Chapter 411",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxMS8=",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "410",
       "title": "Komik Kanojo, Okarishimasu Chapter 410",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQxMC8=",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "409",
       "title": "Komik Kanojo, Okarishimasu Chapter 409",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwOS8=",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "408",
       "title": "Komik Kanojo, Okarishimasu Chapter 408",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwOC8=",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "407",
       "title": "Komik Kanojo, Okarishimasu Chapter 407",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwNy8=",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "406",
       "title": "Komik Kanojo, Okarishimasu Chapter 406",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwNi8=",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "405",
       "title": "Komik Kanojo, Okarishimasu Chapter 405",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwNS8=",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "404",
       "title": "Komik Kanojo, Okarishimasu Chapter 404",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwNC8=",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "403",
       "title": "Komik Kanojo, Okarishimasu Chapter 403",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwMy8=",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "402",
       "title": "Komik Kanojo, Okarishimasu Chapter 402",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwMi8=",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "401",
       "title": "Komik Kanojo, Okarishimasu Chapter 401",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwMS8=",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "400",
       "title": "Komik Kanojo, Okarishimasu Chapter 400",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTQwMC8=",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "399",
       "title": "Komik Kanojo, Okarishimasu Chapter 399",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5OS8=",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "398",
       "title": "Komik Kanojo, Okarishimasu Chapter 398",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5OC8=",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "397",
       "title": "Komik Kanojo, Okarishimasu Chapter 397",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5Ny8=",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "396",
       "title": "Komik Kanojo, Okarishimasu Chapter 396",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5Ni8=",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "395",
       "title": "Komik Kanojo, Okarishimasu Chapter 395",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5NS8=",
-      "date": "8 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "394",
       "title": "Komik Kanojo, Okarishimasu Chapter 394",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5NC8=",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "393",
       "title": "Komik Kanojo, Okarishimasu Chapter 393",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5My8=",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "392",
       "title": "Komik Kanojo, Okarishimasu Chapter 392",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5Mi8=",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "391",
       "title": "Komik Kanojo, Okarishimasu Chapter 391",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5MS8=",
-      "date": "9 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "390",
       "title": "Komik Kanojo, Okarishimasu Chapter 390",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM5MC8=",
-      "date": "9 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "389",
       "title": "Komik Kanojo, Okarishimasu Chapter 389",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4OS8=",
-      "date": "9 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "388",
       "title": "Komik Kanojo, Okarishimasu Chapter 388",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4OC8=",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "387",
       "title": "Komik Kanojo, Okarishimasu Chapter 387",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4Ny8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "386",
       "title": "Komik Kanojo, Okarishimasu Chapter 386",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4Ni8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "385",
       "title": "Komik Kanojo, Okarishimasu Chapter 385",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4NS8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "384",
       "title": "Komik Kanojo, Okarishimasu Chapter 384",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4NC8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "383",
       "title": "Komik Kanojo, Okarishimasu Chapter 383",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4My8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "382",
       "title": "Komik Kanojo, Okarishimasu Chapter 382",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4Mi8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "381",
       "title": "Komik Kanojo, Okarishimasu Chapter 381",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4MS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "380",
       "title": "Komik Kanojo, Okarishimasu Chapter 380",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM4MC8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "379",
       "title": "Komik Kanojo, Okarishimasu Chapter 379",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM3OS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "378",
@@ -428,181 +512,181 @@
       "chapter": "355",
       "title": "Komik Kanojo, Okarishimasu Chapter 355",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM1NS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "354",
       "title": "Komik Kanojo, Okarishimasu Chapter 354",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM1NC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "353",
       "title": "Komik Kanojo, Okarishimasu Chapter 353",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM1My8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "352",
       "title": "Komik Kanojo, Okarishimasu Chapter 352",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM1Mi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "351",
       "title": "Komik Kanojo, Okarishimasu Chapter 351",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM1MS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "350",
       "title": "Komik Kanojo, Okarishimasu Chapter 350",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM1MC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "349",
       "title": "Komik Kanojo, Okarishimasu Chapter 349",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0OS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "348",
       "title": "Komik Kanojo, Okarishimasu Chapter 348",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0OC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "347",
       "title": "Komik Kanojo, Okarishimasu Chapter 347",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0Ny8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "346",
       "title": "Komik Kanojo, Okarishimasu Chapter 346",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0Ni8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "345",
       "title": "Komik Kanojo, Okarishimasu Chapter 345",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0NS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "344",
       "title": "Komik Kanojo, Okarishimasu Chapter 344",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0NC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "343",
       "title": "Komik Kanojo, Okarishimasu Chapter 343",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0My8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "342",
       "title": "Komik Kanojo, Okarishimasu Chapter 342",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0Mi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "341",
       "title": "Komik Kanojo, Okarishimasu Chapter 341",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0MS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "340",
       "title": "Komik Kanojo, Okarishimasu Chapter 340",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTM0MC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "339",
       "title": "Komik Kanojo, Okarishimasu Chapter 339",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzOS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "338",
       "title": "Komik Kanojo, Okarishimasu Chapter 338",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzOC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "337",
       "title": "Komik Kanojo, Okarishimasu Chapter 337",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzNy8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "336",
       "title": "Komik Kanojo, Okarishimasu Chapter 336",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzNi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "335",
       "title": "Komik Kanojo, Okarishimasu Chapter 335",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzNS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "334",
       "title": "Komik Kanojo, Okarishimasu Chapter 334",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzNC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "333",
       "title": "Komik Kanojo, Okarishimasu Chapter 333",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzMy8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "332",
       "title": "Komik Kanojo, Okarishimasu Chapter 332",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzMi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "331",
       "title": "Komik Kanojo, Okarishimasu Chapter 331",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzMS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "330",
       "title": "Komik Kanojo, Okarishimasu Chapter 330",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMzMC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "329",
       "title": "Komik Kanojo, Okarishimasu Chapter 329",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMyOS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "328",
       "title": "Komik Kanojo, Okarishimasu Chapter 328",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMyOC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "327",
       "title": "Komik Kanojo, Okarishimasu Chapter 327",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMyNy8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "326",
       "title": "Komik Kanojo, Okarishimasu Chapter 326",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMyNi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "325",
@@ -752,49 +836,49 @@
       "chapter": "300",
       "title": "Komik Kanojo, Okarishimasu Chapter 300",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTMwMC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "299",
       "title": "Komik Kanojo, Okarishimasu Chapter 299",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI5OS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "298",
       "title": "Komik Kanojo, Okarishimasu Chapter 298",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI5OC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "297",
       "title": "Komik Kanojo, Okarishimasu Chapter 297",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI5Ny8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "296",
       "title": "Komik Kanojo, Okarishimasu Chapter 296",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI5Ni8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "295",
       "title": "Komik Kanojo, Okarishimasu Chapter 295",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI5NS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "294",
       "title": "Komik Kanojo, Okarishimasu Chapter 294",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI5NC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "293",
       "title": "Komik Kanojo, Okarishimasu Chapter 293",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI5My8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "292",
@@ -1064,19 +1148,19 @@
       "chapter": "248",
       "title": "Komik Kanojo, Okarishimasu Chapter 248",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI0OC8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "247",
       "title": "Komik Kanojo, Okarishimasu Chapter 247",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI0Ny8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "246",
       "title": "Komik Kanojo, Okarishimasu Chapter 246",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTI0Ni8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "245",
@@ -1208,49 +1292,49 @@
       "chapter": "224",
       "title": "Komik Kanojo, Okarishimasu Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIyNC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik Kanojo, Okarishimasu Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIyMy8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "222",
       "title": "Komik Kanojo, Okarishimasu Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIyMi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "221",
       "title": "Komik Kanojo, Okarishimasu Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIyMS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "220",
       "title": "Komik Kanojo, Okarishimasu Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIyMC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "219",
       "title": "Komik Kanojo, Okarishimasu Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIxOS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "218",
       "title": "Komik Kanojo, Okarishimasu Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIxOC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "217",
       "title": "Komik Kanojo, Okarishimasu Chapter 217",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTIxNy8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "216",
@@ -1496,55 +1580,55 @@
       "chapter": "177",
       "title": "Komik Kanojo, Okarishimasu Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3Ny8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "176",
       "title": "Komik Kanojo, Okarishimasu Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3Ni8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "175",
       "title": "Komik Kanojo, Okarishimasu Chapter 175",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3NS8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "174",
       "title": "Komik Kanojo, Okarishimasu Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3NC8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "173",
       "title": "Komik Kanojo, Okarishimasu Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3My8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "172",
       "title": "Komik Kanojo, Okarishimasu Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3Mi8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik Kanojo, Okarishimasu Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3MS8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "170",
       "title": "Komik Kanojo, Okarishimasu Chapter 170",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE3MC8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "169",
       "title": "Komik Kanojo, Okarishimasu Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW9rYXJpc2hpbWFzdS1jaGFwdGVyLTE2OS8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "168",
@@ -2573,5 +2657,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 425
+  "total_chapters": 439
 }

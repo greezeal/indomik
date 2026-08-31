@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-23T08:56:18.549362",
+  "scraped_at": "2026-08-31T20:48:56.389778",
   "alternative_titles": "좋은 하루 보내",
   "status": "Berjalan",
   "author": "Hangu",
@@ -19,41 +19,47 @@
   "synopsis": "Manhwa                    Have a Good Day yang dibuat oleh komikus bernama\n                    Hangu ini bercerita tentang\n                    Haru adalah seorang siswa SMA yang ditakdirkan untuk menjalani hidup kesepian karena dosa dari kehidupan masa lalunya. Hidup sendirian tanpa keluarga atau teman, Haru dikunjungi oleh seorang siswa pindahan yang mencurigakan. Tepat ketika keduanya, yang sama-sama tidak memiliki teman, hendak menjadi lebih dekat, rahasia siswa pindahan itu malah terbongkar... Akankah keduanya mampu berteman?",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Have a Good Day Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF2ZS1hLWdvb2QtZGF5LWNoYXB0ZXItNy8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Have a Good Day Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF2ZS1hLWdvb2QtZGF5LWNoYXB0ZXItNi8=",
-      "date": "15 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Have a Good Day Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF2ZS1hLWdvb2QtZGF5LWNoYXB0ZXItNS8=",
-      "date": "3 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Have a Good Day Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF2ZS1hLWdvb2QtZGF5LWNoYXB0ZXItNC8=",
-      "date": "3 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Have a Good Day Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF2ZS1hLWdvb2QtZGF5LWNoYXB0ZXItMy8=",
-      "date": "3 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Have a Good Day Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF2ZS1hLWdvb2QtZGF5LWNoYXB0ZXItMi8=",
-      "date": "3 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Have a Good Day Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGF2ZS1hLWdvb2QtZGF5LWNoYXB0ZXItMS8=",
-      "date": "3 hari yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }
