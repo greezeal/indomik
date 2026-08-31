@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.32,
-  "scraped_at": "2026-08-25T16:15:32.589521",
+  "scraped_at": "2026-08-31T15:09:00.500650",
   "alternative_titles": "Kaya-chan isn't scary, カヤちゃんはコワくない",
   "status": "Berjalan",
   "author": "Yuri Tarou",
@@ -24,22 +24,52 @@
   "synopsis": "Manga                    Kaya-chan wa Kowakunai yang dibuat oleh komikus bernama\n                    Yuri Tarou ini bercerita tentang\n                    Kaya-chan adalah anak bermasalah yang terkenal di taman kanak-kanak. Namun, ketika Chie-sensei ditugaskan untuk menjaganya, dia mengetahui bahwa Kaya memiliki kemampuan... Mempersembahkan kepada Anda, serial aksi horor terkuat di taman kanak-kanak!!",
   "chapters": [
     {
+      "chapter": "45",
+      "title": "Komik Kaya-chan wa Kowakunai Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQ1Lw==",
+      "date": "33 menit yang lalu"
+    },
+    {
+      "chapter": "44.5",
+      "title": "Komik Kaya-chan wa Kowakunai Chapter 44.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQ0LTUv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "44",
+      "title": "Komik Kaya-chan wa Kowakunai Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQ0Lw==",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Kaya-chan wa Kowakunai Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQzLw==",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Kaya-chan wa Kowakunai Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQyLw==",
+      "date": "4 hari yang lalu"
+    },
+    {
       "chapter": "41",
       "title": "Komik Kaya-chan wa Kowakunai Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQxLw==",
-      "date": "59 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Kaya-chan wa Kowakunai Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTQwLw==",
-      "date": "7 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Kaya-chan wa Kowakunai Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTM5Lw==",
-      "date": "7 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "38",
@@ -75,13 +105,13 @@
       "chapter": "33",
       "title": "Komik Kaya-chan wa Kowakunai Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTMzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Kaya-chan wa Kowakunai Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2F5YS1jaGFuLXdhLWtvd2FrdW5haS1jaGFwdGVyLTMyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "31",
@@ -270,5 +300,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 41
+  "total_chapters": 46
 }

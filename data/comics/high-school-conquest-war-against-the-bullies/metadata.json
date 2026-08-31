@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.15,
-  "scraped_at": "2026-08-30T22:45:53.399101",
+  "scraped_at": "2026-08-31T15:09:43.881785",
   "alternative_titles": "High School Conquest: The Battle Against the Bullies, 고교정벌 : 일진과의 전쟁",
   "status": "Berjalan",
   "author": "Pyo",
@@ -22,10 +22,16 @@
   "synopsis": "Manhwa                    High School Conquest: War Against the Bullies yang dibuat oleh komikus bernama\n                    Pyo ini bercerita tentang\n                    Putra pemimpin organisasi pembunuh bayaran papan atas dunia, Doyul, telah pindah ke sekolah menengah Korea!\r\n\r\nDatang tanpa membawa apa pun, Doyul menerima permintaan dari Dong-gu, korban perundungan di sekolah, dan mulai mengalahkan para berandalan setempat satu per satu?!\r\n\r\nKisah seorang pria yang bangkit menjadi yang terkuat di jagat War Against Bullies!",
   "chapters": [
     {
+      "chapter": "65",
+      "title": "Komik High School Conquest: War Against the Bullies Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1zY2hvb2wtY29ucXVlc3Qtd2FyLWFnYWluc3QtdGhlLWJ1bGxpZXMtY2hhcHRlci02NS8=",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "64",
       "title": "Komik High School Conquest: War Against the Bullies Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1zY2hvb2wtY29ucXVlc3Qtd2FyLWFnYWluc3QtdGhlLWJ1bGxpZXMtY2hhcHRlci02NC8=",
-      "date": "4 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "63",
@@ -406,5 +412,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 64
+  "total_chapters": 65
 }

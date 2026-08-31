@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-17T15:00:30.846002",
+  "scraped_at": "2026-08-31T15:01:30.819451",
   "alternative_titles": "The Man Who Vowed Revenge on His Demon Wife, おっさん、鬼嫁への復讐を誓う",
   "status": "Berjalan",
   "author": "NOBENO Masayuki",
@@ -19,41 +19,53 @@
   "synopsis": "Manga                    The Old Man Vows Revenge Against His Demon Wife yang dibuat oleh komikus bernama\n                    NOBENO Masayuki ini bercerita tentang\n                    Tujuh puluh tahun yang lalu, ruang bawah tanah tiba-tiba terbuka di seluruh dunia. Di dalamnya, [Mana] ditemukan — zat yang secara dramatis mempercepat evolusi manusia.\r\n\r\nSuatu hari, protagonis Seishirou menyelamatkan seorang wanita di dalam ruang bawah tanah. Wanita itu ternyata adalah seorang \"Oni\" — makhluk kelas khusus yang memiliki mana tingkat tinggi. Tak lama kemudian, keduanya menjadi jembatan yang menghubungkan \"manusia\" dan \"Oni\".\r\n\r\n...Saat itu, ia tidak menyadari bahwa wanita inilah yang suatu hari akan mengkhianatinya dan mengambil segalanya darinya.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci04Lw==",
+      "date": "2 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci03Lw==",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci02Lw==",
-      "date": "3 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci01Lw==",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci00Lw==",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci0zLw==",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci0yLw==",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Old Man Vows Revenge Against His Demon Wife Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9sZC1tYW4tdm93cy1yZXZlbmdlLWFnYWluc3QtaGlzLWRlbW9uLXdpZmUtY2hhcHRlci0xLw==",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 8
 }
