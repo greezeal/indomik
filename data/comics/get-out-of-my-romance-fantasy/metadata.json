@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-01T00:12:59.319538",
+  "scraped_at": "2026-09-02T23:39:07.608533",
   "alternative_titles": "내 로판에서 꺼져",
   "status": "Berjalan",
   "author": "Mujirong",
@@ -19,47 +19,59 @@
   "synopsis": "Manhwa                    Get Out of My Romance Fantasy yang dibuat oleh komikus bernama\n                    Mujirong ini bercerita tentang\n                    Sebuah dunia yang terjebak dalam lingkaran waktu yang berulang setiap tahun.\r\n\r\nTidak peduli apa yang terjadi—apakah Anda menikah atau menjadi kaya—semuanya kembali seperti semula setelah satu tahun.\r\n\r\nAileen, yang telah bereinkarnasi ke dalam novel fantasi romantis, mencari tokoh utama aslinya, Delia, dalam upaya untuk memutus pengulangan lingkaran waktu yang ke-100. Sejak merasuki tubuh Aileen, selalu ada satu hal yang tidak dapat ia mengerti: bagaimana mungkin tokoh utama yang sempurna, Delia, tiba-tiba menjadi penyendiri? Percaya bahwa perubahan Delia adalah penyebab lingkaran waktu, Aileen memutuskan untuk menikahkan Delia dengan tokoh utama pria, Bennett, seperti dalam cerita aslinya. Tetapi kemudian ia menemukan sesuatu yang sama sekali tidak terduga... Bennett telah dirasuki oleh mantan pacar Aileen?!\r\n\r\nAkankah Aileen berhasil menikahkan mereka berdua dan akhirnya lolos dari lingkaran waktu yang tak berujung?",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Get Out of My Romance Fantasy Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci04Lw==",
+      "date": "47 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Get Out of My Romance Fantasy Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci03Lw==",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Get Out of My Romance Fantasy Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci02Lw==",
-      "date": "56 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Get Out of My Romance Fantasy Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci01Lw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Get Out of My Romance Fantasy Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci00Lw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Get Out of My Romance Fantasy Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci0zLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Get Out of My Romance Fantasy Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci0yLw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Get Out of My Romance Fantasy Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci0xLw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "0",
       "title": "Komik Get Out of My Romance Fantasy Chapter 0",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2V0LW91dC1vZi1teS1yb21hbmNlLWZhbnRhc3ktY2hhcHRlci0wLw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 9
 }
