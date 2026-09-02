@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-26T07:31:07.849394",
+  "scraped_at": "2026-09-02T05:59:07.848638",
   "alternative_titles": "멸귀수도전",
   "status": "Berjalan",
   "author": "LEE Sanchaek, Yeon Woo Sol",
@@ -24,34 +24,40 @@
   "synopsis": "Manhwa                    Chronicles Of The Demon-Slaying Cultivator yang dibuat oleh komikus bernama\n                    LEE Sanchaek, Yeon Woo Sol ini bercerita tentang\n                    Setelah dengan kejam mengeksekusi hantu-hantu jahat yang membunuh orang tuanya, seorang anak laki-laki bernama Lee-se dicap sebagai monster oleh desanya. Setelah kehilangan semua keterikatan pada kehidupan, Lee-se bertemu dengan Mong-ryeon, seorang goblin dan pemburu hantu, dan mengadopsi tujuan baru: untuk membasmi semua hantu dari dunia. Saat mereka mulai hidup bersama, Mong-ryeon menemukan sifat unik dalam diri Lee-se dan mengirimnya ke 'Daemudo,' sebuah sekte kultivasi yang dikenal sebagai algojo dunia kultivasi.",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Chronicles Of The Demon-Slaying Cultivator Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tc2xheWluZy1jdWx0aXZhdG9yLWNoYXB0ZXItMTIv",
+      "date": "6 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Chronicles Of The Demon-Slaying Cultivator Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tc2xheWluZy1jdWx0aXZhdG9yLWNoYXB0ZXItMTEv",
-      "date": "26 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Chronicles Of The Demon-Slaying Cultivator Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tc2xheWluZy1jdWx0aXZhdG9yLWNoYXB0ZXItMTAv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Chronicles Of The Demon-Slaying Cultivator Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tc2xheWluZy1jdWx0aXZhdG9yLWNoYXB0ZXItOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Chronicles Of The Demon-Slaying Cultivator Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tc2xheWluZy1jdWx0aXZhdG9yLWNoYXB0ZXItOC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Chronicles Of The Demon-Slaying Cultivator Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hyb25pY2xlcy1vZi10aGUtZGVtb24tc2xheWluZy1jdWx0aXZhdG9yLWNoYXB0ZXItNy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -90,5 +96,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }

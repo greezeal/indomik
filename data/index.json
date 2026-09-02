@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T01:18:33.018522",
-  "total_comics": 2210,
+  "last_updated": "2026-09-02T06:04:26.283035",
+  "total_comics": 2212,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -176,7 +176,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 119
+      "total_chapters": 122
     },
     {
       "slug": "iron-ladies",
@@ -2920,7 +2920,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 135
+      "total_chapters": 137
     },
     {
       "slug": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
@@ -7480,7 +7480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 197
+      "total_chapters": 198
     },
     {
       "slug": "a-weary-child-looks-for-his-father",
@@ -8856,7 +8856,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "red-shirt",
@@ -8928,7 +8928,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "mayaka-neesan-wa-uso-ga-tsukenai",
@@ -12480,7 +12480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.85,
-      "total_chapters": 43
+      "total_chapters": 50
     },
     {
       "slug": "chrono-labyrinth",
@@ -13352,7 +13352,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 26
     },
     {
       "slug": "grand-duchesss-constitution",
@@ -13384,7 +13384,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 101
+      "total_chapters": 104
     },
     {
       "slug": "the-return-of-the-star-player",
@@ -14240,7 +14240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 14
     },
     {
       "slug": "necromancer-becoming-a-god-starting-with-skeleton-clone",
@@ -15064,7 +15064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "return-of-the-adopted-child-in-a-world-of-bloodline-supremacy",
@@ -16112,7 +16112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.35,
-      "total_chapters": 51
+      "total_chapters": 53
     },
     {
       "slug": "now-its-your-turn-to-regret",
@@ -16560,7 +16560,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 21
     },
     {
       "slug": "100-days-of-nahong",
@@ -17008,7 +17008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "hakkou-shounen-no-shiawase-na-majutsu-kakumei",
@@ -17681,6 +17681,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 5
+    },
+    {
+      "slug": "the-secret-that-made-you-cry",
+      "title": "The Secret That Made You Cry",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "the-real-daughter-she-is-an-almighty-boss",
+      "title": "The Real Daughter, She Is an Almighty Boss",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 197
     }
   ]
 }
