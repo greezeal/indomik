@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.75,
-  "scraped_at": "2026-09-01T00:13:06.756564",
+  "scraped_at": "2026-09-02T11:10:38.768513",
   "alternative_titles": "Foresighting Investor, Prescient Investor, 미래를 보는 투자자",
   "status": "Berjalan",
   "author": "Pine,Hedge",
@@ -24,10 +24,22 @@
   "synopsis": "Manhwa                    The Investor Who Sees The Future yang dibuat oleh komikus bernama\n                    Pine,Hedge ini bercerita tentang\n                    Setelah mengalami kecelakaan di militer, tokoh utama Kang Jinhu memperoleh kemampuan untuk meramal masa depan. Ia memutuskan untuk menggunakan kemampuan ini untuk berinvestasi di berbagai perusahaan dan menghasilkan uang, dengan tujuan menjadi investor nomor satu di dunia. Sejauh mana batas-batas kejeliannya? Di luar investasi, ia menyentuh ekonomi, politik, perusahaan, dan bahkan urusan global. Mulai sekarang, ia membentuk kembali dunia keuangan!",
   "chapters": [
     {
+      "chapter": "104",
+      "title": "Komik The Investor Who Sees The Future Chapter 104",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmVzdG9yLXdoby1zZWVzLXRoZS1mdXR1cmUtY2hhcHRlci0xMDQv",
+      "date": "3 menit yang lalu"
+    },
+    {
+      "chapter": "103",
+      "title": "Komik The Investor Who Sees The Future Chapter 103",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmVzdG9yLXdoby1zZWVzLXRoZS1mdXR1cmUtY2hhcHRlci0xMDMv",
+      "date": "19 jam yang lalu"
+    },
+    {
       "chapter": "102",
       "title": "Komik The Investor Who Sees The Future Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmVzdG9yLXdoby1zZWVzLXRoZS1mdXR1cmUtY2hhcHRlci0xMDIv",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "101",
@@ -636,5 +648,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 102
+  "total_chapters": 104
 }

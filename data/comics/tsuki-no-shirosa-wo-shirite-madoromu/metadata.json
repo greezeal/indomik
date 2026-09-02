@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.22,
-  "scraped_at": "2026-07-27T17:13:52.585037",
+  "scraped_at": "2026-09-02T11:10:34.321999",
   "alternative_titles": "月の白さを知りてまどろむ, Tsuki no Shirosa wo Shirite Madoromu, Tsuki No Shiro Sa Wo Shirite Madoromu",
   "status": "Berjalan",
   "author": "Furumiya Kuji",
@@ -25,46 +25,52 @@
   "synopsis": "Manga                    Tsuki no Shirosa wo Shirite Madoromu yang dibuat oleh komikus bernama\n                    Furumiya Kuji ini bercerita tentang\n                    Di rumah bordil tertua yang meneruskan mitos tersebut, kisah cinta canggung dimulai di mana dipilihlah “satu-satunya dalam seumur hidup”.",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItMTIv",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItMTEv",
-      "date": "3 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItMTAv",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItOC8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItNy8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItNi8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Tsuki no Shirosa wo Shirite Madoromu Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tc2hpcm9zYS13by1zaGlyaXRlLW1hZG9yb211LWNoYXB0ZXItNS8=",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "4",
@@ -91,5 +97,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }
