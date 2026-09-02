@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-15T22:18:45.983248",
+  "scraped_at": "2026-09-02T15:13:12.469510",
   "alternative_titles": "よって、初恋は証明された。-デルタとガンマの理学部ノート-, Vì vậy, mối tình đầu đã được chứng minh. - Sổ tay khoa học của Delta và Gamma -, The Science Notes of Delta and Gamma",
   "status": "Berjalan",
   "author": "Sakai Takuma",
@@ -24,29 +24,35 @@
   "synopsis": "Manga                    Yotte, Hatsukoi wa Shoumei sareta. Delta to Gamma no Rigakubu Note yang dibuat oleh komikus bernama\n                    Sakai Takuma ini bercerita tentang\n                    Serial ini mengikuti kisah Sho Izuta, seorang siswa kelas satu di SMA Tsuna Nagai, sekolah yang terkenal karena fokusnya pada ilmu pengetahuan. Ia juga berupaya menghidupkan kembali Klub Biologi sekolah. Ia terlibat dengan teman sekelasnya, Rio Iwama, setelah keduanya memutuskan untuk menyelidiki misteri terkait legenda populer di sekolah. Menurut legenda, siswa yang menyaksikan dua pohon sakura di dekat sekolah membentuk bentuk hati akan menjadi pasangan. Namun, setelah tersebar kabar bahwa tidak ada yang melihat bentuk hati tersebut akhir-akhir ini, keduanya memutuskan untuk menyelidiki lebih lanjut. Keduanya, bersama dengan anggota Klub Biologi lainnya, juga tertarik pada misteri sekolah, dan berupaya memecahkannya dengan menggunakan metode ilmiah.",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Yotte, Hatsukoi wa Shoumei sareta. Delta to Gamma no Rigakubu Note Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90dGUtaGF0c3Vrb2ktd2Etc2hvdW1laS1zYXJldGEtZGVsdGEtdG8tZ2FtbWEtbm8tcmlnYWt1YnUtbm90ZS1jaGFwdGVyLTUv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Yotte, Hatsukoi wa Shoumei sareta. Delta to Gamma no Rigakubu Note Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90dGUtaGF0c3Vrb2ktd2Etc2hvdW1laS1zYXJldGEtZGVsdGEtdG8tZ2FtbWEtbm8tcmlnYWt1YnUtbm90ZS1jaGFwdGVyLTQv",
-      "date": "3 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Yotte, Hatsukoi wa Shoumei sareta. Delta to Gamma no Rigakubu Note Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90dGUtaGF0c3Vrb2ktd2Etc2hvdW1laS1zYXJldGEtZGVsdGEtdG8tZ2FtbWEtbm8tcmlnYWt1YnUtbm90ZS1jaGFwdGVyLTMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Yotte, Hatsukoi wa Shoumei sareta. Delta to Gamma no Rigakubu Note Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90dGUtaGF0c3Vrb2ktd2Etc2hvdW1laS1zYXJldGEtZGVsdGEtdG8tZ2FtbWEtbm8tcmlnYWt1YnUtbm90ZS1jaGFwdGVyLTIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Yotte, Hatsukoi wa Shoumei sareta. Delta to Gamma no Rigakubu Note Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW90dGUtaGF0c3Vrb2ktd2Etc2hvdW1laS1zYXJldGEtZGVsdGEtdG8tZ2FtbWEtbm8tcmlnYWt1YnUtbm90ZS1jaGFwdGVyLTEv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

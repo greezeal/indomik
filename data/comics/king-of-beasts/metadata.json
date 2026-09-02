@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-31T15:08:09.280099",
+  "scraped_at": "2026-09-02T15:08:53.764021",
   "alternative_titles": "The King of Beasts, 百兽之王, 覇王兵士、復讐する",
   "status": "Berjalan",
   "author": "Dorlag Culture",
@@ -19,59 +19,71 @@
   "synopsis": "Manhua                    King of Beasts yang dibuat oleh komikus bernama\n                    Dorlag Culture ini bercerita tentang\n                    Dikhianati dan terbunuh selama misi rahasia, prajurit elit Mu Ye diberi kesempatan kedua—terlahir kembali dalam tubuh seorang anak laki-laki yang lemah dan sering ditindas.\r\n\r\nDengan sumpah untuk menjadi lebih kuat dan mengungkap pengkhianat dari masa lalunya, Mu Ye memulai kehidupan baru yang didorong oleh dendam… dan perjuangan untuk keadilan.",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik King of Beasts Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci0xMS8=",
+      "date": "12 menit yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik King of Beasts Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci0xMC8=",
+      "date": "21 jam yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik King of Beasts Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci05Lw==",
-      "date": "25 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik King of Beasts Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci04Lw==",
-      "date": "23 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik King of Beasts Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci03Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik King of Beasts Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci02Lw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik King of Beasts Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci01Lw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik King of Beasts Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci00Lw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik King of Beasts Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci0zLw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik King of Beasts Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci0yLw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik King of Beasts Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1vZi1iZWFzdHMtY2hhcHRlci0xLw==",
-      "date": "4 hari yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 11
 }
