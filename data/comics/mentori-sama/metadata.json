@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-16T13:41:33.088647",
+  "scraped_at": "2026-09-04T06:13:00.311486",
   "alternative_titles": "めんとりさま",
   "status": "Berjalan",
   "author": "Camry",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Mentori-Sama yang dibuat oleh komikus bernama\n                    Camry ini bercerita tentang\n                    Liburan musim panas di tahun ketiga kuliahku. Sebuah rumah pedesaan yang sangat panas. Sebuah gudang gelap yang tidak boleh dimasuki.Nenekku terus menggumamkan hal yang sama berulang-ulang: ‘Mentori-sama sedang mengawasi.’Tapi tidak apa-apa karena aku punya kakak perempuanku.Sebuah kisah horor rakyat yang mencekam tentang ikatan darah dan adat istiadat yang terkubur pun dimulai.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Mentori-Sama Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItOS8=",
+      "date": "13 jam yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Mentori-Sama Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVudG9yaS1zYW1hLWNoYXB0ZXItOC8=",
-      "date": "25 menit yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "7",
@@ -71,5 +77,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }
