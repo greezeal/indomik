@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-01T00:10:27.251975",
+  "scraped_at": "2026-09-05T09:24:25.190500",
   "alternative_titles": "th Class Sword Master: The Guardian of the Sword, 9클래스 소드 마스터 : 검의 구도자",
   "status": "Berjalan",
   "author": "ARC, Lee Hyeong-seok, Yoon So-ham",
@@ -23,10 +23,40 @@
   "synopsis": "Manhwa                    9th Class Sword Master yang dibuat oleh komikus bernama\n                    ARC, Lee Hyeong-seok, Yoon So-ham ini bercerita tentang\n                    Tahun 237 Kalender Kekaisaran.\r\nPada akhir ‘perang Trust’ untuk melindungi umat manusia dari ‘Korupsi’ yang merajalela…\r\nSang Sword Saint, Karryl McGovern, dihadapkan dengan pengkhianatan oleh Oliver, yang merupakan teman baiknya sekalligus Kaisar dari negara di mana dia mengabdikan dirinya.\r\nSetelah membunuh sang Kaisar, Karryl kembali ke masa lalu untuk memperbaiki semua yang terjadi.\r\nDan kini, aku mendapatkan kekuatan yang tidak pernah kudapatkan di kehidupanku sebelumnya, yakni Sihir dan Swordmanship.\r\nAku akan mengubah masa depan dengan kedua kemampuan ini!",
   "chapters": [
     {
+      "chapter": "51",
+      "title": "Komik 9th Class Sword Master Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTUxLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "50",
+      "title": "Komik 9th Class Sword Master Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTUwLw==",
+      "date": "18 jam yang lalu"
+    },
+    {
+      "chapter": "49",
+      "title": "Komik 9th Class Sword Master Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTQ5Lw==",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik 9th Class Sword Master Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTQ4Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik 9th Class Sword Master Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTQ3Lw==",
+      "date": "4 hari yang lalu"
+    },
+    {
       "chapter": "46",
       "title": "Komik 9th Class Sword Master Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTQ2Lw==",
-      "date": "24 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "45",
@@ -38,13 +68,13 @@
       "chapter": "44",
       "title": "Komik 9th Class Sword Master Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTQ0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik 9th Class Sword Master Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOXRoLWNsYXNzLXN3b3JkLW1hc3Rlci1jaGFwdGVyLTQzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "42",
@@ -299,5 +329,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 46
+  "total_chapters": 51
 }
