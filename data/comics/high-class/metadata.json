@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-04T06:14:33.491397",
+  "scraped_at": "2026-09-05T18:17:45.992160",
   "alternative_titles": "하이클래스",
   "status": "Berjalan",
   "author": "BakMansa, Leuti",
@@ -22,34 +22,52 @@
   "synopsis": "Manhwa                    High Class yang dibuat oleh komikus bernama\n                    BakMansa, Leuti ini bercerita tentang\n                    Wang Dokpil, bos Jeolhwa, organisasi terbesar di Chungcheong, dan putranya, Wang Dam. Setelah ayahnya meninggal, Wang Dam memiliki mimpi yang berbeda selain mewarisi organisasi ayahnya dan memutuskan untuk pergi ke Seoul atas kemauannya sendiri. Namun hidup tidak sesederhana itu, seperti yang dibayangkannya, pamannya, yang merupakan anggota organisasi tersebut, mengajukan syarat bahwa jika Wang Dam menjadi siswa nomor 1 di sekolah barunya, ia akan menerima tunjangan hidup. Namun, sekolah baru Wang Dam, yang dikenal sebagai SMA Ppak, terkenal dengan kekerasan di sekolahnya. Bisakah Wang Dam menjadi siswa nomor 1 di SMA Ppak, yang penuh dengan pembuat onar terburuk di negara ini?",
   "chapters": [
     {
+      "chapter": "85",
+      "title": "Komik High Class Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTg1Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik High Class Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTg0Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "83",
+      "title": "Komik High Class Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTgzLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "82",
       "title": "Komik High Class Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTgyLw==",
-      "date": "13 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik High Class Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTgxLw==",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik High Class Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTgwLw==",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik High Class Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTc5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik High Class Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTc4Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "77",
@@ -133,7 +151,7 @@
       "chapter": "64",
       "title": "Komik High Class Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTY0Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "63",
@@ -379,13 +397,13 @@
       "chapter": "23",
       "title": "Komik High Class Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTIzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik High Class Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1jbGFzcy1jaGFwdGVyLTIyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "21",
@@ -520,5 +538,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 83
+  "total_chapters": 86
 }
