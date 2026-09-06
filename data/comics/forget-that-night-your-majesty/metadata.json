@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-05T18:12:14.742171",
+  "scraped_at": "2026-09-06T04:33:29.948257",
   "alternative_titles": "Bệ Hạ, Xin Hãy Quên Tôi Đi, Forget That Night, Your Majesty, Heika Watashi wo Wasurete Kudasai, Ваше Величество, забудьте меня, 陛下わたしを忘れてください, 폐하, 저를 잊어주세요",
   "status": "Berjalan",
   "author": "ASAHI Maasa",
@@ -20,10 +20,16 @@
   "synopsis": "Manga                    Forget That Night, Your Majesty yang dibuat oleh komikus bernama\n                    ASAHI Maasa ini bercerita tentang\n                    Terlahir sebagai putri yang dibenci dari keluarga bangsawan, Lunia lolos dari nasib buruknya dengan menikahi Adipati terkutuk, Hades Khronoa. Namun setelah satu malam tanpa cinta, dia menghilang tanpa jejak, tanpa menyadari bahwa dia mengandung anak-anak Hades. Tujuh tahun kemudian, Hades bertekad untuk merebut kembali Lunia dan menemukannya, serta anak-anak yang tidak pernah dia ketahui keberadaannya. Saat rahasia terungkap dan emosi kembali menyala, dapatkah pasangan yang retak ini mengurai masa lalu dan menghadapi masa depan bersama?",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Forget That Night, Your Majesty Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9yZ2V0LXRoYXQtbmlnaHQteW91ci1tYWplc3R5LWNoYXB0ZXItMTEv",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Forget That Night, Your Majesty Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9yZ2V0LXRoYXQtbmlnaHQteW91ci1tYWplc3R5LWNoYXB0ZXItMTAv",
-      "date": "2 jam yang lalu"
+      "date": "5 jam yang lalu"
     },
     {
       "chapter": "9",
@@ -80,5 +86,5 @@
       "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

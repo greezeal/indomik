@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-02T23:39:14.815720",
+  "scraped_at": "2026-09-06T04:34:54.321512",
   "alternative_titles": "오답 없는 방정식",
   "status": "Berjalan",
   "author": "Gomjigong",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    Equation Without Error yang dibuat oleh komikus bernama\n                    Gomjigong ini bercerita tentang\n                    Kang Je-yi, yang dijuluki \"penggila belajar,\" selalu menjalani hidupnya dengan rencana dan rutinitas. Namun, kehidupan sehari-hari Jay yang sempurna mulai goyah sedikit demi sedikit karena Hai-sol, siswa pindahan yang duduk di sebelahnya. Taruhan mereka tentang nilai dimulai dengan kesan pertama yang terburuk. Kedua remaja yang sangat berbeda ini saling memahami dan secara bertahap mengubah dunia masing-masing. Sebuah kisah romantis remaja yang ditulis bersama oleh seorang siswa teladan yang hanya percaya pada jawaban yang benar dan seorang siswa pindahan yang berjiwa bebas.",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Equation Without Error Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTYv",
+      "date": "27 menit yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Equation Without Error Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTUv",
-      "date": "48 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "4",
@@ -49,5 +55,5 @@
       "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 6
 }
