@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T08:51:38.221364",
-  "total_comics": 2232,
+  "last_updated": "2026-09-06T12:59:02.961254",
+  "total_comics": 2234,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -376,7 +376,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 530
+      "total_chapters": 532
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 87
+      "total_chapters": 88
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -2344,7 +2344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 39
     },
     {
       "slug": "my-bias-gets-on-the-last-train",
@@ -3744,7 +3744,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 124
+      "total_chapters": 129
     },
     {
       "slug": "gal-yome-no-himitsu",
@@ -4064,7 +4064,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 35
     },
     {
       "slug": "when-a-genius-office-worker-goes-too-far",
@@ -4920,7 +4920,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.0,
-      "total_chapters": 151
+      "total_chapters": 153
     },
     {
       "slug": "godeokchuns-food-truck",
@@ -6174,9 +6174,9 @@
       "slug": "girl-go",
       "title": "Girl-Go",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 44
     },
     {
       "slug": "remonster",
@@ -6568,7 +6568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.11,
-      "total_chapters": 333
+      "total_chapters": 336
     },
     {
       "slug": "mia-has-returned",
@@ -6608,7 +6608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "noa-senpai-wa-tomodachi",
@@ -6728,7 +6728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 123
+      "total_chapters": 126
     },
     {
       "slug": "i-am-worried-that-my-childhood-friend-is-too-cute",
@@ -7568,7 +7568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "i-farmer-plant-the-undead",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 42
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -9536,7 +9536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 35
     },
     {
       "slug": "perfect-number",
@@ -11760,7 +11760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "s-class-boukensha-ga-ayumu-michi-tsuihou-sareta-shounen-wa-shin-no-nouryoku-buki-master-de-sekai-saikyou-ni-itaru",
@@ -12088,7 +12088,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.18,
-      "total_chapters": 524
+      "total_chapters": 529
     },
     {
       "slug": "eeh-tamer-wa-tsukaenai-tte-party-kara-tsuiho-shita-yo-ne",
@@ -12160,7 +12160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.93,
-      "total_chapters": 71
+      "total_chapters": 73
     },
     {
       "slug": "kuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shite-shimau",
@@ -12240,7 +12240,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.37,
-      "total_chapters": 11
+      "total_chapters": 13
     },
     {
       "slug": "147125-kimi-ni-koisuru-satsujinki",
@@ -12576,7 +12576,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.25,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "dorei-kara-no-kitai-to-hyouka-no-sei-de-sakushu-dekinai-no-daga",
@@ -13040,7 +13040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "962255-kumo-desu-ga-nani-ka",
@@ -14592,7 +14592,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 54
+      "total_chapters": 57
     },
     {
       "slug": "im-a-condemned-witch-but-im-being-loved-after-my-regression",
@@ -14704,7 +14704,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 11
     },
     {
       "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
@@ -15232,7 +15232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 23
     },
     {
       "slug": "shounin-reijou-agnes-henkyou-ni-tsuihou-sareta-akuyaku-reijou-wa-shousai-o-hakki-shi-nariagaru",
@@ -15536,7 +15536,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "the-avenging-assassin-doll",
@@ -15968,7 +15968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.8,
-      "total_chapters": 286
+      "total_chapters": 287
     },
     {
       "slug": "the-tyrant-brother-is-a-bonus",
@@ -16112,7 +16112,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.35,
-      "total_chapters": 55
+      "total_chapters": 58
     },
     {
       "slug": "now-its-your-turn-to-regret",
@@ -16160,7 +16160,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 22
     },
     {
       "slug": "demon-x-angel-cant-get-along",
@@ -16456,7 +16456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 93
+      "total_chapters": 95
     },
     {
       "slug": "yuusha-sama-sakuya-mo-otanoshimi-deshita-ne",
@@ -16600,7 +16600,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 60
+      "total_chapters": 63
     },
     {
       "slug": "the-level-9999-underachiever-dominates-in-a-woman-ruled-world",
@@ -16712,7 +16712,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 151
+      "total_chapters": 153
     },
     {
       "slug": "582289-max-level-player",
@@ -17168,7 +17168,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "my-first-gf-is-everyones-oshi",
@@ -17416,7 +17416,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.51,
-      "total_chapters": 33
+      "total_chapters": 38
     },
     {
       "slug": "s-rank-party-kara-kaikosareta-jugushi-noroi-no-item-shika-tsukuremasen-ga-sono-seinou-wa-artifact-kyuu-nari",
@@ -17424,7 +17424,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.88,
-      "total_chapters": 44
+      "total_chapters": 47
     },
     {
       "slug": "kaya-chan-wa-kowakunai",
@@ -17544,7 +17544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.09,
-      "total_chapters": 38
+      "total_chapters": 41
     },
     {
       "slug": "the-final-boss-wants-to-die",
@@ -17600,7 +17600,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 11
     },
     {
       "slug": "shukuteki-no-ie-no-toushu-wo-tsuma-ni-moraimashita-tsuma-wa-karen-de-hakanakute-yasashikute-kashikokute-kawaikute-saikou-desu",
@@ -17624,7 +17624,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 15
     },
     {
       "slug": "i-may-be-a-beginner-but-im-actually-a-level-99-overpowered-player",
@@ -17664,7 +17664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 43
     },
     {
       "slug": "make-heroine-ga-oosugiru",
@@ -17792,7 +17792,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "arabesque-koukyuu-no-wakoku-hime",
@@ -17824,7 +17824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 8
     },
     {
       "slug": "kudan-no-ken-ni-tsuite",
@@ -17857,6 +17857,22 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 1
+    },
+    {
+      "slug": "i-retired-to-the-countryside-and-national-level-big-shots-wont-leave-me-alone",
+      "title": "I Retired to the Countryside, and National-Level Big Shots Won’t Leave Me Alone",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "goblin-reijou-to-tensei-kizoku-ga-shiawase-ni-naru-made",
+      "title": "Goblin Reijou to Tensei Kizoku ga Shiawase ni Naru Made",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.36,
+      "total_chapters": 12
     }
   ]
 }

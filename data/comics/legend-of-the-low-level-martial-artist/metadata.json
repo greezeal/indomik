@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-02T23:38:36.496745",
+  "scraped_at": "2026-09-06T12:49:55.044811",
   "alternative_titles": "Legend of the Low-Level Martial Artist, Legend of the Low‑Tier Martial Artist, The Novice's Frontline, 下手傳說, 하수전설",
   "status": "Berjalan",
   "author": "Gunju, Rice Pool",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    Legend of the Low-Level Martial Artist yang dibuat oleh komikus bernama\n                    Gunju, Rice Pool ini bercerita tentang\n                    Guru terhebat di dunia? Bukan. Pahlawan besar dari sekte ortodoks bergengsi? Bukan. Eo Ja-Seo, seorang pemula biasa dan pemalu di dunia seni bela diri. Namun, serangkaian kebetulan, kesalahpahaman, dan pertemuan yang menguntungkan membawanya terlahir kembali sebagai seorang guru misterius di dunia. Inilah kisah bertahan hidup Eo Ja-Seo, seorang guru dengan hati seorang pemula.",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik Legend of the Low-Level Martial Artist Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXRoZS1sb3ctbGV2ZWwtbWFydGlhbC1hcnRpc3QtY2hhcHRlci0xNy8=",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Legend of the Low-Level Martial Artist Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXRoZS1sb3ctbGV2ZWwtbWFydGlhbC1hcnRpc3QtY2hhcHRlci0xNi8=",
-      "date": "1 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Legend of the Low-Level Martial Artist Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGVnZW5kLW9mLXRoZS1sb3ctbGV2ZWwtbWFydGlhbC1hcnRpc3QtY2hhcHRlci0xNS8=",
-      "date": "1 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "14",
@@ -116,5 +122,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }
