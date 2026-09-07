@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-01T00:10:12.562422",
+  "scraped_at": "2026-09-07T22:29:56.894500",
   "alternative_titles": "Marriage Defense Scandal, Scandal Giữ Gìn Hôn Nhân, Un Mariage pour une Carte Bancaire, 婚姻醜聞保衛戰, 결혼사수스캔들",
   "status": "Berjalan",
   "author": "Haesu",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    Marriage Protection Scandal yang dibuat oleh komikus bernama\n                    Haesu ini bercerita tentang\n                    Chae Eun-ah, cucu bungsu dari keluarga chaebol, memiliki segalanya: kecantikan, kekayaan, dan kecerdasan. Saat berusia dua puluh tahun, ia mengharapkan masa depan yang gemilang, tetapi sebaliknya, ia dihadapkan pada ultimatum: menikah! Meskipun kehilangan kartu kredit dan dipaksa menikah sudah cukup buruk, mengapa pasangannya harus mantan pacarnya, yang lebih seperti musuh? Kehidupan pengantin baru di kampus yang dirahasiakan pun dimulai untuk melindungi pernikahannya—atau lebih tepatnya, kartu kreditnya!",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Marriage Protection Scandal Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2UtcHJvdGVjdGlvbi1zY2FuZGFsLWNoYXB0ZXItMjQv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Marriage Protection Scandal Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2UtcHJvdGVjdGlvbi1zY2FuZGFsLWNoYXB0ZXItMjMv",
-      "date": "21 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Marriage Protection Scandal Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2UtcHJvdGVjdGlvbi1zY2FuZGFsLWNoYXB0ZXItMjIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Marriage Protection Scandal Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2UtcHJvdGVjdGlvbi1zY2FuZGFsLWNoYXB0ZXItMjEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Marriage Protection Scandal Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2UtcHJvdGVjdGlvbi1zY2FuZGFsLWNoYXB0ZXItMjAv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Marriage Protection Scandal Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2UtcHJvdGVjdGlvbi1zY2FuZGFsLWNoYXB0ZXItMTkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -59,7 +65,7 @@
       "chapter": "17",
       "title": "Komik Marriage Protection Scandal Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFycmlhZ2UtcHJvdGVjdGlvbi1zY2FuZGFsLWNoYXB0ZXItMTcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -158,5 +164,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }

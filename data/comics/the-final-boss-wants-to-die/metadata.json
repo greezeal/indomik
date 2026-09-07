@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-06T04:32:38.958606",
+  "scraped_at": "2026-09-07T22:29:51.908886",
   "alternative_titles": "The Boss Wants to Die, ラスボスは死にたがっている, 보스는 죽고 싶어 해",
   "status": "Berjalan",
   "author": "Danaan, Rudeung",
@@ -20,46 +20,52 @@
   "synopsis": "Manhwa                    The Final Boss Wants to Die yang dibuat oleh komikus bernama\n                    Danaan, Rudeung ini bercerita tentang\n                    Enam tahun telah berlalu sejak aku dirasuki oleh \"Dewa Jahat Penguasa Neraka\" — bos terakhir dari sebuah game realitas virtual besar — ​​dan terperangkap di dunia ini.\r\n\r\nSatu-satunya cara untuk melarikan diri dari sini adalah dengan dikalahkan sebagai bos.\r\n\r\n\"Bunuh aku!\"\r\n\r\nKemudian, seorang pendeta tingkat rendah muncul — dipersenjatai dengan berbagai item legendaris — dan menundukkanku. Tapi kemudian dia berkata...\r\n\r\n\"Aku tidak datang ke sini untuk membunuhmu.\"\r\n\r\nDia mengaku tidak menginginkan poin pengalaman besar atau ketenaran. Hanya ada satu hal yang dia inginkan.\r\n\r\n\"Aku ingin kau hidup. Jangan mati — Iroha.\"\r\n\r\nAku tidak bisa meninggalkan dunia ini kecuali aku mati — namun dia membisikkan kata-kata manis kepadaku dan memasang kalung di leherku untuk menjaga agar aku tetap hidup.\r\n\r\nAkankah aku bisa kembali ke dunia asalku?",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik The Final Boss Wants to Die Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTgv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik The Final Boss Wants to Die Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTcv",
-      "date": "18 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Final Boss Wants to Die Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTYv",
-      "date": "18 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Final Boss Wants to Die Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTUv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Final Boss Wants to Die Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTQv",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The Final Boss Wants to Die Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTMv",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik The Final Boss Wants to Die Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTIv",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The Final Boss Wants to Die Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZpbmFsLWJvc3Mtd2FudHMtdG8tZGllLWNoYXB0ZXItMTEv",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10",
@@ -122,5 +128,5 @@
       "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }
