@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.27,
-  "scraped_at": "2026-08-21T04:07:25.521032",
+  "scraped_at": "2026-09-07T00:21:26.823478",
   "alternative_titles": "おかえり、パパ, Okaeri, Papa, 「おかえり、パパ」, \"Okaeri, Papa\"",
   "status": "Berjalan",
   "author": "semimaru",
@@ -23,10 +23,16 @@
   "synopsis": "Manga                    Welcome Home, Papa yang dibuat oleh komikus bernama\n                    semimaru ini bercerita tentang\n                    Seorang gadis sekolah menengah mencoba untuk secara obsesif dekat dengan ayah tirinya yang baik hati. Bahkan sampai mengawasinya di tempat tidur bersama ibunya.",
   "chapters": [
     {
+      "chapter": "40",
+      "title": "Komik Welcome Home, Papa Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci00MC8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "39",
       "title": "Komik Welcome Home, Papa Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zOS8=",
-      "date": "15 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "38.5",
@@ -50,7 +56,7 @@
       "chapter": "36",
       "title": "Komik Welcome Home, Papa Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zNi8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "35",
@@ -62,7 +68,7 @@
       "chapter": "34.6",
       "title": "Komik Welcome Home, Papa Chapter 34.6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zNC02Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "34.5",
@@ -80,7 +86,7 @@
       "chapter": "33.5",
       "title": "Komik Welcome Home, Papa Chapter 33.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zMy01Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "33",
@@ -92,13 +98,13 @@
       "chapter": "32",
       "title": "Komik Welcome Home, Papa Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zMi8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Welcome Home, Papa Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS1ob21lLXBhcGEtY2hhcHRlci0zMS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "30",
@@ -329,5 +335,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 51
+  "total_chapters": 52
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-17T15:04:21.617657",
+  "scraped_at": "2026-09-07T00:20:01.402503",
   "alternative_titles": "Survival Supremacy, 생존지상주의",
   "status": "Berjalan",
   "author": "Toy",
@@ -19,35 +19,65 @@
   "synopsis": "Manhwa                    Survival Supremacy yang dibuat oleh komikus bernama\n                    Toy ini bercerita tentang\n                    Sebuah bus sekolah menabrak dunia alternatif yang dipenuhi monster. Di tengah keputusasaan yang mencekam, hanya AI obrolan sang protagonis yang mulai berfungsi.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Survival Supremacy Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItMTAv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Survival Supremacy Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItOS8=",
+      "date": "7 hari yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik Survival Supremacy Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItOC8=",
+      "date": "7 hari yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Survival Supremacy Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItNy8=",
+      "date": "7 hari yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Survival Supremacy Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItNi8=",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Survival Supremacy Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItNS8=",
-      "date": "5 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Survival Supremacy Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItNC8=",
-      "date": "5 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Survival Supremacy Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItMy8=",
-      "date": "7 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Survival Supremacy Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItMi8=",
-      "date": "7 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Survival Supremacy Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Vydml2YWwtc3VwcmVtYWN5LWNoYXB0ZXItMS8=",
-      "date": "10 jam yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 10
 }

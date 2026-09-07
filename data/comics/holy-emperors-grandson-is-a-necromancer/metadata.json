@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-06T04:35:42.234227",
+  "scraped_at": "2026-09-07T00:18:40.286922",
   "alternative_titles": "Grandson of the Holy Emperor Is a Necromancer, 성황의 손자는 네크로맨서",
   "status": "Berjalan",
   "author": "Geulim Jakkun, Studio Neulbom",
@@ -20,28 +20,40 @@
   "synopsis": "Manhwa                    Holy Emperor’s Grandson is a Necromancer yang dibuat oleh komikus bernama\n                    Geulim Jakkun, Studio Neulbom ini bercerita tentang\n                    MC kita meninggal karena sengatan listrik yang tidak disengaja dan akhirnya menghuni tubuh seorang pangeran muda di dunia lain, profesi barunya adalah Necromancer yang dia pilih dalam game yang dia mainkan sebelum kematiannya. Namun, hal-hal tidak seperti yang terlihat – termasuk keterampilan Necromancy miliknya!",
   "chapters": [
     {
+      "chapter": "122",
+      "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 122",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTIyLw==",
+      "date": "41 menit yang lalu"
+    },
+    {
+      "chapter": "121",
+      "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTIxLw==",
+      "date": "41 menit yang lalu"
+    },
+    {
       "chapter": "120",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTIwLw==",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "119",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTE5Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTE4Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Holy Emperor’s Grandson is a Necromancer Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9seS1lbXBlcm9ycy1ncmFuZHNvbi1pcy1hLW5lY3JvbWFuY2VyLWNoYXB0ZXItMTE3Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "116",
@@ -740,5 +752,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 120
+  "total_chapters": 122
 }
