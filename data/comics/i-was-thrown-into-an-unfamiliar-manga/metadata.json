@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-25T10:31:25.674547",
+  "scraped_at": "2026-09-08T18:04:32.754069",
   "alternative_titles": "I Got Possessed Into a Manga I've Never Read, I Possessed a Character in a Manga I Don't Know, I Was Possessed by an Unknown Manga, I Was Reincarnated Into an Unknown Manga, I Was Thrown Into an Unfamiliar Manga, Tôi Bị Ném Vào Thế Giới Manga Xa Lạ, Xuyên Vào Bộ Manga Vô Danh, 成为漫画学院的配角, 目立ちたくない俺のモブキャラ人生, 모르는 만화에 빙의했다",
   "status": "Berjalan",
   "author": "Ino (이노), Tichi",
@@ -23,34 +23,46 @@
   "synopsis": "Manhwa                    I was Thrown into an Unfamiliar Manga yang dibuat oleh komikus bernama\n                    Ino (이노), Tichi ini bercerita tentang\n                    \"'Scrambled Love', sebuah manga komedi romantis Jepang yang laris terjual lebih dari 10 juta kopi. Aku merasuki tubuh seorang figuran, Kim Yu-sung, dalam manga yang bahkan belum pernah kubaca.\r\n\r\nTapi ternyata pria ini... seorang otaku sejati. Untuk menjalani hidup damai tanpa menimbulkan kecurigaan, aku memutuskan untuk berperan sebagai figuran otaku dalam komedi romantis ini.\r\n\r\nTapi mengapa klise-klise tokoh utama wanita muncul di sekitarku? Dan bukan hanya satu orang. Ini tidak akan mudah.\"",
   "chapters": [
     {
+      "chapter": "39",
+      "title": "Komik I was Thrown into an Unfamiliar Manga Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtdGhyb3duLWludG8tYW4tdW5mYW1pbGlhci1tYW5nYS1jaGFwdGVyLTM5Lw==",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik I was Thrown into an Unfamiliar Manga Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtdGhyb3duLWludG8tYW4tdW5mYW1pbGlhci1tYW5nYS1jaGFwdGVyLTM4Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik I was Thrown into an Unfamiliar Manga Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtdGhyb3duLWludG8tYW4tdW5mYW1pbGlhci1tYW5nYS1jaGFwdGVyLTM3Lw==",
-      "date": "46 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik I was Thrown into an Unfamiliar Manga Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtdGhyb3duLWludG8tYW4tdW5mYW1pbGlhci1tYW5nYS1jaGFwdGVyLTM2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik I was Thrown into an Unfamiliar Manga Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtdGhyb3duLWludG8tYW4tdW5mYW1pbGlhci1tYW5nYS1jaGFwdGVyLTM1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik I was Thrown into an Unfamiliar Manga Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtdGhyb3duLWludG8tYW4tdW5mYW1pbGlhci1tYW5nYS1jaGFwdGVyLTM0Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik I was Thrown into an Unfamiliar Manga Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS13YXMtdGhyb3duLWludG8tYW4tdW5mYW1pbGlhci1tYW5nYS1jaGFwdGVyLTMzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -245,5 +257,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 37
+  "total_chapters": 39
 }
