@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-07T04:57:01.580875",
+  "scraped_at": "2026-09-08T09:53:04.052814",
   "alternative_titles": "バイト先のネットカフェが、なぜかクラスの美少女たちの溜まり場になった件。, Le cybercafé où je travaille à temps partiel est devenu, sans que je sache pourquoi, le point de rendez-vous des plus belles filles de ma classe., The Internet Café Where I Work Somehow Became a Hangout Spot for Beautiful Girls.",
   "status": "Berjalan",
   "author": "kattern",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Baito-saki no Net Café ga, Nazeka Class no Bishoujo-tachi no Tamariba ni Natta Ken yang dibuat oleh komikus bernama\n                    kattern ini bercerita tentang\n                    Aku bersekolah di SMA persiapan perguruan tinggi terbaik di prefektur. Suatu hari, aku menyelamatkan seorang gadis cantik yang pingsan di depan warnet tempat aku bekerja paruh waktu. Yang mengejutkan, ternyata dia adalah Mai Kurahashi, gadis tercantik di seluruh sekolah. Siapa sangka gadis anggun, berkelas, bertubuh berisi, dan sedikit ceroboh ini akan jatuh cinta padaku?!\r\n\r\nDan bukan hanya itu—gadis tercantik kedua dan ketiga di sekolah juga mulai tertarik padaku: seorang gadis cantik tsundere yang tinggi dan sporty, dan seorang gadis gyaru yang lembut dan santai dengan lekuk tubuh K-cup...\r\n\r\nSebuah komedi romantis remaja terlarang terungkap di dalam ruang-ruang pribadi sebuah warnet!",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Baito-saki no Net Café ga, Nazeka Class no Bishoujo-tachi no Tamariba ni Natta Ken Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFpdG8tc2FraS1uby1uZXQtY2FmZS1nYS1uYXpla2EtY2xhc3Mtbm8tYmlzaG91am8tdGFjaGktbm8tdGFtYXJpYmEtbmktbmF0dGEta2VuLWNoYXB0ZXItNS8=",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Baito-saki no Net Café ga, Nazeka Class no Bishoujo-tachi no Tamariba ni Natta Ken Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFpdG8tc2FraS1uby1uZXQtY2FmZS1nYS1uYXpla2EtY2xhc3Mtbm8tYmlzaG91am8tdGFjaGktbm8tdGFtYXJpYmEtbmktbmF0dGEta2VuLWNoYXB0ZXItNC8=",
-      "date": "28 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "3",
@@ -46,5 +52,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }
