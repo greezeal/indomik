@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.89,
-  "scraped_at": "2026-05-21T16:26:37.586636",
+  "scraped_at": "2026-09-09T22:00:41.826956",
   "alternative_titles": "The Secret Girl Through the Filter, フィルター越しのカノジョ, 隔著濾鏡的女朋友",
   "status": "Berjalan",
   "author": "Oomi Suzu",
@@ -23,46 +23,52 @@
   "synopsis": "Manga                    Filter-Goshi no Kanojo yang dibuat oleh komikus bernama\n                    Oomi Suzu ini bercerita tentang\n                    Hakobe Narumi adalah siswa sekolah menengah tanpa ekspresi yang dikenal sebagai Stoney. Sorotan dari keberadaannya yang tidak mencolok adalah mengikuti postingan dari poster selfie populer \"Efa\" di media sosial. Tapi ternyata \"Efa\" adalah teman sekelasnya yang rajin dan populer, Mitsuha Koto?! Sedikit erotis, remaja, selfie, komedi romantis antara seorang gadis Iron Walled Selfie dan seorang anak laki-laki berwajah batu dimulai!",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Filter-Goshi no Kanojo Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTIwLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Filter-Goshi no Kanojo Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTE5Lw==",
-      "date": "22 menit yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Filter-Goshi no Kanojo Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTE4Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Filter-Goshi no Kanojo Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTE3Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Filter-Goshi no Kanojo Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTE2Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Filter-Goshi no Kanojo Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTE1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Filter-Goshi no Kanojo Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTE0Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Filter-Goshi no Kanojo Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTEzLw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "12",
@@ -80,7 +86,7 @@
       "chapter": "10",
       "title": "Komik Filter-Goshi no Kanojo Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlsdGVyLWdvc2hpLW5vLWthbm9qby1jaGFwdGVyLTEwLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "9",
@@ -137,5 +143,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }
