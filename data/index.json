@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T04:39:51.382376",
-  "total_comics": 2256,
+  "last_updated": "2026-09-10T09:20:45.375409",
+  "total_comics": 2260,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.71,
-      "total_chapters": 75
+      "total_chapters": 77
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -2744,7 +2744,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.84,
-      "total_chapters": 1197
+      "total_chapters": 1203
     },
     {
       "slug": "271122-the-heavenly-demon-cant-live-a-normal-life",
@@ -3792,7 +3792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 277
+      "total_chapters": 279
     },
     {
       "slug": "surviving-as-a-genius-on-borrowed-time",
@@ -3800,7 +3800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.23,
-      "total_chapters": 90
+      "total_chapters": 93
     },
     {
       "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.34,
-      "total_chapters": 93
+      "total_chapters": 96
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -4240,7 +4240,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 376
+      "total_chapters": 382
     },
     {
       "slug": "weapon-eating-bastard",
@@ -4576,7 +4576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 42
     },
     {
       "slug": "scoring-the-sacred-body-of-the-ancients-from-the-get-go",
@@ -4808,7 +4808,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.29,
-      "total_chapters": 339
+      "total_chapters": 340
     },
     {
       "slug": "the-apocalypses-ultimate-veteran",
@@ -9208,7 +9208,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.09,
-      "total_chapters": 467
+      "total_chapters": 471
     },
     {
       "slug": "the-snow-leopard-baby-of-the-black-leopard-family",
@@ -14896,7 +14896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "isekai-saikyou-nihon-de-jk-to-konkatsu-suru",
@@ -15672,7 +15672,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 16
     },
     {
       "slug": "saitei-chingin-no-maou-rekidai-saikyou-no-maougun-sono-ashi-o-hipparu-no-ga-oshigoto-desu",
@@ -16208,7 +16208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "honzuki-no-gekokujou-part-3",
@@ -17664,7 +17664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 43
+      "total_chapters": 51
     },
     {
       "slug": "make-heroine-ga-oosugiru",
@@ -17776,7 +17776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "forget-that-night-your-majesty",
@@ -17840,7 +17840,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 31
     },
     {
       "slug": "lv-99-princess-of-black-flame",
@@ -18049,6 +18049,38 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 4
+    },
+    {
+      "slug": "shadow-slave",
+      "title": "Shadow Slave",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "the-impossible-delivery",
+      "title": "The Impossible Delivery",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "morino-san-darugaramu",
+      "title": "Morino-san Darugaramu",
+      "type": "",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "im-the-only-granddaughter-of-the-strongest-duke",
+      "title": "I’m The Only Granddaughter Of The Strongest Duke",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
     }
   ]
 }
