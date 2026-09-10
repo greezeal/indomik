@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-04T06:13:12.836138",
+  "scraped_at": "2026-09-10T22:31:52.302016",
   "alternative_titles": "The Eldest Daughter and Her Path to Success, The Eldest Daughter Walks Down the Flower Path, 장녀는 꽃길을 걷는다",
   "status": "Berjalan",
   "author": "Lucy",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    The Eldest Daughter Walks Down The Flower Path yang dibuat oleh komikus bernama\n                    Lucy ini bercerita tentang\n                    Bagi orang tua yang menginginkan seorang putra, seorang putri sulung tidak berguna dan tidak layak dicintai. Terlahir sebagai putri sulung dari Keluarga Tilrod, Radis menghabiskan seluruh hidupnya dipaksa untuk berkorban demi berkorban. Namun setelah berkorban habis-habisan, yang ia terima hanyalah pengkhianatan dari keluarganya sendiri.\r\n\r\n“Semua itu hanyalah mimpi bodoh. Seharusnya aku tidak hidup untuk orang tuaku, untuk saudara-saudaraku, untuk keluargaku, untuk Keluarga ini. Seharusnya aku hidup untuk diriku sendiri!”\r\n\r\nDi saat yang diyakininya sebagai saat-saat terakhirnya, Radis terbangun pada usia enam belas tahun.",
   "chapters": [
     {
+      "chapter": "44",
+      "title": "Komik The Eldest Daughter Walks Down The Flower Path Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci13YWxrcy1kb3duLXRoZS1mbG93ZXItcGF0aC1jaGFwdGVyLTQ0Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "43",
       "title": "Komik The Eldest Daughter Walks Down The Flower Path Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci13YWxrcy1kb3duLXRoZS1mbG93ZXItcGF0aC1jaGFwdGVyLTQzLw==",
-      "date": "13 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik The Eldest Daughter Walks Down The Flower Path Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci13YWxrcy1kb3duLXRoZS1mbG93ZXItcGF0aC1jaGFwdGVyLTQyLw==",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik The Eldest Daughter Walks Down The Flower Path Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci13YWxrcy1kb3duLXRoZS1mbG93ZXItcGF0aC1jaGFwdGVyLTQxLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik The Eldest Daughter Walks Down The Flower Path Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci13YWxrcy1kb3duLXRoZS1mbG93ZXItcGF0aC1jaGFwdGVyLTQwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik The Eldest Daughter Walks Down The Flower Path Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWVsZGVzdC1kYXVnaHRlci13YWxrcy1kb3duLXRoZS1mbG93ZXItcGF0aC1jaGFwdGVyLTM5Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "38",
@@ -277,5 +283,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 43
+  "total_chapters": 44
 }

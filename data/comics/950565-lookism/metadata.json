@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.24,
-  "scraped_at": "2026-09-04T06:13:46.040024",
+  "scraped_at": "2026-09-10T22:27:18.625632",
   "alternative_titles": "外見至上主義, 看臉時代, 외모지상주의",
   "status": "Berjalan",
   "author": "Park Tae Joon",
@@ -25,34 +25,40 @@
   "synopsis": "Manhwa                    Lookism yang dibuat oleh komikus bernama\n                    Park Tae Joon ini bercerita tentang\n                    Park Hyung Suk, kelebihan berat badan dan tidak menarik, diintimidasi dan dilecehkan setiap hari. Tapi keajaiban akan segera terjadi.",
   "chapters": [
     {
+      "chapter": "624",
+      "title": "Komik Lookism Chapter 624",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTYyNC8=",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "623",
       "title": "Komik Lookism Chapter 623",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTYyMy8=",
-      "date": "13 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "622",
       "title": "Komik Lookism Chapter 622",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTYyMi8=",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "621",
       "title": "Komik Lookism Chapter 621",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTYyMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "620",
       "title": "Komik Lookism Chapter 620",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTYyMC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "619",
       "title": "Komik Lookism Chapter 619",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTYxOS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "618",
@@ -190,7 +196,7 @@
       "chapter": "596",
       "title": "Komik Lookism Chapter 596",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTU5Ni8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "595",
@@ -220,7 +226,7 @@
       "chapter": "591",
       "title": "Komik Lookism Chapter 591",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTU5MS8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "590",
@@ -826,7 +832,7 @@
       "chapter": "491",
       "title": "Komik Lookism Chapter 491",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTQ5MS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "490",
@@ -1138,7 +1144,7 @@
       "chapter": "439",
       "title": "Komik Lookism Chapter 439",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbG9va2lzbS1jaGFwdGVyLTQzOS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "438",
@@ -3775,5 +3781,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 625
+  "total_chapters": 626
 }
