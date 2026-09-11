@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-06T12:49:34.241872",
+  "scraped_at": "2026-09-11T17:46:50.903010",
   "alternative_titles": "The Lawyer Who Sees Souls, 영혼을 보는 변호사",
   "status": "Berjalan",
   "author": "Lee Noan, Writing Octopus",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    The Lawyer Who Sees Spirits yang dibuat oleh komikus bernama\n                    Lee Noan, Writing Octopus ini bercerita tentang\n                    \"Sejak hari ia menyaksikan kematian ayahnya, siswa SMA Yoo Hyeon-jae memperoleh kemampuan untuk melihat hantu dan kekuatan untuk mengusir mereka. Kemudian muncul kehadiran misterius. Hantu bermata merah yang merupakan siswa terbaik di sekolah semasa hidupnya berpapasan dengan Hyeon-jae.\r\n\r\n\"Aku ingin menjadi pengacara. Bantulah aku.\"\r\n\r\n\"Sekolah hukum? Aku sendiri yang akan memastikan kau bisa masuk.\"\r\n\r\nHidup berdampingan dengan hantu \"Mata Merah,\" Hyeon-jae menjadi seorang pengacara. Ia memilih jalan sebagai pengacara yang baik untuk membantu mereka yang, seperti ayahnya, telah diperlakukan tidak adil. Untuk membuktikan tidak bersalahnya orang yang masih hidup dan menyampaikan kebenaran tentang orang mati, \"Pengacara yang Melihat Jiwa\" sedang dalam perjalanannya.\"",
   "chapters": [
     {
+      "chapter": "31",
+      "title": "Komik The Lawyer Who Sees Spirits Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMzEv",
+      "date": "16 menit yang lalu"
+    },
+    {
       "chapter": "30",
       "title": "Komik The Lawyer Who Sees Spirits Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMzAv",
-      "date": "3 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik The Lawyer Who Sees Spirits Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMjkv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Lawyer Who Sees Spirits Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMjgv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Lawyer Who Sees Spirits Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMjcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Lawyer Who Sees Spirits Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMjYv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -59,7 +65,7 @@
       "chapter": "24",
       "title": "Komik The Lawyer Who Sees Spirits Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMjQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -131,7 +137,7 @@
       "chapter": "11",
       "title": "Komik The Lawyer Who Sees Spirits Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxhd3llci13aG8tc2Vlcy1zcGlyaXRzLWNoYXB0ZXItMTEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -194,5 +200,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }

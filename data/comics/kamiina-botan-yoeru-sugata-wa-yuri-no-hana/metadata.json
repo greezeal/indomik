@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-10T09:18:08.454859",
+  "scraped_at": "2026-09-11T17:49:15.937056",
   "alternative_titles": "上伊那ぼたん、酔へる姿は百合の花, Kamiina Botan Fully Blossoms When Drunk, Kamiina Botan, the Drunken Form is a Lily Flower, Kamiina Botan, Dáng Say Tựa Đóa Bách Hợp, Kamiina-san florece como un lirio cuando está borracha",
   "status": "Berjalan",
   "author": "Hey (塀)",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Kamiina Botan, Yoeru Sugata wa Yuri no Hana yang dibuat oleh komikus bernama\n                    Hey (塀) ini bercerita tentang\n                    Kamiina Botan adalah seorang mahasiswi berusia 20 tahun. Di pesta penyambutan untuk asrama yang ditugaskan kepadanya, ketua asrama Ibuki memberinya minuman keras dan dia menjadi mabuk, yang kemudian mengarah pada keterlibatannya dengan Ibuki mulai saat itu...",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Kamiina Botan, Yoeru Sugata wa Yuri no Hana Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaWluYS1ib3Rhbi15b2VydS1zdWdhdGEtd2EteXVyaS1uby1oYW5hLWNoYXB0ZXItNS8=",
+      "date": "34 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Kamiina Botan, Yoeru Sugata wa Yuri no Hana Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaWluYS1ib3Rhbi15b2VydS1zdWdhdGEtd2EteXVyaS1uby1oYW5hLWNoYXB0ZXItNC8=",
-      "date": "12 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3",
@@ -43,8 +49,8 @@
       "chapter": "1",
       "title": "Komik Kamiina Botan, Yoeru Sugata wa Yuri no Hana Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FtaWluYS1ib3Rhbi15b2VydS1zdWdhdGEtd2EteXVyaS1uby1oYW5hLWNoYXB0ZXItMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }
