@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.35,
-  "scraped_at": "2026-09-10T22:34:15.201650",
+  "scraped_at": "2026-09-11T22:36:32.756730",
   "alternative_titles": "Reincarnation's Little Girl Never Gives Up, Tensei Youjo wa Akiramenai, 転生幼女はあきらめない",
   "status": "Berjalan",
   "author": "kaya (カヤ)",
@@ -25,40 +25,52 @@
   "synopsis": "Manga                    The Reborn Little Girl Won’t Give Up yang dibuat oleh komikus bernama\n                    kaya (カヤ) ini bercerita tentang\n                    Ketika saya bangun, saya telah terlahir kembali sebagai bayi. Ibu saya meninggal dan saya diabaikan oleh ayah saya. Meskipun saya lahir di keluarga Marquis, hidup saya dimulai dengan HARD MODE. Tapi saya tidak akan putus asa. Saya akan makan dengan baik, tidur nyenyak, banyak bergerak, mendapatkan apa pun yang saya bisa dan hidup bahagia.\r\n\r\nTapi entah kenapa, banyak insiden terjadi. Ini adalah kisah tentang seorang gadis kecil dengan kekuatan untuk menciptakan penghalang di dunia tempat Hollow dan Manusia berada dalam konflik. Dia membuat orang lain terlibat dalam insiden itu dan menjadi bahagia.",
   "chapters": [
     {
+      "chapter": "57.5",
+      "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 57.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01Ny01Lw==",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "57",
+      "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01Ny8=",
+      "date": "18 jam yang lalu"
+    },
+    {
       "chapter": "56",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01Ni8=",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01NS8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01NC8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01My8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01Mi8=",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci01MS8=",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "50",
@@ -196,7 +208,7 @@
       "chapter": "31",
       "title": "Komik The Reborn Little Girl Won’t Give Up Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJlYm9ybi1saXR0bGUtZ2lybC13b250LWdpdmUtdXAtY2hhcHRlci0zMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "30.5",
@@ -391,5 +403,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 63
 }

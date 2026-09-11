@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-10T00:07:56.146839",
+  "scraped_at": "2026-09-11T22:39:56.443663",
   "alternative_titles": "Amber Sword, Heros of Amber, Hổ Phách Chi Kiếm, 琥珀之劍",
   "status": "Berjalan",
   "author": "Fei Yan",
@@ -19,16 +19,22 @@
   "synopsis": "Manhua                    The Amber Sword yang dibuat oleh komikus bernama\n                    Fei Yan ini bercerita tentang\n                    Seorang pemain RPG yang telah memainkan VRMMORPG realistis 'The Amber Sword' selama bertahun-tahun, mendapati dirinya diteleportasi ke dunia paralel yang sangat mirip dengan game tersebut. Dia mengambil alih tubuh seorang NPC yang ditakdirkan untuk mati, dan dengan perasaan NPC yang sekarat serta peristiwa-peristiwa yang memilukan dalam game tersebut, dia bertekad untuk mengubah nasib sebuah kerajaan yang ditakdirkan untuk mengalami tragedi.",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik The Amber Sword Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItMjEv",
+      "date": "42 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik The Amber Sword Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItMjAv",
-      "date": "2 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik The Amber Sword Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItMTkv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "18",
@@ -52,7 +58,7 @@
       "chapter": "15",
       "title": "Komik The Amber Sword Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
@@ -106,7 +112,7 @@
       "chapter": "6",
       "title": "Komik The Amber Sword Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWFtYmVyLXN3b3JkLWNoYXB0ZXItNi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "5",
@@ -139,5 +145,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 21
 }
