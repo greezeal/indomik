@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.58,
-  "scraped_at": "2026-09-04T06:16:44.277741",
+  "scraped_at": "2026-09-13T22:28:46.238884",
   "alternative_titles": "戸崎さんは僕にだけ冷たい, Terperangkap dalam Dinginnya Cinta",
   "status": "Berjalan",
   "author": "Saku",
@@ -21,22 +21,34 @@
   "synopsis": "Manga                    Tozaki-san wa Boku ni Dake Tsumetai yang dibuat oleh komikus bernama\n                    Saku ini bercerita tentang\n                    Kenjiro, seorang siswa sekolah menengah tahun pertama, menyukai Tozaki-san, yang satu kelas dengannya sejak awal sekolah. Tozaki-san baik kepada semua orang, tapi entah kenapa, dia hanya bersikap dingin terhadap Kenjiro.",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Tozaki-san wa Boku ni Dake Tsumetai Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG96YWtpLXNhbi13YS1ib2t1LW5pLWRha2UtdHN1bWV0YWktY2hhcHRlci0yMS8=",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik Tozaki-san wa Boku ni Dake Tsumetai Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG96YWtpLXNhbi13YS1ib2t1LW5pLWRha2UtdHN1bWV0YWktY2hhcHRlci0yMC8=",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Tozaki-san wa Boku ni Dake Tsumetai Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG96YWtpLXNhbi13YS1ib2t1LW5pLWRha2UtdHN1bWV0YWktY2hhcHRlci0xOS8=",
-      "date": "13 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Tozaki-san wa Boku ni Dake Tsumetai Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG96YWtpLXNhbi13YS1ib2t1LW5pLWRha2UtdHN1bWV0YWktY2hhcHRlci0xOC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Tozaki-san wa Boku ni Dake Tsumetai Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG96YWtpLXNhbi13YS1ib2t1LW5pLWRha2UtdHN1bWV0YWktY2hhcHRlci0xNy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "16",
@@ -48,7 +60,7 @@
       "chapter": "15",
       "title": "Komik Tozaki-san wa Boku ni Dake Tsumetai Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG96YWtpLXNhbi13YS1ib2t1LW5pLWRha2UtdHN1bWV0YWktY2hhcHRlci0xNS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -135,5 +147,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 21
 }
