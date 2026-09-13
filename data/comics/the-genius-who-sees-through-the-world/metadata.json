@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.39,
-  "scraped_at": "2026-09-08T23:26:52.404346",
+  "scraped_at": "2026-09-13T05:31:04.113936",
   "alternative_titles": "천재, 세상을 읽다",
   "status": "Berjalan",
   "author": "Jeong Yong",
@@ -24,22 +24,28 @@
   "synopsis": "Manhwa                    The Genius Who Sees Through the World yang dibuat oleh komikus bernama\n                    Jeong Yong ini bercerita tentang\n                    Saat masih kecil, Shin Woo-jin diculik dan dikurung di gudang, dipaksa hidup sebagai budak. Namun, melawan segala rintangan, ia diselamatkan dan akhirnya melangkah ke dunia luar. Meski bebas, Woo-jin tidak seperti anak-anak lainnya. Ia memiliki bakat luar biasa—kemampuan membaca pikiran orang. Dengan mengamati ekspresi wajah dan gerakan bawah sadar sekecil apa pun, ia dapat melihat pikiran, emosi, dan niat mereka dengan akurasi yang hampir sempurna. Seperti seorang profiler, seperti Sherlock masa kini, Woo-jin belajar menavigasi dunia, satu pengamatan pada satu waktu. Namun, bagi seseorang yang melihat terlalu banyak, menjalani kehidupan biasa adalah hal tersulit dari semuanya. Yang ia inginkan hanyalah kehidupan yang damai dan sederhana. Namun, dunia punya rencana lain. “Seperti yang kupikirkan… menjalani kehidupan normal terlalu sulit.”",
   "chapters": [
     {
+      "chapter": "64",
+      "title": "Komik The Genius Who Sees Through the World Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy13aG8tc2Vlcy10aHJvdWdoLXRoZS13b3JsZC1jaGFwdGVyLTY0Lw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "63",
       "title": "Komik The Genius Who Sees Through the World Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy13aG8tc2Vlcy10aHJvdWdoLXRoZS13b3JsZC1jaGFwdGVyLTYzLw==",
-      "date": "36 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik The Genius Who Sees Through the World Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy13aG8tc2Vlcy10aHJvdWdoLXRoZS13b3JsZC1jaGFwdGVyLTYyLw==",
-      "date": "36 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik The Genius Who Sees Through the World Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy13aG8tc2Vlcy10aHJvdWdoLXRoZS13b3JsZC1jaGFwdGVyLTYxLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "60",
@@ -123,7 +129,7 @@
       "chapter": "47",
       "title": "Komik The Genius Who Sees Through the World Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy13aG8tc2Vlcy10aHJvdWdoLXRoZS13b3JsZC1jaGFwdGVyLTQ3Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -159,7 +165,7 @@
       "chapter": "41",
       "title": "Komik The Genius Who Sees Through the World Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy13aG8tc2Vlcy10aHJvdWdoLXRoZS13b3JsZC1jaGFwdGVyLTQxLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "40",
@@ -189,7 +195,7 @@
       "chapter": "36",
       "title": "Komik The Genius Who Sees Through the World Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy13aG8tc2Vlcy10aHJvdWdoLXRoZS13b3JsZC1jaGFwdGVyLTM2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "35",
@@ -402,5 +408,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }
