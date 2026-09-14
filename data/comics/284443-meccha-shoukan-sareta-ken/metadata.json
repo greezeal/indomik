@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.67,
-  "scraped_at": "2026-09-05T18:16:57.921828",
+  "scraped_at": "2026-09-14T16:45:48.616872",
   "alternative_titles": "Meccha Shoukan Sareta Ken THE COMIC, Summoned to a parallel fantasy world many times, めっちゃ召喚された件 THE COMIC",
   "status": "Berjalan",
   "author": "Saitousa",
@@ -27,28 +27,40 @@
   "synopsis": "Manga                    Meccha Shoukan Sareta Ken yang dibuat oleh komikus bernama\n                    Saitousa ini bercerita tentang\n                    Seluruh kelas Guy dipanggil ke dunia lain, kecuali dialah satu-satunya yang dipindahkan ke dunia lain. Tepat ketika dia terbiasa dengan kehidupan barunya, dia dipanggil ke dunia lain lagi, dan lagi.",
   "chapters": [
     {
+      "chapter": "58",
+      "title": "Komik Meccha Shoukan Sareta Ken Chapter 58",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVjY2hhLXNob3VrYW4tc2FyZXRhLWtlbi1jaGFwdGVyLTU4Lw==",
+      "date": "59 menit yang lalu"
+    },
+    {
+      "chapter": "57",
+      "title": "Komik Meccha Shoukan Sareta Ken Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVjY2hhLXNob3VrYW4tc2FyZXRhLWtlbi1jaGFwdGVyLTU3Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "56",
       "title": "Komik Meccha Shoukan Sareta Ken Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVjY2hhLXNob3VrYW4tc2FyZXRhLWtlbi1jaGFwdGVyLTU2Lw==",
-      "date": "6 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik Meccha Shoukan Sareta Ken Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVjY2hhLXNob3VrYW4tc2FyZXRhLWtlbi1jaGFwdGVyLTU1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Meccha Shoukan Sareta Ken Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVjY2hhLXNob3VrYW4tc2FyZXRhLWtlbi1jaGFwdGVyLTU0Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Meccha Shoukan Sareta Ken Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVjY2hhLXNob3VrYW4tc2FyZXRhLWtlbi1jaGFwdGVyLTUzLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "52",
@@ -120,7 +132,7 @@
       "chapter": "42.1",
       "title": "Komik Meccha Shoukan Sareta Ken Chapter 42.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWVjY2hhLXNob3VrYW4tc2FyZXRhLWtlbi1jaGFwdGVyLTQyLTEv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "41",
@@ -483,5 +495,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 76
+  "total_chapters": 78
 }

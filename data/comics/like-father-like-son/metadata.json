@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-07T04:57:50.723711",
+  "scraped_at": "2026-09-14T16:45:31.329451",
   "alternative_titles": "그아비에 그아들",
   "status": "Berjalan",
   "author": "Author Song",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    Like Father, Like Son yang dibuat oleh komikus bernama\n                    Author Song ini bercerita tentang\n                    Kang Kwon, yang mewarisi perawakan kecil ayahnya dengan tinggi 159 cm dan berat 51 kg, jatuh dari atap setelah diintimidasi di sekolah setiap hari. Ia terbangun di tahun 1996 dalam tubuh sahabat terbaik ayahnya, pamannya Choi Kang-kwon, yang tingginya 188 cm dan berat 70 kg. Namun, bertentangan dengan harapannya, Paman Choi Kang-kwon ternyata adalah seorang pecundang yang sering diintimidasi...\r\n\r\nMeskipun ia telah tumbuh lebih tinggi, (Choi) Kang-kwon tetaplah seorang pecundang, dan kehidupan sekolah menengahnya yang sangat sulit (?) di tahun 1996 pun dimulai.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Like Father, Like Son Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xOS8=",
+      "date": "59 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Like Father, Like Son Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xOC8=",
-      "date": "42 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Like Father, Like Son Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xNy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Like Father, Like Son Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Like Father, Like Son Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGlrZS1mYXRoZXItbGlrZS1zb24tY2hhcHRlci0xNS8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -128,5 +134,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }

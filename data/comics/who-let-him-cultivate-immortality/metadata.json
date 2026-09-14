@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-07T22:30:38.887795",
+  "scraped_at": "2026-09-14T16:40:37.744761",
   "alternative_titles": "Ai Bảo Hắn Tu Tiên!, Who Asked Him to Cultivate Immortality, Who Let Him Cultivate, Who Let Him Cultivate Immortality, Who Let Him Cultivate Immortality!?, Кто просил его культивировать бессмертие!, ใครปล่อยให้เขามาบำเพ็ญเซียน!, 谁让他修仙的!, 谁让他修仙的！",
   "status": "Berjalan",
   "author": "The Whitest Raven",
@@ -21,34 +21,40 @@
   "synopsis": "Manhua                    Who Let Him Cultivate Immortality?! yang dibuat oleh komikus bernama\n                    The Whitest Raven ini bercerita tentang\n                    “Saya telah berulang kali menekankan bahwa suasana dunia kultivasi sudah bengkok – saya tidak membuatnya seperti itu,” kata Pendekar Pedang Lu Yang dalam sebuah wawancara pers, dengan penuh amarah. “Mereka bilang sejarah ditulis oleh para pemenang, jadi mengapa saya masih dituduh secara salah meskipun saya telah menang?”",
   "chapters": [
     {
+      "chapter": "28",
+      "title": "Komik Who Let Him Cultivate Immortality?! Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjgv",
+      "date": "15 menit yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjcv",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjYv",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjUv",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjQv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjMv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "22",
@@ -60,13 +66,13 @@
       "chapter": "21",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMjAv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -84,7 +90,7 @@
       "chapter": "17",
       "title": "Komik Who Let Him Cultivate Immortality?! Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2hvLWxldC1oaW0tY3VsdGl2YXRlLWltbW9ydGFsaXR5LWNoYXB0ZXItMTcv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -183,5 +189,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 28
 }
