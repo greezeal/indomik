@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-08T09:52:32.188726",
+  "scraped_at": "2026-09-15T07:45:18.947676",
   "alternative_titles": "부인은 밀밭에서 기다렸다",
   "status": "Berjalan",
   "author": "papapa",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    My Wife Waited for Me in the Wheat Field yang dibuat oleh komikus bernama\n                    papapa ini bercerita tentang\n                    Itu adalah pernikahan yang terburu-buru dan diatur. Dan pada malam pernikahan mereka, dia melarikan diri.\r\n\r\nDia hidup selama sepuluh tahun dengan nama palsu, menjadi salah satu dari tujuh Guru Besar Benua, tetapi kembali ke rumah ketika mendengar kabar kematian ayahnya.\r\n\r\nDi sana, dia menemukan istrinya, yang dia kira telah pergi, yang hanya pernah dilihatnya sekali sebelumnya.\r\n\r\nDia masih secantik saat pertama kali dia melihatnya.",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTI5Lw==",
+      "date": "15 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTI4Lw==",
-      "date": "42 detik yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTI3Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTI2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTI1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTI0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -60,7 +66,7 @@
       "chapter": "22",
       "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTIyLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -84,7 +90,7 @@
       "chapter": "18",
       "title": "Komik My Wife Waited for Me in the Wheat Field Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktd2lmZS13YWl0ZWQtZm9yLW1lLWluLXRoZS13aGVhdC1maWVsZC1jaGFwdGVyLTE4Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -189,5 +195,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 28
+  "total_chapters": 29
 }

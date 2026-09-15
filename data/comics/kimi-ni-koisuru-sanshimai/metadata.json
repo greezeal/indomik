@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.8,
-  "scraped_at": "2026-05-02T18:34:26.217635",
+  "scraped_at": "2026-09-15T07:40:12.020037",
   "alternative_titles": "キミに恋する三姉妹, Three Sisters in Love with You",
   "status": "Berjalan",
   "author": "saku",
@@ -23,185 +23,323 @@
   "synopsis": "Manga                    Kimi ni Koisuru Sanshimai yang dibuat oleh komikus bernama\n                    saku ini bercerita tentang\n                    Di tengah dunia yang penuh dedikasi untuk belajar setiap hari, ada Itsuki, seorang siswa SMA. Alasan ia begitu tekun belajar adalah untuk bertemu kembali dengan cinta pertamanya, seorang gadis bernama Amane, dan berkencan dengannya. Di tengah kesibukannya belajar, karena suatu kebetulan, ia akhirnya tinggal bersama Amane dan saudara-saudara perempuannya, Shion dan Mone...!?",
   "chapters": [
     {
+      "chapter": "48.5",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 48.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQ4LTUv",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQ4Lw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQ3Lw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQ2Lw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQ1Lw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "44",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQ0Lw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQzLw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQyLw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "41.5",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 41.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQxLTUv",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQxLw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "40",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQwLw==",
+      "date": "14 jam yang lalu"
+    },
+    {
+      "chapter": "39",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTM5Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTM4Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "37",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTM3Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTM2Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTM1Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "34.5",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 34.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTM0LTUv",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTM0Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTMzLw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTMyLw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "31",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTMxLw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "30",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTMwLw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Kimi ni Koisuru Sanshimai Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI5Lw==",
+      "date": "6 hari yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI4Lw==",
-      "date": "28 menit yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI1Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTI0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIxLw==",
-      "date": "2 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE5Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE4Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE3Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "16.5",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 16.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE2LTUv",
-      "date": "2 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE2Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE1Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTE0Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTEzLw==",
-      "date": "3 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTEyLw==",
-      "date": "3 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTExLw==",
-      "date": "3 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTEwLw==",
-      "date": "3 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTkv",
-      "date": "3 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTgv",
-      "date": "3 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTcv",
-      "date": "4 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "6.5",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 6.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTYtNS8=",
-      "date": "4 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTYv",
-      "date": "4 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTUv",
-      "date": "4 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTQv",
-      "date": "4 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTMv",
-      "date": "4 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTIv",
-      "date": "4 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Kimi ni Koisuru Sanshimai Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uaS1rb2lzdXJ1LXNhbnNoaW1haS1jaGFwdGVyLTEv",
-      "date": "6 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 53
 }
