@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-13T05:36:16.300309",
+  "scraped_at": "2026-09-16T12:07:03.195461",
   "alternative_titles": "剣と魔法とNTR, Swords, Magic, and NTR, Pedang, Sihir, dan NTR",
   "status": "Berjalan",
   "author": "Akahori Satoru",
@@ -20,22 +20,28 @@
   "synopsis": "Manga                    Ken to Mahou to NTR yang dibuat oleh komikus bernama\n                    Akahori Satoru ini bercerita tentang\n                    Ayumu Ototori, seorang pria yang hanya bisa mencintai wanita yang sudah menikah, menghabiskan hari lain dengan menikmati film-film dewasa favoritnya. Namun ketika gempa bumi melanda, rak DVD yang jatuh menimpanya—dan dia terbangun mendapati sesuatu yang tak terbayangkan tepat di depan matanya...",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik Ken to Mahou to NTR Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VuLXRvLW1haG91LXRvLW50ci1jaGFwdGVyLTIzLw==",
+      "date": "21 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik Ken to Mahou to NTR Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VuLXRvLW1haG91LXRvLW50ci1jaGFwdGVyLTIyLw==",
-      "date": "29 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Ken to Mahou to NTR Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VuLXRvLW1haG91LXRvLW50ci1jaGFwdGVyLTIxLw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Ken to Mahou to NTR Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VuLXRvLW1haG91LXRvLW50ci1jaGFwdGVyLTIwLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "19",
@@ -59,7 +65,7 @@
       "chapter": "16",
       "title": "Komik Ken to Mahou to NTR Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VuLXRvLW1haG91LXRvLW50ci1jaGFwdGVyLTE2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "15",
@@ -152,5 +158,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

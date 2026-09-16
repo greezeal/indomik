@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-12T00:40:49.939889",
+  "scraped_at": "2026-09-16T12:11:16.559036",
   "alternative_titles": "Crown Prince Sells Medicine, 약 파는 황태자",
   "status": "Berjalan",
   "author": "PASS, 다댕, 문백경",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    The Crown Prince That Sells Medicine yang dibuat oleh komikus bernama\n                    PASS, 다댕, 문백경 ini bercerita tentang\n                    Saya putra mahkota? Putra mahkota yang meninggal muda karena sakit di novel?\r\nTapi, saya seorang dokter pengobatan Oriental?\r\n\r\nTidak bisa menahannya.\r\nMemperbaiki konstitusi, memulihkan vitalitas, memperkuat nutrisi, dan meningkatkan vitalitas.\r\nMulai sekarang, saya akan merawat tubuh saya.",
   "chapters": [
     {
+      "chapter": "126",
+      "title": "Komik The Crown Prince That Sells Medicine Chapter 126",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItMTI2Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "125",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 125",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItMTI1Lw==",
-      "date": "4 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "124",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItMTI0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "123",
@@ -41,7 +47,7 @@
       "chapter": "122",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItMTIyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "121",
@@ -59,7 +65,7 @@
       "chapter": "119",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItMTE5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "118",
@@ -83,7 +89,7 @@
       "chapter": "115",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItMTE1Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "114",
@@ -185,7 +191,7 @@
       "chapter": "98",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItOTgv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "97",
@@ -221,7 +227,7 @@
       "chapter": "92",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItOTIv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "91",
@@ -251,7 +257,7 @@
       "chapter": "87",
       "title": "Komik The Crown Prince That Sells Medicine Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyb3duLXByaW5jZS10aGF0LXNlbGxzLW1lZGljaW5lLWNoYXB0ZXItODcv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "86",
@@ -770,5 +776,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 125
+  "total_chapters": 126
 }
