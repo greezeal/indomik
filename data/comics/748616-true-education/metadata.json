@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.32,
-  "scraped_at": "2026-09-11T17:45:25.113354",
+  "scraped_at": "2026-09-16T06:43:33.986959",
   "alternative_titles": "The Real Lesson, 참교육",
   "status": "Berjalan",
   "author": "Jae Yong Taek",
@@ -23,22 +23,28 @@
   "synopsis": "Manhwa                    True Education yang dibuat oleh komikus bernama\n                    Jae Yong Taek ini bercerita tentang\n                    Setelah undang-undang larangan memukul para siswa disahkan, semakin banyak siswa yang seperti preman. Suatu hari, seorang laki-laki yang kuat muncul dan menghajar para preman sekolah tersebut. Sebenarnya siapa laki-laki itu..?!",
   "chapters": [
     {
+      "chapter": "264",
+      "title": "Komik True Education Chapter 264",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNjQv",
+      "date": "10 jam yang lalu"
+    },
+    {
       "chapter": "263",
       "title": "Komik True Education Chapter 263",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNjMv",
-      "date": "10 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "262",
       "title": "Komik True Education Chapter 262",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNjIv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "261",
       "title": "Komik True Education Chapter 261",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNjEv",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "260",
@@ -50,19 +56,19 @@
       "chapter": "259",
       "title": "Komik True Education Chapter 259",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNTkv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "258",
       "title": "Komik True Education Chapter 258",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNTgv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "257",
       "title": "Komik True Education Chapter 257",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNTcv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "256",
@@ -1607,5 +1613,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 264
+  "total_chapters": 265
 }
