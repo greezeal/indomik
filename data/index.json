@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T14:38:08.068343",
-  "total_comics": 2287,
+  "last_updated": "2026-09-18T17:56:27.438363",
+  "total_comics": 2291,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1320,7 +1320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 223
+      "total_chapters": 225
     },
     {
       "slug": "soloist-in-a-cage",
@@ -4376,7 +4376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.59,
-      "total_chapters": 340
+      "total_chapters": 341
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -6552,7 +6552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "the-princess-goes-to-school",
@@ -7272,7 +7272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "984731-night-of-the-soulless-heathens",
@@ -8048,7 +8048,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.03,
-      "total_chapters": 73
+      "total_chapters": 76
     },
     {
       "slug": "robou-no-fujii",
@@ -9352,7 +9352,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.85,
-      "total_chapters": 327
+      "total_chapters": 329
     },
     {
       "slug": "the-world-class-extras-walkthrough-remake",
@@ -10240,7 +10240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 228
+      "total_chapters": 229
     },
     {
       "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
@@ -12400,7 +12400,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.27,
-      "total_chapters": 40
+      "total_chapters": 42
     },
     {
       "slug": "maxed-strength-necromancer",
@@ -13848,7 +13848,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "surviving-as-a-tyrants-daughter",
@@ -14568,7 +14568,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 8
     },
     {
       "slug": "ashita-mo-mata-yuusha-no-tonari",
@@ -16480,7 +16480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "424565-the-end-has-come",
@@ -17784,7 +17784,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 19
     },
     {
       "slug": "unlimited-bacteria-magician",
@@ -18297,6 +18297,38 @@
       "status": "Berjalan",
       "rating": 0.0,
       "total_chapters": 3
+    },
+    {
+      "slug": "koushiki-furin",
+      "title": "Koushiki Furin",
+      "type": "",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 4
+    },
+    {
+      "slug": "demon-life-starting-from-a-baby",
+      "title": "Demon Life Starting From A Baby",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "inma-mo-nigedasu-kuroe-san",
+      "title": "Inma mo Nigedasu Kuroe-san",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "the-genius-professor-wants-an-easy-life",
+      "title": "The Genius Professor Wants an Easy Life",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
     }
   ]
 }
