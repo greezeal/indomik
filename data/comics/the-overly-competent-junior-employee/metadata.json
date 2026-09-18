@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-02T23:34:21.457068",
+  "scraped_at": "2026-09-18T14:34:48.201227",
   "alternative_titles": "말단 사원이 너무 유능함",
   "status": "Berjalan",
   "author": "Nesishipbun, Yoon (윤)",
@@ -18,40 +18,52 @@
   "synopsis": "Manhwa                    The Overly Competent Junior Employee yang dibuat oleh komikus bernama\n                    Nesishipbun, Yoon (윤) ini bercerita tentang\n                    Karyawan cabang sekuritas Yoon Do Gyeong menerima pesan teks mencurigakan yang mengklaim bahwa ia telah terpilih untuk layanan saham VIP, tetapi ia mengabaikannya sebagai spam. Setelah berbagi wawasannya tentang sektor kertas dengan PB senior Choi Woo Jin, prediksinya secara tak terduga menjadi kenyataan. Terkesan dengan bakatnya, Woo Jin merekomendasikan Do Gyeong untuk sebuah proyek khusus. Saat Do Gyeong memasuki dunia investasi yang kompetitif, kedatangan manajer cabang baru Ryu Tae Hwa di Cabang Seongnam Yuseong Investment Securities mengubah segalanya.",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik The Overly Competent Junior Employee Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjkv",
+      "date": "48 menit yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik The Overly Competent Junior Employee Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik The Overly Competent Junior Employee Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjcv",
-      "date": "23 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Overly Competent Junior Employee Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjYv",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Overly Competent Junior Employee Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjUv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Overly Competent Junior Employee Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Overly Competent Junior Employee Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Overly Competent Junior Employee Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -180,5 +192,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 29
 }
