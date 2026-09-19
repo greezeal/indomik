@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-17T06:00:08.762369",
+  "scraped_at": "2026-09-19T10:48:28.684184",
   "alternative_titles": "The world’s strongest butler: I was banished from the black workplace, and I was picked up by an ice lady, \"Sekai Saikyou no Shitsuji\" Black Shokuba wo Tsuihousareta Ore, Koori no Reijou ni Hirowareru, 【世界最強の執事】ブラック職場を追放された俺、氷の令嬢に拾われる",
   "status": "Berjalan",
   "author": "HIRU Andon",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    Sekai Saikyou no Shitsuji yang dibuat oleh komikus bernama\n                    HIRU Andon ini bercerita tentang\n                    Alto berperan sebagai kepala pelayan bagi Lady Wenty yang sangat egois. Setelah pingsan karena terlalu banyak bekerja, dia diusir dan ersesat di jalan, namun Putri Es yang terkenal, Urk, muncul di hadapannya. Dimulailah cerita mereka dalam menumpas musuh-musuh jahat.",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Sekai Saikyou no Shitsuji Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VrYWktc2Fpa3lvdS1uby1zaGl0c3VqaS1jaGFwdGVyLTI0Lw==",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Sekai Saikyou no Shitsuji Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VrYWktc2Fpa3lvdS1uby1zaGl0c3VqaS1jaGFwdGVyLTIzLw==",
-      "date": "1 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -166,5 +172,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }
