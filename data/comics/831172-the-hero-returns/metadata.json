@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-20T01:44:52.351129",
+  "scraped_at": "2026-09-20T07:14:18.183064",
   "alternative_titles": "영웅, 회귀하다",
   "status": "Berjalan",
   "author": "Black Ajin",
@@ -24,10 +24,22 @@
   "synopsis": "Manhwa                    The Hero Returns yang dibuat oleh komikus bernama\n                    Black Ajin ini bercerita tentang\n                    Pahlawan kemanusiaan terkuat, Kim Sung Bin.\r\n\r\nDia mempertaruhkan segalanya dan bertarung ... tapi dia masih tidak bisa mencegah kehancuran dunia.\r\n\r\nNamun, legendanya baru saja dimulai saat ia kembali 20 tahun ke masa lalu.\r\n\r\n“Aku pasti akan… membunuhnya kali ini.\r\n\r\nSekarang sepenuhnya dilengkapi dengan kekuatan dan pengalaman yang luar biasa, serangan pahlawan belum berakhir!",
   "chapters": [
     {
+      "chapter": "171",
+      "title": "Komik The Hero Returns Chapter 171",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE3MS8=",
+      "date": "58 menit yang lalu"
+    },
+    {
+      "chapter": "170",
+      "title": "Komik The Hero Returns Chapter 170",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE3MC8=",
+      "date": "58 menit yang lalu"
+    },
+    {
       "chapter": "169",
       "title": "Komik The Hero Returns Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTE2OS8=",
-      "date": "28 menit yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "168",
@@ -909,7 +921,7 @@
       "chapter": "23",
       "title": "Komik The Hero Returns Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tcmV0dXJucy1jaGFwdGVyLTIzLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "22",
@@ -1044,5 +1056,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 170
+  "total_chapters": 172
 }

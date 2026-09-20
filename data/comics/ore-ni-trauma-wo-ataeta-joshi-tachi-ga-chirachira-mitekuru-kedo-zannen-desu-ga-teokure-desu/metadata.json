@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.39,
-  "scraped_at": "2026-09-15T07:42:25.542438",
+  "scraped_at": "2026-09-20T07:15:47.986353",
   "alternative_titles": "俺にトラウマを与えた女子達がチラチラ見てくるけど、残念ですが手遅れです, The Girls Who Traumatized Me Keep Glancing at Me, but Alas, It’s Too Late, The Girls Who Traumatized Me Keep Glancing at Me, but Alas, It’s Too Late, Las chicas que me traumaron me están mirando, pero desafortunadamente es demasiado tarde.",
   "status": "Berjalan",
   "author": "Mitou Yuragi, Yuragi Mido, 御堂ユラギ",
@@ -26,10 +26,34 @@
   "synopsis": "Manga                    Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu yang dibuat oleh komikus bernama\n                    Mitou Yuragi, Yuragi Mido, 御堂ユラギ ini bercerita tentang\n                    Aku Yukito Kokonoe, dan akulah yang paling tidak beruntung dengan wanita. Ibu saya meninggalkan saya, saudara perempuan saya membenci saya, dan teman masa kecil saya, yang saya pikir dia memiliki perasaan terhadap saya, menolak saya sebelum saya dapat memberitahunya, dan kemudian berbohong kepada saya ketika saya patah hati. Akibatnya, saya mendapati diri saya benar-benar hancur secara emosional, dan sudah terlambat untuk melakukan apa pun. Tapi itu aneh. Untuk beberapa alasan, saya merasa seperti wanita yang membuat saya trauma melirik saya. Ya, saya pasti membayangkannya!\r\n\r\nIni adalah komedi cinta tentang seorang anak laki-laki yang terlalu sering disakiti dan terlambat, dan para wanita yang telah menyakitinya, dalam kesalahpahaman yang dimulai terlambat dan tidak pernah dimulai sama sekali. \"Cinta? Apa itu, bolehkah aku memakannya?”",
   "chapters": [
     {
+      "chapter": "35.1",
+      "title": "Komik Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu Chapter 35.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5pLXRyYXVtYS13by1hdGFldGEtam9zaGktdGFjaGktZ2EtY2hpcmFjaGlyYS1taXRla3VydS1rZWRvLXphbm5lbi1kZXN1LWdhLXRlb2t1cmUtZGVzdS1jaGFwdGVyLTM1LTEv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5pLXRyYXVtYS13by1hdGFldGEtam9zaGktdGFjaGktZ2EtY2hpcmFjaGlyYS1taXRla3VydS1rZWRvLXphbm5lbi1kZXN1LWdhLXRlb2t1cmUtZGVzdS1jaGFwdGVyLTM0Lw==",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "33.4",
+      "title": "Komik Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu Chapter 33.4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5pLXRyYXVtYS13by1hdGFldGEtam9zaGktdGFjaGktZ2EtY2hpcmFjaGlyYS1taXRla3VydS1rZWRvLXphbm5lbi1kZXN1LWdhLXRlb2t1cmUtZGVzdS1jaGFwdGVyLTMzLTQv",
+      "date": "5 hari yang lalu"
+    },
+    {
+      "chapter": "33.3",
+      "title": "Komik Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu Chapter 33.3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5pLXRyYXVtYS13by1hdGFldGEtam9zaGktdGFjaGktZ2EtY2hpcmFjaGlyYS1taXRla3VydS1rZWRvLXphbm5lbi1kZXN1LWdhLXRlb2t1cmUtZGVzdS1jaGFwdGVyLTMzLTMv",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "33.2",
       "title": "Komik Ore ni Trauma wo Ataeta Joshi-tachi ga Chirachira Mitekuru kedo, Zannen desu ga Teokure desu Chapter 33.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5pLXRyYXVtYS13by1hdGFldGEtam9zaGktdGFjaGktZ2EtY2hpcmFjaGlyYS1taXRla3VydS1rZWRvLXphbm5lbi1kZXN1LWdhLXRlb2t1cmUtZGVzdS1jaGFwdGVyLTMzLTIv",
-      "date": "14 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "33.1",
@@ -254,5 +278,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 38
+  "total_chapters": 42
 }

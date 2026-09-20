@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-17T22:52:52.379888",
+  "scraped_at": "2026-09-20T07:11:42.167542",
   "alternative_titles": "Choose Your Knight!, Please Vote for Your Knight!, 당신의 기사에게 투표하세요!",
   "status": "Berjalan",
   "author": "Honeyshu, Team Yuragullo",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    Vote for Your Knight! yang dibuat oleh komikus bernama\n                    Honeyshu, Team Yuragullo ini bercerita tentang\n                    Aku adalah produser acara survival idola papan atas Korea Selatan—sampai aku membuka mata dan mendapati diriku bereinkarnasi sebagai Edith, satu-satunya putri kaisar baru yang telah menggulingkan seorang tiran melalui revolusi.\r\n\r\nMenggunakan pengetahuan dari kehidupan sebelumnya dan alkimia, entah bagaimana aku berhasil membantu menjatuhkan tiran itu. Tetapi yang menanti kami setelahnya adalah keluarga kekaisaran yang reputasinya di antara rakyat telah jatuh ke titik terendah. Jadi, untuk menghidupkan kembali keluarga kekaisaran yang sekarat, aku memutuskan untuk mengeluarkan senjata rahasiaku: kompetisi survival di mana rakyat sendiri yang memilih untuk memilih ordo ksatria terbaik Kekaisaran!\r\n\r\nMenggunakan keterampilan dari kehidupan masa laluku, aku menyingsingkan lengan bajuku, siap untuk menciptakan drama dengan beberapa pengeditan jahat yang kejam.\r\n\r\nTapi… apa ini? Siapa para kontestan ini dengan kisah yang begitu menarik sehingga mereka bahkan tidak membutuhkan pengeditan jahat? Visual yang tak tertandingi yang tidak memerlukan pengeditan, kisah latar belakang emosional yang mustahil untuk ditonton tanpa air mata, dan di atas itu semua, chemistry bromance yang intens yang terus-menerus mengaburkan batas antara persahabatan dan cinta!\r\n\r\nMungkin ini… bisa menjadi lebih sukses daripada mahakarya yang kubuat di kehidupan sebelumnya!\r\n\r\nKompetisi bertahan hidup yang sengit menampilkan para ksatria yang bertekad untuk merebut hatimu.",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Vote for Your Knight! Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm90ZS1mb3IteW91ci1rbmlnaHQtY2hhcHRlci0yNC8=",
+      "date": "46 menit yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Vote for Your Knight! Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm90ZS1mb3IteW91ci1rbmlnaHQtY2hhcHRlci0yMy8=",
-      "date": "3 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Vote for Your Knight! Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdm90ZS1mb3IteW91ci1rbmlnaHQtY2hhcHRlci0yMi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "21",
@@ -158,5 +164,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }
