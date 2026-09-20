@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-13T05:35:52.849453",
+  "scraped_at": "2026-09-20T01:49:38.940789",
   "alternative_titles": "Mago De Areia No Deserto, Sandmancer of the Scorched Desert, Ta Chính Là Pháp Sư Bóng Ma Trên Sa Mạc, The Sand Mage of the Scorched Desert, The Scorched Desert's Sand Mage, 燃烧沙漠的术士, 불탄 사막의 모래술사",
   "status": "Berjalan",
   "author": "Hamel, Woogack",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    Sandmancer Of The Scorched Desert yang dibuat oleh komikus bernama\n                    Hamel, Woogack ini bercerita tentang\n                    \"Namaku Zeon, dan senjataku adalah seluruh gurun.\"\r\n\r\nBumi telah diubah bentuknya secara paksa.\r\n\r\nSamudra menguap, dan daratan berubah menjadi pasir tak berujung.\r\n\r\nZeon adalah satu-satunya Penyihir Pasir Gurun Hangus yang tersisa di planet yang hancur itu.\r\n\r\nDunia menyebutnya \"Hantu Pasir.\"",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik Sandmancer Of The Scorched Desert Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZG1hbmNlci1vZi10aGUtc2NvcmNoZWQtZGVzZXJ0LWNoYXB0ZXItMjkv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik Sandmancer Of The Scorched Desert Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZG1hbmNlci1vZi10aGUtc2NvcmNoZWQtZGVzZXJ0LWNoYXB0ZXItMjgv",
-      "date": "1 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Sandmancer Of The Scorched Desert Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FuZG1hbmNlci1vZi10aGUtc2NvcmNoZWQtZGVzZXJ0LWNoYXB0ZXItMjcv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "26",
@@ -194,5 +200,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }

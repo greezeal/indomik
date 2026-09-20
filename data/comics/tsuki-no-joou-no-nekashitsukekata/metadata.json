@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-15T06:17:45.256161",
+  "scraped_at": "2026-09-20T01:47:29.090006",
   "alternative_titles": "月の女王の寝かしつけかた, How To Put The Moon Queen To Sleep",
   "status": "Berjalan",
   "author": "Fujitaka Tsumuri",
@@ -21,41 +21,53 @@
   "synopsis": "Manga                    Tsuki no Joou no Nekashitsukekata yang dibuat oleh komikus bernama\n                    Fujitaka Tsumuri ini bercerita tentang\n                    Kepribadian Hitsujiya Yoichirou, seorang editor pemula yang terlalu lembut, bagaikan pedang bermata dua. Ia menyebabkan para penulis yang ditugaskan kepadanya menghindari pertemuan karena mereka \"mengantuk\". Ia sangat ingin membantu para penulis ini, tetapi...! Tugas yang diberikan kepada Hitsujiya yang sedang bermasalah adalah mengantarkan materi kepada penulis populer Tsukishiro Sumika. Tsukishiro dikenal karena kepribadiannya yang sangat tegas, tetapi hari itu, karena kurang tidur, ia bertingkah seperti anak kecil. Untuk membuat Tsukishiro menulis novelnya, Hitsujiya memutuskan untuk \"menidurkannya\"!",
   "chapters": [
     {
+      "chapter": "5.1",
+      "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 5.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItNS0xLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "4.2",
+      "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 4.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItNC0yLw==",
+      "date": "3 minggu yang lalu"
+    },
+    {
       "chapter": "4.1",
       "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 4.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItNC0xLw==",
-      "date": "9 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3.2",
       "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 3.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItMy0yLw==",
-      "date": "7 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3.1",
       "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 3.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItMy0xLw==",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2.2",
       "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 2.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItMi0yLw==",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2.1",
       "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 2.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItMi0xLw==",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tsuki no Joou no Nekashitsukekata Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1a2ktbm8tam9vdS1uby1uZWthc2hpdHN1a2VrYXRhLWNoYXB0ZXItMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 8
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-13T05:35:40.395222",
+  "scraped_at": "2026-09-20T01:45:53.437781",
   "alternative_titles": "던전을 그리는 화가, The Artist Who Draws Dungeons, The Painter Who Paints Dungeons, The Dungeon Painter, El artista que dibuja mazmorras, 던그화",
   "status": "Berjalan",
   "author": "Hobby Writing Principle (취미글주의)",
@@ -26,34 +26,40 @@
   "synopsis": "Manhwa                    A Painter Who Draws Dungeon yang dibuat oleh komikus bernama\n                    Hobby Writing Principle (취미글주의) ini bercerita tentang\n                    Di dunia yang selamanya berubah akibat Bencana Besar yang membentuk kembali seluruh dunia...Seo Jio, seorang guru seni biasa, meninggal dalam kebakaran mendadak, hanya untuk terbangun terperangkap di dalam sebuah potret sebagai lukisan itu sendiri.Di dalam dunia potret tersebut, Jio memperoleh kemampuan mahakuasa. Dia dapat menciptakan kehidupan dan bahkan membuka gerbang ke dimensi lain.Saat ia melakukan perjalanan melintasi dimensi yang tak terhitung jumlahnya, Jio bertemu dengan orang-orang yang terikat oleh takdir dan menggunakan kemampuan barunya untuk membantu mereka mengatasi cobaan yang ada di hadapan mereka.Namun dengan setiap dimensi yang ia lewati dan setiap insiden yang ia selesaikan, ia semakin dekat untuk mengungkap kebenaran yang menyelimuti kematiannya sendiri…",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik A Painter Who Draws Dungeon Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wYWludGVyLXdoby1kcmF3cy1kdW5nZW9uLWNoYXB0ZXItMjUv",
+      "date": "48 menit yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik A Painter Who Draws Dungeon Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wYWludGVyLXdoby1kcmF3cy1kdW5nZW9uLWNoYXB0ZXItMjQv",
-      "date": "24 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik A Painter Who Draws Dungeon Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wYWludGVyLXdoby1kcmF3cy1kdW5nZW9uLWNoYXB0ZXItMjMv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik A Painter Who Draws Dungeon Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wYWludGVyLXdoby1kcmF3cy1kdW5nZW9uLWNoYXB0ZXItMjIv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik A Painter Who Draws Dungeon Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wYWludGVyLXdoby1kcmF3cy1kdW5nZW9uLWNoYXB0ZXItMjEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik A Painter Who Draws Dungeon Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wYWludGVyLXdoby1kcmF3cy1kdW5nZW9uLWNoYXB0ZXItMjAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -65,7 +71,7 @@
       "chapter": "18",
       "title": "Komik A Painter Who Draws Dungeon Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1wYWludGVyLXdoby1kcmF3cy1kdW5nZW9uLWNoYXB0ZXItMTgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -170,5 +176,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }

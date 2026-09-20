@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-13T14:46:59.530094",
+  "scraped_at": "2026-09-20T01:47:37.121352",
   "alternative_titles": "Revenge of the Villain Slayer, The Vengeful Villain Slayer, 復讐のヴィランスレイヤー",
   "status": "Berjalan",
   "author": "FUJIMI Torio",
@@ -19,53 +19,59 @@
   "synopsis": "Manga                    The Vengeful Villain Slayer yang dibuat oleh komikus bernama\n                    FUJIMI Torio ini bercerita tentang\n                    Saat sekarat dalam cobaan beratnya, Qin Fan meninggal dan kembali ke masa mudanya, memanfaatkan kesempatan untuk menentang takdir dan melindungi keluarga serta orang-orang yang dicintainya. Sepanjang perjalanan, ia menjalani kehidupan kampus, membangun koneksi yang kuat, menyelesaikan dendam lama, menaklukkan naga ilahi, membuat artefak magis, dan menahan guntur surgawi untuk mencapai Pendirian Fondasi. Setelah mengetahui orang tuanya diserang, ia bergegas ke konferensi seni bela diri dengan amarah untuk menghadapi para grandmaster yang tangguh secara langsung.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik The Vengeful Villain Slayer Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItOS8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik The Vengeful Villain Slayer Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItOC8=",
-      "date": "13 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik The Vengeful Villain Slayer Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItNy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik The Vengeful Villain Slayer Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItNi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik The Vengeful Villain Slayer Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Vengeful Villain Slayer Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Vengeful Villain Slayer Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItMy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Vengeful Villain Slayer Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItMi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Vengeful Villain Slayer Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZlbmdlZnVsLXZpbGxhaW4tc2xheWVyLWNoYXB0ZXItMS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }
