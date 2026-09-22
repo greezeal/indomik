@@ -1,0 +1,35 @@
+{
+  "slug": "ready-action",
+  "title": "Ready? Action!",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvcmVhZHktYWN0aW9uLw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDkvS29taWstUmVhZHktQWN0aW9uLTIzNngzMDkucG5n",
+  "type": "Manhwa",
+  "is_colored": true,
+  "rating": 7.0,
+  "scraped_at": "2026-09-22T01:23:06.650075",
+  "alternative_titles": "레디액션",
+  "status": "Berjalan",
+  "author": "Nageun H",
+  "illustrator": "Nageun H",
+  "genres": [
+    "Action",
+    "School Life",
+    "Shounen"
+  ],
+  "synopsis": "Manhwa                    Ready? Action! yang dibuat oleh komikus bernama\n                    Nageun H ini bercerita tentang\n                    Aktor jenius Jeong-heon nekat memproduksi film naskhu demi membangkitkan kembali mimpi sahabatnya, Jae-woo. Namun, misinya peliga drastis ketika klub film yang ia datangi veliya adalah markas geng berandalan. Mampukah ia takada para pekajak onar tersebut dan seguri syuting filmnya?",
+  "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Ready? Action! Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhZHktYWN0aW9uLWNoYXB0ZXItMy8=",
+      "date": "44 detik yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Ready? Action! Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVhZHktYWN0aW9uLWNoYXB0ZXItMi8=",
+      "date": "1 jam yang lalu"
+    }
+  ],
+  "total_chapters": 2
+}

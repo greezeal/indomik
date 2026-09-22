@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-21T14:18:44.567806",
+  "scraped_at": "2026-09-22T01:26:20.841035",
   "alternative_titles": "The Frenzy of Evolution, 进化狂潮",
   "status": "Berjalan",
   "author": "Voltz",
@@ -18,16 +18,22 @@
   "synopsis": "Manhua                    Evolution Frenzy yang dibuat oleh komikus bernama\n                    Voltz ini bercerita tentang\n                    Setelah Duan Fei meninggal di kehidupan sebelumnya, ia dilahirkan kembali dan kembali ke 20 tahun yang lalu, beberapa jam sebelum penderitaan virus. Penyesalan Duan Fei selama 20 tahun itu akhirnya dapat diatasi dengan menggunakan 20 tahun pengetahuannya dari kehidupan sebelumnya untuk mempersenjatai dirinya di dunia sekarang. Duan Fei, yang telah memperoleh pohon evolusi, terus meningkatkan kekuatannya. Meskipun dia adalah satu-satunya yang selamat di kehidupan sebelumnya, Sekarang dia adalah pahlawan dunia dalam kehidupan ini …",
   "chapters": [
     {
+      "chapter": "197",
+      "title": "Komik Evolution Frenzy Chapter 197",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWZyZW56eS1jaGFwdGVyLTE5Ny8=",
+      "date": "9 jam yang lalu"
+    },
+    {
       "chapter": "196",
       "title": "Komik Evolution Frenzy Chapter 196",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWZyZW56eS1jaGFwdGVyLTE5Ni8=",
-      "date": "36 menit yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "195",
       "title": "Komik Evolution Frenzy Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWZyZW56eS1jaGFwdGVyLTE5NS8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "194",
@@ -45,7 +51,7 @@
       "chapter": "192",
       "title": "Komik Evolution Frenzy Chapter 192",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWZyZW56eS1jaGFwdGVyLTE5Mi8=",
-      "date": "6 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "191",
@@ -297,7 +303,7 @@
       "chapter": "150",
       "title": "Komik Evolution Frenzy Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXZvbHV0aW9uLWZyZW56eS1jaGFwdGVyLTE1MC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "149",
@@ -1194,5 +1200,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 196
+  "total_chapters": 197
 }
