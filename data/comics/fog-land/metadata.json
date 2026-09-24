@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-16T12:07:47.217564",
+  "scraped_at": "2026-09-24T06:45:24.717903",
   "alternative_titles": "포그랜드, Pogeuraendeu",
   "status": "Berjalan",
   "author": "Pogo",
@@ -25,40 +25,46 @@
   "synopsis": "Manhwa                    Fog Land yang dibuat oleh komikus bernama\n                    Pogo ini bercerita tentang\n                    Fogland, penjara internasional misterius, menjebak Dante Kang, seorang guru sains yang dikirim untuk mereformasi tahanan selama kerusuhan mendadak, sehingga dia hanya punya satu cara untuk melarikan diri: dengan menjadi seorang pemimpin.",
   "chapters": [
     {
+      "chapter": "56",
+      "title": "Komik Fog Land Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci01Ni8=",
+      "date": "13 jam yang lalu"
+    },
+    {
       "chapter": "55",
       "title": "Komik Fog Land Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci01NS8=",
-      "date": "26 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Fog Land Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci01NC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Fog Land Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci01My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Fog Land Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci01Mi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Fog Land Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci01MS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Fog Land Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci01MC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -160,13 +166,13 @@
       "chapter": "32",
       "title": "Komik Fog Land Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0zMi8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Fog Land Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0zMS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -238,7 +244,7 @@
       "chapter": "19",
       "title": "Komik Fog Land Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0xOS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -268,7 +274,7 @@
       "chapter": "14",
       "title": "Komik Fog Land Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZm9nLWxhbmQtY2hhcHRlci0xNC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -349,5 +355,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 55
 }
