@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-15T07:41:11.328568",
+  "scraped_at": "2026-09-25T17:57:21.167410",
   "alternative_titles": "悪役令嬢ってのはこうやるのよ, This is How You Play a Villainess",
   "status": "Berjalan",
   "author": "Aida Hibiki",
@@ -27,16 +27,22 @@
   "synopsis": "Manga                    Akuyaku Reijou tte no wa Kou Yaru no yo yang dibuat oleh komikus bernama\n                    Aida Hibiki ini bercerita tentang\n                    Saat terbangun, Lady Cassandra Wendel menyadari bahwa ia telah bereinkarnasi sebagai tokoh antagonis dari \"Kisah Santo Penyelamat Cahaya,\" sebuah buku yang dibacanya di kehidupan sebelumnya. Jika keadaan terus seperti ini, ia ditakdirkan untuk dikutuk oleh santo yang dipanggil dan para pria yang mengerumuninya.Tokoh antagonis, yang naik ke tampuk kekuasaan melalui cara-cara jahat di kehidupan sebelumnya, memutuskan untuk menentang takdir dan mengutuk mereka.\"Aku akan menunjukkan padamu apa itu penjahat sejati!\"Perubahan nasib tokoh antagonis dimulai di sini!",
   "chapters": [
     {
+      "chapter": "7.1",
+      "title": "Komik Akuyaku Reijou tte no wa Kou Yaru no yo Chapter 7.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdHRlLW5vLXdhLWtvdS15YXJ1LW5vLXlvLWNoYXB0ZXItNy0xLw==",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "6.3",
       "title": "Komik Akuyaku Reijou tte no wa Kou Yaru no yo Chapter 6.3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdHRlLW5vLXdhLWtvdS15YXJ1LW5vLXlvLWNoYXB0ZXItNi0zLw==",
-      "date": "14 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "6.2",
       "title": "Komik Akuyaku Reijou tte no wa Kou Yaru no yo Chapter 6.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdHRlLW5vLXdhLWtvdS15YXJ1LW5vLXlvLWNoYXB0ZXItNi0yLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6.1",
@@ -87,5 +93,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

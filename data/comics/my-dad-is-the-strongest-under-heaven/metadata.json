@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-18T20:49:46.891124",
+  "scraped_at": "2026-09-25T17:56:30.067684",
   "alternative_titles": "Mi papá es el más fuerte bajo el cielo, My Dad Is the Best in the World, My Dad Is the Zenith, My Father Is the Number One Under Heaven, ท่านพ่อของข้าคือ ยอดคนอันดับหนึ่งแห่งใต้หล้า, 우리 아빠는 천하제일인",
   "status": "Berjalan",
   "author": "Eudam, Writer No. 8",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    My Dad Is The Strongest Under Heaven yang dibuat oleh komikus bernama\n                    Eudam, Writer No. 8 ini bercerita tentang\n                    Setelah kehilangan istri dan putrinya, Yeo Woonhwi hidup untuk membalas dendam sebagai Iblis Darah, hanya untuk mati tanpa balas dendam yang terbalas. Diberi kesempatan kedua di masa lalu, ia bersatu kembali dengan keluarganya dan bersumpah untuk melindungi mereka kali ini sebagai Dewa Bela Diri, bukan sebagai iblis.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik My Dad Is The Strongest Under Heaven Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGFkLWlzLXRoZS1zdHJvbmdlc3QtdW5kZXItaGVhdmVuLWNoYXB0ZXItMzAv",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik My Dad Is The Strongest Under Heaven Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGFkLWlzLXRoZS1zdHJvbmdlc3QtdW5kZXItaGVhdmVuLWNoYXB0ZXItMjkv",
-      "date": "23 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik My Dad Is The Strongest Under Heaven Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGFkLWlzLXRoZS1zdHJvbmdlc3QtdW5kZXItaGVhdmVuLWNoYXB0ZXItMjgv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik My Dad Is The Strongest Under Heaven Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGFkLWlzLXRoZS1zdHJvbmdlc3QtdW5kZXItaGVhdmVuLWNoYXB0ZXItMjcv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik My Dad Is The Strongest Under Heaven Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGFkLWlzLXRoZS1zdHJvbmdlc3QtdW5kZXItaGVhdmVuLWNoYXB0ZXItMjYv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik My Dad Is The Strongest Under Heaven Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGFkLWlzLXRoZS1zdHJvbmdlc3QtdW5kZXItaGVhdmVuLWNoYXB0ZXItMjUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -201,5 +207,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }
