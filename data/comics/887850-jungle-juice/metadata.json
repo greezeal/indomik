@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.19,
-  "scraped_at": "2026-09-27T07:08:14.983289",
+  "scraped_at": "2026-09-27T13:06:21.931965",
   "alternative_titles": "정글쥬스",
   "status": "Berjalan",
   "author": "형은",
@@ -26,10 +26,16 @@
   "synopsis": "Manhwa                    Jungle Juice yang dibuat oleh komikus bernama\n                    형은 ini bercerita tentang\n                    Obat serangga misterius 'Jus hutan' membuatnya menjadi manusia serangga.\r\nJang Su-chan, seorang mahasiswi yang dulu sering menyembunyikan giginya, suatu saat dia terlihat seperti itu.\r\nAnda akan dilihat oleh semua orang, dan Anda akan berada di dunia serangga.\r\nAnda melawan logika berlutut lemah ...\r\n\r\nAksi fantasi oleh berbagai kekuatan serangga\r\nPahlawan Baru Super String Universe Muncul!",
   "chapters": [
     {
+      "chapter": "223",
+      "title": "Komik Jungle Juice Chapter 223",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMjIzLw==",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "222",
       "title": "Komik Jungle Juice Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMjIyLw==",
-      "date": "13 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "221",
@@ -299,7 +305,7 @@
       "chapter": "177",
       "title": "Komik Jungle Juice Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVuZ2xlLWp1aWNlLWNoYXB0ZXItMTc3Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "176",
@@ -1364,5 +1370,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 223
+  "total_chapters": 224
 }

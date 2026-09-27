@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.1,
-  "scraped_at": "2026-09-20T07:08:18.462424",
+  "scraped_at": "2026-09-27T13:07:28.417407",
   "alternative_titles": "The Old Man Reincarnated as a Villainess, 悪役令嬢転生おじさん, 악역 영애 전생 아저씨",
   "status": "Berjalan",
   "author": "Ueyama Michiro",
@@ -29,22 +29,58 @@
   "synopsis": "Manga                    Akuyaku Reijou Tensei Oji-san yang dibuat oleh komikus bernama\n                    Ueyama Michiro ini bercerita tentang\n                    Setelah kecelakaan lalu lintas, pegawai negeri sipil berusia 52 tahun, Kenzaburou Tondabayashi, terbangun dan mendapati bahwa dia telah menjadi Grace Auvergne, putri seorang duke, dan yang lebih penting, penjahat dalam game otome. Tidak ingin menghalangi akhir bahagia dari karakter-karakter muda di sekitarnya, Grace bertekad untuk memainkan peran sebagai penjahat, tapi entah itu karena ingatan Kenzaburou sebagai orang tua yang penuh kasih sayang menghalanginya atau karena tidak mampu melakukannya. mengingat nama-nama asing yang menyebalkan itu dengan baik, ternyata menjadi jauh lebih sulit daripada yang terlihat…",
   "chapters": [
     {
+      "chapter": "50",
+      "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci01MC8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "49",
+      "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00OS8=",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00OC8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00Ny8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00Ni8=",
+      "date": "3 hari yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00NS8=",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00NC8=",
-      "date": "8 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00My8=",
-      "date": "8 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci00Mi8=",
-      "date": "9 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "41",
@@ -110,7 +146,7 @@
       "chapter": "32",
       "title": "Komik Akuyaku Reijou Tensei Oji-san Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1eWFrdS1yZWlqb3UtdGVuc2VpLW9qaS1zYW4tY2hhcHRlci0zMi8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "31",
@@ -299,5 +335,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 45
+  "total_chapters": 51
 }

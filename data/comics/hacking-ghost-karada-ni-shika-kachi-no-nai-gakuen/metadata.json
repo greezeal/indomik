@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-27T07:02:20.072570",
+  "scraped_at": "2026-09-27T13:10:23.341420",
   "alternative_titles": "ＨＡＣＫＩＮＧ　ＧＨＯＳＴ～カラダにしか価値のない学園～, Hacking Ghost: A School Where Only Your Body has Value",
   "status": "Berjalan",
   "author": "Masai",
@@ -24,10 +24,16 @@
   "synopsis": "Manga                    Hacking Ghost: Karada ni Shika Kachi no Nai Gakuen yang dibuat oleh komikus bernama\n                    Masai ini bercerita tentang\n                    Di era di mana satu dari 20 orang membangkitkan \"kemampuan khusus,\" Hiroto Takigami, seorang pengguna kemampuan lemah yang hanya dapat berkomunikasi dengan roh, sangat dibenci oleh saudara tirinya, Rei, pengguna kemampuan terkuat, karena alasan tertentu. Saat ia lulus dari lembaga pelatihan pengguna kemampuan dan memperoleh kemampuan untuk mengendalikannya secara bebas, Hiroto dibunuh oleh Rei. Ia hanya memiliki waktu satu tahun lagi untuk hidup. Saat Hiroto putus asa, sebuah roh muncul di hadapannya. Di sana, ia diberitahu rahasia kemampuannya, sesuatu yang tidak pernah ia duga... Pertempuran supernatural jenis \"penguasaan tubuh\" yang belum pernah terjadi sebelumnya!",
   "chapters": [
     {
+      "chapter": "11",
+      "title": "Komik Hacking Ghost: Karada ni Shika Kachi no Nai Gakuen Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFja2luZy1naG9zdC1rYXJhZGEtbmktc2hpa2Eta2FjaGktbm8tbmFpLWdha3Vlbi1jaGFwdGVyLTExLw==",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "10",
       "title": "Komik Hacking Ghost: Karada ni Shika Kachi no Nai Gakuen Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFja2luZy1naG9zdC1rYXJhZGEtbmktc2hpa2Eta2FjaGktbm8tbmFpLWdha3Vlbi1jaGFwdGVyLTEwLw==",
-      "date": "7 menit yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "9",
@@ -84,5 +90,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

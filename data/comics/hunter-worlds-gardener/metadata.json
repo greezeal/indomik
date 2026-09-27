@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.11,
-  "scraped_at": "2026-09-19T10:53:33.353134",
+  "scraped_at": "2026-09-27T13:05:48.947470",
   "alternative_titles": "Gardener in Hunter's World, Gardener of the Hunter World, The Gardener in a Hunter World, 헌터 세상의 정원사",
   "status": "Berjalan",
   "author": "Jeon Jeon-Tae, Sliber, Story Ark",
@@ -19,16 +19,40 @@
   "synopsis": "Manhwa                    Hunter World’s Gardener yang dibuat oleh komikus bernama\n                    Jeon Jeon-Tae, Sliber, Story Ark ini bercerita tentang\n                    Jiha, pemburu kelas buruh terlemah yang tidak memiliki keterampilan atau kemampuan bertarung, mencari nafkah dengan menjalankan toko sambil memegang peringkat pemburu terendah.\r\n\r\nNamun suatu hari, hidupnya sebagai pemburu berubah ketika ia memasuki taman dari dimensi berbeda melalui mimpinya...\r\n\r\n \r\n\r\n'Aku memperoleh keterampilan hanya dengan menanam satu ranting...?'\r\n\r\nPetualangan uniknya sebagai satu-satunya tukang kebun di dunia pemburu dimulai.",
   "chapters": [
     {
+      "chapter": "105",
+      "title": "Komik Hunter World’s Gardener Chapter 105",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTEwNS8=",
+      "date": "39 menit yang lalu"
+    },
+    {
+      "chapter": "104",
+      "title": "Komik Hunter World’s Gardener Chapter 104",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTEwNC8=",
+      "date": "40 menit yang lalu"
+    },
+    {
+      "chapter": "103",
+      "title": "Komik Hunter World’s Gardener Chapter 103",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTEwMy8=",
+      "date": "4 hari yang lalu"
+    },
+    {
+      "chapter": "102",
+      "title": "Komik Hunter World’s Gardener Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTEwMi8=",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "101",
       "title": "Komik Hunter World’s Gardener Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTEwMS8=",
-      "date": "9 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik Hunter World’s Gardener Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTEwMC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "99",
@@ -52,7 +76,7 @@
       "chapter": "96",
       "title": "Komik Hunter World’s Gardener Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTk2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "95",
@@ -76,7 +100,7 @@
       "chapter": "92",
       "title": "Komik Hunter World’s Gardener Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTkyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "91",
@@ -160,7 +184,7 @@
       "chapter": "78",
       "title": "Komik Hunter World’s Gardener Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTc4Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "77",
@@ -172,7 +196,7 @@
       "chapter": "76",
       "title": "Komik Hunter World’s Gardener Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaHVudGVyLXdvcmxkcy1nYXJkZW5lci1jaGFwdGVyLTc2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "75",
@@ -625,5 +649,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 101
+  "total_chapters": 105
 }

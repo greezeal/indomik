@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.93,
-  "scraped_at": "2026-09-20T01:48:57.187420",
+  "scraped_at": "2026-09-27T13:03:53.297393",
   "alternative_titles": "The Executioner (Lee Jehwan), 사형집행관",
   "status": "Berjalan",
   "author": "Park Bumjin (박범진)",
@@ -27,28 +27,40 @@
   "synopsis": "Manhwa                    Executioner yang dibuat oleh komikus bernama\n                    Park Bumjin (박범진) ini bercerita tentang\n                    Penjahat yang tidak bisa membunuhnya saat dia menjadi pahlawan dan memenjarakannya. Sekarang dia menjadi sipir penjara dan melakukan eksekusi dengan tangannya sendiri.",
   "chapters": [
     {
+      "chapter": "77",
+      "title": "Komik Executioner Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci03Ny8=",
+      "date": "22 menit yang lalu"
+    },
+    {
+      "chapter": "76",
+      "title": "Komik Executioner Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci03Ni8=",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "75",
       "title": "Komik Executioner Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci03NS8=",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Executioner Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci03NC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Executioner Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci03My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik Executioner Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci03Mi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "71",
@@ -60,7 +72,7 @@
       "chapter": "70",
       "title": "Komik Executioner Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci03MC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "69",
@@ -132,13 +144,13 @@
       "chapter": "57",
       "title": "Komik Executioner Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01Ny8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik Executioner Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXhlY3V0aW9uZXItY2hhcHRlci01Ni8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -471,5 +483,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 74
+  "total_chapters": 76
 }
