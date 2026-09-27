@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-13T03:41:35.580903",
+  "scraped_at": "2026-09-27T01:21:57.143896",
   "alternative_titles": "Beast saga., 위 아 애니멀스",
   "status": "Berjalan",
   "author": "Wooblue",
@@ -21,59 +21,83 @@
   "synopsis": "Manhwa                    We Are Animals yang dibuat oleh komikus bernama\n                    Wooblue ini bercerita tentang\n                    Nasib dan segitiga cinta yang rumit dari para serigala yang saling berpapasan, masing-masing membawa luka dan tujuan mereka sendiri. Setelah memutuskan untuk berdiri dan bertarung daripada melarikan diri di alam liar yang keras, dapatkah serigala-serigala ini bertahan dari perang teritorial yang brutal dan membentuk kawanan mereka sendiri? Sebuah kisah epik yang ganas dan megah tentang perjuangan bertahan hidup di antara serigala-serigala liar!",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik We Are Animals Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci0xMy8=",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik We Are Animals Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci0xMi8=",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik We Are Animals Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci0xMS8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik We Are Animals Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci0xMC8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik We Are Animals Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci05Lw==",
-      "date": "2 jam yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik We Are Animals Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci04Lw==",
-      "date": "2 jam yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik We Are Animals Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci03Lw==",
-      "date": "2 jam yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik We Are Animals Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci02Lw==",
-      "date": "2 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik We Are Animals Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci01Lw==",
-      "date": "2 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik We Are Animals Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci00Lw==",
-      "date": "2 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik We Are Animals Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci0zLw==",
-      "date": "2 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik We Are Animals Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci0yLw==",
-      "date": "2 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik We Are Animals Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2UtYXJlLWFuaW1hbHMtY2hhcHRlci0xLw==",
-      "date": "2 hari yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 13
 }

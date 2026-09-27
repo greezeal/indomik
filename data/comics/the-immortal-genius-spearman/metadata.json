@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-20T07:12:16.584142",
+  "scraped_at": "2026-09-27T01:22:57.172706",
   "alternative_titles": "El genio lancero inmortal, El maestro de la lanza que no muere, The Genius Spear Master Who Does Not Die, The Genius Spearman Who Doesn't Die, The Immortal Genius Spear Wielder, The Immortal Genius Spearman, Thiên Tài Dùng Thương Bất Tử, 죽지 않는 천재 창잡이",
   "status": "Berjalan",
   "author": "Shin Yul, Wonha",
@@ -19,22 +19,28 @@
   "synopsis": "Manhwa                    The Immortal Genius Spearman yang dibuat oleh komikus bernama\n                    Shin Yul, Wonha ini bercerita tentang\n                    “Dalam hidup ini, akulah yang akan menguasai medan perang.”\r\n\r\nDamian, seorang perwira di unit hukuman Kerajaan Barok, meninggal tanpa nama di medan perang yang terlupakan pada usia tiga puluh tahun, hanya menyesali satu hal: “Sialan… Seandainya aku punya satu kesempatan lagi, aku benar-benar akan menguasai medan perang bersama orang-orang ini.”\r\n\r\nKetika ia membuka matanya lagi, ia telah kembali ke tujuh belas tahun yang lalu—kali ini dengan inti mana yang utuh sempurna yang benar-benar memungkinkannya mempelajari sihir. Kali ini, ia bersumpah, ia tidak akan tersapu oleh zaman perang tanpa akhir. Ia akan mendaki lebih tinggi dari siapa pun dan menjadi orang yang mendominasinya. Terlahir kembali di masa lalu, Damian mengangkat tombaknya ke arah dunia dan mulai mengukir masa depan yang tidak dapat ia raih sebelumnya.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik The Immortal Genius Spearman Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWltbW9ydGFsLWdlbml1cy1zcGVhcm1hbi1jaGFwdGVyLTMzLw==",
+      "date": "20 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik The Immortal Genius Spearman Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWltbW9ydGFsLWdlbml1cy1zcGVhcm1hbi1jaGFwdGVyLTMyLw==",
-      "date": "37 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik The Immortal Genius Spearman Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWltbW9ydGFsLWdlbml1cy1zcGVhcm1hbi1jaGFwdGVyLTMxLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The Immortal Genius Spearman Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWltbW9ydGFsLWdlbml1cy1zcGVhcm1hbi1jaGFwdGVyLTMwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "29",
@@ -46,7 +52,7 @@
       "chapter": "28",
       "title": "Komik The Immortal Genius Spearman Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWltbW9ydGFsLWdlbml1cy1zcGVhcm1hbi1jaGFwdGVyLTI4Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -70,7 +76,7 @@
       "chapter": "24",
       "title": "Komik The Immortal Genius Spearman Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWltbW9ydGFsLWdlbml1cy1zcGVhcm1hbi1jaGFwdGVyLTI0Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -211,5 +217,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }

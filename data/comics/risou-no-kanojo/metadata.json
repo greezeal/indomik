@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.5,
-  "scraped_at": "2026-09-13T05:38:06.763110",
+  "scraped_at": "2026-09-27T01:21:42.100501",
   "alternative_titles": "理想の彼女, Riso no Kanojo, Ideal Girlfriend",
   "status": "Berjalan",
   "author": "Mori Marimo",
@@ -23,22 +23,40 @@
   "synopsis": "Manga                    Risou no Kanojo yang dibuat oleh komikus bernama\n                    Mori Marimo ini bercerita tentang\n                    Saeki adalah seorang siswa SMA biasa dengan seorang pacar, Sara, yang merupakan pewaris Grup Saionji, dan yang kecantikan serta kecerdasannya membuat semua orang iri.\r\n\r\nSara tampak seperti wanita muda yang sopan dan santun bagi orang lain, tetapi keduanya berbagi rahasia! Karena rahasia itu, Saeki tidak dapat berkomitmen sepenuhnya, tetapi Sara menyiapkan makan siang untuknya, memeluknya untuk memperdalam hubungan mereka, dan bertindak seolah-olah dia mencoba merayu Saeki untuk merusaknya!!!?\r\n\r\nApa rahasia hubungan mereka dan apa tujuan sebenarnya Sara…!!? Sebuah komedi cinta tentang seorang wanita muda yang menyamar, dan seorang pria dalam situasi yang patut ditiru!",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik Risou no Kanojo Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMjkv",
+      "date": "24 detik yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik Risou no Kanojo Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMjgv",
+      "date": "33 detik yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Risou no Kanojo Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMjcv",
+      "date": "45 detik yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Risou no Kanojo Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMjYv",
-      "date": "38 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Risou no Kanojo Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMjUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Risou no Kanojo Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMjQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -68,19 +86,19 @@
       "chapter": "19",
       "title": "Komik Risou no Kanojo Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMTkv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Risou no Kanojo Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMTgv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Risou no Kanojo Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlzb3Utbm8ta2Fub2pvLWNoYXB0ZXItMTcv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -179,5 +197,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 29
 }

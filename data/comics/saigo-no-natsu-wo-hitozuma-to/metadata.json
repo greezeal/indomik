@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-26T00:07:35.870504",
+  "scraped_at": "2026-09-27T01:26:37.890943",
   "alternative_titles": "最後の夏を人妻と, Saigo no Natsu o Hitozuma to, Last Summer with a Married Woman, Spend Your Last Summer with a Married Woman",
   "status": "Berjalan",
   "author": "Engawa Nagatani",
@@ -18,10 +18,16 @@
   "synopsis": "Manga                    Saigo no Natsu wo Hitozuma to yang dibuat oleh komikus bernama\n                    Engawa Nagatani ini bercerita tentang\n                    \"Musim panas yang terik. Mari kita meleleh bersama...\"Wataru kembali ke pedesaan setelah gagal dalam ujian masuk universitas. Wataru tidak memiliki tempat di rumah orang tuanya yang ketat... Kemudian ia bertemu kembali dengan Sayoko, teman masa kecilnya yang dulu sering bermain bersamanya saat masih kecil. Wataru tertarik pada Sayoko, yang telah tumbuh menjadi wanita yang memesona. Namun, Sayoko memiliki sebuah rahasia!",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0yMy8=",
+      "date": "53 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0yMi8=",
-      "date": "11 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "21",
@@ -75,25 +81,25 @@
       "chapter": "13",
       "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0xMy8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0xMi8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0xMS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Saigo no Natsu wo Hitozuma to Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpZ28tbm8tbmF0c3Utd28taGl0b3p1bWEtdG8tY2hhcHRlci0xMC8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -150,5 +156,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 22
+  "total_chapters": 23
 }

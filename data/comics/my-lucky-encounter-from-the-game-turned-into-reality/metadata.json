@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-24T06:42:39.113896",
+  "scraped_at": "2026-09-27T01:26:53.265695",
   "alternative_titles": "게임 속 기연이 현실로",
   "status": "Berjalan",
   "author": "Eojjeoda, Hoyeong",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    My Lucky Encounter From the Game Turned Into Reality yang dibuat oleh komikus bernama\n                    Eojjeoda, Hoyeong ini bercerita tentang\n                    Siapa bilang balas dendam itu sia-sia? Sangat menyenangkan!\r\n\r\nDi dunia di mana sihir sangat maju dan membanggakan peradaban yang tidak berbeda dengan fiksi ilmiah, ia telah bereinkarnasi ke dalam keluarga bangsawan 'Rondel'. Namun, terlahir sebagai anak selir biasa, nyawanya terancam oleh istri pertama dan saudara tirinya. Dia memperoleh peran 'Manuel Lucas', penyihir hebat yang mengubah dunia. Dan kisah balas dendam yang menyegarkan dimulai!\r\n\r\n'Mulai sekarang, aku akan menjalani kehidupan yang kuinginkan'",
   "chapters": [
     {
+      "chapter": "103",
+      "title": "Komik My Lucky Encounter From the Game Turned Into Reality Chapter 103",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktbHVja3ktZW5jb3VudGVyLWZyb20tdGhlLWdhbWUtdHVybmVkLWludG8tcmVhbGl0eS1jaGFwdGVyLTEwMy8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "102",
       "title": "Komik My Lucky Encounter From the Game Turned Into Reality Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktbHVja3ktZW5jb3VudGVyLWZyb20tdGhlLWdhbWUtdHVybmVkLWludG8tcmVhbGl0eS1jaGFwdGVyLTEwMi8=",
-      "date": "13 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "101",
@@ -353,13 +359,13 @@
       "chapter": "47",
       "title": "Komik My Lucky Encounter From the Game Turned Into Reality Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktbHVja3ktZW5jb3VudGVyLWZyb20tdGhlLWdhbWUtdHVybmVkLWludG8tcmVhbGl0eS1jaGFwdGVyLTQ3Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik My Lucky Encounter From the Game Turned Into Reality Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktbHVja3ktZW5jb3VudGVyLWZyb20tdGhlLWdhbWUtdHVybmVkLWludG8tcmVhbGl0eS1jaGFwdGVyLTQ2Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "45",
@@ -632,5 +638,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 102
+  "total_chapters": 103
 }
