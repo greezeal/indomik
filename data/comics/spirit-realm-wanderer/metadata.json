@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-24T06:49:09.328588",
+  "scraped_at": "2026-09-27T23:30:47.228326",
   "alternative_titles": "灵境行者, Língjìng Xíngzhě, Lingjing Xingzhe, Linh Cảnh Hành Giả, Spirit Realm Wanderer",
   "status": "Berjalan",
   "author": "Yingzhiyao (英之耀)",
@@ -23,10 +23,28 @@
   "synopsis": "Manhua                    Spirit Realm Wanderer yang dibuat oleh komikus bernama\n                    Yingzhiyao (英之耀) ini bercerita tentang\n                    Sejak zaman dahulu kala, telah dikatakan bahwa ada Alam Roh. Sepanjang dinasti, para cendekiawan dan sastrawan terkenal telah membicarakannya dengan berbagai cara, dan sebuah puisi mencatat: “Dari Qi hingga Tang, gunung ini menjadi sunyi, Alam Roh terdiam, jarang dikunjungi manusia. Alam Roh tidak dapat digambarkan, keahlian gaibnya sulit dicari.”",
   "chapters": [
     {
+      "chapter": "64",
+      "title": "Komik Spirit Realm Wanderer Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Bpcml0LXJlYWxtLXdhbmRlcmVyLWNoYXB0ZXItNjQv",
+      "date": "10 jam yang lalu"
+    },
+    {
+      "chapter": "63",
+      "title": "Komik Spirit Realm Wanderer Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Bpcml0LXJlYWxtLXdhbmRlcmVyLWNoYXB0ZXItNjMv",
+      "date": "10 jam yang lalu"
+    },
+    {
+      "chapter": "62",
+      "title": "Komik Spirit Realm Wanderer Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Bpcml0LXJlYWxtLXdhbmRlcmVyLWNoYXB0ZXItNjIv",
+      "date": "10 jam yang lalu"
+    },
+    {
       "chapter": "61",
       "title": "Komik Spirit Realm Wanderer Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3Bpcml0LXJlYWxtLXdhbmRlcmVyLWNoYXB0ZXItNjEv",
-      "date": "16 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "60",
@@ -389,5 +407,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 64
 }
