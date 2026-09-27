@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T01:30:14.191432",
-  "total_comics": 2320,
+  "last_updated": "2026-09-27T07:08:40.485284",
+  "total_comics": 2321,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.3,
-      "total_chapters": 919
+      "total_chapters": 923
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -344,7 +344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 44
     },
     {
       "slug": "236624-heavenly-grand-archives-young-master",
@@ -992,7 +992,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.02,
-      "total_chapters": 354
+      "total_chapters": 356
     },
     {
       "slug": "gachi-koi-maou-sama",
@@ -1552,7 +1552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 96
+      "total_chapters": 99
     },
     {
       "slug": "70-meter-girl",
@@ -2328,7 +2328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "defective-reincarnator-becomes-the-ultimate-teacher",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.13,
-      "total_chapters": 115
+      "total_chapters": 116
     },
     {
       "slug": "colorist",
@@ -5552,7 +5552,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.29,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "haha-no-ai-wa-mama-naranai",
@@ -6760,7 +6760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "579305-auto-hunting-with-clones",
@@ -7920,7 +7920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.53,
-      "total_chapters": 67
+      "total_chapters": 69
     },
     {
       "slug": "koi-yori-aoku",
@@ -9064,7 +9064,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 116
+      "total_chapters": 118
     },
     {
       "slug": "bouken-ni-iku-fuku-ga-nai",
@@ -11544,7 +11544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.16,
-      "total_chapters": 228
+      "total_chapters": 232
     },
     {
       "slug": "boku-no-kokoro-no-yabai-yatsu",
@@ -11640,7 +11640,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "kinatos-magic",
@@ -14704,7 +14704,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 14
     },
     {
       "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
@@ -15848,7 +15848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "kimi-to-sakura-no-hanataba-wo-denshi-gentei-egaki-oroshi-tokuten-tsuki",
@@ -16072,7 +16072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 82
     },
     {
       "slug": "marked-as-the-tyrants-daughter-in-law",
@@ -16600,7 +16600,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.19,
-      "total_chapters": 65
+      "total_chapters": 66
     },
     {
       "slug": "the-level-9999-underachiever-dominates-in-a-woman-ruled-world",
@@ -16688,7 +16688,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 71
     },
     {
       "slug": "yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaisugite-tomadotteru",
@@ -16712,7 +16712,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 155
+      "total_chapters": 156
     },
     {
       "slug": "582289-max-level-player",
@@ -18552,7 +18552,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.82,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "wakaba-chan-wa-wakarasetai",
@@ -18560,7 +18560,15 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.69,
-      "total_chapters": 17
+      "total_chapters": 18
+    },
+    {
+      "slug": "ijime-to-kaeru-to-mama-to-fukushuu",
+      "title": "Ijime to Kaeru to Mama to Fukushuu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
     }
   ]
 }

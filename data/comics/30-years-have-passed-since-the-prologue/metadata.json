@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-13T14:46:39.753050",
+  "scraped_at": "2026-09-27T07:05:51.941141",
   "alternative_titles": "30 Years Since the Prologue, 30 Years Have Passed Since the Prologue, 프롤로그에서 30년이 흘렀다",
   "status": "Berjalan",
   "author": "Mark Ellaha",
@@ -24,52 +24,64 @@
   "synopsis": "Manhwa                    30 Years Have Passed Since The Prologue yang dibuat oleh komikus bernama\n                    Mark Ellaha ini bercerita tentang\n                    [Oleh Studio yang menghadirkan ]Aku \"berpindah\" ke dunia yang belum pernah kulihat sebelumnya.Selama 30 tahun, aku percaya aku hidup di RPG fantasi klasik.Aku menjadi pahlawan perang, pensiun, dan mengira akhirnya aku akan melihat akhir cerita.Tapi...30 tahun itu hanyalah prolog.Ternyata cerita sebenarnya adalah tentang sebuah akademi?",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik 30 Years Have Passed Since The Prologue Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTgv",
+      "date": "7 jam yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik 30 Years Have Passed Since The Prologue Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTcv",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTYv",
-      "date": "13 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTUv",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTQv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTMv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTIv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItMTAv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik 30 Years Have Passed Since The Prologue Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvMzAteWVhcnMtaGF2ZS1wYXNzZWQtc2luY2UtdGhlLXByb2xvZ3VlLWNoYXB0ZXItOS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -120,5 +132,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 18
 }
