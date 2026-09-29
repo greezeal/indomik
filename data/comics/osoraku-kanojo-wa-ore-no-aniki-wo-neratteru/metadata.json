@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.53,
-  "scraped_at": "2026-09-29T02:20:34.433030",
+  "scraped_at": "2026-09-29T23:42:32.687623",
   "alternative_titles": "おそらくカノジョは俺の兄貴を狙ってる, Osoraku Kanojoha Oreno Anikiwo Neratteru, She's Likely Aiming for My Older Brother",
   "status": "Berjalan",
   "author": "Ise Maruno",
@@ -23,22 +23,28 @@
   "synopsis": "Manga                    Osoraku Kanojo wa Ore no Aniki wo Neratteru yang dibuat oleh komikus bernama\n                    Ise Maruno ini bercerita tentang\n                    Seorang pria SMA yang tidak lagi memercayai gadis-gadis telah ditipu berkali-kali oleh gadis-gadis yang hanya ingin dekat dengan kakak laki-lakinya yang tampan. Setelah semua itu, ia memutuskan tidak akan pernah memercayai seorang gadis lagi.\r\n\r\nNamun, seorang gadis cantik di kelasnya tiba-tiba mulai banyak berbicara dengannya. Apakah ia hanya mencoba mendekati kakaknya juga…? Atau apakah ia sebenarnya bermaksud sesuatu yang lain?",
   "chapters": [
     {
+      "chapter": "37.5",
+      "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 37.5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTM3LTUv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTM3Lw==",
-      "date": "25 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "36.5",
       "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 36.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTM2LTUv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTM2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "35.5",
@@ -212,13 +218,13 @@
       "chapter": "21.5",
       "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 21.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTIxLTUv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Osoraku Kanojo wa Ore no Aniki wo Neratteru Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NvcmFrdS1rYW5vam8td2Etb3JlLW5vLWFuaWtpLXdvLW5lcmF0dGVydS1jaGFwdGVyLTIxLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "20.5",
@@ -449,5 +455,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 71
+  "total_chapters": 72
 }
