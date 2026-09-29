@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.69,
-  "scraped_at": "2026-09-27T13:03:31.880916",
+  "scraped_at": "2026-09-29T02:25:11.840593",
   "alternative_titles": "Wakaba-chan Wants to Make It Clear, 若葉ちゃんはわからせたい",
   "status": "Berjalan",
   "author": "Konkichi",
@@ -22,34 +22,40 @@
   "synopsis": "Manga                    Wakaba-chan wa Wakarasetai yang dibuat oleh komikus bernama\n                    Konkichi ini bercerita tentang\n                    Pria bermata empat yang buruk dengan perempuan ini hanya bisa diajak bicara dengan teman masa kecilnya yang tomboy, Wakaba. Tapi suatu hari Wakaba muncul di hadapannya dengan pakaian yang sangat imut...!?\r\n\r\nIni adalah pertarungan rom-com antara Wakaba yang ingin dicintai dan si mata empat yang dibuat bingung oleh para gadis!!",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik Wakaba-chan wa Wakarasetai Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FrYWJhLWNoYW4td2Etd2FrYXJhc2V0YWktY2hhcHRlci0xNi8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Wakaba-chan wa Wakarasetai Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FrYWJhLWNoYW4td2Etd2FrYXJhc2V0YWktY2hhcHRlci0xNS8=",
-      "date": "23 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "14.6",
       "title": "Komik Wakaba-chan wa Wakarasetai Chapter 14.6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FrYWJhLWNoYW4td2Etd2FrYXJhc2V0YWktY2hhcHRlci0xNC02Lw==",
-      "date": "7 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "14.5",
       "title": "Komik Wakaba-chan wa Wakarasetai Chapter 14.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FrYWJhLWNoYW4td2Etd2FrYXJhc2V0YWktY2hhcHRlci0xNC01Lw==",
-      "date": "20 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Wakaba-chan wa Wakarasetai Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FrYWJhLWNoYW4td2Etd2FrYXJhc2V0YWktY2hhcHRlci0xNC8=",
-      "date": "20 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Wakaba-chan wa Wakarasetai Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2FrYWJhLWNoYW4td2Etd2FrYXJhc2V0YWktY2hhcHRlci0xMy8=",
-      "date": "20 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "12",
@@ -136,5 +142,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }

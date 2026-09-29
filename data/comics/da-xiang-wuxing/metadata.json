@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.05,
-  "scraped_at": "2026-09-27T01:29:07.108739",
+  "scraped_at": "2026-09-29T02:22:27.943580",
   "alternative_titles": "大象无形",
   "status": "Berjalan",
   "author": "番奇动漫",
@@ -21,64 +21,88 @@
   "synopsis": "Manhua                    Da Xiang Wuxing yang dibuat oleh komikus bernama\n                    番奇动漫 ini bercerita tentang\n                    Sekte MaoShan vs Setan yang menciptakan kekacauan.",
   "chapters": [
     {
+      "chapter": "264",
+      "title": "Komik Da Xiang Wuxing Chapter 264",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjY0Lw==",
+      "date": "57 menit yang lalu"
+    },
+    {
+      "chapter": "263",
+      "title": "Komik Da Xiang Wuxing Chapter 263",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjYzLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "262",
+      "title": "Komik Da Xiang Wuxing Chapter 262",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjYyLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "261",
+      "title": "Komik Da Xiang Wuxing Chapter 261",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjYxLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "260",
       "title": "Komik Da Xiang Wuxing Chapter 260",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjYwLw==",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "259",
       "title": "Komik Da Xiang Wuxing Chapter 259",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjU5Lw==",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "258",
       "title": "Komik Da Xiang Wuxing Chapter 258",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjU4Lw==",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "257",
       "title": "Komik Da Xiang Wuxing Chapter 257",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjU3Lw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "256",
       "title": "Komik Da Xiang Wuxing Chapter 256",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjU2Lw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "255",
       "title": "Komik Da Xiang Wuxing Chapter 255",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjU1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "254",
       "title": "Komik Da Xiang Wuxing Chapter 254",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjU0Lw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "253",
       "title": "Komik Da Xiang Wuxing Chapter 253",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjUzLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "252",
       "title": "Komik Da Xiang Wuxing Chapter 252",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjUyLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "251",
       "title": "Komik Da Xiang Wuxing Chapter 251",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMjUxLw==",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "250",
@@ -738,19 +762,19 @@
       "chapter": "140",
       "title": "Komik Da Xiang Wuxing Chapter 140",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMTQwLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "139",
       "title": "Komik Da Xiang Wuxing Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMTM5Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "138",
       "title": "Komik Da Xiang Wuxing Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMTM4Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "137",
@@ -888,6 +912,12 @@
       "chapter": "115",
       "title": "Komik Da Xiang Wuxing Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMTE1Lw==",
+      "date": "2 tahun yang lalu"
+    },
+    {
+      "chapter": "114",
+      "title": "Komik Da Xiang Wuxing Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItMTE0Lw==",
       "date": "2 tahun yang lalu"
     },
     {
@@ -1038,7 +1068,7 @@
       "chapter": "89",
       "title": "Komik Da Xiang Wuxing Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGEteGlhbmctd3V4aW5nLWNoYXB0ZXItODkv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "88",
@@ -1569,5 +1599,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 258
+  "total_chapters": 263
 }

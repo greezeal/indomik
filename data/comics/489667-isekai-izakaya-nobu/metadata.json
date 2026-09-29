@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.46,
-  "scraped_at": "2026-07-08T17:08:51.396571",
+  "scraped_at": "2026-09-29T02:23:19.263266",
   "alternative_titles": "Otherwordly Izakaya Nobu, Parallel Universe Bar \"Nobu\", 异世界居酒屋外传「NOBU」, 異世界居酒屋「のぶ」, 이 세계 선술집 '노부'",
   "status": "Berjalan",
   "author": "Semikawa Natsuya",
@@ -24,40 +24,46 @@
   "synopsis": "Manga                    Isekai Izakaya “Nobu” yang dibuat oleh komikus bernama\n                    Semikawa Natsuya ini bercerita tentang\n                    Bayangkan ada bar dengan banyak jenis makanan dan minuman aneh yang bisa membawa Anda ke dunia lain! Bar, yang disebut \"Nobu\" terletak di gang kota tua Aiteria. Pada langkah pertama, pengunjung merasa seperti jatuh ke negara lain sepenuhnya, dengan bir dingin yang super keren, yang disebut \"Toriaezu Nama\"!",
   "chapters": [
     {
+      "chapter": "41",
+      "title": "Komik Isekai Izakaya “Nobu” Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWl6YWtheWEtbm9idS1jaGFwdGVyLTQxLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik Isekai Izakaya “Nobu” Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWl6YWtheWEtbm9idS1jaGFwdGVyLTQwLw==",
-      "date": "27 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Isekai Izakaya “Nobu” Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWl6YWtheWEtbm9idS1jaGFwdGVyLTM5Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Isekai Izakaya “Nobu” Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWl6YWtheWEtbm9idS1jaGFwdGVyLTM4Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Isekai Izakaya “Nobu” Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWl6YWtheWEtbm9idS1jaGFwdGVyLTM3Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Isekai Izakaya “Nobu” Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWl6YWtheWEtbm9idS1jaGFwdGVyLTM2Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Isekai Izakaya “Nobu” Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLWl6YWtheWEtbm9idS1jaGFwdGVyLTM1Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "34",
@@ -264,5 +270,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }
