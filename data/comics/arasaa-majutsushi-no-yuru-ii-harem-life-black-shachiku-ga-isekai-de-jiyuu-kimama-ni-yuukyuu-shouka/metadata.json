@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-29T02:25:00.058945",
+  "scraped_at": "2026-10-05T22:07:57.651128",
   "alternative_titles": "アラサー魔術師のゆる～いハーレムライフ～ブラック社畜が異世界で自由気ままに有給消化～（コミック）, The Laid-back Harem Life of a Thirty-something Magician: A Black Company Slave Casually Uses Up His Paid Leave in Another World, The Relaxed Harem Life of an Around 30 Magician: A Black Company Slave Living Freely in Another World, ชีวิตฮาเร็มสุดชิลของจอมเวทวัยใกล้สามสิบ ~ ใช้ชีวิตสบายๆ ไปๆ มาๆ ระหว่างต่างโลกกับโลกปัจจุบัน ~",
   "status": "Berjalan",
   "author": "Shinkosei",
@@ -25,22 +25,28 @@
   "synopsis": "Manga                    Arasaa Majutsushi no Yuru ii Harem Life ~Black Shachiku ga Isekai de Jiyuu Kimama ni Yuukyuu Shouka~ yang dibuat oleh komikus bernama\n                    Shinkosei ini bercerita tentang\n                    Seorang pekerja kantoran yang hampir berusia 30 tahun tiba-tiba teringat bahwa ia adalah seorang penyihir hebat di kehidupan sebelumnya! Sekarang, ia bolak-balik antara dua dunia, menjalani kehidupan yang santai dan tenang. Namun suatu hari, tanpa diduga, ia didekati oleh seorang petualang wanita yang garang—dari kelompok Valkyrie yang legendaris, yang konon membenci laki-laki! Apa yang akan terjadi pada kehidupan damai penyihir berusia hampir 30 tahun ini di dua dunia!?",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Arasaa Majutsushi no Yuru ii Harem Life ~Black Shachiku ga Isekai de Jiyuu Kimama ni Yuukyuu Shouka~ Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJhc2FhLW1hanV0c3VzaGktbm8teXVydS1paS1oYXJlbS1saWZlLWJsYWNrLXNoYWNoaWt1LWdhLWlzZWthaS1kZS1qaXl1dS1raW1hbWEtbmkteXV1a3l1dS1zaG91a2EtY2hhcHRlci0xMi8=",
+      "date": "54 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Arasaa Majutsushi no Yuru ii Harem Life ~Black Shachiku ga Isekai de Jiyuu Kimama ni Yuukyuu Shouka~ Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJhc2FhLW1hanV0c3VzaGktbm8teXVydS1paS1oYXJlbS1saWZlLWJsYWNrLXNoYWNoaWt1LWdhLWlzZWthaS1kZS1qaXl1dS1raW1hbWEtbmkteXV1a3l1dS1zaG91a2EtY2hhcHRlci0xMS8=",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10.5",
       "title": "Komik Arasaa Majutsushi no Yuru ii Harem Life ~Black Shachiku ga Isekai de Jiyuu Kimama ni Yuukyuu Shouka~ Chapter 10.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJhc2FhLW1hanV0c3VzaGktbm8teXVydS1paS1oYXJlbS1saWZlLWJsYWNrLXNoYWNoaWt1LWdhLWlzZWthaS1kZS1qaXl1dS1raW1hbWEtbmkteXV1a3l1dS1zaG91a2EtY2hhcHRlci0xMC01Lw==",
-      "date": "2 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Arasaa Majutsushi no Yuru ii Harem Life ~Black Shachiku ga Isekai de Jiyuu Kimama ni Yuukyuu Shouka~ Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXJhc2FhLW1hanV0c3VzaGktbm8teXVydS1paS1oYXJlbS1saWZlLWJsYWNrLXNoYWNoaWt1LWdhLWlzZWthaS1kZS1qaXl1dS1raW1hbWEtbmkteXV1a3l1dS1zaG91a2EtY2hhcHRlci0xMC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -97,5 +103,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }
