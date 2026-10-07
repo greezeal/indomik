@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-07-23T16:15:21.299772",
+  "scraped_at": "2026-10-07T00:35:59.026902",
   "alternative_titles": "Jirai nandesu ka? Chihara-san, Jirai nandesuka? Chihara-san, 地雷なんですか？地原さん",
   "status": "Berjalan",
   "author": "Ryon",
@@ -21,178 +21,232 @@
   "synopsis": "Manga                    That Girl Is Cute… But Dangerous? yang dibuat oleh komikus bernama\n                    Ryon ini bercerita tentang\n                    “Gadis itu imut, tapi… dia menyeramkan.” Kursi di sebelahku di semester baru adalah orang yang dikabarkan paling berbahaya.",
   "chapters": [
     {
+      "chapter": "107",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 107",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwNy8=",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "106",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 106",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwNi8=",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "105",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 105",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwNS8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "104",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 104",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwNC8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "103",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 103",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwMy8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "102",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwMi8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "101",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 101",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwMS8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "100",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 100",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTEwMC8=",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "99",
+      "title": "Komik That Girl Is Cute… But Dangerous? Chapter 99",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTk5Lw==",
+      "date": "1 bulan yang lalu"
+    },
+    {
       "chapter": "98",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTk4Lw==",
-      "date": "51 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "97",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTk3Lw==",
-      "date": "51 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "96",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTk2Lw==",
-      "date": "51 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTk1Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTk0Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTkzLw==",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTkyLw==",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTkxLw==",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTkwLw==",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTg5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "88",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTg4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTg3Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTg2Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTg1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "84",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTg0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTgzLw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTgyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTgxLw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTgwLw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTc5Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTc4Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTc3Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTc2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTc1Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTc0Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTczLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTcyLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTcxLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTcwLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "69",
@@ -516,19 +570,19 @@
       "chapter": "18",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTE4Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTE3Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik That Girl Is Cute… But Dangerous? Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhhdC1naXJsLWlzLWN1dGUtYnV0LWRhbmdlcm91cy1jaGFwdGVyLTE2Lw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "15",
@@ -621,5 +675,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 100
+  "total_chapters": 109
 }

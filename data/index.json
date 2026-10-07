@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T20:55:27.977263",
-  "total_comics": 2343,
+  "last_updated": "2026-10-07T00:43:53.840907",
+  "total_comics": 2347,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -190,9 +190,9 @@
       "slug": "isekai-yakkyoku",
       "title": "Isekai Yakkyoku",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.45,
+      "total_chapters": 78
     },
     {
       "slug": "kizokuka-sannan-no-nariagari-life",
@@ -232,7 +232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.77,
-      "total_chapters": 119
+      "total_chapters": 123
     },
     {
       "slug": "reincarnated-as-a-genius-prodigy-of-a-prestigious-family",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 258
+      "total_chapters": 264
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -1088,7 +1088,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.65,
-      "total_chapters": 39
+      "total_chapters": 50
     },
     {
       "slug": "tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 92
+      "total_chapters": 94
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 90
+      "total_chapters": 91
     },
     {
       "slug": "peerless-soul",
@@ -3776,7 +3776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 90
+      "total_chapters": 95
     },
     {
       "slug": "high-school-musical-genius-is-paganini-reincarnated",
@@ -4016,7 +4016,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 134
+      "total_chapters": 137
     },
     {
       "slug": "407449-the-second-eunuch-regains-his-manhood",
@@ -4752,7 +4752,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 135
+      "total_chapters": 137
     },
     {
       "slug": "unrivaled-spear-demon",
@@ -5304,7 +5304,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 76
+      "total_chapters": 80
     },
     {
       "slug": "bill-the-blacksmith",
@@ -6176,7 +6176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 52
     },
     {
       "slug": "remonster",
@@ -6720,7 +6720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.92,
-      "total_chapters": 165
+      "total_chapters": 178
     },
     {
       "slug": "654785-im-not-that-kind-of-talent",
@@ -6752,7 +6752,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "berserk-of-gluttony",
@@ -6792,7 +6792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 21
     },
     {
       "slug": "shuumatsu-no-valkyrie-kitan-jack-the-ripper-no-jikenbo",
@@ -6928,7 +6928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 133
+      "total_chapters": 135
     },
     {
       "slug": "danjohi-139-no-heikou-sekai-wa-omoi-no-hoka-futsuu",
@@ -9800,7 +9800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 43
     },
     {
       "slug": "dancer",
@@ -10480,7 +10480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "reiwa-no-dara-san",
@@ -10848,7 +10848,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 88
+      "total_chapters": 90
     },
     {
       "slug": "tensei-nanmin-shoujo-wa-shimin-ken-wo-0-kara-mezashite-hatarakimasu",
@@ -11664,7 +11664,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 14
     },
     {
       "slug": "isekai-kara-elf-san-ga-ochite-kita-no-desu-ga",
@@ -11760,7 +11760,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "s-class-boukensha-ga-ayumu-michi-tsuihou-sareta-shounen-wa-shin-no-nouryoku-buki-master-de-sekai-saikyou-ni-itaru",
@@ -13520,7 +13520,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 44
+      "total_chapters": 48
     },
     {
       "slug": "a-word-from-violet",
@@ -14424,7 +14424,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 43
     },
     {
       "slug": "i-was-thrown-into-an-unfamiliar-manga",
@@ -14472,7 +14472,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 18
     },
     {
       "slug": "the-heavenly-demons-otherworld-livestream",
@@ -14704,7 +14704,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 16
     },
     {
       "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
@@ -14800,7 +14800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 31
     },
     {
       "slug": "transmigrating-to-the-otherworld-once-more",
@@ -14904,7 +14904,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 21
     },
     {
       "slug": "osananajimi-kanojo-no-morahara-ga-hidoin-de-zetsuen-sengen-shite-yatta",
@@ -15424,7 +15424,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 100
+      "total_chapters": 109
     },
     {
       "slug": "529534-the-hero-became-the-dukes-eldest-son",
@@ -15664,7 +15664,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 10
     },
     {
       "slug": "transcendence-due-to-a-system-error",
@@ -17008,7 +17008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 17
     },
     {
       "slug": "hakkou-shounen-no-shiawase-na-majutsu-kakumei",
@@ -17304,7 +17304,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.79,
-      "total_chapters": 75
+      "total_chapters": 78
     },
     {
       "slug": "499402-shuten-momoko-cant-be-defeated",
@@ -17520,7 +17520,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 9
     },
     {
       "slug": "809047-otherworldly-sword-kings-survival-records",
@@ -17592,7 +17592,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 36
     },
     {
       "slug": "the-general-fighting-legend",
@@ -17856,7 +17856,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 4
     },
     {
       "slug": "i-retired-to-the-countryside-and-national-level-big-shots-wont-leave-me-alone",
@@ -18072,7 +18072,7 @@
       "type": "",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 4
     },
     {
       "slug": "im-the-only-granddaughter-of-the-strongest-duke",
@@ -18160,7 +18160,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 13
     },
     {
       "slug": "the-demon-kings-friend",
@@ -18496,7 +18496,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.28,
-      "total_chapters": 142
+      "total_chapters": 146
     },
     {
       "slug": "943776-isekai-de-slow-life-wo-ganbou",
@@ -18745,6 +18745,38 @@
       "status": "Berjalan",
       "rating": 6.01,
       "total_chapters": 241
+    },
+    {
+      "slug": "kimi-meku-yoru-ni-kogarete",
+      "title": "Kimi Meku Yoru ni Kogarete",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 40
+    },
+    {
+      "slug": "sore-wa-furitsumoru-yuki-no-you-na",
+      "title": "Sore wa, Furitsumoru Yuki no You na",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 3
+    },
+    {
+      "slug": "hito-no-kokoro-ga-yomeru-kanojo-no-hanashi",
+      "title": "Hito no Kokoro ga Yomeru Kanojo no Hanashi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 7
+    },
+    {
+      "slug": "my-dragon-girlfriend-has-returned",
+      "title": "My Dragon Girlfriend Has Returned",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
     }
   ]
 }
