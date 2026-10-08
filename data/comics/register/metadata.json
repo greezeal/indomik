@@ -6,7 +6,7 @@
   "type": "",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-10-05T22:03:07.688869",
+  "scraped_at": "2026-10-07T23:57:39.251716",
   "alternative_titles": "レジスタ！, Register!, 收银台之星！, 收銀台之星！",
   "status": "Berjalan",
   "author": "Fujimaru",
@@ -18,65 +18,77 @@
   "synopsis": "Register! yang dibuat oleh komikus bernama\n                    Fujimaru ini bercerita tentang\n                    Kapan waktu yang tepat untuk memulai sebuah hubungan? Kapan waktu yang tepat untuk mengakhirinya? Siapa yang menentukan awal dan akhir masa muda? Di sebuah jalan perbelanjaan kecil di Tokyo, sebuah kisah cinta dimulai di kasir supermarket.",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik Register! Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xNi8=",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Register! Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xNS8=",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "14",
       "title": "Komik Register! Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xNC8=",
-      "date": "36 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Register! Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xMy8=",
-      "date": "3 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Register! Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci04Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Register! Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci03Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Register! Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci02Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Register! Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci01Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Register! Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci00Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Register! Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0zLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Register! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0yLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Register! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 12
 }
