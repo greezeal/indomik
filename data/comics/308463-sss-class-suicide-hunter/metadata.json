@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.31,
-  "scraped_at": "2026-09-26T00:09:56.644979",
+  "scraped_at": "2026-10-09T10:41:38.591246",
   "alternative_titles": "SSS급 자살헌터",
   "status": "Berjalan",
   "author": "Neida (네이다), Shin Noah (신노아)",
@@ -30,16 +30,28 @@
   "synopsis": "Manhwa                    SSS-Class Suicide Hunter yang dibuat oleh komikus bernama\n                    Neida (네이다), Shin Noah (신노아) ini bercerita tentang\n                    Saya ingin keterampilan S-Rank juga! Aku sangat menginginkannya, aku bisa mati untuk itu!\r\n\r\n[Kamu telah membangkitkan skill S-Rank.] [Tapi itu hanya bekerja saat kamu mati.]\r\n\r\nHAH!? APA PUNYA MENDAPATKAN SATU JIKA SAYA MATI !?",
   "chapters": [
     {
+      "chapter": "155",
+      "title": "Komik SSS-Class Suicide Hunter Chapter 155",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3NzLWNsYXNzLXN1aWNpZGUtaHVudGVyLWNoYXB0ZXItMTU1Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "154",
+      "title": "Komik SSS-Class Suicide Hunter Chapter 154",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3NzLWNsYXNzLXN1aWNpZGUtaHVudGVyLWNoYXB0ZXItMTU0Lw==",
+      "date": "4 hari yang lalu"
+    },
+    {
       "chapter": "153",
       "title": "Komik SSS-Class Suicide Hunter Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3NzLWNsYXNzLXN1aWNpZGUtaHVudGVyLWNoYXB0ZXItMTUzLw==",
-      "date": "23 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "152",
       "title": "Komik SSS-Class Suicide Hunter Chapter 152",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3NzLWNsYXNzLXN1aWNpZGUtaHVudGVyLWNoYXB0ZXItMTUyLw==",
-      "date": "24 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "151",
@@ -159,7 +171,7 @@
       "chapter": "132",
       "title": "Komik SSS-Class Suicide Hunter Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3NzLWNsYXNzLXN1aWNpZGUtaHVudGVyLWNoYXB0ZXItMTMyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "131",
@@ -753,13 +765,13 @@
       "chapter": "33",
       "title": "Komik SSS-Class Suicide Hunter Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3NzLWNsYXNzLXN1aWNpZGUtaHVudGVyLWNoYXB0ZXItMzMv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik SSS-Class Suicide Hunter Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3NzLWNsYXNzLXN1aWNpZGUtaHVudGVyLWNoYXB0ZXItMzIv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "31",
@@ -954,5 +966,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 154
+  "total_chapters": 156
 }

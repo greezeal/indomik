@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.31,
-  "scraped_at": "2026-10-07T00:42:50.229001",
+  "scraped_at": "2026-10-09T10:38:07.683154",
   "alternative_titles": "Survival life in a different world ~I moved to an uninhabited island in a different world with everyone at school, but I'm the only one who wins easily~, 異世界ゆるっとサバイバル生活 ～学校の皆と異世界の無人島に転移したけど俺だけ楽勝です～",
   "status": "Berjalan",
   "author": "AYANO",
@@ -26,10 +26,22 @@
   "synopsis": "Manga                    Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu yang dibuat oleh komikus bernama\n                    AYANO ini bercerita tentang\n                    Saya Shinomiya Hokage, anak SMA kelas 3 yang memimpikan hidup bertahan hidup. Suatu hari, semua orang di sekolah saya dipindahkan ke pulau misterius di dunia paralel. Saya terbangun di sebuah gua yang tidak diketahui dan saya mulai bergerak sendiri. Kemudian, saya bertemu dengan beberapa teman sekelas saya. Pengetahuan dan alat saya dalam bertahan hidup bersinar. Saya adalah orang biasa di sekolah tetapi saya adalah pemimpin di dunia ini.",
   "chapters": [
     {
+      "chapter": "46",
+      "title": "Komik Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXl1cnV0dG8tc3Vydml2YWwtc2Vpa2F0c3UtZ2Fra291LW5vLW1pbm5hLXRvLWlzZWthaS1uby1tdWppbnRvdS1uaS10ZW5pc2hpdGFrZWRvLW9yZS1kYWtlLXJha3VzaG91LWRlc3UtY2hhcHRlci00Ni8=",
+      "date": "54 menit yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXl1cnV0dG8tc3Vydml2YWwtc2Vpa2F0c3UtZ2Fra291LW5vLW1pbm5hLXRvLWlzZWthaS1uby1tdWppbnRvdS1uaS10ZW5pc2hpdGFrZWRvLW9yZS1kYWtlLXJha3VzaG91LWRlc3UtY2hhcHRlci00NS8=",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "44",
       "title": "Komik Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXl1cnV0dG8tc3Vydml2YWwtc2Vpa2F0c3UtZ2Fra291LW5vLW1pbm5hLXRvLWlzZWthaS1uby1tdWppbnRvdS1uaS10ZW5pc2hpdGFrZWRvLW9yZS1kYWtlLXJha3VzaG91LWRlc3UtY2hhcHRlci00NC8=",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "43",
@@ -53,7 +65,7 @@
       "chapter": "40",
       "title": "Komik Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXl1cnV0dG8tc3Vydml2YWwtc2Vpa2F0c3UtZ2Fra291LW5vLW1pbm5hLXRvLWlzZWthaS1uby1tdWppbnRvdS1uaS10ZW5pc2hpdGFrZWRvLW9yZS1kYWtlLXJha3VzaG91LWRlc3UtY2hhcHRlci00MC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -83,7 +95,7 @@
       "chapter": "35",
       "title": "Komik Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXl1cnV0dG8tc3Vydml2YWwtc2Vpa2F0c3UtZ2Fra291LW5vLW1pbm5hLXRvLWlzZWthaS1uby1tdWppbnRvdS1uaS10ZW5pc2hpdGFrZWRvLW9yZS1kYWtlLXJha3VzaG91LWRlc3UtY2hhcHRlci0zNS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "34",
@@ -314,5 +326,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 48
+  "total_chapters": 50
 }

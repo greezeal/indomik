@@ -6,7 +6,7 @@
   "type": "",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-10-08T05:51:05.577459",
+  "scraped_at": "2026-10-09T10:41:05.778029",
   "alternative_titles": "レジスタ！, Register!, 收银台之星！, 收銀台之星！",
   "status": "Berjalan",
   "author": "Fujimaru",
@@ -18,28 +18,34 @@
   "synopsis": "Register! yang dibuat oleh komikus bernama\n                    Fujimaru ini bercerita tentang\n                    Kapan waktu yang tepat untuk memulai sebuah hubungan? Kapan waktu yang tepat untuk mengakhirinya? Siapa yang menentukan awal dan akhir masa muda? Di sebuah jalan perbelanjaan kecil di Tokyo, sebuah kisah cinta dimulai di kasir supermarket.",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik Register! Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xNy8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Register! Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xNi8=",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Register! Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xNS8=",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Register! Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xNC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Register! Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVnaXN0ZXItY2hhcHRlci0xMy8=",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "8",
@@ -90,5 +96,5 @@
       "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 12
+  "total_chapters": 13
 }
