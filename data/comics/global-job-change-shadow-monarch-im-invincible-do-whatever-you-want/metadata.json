@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-08-15T22:17:36.582511",
+  "scraped_at": "2026-10-15T10:15:03.705811",
   "alternative_titles": "Everyone's Job Transfer: Shadow Lord, I'm Invincible, You Can Do Whatever You Want, 全民转职：暗影君主我无敌你随意",
   "status": "Berjalan",
   "author": "五月三工作室",
@@ -19,11 +19,29 @@
   "synopsis": "Manhua                    Global Job Change: Shadow Monarch, I’m Invincible, Do Whatever You Want yang dibuat oleh komikus bernama\n                    五月三工作室 ini bercerita tentang\n                    Lima ratus tahun yang lalu, permainan menyerbu realitas, membentuk kembali dunia dan mengantarkan era kebangkitan universal. Monster dan binatang buas berkeliaran bebas, sementara ruang bawah tanah, alam rahasia, dan jurang yang tak terhitung jumlahnya muncul. Di dalamnya terdapat peluang untuk mendapatkan kekuatan yang tak terbayangkan—tetapi juga untuk menghadapi keputusasaan yang tak terukur. Hanya dengan menjadi seorang profesional, meningkatkan level, dan menjadi lebih kuat seseorang dapat naik ke tahta tertinggi. Pada hari kebangkitannya, Wang Xingyu memperoleh kelas tersembunyi Penyihir Bayangan dan membangkitkan bakat unik tingkat dewa: Raja Bayangan.",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Global Job Change: Shadow Monarch, I’m Invincible, Do Whatever You Want Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc2hhZG93LW1vbmFyY2gtaW0taW52aW5jaWJsZS1kby13aGF0ZXZlci15b3Utd2FudC1jaGFwdGVyLTMv",
+      "date": "15 jam yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Global Job Change: Shadow Monarch, I’m Invincible, Do Whatever You Want Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc2hhZG93LW1vbmFyY2gtaW0taW52aW5jaWJsZS1kby13aGF0ZXZlci15b3Utd2FudC1jaGFwdGVyLTIv",
+      "date": "7 hari yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Global Job Change: Shadow Monarch, I’m Invincible, Do Whatever You Want Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc2hhZG93LW1vbmFyY2gtaW0taW52aW5jaWJsZS1kby13aGF0ZXZlci15b3Utd2FudC1jaGFwdGVyLTEv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "0",
       "title": "Komik Global Job Change: Shadow Monarch, I’m Invincible, Do Whatever You Want Chapter 0",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc2hhZG93LW1vbmFyY2gtaW0taW52aW5jaWJsZS1kby13aGF0ZXZlci15b3Utd2FudC1jaGFwdGVyLTAv",
-      "date": "2 jam yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 4
 }

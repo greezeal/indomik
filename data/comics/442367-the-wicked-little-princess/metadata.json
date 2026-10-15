@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.82,
-  "scraped_at": "2026-10-08T05:47:59.879406",
+  "scraped_at": "2026-10-15T10:14:01.673392",
   "alternative_titles": "황녀님이 사악하셔, Hwangnyeonimi Saakasyeo, 皇女殿下很邪恶, The Princess Is Evil",
   "status": "Berjalan",
   "author": "Cha SoHee, 포알카",
@@ -25,220 +25,844 @@
   "synopsis": "Manhwa                    The Wicked Little Princess yang dibuat oleh komikus bernama\n                    Cha SoHee, 포알카 ini bercerita tentang\n                    Sebagai satu-satunya penyihir api dalam 300 tahun, Liona menghabiskan hidupnya terisolasi dari dunia... sampai dia jatuh cinta pada Rakus, pangeran Kerajaan Carrell. Tapi setelah dia mengkhianati dan membunuhnya, dia membuka matanya sebagai bayi putri kerajaan Hasys yang baru lahir! Dengan kekuatan level OP dan garis keturunan darah naga kerajaan, dia keluar untuk membalas dendam terhadap Rakus. Untuk sampai ke sana, pertama-tama dia harus diam-diam memanfaatkan mana, menemukan orang yang bisa dia percayai, dan mengalahkan 11 saudara kandungnya untuk mendapatkan kekuatan takhta!",
   "chapters": [
     {
+      "chapter": "162",
+      "title": "Komik The Wicked Little Princess Chapter 162",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNjIv",
+      "date": "12 jam yang lalu"
+    },
+    {
+      "chapter": "161",
+      "title": "Komik The Wicked Little Princess Chapter 161",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNjEv",
+      "date": "12 jam yang lalu"
+    },
+    {
+      "chapter": "160",
+      "title": "Komik The Wicked Little Princess Chapter 160",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNjAv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "159",
+      "title": "Komik The Wicked Little Princess Chapter 159",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTkv",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "158",
+      "title": "Komik The Wicked Little Princess Chapter 158",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "157",
+      "title": "Komik The Wicked Little Princess Chapter 157",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTcv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "156",
+      "title": "Komik The Wicked Little Princess Chapter 156",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTYv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "155",
+      "title": "Komik The Wicked Little Princess Chapter 155",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "154",
+      "title": "Komik The Wicked Little Princess Chapter 154",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "153",
+      "title": "Komik The Wicked Little Princess Chapter 153",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTMv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "152",
+      "title": "Komik The Wicked Little Princess Chapter 152",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTIv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "151",
+      "title": "Komik The Wicked Little Princess Chapter 151",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTEv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "150",
+      "title": "Komik The Wicked Little Princess Chapter 150",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNTAv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "149",
+      "title": "Komik The Wicked Little Princess Chapter 149",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDkv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "148",
+      "title": "Komik The Wicked Little Princess Chapter 148",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "147",
+      "title": "Komik The Wicked Little Princess Chapter 147",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDcv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "146",
+      "title": "Komik The Wicked Little Princess Chapter 146",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDYv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "145",
+      "title": "Komik The Wicked Little Princess Chapter 145",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "144",
+      "title": "Komik The Wicked Little Princess Chapter 144",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "143",
+      "title": "Komik The Wicked Little Princess Chapter 143",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDMv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "142",
+      "title": "Komik The Wicked Little Princess Chapter 142",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDIv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "141",
+      "title": "Komik The Wicked Little Princess Chapter 141",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDEv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "140",
+      "title": "Komik The Wicked Little Princess Chapter 140",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xNDAv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "139",
+      "title": "Komik The Wicked Little Princess Chapter 139",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzkv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "138",
+      "title": "Komik The Wicked Little Princess Chapter 138",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "137",
+      "title": "Komik The Wicked Little Princess Chapter 137",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzcv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "136",
+      "title": "Komik The Wicked Little Princess Chapter 136",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzYv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "135",
+      "title": "Komik The Wicked Little Princess Chapter 135",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "134",
+      "title": "Komik The Wicked Little Princess Chapter 134",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "133",
+      "title": "Komik The Wicked Little Princess Chapter 133",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzMv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "132",
+      "title": "Komik The Wicked Little Princess Chapter 132",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzIv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "131",
+      "title": "Komik The Wicked Little Princess Chapter 131",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzEv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "130",
+      "title": "Komik The Wicked Little Princess Chapter 130",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMzAv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "129",
+      "title": "Komik The Wicked Little Princess Chapter 129",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjkv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "128",
+      "title": "Komik The Wicked Little Princess Chapter 128",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "127",
+      "title": "Komik The Wicked Little Princess Chapter 127",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjcv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "126",
+      "title": "Komik The Wicked Little Princess Chapter 126",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjYv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "125",
+      "title": "Komik The Wicked Little Princess Chapter 125",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "124",
+      "title": "Komik The Wicked Little Princess Chapter 124",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "123",
+      "title": "Komik The Wicked Little Princess Chapter 123",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjMv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "122",
+      "title": "Komik The Wicked Little Princess Chapter 122",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjIv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "121",
+      "title": "Komik The Wicked Little Princess Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjEv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "120",
+      "title": "Komik The Wicked Little Princess Chapter 120",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMjAv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "119",
+      "title": "Komik The Wicked Little Princess Chapter 119",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTkv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "118",
+      "title": "Komik The Wicked Little Princess Chapter 118",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "117",
+      "title": "Komik The Wicked Little Princess Chapter 117",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTcv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "116",
+      "title": "Komik The Wicked Little Princess Chapter 116",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTYv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "115",
+      "title": "Komik The Wicked Little Princess Chapter 115",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "114",
+      "title": "Komik The Wicked Little Princess Chapter 114",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "113",
+      "title": "Komik The Wicked Little Princess Chapter 113",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTMv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "112",
+      "title": "Komik The Wicked Little Princess Chapter 112",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTIv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "111",
+      "title": "Komik The Wicked Little Princess Chapter 111",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTEv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "110",
+      "title": "Komik The Wicked Little Princess Chapter 110",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMTAv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "109",
+      "title": "Komik The Wicked Little Princess Chapter 109",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDkv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "108",
+      "title": "Komik The Wicked Little Princess Chapter 108",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "107",
+      "title": "Komik The Wicked Little Princess Chapter 107",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDcv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "106",
+      "title": "Komik The Wicked Little Princess Chapter 106",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDYv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "105",
+      "title": "Komik The Wicked Little Princess Chapter 105",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "104",
+      "title": "Komik The Wicked Little Princess Chapter 104",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "103",
+      "title": "Komik The Wicked Little Princess Chapter 103",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDMv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "102",
+      "title": "Komik The Wicked Little Princess Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDIv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "101",
+      "title": "Komik The Wicked Little Princess Chapter 101",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDEv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "100",
+      "title": "Komik The Wicked Little Princess Chapter 100",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0xMDAv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "99",
+      "title": "Komik The Wicked Little Princess Chapter 99",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05OS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "98",
+      "title": "Komik The Wicked Little Princess Chapter 98",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05OC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "97",
+      "title": "Komik The Wicked Little Princess Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05Ny8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "96",
+      "title": "Komik The Wicked Little Princess Chapter 96",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05Ni8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "95",
+      "title": "Komik The Wicked Little Princess Chapter 95",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05NS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "94",
+      "title": "Komik The Wicked Little Princess Chapter 94",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05NC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "93",
+      "title": "Komik The Wicked Little Princess Chapter 93",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05My8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "92",
+      "title": "Komik The Wicked Little Princess Chapter 92",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05Mi8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "91",
+      "title": "Komik The Wicked Little Princess Chapter 91",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05MS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "90",
+      "title": "Komik The Wicked Little Princess Chapter 90",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci05MC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "89",
+      "title": "Komik The Wicked Little Princess Chapter 89",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04OS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "88",
+      "title": "Komik The Wicked Little Princess Chapter 88",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04OC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "87",
+      "title": "Komik The Wicked Little Princess Chapter 87",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04Ny8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "86",
+      "title": "Komik The Wicked Little Princess Chapter 86",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04Ni8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "85",
+      "title": "Komik The Wicked Little Princess Chapter 85",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04NS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "84",
+      "title": "Komik The Wicked Little Princess Chapter 84",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04NC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "83",
+      "title": "Komik The Wicked Little Princess Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04My8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "82",
+      "title": "Komik The Wicked Little Princess Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04Mi8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "81",
+      "title": "Komik The Wicked Little Princess Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04MS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "80",
+      "title": "Komik The Wicked Little Princess Chapter 80",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci04MC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "79",
+      "title": "Komik The Wicked Little Princess Chapter 79",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03OS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "78",
+      "title": "Komik The Wicked Little Princess Chapter 78",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03OC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "77",
+      "title": "Komik The Wicked Little Princess Chapter 77",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03Ny8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "76",
+      "title": "Komik The Wicked Little Princess Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03Ni8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "75",
+      "title": "Komik The Wicked Little Princess Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03NS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "74",
+      "title": "Komik The Wicked Little Princess Chapter 74",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03NC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "73",
+      "title": "Komik The Wicked Little Princess Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03My8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "72",
+      "title": "Komik The Wicked Little Princess Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03Mi8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "71",
+      "title": "Komik The Wicked Little Princess Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03MS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "70",
+      "title": "Komik The Wicked Little Princess Chapter 70",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci03MC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "69",
+      "title": "Komik The Wicked Little Princess Chapter 69",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02OS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "68",
+      "title": "Komik The Wicked Little Princess Chapter 68",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02OC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "67",
+      "title": "Komik The Wicked Little Princess Chapter 67",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02Ny8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "66",
+      "title": "Komik The Wicked Little Princess Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02Ni8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "65",
+      "title": "Komik The Wicked Little Princess Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02NS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "64",
+      "title": "Komik The Wicked Little Princess Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02NC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "63",
+      "title": "Komik The Wicked Little Princess Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02My8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "62",
+      "title": "Komik The Wicked Little Princess Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02Mi8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "61",
+      "title": "Komik The Wicked Little Princess Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02MS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "60",
+      "title": "Komik The Wicked Little Princess Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci02MC8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "59",
+      "title": "Komik The Wicked Little Princess Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01OS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "58",
       "title": "Komik The Wicked Little Princess Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01OC8=",
-      "date": "5 detik yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik The Wicked Little Princess Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01Ny8=",
-      "date": "23 detik yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik The Wicked Little Princess Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01Ni8=",
-      "date": "46 detik yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "55",
       "title": "Komik The Wicked Little Princess Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01NS8=",
-      "date": "1 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik The Wicked Little Princess Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01NC8=",
-      "date": "8 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik The Wicked Little Princess Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01My8=",
-      "date": "29 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik The Wicked Little Princess Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01Mi8=",
-      "date": "51 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik The Wicked Little Princess Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01MS8=",
-      "date": "51 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik The Wicked Little Princess Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci01MC8=",
-      "date": "51 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik The Wicked Little Princess Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00OS8=",
-      "date": "52 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik The Wicked Little Princess Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00OC8=",
-      "date": "53 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik The Wicked Little Princess Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00Ny8=",
-      "date": "53 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik The Wicked Little Princess Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00Ni8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik The Wicked Little Princess Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00NS8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik The Wicked Little Princess Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00NC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik The Wicked Little Princess Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00My8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik The Wicked Little Princess Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00Mi8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik The Wicked Little Princess Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00MS8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik The Wicked Little Princess Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci00MC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik The Wicked Little Princess Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zOS8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik The Wicked Little Princess Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zOC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik The Wicked Little Princess Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zNy8=",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik The Wicked Little Princess Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zNi8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik The Wicked Little Princess Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zNS8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik The Wicked Little Princess Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zNC8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik The Wicked Little Princess Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zMy8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik The Wicked Little Princess Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zMi8=",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik The Wicked Little Princess Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zMS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The Wicked Little Princess Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0zMC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik The Wicked Little Princess Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0yOS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Wicked Little Princess Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0yOC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Wicked Little Princess Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0yNy8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Wicked Little Princess Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0yNi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Wicked Little Princess Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0yNS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Wicked Little Princess Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0yNC8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Wicked Little Princess Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdpY2tlZC1saXR0bGUtcHJpbmNlc3MtY2hhcHRlci0yMy8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "22",
@@ -373,5 +997,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 58
+  "total_chapters": 162
 }
