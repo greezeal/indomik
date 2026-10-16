@@ -2,15 +2,16 @@
   "slug": "chikasugiru-futari",
   "title": "Chikasugiru Futari",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvY2hpa2FzdWdpcnUtZnV0YXJpLw==",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDIvS29taWstQ2hpa2FzdWdpcnUtRnV0YXJpLTIxM3gzMTkuanBn",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQwMjU3OS8xZGU1NmFkYS1mMTFmLTQxYjYtYThlNC1lMDAxY2Q0MmM0MzEva29taWstY2hpa2FzdWdpcnUtZnV0YXJpLTIyNHgzMTkuanBn",
   "type": "Manga",
   "is_colored": false,
-  "rating": 7.0,
-  "scraped_at": "2026-07-09T11:29:13.599288",
-  "alternative_titles": "近すぎる2人, Слишком близкая пара",
+  "rating": 8.39,
+  "scraped_at": "2026-10-16T23:49:29.497319",
+  "alternative_titles": "近すぎる２人, Amigos Grudentos, Слишком близкая пара, Đôi ta gần nhau quá mức rồi đó!, Trên tình bạn, dưới tình yêu, 過近的2人, 过近的2人, Two People Who Are Too Close, 近すぎる2人, Chikasugiru Futari",
   "status": "Berjalan",
   "author": "Yamiaraa",
   "illustrator": "Yamiaraa",
+  "demographic": "Shounen",
   "themes": [
     "School Life"
   ],
@@ -19,104 +20,146 @@
     "Romance",
     "Slice of Life"
   ],
-  "synopsis": "Manga                    Chikasugiru Futari yang dibuat oleh komikus bernama\n                    Yamiaraa ini bercerita tentang\n                    Sejak lahir, mereka selalu bersama dalam segala hal—saat terjaga, tidur, bahkan saat mandi. Pada titik ini, menyebut mereka \"teman masa kecil\" terasa terlalu lunak. Tidak, mereka berdua adalah \"Teman Kelas Buruk.\"Lebih dari sekadar teman masa kecil, tetapi kurang dari sepasang kekasih. Setelah berputar kembali ke titik awal, mereka pada dasarnya seperti pasangan suami istri yang sudah tua.Tirai terbuka untuk komedi romantis \"Teman Kelas Buruk\" ini, di mana rasa ruang pribadi benar-benar hancur!",
+  "synopsis": "Manga                    Chikasugiru Futari yang dibuat oleh komikus bernama\n                    Yamiaraa ini bercerita tentang\n                    Aoi dan Akane itu anak SMA, rumah mereka berdua sebelahan. Sejak lahir, bangun, tidur, bahkan mandi pun selalu bareng. Nyebut mereka “teman kecil” aja udah kurang greget—ini keseharian para kuso-najimi. Lebih dari teman kecil, tapi belum pacaran. Mereka semua sudah melakukan apapun bareng, hingga mereka udah kelihatan kayak suami istri\nromcom kuso-najimi dengan jarak diantara mereka berdua yang udah ngga biasa—dimulai!",
   "chapters": [
+    {
+      "chapter": "14.2",
+      "title": "Komik Chikasugiru Futari Chapter 14.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTQtMi8=",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "14.1",
+      "title": "Komik Chikasugiru Futari Chapter 14.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTQtMS8=",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "13.2",
+      "title": "Komik Chikasugiru Futari Chapter 13.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTMtMi8=",
+      "date": "7 menit yang lalu"
+    },
+    {
+      "chapter": "13.1",
+      "title": "Komik Chikasugiru Futari Chapter 13.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTMtMS8=",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Chikasugiru Futari Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTIv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "11.2",
+      "title": "Komik Chikasugiru Futari Chapter 11.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTEtMi8=",
+      "date": "1 bulan yang lalu"
+    },
     {
       "chapter": "11.1",
       "title": "Komik Chikasugiru Futari Chapter 11.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTEtMS8=",
-      "date": "12 jam yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "10.2",
       "title": "Komik Chikasugiru Futari Chapter 10.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTAtMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "10.1",
       "title": "Komik Chikasugiru Futari Chapter 10.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMTAtMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "9.2",
       "title": "Komik Chikasugiru Futari Chapter 9.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItOS0yLw==",
-      "date": "1 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "9.1",
       "title": "Komik Chikasugiru Futari Chapter 9.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItOS0xLw==",
-      "date": "2 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "8.2",
       "title": "Komik Chikasugiru Futari Chapter 8.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItOC0yLw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "8.1",
       "title": "Komik Chikasugiru Futari Chapter 8.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItOC0xLw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "7.2",
       "title": "Komik Chikasugiru Futari Chapter 7.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNy0yLw==",
-      "date": "3 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "7.1",
       "title": "Komik Chikasugiru Futari Chapter 7.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNy0xLw==",
-      "date": "3 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Chikasugiru Futari Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNi8=",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Chikasugiru Futari Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNS8=",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "4.2",
       "title": "Komik Chikasugiru Futari Chapter 4.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNC0yLw==",
-      "date": "5 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "4.1",
       "title": "Komik Chikasugiru Futari Chapter 4.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNC0xLw==",
-      "date": "5 bulan yang lalu"
+      "date": "8 bulan yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Chikasugiru Futari Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItNC8=",
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Chikasugiru Futari Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMy8=",
-      "date": "5 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Chikasugiru Futari Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMi8=",
-      "date": "5 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Chikasugiru Futari Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hpa2FzdWdpcnUtZnV0YXJpLWNoYXB0ZXItMS8=",
-      "date": "5 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 23
 }
