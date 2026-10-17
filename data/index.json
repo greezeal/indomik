@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T01:56:51.888914",
-  "total_comics": 2398,
+  "last_updated": "2026-10-17T06:54:26.905773",
+  "total_comics": 2408,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -19184,6 +19184,86 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.33,
+      "total_chapters": 1
+    },
+    {
+      "slug": "teyakase-girl-no-osawa-san",
+      "title": "Teyakase Girl no Osawa-san",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "lilys-melancholy",
+      "title": "Lily’s Melancholy",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 9.1,
+      "total_chapters": 0
+    },
+    {
+      "slug": "the-necromancer-who-spares-no-expense",
+      "title": "The Necromancer Who Spares No Expense",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "there-is-no-sejong-in-my-joseon",
+      "title": "There Is No Sejong in My Joseon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "youjo-na-majo-to-mori-no-kuma-san-isekai-de-potion-tsukutte-nonbiri-slow-life-ga-shitai-no-jaga",
+      "title": "Youjo na Majo to Mori no Kuma-san: Isekai de Potion Tsukutte Nonbiri Slow Life ga Shitai no jaga?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.22,
+      "total_chapters": 1
+    },
+    {
+      "slug": "koisuru-shikabane",
+      "title": "Koisuru Shikabane",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead",
+      "title": "I’m The Male Lead’s Biological Daughter, But I Want To Live With The Second Male Lead!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "moto-shin-ryuu-chippokena-ningen-ni-tensei-shitakedo-muso-shimasu",
+      "title": "Moto Shin Ryuu, Chippokena Ningen ni Tensei Shitakedo Musō Shimasu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.25,
+      "total_chapters": 1
+    },
+    {
+      "slug": "sensen-senki",
+      "title": "Sensen Senki",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.84,
+      "total_chapters": 1
+    },
+    {
+      "slug": "moto-saikyou-ansatsusha-wa-inaka-de-hissori-shinpu-ni-naru-dai-shusse-shita-oshiego-tachi-ni-shitawareu-ossan-ga-anyakusuru-hanashi",
+      "title": "Moto Saikyou Ansatsusha wa Inaka de Hissori Shinpu ni Naru ~Dai-shusse Shita Oshiego-tachi ni Shitawareu Ossan ga An’yakusuru Hanashi~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.17,
       "total_chapters": 1
     }
   ]
