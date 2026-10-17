@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-11T00:59:55.397110",
+  "scraped_at": "2026-10-17T11:18:58.040477",
   "alternative_titles": "Healing With D'Bly, Healing With Deubly, Healing With Deulbi, Healing With Drubly, Sanando con Deubeulli, 드블리와 힐링합니다, 드블리와 힐링합니다.",
   "status": "Berjalan",
   "author": "Fides",
@@ -20,46 +20,52 @@
   "synopsis": "Manhwa                    Healing With Deulbi yang dibuat oleh komikus bernama\n                    Fides ini bercerita tentang\n                    Theodophilus, seorang druid yang bereinkarnasi ke dalam tubuh seorang pekerja kantoran biasa, Sihyeon.\r\n\r\nSetelah turun ke desa terpencil untuk memulihkan diri—demi tubuh Sihyeon yang telah mati karena kelelahan—\r\n\r\nIa memulai kehidupan penyembuhan menggunakan kekuatan druidnya.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik Healing With Deulbi Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTMzLw==",
+      "date": "28 detik yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Healing With Deulbi Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTMyLw==",
-      "date": "8 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Healing With Deulbi Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTMxLw==",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Healing With Deulbi Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTMwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Healing With Deulbi Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTI5Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Healing With Deulbi Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTI4Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Healing With Deulbi Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTI3Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Healing With Deulbi Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy13aXRoLWRldWxiaS1jaGFwdGVyLTI2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -212,5 +218,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }

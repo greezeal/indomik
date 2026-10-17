@@ -2,18 +2,19 @@
   "slug": "saiaku-no-avalon",
   "title": "Saiaku No Avalon",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvc2FpYWt1LW5vLWF2YWxvbi8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDQvS29taWstU2FpYWt1LU5vLUF2YWxvbi0yMzZ4MTY5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI0NTM4OS9jMjY3NzE3MS1iMmFlLTRmM2UtYWMxYy05NjljYTRlYzA4MTcva29taWstc2FpYWt1LW5vLWF2YWxvbi0yMjR4MzE5LmpwZw==",
   "type": "Manga",
   "is_colored": false,
-  "rating": 7.28,
-  "scraped_at": "2026-07-10T18:07:22.427383",
-  "alternative_titles": "Finding Avalon : The Quest of a Chaosbringer, Avalon of Disaster, Wazawai Aku no Avalon: Finding Avalon -The Quest of a Chaosbringer-, 災悪のアヴァロン",
+  "rating": 7.69,
+  "scraped_at": "2026-10-17T11:27:54.316148",
+  "alternative_titles": "Wazawai no Avalon: Game Saijaku no Akuyaku Debu ni Ten'i Shita kedo, Ore dake \"Yasereba Tsuyokute New Game\" na Sekai datta no de, Saisoku Level Up & Hametsu Flag Kaihi de Kage no Eiyuu o Mezashimasu, 災悪のアヴァロン～ゲーム最弱の悪役デブに転移したけど、俺だけ“やせれば強くてニューゲーム”な世界だったので、最速レベルアップ＆破滅フラグ回避で影の英雄を目指します～, Finding Avalon: The Quest of a Chaosbringer, Avalon of Disaster, Finding Avalon: La Búsqueda de un Portador del Caos, 災悪のアヴァロン, Wazawai no Avalon, Saiaku No Avalon",
   "status": "Berjalan",
   "author": "Akito Narusawa",
-  "illustrator": "Keg",
-  "demographic": "Seinen",
+  "illustrator": "Satou Zero",
+  "demographic": "Shounen",
   "themes": [
     "Harem",
+    "Reincarnation",
     "School Life",
     "Supernatural"
   ],
@@ -23,69 +24,82 @@
     "Comedy",
     "Drama",
     "Fantasy",
+    "Isekai",
     "Romance"
   ],
-  "synopsis": "Manga                    Saiaku No Avalon yang dibuat oleh komikus bernama\n                    Akito Narusawa ini bercerita tentang\n                    Karakter utama menyukai game MMORPG bernama Dan-Ex. Selama satu\r\nhari tertentu, acara pengujian beta diumumkan, dan dia berhasil mengalahkannya.\r\nSebagai imbalan untuk menyelesaikan acara tersebut, dia diberikan izin untuk mencoba server pengujian beta.\r\nMemaksa untuk memilih avatar dan skill yang berbeda karena sistem tidak mengizinkannya sendiri, dia akhirnya memutuskan secara acak. Namun, dia dipindahkan ke tempat di mana, seperti yang diharapkan, dia menemukan karakter massa yang gemuk dan jahat...!",
+  "synopsis": "Manga                    Saiaku No Avalon yang dibuat oleh komikus bernama\n                    Akito Narusawa ini bercerita tentang\n                    Karakter utama menyukai permainan MMORPG yang disebut Dungeon Explorer Chronicle (Dun-Ex). Selama satu hari tertentu, acara beta test diumumkan, dan ia berhasil mengalahkan itu. Dalam pertukaran untuk membersihkan acara, ia diberikan izin untuk mencoba beta test server. Memaksa untuk memilih avatar dan keterampilan yang berbeda karena sistem tidak mengijinkan sendiri, ia akhirnya menetap secara acak. Namun, ia dipindahkan ke tempat di mana, seperti yang diharapkan, ia menemukan lemak, penjahat karakter massa...!\n\nmanga telah di hiatus sejak publikasi Bab 90 pada 21 Oktober 2025, setelah adaptasi terjebak dengan sumber novel. Shueisha mengumumkan bahwa kekosongan akan berlanjut untuk saat ini sampai sumber bahan yang cukup tersedia.",
   "chapters": [
+    {
+      "chapter": "57",
+      "title": "Komik Saiaku No Avalon Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTU3Lw==",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "56",
+      "title": "Komik Saiaku No Avalon Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTU2Lw==",
+      "date": "3 minggu yang lalu"
+    },
     {
       "chapter": "55",
       "title": "Komik Saiaku No Avalon Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTU1Lw==",
-      "date": "41 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Saiaku No Avalon Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTU0Lw==",
-      "date": "41 menit yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Saiaku No Avalon Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTUzLw==",
-      "date": "3 hari yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Saiaku No Avalon Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTUyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Saiaku No Avalon Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTUxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Saiaku No Avalon Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTUwLw==",
-      "date": "4 minggu yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Saiaku No Avalon Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Saiaku No Avalon Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ4Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Saiaku No Avalon Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ3Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Saiaku No Avalon Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQ2Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "45",
@@ -103,19 +117,19 @@
       "chapter": "43",
       "title": "Komik Saiaku No Avalon Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Saiaku No Avalon Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Saiaku No Avalon Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTQxLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "40",
@@ -217,25 +231,25 @@
       "chapter": "24",
       "title": "Komik Saiaku No Avalon Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTI0Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Saiaku No Avalon Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTIzLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Saiaku No Avalon Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTIyLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Saiaku No Avalon Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FpYWt1LW5vLWF2YWxvbi1jaGFwdGVyLTIxLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "20",
@@ -364,5 +378,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 58
 }

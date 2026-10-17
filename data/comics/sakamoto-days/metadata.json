@@ -2,48 +2,60 @@
   "slug": "sakamoto-days",
   "title": "Sakamoto Days",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvc2FrYW1vdG8tZGF5cy8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDEvS29taWstU2FrYW1vdG8tRGF5cy0yMTl4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzYxMTE0L2M1MGFmOGYwLTZkNzQtNDUxNC1iYTdiLTFlMzEwZTBhNWE3OS9rb21pay1zYWthbW90by1kYXlzLTIwM3gzMTkuanBn",
   "type": "Manga",
   "is_colored": false,
-  "rating": 8.39,
-  "scraped_at": "2026-10-11T00:54:53.145559",
-  "alternative_titles": "Дни Сакамото, 坂本でいす",
+  "rating": 9.1,
+  "scraped_at": "2026-10-17T11:23:35.815000",
+  "alternative_titles": "サカモト デイズ, साकामोतो डेज, Дни Сакамото, Sát Thủ Về Vườn, Sakamoto (SUZUKI Yuuto), SAKAMOTO -サカモト-, Sakamoto Günleri, أيام ساكاموتو, サカモトデイズ, 坂本 DAYS, 사카모토 데이즈, Sakamoto Days",
   "status": "Berjalan",
   "author": "Suzuki Yuuto",
   "illustrator": "Suzuki Yuuto",
   "demographic": "Shounen",
   "themes": [
+    "Delinquents",
+    "Martial Arts",
     "Supernatural"
   ],
   "genres": [
     "Action",
-    "Comedy"
+    "Comedy",
+    "Drama",
+    "Sci-Fi",
+    "Slice of Life",
+    "Thriller"
   ],
-  "synopsis": "Manga                    Sakamoto Days yang dibuat oleh komikus bernama\n                    Suzuki Yuuto ini bercerita tentang\n                    Taro Sakamoto adalah pembunuh utama, ditakuti oleh penjahat dan dikagumi oleh pembunuh bayaran. Tapi suatu hari ... dia jatuh cinta! Pensiun, pernikahan, menjadi ayah, dan kemudian ... Sakamoto bertambah gemuk! Pria gemuk yang menjalankan toko lingkungan sebenarnya adalah mantan pembunuh bayaran legendaris! Bisakah dia melindungi keluarganya dari bahaya? Bersiaplah untuk mengalami serial komedi aksi jenis baru!",
+  "synopsis": "Manga                    Sakamoto Days yang dibuat oleh komikus bernama\n                    Suzuki Yuuto ini bercerita tentang\n                    Taro Sakamoto adalah pembunuh ultimate, ditakuti oleh penjahat dan dikagumi oleh hitmen. Tapi suatu hari... dia jatuh cinta! Pensiun, pernikahan, ayah dan kemudian... Sakamoto menambah berat badan! Orang gemuk yang menjalankan toko lingkungan sebenarnya mantan pembunuh legendaris! Bisakah dia melindungi keluarganya dari bahaya?",
   "chapters": [
+    {
+      "chapter": "279",
+      "title": "Komik Sakamoto Days Chapter 279",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI3OS8=",
+      "date": "3 jam yang lalu"
+    },
     {
       "chapter": "278",
       "title": "Komik Sakamoto Days Chapter 278",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI3OC8=",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "277",
       "title": "Komik Sakamoto Days Chapter 277",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI3Ny8=",
-      "date": "5 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "276",
       "title": "Komik Sakamoto Days Chapter 276",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI3Ni8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "275",
       "title": "Komik Sakamoto Days Chapter 275",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI3NS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "274",
@@ -55,7 +67,7 @@
       "chapter": "273",
       "title": "Komik Sakamoto Days Chapter 273",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI3My8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "272",
@@ -73,7 +85,7 @@
       "chapter": "270",
       "title": "Komik Sakamoto Days Chapter 270",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI3MC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "269",
@@ -175,7 +187,7 @@
       "chapter": "253",
       "title": "Komik Sakamoto Days Chapter 253",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI1My8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "252",
@@ -217,7 +229,7 @@
       "chapter": "246",
       "title": "Komik Sakamoto Days Chapter 246",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTI0Ni8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "245",
@@ -259,7 +271,7 @@
       "chapter": "239",
       "title": "Komik Sakamoto Days Chapter 239",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTIzOS8=",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "238",
@@ -283,7 +295,7 @@
       "chapter": "235",
       "title": "Komik Sakamoto Days Chapter 235",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTIzNS8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "234",
@@ -439,7 +451,7 @@
       "chapter": "209",
       "title": "Komik Sakamoto Days Chapter 209",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTIwOS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "208",
@@ -721,19 +733,19 @@
       "chapter": "162",
       "title": "Komik Sakamoto Days Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTE2Mi8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "161",
       "title": "Komik Sakamoto Days Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTE2MS8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "160",
       "title": "Komik Sakamoto Days Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTE2MC8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "159",
@@ -1315,13 +1327,13 @@
       "chapter": "63",
       "title": "Komik Sakamoto Days Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTYzLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Sakamoto Days Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2FrYW1vdG8tZGF5cy1jaGFwdGVyLTYyLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "61",
@@ -1690,5 +1702,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 278
+  "total_chapters": 279
 }

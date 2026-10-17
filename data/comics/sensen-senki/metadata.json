@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.84,
-  "scraped_at": "2026-10-17T06:51:42.762920",
+  "scraped_at": "2026-10-17T11:26:57.068574",
   "alternative_titles": "千仙戦記, Sen Sen Senki, The Chronicles of a Thousand Immortals, Crônicas da Guerra dos Mil Imortais, Tiên Chiến Ký",
   "status": "Berjalan",
   "author": "A-10",
@@ -24,11 +24,17 @@
   "synopsis": "Manga                    Sensen Senki yang dibuat oleh komikus bernama\n                    A-10 ini bercerita tentang\n                    Pada zaman perang, dengan dunia terbagi di antara beberapa kerajaan, seorang anak laki-laki ditangkap dan diperbudak setelah panglima perang perkasa menaklukkan negara asalnya. Meskipun tanah airnya sekarang hancur, anak itu menolak menyerah untuk putus asa, berjanji untuk suatu hari membebaskan rakyat dari tirani panglima perang. Untuk mencapai keinginan tersayang, ia menyelesaikan untuk menjadi \"Sage\", orang yang kekuatannya melampaui batas manusia!",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Sensen Senki Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vuc2VuLXNlbmtpLWNoYXB0ZXItMi8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Sensen Senki Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2Vuc2VuLXNlbmtpLWNoYXB0ZXItMS8=",
-      "date": "2 jam yang lalu"
+      "date": "11 jam yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }
