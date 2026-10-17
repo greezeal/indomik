@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-10T14:00:37.595157",
+  "scraped_at": "2026-10-17T17:25:58.720766",
   "alternative_titles": "Welcome to Rose Mansion, Welcome to the Rose Manor, Welcome to the Rose Mansion, Ласкаво просимо до трояндового маєтку, คฤหาสน์ซ่อนหนาม, ようこそ、ローズの屋敷へ, 薔薇宅邸的邀請, 장미 저택에 어서 오세요, 장미 저택에 어서오세요",
   "status": "Berjalan",
   "author": "Idaran",
@@ -23,34 +23,40 @@
   "synopsis": "Manhwa                    Welcome to the Rose Mansion yang dibuat oleh komikus bernama\n                    Idaran ini bercerita tentang\n                    Muak dan lelah dengan hutang ibunya yang menghancurkan hidupnya, Richelle menerima pekerjaan sebagai tutor untuk keluarga Otis yang terhormat. Namun, setelah menemukan surat berisi aturan ketat dan menyeramkan tentang cara bertahan hidup di dalam rumah besar mawar itu, Richelle merasakan ada sesuatu yang jahat sedang mengintai. Sekarang, dia harus membayar harga atas pilihannya.",
   "chapters": [
     {
+      "chapter": "68",
+      "title": "Komik Welcome to the Rose Mansion Chapter 68",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS10by10aGUtcm9zZS1tYW5zaW9uLWNoYXB0ZXItNjgv",
+      "date": "22 menit yang lalu"
+    },
+    {
       "chapter": "67",
       "title": "Komik Welcome to the Rose Mansion Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS10by10aGUtcm9zZS1tYW5zaW9uLWNoYXB0ZXItNjcv",
-      "date": "32 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik Welcome to the Rose Mansion Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS10by10aGUtcm9zZS1tYW5zaW9uLWNoYXB0ZXItNjYv",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik Welcome to the Rose Mansion Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS10by10aGUtcm9zZS1tYW5zaW9uLWNoYXB0ZXItNjUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Welcome to the Rose Mansion Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS10by10aGUtcm9zZS1tYW5zaW9uLWNoYXB0ZXItNjQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Welcome to the Rose Mansion Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS10by10aGUtcm9zZS1tYW5zaW9uLWNoYXB0ZXItNjMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "62",
@@ -62,7 +68,7 @@
       "chapter": "61",
       "title": "Komik Welcome to the Rose Mansion Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2VsY29tZS10by10aGUtcm9zZS1tYW5zaW9uLWNoYXB0ZXItNjEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "60",
@@ -425,5 +431,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 67
+  "total_chapters": 68
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-10-11T00:54:12.133809",
+  "scraped_at": "2026-10-17T17:24:44.446012",
   "alternative_titles": "#My First Love, #MyFirstLove, Hashtag First Love, The Hashtag Is First Love, 初戀標籤, 标签是初恋, 해시태그는 첫사랑",
   "status": "Berjalan",
   "author": "KAN (IV)",
@@ -21,28 +21,34 @@
   "synopsis": "Manhwa                    The Hashtag Is First Love yang dibuat oleh komikus bernama\n                    KAN (IV) ini bercerita tentang\n                    Yoon Ye-seol, siswi terbaik di sekolahnya, tiba-tiba mulai melihat perasaan sejati orang lain sebagai \"tagar.\" Tapi… di atas cinta pertamanya, Seong Shin-woo, muncul tagar: #Cinta_pertama_ku_yang_ternyata_sampah?!\r\n\r\nLuka lama karena ditinggalkan—luka yang tidak pernah ia mengerti—muncul kembali, mendorong Ye-seol untuk bekerja sama dengan Baek Sol, yang juga membenci Shin-woo. Apakah ini balas dendam? Atau kasih sayang yang masih tersisa dan menolak untuk memudar? Dan siapa yang akan terluka kali ini?",
   "chapters": [
     {
+      "chapter": "48",
+      "title": "Komik The Hashtag Is First Love Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhhc2h0YWctaXMtZmlyc3QtbG92ZS1jaGFwdGVyLTQ4Lw==",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "47",
       "title": "Komik The Hashtag Is First Love Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhhc2h0YWctaXMtZmlyc3QtbG92ZS1jaGFwdGVyLTQ3Lw==",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik The Hashtag Is First Love Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhhc2h0YWctaXMtZmlyc3QtbG92ZS1jaGFwdGVyLTQ2Lw==",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik The Hashtag Is First Love Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhhc2h0YWctaXMtZmlyc3QtbG92ZS1jaGFwdGVyLTQ1Lw==",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik The Hashtag Is First Love Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhhc2h0YWctaXMtZmlyc3QtbG92ZS1jaGFwdGVyLTQ0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "43",
@@ -303,5 +309,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 47
+  "total_chapters": 48
 }
