@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T14:55:16.642285",
-  "total_comics": 2419,
+  "last_updated": "2026-10-18T18:04:11.670637",
+  "total_comics": 2420,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -174,9 +174,9 @@
       "slug": "infinite-evolution-starting-from-zero",
       "title": "Infinite Evolution Starting From Zero",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 8.61,
-      "total_chapters": 134
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "iron-ladies",
@@ -374,9 +374,9 @@
       "slug": "evolution-begins-with-a-big-tree",
       "title": "Evolution Begins With A Big Tree",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 534
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "doukyo-shiteiru-kensei-no-onna-shishou-ga-kawaisugite-mainichi-shiawase-desu",
@@ -608,7 +608,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.38,
-      "total_chapters": 12
+      "total_chapters": 14
     },
     {
       "slug": "shop-skill-sae-areba-dungeon-ka-shita-sekai-demo-rakushou-da",
@@ -1255,8 +1255,8 @@
       "title": "A Dragonslayer’s Peerless Regression",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 6.5,
-      "total_chapters": 104
+      "rating": 8.12,
+      "total_chapters": 107
     },
     {
       "slug": "overlord-of-sichuan",
@@ -2103,8 +2103,8 @@
       "title": "Childhood Friend Of The Zenith",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 108
+      "rating": 8.83,
+      "total_chapters": 111
     },
     {
       "slug": "141523-the-indomitable-martial-king",
@@ -3703,8 +3703,8 @@
       "title": "The Count’s Youngest Son Is A Player",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 158
+      "rating": 8.09,
+      "total_chapters": 160
     },
     {
       "slug": "tamagawa-san-detemashita",
@@ -4046,9 +4046,9 @@
       "slug": "316904-disastrous-necromancer",
       "title": "Disastrous Necromancer",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 309
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4774,9 +4774,9 @@
       "slug": "obshchaka",
       "title": "Obshchaka",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 37
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "tsuihousareru-tabi-ni-skill-wo-te-ni-ireta-ore-ga-100-no-isekai-de-2-shuume-musou",
@@ -5182,17 +5182,17 @@
       "slug": "city-of-sin",
       "title": "City of Sin",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 47
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "545921-revenge-of-the-iron-blooded-sword-hound",
       "title": "Revenge Of The Iron-Blooded Sword Hound",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 183
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5368,7 +5368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 98
+      "total_chapters": 101
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -6080,7 +6080,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 105
+      "total_chapters": 107
     },
     {
       "slug": "archmage-restaurant",
@@ -6334,9 +6334,9 @@
       "slug": "287895-dungeon-odyssey",
       "title": "Dungeon Odyssey",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.14,
-      "total_chapters": 168
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "807679-the-returned-c-rank-tank-wont-die",
@@ -6526,9 +6526,9 @@
       "slug": "dao-of-the-bizarre-immortal",
       "title": "Dao of the Bizarre Immortal",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 92
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-lucky-plan-of-an-idol-in-his-second-life",
@@ -7416,7 +7416,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 54
+      "total_chapters": 55
     },
     {
       "slug": "jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake",
@@ -8334,9 +8334,9 @@
       "slug": "resurrection-boy",
       "title": "Resurrection Boy",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 42
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-shepherd-wizard",
@@ -9239,8 +9239,8 @@
       "title": "Reincarnator",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 121
+      "rating": 8.02,
+      "total_chapters": 133
     },
     {
       "slug": "mysterious-revival-starting-with-a-trillion-ghost-coins",
@@ -10312,7 +10312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 47
     },
     {
       "slug": "danshi-kinsei-game-sekai-de-ore-ga-yarubeki-yuiitsu-no-koto-yuri-no-ma-ni-hasamaru-otoko-to-shite-tensei-shite-shimaimashita",
@@ -10926,9 +10926,9 @@
       "slug": "lord-prestons-secret-tutor",
       "title": "Lord Preston’s Secret Tutor",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 30
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "a-match-with-me",
@@ -12726,9 +12726,9 @@
       "slug": "400323-reincarnation-of-the-veteran-soldier",
       "title": "Reincarnation Of The Veteran Soldier",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 8.99,
-      "total_chapters": 135
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "keiken-wo-sukiru-ni-suru-bannou-na-nouryoku-wo-te-ni-irete-saikyou-no-tansaku-sha-ni-narimashita-jk-to-issho-ni-dungeon-tansaku-de-nariagaru",
@@ -13102,9 +13102,9 @@
       "slug": "return-of-the-runebound-professor",
       "title": "Return of the Runebound Professor",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 91
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "kingdom-of-the-z",
@@ -13686,9 +13686,9 @@
       "slug": "debut-or-die",
       "title": "Debut or Die",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 116
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
@@ -14488,7 +14488,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 37
     },
     {
       "slug": "646272-steel-eating-player",
@@ -14544,7 +14544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.41,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "the-fake-saintess-of-a-reverse-harem-game",
@@ -14798,9 +14798,9 @@
       "slug": "looking-for-the-villainesss-contract-husband",
       "title": "Looking for the Villainess’s Contract Husband",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 31
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "transmigrating-to-the-otherworld-once-more",
@@ -15808,7 +15808,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.12,
-      "total_chapters": 8
+      "total_chapters": 9
     },
     {
       "slug": "tensei-teido-de-mune-no-ana-wa-umaranai",
@@ -16270,9 +16270,9 @@
       "slug": "marriage-with-a-suspiciously-demure-husband",
       "title": "Marriage with a Suspiciously Demure Husband",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 22
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "saiyakkyuu-skill-boushoku-maou-mochi-no-akuyaku-kizoku-ni-tensei-shimashita-ga-shokei-saretakunai-node-skill-wo-kakushite-hitasura-doryoku-shimasu",
@@ -17574,9 +17574,9 @@
       "slug": "underworld-monarch-i-am-the-abyss",
       "title": "Underworld Monarch: I Am the Abyss",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 6
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu",
@@ -17894,9 +17894,9 @@
       "slug": "i-became-the-terminally-ill-princess-with-no-tomorrow",
       "title": "I Became the Terminally Ill Princess With No Tomorrow",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 32
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "baka-deka-imouto-ga-yatte-kuru",
@@ -17912,7 +17912,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 22
     },
     {
       "slug": "jk-modelers-guide",
@@ -18102,9 +18102,9 @@
       "slug": "853527-number-one-star-instructor-master-baek",
       "title": "Number One Star Instructor Master Baek",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 183
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "my-healing-skill-can-copy-anything-so-i-conquered-the-abyss",
@@ -18432,7 +18432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 40
     },
     {
       "slug": "starting-with-x10-you-really-exploited-the-bug",
@@ -18494,9 +18494,9 @@
       "slug": "i-really-dont-want-to-learn-forbidden-spells",
       "title": "I Really Don’t Want to Learn Forbidden Spells",
       "type": "Manhua",
-      "status": "Berjalan",
-      "rating": 8.27,
-      "total_chapters": 187
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "943776-isekai-de-slow-life-wo-ganbou",
@@ -18784,7 +18784,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.93,
-      "total_chapters": 168
+      "total_chapters": 170
     },
     {
       "slug": "a-girl-whos-bad-at-expressing-herself",
@@ -18800,7 +18800,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.38,
-      "total_chapters": 131
+      "total_chapters": 134
     },
     {
       "slug": "isshun-wo-ikiru-kimi-wo-boku-wa-eien-ni-wasurenai",
@@ -19038,17 +19038,17 @@
       "slug": "hiding-my-identity-from-my-husband",
       "title": "Hiding My Identity From My Husband",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 5
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "i-became-the-youngest-disciple-of-the-mount-hua-sect",
       "title": "I Became The Youngest Disciple of The Mount Hua Sect",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.43,
-      "total_chapters": 41
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-return-of-the-scorned-genius",
@@ -19254,9 +19254,9 @@
       "slug": "sensen-senki",
       "title": "Sensen Senki",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 8.84,
-      "total_chapters": 2
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "moto-saikyou-ansatsusha-wa-inaka-de-hissori-shinpu-ni-naru-dai-shusse-shita-oshiego-tachi-ni-shitawareu-ossan-ga-anyakusuru-hanashi",
@@ -19326,9 +19326,9 @@
       "slug": "moto-tansakusha-no-ojii-chan-mago-ni-segamarete-dungeon-haishin-o-hajimeta-njaga-nazeka-bazuriotta-wai",
       "title": "Moto Tansakusha no Ojii-chan: Mago ni Segamarete Dungeon Haishin o Hajimeta njaga, Nazeka Bazuriotta wai",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 8.48,
-      "total_chapters": 6
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "shachou-to-sake-to-hoshi",
@@ -19353,6 +19353,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 3
+    },
+    {
+      "slug": "319563-heavenly-grand-archives-young-master",
+      "title": "Heavenly Grand Archive’s Young Master",
+      "type": "Manhwa",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     }
   ]
 }
