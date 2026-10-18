@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.63,
-  "scraped_at": "2026-10-17T11:22:40.830562",
+  "scraped_at": "2026-10-18T11:48:22.553634",
   "alternative_titles": "あの島の海音荘, Ano Shima no Kaion-sou, Umine the Island Inn, Umine, a pousada da ilha, La posada Umine de aquella isla, Umine-sou Trên Hòn Đảo Ấy, Ano Shima no Umine-sō, あの島の海音〈うみね〉荘, Ano Shima no Umine-sou",
   "status": "Berjalan",
   "author": "Seo Kouji",
@@ -22,28 +22,34 @@
   "synopsis": "Manga                    Ano Shima no Umine-sou yang dibuat oleh komikus bernama\n                    Seo Kouji ini bercerita tentang\n                    Kazuma tua telah dipanggil ke Pulau Asagiri, dikabarkan menjadi rumah untuk harta bajak laut yang lama hilang. Dia akhirnya bekerja sebagai orang pengangguran di Umine Inn, sebuah kafe tradisional Jepang dengan wanita - hanya penginapan dan host dari wanita eksentrik namun indah.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Ano Shima no Umine-sou Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTMwLw==",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik Ano Shima no Umine-sou Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTI5Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Ano Shima no Umine-sou Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTI4Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Ano Shima no Umine-sou Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTI3Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Ano Shima no Umine-sou Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTI2Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "25",
@@ -202,5 +208,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }

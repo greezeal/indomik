@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.84,
-  "scraped_at": "2026-10-17T11:19:25.263712",
+  "scraped_at": "2026-10-18T11:46:12.356600",
   "alternative_titles": "Boyish Kanojo ga Kawaisugiru, ボーイッシュ彼女が可愛すぎる, Boyish Girlfriend, My Boyish Girlfriend is Too Cute., 我的男孩子气女朋友实在是太可爱了, Chłopięca dziewczyna jest zbyt urocza, Namorada tomboy de outra escola, Моя дівчина-пацанка занадто чарівна, Bạn Gái Tomboy Quá Đỗi Đáng Yêu, Boyish Girlfriend from Another School, Boyish Girlfriend Is Too Cute, 他校のボーイッシュ彼女, 我的男孩子氣女友實在太可愛了, 男孩子氣的女友超級可愛, Takou no Boyish Kanojo",
   "status": "Berjalan",
   "author": "Gyuunyuu Mugigohan",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Takou no Boyish Kanojo yang dibuat oleh komikus bernama\n                    Gyuunyuu Mugigohan ini bercerita tentang\n                    Akira adalah anak laki-laki dalam keduanya penampilan dan kepribadian - dan Daichi, teman masa kecilnya berubah pacar pada tahun pertama mereka SMA, berpikir dia terlalu lucu. Pakaian cewek bukan urusannya... jadi kenapa dia tiba-tiba menemukannya dengan kostum pembantu di sekolah?\n\nCatatan: Awalnya diterbitkan sebagai Schulsant (Takou no Boyish Kanojo) sebagai web manga yang dirilis pada akun Twitter penulis sejak 4 September 2024 dan diterbitkan dalam 22 Maret 2025.",
   "chapters": [
     {
+      "chapter": "62",
+      "title": "Komik Takou no Boyish Kanojo Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTYyLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "61",
       "title": "Komik Takou no Boyish Kanojo Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTYxLw==",
-      "date": "5 menit yang lalu"
+      "date": "24 jam yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Takou no Boyish Kanojo Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTYwLw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "59",
@@ -164,7 +170,7 @@
       "chapter": "38",
       "title": "Komik Takou no Boyish Kanojo Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTM4Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "37",
@@ -218,7 +224,7 @@
       "chapter": "29",
       "title": "Komik Takou no Boyish Kanojo Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTI5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -296,13 +302,13 @@
       "chapter": "16",
       "title": "Komik Takou no Boyish Kanojo Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTE2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Takou no Boyish Kanojo Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFrb3Utbm8tYm95aXNoLWthbm9qby1jaGFwdGVyLTE1Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "14",
@@ -389,5 +395,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 62
 }

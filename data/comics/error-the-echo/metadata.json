@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-17T11:19:03.121922",
+  "scraped_at": "2026-10-18T11:44:29.097846",
   "alternative_titles": "에러 디 에코",
   "status": "Berjalan",
   "author": "Sunsu",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Error the Echo yang dibuat oleh komikus bernama\n                    Sunsu ini bercerita tentang\n                    Dalam sebuah gim horor yang mengerikan—di mana kematian di dunia virtual berarti kematian di dunia nyata—setiap pemain menghadapi keputusasaan mutlak. Namun, seorang pemain menemukan sebuah rahasia yang mengubah segalanya: hanya dialah satu-satunya yang benar-benar abadi dan tidak bisa mati.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Error the Echo Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJyb3ItdGhlLWVjaG8tY2hhcHRlci05Lw==",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Error the Echo Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJyb3ItdGhlLWVjaG8tY2hhcHRlci04Lw==",
-      "date": "51 detik yang lalu"
+      "date": "24 jam yang lalu"
     },
     {
       "chapter": "7",
@@ -68,5 +74,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

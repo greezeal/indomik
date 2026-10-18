@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.58,
-  "scraped_at": "2026-10-17T11:23:57.688739",
+  "scraped_at": "2026-10-18T11:50:49.042560",
   "alternative_titles": "江西くんは魔性（ハーレム）体質に目覚めました, Enishi-kun Woke Up to a Harem Constitution, 江西君觉醒了魔性（后宫）体质, Enishi-kun wa Harem Taishitsu ni Mezamemashita, Enishi-kun Woke Up to a Magical Harem Constitution, Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita",
   "status": "Berjalan",
   "author": "Nakao",
@@ -24,28 +24,34 @@
   "synopsis": "Manga                    Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita yang dibuat oleh komikus bernama\n                    Nakao ini bercerita tentang\n                    Enishi Kazumichi adalah seorang remaja yang masih bertingkah seperti anak kecil yang mati, karena sikap itu dia sering dianggap seperti anak bahkan oleh teman masa kecilnya sendiri. Ketika perasaannya untuk gadis yang disukainya dihancurkan oleh teman masa kecilnya, Kazumichi memutuskan untuk sendirian dan mulai makan siang di tempat yang tenang di sekolahnya. Tapi tiba-tiba muncul seseorang entah dari mana dan meminta bantuan pada Kazumichi. Kemudian, sejak saat itu, kehidupan Kazumichi berubah, penuh dengan masalah harem rumit. Apa dia bisa mengatasi masalah? dan masalah apa yang akan dia hadapi?",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5pc2hpLWt1bi13YS1tYXNoby1oYXJlbS10YWlzaGl0c3UtbmktbWV6YW1lbWFzaGl0YS1jaGFwdGVyLTQ3Lw==",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "46",
       "title": "Komik Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5pc2hpLWt1bi13YS1tYXNoby1oYXJlbS10YWlzaGl0c3UtbmktbWV6YW1lbWFzaGl0YS1jaGFwdGVyLTQ2Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5pc2hpLWt1bi13YS1tYXNoby1oYXJlbS10YWlzaGl0c3UtbmktbWV6YW1lbWFzaGl0YS1jaGFwdGVyLTQ1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5pc2hpLWt1bi13YS1tYXNoby1oYXJlbS10YWlzaGl0c3UtbmktbWV6YW1lbWFzaGl0YS1jaGFwdGVyLTQ0Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5pc2hpLWt1bi13YS1tYXNoby1oYXJlbS10YWlzaGl0c3UtbmktbWV6YW1lbWFzaGl0YS1jaGFwdGVyLTQzLw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "42",
@@ -195,7 +201,7 @@
       "chapter": "22",
       "title": "Komik Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW5pc2hpLWt1bi13YS1tYXNoby1oYXJlbS10YWlzaGl0c3UtbmktbWV6YW1lbWFzaGl0YS1jaGFwdGVyLTIyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -336,5 +342,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 52
+  "total_chapters": 53
 }
