@@ -2,349 +2,388 @@
   "slug": "absolute-regression",
   "title": "Absolute Regression",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYWJzb2x1dGUtcmVncmVzc2lvbi8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDcvS29taWstQWJzb2x1dGUtUmVncmVzc2lvbi0yMjB4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzMxOTA0My83NTM2NTU1Zi0wMjg4LTQ1MjEtOGQ2Mi1hYTNmYjFjNmJmM2Yva29taWstYWJzb2x1dGUtcmVncmVzc2lvbi0yMzZ4MzA2LmpwZw==",
   "type": "Manhwa",
   "is_colored": true,
-  "rating": 7.0,
-  "scraped_at": "2026-09-08T09:53:18.850244",
-  "alternative_titles": "절대회귀",
+  "rating": 9.07,
+  "scraped_at": "2026-10-20T15:30:15.560893",
+  "alternative_titles": "Jeoldae Hoegwi, 절대회귀, La régression parfaite, La régression absolue, Hồi Quy Tuyệt Đối, ย้อนชะตาล่าข้ามภพ, 剣無極～時を遡りし者～, 絕對回歸, 绝对回归, 花對日歸, Absolute Regression",
   "status": "Berjalan",
-  "author": "Jang Yunghoon",
-  "illustrator": "JINHWAN PARK",
-  "demographic": "Shounen",
+  "author": "Jang Yeonghun (장영훈), JP",
+  "illustrator": "Park Jin-Hwan (박진환)",
+  "demographic": "Seinen",
   "themes": [
-    "Martial Arts"
+    "Martial Arts",
+    "Time Travel"
   ],
   "genres": [
     "Action",
     "Adventure",
-    "Fantasy"
+    "Fantasy",
+    "Historical",
+    "Wuxia"
   ],
-  "synopsis": "Manhwa                    Absolute Regression yang dibuat oleh komikus bernama\n                    Jang Yunghoon ini bercerita tentang\n                    \"Tolong kembalikan aku ke masa lalu.\" Jika dia tidak bisa membunuh orang itu di era ini, dia hanya perlu kembali ke masa lalu. Pria itu menggunakan \"Teknik Regresi Hebat\" untuk melintasi waktu, kembali ke masa lalu yang sangat diinginkannya. \"Pendekar Pedang Tak Tertandingi\" yang telah kehilangan segalanya, keluarga, teman, dan hidupnya. Ini adalah langkah pertamanya untuk membalas dendam.",
+  "synopsis": "Manhwa                    Absolute Regression yang dibuat oleh komikus bernama\n                    Jang Yeonghun (장영훈), JP ini bercerita tentang\n                    Masa lalu telah berubah, tapi seperti komet api, dia masih datang.\n\nMugi Hwa, yang tidak seimbang, memotong langit Murim dengan pedangnya, menggulingkan setiap penguasa yang berani menghadapinya bahkan Cheonma, ayah Mugeuk Geom. Tapi Mugeuk tidak menerima kekalahan. Sebaliknya, ia beralih ke terlarang: ritual pengendalian waktu yang melemparkan dia ke masa lalunya sendiri.\n\nSekarang, menelusuri kembali langkahnya, ia balapan melawan jam sampai Mugi muncul sekali lagi. Tapi kali ini, ini bukan hanya tentang kekuasaan, tapi mengobati luka lama dan menempa ikatan baru untuk menyatukan rakyatnya dan mempersiapkan untuk pertumpahan darah yang akan datang.",
   "chapters": [
+    {
+      "chapter": "124",
+      "title": "Komik Absolute Regression Chapter 124",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEyNC8=",
+      "date": "6 jam yang lalu"
+    },
+    {
+      "chapter": "123",
+      "title": "Komik Absolute Regression Chapter 123",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEyMy8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "122",
+      "title": "Komik Absolute Regression Chapter 122",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEyMi8=",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "121",
+      "title": "Komik Absolute Regression Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEyMS8=",
+      "date": "3 minggu yang lalu"
+    },
+    {
+      "chapter": "120",
+      "title": "Komik Absolute Regression Chapter 120",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEyMC8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "119",
+      "title": "Komik Absolute Regression Chapter 119",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExOS8=",
+      "date": "1 bulan yang lalu"
+    },
     {
       "chapter": "118",
       "title": "Komik Absolute Regression Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExOC8=",
-      "date": "9 menit yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Absolute Regression Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExNy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik Absolute Regression Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "115",
       "title": "Komik Absolute Regression Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExNS8=",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "114",
       "title": "Komik Absolute Regression Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExNC8=",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "113",
       "title": "Komik Absolute Regression Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExMy8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Absolute Regression Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "111",
       "title": "Komik Absolute Regression Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExMS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "110",
       "title": "Komik Absolute Regression Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTExMC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "109",
       "title": "Komik Absolute Regression Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwOS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "108",
       "title": "Komik Absolute Regression Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwOC8=",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik Absolute Regression Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwNy8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik Absolute Regression Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwNi8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "105",
       "title": "Komik Absolute Regression Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwNS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik Absolute Regression Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwNC8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik Absolute Regression Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwMy8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Absolute Regression Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwMi8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "101",
       "title": "Komik Absolute Regression Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwMS8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik Absolute Regression Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTEwMC8=",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "99",
       "title": "Komik Absolute Regression Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTk5Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "98",
       "title": "Komik Absolute Regression Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTk4Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "97",
       "title": "Komik Absolute Regression Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTk3Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "96",
       "title": "Komik Absolute Regression Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTk2Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik Absolute Regression Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTk1Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Absolute Regression Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTk0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Absolute Regression Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTkzLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Absolute Regression Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTkyLw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Absolute Regression Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTkxLw==",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik Absolute Regression Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTkwLw==",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "89",
       "title": "Komik Absolute Regression Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTg5Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "88",
       "title": "Komik Absolute Regression Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTg4Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik Absolute Regression Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTg3Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "86",
       "title": "Komik Absolute Regression Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTg2Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "85",
       "title": "Komik Absolute Regression Chapter 85",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTg1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "84",
       "title": "Komik Absolute Regression Chapter 84",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTg0Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "83",
       "title": "Komik Absolute Regression Chapter 83",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTgzLw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "82",
       "title": "Komik Absolute Regression Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTgyLw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik Absolute Regression Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTgxLw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Absolute Regression Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTgwLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Absolute Regression Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTc5Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Absolute Regression Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTc4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik Absolute Regression Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTc3Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Absolute Regression Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTc2Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "75",
       "title": "Komik Absolute Regression Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTc1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Absolute Regression Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTc0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Absolute Regression Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTczLw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik Absolute Regression Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTcyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Absolute Regression Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTcxLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Absolute Regression Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTcwLw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik Absolute Regression Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTY5Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik Absolute Regression Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTY4Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik Absolute Regression Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTY3Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik Absolute Regression Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTY2Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik Absolute Regression Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTY1Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "64",
@@ -470,37 +509,37 @@
       "chapter": "44",
       "title": "Komik Absolute Regression Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTQ0Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Absolute Regression Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTQzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Absolute Regression Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTQyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Absolute Regression Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTQxLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Absolute Regression Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTQwLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Absolute Regression Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWJzb2x1dGUtcmVncmVzc2lvbi1jaGFwdGVyLTM5Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "38",
@@ -731,5 +770,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 118
+  "total_chapters": 124
 }

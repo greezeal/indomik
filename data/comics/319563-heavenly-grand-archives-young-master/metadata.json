@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.17,
-  "scraped_at": "2026-10-19T21:50:26.623255",
+  "scraped_at": "2026-10-20T15:30:32.920354",
   "alternative_titles": "천화서고 대공자, 天华书库大公子, 天華書庫大公子, Cheonhwaseogo Daegongja, El Joven Maestro del Gran Archivo Celestial, O Jovem Mestre do Grande Arquivo Celestial, Cheonhwa Archive's Young Master, El Gran Archivo Divino, 天華書庫の大公子, Heavenly Grand Archive’s Young Master",
   "status": "Berjalan",
   "author": "128, Hyun-young Kim (김현영)",
@@ -24,28 +24,34 @@
   "synopsis": "Manhwa                    Heavenly Grand Archive’s Young Master yang dibuat oleh komikus bernama\n                    128, Hyun-young Kim (김현영) ini bercerita tentang\n                    Jiwa pemimpin Aliansi Seni Bela Diri yang menawan dan memaksakan, Hu-Gong, tiba-tiba terbangun dalam tubuh seorang pemuda.\n\nNama pemuda itu adalah Beom- Hang. Dia adalah tuan muda 'Heavenly Grand Archive', salah satu dari tiga arsip utama dari Jianghu, namun dia adalah alasan maaf dari seseorang.\n\nUntuk menentukan mengapa jiwanya telah bertukar tubuh, Hu-Gong mulai melatih tubuh Beom- Hang. Ketika tuan muda yang kerasukan gerakan Grand Archive Surga benar-benar berbeda dari bagaimana mereka dulu, mulai menarik perhatian dari Jianghu...",
   "chapters": [
     {
+      "chapter": "187",
+      "title": "Komik Heavenly Grand Archive’s Young Master Chapter 187",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTg3Lw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "186",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTg2Lw==",
-      "date": "26 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "185",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 185",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTg1Lw==",
-      "date": "18 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "184",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTg0Lw==",
-      "date": "18 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "183",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTgzLw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "182",
@@ -399,13 +405,13 @@
       "chapter": "124",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTI0Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "123",
       "title": "Komik Heavenly Grand Archive’s Young Master Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhdmVubHktZ3JhbmQtYXJjaGl2ZXMteW91bmctbWFzdGVyLWNoYXB0ZXItMTIzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "122",
@@ -1140,5 +1146,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 186
+  "total_chapters": 187
 }

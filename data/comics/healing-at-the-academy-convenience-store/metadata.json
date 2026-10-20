@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-13T07:06:34.749184",
+  "scraped_at": "2026-10-20T15:31:00.679432",
   "alternative_titles": "아카데미 편의점으로 힐링할게요",
   "status": "Berjalan",
   "author": "Aquacorn, Kanu Coffee",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    Healing at the Academy Convenience Store yang dibuat oleh komikus bernama\n                    Aquacorn, Kanu Coffee ini bercerita tentang\n                    Lee Young-jin, seorang pemilik toko kelontong berusia 29 tahun, tewas tertabrak truk tepat ketika mimpinya untuk memiliki toko sendiri akan terwujud. Namun, kematian bukanlah akhir baginya. Sebaliknya, ia terbangun sebagai \"Wolfram von Lohengrin,\" pangeran jahat dalam gim murahan yang ia kuasai—karakter yang seharusnya dipenggal kepalanya di awal cerita! Tidak ingin mengulangi nasib buruknya, Wolfram bertekad untuk bertahan hidup dengan memanfaatkan pengalamannya sebagai pemain gim veteran dan keahliannya dalam mengelola toko kelontong. Di tengah akademi yang penuh dengan bangsawan dan segala macam kekacauan, ia memiliki satu tujuan sederhana: membangun toko kelontong di dunia lain dan menguras kantong semua orang di akademi!",
   "chapters": [
     {
+      "chapter": "20",
+      "title": "Komik Healing at the Academy Convenience Store Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hdC10aGUtYWNhZGVteS1jb252ZW5pZW5jZS1zdG9yZS1jaGFwdGVyLTIwLw==",
+      "date": "6 jam yang lalu"
+    },
+    {
       "chapter": "19",
       "title": "Komik Healing at the Academy Convenience Store Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hdC10aGUtYWNhZGVteS1jb252ZW5pZW5jZS1zdG9yZS1jaGFwdGVyLTE5Lw==",
-      "date": "5 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Healing at the Academy Convenience Store Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hdC10aGUtYWNhZGVteS1jb252ZW5pZW5jZS1zdG9yZS1jaGFwdGVyLTE4Lw==",
-      "date": "5 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Healing at the Academy Convenience Store Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hdC10aGUtYWNhZGVteS1jb252ZW5pZW5jZS1zdG9yZS1jaGFwdGVyLTE3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Healing at the Academy Convenience Store Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hdC10aGUtYWNhZGVteS1jb252ZW5pZW5jZS1zdG9yZS1jaGFwdGVyLTE2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Healing at the Academy Convenience Store Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hdC10aGUtYWNhZGVteS1jb252ZW5pZW5jZS1zdG9yZS1jaGFwdGVyLTE1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -59,7 +65,7 @@
       "chapter": "13",
       "title": "Komik Healing at the Academy Convenience Store Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVhbGluZy1hdC10aGUtYWNhZGVteS1jb252ZW5pZW5jZS1zdG9yZS1jaGFwdGVyLTEzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -134,5 +140,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }
