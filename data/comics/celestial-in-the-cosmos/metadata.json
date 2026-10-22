@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.93,
-  "scraped_at": "2026-10-22T01:49:17.003226",
+  "scraped_at": "2026-10-22T17:40:28.635728",
   "alternative_titles": "Tiānwài Fēilái Búshì Xiān, 天外飞来不是仙, Thiên Thần Trong Vũ Trụ, С неба свалилось, но это не божество, The One Flying from Beyond the Heavens Is Not an Immortal, Bên Ngoài Vũ Trụ Nào Phải Nơi Tu Tiên, Đến Từ Thiên Ngoại Nhưng Không Phải Là Tiên",
   "status": "Berjalan",
   "author": "魁子",
@@ -25,35 +25,59 @@
   "synopsis": "Manhua                    Celestial in the Cosmos yang dibuat oleh komikus bernama\n                    魁子 ini bercerita tentang\n                    Seorang pengusaha bernama Yi Genqing gagal naik nya dan sengaja dilemparkan ke dalam alam semesta antar bintang. Dalam mencari jalan pulang, ia perjalanan antara mesin dan asing peradaban, hanya untuk ditangkap oleh organisasi misterius. Menggunakan mantranya untuk melawan makhluk luar angkasa, ia mengatur formasi dan mengukir jalan ke depan dalam penjara kosmik, langkah demi langkah mendekati kebenaran di balik jalan rumahnya..",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Celestial in the Cosmos Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci04Lw==",
+      "date": "43 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik Celestial in the Cosmos Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci03Lw==",
+      "date": "43 menit yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Celestial in the Cosmos Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci02Lw==",
+      "date": "44 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Celestial in the Cosmos Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci01Lw==",
+      "date": "44 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik Celestial in the Cosmos Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci00Lw==",
-      "date": "7 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Celestial in the Cosmos Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci0zLw==",
-      "date": "7 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Celestial in the Cosmos Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci0yLw==",
-      "date": "7 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Celestial in the Cosmos Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci0xLw==",
-      "date": "7 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "0",
       "title": "Komik Celestial in the Cosmos Chapter 0",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2VsZXN0aWFsLWluLXRoZS1jb3Ntb3MtY2hhcHRlci0wLw==",
-      "date": "7 jam yang lalu"
+      "date": "20 jam yang lalu"
     }
   ],
-  "total_chapters": 5
+  "total_chapters": 9
 }

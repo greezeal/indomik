@@ -2,15 +2,16 @@
   "slug": "soul-of-chi-you",
   "title": "Soul of Chi You",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvc291bC1vZi1jaGkteW91Lw==",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDgvS29taWstU291bC1vZi1DaGktWW91LTIzNngzMTQuanBn",
-  "type": "Manhwa",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQzODE3Mi9kM2YyYjEzOC1kN2QwLTQ3YmEtYTAxNy1iNGI1YWZmMWQ1MTkva29taWstc291bC1vZi1jaGkteW91LTIzNngzMTYuanBn",
+  "type": "Manhua",
   "is_colored": true,
-  "rating": 7.0,
-  "scraped_at": "2026-09-01T23:28:15.279409",
-  "alternative_titles": "蚩魂, Chi Hun, Souls of the Ignorant, Chī Hún",
+  "rating": 6.43,
+  "scraped_at": "2026-10-22T17:45:24.222372",
+  "alternative_titles": "蚩魂, Chi Hun, Souls of the Ignorant, Chī Hún, 修羅の刀鍛冶～蚩尤の魂～, 치혼, Soul of Chi You",
   "status": "Berjalan",
   "author": "Yoousi",
   "illustrator": "Yoousi",
+  "demographic": "Seinen",
   "themes": [
     "Martial Arts"
   ],
@@ -19,182 +20,266 @@
     "Drama",
     "Fantasy"
   ],
-  "synopsis": "Manhwa                    Soul of Chi You yang dibuat oleh komikus bernama\n                    Yoousi ini bercerita tentang\n                    Selama pertempuran Zhoulu, Chi You mengalami kekalahan. Ketika tiga suku terkemuka bersatu, manusia mengkonsolidasikan kekuatan mereka dan mendirikan tempat tinggal mereka. Akibatnya, jumlah orang yang mencari pertolongan dari Tuhan berkurang, yang menyebabkan penurunan bertahap kekuatan surgawi. Perselisihan pun terjadi ketika surga berusaha untuk memulai perang Zhuolu lainnya…",
+  "synopsis": "Manhua                    Soul of Chi You yang dibuat oleh komikus bernama\n                    Yoousi ini bercerita tentang\n                    Selama pertempuran Zholu, Chi Anda menghadapi kekalahan. Sebagai tiga suku terkemuka bersatu, manusia mengkonsolidasikan kekuatan mereka dan mendirikan rumah mereka. Akibatnya, jumlah orang yang meminta bantuan dari Tuhan berkurang yang menyebabkan penurunan bertahap dalam kekuatan surgawi. Gangguan terjadi saat langit berusaha untuk memulai perang Zhuolu lain..",
   "chapters": [
+    {
+      "chapter": "43",
+      "title": "Komik Soul of Chi You Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNDMv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik Soul of Chi You Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNDIv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik Soul of Chi You Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNDEv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "40",
+      "title": "Komik Soul of Chi You Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNDAv",
+      "date": "3 minggu yang lalu"
+    },
+    {
+      "chapter": "39",
+      "title": "Komik Soul of Chi You Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzkv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik Soul of Chi You Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzgv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "37",
+      "title": "Komik Soul of Chi You Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzcv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Soul of Chi You Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzYv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik Soul of Chi You Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzUv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Soul of Chi You Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzQv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik Soul of Chi You Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzMv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik Soul of Chi You Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzIv",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "31",
+      "title": "Komik Soul of Chi You Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzEv",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "30",
+      "title": "Komik Soul of Chi You Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMzAv",
+      "date": "2 bulan yang lalu"
+    },
     {
       "chapter": "29",
       "title": "Komik Soul of Chi You Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjkv",
-      "date": "42 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Soul of Chi You Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjgv",
-      "date": "2 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Soul of Chi You Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjcv",
-      "date": "3 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Soul of Chi You Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjYv",
-      "date": "4 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Soul of Chi You Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjUv",
-      "date": "5 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Soul of Chi You Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjQv",
-      "date": "5 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Soul of Chi You Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Soul of Chi You Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjIv",
-      "date": "1 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Soul of Chi You Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjEv",
-      "date": "1 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Soul of Chi You Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMjAv",
-      "date": "1 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Soul of Chi You Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTkv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Soul of Chi You Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTgv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Soul of Chi You Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTcv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Soul of Chi You Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTYv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Soul of Chi You Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Soul of Chi You Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTQv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Soul of Chi You Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTMv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Soul of Chi You Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTIv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Soul of Chi You Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTEv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Soul of Chi You Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMTAv",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Soul of Chi You Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItOS8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Soul of Chi You Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItOC8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Soul of Chi You Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNy8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Soul of Chi You Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Soul of Chi You Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNS8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Soul of Chi You Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Soul of Chi You Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Soul of Chi You Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Soul of Chi You Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291bC1vZi1jaGkteW91LWNoYXB0ZXItMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 43
 }

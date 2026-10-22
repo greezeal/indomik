@@ -2,47 +2,55 @@
   "slug": "morino-san-darugaramu",
   "title": "Morino-san Darugaramu",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11Lw==",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDkvS29taWstTW9yaW5vLXNhbi1EYXJ1Z2FyYW11LTIyNngzMTkuanBn",
-  "type": "",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ0NDQ2Mi81ZmYzOGIzMi0wMDlhLTQ0MmQtYjU0Mi1kZWFjZDQ1NDdjN2Iva29taWstbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LTIyNngzMTkuanBn",
+  "type": "Manga",
   "is_colored": false,
-  "rating": 7.0,
-  "scraped_at": "2026-10-15T10:12:54.212613",
-  "alternative_titles": "森野さんだるがらむ, Morino-san Just Won't Leave Me Be, Морино не даёт мне покоя",
+  "rating": 8.79,
+  "scraped_at": "2026-10-22T17:43:11.237213",
+  "alternative_titles": "森野さんだるがらむ, Morino-san Just Won't Leave Me Be, Морино не даёт мне покоя, Morino-san Darugaramu",
   "status": "Berjalan",
   "author": "Barako",
   "illustrator": "Barako",
+  "demographic": "Seinen",
   "themes": [
     "School Life"
   ],
   "genres": [
     "Comedy",
-    "Romance"
+    "Romance",
+    "Slice of Life"
   ],
-  "synopsis": "Morino-san Darugaramu yang dibuat oleh komikus bernama\n                    Barako ini bercerita tentang\n                    Morino-san itu orangnya santai dalam segala hal, tapi meski pembawaannya terkesan malas-malasan, dia terus saja mengusikku.",
+  "synopsis": "Manga                    Morino-san Darugaramu yang dibuat oleh komikus bernama\n                    Barako ini bercerita tentang\n                    Morino- san adalah laid- kembali tentang segala sesuatu, tapi lesu seperti dia, dia hanya tidak akan meninggalkan aku.",
   "chapters": [
+    {
+      "chapter": "7",
+      "title": "Komik Morino-san Darugaramu Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNy8=",
+      "date": "56 menit yang lalu"
+    },
     {
       "chapter": "6",
       "title": "Komik Morino-san Darugaramu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNi8=",
-      "date": "12 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Morino-san Darugaramu Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Morino-san Darugaramu Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Morino-san Darugaramu Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
@@ -57,5 +65,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }
