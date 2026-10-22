@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.61,
-  "scraped_at": "2026-10-16T23:54:04.723164",
+  "scraped_at": "2026-10-22T01:53:33.180872",
   "alternative_titles": "落ちない汚れを僕は何と呼べばよかったのか, Ochinai Yogore o Boku wa Nanto Yobeba Yokatta noka, What Was I Meant to Call This Mess That Wouldn't Go Away?, Tôi nên gọi vết nhơ không thể xóa nhoà ấy là gì đây?, Comment aurais-je dû appeler cette tache indélébile ?, Ochinai Yogore wo Bokuha Nanto Yobeba Yokattanoka, Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka",
   "status": "Berjalan",
   "author": "Kuro",
@@ -23,28 +23,46 @@
   "synopsis": "Manga                    Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka yang dibuat oleh komikus bernama\n                    Kuro ini bercerita tentang\n                    Dunia ini kotor...\n\nNakayama, seorang anak SMA dengan kasus ekstrim germophobia, hanya ingin menikmati waktu damai sendiri di ruang yang sangat bersih, jauh dari orang lain. Tapi hidupnya yang tenang terus dilemparkan ke dalam kekacauan oleh Nishino, ceria, meskipun berantakan gadis yang kebetulan duduk di sampingnya.\n\n\"Jangan mencemari tempat kudus saya!\"\n\"Jangan main-main dengan waktu sendiri saya!\"\n\nMeskipun permohonan putus asa nya, kegilaan terus.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItMTgv",
+      "date": "7 jam yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItMTcv",
+      "date": "7 jam yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItMTYv",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItMTUv",
-      "date": "7 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItMTQv",
-      "date": "7 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItMTMv",
-      "date": "7 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItMTIv",
-      "date": "7 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "11",
@@ -68,7 +86,7 @@
       "chapter": "8",
       "title": "Komik Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2NoaW5haS15b2dvcmUtd28tYm9rdS13YS1uYW50by15b2JlYmEteW9rYXR0YS1ub2thLWNoYXB0ZXItOC8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -113,5 +131,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 18
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-17T23:32:21.417878",
+  "scraped_at": "2026-10-22T01:45:49.922092",
   "alternative_titles": "Bite, Rip, and Trick, Gnaw, Tear Apart, and Lie, 물고 뜯고 속이고",
   "status": "Berjalan",
   "author": "Kang Hae-Ju",
@@ -19,16 +19,22 @@
   "synopsis": "Manhwa                    Biting, Tearing, and Deceiving yang dibuat oleh komikus bernama\n                    Kang Hae-Ju ini bercerita tentang\n                    Han Jun-hyuk sama sekali tidak tertarik pada perjodohan yang diatur oleh keluarga. Setidaknya, sampai ia bertemu Yoon Seor-ha, wanita yang bahkan lebih nekat dan gila daripada reputasi \"anjing gila\" yang melekat pada dirinya sendiri. Demi melarikan diri dari kehidupan yang hanya menjadikannya alat pencitraan bagi orang tua angkatnya—serta untuk mendapatkan kembali matanya yang hilang—Seor-ha bertekad menyukseskan pernikahan ini; ia bahkan menawarkan diri untuk mati setelah pesta pernikahan usai, agar Jun-hyuk berstatus sebagai duda dan bukan pria yang bercerai. Setelah pernah berhasil meloloskan diri dari \"penjara\" hidupnya sekali, ia merasa tidak ada alasan baginya untuk gagal melakukannya untuk kedua kalinya. Namun, ia tidak menyadari bahwa Jun-hyuk adalah tipe pria yang tidak akan pernah melepaskan mangsa yang sudah dicengkeramnya.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Biting, Tearing, and Deceiving Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYml0aW5nLXRlYXJpbmctYW5kLWRlY2VpdmluZy1jaGFwdGVyLTkv",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Biting, Tearing, and Deceiving Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYml0aW5nLXRlYXJpbmctYW5kLWRlY2VpdmluZy1jaGFwdGVyLTgv",
-      "date": "8 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Biting, Tearing, and Deceiving Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYml0aW5nLXRlYXJpbmctYW5kLWRlY2VpdmluZy1jaGFwdGVyLTcv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "6",
@@ -67,5 +73,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

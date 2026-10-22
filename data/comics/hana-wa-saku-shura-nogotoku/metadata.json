@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-08-15T06:17:42.543278",
+  "scraped_at": "2026-10-22T01:49:33.294450",
   "alternative_titles": "花は咲く、修羅の如く",
   "status": "Berjalan",
   "author": "TAKEDA Ayano",
@@ -21,28 +21,34 @@
   "synopsis": "Manga                    Hana wa Saku, Shura Nogotoku yang dibuat oleh komikus bernama\n                    TAKEDA Ayano ini bercerita tentang\n                    Hana seorang gadis yang tinggal di Tonakijima, pulau kecil dengan populasi 600 orang, sangat menyukai monolog sampai-sampai mengadakan sesi mendongeng bagi Anak-anak di pulau. Mizuki ketua klub penyiaran merasa “pembacaan” Hana memiliki kekuatan untuk memikat orang sehingga Ia mengajaknya untuk bergabung dengan klub penyiaran. 「Katakan padaku apa keinginanmu yang sebenarnya, aku akan mewujudkannya」 「Aku, ingin bergabung dengan klub penyiaran 」 Hana yang memutuskan bergabung dengan klub, bersama orang-orang baru klub penyiaran berbagi banyak “pengalaman pertama” dan juga memperdalam monolog yang sangat disukainya…",
   "chapters": [
     {
+      "chapter": "36",
+      "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItMzYv",
+      "date": "7 jam yang lalu"
+    },
+    {
       "chapter": "35",
       "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItMzUv",
-      "date": "9 jam yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItMzQv",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItMzMv",
-      "date": "4 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItMzIv",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -120,13 +126,13 @@
       "chapter": "19",
       "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItMTkv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItMTgv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "17",
@@ -180,7 +186,7 @@
       "chapter": "9",
       "title": "Komik Hana wa Saku, Shura Nogotoku Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS13YS1zYWt1LXNodXJhLW5vZ290b2t1LWNoYXB0ZXItOS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "8",
@@ -231,5 +237,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 36
 }
