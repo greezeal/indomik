@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-20T15:24:45.406083",
+  "scraped_at": "2026-10-22T12:31:13.462579",
   "alternative_titles": "폐쇄교실",
   "status": "Berjalan",
   "author": "Kim Galma",
@@ -19,10 +19,16 @@
   "synopsis": "Manhwa                    The Locked Classroom yang dibuat oleh komikus bernama\n                    Kim Galma ini bercerita tentang\n                    Adik satu-satunya yang kucintai meninggal dunia akibat kekerasan di sekolah. Saat ibuku juga berada di ambang kematian akibat guncangan itu, jawaban dari pertanyaan yang terus menyiksaku akhirnya mengucur pada satu hal. 'Balas dendam.' Kalian yang telah menginjak-injak keluargaku yang harganya tak ternilai. Sekarang, akulah yang akan menentukan nilai kalian. 'Jika ingin tetap hidup, bawa harga nyawamu.'",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik The Locked Classroom Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvY2tlZC1jbGFzc3Jvb20tY2hhcHRlci04Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik The Locked Classroom Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvY2tlZC1jbGFzc3Jvb20tY2hhcHRlci03Lw==",
-      "date": "42 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "6",
@@ -61,5 +67,5 @@
       "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }
