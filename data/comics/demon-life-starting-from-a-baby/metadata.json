@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-17T11:28:24.375600",
+  "scraped_at": "2026-10-24T02:01:45.088449",
   "alternative_titles": "새끼부터 시작하는 악마생활",
   "status": "Berjalan",
   "author": "Hwa Hyeon, Jung Jongru",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    Demon Life Starting From A Baby yang dibuat oleh komikus bernama\n                    Hwa Hyeon, Jung Jongru ini bercerita tentang\n                    Dalam novel “Inmarok”, dunia ini merupakan medan perang tiada akhir antara malaikat dan iblis. Di era saat keseimbangan dunia berada di ujung tanduk, Yohan bereinkarnasi sebagai sosok setengah manusia dan setengah iblis yang lahir dari seorang manusia biasa. Terkadang menekan naluri iblisnya yang meluap-luap, dan di lain waktu memanfaatkannya sebagai senjata, ia harus memanipulasi karakter-karakter dalam novel tersebut untuk menghukum orang-orang jahat. Persis seperti iblis sejati. Bisikan iblis biasanya merupakan pertanda yang menjerumuskan pada kehancuran. Jika kau mendengarkan kata-kata mereka, kau bisa saja tiba-tiba mendapati dirimu melangkah jatuh dari tepi jurang. Namun, bisikan Yohan adalah satu-satunya pengecualian.",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Demon Life Starting From A Baby Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbGlmZS1zdGFydGluZy1mcm9tLWEtYmFieS1jaGFwdGVyLTEyLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Demon Life Starting From A Baby Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbGlmZS1zdGFydGluZy1mcm9tLWEtYmFieS1jaGFwdGVyLTExLw==",
-      "date": "4 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Demon Life Starting From A Baby Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbGlmZS1zdGFydGluZy1mcm9tLWEtYmFieS1jaGFwdGVyLTEwLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Demon Life Starting From A Baby Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbGlmZS1zdGFydGluZy1mcm9tLWEtYmFieS1jaGFwdGVyLTkv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Demon Life Starting From A Baby Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbGlmZS1zdGFydGluZy1mcm9tLWEtYmFieS1jaGFwdGVyLTgv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Demon Life Starting From A Baby Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVtb24tbGlmZS1zdGFydGluZy1mcm9tLWEtYmFieS1jaGFwdGVyLTcv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "6",
@@ -87,5 +93,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }

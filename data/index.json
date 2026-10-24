@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T23:34:29.869948",
-  "total_comics": 2442,
+  "last_updated": "2026-10-24T02:06:43.290545",
+  "total_comics": 2448,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.42,
-      "total_chapters": 272
+      "total_chapters": 273
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -4336,7 +4336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.5,
-      "total_chapters": 278
+      "total_chapters": 279
     },
     {
       "slug": "the-rebirth-of-the-heros-partys-archmage",
@@ -4376,7 +4376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.59,
-      "total_chapters": 345
+      "total_chapters": 346
     },
     {
       "slug": "dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru",
@@ -4423,8 +4423,8 @@
       "title": "Face Genius, 0 Year-Old Top Star",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 71
+      "rating": 8.88,
+      "total_chapters": 75
     },
     {
       "slug": "712275-killer-peter",
@@ -4432,7 +4432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.03,
-      "total_chapters": 153
+      "total_chapters": 154
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4655,8 +4655,8 @@
       "title": "The Demon Slayer’s Restaurant",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 69
+      "rating": 8.39,
+      "total_chapters": 78
     },
     {
       "slug": "548836-eternally-regressing-knight",
@@ -4760,7 +4760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "tales-of-demons-and-gods",
@@ -6536,7 +6536,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "930603-dandadan",
@@ -7872,7 +7872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.66,
-      "total_chapters": 137
+      "total_chapters": 138
     },
     {
       "slug": "youngest-scion-of-the-mages",
@@ -9136,7 +9136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "tsuma-wa-boku-wo-futorasetai",
@@ -9216,7 +9216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.12,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "ai-da-toka-fukushuu-da-toka",
@@ -9752,7 +9752,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.96,
-      "total_chapters": 109
+      "total_chapters": 115
     },
     {
       "slug": "hana-wa-saku-shura-nogotoku",
@@ -10240,7 +10240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.57,
-      "total_chapters": 231
+      "total_chapters": 232
     },
     {
       "slug": "joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu",
@@ -10799,8 +10799,8 @@
       "title": "Tozaki-san wa Boku ni Dake Tsumetai",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.58,
-      "total_chapters": 21
+      "rating": 8.18,
+      "total_chapters": 26
     },
     {
       "slug": "945771-trauma-center-surgeon-baek-kang-hyeok",
@@ -12008,7 +12008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 60
     },
     {
       "slug": "craftsmans-street",
@@ -13288,7 +13288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.18,
-      "total_chapters": 74
+      "total_chapters": 84
     },
     {
       "slug": "evolution-frenzy",
@@ -13343,8 +13343,8 @@
       "title": "Trash of the Count’s Family",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 9.03,
-      "total_chapters": 190
+      "rating": 9.06,
+      "total_chapters": 195
     },
     {
       "slug": "about-perfect-revenge",
@@ -13552,7 +13552,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 28
     },
     {
       "slug": "aorikei-game-haishinsha-20-sai-haishin-no-kiri-wasure-ni-yori-ii-hito-bare-suru",
@@ -13848,7 +13848,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 9.24,
-      "total_chapters": 42
+      "total_chapters": 43
     },
     {
       "slug": "surviving-as-a-tyrants-daughter",
@@ -14032,7 +14032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 32
     },
     {
       "slug": "i-will-raise-the-villain-properly",
@@ -14544,7 +14544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.41,
-      "total_chapters": 94
+      "total_chapters": 95
     },
     {
       "slug": "the-fake-saintess-of-a-reverse-harem-game",
@@ -14935,8 +14935,8 @@
       "title": "Tomodachi to Koibito, Docchi ga Daiji nano?",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 4
+      "rating": 7.96,
+      "total_chapters": 8
     },
     {
       "slug": "tensei-shita-kuukan-mahoutsukai-wa-shoutai-kakushite-medachitai",
@@ -15312,7 +15312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 36
     },
     {
       "slug": "122876-magi-craft-meister",
@@ -16448,7 +16448,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "975567-voice-phishing-turns-your-life-around",
@@ -16480,7 +16480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 35
     },
     {
       "slug": "424565-the-end-has-come",
@@ -16695,8 +16695,8 @@
       "title": "Yami Kakusei Shite Shujinkou ni Bokosareru Kamaseinu ni Hyoui Shita ga Gensaku to Chigaisugite Tomadotteru",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 7
+      "rating": 8.39,
+      "total_chapters": 16
     },
     {
       "slug": "kenja-no-deshi-wo-nanoru-kenja",
@@ -18312,7 +18312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "inma-mo-nigedasu-kuroe-san",
@@ -18328,7 +18328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "im-the-brave-puppy-that-will-save-the-villainess",
@@ -18360,7 +18360,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 9
+      "total_chapters": 11
     },
     {
       "slug": "fighting-is-too-easy",
@@ -18368,7 +18368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "this-emperor-is-running-a-marriage-scam",
@@ -18832,7 +18832,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
     },
     {
       "slug": "amphisbaena-no-kuchizuke",
@@ -19160,7 +19160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "watashi-no-kokoro-wa-oji-san-de-aru",
@@ -19232,7 +19232,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 1
+      "total_chapters": 2
     },
     {
       "slug": "im-the-male-leads-biological-daughter-but-i-want-to-live-with-the-second-male-lead",
@@ -19312,7 +19312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 10
+      "total_chapters": 11
     },
     {
       "slug": "real-demo-shiawase-ni-shitekudasai-ne",
@@ -19537,6 +19537,54 @@
       "status": "Berjalan",
       "rating": 8.35,
       "total_chapters": 122
+    },
+    {
+      "slug": "talker",
+      "title": "Talker",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 9
+    },
+    {
+      "slug": "kimi-ga-hoeru-tame-no-uta-wo",
+      "title": "Kimi ga Hoeru Tame no Uta wo",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.14,
+      "total_chapters": 1
+    },
+    {
+      "slug": "hatsukoi-no-kimi-wa-gyanchuu-chan",
+      "title": "Hatsukoi no Kimi wa Gyanchuu-chan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.09,
+      "total_chapters": 1
+    },
+    {
+      "slug": "gogo-yoji-toumei-tokidoki-seiyuu",
+      "title": "Gogo Yoji. Toumei, Tokidoki Seiyuu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.41,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kuso-onna-ni-sachiare",
+      "title": "Kuso Onna ni Sachiare",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.9,
+      "total_chapters": 54
+    },
+    {
+      "slug": "zatsuyo-gakari-to-shite-yado-de-hataraki-hajimeta-renkinjutsu-shi-kanbanmusume-tachi-to-issho-ni-kurasu-koto-ni-natta",
+      "title": "Zatsuyo-gakari to Shite Yado de Hataraki Hajimeta Renkinjutsu-shi, Kanbanmusume-tachi to Issho ni Kurasu Koto ni Natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.51,
+      "total_chapters": 2
     }
   ]
 }

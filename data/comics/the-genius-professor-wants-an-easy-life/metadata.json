@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-17T06:54:04.207275",
+  "scraped_at": "2026-10-24T02:04:23.114615",
   "alternative_titles": "꿀 빨고 싶은 천재 교수님",
   "status": "Berjalan",
   "author": "Pecan, Yoo In",
@@ -18,28 +18,34 @@
   "synopsis": "Manhwa                    The Genius Professor Wants an Easy Life yang dibuat oleh komikus bernama\n                    Pecan, Yoo In ini bercerita tentang\n                    Terlahir miskin, ia berhasil menjadi legenda dunia penjualan dan akhirnya mendambakan pensiun dini. Namun, saat terjebak dalam game milik klien, ia justru bereinkarnasi menjadi **Van Ecclesia**, bangsawan kaya raya yang dikenal sebagai sampah terbesar dalam game. Awalnya, hidup santai tanpa perlu bekerja terdengar sempurna... sampai berbagai kemampuan overpower mulai terbangun dan menghancurkan rencana pensiunnya!",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik The Genius Professor Wants an Easy Life Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1wcm9mZXNzb3Itd2FudHMtYW4tZWFzeS1saWZlLWNoYXB0ZXItMjUv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik The Genius Professor Wants an Easy Life Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1wcm9mZXNzb3Itd2FudHMtYW4tZWFzeS1saWZlLWNoYXB0ZXItMjQv",
-      "date": "10 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Genius Professor Wants an Easy Life Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1wcm9mZXNzb3Itd2FudHMtYW4tZWFzeS1saWZlLWNoYXB0ZXItMjMv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Genius Professor Wants an Easy Life Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1wcm9mZXNzb3Itd2FudHMtYW4tZWFzeS1saWZlLWNoYXB0ZXItMjIv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik The Genius Professor Wants an Easy Life Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWdlbml1cy1wcm9mZXNzb3Itd2FudHMtYW4tZWFzeS1saWZlLWNoYXB0ZXItMjEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -162,5 +168,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }
