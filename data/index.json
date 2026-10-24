@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T21:20:34.618392",
-  "total_comics": 2449,
+  "last_updated": "2026-10-24T23:29:14.977136",
+  "total_comics": 2453,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -984,7 +984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.38,
-      "total_chapters": 258
+      "total_chapters": 259
     },
     {
       "slug": "leveling-in-the-future",
@@ -18608,7 +18608,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "naze-ka-s-kyuu-bijotachi-no-wadai-ni-ore-ga-agaru-ken",
@@ -19593,6 +19593,38 @@
       "status": "Berjalan",
       "rating": 7.86,
       "total_chapters": 132
+    },
+    {
+      "slug": "girls-und-panzer-ribbon-no-musha",
+      "title": "Girls und Panzer: Ribbon no Musha",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.05,
+      "total_chapters": 1
+    },
+    {
+      "slug": "the-genius-knight-of-a-fallen-race",
+      "title": "The Genius Knight of a Fallen Race",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "yami-sute-ana",
+      "title": "Yami Sute Ana",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.75,
+      "total_chapters": 1
+    },
+    {
+      "slug": "awai-no-homura",
+      "title": "Awai no Homura",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.48,
+      "total_chapters": 4
     }
   ]
 }

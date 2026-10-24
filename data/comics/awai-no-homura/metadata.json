@@ -1,0 +1,51 @@
+{
+  "slug": "awai-no-homura",
+  "title": "Awai no Homura",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYXdhaS1uby1ob211cmEv",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ1OTgyNS81YmNhMGZlZS0xNjY0LTRmYzYtYWU4ZS1mYjgwZjYzZWY1MDcva29taWstYXdhaS1uby1ob211cmEtMjI0eDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 8.48,
+  "scraped_at": "2026-10-24T23:25:58.350130",
+  "alternative_titles": "Twilight Blade, あわいの焔刃, Lâmina Flamejante do Desvanecimento, Aiwai no Homura, あわいの焔刃〈ほむら〉, Awai no Enjin",
+  "status": "Berjalan",
+  "author": "Maruume Chiyoko",
+  "illustrator": "Tokegoro",
+  "demographic": "Shounen",
+  "themes": [
+    "Supernatural"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mystery"
+  ],
+  "synopsis": "Manga                    Awai no Homura yang dibuat oleh komikus bernama\n                    Maruume Chiyoko ini bercerita tentang\n                    Hikari, seorang anak muda yang kehilangan ibunya dalam kebakaran, mulai hidup dengan Yojin, penyidik ditugaskan untuk kasus ini. Kehidupan damai mereka sering terganggu oleh penampilan makhluk dunia lain. Sebuah petualangan aksi gaya yang berlangsung di antara duniawi dan misterius sekarang dimulai!",
+  "chapters": [
+    {
+      "chapter": "4",
+      "title": "Komik Awai no Homura Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXdhaS1uby1ob211cmEtY2hhcHRlci00Lw==",
+      "date": "18 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Awai no Homura Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXdhaS1uby1ob211cmEtY2hhcHRlci0zLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Awai no Homura Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXdhaS1uby1ob211cmEtY2hhcHRlci0yLw==",
+      "date": "1 hari yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Awai no Homura Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXdhaS1uby1ob211cmEtY2hhcHRlci0xLw==",
+      "date": "1 hari yang lalu"
+    }
+  ],
+  "total_chapters": 4
+}
