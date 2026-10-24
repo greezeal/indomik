@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-17T23:35:43.494196",
+  "scraped_at": "2026-10-24T18:46:17.526157",
   "alternative_titles": "Dǐngjí Wánjiā de Huíguī, El jugador supremo regresado, En İyi Oyuncunun Geri Dönüşü, O Retorno do Jogador Supremo, Return of the Top Player, The Return of the Top Player (Meng Yue Wenhua), Второе пришествие Первопроходца, 顶级玩家的回归",
   "status": "Berjalan",
   "author": "萌月文化",
@@ -19,34 +19,40 @@
   "synopsis": "Manhua                    Return of the Top Player yang dibuat oleh komikus bernama\n                    萌月文化 ini bercerita tentang\n                    Saat dunia berubah menjadi permainan, umat manusia dipaksa untuk berkompetisi secara ilahi, dan jurang misterius yang dikenal sebagai Void Abyss muncul di Blue Star.\r\n\r\nGuild-guild yang kuat memonopoli sumber daya peningkatan level, sementara pemain terkuat dipuja sebagai Pemain Istimewa.\r\n\r\nSeluruh dunia menyaksikan setiap ekspedisi ke tingkat bawah Void Abyss, berharap untuk mengungkap rahasia yang tersembunyi di lantai terdalamnya.\r\n\r\nLin Du, pemain pertama dalam sejarah yang menaklukkan semua 100 lantai Void Abyss, dikhianati oleh letnan yang paling dipercayanya tepat saat ia akan mengklaim hadiahnya.\r\n\r\nDi ambang kematian, makhluk yang menyebut dirinya Dewa memaksanya untuk menandatangani kontrak.\r\n\r\nSeratus tahun kemudian, Lin Du terbangun di lapisan atas Void Abyss. Tubuhnya yang telah direkonstruksi dinilai tidak lebih dari seorang yang lemah di Level 0.\r\n\r\nTaktik yang pernah ia ciptakan telah menjadi materi pelajaran. Rekan-rekan tim yang mengkhianatinya kini dipuja sebagai penyelamat dunia, sementara kebenaran telah lama terkubur.\r\n\r\nKini, pemain terkuat dalam sejarah telah kembali untuk merebut kembali semua yang telah dicuri darinya.",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Return of the Top Player Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS10b3AtcGxheWVyLWNoYXB0ZXItMTkv",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Return of the Top Player Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS10b3AtcGxheWVyLWNoYXB0ZXItMTgv",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Return of the Top Player Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS10b3AtcGxheWVyLWNoYXB0ZXItMTcv",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Return of the Top Player Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS10b3AtcGxheWVyLWNoYXB0ZXItMTYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Return of the Top Player Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS10b3AtcGxheWVyLWNoYXB0ZXItMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Return of the Top Player Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS10b3AtcGxheWVyLWNoYXB0ZXItMTQv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -58,7 +64,7 @@
       "chapter": "12",
       "title": "Komik Return of the Top Player Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0dXJuLW9mLXRoZS10b3AtcGxheWVyLWNoYXB0ZXItMTIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "11",
@@ -127,5 +133,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }
