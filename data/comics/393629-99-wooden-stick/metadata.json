@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.26,
-  "scraped_at": "2026-10-17T23:35:21.962153",
+  "scraped_at": "2026-10-25T23:48:22.195225",
   "alternative_titles": "+99 Reinforced Wooden Stick, 99강화나무몽둥이, 99ganghwanamumongdungi, 99 Reinforced Wood Stick, 99强化木棍, 99強化木棒, +99 ท่อนไม้พร้อมบวก, 99 Ganghwa Namu Mongdungi, 99 Hardened Wooden Stick, 99强化나무몽둥이, Palo de madera +99, 強化レベル99 木の棒, +99 Wooden Stick",
   "status": "Berjalan",
   "author": "Hong-Sil (홍실)",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    +99 Wooden Stick yang dibuat oleh komikus bernama\n                    Hong-Sil (홍실) ini bercerita tentang\n                    Selamat datang di \"Chrono Life\", sebuah permainan realitas virtual dimana hanya yang terkuat bertahan hidup. Ji-u masuk ke \"Chrono Life\", hanya untuk diabaikan dan ditertawakan oleh pemain lain karena kurangnya pengalamannya, item jelek, dan menjadi noob keseluruhan. Tapi ketika ia upgrade tongkat kayunya ke tingkat penguatan maksimum + 99, Ji-u menyadari ia memiliki kekuatan untuk membagi benua dan membunuh tentara dari ribuan hanya dalam satu ayunan. \"Sudah waktunya untuk mengajar sisa Anda pelajaran, Anda f * ckers\"",
   "chapters": [
     {
+      "chapter": "102",
+      "title": "Komik +99 Wooden Stick Chapter 102",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOTktd29vZGVuLXN0aWNrLWNoYXB0ZXItMTAyLw==",
+      "date": "10 jam yang lalu"
+    },
+    {
       "chapter": "101",
       "title": "Komik +99 Wooden Stick Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOTktd29vZGVuLXN0aWNrLWNoYXB0ZXItMTAxLw==",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik +99 Wooden Stick Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOTktd29vZGVuLXN0aWNrLWNoYXB0ZXItMTAwLw==",
-      "date": "1 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "99",
@@ -260,7 +266,7 @@
       "chapter": "62",
       "title": "Komik +99 Wooden Stick Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvOTktd29vZGVuLXN0aWNrLWNoYXB0ZXItNjIv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "61",
@@ -629,5 +635,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 101
+  "total_chapters": 102
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.56,
-  "scraped_at": "2026-10-25T06:49:43.813244",
+  "scraped_at": "2026-10-25T23:44:50.083974",
   "alternative_titles": "創世のタイガ, Taiga of Genesis, 创世的大河, تايغا من سفر التكوين, Бытиё Тайги, ฝ่ายุคมฤตยู, Genesis (French), Sōsei no Taiga, Бытие Тайги, ฝ่ายุคมฤตยู (Thai), Sousei no Taiga",
   "status": "Berjalan",
   "author": "Mori Kouji",
@@ -27,46 +27,52 @@
   "synopsis": "Manga                    Sousei no Taiga yang dibuat oleh komikus bernama\n                    Mori Kouji ini bercerita tentang\n                    Sebuah cerita tentang seorang pemuda yang tidak memiliki rasa realitas setelah dibuang oleh kekasihnya. Dia mengunjungi seminar antropologi budaya dengan teman sekelasnya ketika ia menemukan sebuah lukisan dinding kuno, yang membawa dia ke masa lalu di mana raksasa mendominasi dunia.",
   "chapters": [
     {
+      "chapter": "83",
+      "title": "Komik Sousei no Taiga Chapter 83",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItODMv",
+      "date": "8 jam yang lalu"
+    },
+    {
       "chapter": "82",
       "title": "Komik Sousei no Taiga Chapter 82",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItODIv",
-      "date": "4 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "81",
       "title": "Komik Sousei no Taiga Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItODEv",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Sousei no Taiga Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItODAv",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik Sousei no Taiga Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNzkv",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Sousei no Taiga Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNzgv",
-      "date": "5 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik Sousei no Taiga Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNzcv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik Sousei no Taiga Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNzYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "75",
@@ -96,7 +102,7 @@
       "chapter": "71",
       "title": "Komik Sousei no Taiga Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItNzEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -372,7 +378,7 @@
       "chapter": "25",
       "title": "Komik Sousei no Taiga Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc291c2VpLW5vLXRhaWdhLWNoYXB0ZXItMjUv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -519,5 +525,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 82
+  "total_chapters": 83
 }
