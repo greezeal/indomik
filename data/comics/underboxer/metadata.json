@@ -2,15 +2,16 @@
   "slug": "underboxer",
   "title": "Underboxer",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvdW5kZXJib3hlci8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDQvS29taWstVW5kZXJib3hlci0yMjB4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQxMzU1MS80ZDBhZTBjYS1iNzUwLTQ0MmQtYTkyNi1mYjBjYjRiMzBmMmEva29taWstdW5kZXJib3hlci0yMTl4MzE5LmpwZw==",
   "type": "Manhwa",
   "is_colored": true,
-  "rating": 7.0,
-  "scraped_at": "2026-04-22T16:48:43.181818",
-  "alternative_titles": "언더복서",
+  "rating": 8.52,
+  "scraped_at": "2026-10-26T01:50:51.169354",
+  "alternative_titles": "언더복서, Under Boxer, アンダードッグ・ボクサー, Underboxer",
   "status": "Berjalan",
   "author": "Lee jae-hoon",
   "illustrator": "Noonmae",
+  "demographic": "Shounen",
   "themes": [
     "School Life"
   ],
@@ -21,56 +22,116 @@
     "Drama",
     "Sports"
   ],
-  "synopsis": "Manhwa                    Underboxer yang dibuat oleh komikus bernama\n                    Lee jae-hoon ini bercerita tentang\n                    Lee Ki-joo menyadari bahwa untuk keluar dari kehidupan menyedihkannya sebagai orang buangan, ia membutuhkan seorang pacar. Namun, gadis yang ia sukai pada pandangan pertama ternyata adalah putri pemilik sasana tinju.Saat mencoba mengubah hidupnya dengan mendapatkan pacar, Lee Ki-joo malah mulai jatuh cinta pada pesona sejati tinju di atas ring.“Ketahanan tidak datang begitu saja!”Kisah perjalanan hidup seorang buangan yang berubah melalui tinju!",
+  "synopsis": "Manhwa                    Underboxer yang dibuat oleh komikus bernama\n                    Lee jae-hoon ini bercerita tentang\n                    Lee Ki-joo menyadari bahwa untuk melarikan diri dari hidupnya yang menyedihkan sebagai orang buangan, ia membutuhkan pacar. Tapi gadis yang dia cintai pada pandangan pertama kebetulan adalah putri pemilik gym tinju.\n\nSementara mencoba untuk mengubah hidupnya dengan mendapatkan pacar, Lee Ki-joo malah mulai jatuh untuk pesona sejati tinju di atas ring.\n\n\"Endurance tidak hanya datang alami!\"\n\nCerita tentang kehidupan orang buangan mengubah perjalanan melalui tinju!",
   "chapters": [
+    {
+      "chapter": "18",
+      "title": "Komik Underboxer Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTE4Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik Underboxer Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTE3Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik Underboxer Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTE2Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Underboxer Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTE1Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Underboxer Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTE0Lw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik Underboxer Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTEzLw==",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Underboxer Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTEyLw==",
+      "date": "5 bulan yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Underboxer Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTExLw==",
+      "date": "5 bulan yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Underboxer Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTEwLw==",
+      "date": "5 bulan yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Underboxer Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTkv",
+      "date": "5 bulan yang lalu"
+    },
     {
       "chapter": "8",
       "title": "Komik Underboxer Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTgv",
-      "date": "48 menit yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Underboxer Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTcv",
-      "date": "48 menit yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Underboxer Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTYv",
-      "date": "49 menit yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Underboxer Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTUv",
-      "date": "49 menit yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Underboxer Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTQv",
-      "date": "49 menit yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Underboxer Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTMv",
-      "date": "50 menit yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Underboxer Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTIv",
-      "date": "51 menit yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Underboxer Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5kZXJib3hlci1jaGFwdGVyLTEv",
-      "date": "52 menit yang lalu"
+      "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 18
 }

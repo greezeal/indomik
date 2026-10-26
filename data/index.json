@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T23:49:00.476268",
-  "total_comics": 2458,
+  "last_updated": "2026-10-26T01:54:57.552458",
+  "total_comics": 2464,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1120,7 +1120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.29,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "turning-into-a-tentacle-monster-made-me-crazier",
@@ -1176,7 +1176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.57,
-      "total_chapters": 163
+      "total_chapters": 165
     },
     {
       "slug": "the-demon-king-overrun-by-heroes",
@@ -1248,7 +1248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.49,
-      "total_chapters": 96
+      "total_chapters": 97
     },
     {
       "slug": "879493-a-dragonslayers-peerless-regression",
@@ -1256,7 +1256,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.12,
-      "total_chapters": 107
+      "total_chapters": 108
     },
     {
       "slug": "overlord-of-sichuan",
@@ -7584,7 +7584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "replica-datte-koi-wo-suru-2",
@@ -9520,7 +9520,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 51
+      "total_chapters": 52
     },
     {
       "slug": "chigau-miyahara-omae-janai",
@@ -11887,8 +11887,8 @@
       "title": "Underboxer",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 8
+      "rating": 8.52,
+      "total_chapters": 18
     },
     {
       "slug": "the-high-energy-attack",
@@ -12519,8 +12519,8 @@
       "title": "Return of the Bloodthirsty Police",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 147
+      "rating": 8.72,
+      "total_chapters": 152
     },
     {
       "slug": "713867-ending-maker",
@@ -13504,7 +13504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 34
     },
     {
       "slug": "sister-in-law-of-the-heroine-in-a-childcare-novel",
@@ -14704,7 +14704,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
@@ -16672,7 +16672,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.62,
-      "total_chapters": 84
+      "total_chapters": 86
     },
     {
       "slug": "737810-reincarnation-no-kaben",
@@ -16712,7 +16712,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 157
+      "total_chapters": 160
     },
     {
       "slug": "582289-max-level-player",
@@ -16808,7 +16808,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.78,
-      "total_chapters": 149
+      "total_chapters": 150
     },
     {
       "slug": "dachou-juujin-no-hachamecha-musou-aho-kawaii-saikyou-shuzoku-no-leader-ni-narimashita",
@@ -19592,7 +19592,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 132
+      "total_chapters": 134
     },
     {
       "slug": "girls-und-panzer-ribbon-no-musha",
@@ -19665,6 +19665,54 @@
       "status": "Berjalan",
       "rating": 8.17,
       "total_chapters": 36
+    },
+    {
+      "slug": "uma-musume-pisupisu%e2%98%86supisupi-gold-ship",
+      "title": "Uma Musume – Pisupisu☆Supisupi – Gold Ship",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.49,
+      "total_chapters": 25
+    },
+    {
+      "slug": "ichiban-tookute-chikai-aitsu-kimi-ni-koi-wo-suru-nante-arienai-hazu-datta",
+      "title": "Ichiban Tookute, Chikai Aitsu. ~Kimi ni Koi wo Suru nante, Arienai Hazu Datta~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.38,
+      "total_chapters": 4
+    },
+    {
+      "slug": "fujujun-na-verrier",
+      "title": "Fujujun na Verrier",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "the-newbie-civil-servant-hunts-villains-before-going-home",
+      "title": "The Newbie Civil Servant Hunts Villains Before Going Home",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.27,
+      "total_chapters": 7
+    },
+    {
+      "slug": "shitsudo-takame-na-ryouomoi",
+      "title": "Shitsudo Takame na Ryouomoi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.0,
+      "total_chapters": 1
+    },
+    {
+      "slug": "got-a-gallery-in-the-wild",
+      "title": "Got A Gallery In The Wild",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 12
     }
   ]
 }
