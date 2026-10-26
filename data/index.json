@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T20:10:03.610155",
+  "last_updated": "2026-10-26T23:56:40.499290",
   "total_comics": 2475,
   "comics": [
     {
@@ -18584,7 +18584,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.01,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "juumonji-kun-shika-mienai",
@@ -18928,7 +18928,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "the-crazy-villain-comes-to-his-sanity",
@@ -19792,7 +19792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.34,
-      "total_chapters": 11
+      "total_chapters": 20
     },
     {
       "slug": "the-devil-and-the-ice-witch",
@@ -19800,7 +19800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.21,
-      "total_chapters": 3
+      "total_chapters": 4
     }
   ]
 }

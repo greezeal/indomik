@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.01,
-  "scraped_at": "2026-10-26T20:05:31.485923",
+  "scraped_at": "2026-10-26T23:53:57.958840",
   "alternative_titles": "ソードアート・オンライン　ユナイタル・リング, Sword Art Online Anillo Unital, Sword Art Online Unital Ring",
   "status": "Berjalan",
   "author": "Kawahara Reki",
@@ -24,10 +24,16 @@
   "synopsis": "Manga                    Sword Art Online Unital Ring yang dibuat oleh komikus bernama\n                    Kawahara Reki ini bercerita tentang\n                    Diatur oleh ilmuwan jenius Akihiko Kayaba, SAO Insiden menciptakan permainan Anda tidak bisa meninggalkan sampai Anda mengalahkan itu.\nSatu di mana kematian dalam permainan berarti kematian di dunia nyata... Kirito adalah orang yang selamat dari SAO yang sekarang menghabiskan waktunya bermain VRMORPG Alfheim baru secara online dengan teman SAO lamanya, Asuna dan Alice.\nTapi Kirito segera menemukan dirinya terjebak dalam permainan misterius ia tidak pernah diharapkan...",
   "chapters": [
     {
+      "chapter": "17.1",
+      "title": "Komik Sword Art Online Unital Ring Chapter 17.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE3LTEv",
+      "date": "32 detik yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Sword Art Online Unital Ring Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE2Lw==",
-      "date": "15 menit yang lalu"
+      "date": "7 jam yang lalu"
     },
     {
       "chapter": "15",
@@ -138,5 +144,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 19
+  "total_chapters": 20
 }

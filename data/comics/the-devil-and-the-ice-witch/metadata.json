@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.21,
-  "scraped_at": "2026-10-26T20:09:56.419237",
+  "scraped_at": "2026-10-26T23:56:38.196777",
   "alternative_titles": "Devil & Ice, デビル&アイス, 데블&아이스",
   "status": "Berjalan",
   "author": "Danut, Kwon Tae-Yong",
@@ -23,23 +23,29 @@
   "synopsis": "Manhwa                    The Devil and the Ice Witch yang dibuat oleh komikus bernama\n                    Danut, Kwon Tae-Yong ini bercerita tentang\n                    Yang terkuat dari dunia lain terlahir kembali begitu banyak untuk kehidupan normal.\n\nIblis Surga, yang berada di ambang menaklukkan dunia.\n\nSetelah mati bersama dalam pertarungan terakhir dengan musuh bebuyutannya, Penyihir Es, keduanya terlahir kembali sebagai kembar biasa di dunia manusia. Tapi kedamaian mereka sangat singkat. Sekarang mereka remaja, organisasi Reinkarnasi mengguncang dunia. Dunia menolak untuk meninggalkan saudara kandung ini sendiri, bahkan saat mereka mencoba untuk menyembunyikan kekuatan kehidupan masa lalu mereka. Orang tua mulai berkumpul, satu per satu. Dan Penyihir Es berdiri di sisinya - bukan sebagai musuh kali ini, tapi sebagai mitra.\n\nAkankah siluman surgawi bisa menjadi terkuat di dunia sekali lagi!",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik The Devil and the Ice Witch Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRldmlsLWFuZC10aGUtaWNlLXdpdGNoLWNoYXB0ZXItNC8=",
+      "date": "35 detik yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik The Devil and the Ice Witch Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRldmlsLWFuZC10aGUtaWNlLXdpdGNoLWNoYXB0ZXItMy8=",
-      "date": "42 menit yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Devil and the Ice Witch Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRldmlsLWFuZC10aGUtaWNlLXdpdGNoLWNoYXB0ZXItMi8=",
-      "date": "42 menit yang lalu"
+      "date": "8 jam yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Devil and the Ice Witch Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRldmlsLWFuZC10aGUtaWNlLXdpdGNoLWNoYXB0ZXItMS8=",
-      "date": "43 menit yang lalu"
+      "date": "8 jam yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }
