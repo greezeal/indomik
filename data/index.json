@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T01:54:57.552458",
-  "total_comics": 2464,
+  "last_updated": "2026-10-26T07:16:05.841051",
+  "total_comics": 2465,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2775,8 +2775,8 @@
       "title": "Sword Devouring Swordmaster",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 8.5,
-      "total_chapters": 43
+      "rating": 8.17,
+      "total_chapters": 52
     },
     {
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
@@ -3344,7 +3344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.01,
-      "total_chapters": 206
+      "total_chapters": 207
     },
     {
       "slug": "i-start-with-13-hidden-traits",
@@ -3629,10 +3629,10 @@
     {
       "slug": "701827-emperor-of-solo-play",
       "title": "Emperor of Solo Play",
-      "type": "Manga",
+      "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.14,
-      "total_chapters": 84
+      "rating": 8.27,
+      "total_chapters": 89
     },
     {
       "slug": "trait-hoarder",
@@ -3799,8 +3799,8 @@
       "title": "Surviving as a Genius on Borrowed Time",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.23,
-      "total_chapters": 94
+      "rating": 8.68,
+      "total_chapters": 97
     },
     {
       "slug": "803540-the-heavenly-demon-wants-a-quiet-life",
@@ -3832,7 +3832,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.26,
-      "total_chapters": 890
+      "total_chapters": 891
     },
     {
       "slug": "yotaka-futatabi",
@@ -5136,7 +5136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 70
+      "total_chapters": 71
     },
     {
       "slug": "130565-playing-the-perfect-fox-eyed-villain",
@@ -6095,8 +6095,8 @@
       "title": "Chronicle of Runes",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 28
+      "rating": 8.24,
+      "total_chapters": 33
     },
     {
       "slug": "289209-battle-through-the-heavens",
@@ -6183,8 +6183,8 @@
       "title": "Re:Monster",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.55,
-      "total_chapters": 124
+      "rating": 7.75,
+      "total_chapters": 125
     },
     {
       "slug": "tales-of-the-moonlit-night",
@@ -6384,7 +6384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.02,
-      "total_chapters": 139
+      "total_chapters": 140
     },
     {
       "slug": "the-great-heavenly-demon-sovereign",
@@ -14136,7 +14136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 25
     },
     {
       "slug": "senmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru",
@@ -16599,8 +16599,8 @@
       "title": "Chronicles of the Lazy Sovereign",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.19,
-      "total_chapters": 66
+      "rating": 8.66,
+      "total_chapters": 70
     },
     {
       "slug": "the-level-9999-underachiever-dominates-in-a-woman-ruled-world",
@@ -18192,7 +18192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 17
+      "total_chapters": 22
     },
     {
       "slug": "mr-kim-strikes-it-rich-with-auto-hunting",
@@ -19632,7 +19632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 2
+      "total_chapters": 4
     },
     {
       "slug": "zero-chronicle-of-the-nine-cloud-dreams",
@@ -19640,7 +19640,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.6,
-      "total_chapters": 5
+      "total_chapters": 10
     },
     {
       "slug": "ao-ashi-brotherfoot",
@@ -19713,6 +19713,14 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 12
+    },
+    {
+      "slug": "yuri-no-hajimari-wa-dorei-kara",
+      "title": "Yuri no Hajimari wa Dorei Kara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.85,
+      "total_chapters": 17
     }
   ]
 }
