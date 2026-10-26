@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T07:16:05.841051",
-  "total_comics": 2465,
+  "last_updated": "2026-10-26T14:44:18.095555",
+  "total_comics": 2471,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -1032,7 +1032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 285
+      "total_chapters": 286
     },
     {
       "slug": "douyara-ore-wa-imadoki-gal-na-toshiue-osananajimi-kara-gekiomokanjou-wo-mukerareteirurashii",
@@ -1206,9 +1206,9 @@
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
       "title": "Kage no Jitsuryokusha ni Naritakute",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 8.99,
-      "total_chapters": 94
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "serpent-ancestor",
@@ -2135,8 +2135,8 @@
       "title": "The Ultimate of All Ages",
       "type": "Manhua",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 567
+      "rating": 8.71,
+      "total_chapters": 578
     },
     {
       "slug": "game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau",
@@ -3776,7 +3776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 99
+      "total_chapters": 107
     },
     {
       "slug": "high-school-musical-genius-is-paganini-reincarnated",
@@ -5440,7 +5440,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.72,
-      "total_chapters": 93
+      "total_chapters": 96
     },
     {
       "slug": "houkago-kitaku-biyori",
@@ -5632,7 +5632,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.66,
-      "total_chapters": 311
+      "total_chapters": 316
     },
     {
       "slug": "the-chosen-sss-rank",
@@ -6007,8 +6007,8 @@
       "title": "Reborn as The Heavenly Demon",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 139
+      "rating": 8.73,
+      "total_chapters": 145
     },
     {
       "slug": "archmage-transcending-through-regression",
@@ -6176,7 +6176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "remonster",
@@ -6200,7 +6200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.63,
-      "total_chapters": 31
+      "total_chapters": 34
     },
     {
       "slug": "monogatari-no-kuromaku-ni-tensei-shite",
@@ -7406,9 +7406,9 @@
       "slug": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
       "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 8.04,
-      "total_chapters": 240
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-black-haired-american-grand-marshal",
@@ -9263,8 +9263,8 @@
       "title": "Villager A Wants to Save the Villainess no Matter What!",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 55
+      "rating": 8.8,
+      "total_chapters": 57
     },
     {
       "slug": "the-hashtag-is-first-love",
@@ -10671,8 +10671,8 @@
       "title": "Honzuki no Gekokujou Ferdinand no Yakata ni Te",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 6
+      "rating": 8.29,
+      "total_chapters": 9
     },
     {
       "slug": "gyakkou-akujo-wa-yaru-koto-ga-ou-sugiru",
@@ -11080,7 +11080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 281
+      "total_chapters": 282
     },
     {
       "slug": "yuusha-party-wo-oida-sareta-kiyou-binbou-gaiden-ofu-no-selma-san-wa-bukiyou",
@@ -11992,7 +11992,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.26,
-      "total_chapters": 73
+      "total_chapters": 74
     },
     {
       "slug": "hone-dragon-no-mana-musume",
@@ -12008,7 +12008,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 61
+      "total_chapters": 63
     },
     {
       "slug": "craftsmans-street",
@@ -13686,9 +13686,9 @@
       "slug": "debut-or-die",
       "title": "Debut or Die",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 122
     },
     {
       "slug": "the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
@@ -14358,9 +14358,9 @@
       "slug": "i-became-the-most-terrifying-stepmother-in-history",
       "title": "I Became the Most Terrifying Stepmother in History?!",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 30
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "saenai-ossan-jitsu-wa-saikyou",
@@ -15088,7 +15088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 18
+      "total_chapters": 22
     },
     {
       "slug": "devil-princess",
@@ -15176,7 +15176,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "summon-the-famous-generals-of-the-three-kingdoms-i-will-be-the-prime-minister-of-dongying",
@@ -16072,7 +16072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 85
+      "total_chapters": 86
     },
     {
       "slug": "marked-as-the-tyrants-daughter-in-law",
@@ -16103,8 +16103,8 @@
       "title": "Though I’m a Homebody, I Found Myself in a Dark Captive Genre",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 48
+      "rating": 7.4,
+      "total_chapters": 60
     },
     {
       "slug": "540641-the-reborn-little-girl-wont-give-up",
@@ -16654,9 +16654,9 @@
       "slug": "748969-the-player-hides-his-past",
       "title": "The Player Hides His Past",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 8.76,
-      "total_chapters": 143
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "253308-hunter-x-hunter",
@@ -16790,9 +16790,9 @@
       "slug": "revenge-of-reborn-villainess",
       "title": "Revenge of Reborn Villainess",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 12
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "saikyou-ansatsusha-class-teni-de-isekai-e",
@@ -17094,9 +17094,9 @@
       "slug": "equation-without-error",
       "title": "Equation Without Error",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 7
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "the-calamity-prince-desires-the-fake-princess",
@@ -17486,9 +17486,9 @@
       "slug": "609954-tensei-shitara-slime-datta-ken",
       "title": "Tensei Shitara Slime Datta Ken",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 9.2,
-      "total_chapters": 148
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "damedol-to-sekai-ni-hitori-dake-no-fan-serialization",
@@ -17896,7 +17896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "baka-deka-imouto-ga-yatte-kuru",
@@ -18238,9 +18238,9 @@
       "slug": "i-married-the-impotent-duke-and-now-i-want-to-protect-his-child",
       "title": "I Married the Impotent Duke and Now I Want to Protect His Child",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 16
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "honzuki-no-gekokujou-part-2",
@@ -18632,7 +18632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "424484-hu-tao-becomes-a-surgeon",
@@ -18696,7 +18696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 63
+      "total_chapters": 66
     },
     {
       "slug": "the-locked-classroom",
@@ -19136,15 +19136,15 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.21,
-      "total_chapters": 8
+      "total_chapters": 14
     },
     {
       "slug": "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu",
       "title": "Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.73,
-      "total_chapters": 36
+      "rating": 7.27,
+      "total_chapters": 38
     },
     {
       "slug": "boukensha-ni-narenakatta-ore-skill-oppai-kyousei-de-nayameru-anoko-wo-hitotasuke",
@@ -19280,7 +19280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.46,
-      "total_chapters": 49
+      "total_chapters": 50
     },
     {
       "slug": "nakama-ni-uragirare-shokei-sareta-shireijutsushi-undead-ka-shiteita-eiyuu-10000-nin-o-sosei-shi-saikyou-no-oukoku-o-tsukuri-fukushuu-o-kaishi-suru-anei-no-gyokuza-ni-eirei-wa-tsudou",
@@ -19336,7 +19336,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.96,
-      "total_chapters": 56
+      "total_chapters": 63
     },
     {
       "slug": "kuro-no-jiku",
@@ -19721,6 +19721,54 @@
       "status": "Berjalan",
       "rating": 7.85,
       "total_chapters": 17
+    },
+    {
+      "slug": "glass-koubou-no-renkinjutsushi",
+      "title": "Glass Koubou no Renkinjutsushi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "the-galactic-navy-officer-becomes-an-adventurer",
+      "title": "The Galactic Navy Officer Becomes an Adventurer",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.35,
+      "total_chapters": 77
+    },
+    {
+      "slug": "the-incompetent-prince-who-has-been-banished-wants-to-hide-his-abilities",
+      "title": "The Incompetent Prince Who Has Been Banished Wants To Hide His Abilities",
+      "type": "Manga",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "baby-lynx-of-the-tiger-family",
+      "title": "Baby Lynx of the Tiger Family",
+      "type": "Manhwa",
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
+    },
+    {
+      "slug": "wolf-chan-wa-sumashitai",
+      "title": "Wolf-chan wa Sumashitai",
+      "type": "",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 20
+    },
+    {
+      "slug": "yonshimai-wa-yoru-wo-omachikane",
+      "title": "Yonshimai wa Yoru wo Omachikane",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 38
     }
   ]
 }

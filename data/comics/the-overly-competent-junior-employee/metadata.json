@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-26T01:54:32.853820",
+  "scraped_at": "2026-10-26T14:20:54.661610",
   "alternative_titles": "말단 사원이 너무 유능함",
   "status": "Berjalan",
   "author": "Nesishipbun, Yoon (윤)",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    The Overly Competent Junior Employee yang dibuat oleh komikus bernama\n                    Nesishipbun, Yoon (윤) ini bercerita tentang\n                    Karyawan cabang sekuritas Yoon Do Gyeong menerima pesan teks mencurigakan yang mengklaim bahwa ia telah terpilih untuk layanan saham VIP, tetapi ia mengabaikannya sebagai spam. Setelah berbagi wawasannya tentang sektor kertas dengan PB senior Choi Woo Jin, prediksinya secara tak terduga menjadi kenyataan. Terkesan dengan bakatnya, Woo Jin merekomendasikan Do Gyeong untuk sebuah proyek khusus. Saat Do Gyeong memasuki dunia investasi yang kompetitif, kedatangan manajer cabang baru Ryu Tae Hwa di Cabang Seongnam Yuseong Investment Securities mengubah segalanya.",
   "chapters": [
     {
+      "chapter": "31",
+      "title": "Komik The Overly Competent Junior Employee Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMzEv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "30",
       "title": "Komik The Overly Competent Junior Employee Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMzAv",
-      "date": "9 jam yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "29",
@@ -33,7 +39,7 @@
       "chapter": "28",
       "title": "Komik The Overly Competent Junior Employee Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW92ZXJseS1jb21wZXRlbnQtanVuaW9yLWVtcGxveWVlLWNoYXB0ZXItMjgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -198,5 +204,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }

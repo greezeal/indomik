@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-26T01:54:52.488364",
+  "scraped_at": "2026-10-26T14:19:59.675120",
   "alternative_titles": "O Filho Abandonado Mais Poderoso, The Clan's Failure Is a Former Continental Champion, The Clan's Failure Is the Former Strongest in the Continent, The Clan's Failure Was Once the Continent’s Strongest, The Family Failure Is the Former Strongest, The Strongest Outcast (Hei Feng Zhai Da Dang Jia), Thiếu Gia Bị Bỏ Rơi, 一族の落ちこぼれは元大陸最強者, 最强弃少 (2025)",
   "status": "Berjalan",
   "author": "Goose Five",
@@ -24,28 +24,40 @@
   "synopsis": "Manhua                    The Clan’s Failure is the Former Strongest in the Continent yang dibuat oleh komikus bernama\n                    Goose Five ini bercerita tentang\n                    Ketika Ye Mo tiba-tiba terbangun, dia menyadari bahwa segala sesuatu di sekitarnya tampak telah berubah: Dia telah bereinkarnasi ke Bumi modern di mana energi spiritual sangat langka. Gurunya yang cantik dari dunia asalnya tidak terlihat di mana pun. Yang terpenting, dia mendapati dirinya berada di tubuh seorang pemuda yang telah ditinggalkan oleh klannya karena alasan yang memalukan…",
   "chapters": [
     {
+      "chapter": "63",
+      "title": "Komik The Clan’s Failure is the Former Strongest in the Continent Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYW5zLWZhaWx1cmUtaXMtdGhlLWZvcm1lci1zdHJvbmdlc3QtaW4tdGhlLWNvbnRpbmVudC1jaGFwdGVyLTYzLw==",
+      "date": "52 menit yang lalu"
+    },
+    {
+      "chapter": "62",
+      "title": "Komik The Clan’s Failure is the Former Strongest in the Continent Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYW5zLWZhaWx1cmUtaXMtdGhlLWZvcm1lci1zdHJvbmdlc3QtaW4tdGhlLWNvbnRpbmVudC1jaGFwdGVyLTYyLw==",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "61",
       "title": "Komik The Clan’s Failure is the Former Strongest in the Continent Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYW5zLWZhaWx1cmUtaXMtdGhlLWZvcm1lci1zdHJvbmdlc3QtaW4tdGhlLWNvbnRpbmVudC1jaGFwdGVyLTYxLw==",
-      "date": "10 jam yang lalu"
+      "date": "21 jam yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik The Clan’s Failure is the Former Strongest in the Continent Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYW5zLWZhaWx1cmUtaXMtdGhlLWZvcm1lci1zdHJvbmdlc3QtaW4tdGhlLWNvbnRpbmVudC1jaGFwdGVyLTYwLw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik The Clan’s Failure is the Former Strongest in the Continent Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYW5zLWZhaWx1cmUtaXMtdGhlLWZvcm1lci1zdHJvbmdlc3QtaW4tdGhlLWNvbnRpbmVudC1jaGFwdGVyLTU5Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik The Clan’s Failure is the Former Strongest in the Continent Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYW5zLWZhaWx1cmUtaXMtdGhlLWZvcm1lci1zdHJvbmdlc3QtaW4tdGhlLWNvbnRpbmVudC1jaGFwdGVyLTU4Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "57",
@@ -135,7 +147,7 @@
       "chapter": "43",
       "title": "Komik The Clan’s Failure is the Former Strongest in the Continent Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNsYW5zLWZhaWx1cmUtaXMtdGhlLWZvcm1lci1zdHJvbmdlc3QtaW4tdGhlLWNvbnRpbmVudC1jaGFwdGVyLTQzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -390,5 +402,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 63
 }
