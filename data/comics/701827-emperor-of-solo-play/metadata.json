@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.27,
-  "scraped_at": "2026-10-26T07:08:54.461222",
+  "scraped_at": "2026-10-27T20:43:23.264665",
   "alternative_titles": "Solo Play ui Jewang, 솔플의 제왕, The Emperor of Solo Play, The King of Soloplay, ราชาแห่งโซโล่เพลเยอร์, 单刷之王, 單刷王者, 孤独《ソロプレイ》の帝王, Emperor of Solo Play",
   "status": "Berjalan",
   "author": "Dedart (디다트), S.sin (석신)",
@@ -26,22 +26,28 @@
   "synopsis": "Manhwa                    Emperor of Solo Play yang dibuat oleh komikus bernama\n                    Dedart (디다트), S.sin (석신) ini bercerita tentang\n                    Dikhianati oleh pengikutnya dan dikalahkan oleh pemain top, Hyrkan kehilangan segalanya. Sebelum dia bisa membalas dendam, kecelakaan fatal mengakhiri hidupnya - hanya baginya untuk bangun tahun di masa lalu, kembali pada awal Warlord.\n\nSekarang, dengan ingatannya utuh, dia bertekad untuk naik ke atas sendirian. Tapi dalam permainan di mana kekuasaan berarti segalanya, bisa dia benar-benar bertahan hidup tanpa sekutu?\n\nKaisar Solo Play kembali, dan kali ini, dia bermain dengan aturan sendiri.",
   "chapters": [
     {
+      "chapter": "90",
+      "title": "Komik Emperor of Solo Play Chapter 90",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci05MC8=",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "89",
       "title": "Komik Emperor of Solo Play Chapter 89",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci04OS8=",
-      "date": "49 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "88",
       "title": "Komik Emperor of Solo Play Chapter 88",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci04OC8=",
-      "date": "50 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "87",
       "title": "Komik Emperor of Solo Play Chapter 87",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci04Ny8=",
-      "date": "50 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "86",
@@ -77,13 +83,13 @@
       "chapter": "81",
       "title": "Komik Emperor of Solo Play Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci04MS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "80",
       "title": "Komik Emperor of Solo Play Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci04MC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "79",
@@ -323,25 +329,25 @@
       "chapter": "40",
       "title": "Komik Emperor of Solo Play Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci00MC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Emperor of Solo Play Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci0zOS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Emperor of Solo Play Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci0zOC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Emperor of Solo Play Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZW1wZXJvci1vZi1zb2xvLXBsYXktY2hhcHRlci0zNy8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -560,5 +566,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 89
+  "total_chapters": 90
 }

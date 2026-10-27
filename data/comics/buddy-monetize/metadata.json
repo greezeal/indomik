@@ -2,15 +2,16 @@
   "slug": "buddy-monetize",
   "title": "Buddy Monetize",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYnVkZHktbW9uZXRpemUv",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvS29taWstQm9keS1Nb25ldGl6ZS0yMjR4MzE5LmpwZw==",
-  "type": "",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ1MDE4OS83YzdjODM0Yy00Y2RkLTRiNzktYWYzNy1kNTdlYTVmMWM4YzIva29taWstYnVkZHktbW9uZXRpemUtMjI0eDMxOS5qcGc=",
+  "type": "Manga",
   "is_colored": false,
-  "rating": 0.0,
-  "scraped_at": "2026-10-09T10:37:26.042173",
-  "alternative_titles": "バディマネタイズ, Badi Manetaizu, Partner monetisasi, Kanca monetisasi, Buddy Monetization",
+  "rating": 7.54,
+  "scraped_at": "2026-10-27T20:37:52.611614",
+  "alternative_titles": "Body Monetize, バディマネタイズ, Badi Manetaizu, Partner monetisasi, Kanca monetisasi, Buddy Monetization, Buddy Monetize",
   "status": "Berjalan",
   "author": "Kuji Masamune",
   "illustrator": "Beko Taro",
+  "demographic": "Seinen",
   "themes": [
     "Office Workers"
   ],
@@ -18,14 +19,26 @@
     "Drama",
     "Romance"
   ],
-  "synopsis": "Buddy Monetize yang dibuat oleh komikus bernama\n                    Kuji Masamune ini bercerita tentang\n                    Gaku dan Midori adalah dua pekerja lepas berusia dua puluhan yang menjalani hidup tanpa tujuan jelas dan tampak tidak memiliki masa depan yang pasti. Namun, keduanya memiliki sebuah \"sisi tersembunyi.\"Setiap malam, mereka tampil sebagai pasangan *streamer* yang memikat banyak penggemar lewat siaran langsung yang berani dan penuh gairah, sembari berupaya meraup kekayaan dan meraih puncak popularitas.Akan tetapi, kenyataannya mereka bukanlah pasangan sungguhan... Hubungan mereka hanyalah sebatas kesepakatan bisnis semata.",
+  "synopsis": "Manga                    Buddy Monetize yang dibuat oleh komikus bernama\n                    Kuji Masamune ini bercerita tentang\n                    Si Gaku sama Midori ini yang umur 20-an kerjaannya serabutan, madesu abis lah pokoknya tapi diem- diem mereka punya kerjaan gelap, setiap malem, mereka nge-live jualan konten pekob berkedok pacaran demi nyari saweran gede biar cepet kaya raya, dan yang nonton pasti pada heboh padahal aslinya mah mereka kaga pacaran sama sekali njir, beneran sebatas partner kerja doang wkwkwk",
   "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Buddy Monetize Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVkZHktbW9uZXRpemUtY2hhcHRlci0zLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Buddy Monetize Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVkZHktbW9uZXRpemUtY2hhcHRlci0yLw==",
+      "date": "2 minggu yang lalu"
+    },
     {
       "chapter": "1",
       "title": "Komik Buddy Monetize Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYnVkZHktbW9uZXRpemUtY2hhcHRlci0xLw==",
-      "date": "4 menit yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 3
 }
