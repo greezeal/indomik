@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-26T14:21:12.228065",
+  "scraped_at": "2026-10-27T15:55:57.530767",
   "alternative_titles": "I Will Save the World And Then Retire, 세상만 구하고 은퇴하겠습니다",
   "status": "Berjalan",
   "author": "Millem, Salam",
@@ -24,16 +24,22 @@
   "synopsis": "Manhwa                    I’ll Retire After Saving the World yang dibuat oleh komikus bernama\n                    Millem, Salam ini bercerita tentang\n                    Tahun 2044.\r\nTepat sebelum ledakan global dungeon—akhir dunia. Dan… ketika saya membuka mata lagi, itu sudah dua puluh tahun sebelum akhir. Saya, Woo Hwijae, harus menghentikan kiamat untuk mengamankan rencana pensiun saya!",
   "chapters": [
     {
+      "chapter": "108",
+      "title": "Komik I’ll Retire After Saving the World Chapter 108",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJldGlyZS1hZnRlci1zYXZpbmctdGhlLXdvcmxkLWNoYXB0ZXItMTA4Lw==",
+      "date": "52 menit yang lalu"
+    },
+    {
       "chapter": "107",
       "title": "Komik I’ll Retire After Saving the World Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJldGlyZS1hZnRlci1zYXZpbmctdGhlLXdvcmxkLWNoYXB0ZXItMTA3Lw==",
-      "date": "2 jam yang lalu"
+      "date": "20 jam yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik I’ll Retire After Saving the World Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJldGlyZS1hZnRlci1zYXZpbmctdGhlLXdvcmxkLWNoYXB0ZXItMTA2Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "105",
@@ -45,13 +51,13 @@
       "chapter": "104",
       "title": "Komik I’ll Retire After Saving the World Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJldGlyZS1hZnRlci1zYXZpbmctdGhlLXdvcmxkLWNoYXB0ZXItMTA0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik I’ll Retire After Saving the World Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaWxsLXJldGlyZS1hZnRlci1zYXZpbmctdGhlLXdvcmxkLWNoYXB0ZXItMTAzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "102",
@@ -666,5 +672,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 107
+  "total_chapters": 108
 }
