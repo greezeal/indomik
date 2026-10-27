@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T23:56:40.499290",
-  "total_comics": 2475,
+  "last_updated": "2026-10-27T04:53:24.175954",
+  "total_comics": 2476,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -416,7 +416,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.42,
-      "total_chapters": 274
+      "total_chapters": 275
     },
     {
       "slug": "tsuma-ga-kanpeki-sugiru-no-de-chotto-midashite-ii-desu-ka",
@@ -2647,8 +2647,8 @@
       "title": "Riches Can’t Buy Loyalty",
       "type": "Manhua",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 122
+      "rating": 8.35,
+      "total_chapters": 126
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -3320,7 +3320,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.48,
-      "total_chapters": 159
+      "total_chapters": 161
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -4336,7 +4336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.5,
-      "total_chapters": 279
+      "total_chapters": 280
     },
     {
       "slug": "the-rebirth-of-the-heros-partys-archmage",
@@ -5368,7 +5368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 101
+      "total_chapters": 102
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -10151,8 +10151,8 @@
       "title": "Dustland",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 18
+      "rating": 9.1,
+      "total_chapters": 20
     },
     {
       "slug": "maid-wa-koisuru-hachiya-kun",
@@ -10696,7 +10696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.04,
-      "total_chapters": 119
+      "total_chapters": 120
     },
     {
       "slug": "anata-tachi-soredemo-sensei-desu-ka",
@@ -13800,7 +13800,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 35
     },
     {
       "slug": "otome-game-no-mob-desura-naindaga",
@@ -13974,9 +13974,9 @@
       "slug": "sovereign-of-a-hundred-blades-heir-to-the-ultimate-style",
       "title": "Sovereign of a Hundred Blades: Heir to the Ultimate Style",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
     },
     {
       "slug": "bijo-to-kenja-to-majin-no-ken",
@@ -14127,8 +14127,8 @@
       "title": "I Shall Master This Family!",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 234
+      "rating": 9.37,
+      "total_chapters": 239
     },
     {
       "slug": "contract-killer-enrollment",
@@ -14200,7 +14200,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 67
+      "total_chapters": 68
     },
     {
       "slug": "ookii-muki-muki-chiisai-muchi-muchi",
@@ -14544,7 +14544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.41,
-      "total_chapters": 95
+      "total_chapters": 96
     },
     {
       "slug": "the-fake-saintess-of-a-reverse-harem-game",
@@ -19368,7 +19368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "divine-eyed-licht-the-strongest-blind-avenger",
@@ -19376,7 +19376,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 19
+      "total_chapters": 20
     },
     {
       "slug": "the-crimson-dragon-martial-emperor",
@@ -19640,7 +19640,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.6,
-      "total_chapters": 10
+      "total_chapters": 15
     },
     {
       "slug": "ao-ashi-brotherfoot",
@@ -19801,6 +19801,14 @@
       "status": "Berjalan",
       "rating": 6.21,
       "total_chapters": 4
+    },
+    {
+      "slug": "kimi-no-kami-ga-ki-ni-narunda",
+      "title": "Kimi no Kami ga Ki ni Narunda",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.83,
+      "total_chapters": 6
     }
   ]
 }
