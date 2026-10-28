@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T05:44:59.346226",
-  "total_comics": 2482,
+  "last_updated": "2026-10-28T11:47:21.808016",
+  "total_comics": 2491,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -2704,7 +2704,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.64,
-      "total_chapters": 93
+      "total_chapters": 94
     },
     {
       "slug": "peerless-soul",
@@ -2736,7 +2736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.49,
-      "total_chapters": 423
+      "total_chapters": 425
     },
     {
       "slug": "god-of-martial-arts",
@@ -3879,8 +3879,8 @@
       "title": "Futari Bus",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.4,
-      "total_chapters": 44
+      "rating": 9.31,
+      "total_chapters": 52
     },
     {
       "slug": "729096-shinka-tokusei-de-saikyou-necromancer",
@@ -17944,7 +17944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 12
     },
     {
       "slug": "love-bullet",
@@ -18008,7 +18008,7 @@
       "type": "Manga",
       "status": "Tamat",
       "rating": 8.11,
-      "total_chapters": 55
+      "total_chapters": 57
     },
     {
       "slug": "the-fed-up-office-lady-wants-to-serve-the-villainess",
@@ -19288,7 +19288,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.43,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "yuuri-chan-no-chuuken-kun",
@@ -19857,6 +19857,78 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 6
+    },
+    {
+      "slug": "the-prodigys-return-the-worlds-strongest-regresses-to-shatter-the-doomsday-ending",
+      "title": "The Prodigy’s Return: The World’s Strongest Regresses to Shatter the Doomsday Ending",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 8
+    },
+    {
+      "slug": "suki-datta-ko-o-maid-ni-shitara-ore-no-heya-de-kossori-nanika-shiteiru",
+      "title": "Suki datta Ko o Maid ni Shitara, Ore no Heya de Kossori Nanika Shiteiru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.65,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kawaii-shinigao-ni-miserarete",
+      "title": "Kawaii Shinigao ni Miserarete",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.82,
+      "total_chapters": 1
+    },
+    {
+      "slug": "memory-diver",
+      "title": "Memory Diver",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "hal-formula",
+      "title": "Hal Formula",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "martial-emperor-beyond-transcendence",
+      "title": "Martial Emperor Beyond Transcendence",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 6
+    },
+    {
+      "slug": "my-fiance-only-wants-my-body",
+      "title": "My Fiancé Only Wants My Body",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.17,
+      "total_chapters": 5
+    },
+    {
+      "slug": "this-young-lady-hates-being-productive",
+      "title": "This Young Lady Hates Being Productive!",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.06,
+      "total_chapters": 5
+    },
+    {
+      "slug": "my-wife-is-actually-the-demon-cult-leader",
+      "title": "My Wife is Actually the Demon Cult Leader",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 21
     }
   ]
 }

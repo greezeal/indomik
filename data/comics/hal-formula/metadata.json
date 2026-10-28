@@ -1,0 +1,52 @@
+{
+  "slug": "hal-formula",
+  "title": "Hal Formula",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvaGFsLWZvcm11bGEv",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ2MDc5MS80NDRkZjkxYi0xOTBkLTQwMGItYWJiNC1iZTU0MTQ2OTllNTAva29taWstaGFsLWZvcm11bGEtMjAzeDMxOS5qcGc=",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 8.0,
+  "scraped_at": "2026-10-28T11:41:51.071594",
+  "alternative_titles": "ハルフォーミュラ, Формула Халла, Хал Формула",
+  "status": "Berjalan",
+  "author": "Terasaka Kento",
+  "illustrator": "Terasaka Kento",
+  "demographic": "Shounen",
+  "genres": [
+    "Sports"
+  ],
+  "synopsis": "Manga                    Hal Formula yang dibuat oleh komikus bernama\n                    Terasaka Kento ini bercerita tentang\n                    Kecepatan dan kemenangan adalah yang terpenting di dunia ini. Setelah bertahun-tahun berjuang di dunia kompetitif olahraga motor, Miharu Suzukaze siap untuk menyerah pada mimpinya menjadi pembalap juara. Namun, sesuatu berubah ketika ia memutuskan untuk bersaing dalam satu balapan terakhir demi saudaranya Haruka itu..",
+  "chapters": [
+    {
+      "chapter": "5",
+      "title": "Komik Hal Formula Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsLWZvcm11bGEtY2hhcHRlci01Lw==",
+      "date": "3 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Hal Formula Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsLWZvcm11bGEtY2hhcHRlci00Lw==",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Hal Formula Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsLWZvcm11bGEtY2hhcHRlci0zLw==",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Hal Formula Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsLWZvcm11bGEtY2hhcHRlci0yLw==",
+      "date": "4 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Hal Formula Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFsLWZvcm11bGEtY2hhcHRlci0xLw==",
+      "date": "4 menit yang lalu"
+    }
+  ],
+  "total_chapters": 5
+}
