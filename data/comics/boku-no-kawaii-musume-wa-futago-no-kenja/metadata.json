@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.58,
-  "scraped_at": "2026-10-26T23:54:51.956619",
+  "scraped_at": "2026-10-28T05:38:17.790499",
   "alternative_titles": "Boku no Kawaii Musume wa Futago no Kenja: Tokugi ga Debuff no Teihen Kuro Madoushi, Sodateta Futago no Musume ga S-Rank no Dai Kenja ni Natteshimau, 僕のかわいい娘は双子の賢者　～特技がデバフの底辺黒魔導士、育てた双子の娘がＳランクの大賢者になってしまう～, My Lovely Daughters are Both Sages: I'm a Black Mage Whose Special Skill is Debuffing, and the Twin Daughters I Raised Become S-Ranked Great Sages!, Boku no Kawaii Musume wa Futago no Kenja",
   "status": "Berjalan",
   "author": "Mesopo Tamia",
@@ -26,16 +26,22 @@
   "synopsis": "Manga                    Boku no Kawaii Musume wa Futago no Kenja yang dibuat oleh komikus bernama\n                    Mesopo Tamia ini bercerita tentang\n                    Elcan, penyihir gelap, dipecat dari partainya karena kurangnya bakat dengan sihir ofensif. Saat ia berjalan-jalan ia menemukan kembar, yang ditinggalkan oleh orang tua mereka.\n\n\"Aku tidak bisa menjadi penyihir gelap yang baik, tapi aku ingin membuat hidup mereka lebih baik!\"\n\nDia memutuskan untuk pensiun dari menjadi petualang dan membesarkan kedua gadis ini sebagai miliknya. Lalu, dia membesarkan putrinya, Corona dan Selena. Mengajar mereka ilmu hitam dan mendaftar mereka dalam akademi pesulap bergengsi. Setelah belajar lebih banyak tentang sihir, gadis-gadis kembali untuk melihat ayah mereka dengan beberapa berita penting... Mereka para Pendeta? Dan mereka ingin membentuk pesta dengan dia!",
   "chapters": [
     {
+      "chapter": "34",
+      "title": "Komik Boku no Kawaii Musume wa Futago no Kenja Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rYXdhaWktbXVzdW1lLXdhLWZ1dGFnby1uby1rZW5qYS1jaGFwdGVyLTM0Lw==",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "33",
       "title": "Komik Boku no Kawaii Musume wa Futago no Kenja Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rYXdhaWktbXVzdW1lLXdhLWZ1dGFnby1uby1rZW5qYS1jaGFwdGVyLTMzLw==",
-      "date": "29 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Boku no Kawaii Musume wa Futago no Kenja Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rYXdhaWktbXVzdW1lLXdhLWZ1dGFnby1uby1rZW5qYS1jaGFwdGVyLTMyLw==",
-      "date": "2 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "31",
@@ -59,7 +65,7 @@
       "chapter": "28",
       "title": "Komik Boku no Kawaii Musume wa Futago no Kenja Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm9rdS1uby1rYXdhaWktbXVzdW1lLXdhLWZ1dGFnby1uby1rZW5qYS1jaGFwdGVyLTI4Lw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "27",
@@ -230,5 +236,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 34
+  "total_chapters": 35
 }

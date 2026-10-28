@@ -2,66 +2,88 @@
   "slug": "559645-the-world-after-the-fall",
   "title": "The World After the Fall",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvNTU5NjQ1LXRoZS13b3JsZC1hZnRlci10aGUtZmFsbC8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjIvMDIvS29taWstVGhlLVdvcmxkLUFmdGVyLXRoZS1GYWxsLTIyMHgzMTkuanBn",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzE2NTkzMC80ODQyMzkzYS1mMDE2LTQwODQtYjQ2MC02NDQwZWViMTkwYTQva29taWstdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLTIzNngzMTkuanBn",
   "type": "Manhwa",
   "is_colored": true,
-  "rating": 7.0,
-  "scraped_at": "2026-10-08T05:51:02.977231",
-  "alternative_titles": "The Post-Destruction World, The World After Destruction, 멸망 이후의 세계",
+  "rating": 8.65,
+  "scraped_at": "2026-10-28T05:42:07.066314",
+  "alternative_titles": "Myeolmang Ihu ui Segye, Мир После Разрушения, دنیا ماورای تباهی, Thế Giới sau ngày Diệt Vong, Myeolmang Ihuui Segye, El Mundo Después del Fin, O Mundo Após a Queda, Świat po Upadku, 멸망 이후의 세계, Düşüşten Sonraki Dünya, El mundo después del cataclismo, El mundo después del final, The Post-Destruction World, The World After Destruction, The World After the End, Мир после падения, Світ після кінця, หลังวันสิ้นโลก, 滅亡以後의世界, 滅亡後の世界, 灭亡之后的世界, The World After the Fall",
   "status": "Berjalan",
-  "author": "S-Cynan, Sing-Shong",
-  "illustrator": "Undead Potato",
-  "demographic": "Shounen",
+  "author": "sing N song (싱숑), S-Cynan",
+  "illustrator": "Undead Gamja (언데드감자), REDICE Studio (레드아이스 스튜디오)",
+  "themes": [
+    "Demons",
+    "Monsters",
+    "Time Travel"
+  ],
   "genres": [
     "Action",
     "Adventure",
     "Drama",
     "Fantasy",
-    "Mystery"
+    "Isekai"
   ],
-  "synopsis": "Manhwa                    The World After the Fall yang dibuat oleh komikus bernama\n                    S-Cynan, Sing-Shong ini bercerita tentang\n                    Umat manusia tiba-tiba di-summon untuk menjadi “Walker”, dan mereka harus menyelesaikan semua lantai yang ada di dalam tower untuk menyelamatkan dunia. Lalu, “Regression Stone” muncul. Kini para Walker dapat “kembali” ke masa lalu. Dan perlahan… semuanya meninggalkan masa kini. Harapan terakhir umat manusia, “Carpe Diem”, dibentuk oleh orang-orang yang menolak untuk mengabaikan dunia. Tapi begitu Walker terakhir mencapai lantai 100, dia tidak lagi tahu lagi apa yang harus dia percaya. Ini adalah cerita dari satu-satunya manusia yang tidak melakukan regresi, meski yang lainnya telah kembali ke masa lalu.",
+  "synopsis": "Manhwa                    The World After the Fall yang dibuat oleh komikus bernama\n                    sing N song (싱숑), S-Cynan ini bercerita tentang\n                    Dihadapkan dengan kekalahan dan kematian tertentu, akan Anda memilih untuk menjalankan - atau terus berjuang untuk dunia yang ditakdirkan?\n\nKetika menara misterius muncul di seluruh dunia, memanggil monster yang memangsa umat manusia, ini adalah pilihan yang diberikan kepada Walkers Tower - petualang dengan kekuatan khusus untuk melawan monster.\n\nDi ambang kematian, mereka dapat memilih untuk menggunakan \"batu regresi\" untuk kembali ke masa lalu untuk kesempatan kedua, meskipun keputusan ini menempatkan mereka dalam garis waktu yang berbeda selamanya.\n\nStubborn Tower Walker Jaehwan menolak pilihan ini, memilih berjuang untuk timeline asli, dan belajar rahasia mengejutkan tentang Menara sepanjang jalan.",
   "chapters": [
+    {
+      "chapter": "258",
+      "title": "Komik The World After the Fall Chapter 258",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjU4Lw==",
+      "date": "17 menit yang lalu"
+    },
+    {
+      "chapter": "257",
+      "title": "Komik The World After the Fall Chapter 257",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjU3Lw==",
+      "date": "7 hari yang lalu"
+    },
+    {
+      "chapter": "256",
+      "title": "Komik The World After the Fall Chapter 256",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjU2Lw==",
+      "date": "2 minggu yang lalu"
+    },
     {
       "chapter": "255",
       "title": "Komik The World After the Fall Chapter 255",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjU1Lw==",
-      "date": "1 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "254",
       "title": "Komik The World After the Fall Chapter 254",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjU0Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "253",
       "title": "Komik The World After the Fall Chapter 253",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjUzLw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "252",
       "title": "Komik The World After the Fall Chapter 252",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjUyLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "251",
       "title": "Komik The World After the Fall Chapter 251",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjUxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "250",
       "title": "Komik The World After the Fall Chapter 250",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjUwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "249",
       "title": "Komik The World After the Fall Chapter 249",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjQ5Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "248",
@@ -73,19 +95,19 @@
       "chapter": "247",
       "title": "Komik The World After the Fall Chapter 247",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjQ3Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "246",
       "title": "Komik The World After the Fall Chapter 246",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjQ2Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "245",
       "title": "Komik The World After the Fall Chapter 245",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjQ1Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "244",
@@ -109,13 +131,13 @@
       "chapter": "241",
       "title": "Komik The World After the Fall Chapter 241",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjQxLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "240",
       "title": "Komik The World After the Fall Chapter 240",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjQwLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "239",
@@ -181,43 +203,43 @@
       "chapter": "229",
       "title": "Komik The World After the Fall Chapter 229",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjI5Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "228",
       "title": "Komik The World After the Fall Chapter 228",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjI4Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "227",
       "title": "Komik The World After the Fall Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjI3Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik The World After the Fall Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjI2Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "225",
       "title": "Komik The World After the Fall Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjI1Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "224",
       "title": "Komik The World After the Fall Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjI0Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik The World After the Fall Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjIzLw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "222",
@@ -229,25 +251,25 @@
       "chapter": "221",
       "title": "Komik The World After the Fall Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjIxLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "220",
       "title": "Komik The World After the Fall Chapter 220",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjIwLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "219",
       "title": "Komik The World After the Fall Chapter 219",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjE5Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "218",
       "title": "Komik The World After the Fall Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjE4Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "217",
@@ -259,19 +281,19 @@
       "chapter": "216",
       "title": "Komik The World After the Fall Chapter 216",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjE2Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "215",
       "title": "Komik The World After the Fall Chapter 215",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjE1Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "214",
       "title": "Komik The World After the Fall Chapter 214",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjE0Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "213",
@@ -301,49 +323,49 @@
       "chapter": "209",
       "title": "Komik The World After the Fall Chapter 209",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjA5Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "208",
       "title": "Komik The World After the Fall Chapter 208",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjA4Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "207",
       "title": "Komik The World After the Fall Chapter 207",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjA3Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "206",
       "title": "Komik The World After the Fall Chapter 206",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjA2Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "205",
       "title": "Komik The World After the Fall Chapter 205",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjA1Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "204",
       "title": "Komik The World After the Fall Chapter 204",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjA0Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "203",
       "title": "Komik The World After the Fall Chapter 203",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjAzLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "202",
       "title": "Komik The World After the Fall Chapter 202",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMjAyLw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "201",
@@ -487,19 +509,19 @@
       "chapter": "178",
       "title": "Komik The World After the Fall Chapter 178",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTc4Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "177",
       "title": "Komik The World After the Fall Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTc3Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "176",
       "title": "Komik The World After the Fall Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTc2Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "175",
@@ -811,25 +833,25 @@
       "chapter": "124",
       "title": "Komik The World After the Fall Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTI0Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "123",
       "title": "Komik The World After the Fall Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTIzLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "122",
       "title": "Komik The World After the Fall Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTIyLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "121",
       "title": "Komik The World After the Fall Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTIxLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "120",
@@ -1129,19 +1151,19 @@
       "chapter": "71",
       "title": "Komik The World After the Fall Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItNzEv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik The World After the Fall Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItNzAv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik The World After the Fall Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItNjkv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "68",
@@ -1447,25 +1469,25 @@
       "chapter": "18",
       "title": "Komik The World After the Fall Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTgv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik The World After the Fall Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTcv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The World After the Fall Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTYv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The World After the Fall Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdvcmxkLWFmdGVyLXRoZS1mYWxsLWNoYXB0ZXItMTUv",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "14",
@@ -1558,5 +1580,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 256
+  "total_chapters": 259
 }
