@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.27,
-  "scraped_at": "2026-10-26T14:41:55.909566",
+  "scraped_at": "2026-10-28T17:29:20.739309",
   "alternative_titles": "Ankoku Kishi no Ore Desu ga Saikyou no Paladin wo Mezashimasu, 暗黒騎士の俺ですが最強の聖騎士をめざします, 暗黒騎士の俺ですが最強の聖騎士〈パラディン〉をめざします, Ankoku Kishi no Ore Desu ga Saikyou no Paladin o Mezashimasu, The Unholy Paladin, Dark Paladin, I'm a Dark Knight but Aim to Be the Strongest Holy Knight, อัศวินทมิฬแบบผมขอเปลี่ยนสายเป็นสุดยอดอัศวินศักดิ์สิทธิ์, 暗黑骑士的我目标成为最强圣骑士, Ankoku Kishi no Ore Desu ga Saikyou no Seikishi o Mezashimasu, Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu",
   "status": "Berjalan",
   "author": "Nishijima Fumikaru",
@@ -27,22 +27,28 @@
   "synopsis": "Manga                    Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu yang dibuat oleh komikus bernama\n                    Nishijima Fumikaru ini bercerita tentang\n                    Kai, seorang Ksatria Kegelapan muda yang berasal dari keluarga pemilik pekerjaan elit Dark-, memutuskan untuk mengejar kekuatan yang lebih besar. Suatu hari, ia menyelamatkan Putri yang sedang diserang oleh rakasa, yang akhirnya menjadi pemicu baginya untuk bergabung dengan akademi khusus dalam mengajar pekerjaan Kudus. Bersama dengan Mila, teman masa kecilnya serta Paladin, adiknya Chloe si Necromancer, dan Putri Shel, yang kemudian menjadi gurunya, kehidupan akademi mereka dimulai. Meskipun memiliki tubuh yang begitu tidak kompatibel dengan sihir Kudus bahwa ia hampir pingsan setiap kali ia menggunakannya, ia bertekad untuk menanggung segala kesulitan, karena ia bercita-cita untuk menjadi kutub kebalikan dari Knight kegelapan terkuat: Kerajaan terkuat Royal Paladin!",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5rb2t1LWtpc2hpLW5vLW9yZS1kZXN1LWdhLXNhaWt5b3Utbm8tc2Vpa2lzaGktd28tbWV6YXNoaW1hc3UtY2hhcHRlci0zNy8=",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5rb2t1LWtpc2hpLW5vLW9yZS1kZXN1LWdhLXNhaWt5b3Utbm8tc2Vpa2lzaGktd28tbWV6YXNoaW1hc3UtY2hhcHRlci0zNi8=",
-      "date": "6 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5rb2t1LWtpc2hpLW5vLW9yZS1kZXN1LWdhLXNhaWt5b3Utbm8tc2Vpa2lzaGktd28tbWV6YXNoaW1hc3UtY2hhcHRlci0zNS8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5rb2t1LWtpc2hpLW5vLW9yZS1kZXN1LWdhLXNhaWt5b3Utbm8tc2Vpa2lzaGktd28tbWV6YXNoaW1hc3UtY2hhcHRlci0zNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "33",
@@ -54,7 +60,7 @@
       "chapter": "32",
       "title": "Komik Ankoku Kishi no Ore desu Ga Saikyou no Seikishi wo Mezashimasu Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5rb2t1LWtpc2hpLW5vLW9yZS1kZXN1LWdhLXNhaWt5b3Utbm8tc2Vpa2lzaGktd28tbWV6YXNoaW1hc3UtY2hhcHRlci0zMi8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "31",
@@ -255,5 +261,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 38
+  "total_chapters": 39
 }
