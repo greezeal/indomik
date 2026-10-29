@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-24T02:04:42.334948",
-  "alternative_titles": "The Sword Emperor's Rise of Namgung, 검제가 남궁세가를 세우는 법",
+  "scraped_at": "2026-10-29T19:58:07.830052",
+  "alternative_titles": "The Sword Emperor\\'s Rise of Namgung, 검제가 남궁세가를 세우는 법",
   "status": "Berjalan",
   "author": "Muyang, Reika",
   "illustrator": "Gyeomjae Useop",
@@ -21,22 +21,28 @@
   "synopsis": "Manhwa                    The Sword Emperor’s Path To Namgung yang dibuat oleh komikus bernama\n                    Muyang, Reika ini bercerita tentang\n                    “Apa penyesalan adalah hal terakhir yang tersisa di atas pedang?” Nam Young-shin, Sword Emperor yang kehilangan segalanya sebagai harga untuk menghentikan Sekte Sun-Moon Demonic. Di ambang kematian, ia menghadapi kehidupan baru dengan nama Namgung Jun.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik The Sword Emperor’s Path To Namgung Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTMzLw==",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik The Sword Emperor’s Path To Namgung Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTMyLw==",
-      "date": "3 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik The Sword Emperor’s Path To Namgung Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTMxLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik The Sword Emperor’s Path To Namgung Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTMwLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "29",
@@ -48,7 +54,7 @@
       "chapter": "28",
       "title": "Komik The Sword Emperor’s Path To Namgung Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTI4Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -60,13 +66,13 @@
       "chapter": "26",
       "title": "Komik The Sword Emperor’s Path To Namgung Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTI2Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Sword Emperor’s Path To Namgung Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTI1Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -84,7 +90,7 @@
       "chapter": "22",
       "title": "Komik The Sword Emperor’s Path To Namgung Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN3b3JkLWVtcGVyb3JzLXBhdGgtdG8tbmFtZ3VuZy1jaGFwdGVyLTIyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -213,5 +219,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T14:58:20.056683",
-  "total_comics": 2498,
+  "last_updated": "2026-10-29T20:05:47.494353",
+  "total_comics": 2506,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -152,7 +152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.18,
-      "total_chapters": 117
+      "total_chapters": 118
     },
     {
       "slug": "idle-player-returns-as-a-god",
@@ -632,7 +632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.26,
-      "total_chapters": 102
+      "total_chapters": 103
     },
     {
       "slug": "0-magic-a-high-spirit-and-a-demonic-sword",
@@ -1919,8 +1919,8 @@
       "title": "Fairy Tail: 100 Years Quest",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.91,
-      "total_chapters": 219
+      "rating": 8.4,
+      "total_chapters": 223
     },
     {
       "slug": "wakaba-sanchi-no-aoi-koi",
@@ -3839,8 +3839,8 @@
       "title": "Yotaka Futatabi",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 31
+      "rating": 8.71,
+      "total_chapters": 34
     },
     {
       "slug": "koi-to-yobu-ni-wa-sasayaka-desu-ga",
@@ -3943,8 +3943,8 @@
       "title": "Lookism",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 8.24,
-      "total_chapters": 627
+      "rating": 9.03,
+      "total_chapters": 633
     },
     {
       "slug": "prepaid-dragon-king-tanks-everything",
@@ -4046,9 +4046,9 @@
       "slug": "316904-disastrous-necromancer",
       "title": "Disastrous Necromancer",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 317
     },
     {
       "slug": "from-goblin-to-goblin-god",
@@ -4264,7 +4264,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.88,
-      "total_chapters": 228
+      "total_chapters": 229
     },
     {
       "slug": "790385-kaoru-hana-wa-rin-to-saku",
@@ -4320,7 +4320,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "became-the-patron-of-villains",
@@ -4448,7 +4448,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 110
+      "total_chapters": 113
     },
     {
       "slug": "845199-btooom",
@@ -4696,7 +4696,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.16,
-      "total_chapters": 188
+      "total_chapters": 193
     },
     {
       "slug": "the-eldest-son-of-the-marquis-house-is-a-martial-artist",
@@ -4768,7 +4768,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 984
+      "total_chapters": 991
     },
     {
       "slug": "obshchaka",
@@ -5208,7 +5208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.88,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "soul-land-ii",
@@ -6671,8 +6671,8 @@
       "title": "Magical Realm Shopkeeper",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 111
+      "rating": 9.08,
+      "total_chapters": 117
     },
     {
       "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu",
@@ -6712,7 +6712,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.53,
-      "total_chapters": 86
+      "total_chapters": 87
     },
     {
       "slug": "kami-chi-no-kyuuseishu-0-00000001-o-hikiate-saikyou-e",
@@ -9784,7 +9784,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.46,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "watashi-kumo-na-monster-wo-tame-shitanode-spider-silk-de-saiho-wo-ganbarimasu",
@@ -11160,7 +11160,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 42
+      "total_chapters": 45
     },
     {
       "slug": "the-very-end",
@@ -12199,8 +12199,8 @@
       "title": "Ranker Who Lives a Second Time",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 8.83,
-      "total_chapters": 236
+      "rating": 8.81,
+      "total_chapters": 237
     },
     {
       "slug": "586162-killing-killer",
@@ -12464,7 +12464,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 34
+      "total_chapters": 40
     },
     {
       "slug": "lilia-pregnant-the-world-end",
@@ -12712,7 +12712,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "the-laws-of-cultivation",
@@ -13272,7 +13272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.87,
-      "total_chapters": 110
+      "total_chapters": 113
     },
     {
       "slug": "152031-yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyou-shuzoku-nekomimi-shojo-to-deau",
@@ -14032,7 +14032,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 32
+      "total_chapters": 33
     },
     {
       "slug": "i-will-raise-the-villain-properly",
@@ -14984,7 +14984,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "maryoku-zero-no-saikyou-majutsushi-yahari-omaera-no-majutsu-riron-wa-machigatte-iru-nda-ga",
@@ -18112,7 +18112,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 21
+      "total_chapters": 23
     },
     {
       "slug": "the-vengeful-villain-slayer",
@@ -19136,7 +19136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.21,
-      "total_chapters": 17
+      "total_chapters": 24
     },
     {
       "slug": "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu",
@@ -19336,7 +19336,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.96,
-      "total_chapters": 63
+      "total_chapters": 74
     },
     {
       "slug": "kuro-no-jiku",
@@ -19408,7 +19408,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.61,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "onee-san-ha-no-ore-ga-naze-chicchai-kimi-wo-suki-ni-natta-no-ka",
@@ -19456,7 +19456,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "hana-ni-arashi",
@@ -19488,7 +19488,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.78,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "ticket-hero",
@@ -19512,7 +19512,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.31,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "maou-taoshita-shi-kaeru-ka",
@@ -19592,7 +19592,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 139
+      "total_chapters": 146
     },
     {
       "slug": "girls-und-panzer-ribbon-no-musha",
@@ -19664,7 +19664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 40
+      "total_chapters": 45
     },
     {
       "slug": "uma-musume-pisupisu%e2%98%86supisupi-gold-ship",
@@ -19912,7 +19912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.17,
-      "total_chapters": 10
+      "total_chapters": 12
     },
     {
       "slug": "this-young-lady-hates-being-productive",
@@ -19985,6 +19985,70 @@
       "status": "",
       "rating": 0.0,
       "total_chapters": 0
+    },
+    {
+      "slug": "shinigami-san-to-shouten-gohan",
+      "title": "Shinigami san to Shouten Gohan",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.63,
+      "total_chapters": 2
+    },
+    {
+      "slug": "tanoshii-ongaku",
+      "title": "Tanoshii Ongaku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.65,
+      "total_chapters": 1
+    },
+    {
+      "slug": "ren-ai-flag-ai-ga-risou-no-koibito-o-erande-kureru-matching-app-o-tsukattara-isekai-no-yuusha-to-matching-shita",
+      "title": "Ren AI Flag ~AI ga Risou no Koibito o Erande Kureru Matching App o Tsukattara Isekai no Yuusha to Matching Shita~",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.94,
+      "total_chapters": 1
+    },
+    {
+      "slug": "ai-ni-muragaru-mushitachi-wa",
+      "title": "Ai ni Muragaru Mushitachi wa",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.28,
+      "total_chapters": 1
+    },
+    {
+      "slug": "adachi-to-shimamura-koushiki-comic-anthology",
+      "title": "Adachi to Shimamura Koushiki Comic Anthology",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.41,
+      "total_chapters": 2
+    },
+    {
+      "slug": "inkya-gyaru-demo-ikigaritai",
+      "title": "Inkya Gyaru demo Ikigaritai!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.71,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kiichi",
+      "title": "Kiichi!!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.76,
+      "total_chapters": 1
+    },
+    {
+      "slug": "kokou-no-ou-to-hidamari-no-hanayome-ga-saikou-no-fuufu-ni-naru-made",
+      "title": "Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.39,
+      "total_chapters": 5
     }
   ]
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.61,
-  "scraped_at": "2026-10-26T01:54:40.289933",
+  "scraped_at": "2026-10-29T19:59:07.769733",
   "alternative_titles": "Heisei Otaku Remembers, 平成ヲタクリメンバーズ, Heisei Geek Remembers, ย้อนวัยใสนายโอตาคุเฮย์เซย์, 平成ヲタク リメンバーズ",
   "status": "Berjalan",
   "author": "Io Naomichi",
@@ -25,47 +25,53 @@
   "synopsis": "Manga                    Heisei Wotaku Remembers yang dibuat oleh komikus bernama\n                    Io Naomichi ini bercerita tentang\n                    Tahun 2006. Waktu ketika orang mengolok-olok Anda hanya untuk menjadi \"otaku\". Satu orang yang selamat dari Zaman Es Otaku perjalanan kembali ke masa itu! Otaku, dapatkan kembali masa mudamu yang hilang!",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Heisei Wotaku Remembers Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci04Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Heisei Wotaku Remembers Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci03Lw==",
-      "date": "9 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Heisei Wotaku Remembers Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci02Lw==",
-      "date": "2 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Heisei Wotaku Remembers Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci01Lw==",
-      "date": "3 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Heisei Wotaku Remembers Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci00Lw==",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Heisei Wotaku Remembers Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci0zLw==",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Heisei Wotaku Remembers Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci0yLw==",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Heisei Wotaku Remembers Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVpc2VpLXdvdGFrdS1yZW1lbWJlcnMtY2hhcHRlci0xLw==",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }
