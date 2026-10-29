@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.62,
-  "scraped_at": "2026-10-29T07:45:54.687646",
+  "scraped_at": "2026-10-29T14:56:50.723053",
   "alternative_titles": "미래를 보는 투자자, Nhà Đầu Tư Nhìn Thấy Tương Lai, Prescient Investor, Foresighting Investor, The Investor Who Sees The Future",
   "status": "Berjalan",
   "author": "Lim Young-yoon (임영윤)",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    The Investor Who Sees The Future yang dibuat oleh komikus bernama\n                    Lim Young-yoon (임영윤) ini bercerita tentang\n                    Setelah mengalami kecelakaan di militer, Kang Jinhu mendapatkan kemampuan untuk meramalkan masa depan.\n\nDia memutuskan untuk menggunakan kemampuan ini untuk berinvestasi di berbagai perusahaan dan menghasilkan uang, bertujuan untuk menjadi investor nomor satu di dunia.\n\nSeberapa jauh batas dari pandangan depannya? Di luar investasi, ia menyentuh ekonomi, politik, perusahaan, dan bahkan urusan global. Mulai sekarang, dia membentuk kembali dunia keuangan!",
   "chapters": [
     {
+      "chapter": "112",
+      "title": "Komik The Investor Who Sees The Future Chapter 112",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmVzdG9yLXdoby1zZWVzLXRoZS1mdXR1cmUtY2hhcHRlci0xMTIv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "111",
       "title": "Komik The Investor Who Sees The Future Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmVzdG9yLXdoby1zZWVzLXRoZS1mdXR1cmUtY2hhcHRlci0xMTEv",
-      "date": "3 jam yang lalu"
+      "date": "9 jam yang lalu"
     },
     {
       "chapter": "110",
@@ -689,5 +695,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 111
+  "total_chapters": 112
 }
