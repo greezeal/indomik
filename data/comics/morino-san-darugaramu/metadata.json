@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.79,
-  "scraped_at": "2026-10-22T17:43:11.237213",
+  "scraped_at": "2026-10-29T07:45:30.056270",
   "alternative_titles": "森野さんだるがらむ, Morino-san Just Won't Leave Me Be, Морино не даёт мне покоя, Morino-san Darugaramu",
   "status": "Berjalan",
   "author": "Barako",
@@ -23,28 +23,34 @@
   "synopsis": "Manga                    Morino-san Darugaramu yang dibuat oleh komikus bernama\n                    Barako ini bercerita tentang\n                    Morino- san adalah laid- kembali tentang segala sesuatu, tapi lesu seperti dia, dia hanya tidak akan meninggalkan aku.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Morino-san Darugaramu Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItOC8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Morino-san Darugaramu Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNy8=",
-      "date": "56 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Morino-san Darugaramu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Morino-san Darugaramu Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Morino-san Darugaramu Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "3",
@@ -56,14 +62,14 @@
       "chapter": "2",
       "title": "Komik Morino-san Darugaramu Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItMi8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Morino-san Darugaramu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9yaW5vLXNhbi1kYXJ1Z2FyYW11LWNoYXB0ZXItMS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }

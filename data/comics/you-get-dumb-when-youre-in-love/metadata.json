@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-28T11:45:58.112069",
+  "scraped_at": "2026-10-29T07:46:02.140829",
   "alternative_titles": "Fools in Love, Love Makes You Dumb, You Get Dumb When You’re in Love, 좋아하면 멍청해진다",
   "status": "Berjalan",
   "author": "Quiok",
@@ -19,22 +19,28 @@
   "synopsis": "Manhwa                    You Get Dumb When You’re in Love yang dibuat oleh komikus bernama\n                    Quiok ini bercerita tentang\n                    Serin, wanita dingin dan elegan yang menutup diri rapat-rapat, dan Jin-Hyeong, seorang mahasiswa biasa. Mereka tampak sangat wajar di hadapan orang lain, namun berubah menjadi konyol saat bersama.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik You Get Dumb When You’re in Love Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91LWdldC1kdW1iLXdoZW4teW91cmUtaW4tbG92ZS1jaGFwdGVyLTI3Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik You Get Dumb When You’re in Love Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91LWdldC1kdW1iLXdoZW4teW91cmUtaW4tbG92ZS1jaGFwdGVyLTI2Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik You Get Dumb When You’re in Love Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91LWdldC1kdW1iLXdoZW4teW91cmUtaW4tbG92ZS1jaGFwdGVyLTI1Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik You Get Dumb When You’re in Love Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91LWdldC1kdW1iLXdoZW4teW91cmUtaW4tbG92ZS1jaGFwdGVyLTI0Lw==",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "23",
@@ -70,7 +76,7 @@
       "chapter": "18",
       "title": "Komik You Get Dumb When You’re in Love Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91LWdldC1kdW1iLXdoZW4teW91cmUtaW4tbG92ZS1jaGFwdGVyLTE4Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "17",
@@ -175,5 +181,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

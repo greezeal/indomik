@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-22T12:34:42.362599",
+  "scraped_at": "2026-10-29T07:43:32.866873",
   "alternative_titles": "섀도우 슬레이브, Shadow Slave, Теневой раб, ჩრდილის მონა",
   "status": "Berjalan",
   "author": "Guiltythree",
@@ -30,34 +30,40 @@
   "synopsis": "Manhwa                    Shadow Slave yang dibuat oleh komikus bernama\n                    Guiltythree ini bercerita tentang\n                    Tumbuh besar dalam kemiskinan, Sunny tidak pernah memiliki ilusi tentang takdirnya. Namun, bahkan dalam fantasi terliarnya sekalipun, ia tidak pernah membayangkan bahwa suatu hari ia akan dipilih oleh Kutukan Mimpi Buruk dan bergabung dengan barisan Para Terbangun—makhluk terpilih yang diberkahi dengan kekuatan di luar kemampuan manusia. Menemukan dirinya di dunia sihir yang hancur, ia menghadapi monster-monster menakutkan—dan Para Terbangun lainnya—dalam pertempuran maut untuk bertahan hidup.Lebih buruk lagi, kekuatan ilahi yang ia terima membawa kelemahan yang halus namun berpotensi fatal...",
   "chapters": [
     {
+      "chapter": "15",
+      "title": "Komik Shadow Slave Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhZG93LXNsYXZlLWNoYXB0ZXItMTUv",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "14",
       "title": "Komik Shadow Slave Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhZG93LXNsYXZlLWNoYXB0ZXItMTQv",
-      "date": "3 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Shadow Slave Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhZG93LXNsYXZlLWNoYXB0ZXItMTMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Shadow Slave Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhZG93LXNsYXZlLWNoYXB0ZXItMTIv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Shadow Slave Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhZG93LXNsYXZlLWNoYXB0ZXItMTEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Shadow Slave Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhZG93LXNsYXZlLWNoYXB0ZXItMTAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -69,7 +75,7 @@
       "chapter": "8",
       "title": "Komik Shadow Slave Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hhZG93LXNsYXZlLWNoYXB0ZXItOC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "7",
@@ -114,5 +120,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 14
+  "total_chapters": 15
 }

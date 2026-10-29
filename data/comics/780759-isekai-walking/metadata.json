@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.72,
-  "scraped_at": "2026-10-26T14:16:53.419635",
+  "scraped_at": "2026-10-29T07:48:07.531605",
   "alternative_titles": "異世界ウォーキング, Let's Take a Walk in Another World, Walking in Another World, Caminhando em outro mundo, Isekai Walking",
   "status": "Berjalan",
   "author": "Aruku Hito",
@@ -27,40 +27,46 @@
   "synopsis": "Manga                    Isekai Walking yang dibuat oleh komikus bernama\n                    Aruku Hito ini bercerita tentang\n                    Siswa biasa Sora dipanggil ke dunia lain sebagai salah satu dari tujuh \"pahlawan terpilih\" dimaksudkan untuk melawan Raja Iblis. Sementara enam lainnya diberkati dengan judul grandiose dan statistik superlatif, Sora terjebak dengan tidak ada judul, tidak ada tingkat, dan keterampilan tunggal, underwhelming: ia tidak pernah bosan berjalan. Setelah dihakimi tidak berguna untuk penyebabnya, Sora dibuang ke jalan-jalan dan dibiarkan berjuang untuk dirinya sendiri. Namun demikian, ia tumbuh bertekad untuk mengubah perlakuan yang tidak adil dan tampaknya \"tidak berguna\" keterampilan menjadi positif dengan mendapatkan uang, membuat teman-teman, dan melihat pemandangan dia tidak pernah terlihat sebelumnya!",
   "chapters": [
     {
+      "chapter": "97",
+      "title": "Komik Isekai Walking Chapter 97",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci05Ny8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "96",
       "title": "Komik Isekai Walking Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci05Ni8=",
-      "date": "6 menit yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik Isekai Walking Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci05NS8=",
-      "date": "1 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Isekai Walking Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci05NC8=",
-      "date": "3 hari yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Isekai Walking Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci05My8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Isekai Walking Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci05Mi8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Isekai Walking Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci05MS8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "90",
@@ -180,7 +186,7 @@
       "chapter": "71",
       "title": "Komik Isekai Walking Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci03MS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "70",
@@ -276,7 +282,7 @@
       "chapter": "55",
       "title": "Komik Isekai Walking Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXdhbGtpbmctY2hhcHRlci01NS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "54",
@@ -603,5 +609,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 96
+  "total_chapters": 97
 }
