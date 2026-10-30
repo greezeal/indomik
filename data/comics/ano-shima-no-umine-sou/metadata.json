@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.63,
-  "scraped_at": "2026-10-29T14:52:16.413353",
+  "scraped_at": "2026-10-30T11:36:58.512949",
   "alternative_titles": "あの島の海音荘, Ano Shima no Kaion-sou, Umine the Island Inn, Umine, a pousada da ilha, La posada Umine de aquella isla, Umine-sou Trên Hòn Đảo Ấy, Ano Shima no Umine-sō, あの島の海音〈うみね〉荘, Ano Shima no Umine-sou",
   "status": "Berjalan",
   "author": "Seo Kouji",
@@ -22,40 +22,46 @@
   "synopsis": "Manga                    Ano Shima no Umine-sou yang dibuat oleh komikus bernama\n                    Seo Kouji ini bercerita tentang\n                    Kazuma tua telah dipanggil ke Pulau Asagiri, dikabarkan menjadi rumah untuk harta bajak laut yang lama hilang. Dia akhirnya bekerja sebagai orang pengangguran di Umine Inn, sebuah kafe tradisional Jepang dengan wanita - hanya penginapan dan host dari wanita eksentrik namun indah.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Ano Shima no Umine-sou Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTM3Lw==",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik Ano Shima no Umine-sou Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTM2Lw==",
-      "date": "2 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Ano Shima no Umine-sou Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTM1Lw==",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Ano Shima no Umine-sou Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTM0Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Ano Shima no Umine-sou Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTMzLw==",
-      "date": "3 hari yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Ano Shima no Umine-sou Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTMyLw==",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Ano Shima no Umine-sou Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYW5vLXNoaW1hLW5vLXVtaW5lLXNvdS1jaGFwdGVyLTMxLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "30",
@@ -244,5 +250,5 @@
       "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 37
+  "total_chapters": 38
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-24T02:00:13.482202",
+  "scraped_at": "2026-10-30T11:40:01.985584",
   "alternative_titles": "The Talker, 토커",
   "status": "Berjalan",
   "author": "H8",
@@ -19,59 +19,65 @@
   "synopsis": "Manhwa                    Talker yang dibuat oleh komikus bernama\n                    H8 ini bercerita tentang\n                    Di dunia yang diatur oleh kekuatan kata-kata yang tersembunyi, dua kekuatan yang berlawanan membentuk kenyataan:\nTalkers, yang berbicara dengan objek untuk bebas memanfaatkan kekuatan bawaan mereka,\ndan\nRumor, yang membawa ilusi palsu dan kebohongan mengerikan untuk kehidupan fisik.\n\nSementara Gosip merencanakan untuk terjun ke dunia ke dalam kekacauan total Menggunakan kekuatan fabrikasi, Priscilla berdiri di puncak masyarakat Sebagai Talker heroik dihormati oleh semua. Tapi dunia damai hancur ketika ia menemukan rahasia yang menghancurkan: anaknya, Leon, memiliki bakat berbahaya, tabu dari Rumor.\n\nMengetahui dunia akan mengeksekusi anaknya tanpa ampun, Priscilla meninggalkan gelar bergengsi, terkenal di dunia, dan status heroik dalam semalam. Mengambil Leon, dia melarikan diri ke sebuah terpencil, desa tersembunyi dikabarkan memegang ritual rahasia hanya mampu mengubah hadiah Rumor berbahaya ke dalam kekuatan benar seorang Talker. Dikejar oleh sekutu dan musuh, perjuangan putus asa seorang ibu untuk menyelamatkan anaknya dari takdir terkutuk sendiri dimulai.",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Talker Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItOS8=",
+      "date": "25 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Talker Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItOC8=",
-      "date": "10 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Talker Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItNy8=",
-      "date": "10 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Talker Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItNi8=",
-      "date": "10 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Talker Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItNS8=",
-      "date": "10 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Talker Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItNC8=",
-      "date": "11 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Talker Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItMy8=",
-      "date": "12 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Talker Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItMi8=",
-      "date": "12 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Talker Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItMS8=",
-      "date": "42 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "0",
       "title": "Komik Talker Chapter 0",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsa2VyLWNoYXB0ZXItMC8=",
-      "date": "1 jam yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }
