@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T11:42:00.062843",
-  "total_comics": 2506,
+  "last_updated": "2026-10-30T17:21:06.538757",
+  "total_comics": 2508,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -174,9 +174,9 @@
       "slug": "infinite-evolution-starting-from-zero",
       "title": "Infinite Evolution Starting From Zero",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.61,
+      "total_chapters": 139
     },
     {
       "slug": "iron-ladies",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 137
+      "total_chapters": 141
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -1016,7 +1016,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.07,
-      "total_chapters": 88
+      "total_chapters": 91
     },
     {
       "slug": "raidorl-seiken-senki",
@@ -2248,7 +2248,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.35,
-      "total_chapters": 109
+      "total_chapters": 110
     },
     {
       "slug": "the-rebellious-apostle-of-the-harvest-goddess",
@@ -2944,7 +2944,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.37,
-      "total_chapters": 170
+      "total_chapters": 171
     },
     {
       "slug": "155895-nano-machine",
@@ -3776,7 +3776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 108
+      "total_chapters": 109
     },
     {
       "slug": "high-school-musical-genius-is-paganini-reincarnated",
@@ -4056,7 +4056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.33,
-      "total_chapters": 128
+      "total_chapters": 129
     },
     {
       "slug": "to-hell-with-the-status-window",
@@ -4424,7 +4424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.88,
-      "total_chapters": 75
+      "total_chapters": 76
     },
     {
       "slug": "712275-killer-peter",
@@ -4760,7 +4760,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 57
+      "total_chapters": 58
     },
     {
       "slug": "tales-of-demons-and-gods",
@@ -4832,7 +4832,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.1,
-      "total_chapters": 166
+      "total_chapters": 167
     },
     {
       "slug": "212320-bad-born-blood",
@@ -6096,7 +6096,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.24,
-      "total_chapters": 50
+      "total_chapters": 55
     },
     {
       "slug": "289209-battle-through-the-heavens",
@@ -6703,8 +6703,8 @@
       "title": "Kimi ni Koisuru Sanshimai",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.8,
-      "total_chapters": 76
+      "rating": 7.71,
+      "total_chapters": 79
     },
     {
       "slug": "612685-divine-beast-kindergarten",
@@ -6816,7 +6816,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.39,
-      "total_chapters": 138
+      "total_chapters": 139
     },
     {
       "slug": "yurufuwa-nouka-no-mojibake-skill-isekai-de-katarogu-tsuuhan-yattemasu",
@@ -7272,7 +7272,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.31,
-      "total_chapters": 69
+      "total_chapters": 70
     },
     {
       "slug": "984731-night-of-the-soulless-heathens",
@@ -7880,7 +7880,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 140
+      "total_chapters": 141
     },
     {
       "slug": "killing-darling-baby-%e2%99%a1",
@@ -9120,7 +9120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.4,
-      "total_chapters": 202
+      "total_chapters": 204
     },
     {
       "slug": "apocalypse-smuggler-trading-spicy-strips-for-gold-bars",
@@ -10023,8 +10023,8 @@
       "title": "Black Killer Whale Baby",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.12,
-      "total_chapters": 124
+      "rating": 8.58,
+      "total_chapters": 127
     },
     {
       "slug": "kyouganeke-no-hanayome",
@@ -13848,7 +13848,7 @@
       "type": "Manhwa",
       "status": "Tamat",
       "rating": 9.24,
-      "total_chapters": 43
+      "total_chapters": 44
     },
     {
       "slug": "surviving-as-a-tyrants-daughter",
@@ -13872,7 +13872,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 33
+      "total_chapters": 37
     },
     {
       "slug": "the-male-leads-little-lion-daughter",
@@ -15144,7 +15144,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 34
     },
     {
       "slug": "looking-for-a-top-tier-combat-coach",
@@ -15480,7 +15480,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 56
+      "total_chapters": 57
     },
     {
       "slug": "the-hero-starts-over-at-the-academy",
@@ -16032,7 +16032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.76,
-      "total_chapters": 397
+      "total_chapters": 401
     },
     {
       "slug": "sekkaku-nouka-ni-tensei-shitanode-yuusha-wa-mezashimasen",
@@ -16104,7 +16104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.4,
-      "total_chapters": 60
+      "total_chapters": 61
     },
     {
       "slug": "540641-the-reborn-little-girl-wont-give-up",
@@ -16208,7 +16208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "honzuki-no-gekokujou-part-3",
@@ -17072,7 +17072,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 19
     },
     {
       "slug": "naannimo-dekinai-gal-ga-yuiitsu-dekiru-koto",
@@ -18336,7 +18336,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 46
+      "total_chapters": 50
     },
     {
       "slug": "ill-spend-my-fortune-to-become-the-strongest-before-the-game-ends",
@@ -18592,7 +18592,7 @@
       "type": "",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 6
+      "total_chapters": 7
     },
     {
       "slug": "about-things-that-havent-occurred-yet",
@@ -18896,7 +18896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 24
     },
     {
       "slug": "howling",
@@ -19008,7 +19008,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 5
+      "total_chapters": 17
     },
     {
       "slug": "the-terminally-ill-lady-fakes-a-job-with-the-villain-family",
@@ -19056,7 +19056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 29
     },
     {
       "slug": "mobile-suit-gundam-wing-0-5-point-half-preventer-7",
@@ -19136,7 +19136,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.21,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu",
@@ -19208,7 +19208,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 22
     },
     {
       "slug": "there-is-no-sejong-in-my-joseon",
@@ -19280,7 +19280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.46,
-      "total_chapters": 53
+      "total_chapters": 54
     },
     {
       "slug": "nakama-ni-uragirare-shokei-sareta-shireijutsushi-undead-ka-shiteita-eiyuu-10000-nin-o-sosei-shi-saikyou-no-oukoku-o-tsukuri-fukushuu-o-kaishi-suru-anei-no-gyokuza-ni-eirei-wa-tsudou",
@@ -19528,7 +19528,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.0,
-      "total_chapters": 6
+      "total_chapters": 12
     },
     {
       "slug": "kichiku-eiyuu",
@@ -19592,7 +19592,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 146
+      "total_chapters": 148
     },
     {
       "slug": "girls-und-panzer-ribbon-no-musha",
@@ -19664,7 +19664,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 45
+      "total_chapters": 47
     },
     {
       "slug": "uma-musume-pisupisu%e2%98%86supisupi-gold-ship",
@@ -19976,7 +19976,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.36,
-      "total_chapters": 7
+      "total_chapters": 8
     },
     {
       "slug": "sumisaka-sans-wild-delusions",
@@ -20049,6 +20049,22 @@
       "status": "Berjalan",
       "rating": 8.39,
       "total_chapters": 5
+    },
+    {
+      "slug": "mitame-to-urahara",
+      "title": "Mitame to Urahara",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.5,
+      "total_chapters": 13
+    },
+    {
+      "slug": "noumin-kanren-no-skill-bakka-agetetara-naze-ka-tsuyoku-natta",
+      "title": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.38,
+      "total_chapters": 50
     }
   ]
 }

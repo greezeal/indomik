@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.39,
-  "scraped_at": "2026-10-25T06:50:08.034759",
+  "scraped_at": "2026-10-30T17:15:32.974587",
   "alternative_titles": "彼女の友達, My Girlfriend's Friend, 여친의 친구, 女友的朋友, L'amie de ma petite copine, Teman Pacarku, Її подруга, Bạn Của Bạn Gái Tôi, Her Friend, เพื่อนแฟนแทนกันได้, Kanojo no Tomodachi (JURA), Kanojo no Tomodachi",
   "status": "Berjalan",
   "author": "Jyura",
@@ -22,22 +22,28 @@
   "synopsis": "Manga                    Kanojo no Tomodachi yang dibuat oleh komikus bernama\n                    Jyura ini bercerita tentang\n                    Dia punya pacar lucu yang pertama dalam hidupnya, tapi temannya tergoda dia dengan tubuh yang cabul dari dia... Apa yang akan kau lakukan jika teman pacarmu menekanmu seperti ini?",
   "chapters": [
     {
+      "chapter": "137",
+      "title": "Komik Kanojo no Tomodachi Chapter 137",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTEzNy8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "136",
       "title": "Komik Kanojo no Tomodachi Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTEzNi8=",
-      "date": "4 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "135",
       "title": "Komik Kanojo no Tomodachi Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTEzNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "134",
       "title": "Komik Kanojo no Tomodachi Chapter 134",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTEzNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "133",
@@ -67,7 +73,7 @@
       "chapter": "129",
       "title": "Komik Kanojo no Tomodachi Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTEyOS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "128",
@@ -139,13 +145,13 @@
       "chapter": "117",
       "title": "Komik Kanojo no Tomodachi Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTExNy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik Kanojo no Tomodachi Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTExNi8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "115",
@@ -367,7 +373,7 @@
       "chapter": "80",
       "title": "Komik Kanojo no Tomodachi Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2Fub2pvLW5vLXRvbW9kYWNoaS1jaGFwdGVyLTgwLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "79",
@@ -850,5 +856,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 138
+  "total_chapters": 139
 }
