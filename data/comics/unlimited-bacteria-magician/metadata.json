@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-31T13:44:25.229863",
+  "scraped_at": "2026-10-31T18:03:53.138642",
   "alternative_titles": "Mujehanui Segyunsulsa, The Limitless Germ Necromancer, The Unlimited Bacteriomancer, Unlimited Bacterimancer, Unlimited Germ Mancer, Безлимитный бактериомант, 무제한의 세균술사",
   "status": "Berjalan",
   "author": "Cheon Yong YJ, Wonji",
@@ -18,10 +18,16 @@
   "synopsis": "Manhwa                    Unlimited Bacteria Magician yang dibuat oleh komikus bernama\n                    Cheon Yong YJ, Wonji ini bercerita tentang\n                    Di dunia di mana kebangkitan kekuatan membuat siapa pun menjadi pahlawan, seorang Necromancer \"kelas bawah\" memimpin pasukan mayat hidup mikroskopis yang akan membuat dunia bertekuk lutut.\r\n\r\nNovel Asli:",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Unlimited Bacteria Magician Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5saW1pdGVkLWJhY3RlcmlhLW1hZ2ljaWFuLWNoYXB0ZXItMTkv",
+      "date": "48 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Unlimited Bacteria Magician Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdW5saW1pdGVkLWJhY3RlcmlhLW1hZ2ljaWFuLWNoYXB0ZXItMTgv",
-      "date": "1 jam yang lalu"
+      "date": "4 jam yang lalu"
     },
     {
       "chapter": "17",
@@ -126,5 +132,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }
