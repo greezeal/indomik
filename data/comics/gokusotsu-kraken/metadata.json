@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.68,
-  "scraped_at": "2026-10-17T23:35:32.727123",
+  "scraped_at": "2026-10-31T13:37:55.335808",
   "alternative_titles": "獄卒クラーケン, Prison Guard Kraken, Hell's Tormentor Kraken, 海怪狱卒, 獄卒克拉肯, Sipir Penjara Kraken, Penjaga Penjara Kraken, Тюремщик кракен, El Kraken Carcelero, คราเคน จ้าวสมุทรคุกนรก, 옥졸 크라켄, Gokusotsu Kraken",
   "status": "Berjalan",
   "author": "Takahiro",
@@ -29,40 +29,46 @@
   "synopsis": "Manga                    Gokusotsu Kraken yang dibuat oleh komikus bernama\n                    Takahiro ini bercerita tentang\n                    Shimizu Kuuma, seorang laki-laki, yang baru saja kembali dari wawancara kerja yang tidak bisa dia selesaikan, tiba-tiba dikirim ke dunia lain, di sana dia bertemu dengan seorang gadis tertentu yang membantunya dan memberinya pekerjaan di penjara tetapi yang tidak dia ketahui adalah bahwa ini hanya jebakan untuk membawanya dan agar dia bisa 'dinikmati' oleh Bosnya, kemudian setelah dia dibantai dan dibuang ke laut dan hampir mati dia diselamatkan oleh Kraken yang menceritakan kisahnya tentang bagaimana Dia diselamatkan oleh seorang gadis tertentu yang adalah seorang tahanan, jadi mereka membuat kesepakatan, kemudian dia menyelamatkan gadis itu dan melakukan Pembalasan.",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik Gokusotsu Kraken Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQ5Lw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "48",
       "title": "Komik Gokusotsu Kraken Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQ4Lw==",
-      "date": "2 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik Gokusotsu Kraken Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQ3Lw==",
-      "date": "7 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik Gokusotsu Kraken Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQ2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Gokusotsu Kraken Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQ1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Gokusotsu Kraken Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQ0Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "43.2",
       "title": "Komik Gokusotsu Kraken Chapter 43.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQzLTIv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "43.1",
@@ -86,7 +92,7 @@
       "chapter": "40",
       "title": "Komik Gokusotsu Kraken Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ29rdXNvdHN1LWtyYWtlbi1jaGFwdGVyLTQwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "39",
@@ -335,5 +341,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 51
+  "total_chapters": 52
 }

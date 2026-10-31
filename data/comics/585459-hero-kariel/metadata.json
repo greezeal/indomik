@@ -2,82 +2,142 @@
   "slug": "585459-hero-kariel",
   "title": "Hero Kariel",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvNTg1NDU5LWhlcm8ta2FyaWVsLw==",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDgvS29taWstSGVyby1LYXJpZWwtMjIweDMxOS5qcGc=",
-  "type": "Manga",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzM3MzU4OC9jNjQ4NTlmOC04N2YwLTRlNDYtODFhZC1iYWM4ZTc3MzJjODcva29taWstaGVyby1rYXJpZWwtMjIxeDMxOS5qcGc=",
+  "type": "Manhwa",
   "is_colored": true,
-  "rating": 7.0,
-  "scraped_at": "2026-09-12T00:40:34.944111",
-  "alternative_titles": "Warrior Kariel, 용사 카리엘",
+  "rating": 8.82,
+  "scraped_at": "2026-10-31T13:36:27.810617",
+  "alternative_titles": "Kariel the Warrior, 용사 카리엘, Yongsa Kariel, Warrior Kariel, Héros Kariel, 勇者カリエル, Hero Kariel",
   "status": "Berjalan",
-  "author": "Kim Gam-Jun",
-  "illustrator": "Kim Gam-Jun",
+  "author": "Kim Gam-jun",
+  "illustrator": "Kim Gam-jun",
   "demographic": "Shounen",
   "genres": [
     "Action",
     "Adventure",
     "Fantasy"
   ],
-  "synopsis": "Manga                    Hero Kariel yang dibuat oleh komikus bernama\n                    Kim Gam-Jun ini bercerita tentang\n                    Setelah Raja Iblis mati, hanya para pahlawan yang tersisa di dunia. Kekosongan itu harus diisi oleh seseorang.",
+  "synopsis": "Manhwa                    Hero Kariel yang dibuat oleh komikus bernama\n                    Kim Gam-jun ini bercerita tentang\n                    Dalam dunia di mana prajurit dipilih untuk menggunakan pedang suci dan mengalahkan Raja Iblis setiap seratus tahun, Kariel hanya panduan, terikat untuk mendukung orang lain dari pinggir lapangan. Dia bermimpi naik melebihi jabatannya, tapi Raja Iblis zaman ini sudah dibunuh.\n\nMeskipun demikian, dunia mulai terurai bukannya menyembuhkan. Monster tumbuh tak terduga, seorang ksatria misterius berburu juara, dan organisasi rahasia bergerak dalam bayang-bayang.\n\nBepergian dengan teman masa kecilnya Reina, Kariel ditarik ke dalam misteri berbahaya yang dapat menentukan nasib dunia.",
   "chapters": [
+    {
+      "chapter": "30",
+      "title": "Komik Hero Kariel Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0zMC8=",
+      "date": "2 detik yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik Hero Kariel Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yOS8=",
+      "date": "21 detik yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik Hero Kariel Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yOC8=",
+      "date": "40 detik yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik Hero Kariel Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yNy8=",
+      "date": "55 detik yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Hero Kariel Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yNi8=",
+      "date": "1 menit yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik Hero Kariel Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yNS8=",
+      "date": "1 menit yang lalu"
+    },
+    {
+      "chapter": "24",
+      "title": "Komik Hero Kariel Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yNC8=",
+      "date": "2 menit yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Hero Kariel Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yMy8=",
+      "date": "2 menit yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik Hero Kariel Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yMi8=",
+      "date": "2 menit yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik Hero Kariel Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yMS8=",
+      "date": "2 bulan yang lalu"
+    },
     {
       "chapter": "20",
       "title": "Komik Hero Kariel Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0yMC8=",
-      "date": "4 jam yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Hero Kariel Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xOS8=",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Hero Kariel Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xOC8=",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Hero Kariel Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xNy8=",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Hero Kariel Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xNi8=",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Hero Kariel Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xNS8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Hero Kariel Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xNC8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Hero Kariel Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xMy8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Hero Kariel Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xMi8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Hero Kariel Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGVyby1rYXJpZWwtY2hhcHRlci0xMS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "10",
@@ -140,5 +200,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 20
+  "total_chapters": 30
 }
