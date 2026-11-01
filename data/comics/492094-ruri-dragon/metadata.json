@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.11,
-  "scraped_at": "2026-10-28T11:44:04.010892",
+  "scraped_at": "2026-11-01T18:55:34.942214",
   "alternative_titles": "ルリドラゴン",
   "status": "Tamat",
   "author": "Shindou Masaoki",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Ruri Dragon yang dibuat oleh komikus bernama\n                    Shindou Masaoki ini bercerita tentang\n                    ruri si naga...",
   "chapters": [
     {
+      "chapter": "53",
+      "title": "Komik Ruri Dragon Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcnVyaS1kcmFnb24tY2hhcHRlci01My8=",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "52",
       "title": "Komik Ruri Dragon Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcnVyaS1kcmFnb24tY2hhcHRlci01Mi8=",
-      "date": "56 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "51",
@@ -52,7 +58,7 @@
       "chapter": "48",
       "title": "Komik Ruri Dragon Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcnVyaS1kcmFnb24tY2hhcHRlci00OC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "47",
@@ -358,7 +364,7 @@
       "chapter": "1",
       "title": "Komik Ruri Dragon Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcnVyaS1kcmFnb24tY2hhcHRlci0xLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "00",
@@ -367,5 +373,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 57
+  "total_chapters": 58
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.64,
-  "scraped_at": "2026-11-01T06:46:57.603551",
+  "scraped_at": "2026-11-01T18:56:41.853998",
   "alternative_titles": "Halbaemusawa Jijon Sonnyeo, Warrior Grandpa and His Supreme Granddaughter, Grandpa Samurai and Granddaughter of the Supreme, 할배무사와 지존 손녀, Grandfather Warrior and Supreme Granddaughter, Abuelo guerrero y nieta suprema, Warrior Grandpa and Grandmaster Daughter, คุณปู่จอมยุทธกับหลานสาวสุดแกร่ง, 爷爷武士与至尊孙女, 爺さん武人と天下一の孫娘, 爺爺武士與至尊孫女, Warrior Grandpa and Supreme Granddaughter",
   "status": "Berjalan",
   "author": "Shin Eui-Chul (신의철), ilhyang (일향(一向))",
@@ -25,16 +25,34 @@
   "synopsis": "Manhwa                    Warrior Grandpa and Supreme Granddaughter yang dibuat oleh komikus bernama\n                    Shin Eui-Chul (신의철), ilhyang (일향(一向)) ini bercerita tentang\n                    Sebuah klan jatuh, selamat tunggal, dan seorang kakek prajurit. Jinsan Yu, dulu seorang ahli bela diri legendaris, bersumpah akan bertahan sampai Seol, seorang anak dengan bakat luar biasa, datang dari usia. Melalui tangan takdir, mereka menghadapi sekutu dan musuh yang sama dari tempat-tempat yang tidak mungkin, dan konspirasi mendalam tentang kejatuhan Yu Clan. \"Aku akan melindungimu, Kakek!\" Tangisan tertinggi dari cucu bungsunya menyalakan semangat prajurit sekarat.",
   "chapters": [
     {
+      "chapter": "125",
+      "title": "Komik Warrior Grandpa and Supreme Granddaughter Chapter 125",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1ncmFuZHBhLWFuZC1zdXByZW1lLWdyYW5kZGF1Z2h0ZXItY2hhcHRlci0xMjUv",
+      "date": "40 menit yang lalu"
+    },
+    {
+      "chapter": "124",
+      "title": "Komik Warrior Grandpa and Supreme Granddaughter Chapter 124",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1ncmFuZHBhLWFuZC1zdXByZW1lLWdyYW5kZGF1Z2h0ZXItY2hhcHRlci0xMjQv",
+      "date": "8 jam yang lalu"
+    },
+    {
+      "chapter": "123",
+      "title": "Komik Warrior Grandpa and Supreme Granddaughter Chapter 123",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1ncmFuZHBhLWFuZC1zdXByZW1lLWdyYW5kZGF1Z2h0ZXItY2hhcHRlci0xMjMv",
+      "date": "16 jam yang lalu"
+    },
+    {
       "chapter": "122",
       "title": "Komik Warrior Grandpa and Supreme Granddaughter Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1ncmFuZHBhLWFuZC1zdXByZW1lLWdyYW5kZGF1Z2h0ZXItY2hhcHRlci0xMjIv",
-      "date": "59 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "121",
       "title": "Komik Warrior Grandpa and Supreme Granddaughter Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2Fycmlvci1ncmFuZHBhLWFuZC1zdXByZW1lLWdyYW5kZGF1Z2h0ZXItY2hhcHRlci0xMjEv",
-      "date": "59 menit yang lalu"
+      "date": "23 jam yang lalu"
     },
     {
       "chapter": "120",
@@ -757,5 +775,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 122
+  "total_chapters": 125
 }
