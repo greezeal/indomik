@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.87,
-  "scraped_at": "2026-11-01T06:47:54.288937",
+  "scraped_at": "2026-11-01T13:58:06.046113",
   "alternative_titles": "Home Plate's Villain, 홈 플레이트의 빌런, ホームベースの魔物, Le Démon du Marbre, Home Plate Villain",
   "status": "Berjalan",
   "author": "Randomorder, Evilline",
@@ -18,22 +18,28 @@
   "synopsis": "Manhwa                    Home Plate Villain yang dibuat oleh komikus bernama\n                    Randomorder, Evilline ini bercerita tentang\n                    Untuk bertemu orang tuanya yang sudah mati, Hong Bin membuat kesepakatan dengan peri Baseball, yang setuju untuk mengembalikannya ke masa lalu jika ia mencapai 3.000 hits karir sebagai pemain bisbol. Dan pada usia 40, Bin sang legenda baseball memukul bola terakhirnya dan kembali ke masa lalu. Setelah bersatu kembali dengan keluarganya, Bin memutuskan untuk mengejar impian lamanya bergabung dengan liga utama. Satu-satunya masalah adalah bahwa dia kehilangan semua keterampilan lamanya sebagai pro! Tapi apakah pengalaman masa lalunya cukup untuk membantu legenda ini memenuhi tujuan barunya?",
   "chapters": [
     {
+      "chapter": "115",
+      "title": "Komik Home Plate Villain Chapter 115",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItMTE1Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "114",
       "title": "Komik Home Plate Villain Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItMTE0Lw==",
-      "date": "4 jam yang lalu"
+      "date": "22 jam yang lalu"
     },
     {
       "chapter": "113",
       "title": "Komik Home Plate Villain Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItMTEzLw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Home Plate Villain Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItMTEyLw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "111",
@@ -69,7 +75,7 @@
       "chapter": "106",
       "title": "Komik Home Plate Villain Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZS1wbGF0ZS12aWxsYWluLWNoYXB0ZXItMTA2Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "105",
@@ -702,5 +708,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 114
+  "total_chapters": 115
 }

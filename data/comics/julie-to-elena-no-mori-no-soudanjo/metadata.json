@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.29,
-  "scraped_at": "2026-11-01T06:44:29.869001",
+  "scraped_at": "2026-11-01T13:58:24.500374",
   "alternative_titles": "ジュリとエレナの森の相談所, ジュリとエレナの森の相談所 ～付与の力であなたの未来をお守りします!～, Julie and Elena's Forest Consultation Office: Protecting Your Future with the Power of Empowerment!, Julie and Elena's Forest Consultation Office, Juri & Elena's Forest Consultation, Juri & Elena's Forest Consultation: Protecting Your Future with Enchantment",
   "status": "Berjalan",
   "author": "may (芽生)",
@@ -19,17 +19,29 @@
   "synopsis": "Manga                    Julie to Elena no Mori no Soudanjo yang dibuat oleh komikus bernama\n                    may (芽生) ini bercerita tentang\n                    Di hutan yang dalam, seorang gadis peri setengah bernama Julie tinggal dengan serigala.\n\nSuatu hari, Julie menemukan seorang gadis manusia pingsan di hutan. Gadis itu bernama Elena, dan dia terluka dan tidak bisa bergerak setelah tersesat. Meskipun Julie bingung dengan kedatangan manusia untuk pertama kalinya dalam beberapa dekade, dia memutuskan untuk membiarkan Elena tinggal bersamanya sampai lukanya sembuh.\n\nSetelah menghabiskan semua waktu sendirian sampai saat itu, Julie mulai mengalami berbagai emosi dia tidak pernah merasa ketika dia sendirian sementara menghabiskan waktu dengan Elena.\n\nDan kemudian, dengan alat bordir yang Elena temukan di rumah, kehidupan sehari-hari Julie mulai berubah bahkan lebih...",
   "chapters": [
     {
+      "chapter": "4",
+      "title": "Komik Julie to Elena no Mori no Soudanjo Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVsaWUtdG8tZWxlbmEtbm8tbW9yaS1uby1zb3VkYW5qby1jaGFwdGVyLTQv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Julie to Elena no Mori no Soudanjo Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVsaWUtdG8tZWxlbmEtbm8tbW9yaS1uby1zb3VkYW5qby1jaGFwdGVyLTMv",
-      "date": "21 menit yang lalu"
+      "date": "18 jam yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Julie to Elena no Mori no Soudanjo Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVsaWUtdG8tZWxlbmEtbm8tbW9yaS1uby1zb3VkYW5qby1jaGFwdGVyLTIv",
-      "date": "21 menit yang lalu"
+      "date": "18 jam yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Julie to Elena no Mori no Soudanjo Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvanVsaWUtdG8tZWxlbmEtbm8tbW9yaS1uby1zb3VkYW5qby1jaGFwdGVyLTEv",
+      "date": "19 jam yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 4
 }
