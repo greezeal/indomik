@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T02:02:02.046345",
+  "last_updated": "2026-11-02T09:24:11.149852",
   "total_comics": 2525,
   "comics": [
     {
@@ -632,7 +632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.26,
-      "total_chapters": 103
+      "total_chapters": 172
     },
     {
       "slug": "0-magic-a-high-spirit-and-a-demonic-sword",
@@ -1192,7 +1192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.13,
-      "total_chapters": 47
+      "total_chapters": 52
     },
     {
       "slug": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru",
@@ -2776,7 +2776,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.17,
-      "total_chapters": 52
+      "total_chapters": 53
     },
     {
       "slug": "mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu",
@@ -3999,8 +3999,8 @@
       "title": "My Death Flags Show No Sign of Ending",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 8.76,
-      "total_chapters": 96
+      "rating": 8.62,
+      "total_chapters": 97
     },
     {
       "slug": "the-art-of-leaving-work-on-time",
@@ -4448,7 +4448,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 113
+      "total_chapters": 114
     },
     {
       "slug": "845199-btooom",
@@ -4920,7 +4920,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.27,
-      "total_chapters": 180
+      "total_chapters": 182
     },
     {
       "slug": "godeokchuns-food-truck",
@@ -5368,7 +5368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 102
+      "total_chapters": 103
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -6368,7 +6368,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.95,
-      "total_chapters": 120
+      "total_chapters": 121
     },
     {
       "slug": "fair-trade-committee",
@@ -6384,7 +6384,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.02,
-      "total_chapters": 140
+      "total_chapters": 141
     },
     {
       "slug": "the-great-heavenly-demon-sovereign",
@@ -6431,8 +6431,8 @@
       "title": "Shuumatsu no Valkyrie",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 8.86,
-      "total_chapters": 196
+      "rating": 8.96,
+      "total_chapters": 204
     },
     {
       "slug": "kyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru",
@@ -9328,7 +9328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 41
+      "total_chapters": 42
     },
     {
       "slug": "feasting-lord-in-another-world",
@@ -14136,7 +14136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "senmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru",
@@ -14504,7 +14504,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 25
     },
     {
       "slug": "gakuen-no-hime-kouryaku-hajimetara-shuraba-ni-natteta-ken",
@@ -15383,8 +15383,8 @@
       "title": "Dungeon ni Hisomu Yandere na Kanojo ni Ore wa Nando mo Korosareru",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 41
+      "rating": 8.35,
+      "total_chapters": 45
     },
     {
       "slug": "i-need-to-raise-my-sister-properly",
@@ -16736,7 +16736,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "crimson-yaksha",
@@ -17720,7 +17720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 90
+      "total_chapters": 94
     },
     {
       "slug": "mainichi-ie-ni-kuru-gal-ga-kyorikan-zero-demo-yasashiku-nai",
@@ -18624,7 +18624,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 30
+      "total_chapters": 31
     },
     {
       "slug": "the-villainous-dukes-daughter-hides-her-identity",
@@ -19216,7 +19216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 7
+      "total_chapters": 10
     },
     {
       "slug": "youjo-na-majo-to-mori-no-kuma-san-isekai-de-potion-tsukutte-nonbiri-slow-life-ga-shitai-no-jaga",
@@ -19712,7 +19712,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "yuri-no-hajimari-wa-dorei-kara",
@@ -19784,7 +19784,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.58,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "infinite-titles",
@@ -19792,7 +19792,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.34,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "the-devil-and-the-ice-witch",
@@ -20088,7 +20088,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "starting-the-villainess-life-with-0-gold",
@@ -20192,7 +20192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.42,
-      "total_chapters": 9
+      "total_chapters": 10
     },
     {
       "slug": "951561-musume-janakute-watashi-mama-ga-suki-nano",
