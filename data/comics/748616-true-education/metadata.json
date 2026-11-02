@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.32,
-  "scraped_at": "2026-10-31T13:42:55.356897",
+  "scraped_at": "2026-11-02T19:39:47.145898",
   "alternative_titles": "The Real Lesson, 참교육",
   "status": "Berjalan",
   "author": "Jae Yong Taek",
@@ -23,16 +23,22 @@
   "synopsis": "Manhwa                    True Education yang dibuat oleh komikus bernama\n                    Jae Yong Taek ini bercerita tentang\n                    Setelah undang-undang larangan memukul para siswa disahkan, semakin banyak siswa yang seperti preman. Suatu hari, seorang laki-laki yang kuat muncul dan menghajar para preman sekolah tersebut. Sebenarnya siapa laki-laki itu..?!",
   "chapters": [
     {
+      "chapter": "270",
+      "title": "Komik True Education Chapter 270",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNzAv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "269",
       "title": "Komik True Education Chapter 269",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNjkv",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "268",
       "title": "Komik True Education Chapter 268",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci0yNjgv",
-      "date": "1 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "267",
@@ -1166,7 +1172,7 @@
       "chapter": "81",
       "title": "Komik True Education Chapter 81",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHJ1ZS1lZHVjYXRpb24tY2hhcHRlci04MS8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "80",
@@ -1649,5 +1655,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 271
+  "total_chapters": 272
 }

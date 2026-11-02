@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-10-13T07:10:12.345999",
+  "scraped_at": "2026-11-02T19:41:06.187972",
   "alternative_titles": "Shin Kidou Senki Gundam Wing: 0.5 Point Half Preventer-7, 新機動戦記ガンダムW 0.5POINT HALF PREVENTER-7",
   "status": "Berjalan",
   "author": "SUMISAWA Katsuyuki",
@@ -21,29 +21,53 @@
   "synopsis": "Manga                    Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 yang dibuat oleh komikus bernama\n                    SUMISAWA Katsuyuki ini bercerita tentang\n                    From Kadokawa:AC-197. Peace has returned to the people. And from this point on in history, weapons known as mobile suits, including the Gundams, were never seen again in the Earth Sphere. However, as long as mankind exists, there will always be battles. And that is precisely why an organization called the Preventers must exist. Heero and the others of PREVENTER-7 embark on a new operation to extinguish the flames that threaten to consume the perfect peace.",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci03Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci02Lw==",
+      "date": "3 minggu yang lalu"
+    },
+    {
       "chapter": "5",
       "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci01Lw==",
-      "date": "6 jam yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "4.5",
       "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 4.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci00LTUv",
-      "date": "7 hari yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci00Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci0zLw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci0yLw==",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci0xLw==",
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 8
 }

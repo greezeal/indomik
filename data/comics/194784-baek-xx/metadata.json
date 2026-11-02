@@ -2,354 +2,384 @@
   "slug": "194784-baek-xx",
   "title": "Baek XX",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvMTk0Nzg0LWJhZWsteHgv",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDEvS29taWstQmFlay1YWC0yMjB4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzIyOTAxNS8yY2EyYmRiZS1lMzc1LTQwZTUtYmM2MS1mYjM1ZDMxNzljODYva29taWstYmFlay14eC0yMjF4MzE5LmpwZw==",
   "type": "Manhwa",
   "is_colored": true,
-  "rating": 7.0,
-  "scraped_at": "2026-09-24T06:43:45.494007",
-  "alternative_titles": "백XX",
+  "rating": 8.84,
+  "scraped_at": "2026-11-02T19:43:52.749306",
+  "alternative_titles": "백XX, Mr. Baek, Dupla Baek, White XX, แบคXX, 双頭の白蛇, 白XX, Baek XX",
   "status": "Berjalan",
-  "author": "Byeongjang, Park Tae-joon Cartoon Company",
+  "author": "Sgt. (병장), PTJ COMICS, Haetae",
   "illustrator": "Punch Kick",
   "demographic": "Seinen",
   "themes": [
-    "Mafia"
+    "Mafia",
+    "Police"
   ],
   "genres": [
-    "Action",
-    "Drama"
+    "Crime"
   ],
-  "synopsis": "Manhwa                    Baek XX yang dibuat oleh komikus bernama\n                    Byeongjang, Park Tae-joon Cartoon Company ini bercerita tentang\n                    Agen HID Baek Yi-soo dan saudara kembarnya Baek Do-gyeong, bos organisasi kriminal.\r\nSaudara kembar yang hidup dengan wajah yang sama dan kehidupan yang berbeda. Adik laki-laki yang dikhianati oleh organisasi memutuskan untuk meninggalkan identitasnya dan menjadi kakak laki-laki.\r\nSeorang agen intelijen, menjadi bos organisasi kriminal...!",
+  "synopsis": "Manhwa                    Baek XX yang dibuat oleh komikus bernama\n                    Sgt. (병장), PTJ COMICS, Haetae ini bercerita tentang\n                    Federal Informan 'Baek Yisu' dan bos geng kriminal, 'Baek Dogyeong' adalah saudara kembar.\n\nDengan wajah yang sama dua saudara kembar telah hidup kehidupan yang berbeda sampai sekarang. Yisu, yang telah dikhianati oleh geng, membuang identitasnya untuk menjadi saudaranya. Agen federal ini akan segera menjadi bos geng...!",
   "chapters": [
+    {
+      "chapter": "202",
+      "title": "Komik Baek XX Chapter 202",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTIwMi8=",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "201",
+      "title": "Komik Baek XX Chapter 201",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTIwMS8=",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "200",
+      "title": "Komik Baek XX Chapter 200",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTIwMC8=",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "199",
+      "title": "Komik Baek XX Chapter 199",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5OS8=",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "198",
+      "title": "Komik Baek XX Chapter 198",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5OC8=",
+      "date": "4 minggu yang lalu"
+    },
     {
       "chapter": "197",
       "title": "Komik Baek XX Chapter 197",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5Ny8=",
-      "date": "14 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "196",
       "title": "Komik Baek XX Chapter 196",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5Ni8=",
-      "date": "7 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "195",
       "title": "Komik Baek XX Chapter 195",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5NS8=",
-      "date": "2 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "194",
       "title": "Komik Baek XX Chapter 194",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5NC8=",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "193",
       "title": "Komik Baek XX Chapter 193",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5My8=",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "192",
       "title": "Komik Baek XX Chapter 192",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5Mi8=",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "191",
       "title": "Komik Baek XX Chapter 191",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5MS8=",
-      "date": "3 minggu yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "190",
       "title": "Komik Baek XX Chapter 190",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5MC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "189",
       "title": "Komik Baek XX Chapter 189",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4OS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "188",
       "title": "Komik Baek XX Chapter 188",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4OC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "187",
       "title": "Komik Baek XX Chapter 187",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4Ny8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "186",
       "title": "Komik Baek XX Chapter 186",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4Ni8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "185",
       "title": "Komik Baek XX Chapter 185",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4NS8=",
-      "date": "1 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "184",
       "title": "Komik Baek XX Chapter 184",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4NC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "183",
       "title": "Komik Baek XX Chapter 183",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4My8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "182",
       "title": "Komik Baek XX Chapter 182",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4Mi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "181",
       "title": "Komik Baek XX Chapter 181",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4MS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "180",
       "title": "Komik Baek XX Chapter 180",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4MC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "179",
       "title": "Komik Baek XX Chapter 179",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3OS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "178",
       "title": "Komik Baek XX Chapter 178",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3OC8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "177",
       "title": "Komik Baek XX Chapter 177",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3Ny8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "176",
       "title": "Komik Baek XX Chapter 176",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3Ni8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "175",
       "title": "Komik Baek XX Chapter 175",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3NS8=",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "174",
       "title": "Komik Baek XX Chapter 174",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3NC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "173",
       "title": "Komik Baek XX Chapter 173",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3My8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "172",
       "title": "Komik Baek XX Chapter 172",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3Mi8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "171",
       "title": "Komik Baek XX Chapter 171",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3MS8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "170",
       "title": "Komik Baek XX Chapter 170",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3MC8=",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "169",
       "title": "Komik Baek XX Chapter 169",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2OS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "168",
       "title": "Komik Baek XX Chapter 168",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2OC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "167",
       "title": "Komik Baek XX Chapter 167",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2Ny8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "166",
       "title": "Komik Baek XX Chapter 166",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2Ni8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "165",
       "title": "Komik Baek XX Chapter 165",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2NS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "164",
       "title": "Komik Baek XX Chapter 164",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2NC8=",
-      "date": "6 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "163",
       "title": "Komik Baek XX Chapter 163",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2My8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "162",
       "title": "Komik Baek XX Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2Mi8=",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "161",
       "title": "Komik Baek XX Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2MS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "160",
       "title": "Komik Baek XX Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2MC8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "159",
       "title": "Komik Baek XX Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1OS8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "158",
       "title": "Komik Baek XX Chapter 158",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1OC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "157",
       "title": "Komik Baek XX Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1Ny8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "156",
       "title": "Komik Baek XX Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1Ni8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "155",
       "title": "Komik Baek XX Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1NS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "154",
       "title": "Komik Baek XX Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1NC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "153",
       "title": "Komik Baek XX Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1My8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "152",
       "title": "Komik Baek XX Chapter 152",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1Mi8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "151",
       "title": "Komik Baek XX Chapter 151",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1MS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "150",
       "title": "Komik Baek XX Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE1MC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "149",
       "title": "Komik Baek XX Chapter 149",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0OS8=",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "148",
       "title": "Komik Baek XX Chapter 148",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0OC8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "147",
       "title": "Komik Baek XX Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0Ny8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "146",
       "title": "Komik Baek XX Chapter 146",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0Ni8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "145",
       "title": "Komik Baek XX Chapter 145",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0NS8=",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "144",
       "title": "Komik Baek XX Chapter 144",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0NC8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "143",
       "title": "Komik Baek XX Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE0My8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "142",
@@ -469,25 +499,25 @@
       "chapter": "123",
       "title": "Komik Baek XX Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTEyMy8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "122",
       "title": "Komik Baek XX Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTEyMi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "121",
       "title": "Komik Baek XX Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTEyMS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "120",
       "title": "Komik Baek XX Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTEyMC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "119",
@@ -769,37 +799,37 @@
       "chapter": "73",
       "title": "Komik Baek XX Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTczLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik Baek XX Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTcyLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Baek XX Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTcxLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Baek XX Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTcwLw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik Baek XX Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTY5Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "68",
       "title": "Komik Baek XX Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTY4Lw==",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "67",
@@ -1081,37 +1111,37 @@
       "chapter": "21",
       "title": "Komik Baek XX Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTIxLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Baek XX Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTIwLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Baek XX Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE5Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Baek XX Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE4Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Baek XX Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE3Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Baek XX Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYmFlay14eC1jaGFwdGVyLTE2Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "15",
@@ -1210,5 +1240,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 198
+  "total_chapters": 203
 }
