@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.9,
-  "scraped_at": "2026-11-03T01:50:59.702084",
+  "scraped_at": "2026-11-03T08:45:11.977381",
   "alternative_titles": "Hanggye Jjitneun Cheonjae Mabeopsa, 한계 찢는 천재마법사, A Genius Wizard Who Breaks Boundaries, The Genius Wizard Who Breaks Limits, ไม่มีลิมิต ชีวิตจอมเวท, 突破極限的天才魔法師, 限界突破の天才魔法使い, Limit-Breaking Genius Mage",
   "status": "Berjalan",
   "author": "Icechoco (얼음초코), PlanK_ton (플랑K톤)",
@@ -28,13 +28,13 @@
       "chapter": "64",
       "title": "Komik Limit-Breaking Genius Mage Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGltaXQtYnJlYWtpbmctZ2VuaXVzLW1hZ2UtY2hhcHRlci02NC8=",
-      "date": "4 jam yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Limit-Breaking Genius Mage Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGltaXQtYnJlYWtpbmctZ2VuaXVzLW1hZ2UtY2hhcHRlci02My8=",
-      "date": "4 jam yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "62",
@@ -88,6 +88,12 @@
       "chapter": "54",
       "title": "Komik Limit-Breaking Genius Mage Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGltaXQtYnJlYWtpbmctZ2VuaXVzLW1hZ2UtY2hhcHRlci01NC8=",
+      "date": "7 bulan yang lalu"
+    },
+    {
+      "chapter": "53",
+      "title": "Komik Limit-Breaking Genius Mage Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbGltaXQtYnJlYWtpbmctZ2VuaXVzLW1hZ2UtY2hhcHRlci01My8=",
       "date": "7 bulan yang lalu"
     },
     {
@@ -403,5 +409,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 63
+  "total_chapters": 64
 }
