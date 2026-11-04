@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T17:42:37.079350",
+  "last_updated": "2026-11-04T23:01:40.636893",
   "total_comics": 2531,
   "comics": [
     {
@@ -79,8 +79,8 @@
       "title": "Underworld Restaurant",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 136
+      "rating": 9.15,
+      "total_chapters": 141
     },
     {
       "slug": "831172-the-hero-returns",
@@ -216,7 +216,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 9.0,
-      "total_chapters": 113
+      "total_chapters": 114
     },
     {
       "slug": "moriagaranai-date",
@@ -2648,7 +2648,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.35,
-      "total_chapters": 126
+      "total_chapters": 128
     },
     {
       "slug": "884694-to-hell-with-being-a-saint-im-a-doctor",
@@ -3320,7 +3320,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.48,
-      "total_chapters": 161
+      "total_chapters": 163
     },
     {
       "slug": "i-am-with-the-music-immortals",
@@ -4768,7 +4768,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 991
+      "total_chapters": 993
     },
     {
       "slug": "obshchaka",
@@ -4824,7 +4824,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.31,
-      "total_chapters": 128
+      "total_chapters": 129
     },
     {
       "slug": "367057-survive-as-a-barbarian-in-the-game",
@@ -5576,7 +5576,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 112
+      "total_chapters": 113
     },
     {
       "slug": "party-kara-tsuihou-sareta-sono-chiyushi-jitsuha-saikyou-nitsuki",
@@ -14240,7 +14240,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 14
+      "total_chapters": 26
     },
     {
       "slug": "necromancer-becoming-a-god-starting-with-skeleton-clone",
@@ -14358,9 +14358,9 @@
       "slug": "i-became-the-most-terrifying-stepmother-in-history",
       "title": "I Became the Most Terrifying Stepmother in History?!",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 38
     },
     {
       "slug": "saenai-ossan-jitsu-wa-saikyou",
@@ -14544,7 +14544,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.41,
-      "total_chapters": 97
+      "total_chapters": 98
     },
     {
       "slug": "the-fake-saintess-of-a-reverse-harem-game",
@@ -15088,7 +15088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 23
     },
     {
       "slug": "devil-princess",
@@ -15280,7 +15280,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.98,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "kono-oto-tomare",
@@ -16790,9 +16790,9 @@
       "slug": "revenge-of-reborn-villainess",
       "title": "Revenge of Reborn Villainess",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 19
     },
     {
       "slug": "saikyou-ansatsusha-class-teni-de-isekai-e",
@@ -17024,7 +17024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.27,
-      "total_chapters": 225
+      "total_chapters": 226
     },
     {
       "slug": "necromancer-academys-genius-summoner",
@@ -17040,7 +17040,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "203289-a-hero-who-does-everything-well",
@@ -17094,9 +17094,9 @@
       "slug": "equation-without-error",
       "title": "Equation Without Error",
       "type": "Manhwa",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 13
     },
     {
       "slug": "the-calamity-prince-desires-the-fake-princess",
@@ -17768,7 +17768,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "the-wall-street-geniuss-final-investment-playbook",
@@ -18632,7 +18632,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "424484-hu-tao-becomes-a-surgeon",
@@ -18680,7 +18680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 13
+      "total_chapters": 66
     },
     {
       "slug": "register",
@@ -18816,7 +18816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 22
+      "total_chapters": 25
     },
     {
       "slug": "buddy-monetize",
@@ -19448,7 +19448,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "i-was-mistaken-as-a-s-class-employee",
@@ -19912,7 +19912,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.17,
-      "total_chapters": 22
+      "total_chapters": 25
     },
     {
       "slug": "this-young-lady-hates-being-productive",

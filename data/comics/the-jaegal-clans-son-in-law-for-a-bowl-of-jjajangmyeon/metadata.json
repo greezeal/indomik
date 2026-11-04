@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-09-29T23:44:44.434825",
-  "alternative_titles": "A Bowl of Jajangmyeon Will Be Served by Jaegals, A Bowl of Jjajang, the Son-in-Law of Jaegal, A Bowl of Salty, Gnarly Dice, Jaegal Will Bring in a Son-in-Law With a Bowl of Jjajang, Using My Cooking Skills in a Murim World, Миска соленых кубиков по-джегальски, 美味炸醬征服武林, 짜장 한 그릇에 제갈세가 데릴사위",
+  "scraped_at": "2026-11-04T22:58:30.805972",
+  "alternative_titles": "A Bowl of Jajangmyeon Will Be Served by Jaegals, A Bowl of Jjajang, the Son-in-Law of Jaegal, A Bowl of Salty, Gnarly Dice, Jaegal Will Bring in a Son-in-Law With a Bowl of Jjajang, Using My Cooking Skills in a Murim World, Миска соленых кубиков по-джегал",
   "status": "Berjalan",
   "author": "Erhut",
   "illustrator": "Heo Il, Hong Min Seok",
@@ -24,83 +24,401 @@
   "synopsis": "Manhwa                    The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon yang dibuat oleh komikus bernama\n                    Erhut ini bercerita tentang\n                    Berbekal impian menjadi koki masakan Tiongkok yang tiada duanya, sang tokoh utama tiba-tiba dan secara misterius berpindah ke masa Dinasti Song di Tiongkok! Namun, saat terbangun, ia mendapati dirinya sama sekali tidak memiliki kemampuan bela diri. Satu-satunya bekal yang ia miliki hanyalah keahlian memasak yang telah ia kuasai di kehidupan sebelumnya. Mengejutkannya, hidangan-hidangan tersebut... justru mendapat sambutan yang luar biasa positif!\r\n\r\nBisakah ia benar-benar menaklukkan dunia persilatan hanya dengan semangkuk Jjajangmyeon?\r\nAkankah ia mampu memikat hati masyarakat Dataran Tengah lewat sajian Jjajangmyeon-nya dan menjalani kehidupan kedua yang sukses di era tersebut?",
   "chapters": [
     {
+      "chapter": "66",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNjYv",
+      "date": "14 menit yang lalu"
+    },
+    {
+      "chapter": "65",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 65",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNjUv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "64",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 64",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNjQv",
+      "date": "1 minggu yang lalu"
+    },
+    {
+      "chapter": "63",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNjMv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "62",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNjIv",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "61",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNjEv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "60",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 60",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNjAv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "59",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 59",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTkv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "58",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 58",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTgv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "57",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 57",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTcv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "56",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTYv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "55",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 55",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTUv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "54",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTQv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "53",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 53",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTMv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "52",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 52",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTIv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "51",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 51",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTEv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "50",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNTAv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "49",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDkv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDgv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "47",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDcv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "46",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 46",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDYv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "45",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 45",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDUv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "44",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDQv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "43",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDMv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "42",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDIv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDEv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "40",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 40",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNDAv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "39",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 39",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzkv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "38",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzgv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "37",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzcv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzYv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "35",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzUv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzQv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "33",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzMv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "32",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 32",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzIv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "31",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzEv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "30",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMzAv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "29",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjkv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "28",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjgv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "27",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjcv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjYv",
+      "date": "4 minggu yang lalu"
+    },
+    {
+      "chapter": "25",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjUv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "24",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjQv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjMv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjIv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "21",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjEv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "20",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 20",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMjAv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "19",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTkv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "18",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTgv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "17",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTcv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "16",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTYv",
+      "date": "1 bulan yang lalu"
+    },
+    {
       "chapter": "15",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTUv",
-      "date": "27 menit yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTQv",
-      "date": "45 menit yang lalu"
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "13",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTMv",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTIv",
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTEv",
-      "date": "14 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMTAv",
-      "date": "1 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItOS8=",
-      "date": "1 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItOC8=",
-      "date": "1 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNy8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNi8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNS8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItNC8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMy8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMi8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik The Jaegal Clan’s Son-in-Law for a Bowl of Jjajangmyeon Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWphZWdhbC1jbGFucy1zb24taW4tbGF3LWZvci1hLWJvd2wtb2YtamphamFuZ215ZW9uLWNoYXB0ZXItMS8=",
-      "date": "4 hari yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 66
 }
