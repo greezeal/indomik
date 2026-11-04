@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-03T08:44:09.798749",
+  "scraped_at": "2026-11-04T17:33:59.800060",
   "alternative_titles": "Shin Kidou Senki Gundam Wing: 0.5 Point Half Preventer-7, 新機動戦記ガンダムW 0.5POINT HALF PREVENTER-7",
   "status": "Berjalan",
   "author": "SUMISAWA Katsuyuki",
@@ -21,10 +21,16 @@
   "synopsis": "Manga                    Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 yang dibuat oleh komikus bernama\n                    SUMISAWA Katsuyuki ini bercerita tentang\n                    From Kadokawa:AC-197. Peace has returned to the people. And from this point on in history, weapons known as mobile suits, including the Gundams, were never seen again in the Earth Sphere. However, as long as mankind exists, there will always be battles. And that is precisely why an organization called the Preventers must exist. Heero and the others of PREVENTER-7 embark on a new operation to extinguish the flames that threaten to consume the perfect peace.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci04Lw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Mobile Suit Gundam Wing 0.5 Point Half Preventer-7 Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbW9iaWxlLXN1aXQtZ3VuZGFtLXdpbmctMC01LXBvaW50LWhhbGYtcHJldmVudGVyLTctY2hhcHRlci03Lw==",
-      "date": "15 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "6",
@@ -69,5 +75,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

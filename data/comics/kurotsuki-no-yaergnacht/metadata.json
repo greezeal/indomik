@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.69,
-  "scraped_at": "2026-10-29T01:46:26.228174",
+  "scraped_at": "2026-11-04T17:39:40.444174",
   "alternative_titles": "黒月のイェルクナハト, Yaergnacht of the Dark Moon, Yaergnacht da Lua Negra, Yaergnacht a Lunii Întunecate, Kara Ay Gecesi, Hắc Nguyệt Tân Nương, 黑月的耶爾克納赫特, 黑月的耶尔克纳赫特, เยิร์กนัคท์ คืนล่าจันทราทมิฬ, Kurotsuki no Yaergnacht",
   "status": "Berjalan",
   "author": "Suzumoto Kou",
@@ -27,28 +27,34 @@
   "synopsis": "Manga                    Kurotsuki no Yaergnacht yang dibuat oleh komikus bernama\n                    Suzumoto Kou ini bercerita tentang\n                    Sementara dalam perjalanan pulang dari sebuah wawancara, pengangguran, tidak termotivasi, lesu 18-tahun-tua Inumata Shinogi bertemu wanita cantik dan roh jahat Yaergnacht Facernis. Dia menuntut dia untuk menikahinya atau mati di tempat. Dia harus memerintahkan pertempuran melawan musuh umat manusia, rasul-rasul Allah, dan menyelamatkan dunia dengan istrinya!",
   "chapters": [
     {
+      "chapter": "66",
+      "title": "Komik Kurotsuki no Yaergnacht Chapter 66",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci02Ni8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "65",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci02NS8=",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci02NC8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci02My8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci02Mi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "61",
@@ -60,7 +66,7 @@
       "chapter": "60",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci02MC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "59",
@@ -78,7 +84,7 @@
       "chapter": "57",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci01Ny8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "56",
@@ -120,7 +126,7 @@
       "chapter": "50",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci01MC8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -138,7 +144,7 @@
       "chapter": "47",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci00Ny8=",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "46",
@@ -156,7 +162,7 @@
       "chapter": "44",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci00NC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "43",
@@ -198,7 +204,7 @@
       "chapter": "37",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci0zNy8=",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -258,7 +264,7 @@
       "chapter": "27",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci0yNy8=",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "26",
@@ -270,7 +276,7 @@
       "chapter": "25",
       "title": "Komik Kurotsuki no Yaergnacht Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva3Vyb3RzdWtpLW5vLXlhZXJnbmFjaHQtY2hhcHRlci0yNS8=",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "24",
@@ -429,5 +435,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 67
+  "total_chapters": 68
 }
