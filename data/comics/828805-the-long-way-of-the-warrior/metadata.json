@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.53,
-  "scraped_at": "2026-11-04T22:59:46.844888",
+  "scraped_at": "2026-11-05T03:25:27.640125",
   "alternative_titles": "Musa Mallihaeng, Dolgii Put Viona, The Long Way of a Warrior, Долгий путь воина, 무사만리행, El largo camino del guerrero, 武士万里行, 武士萬里行, 무사 만리 행, The Long Way of the Warrior",
   "status": "Berjalan",
   "author": "Un 운(雲)",
@@ -27,22 +27,28 @@
   "synopsis": "Manhwa                    The Long Way of the Warrior yang dibuat oleh komikus bernama\n                    Un 운(雲) ini bercerita tentang\n                    Pada paruh kedua dari abad ke-2, Naru, seorang prajurit dari negara bagian Koryo, dijual sebagai budak gladiator untuk Kekaisaran Romawi dan melambaikan perjuangan putus asa untuk kebebasan.",
   "chapters": [
     {
+      "chapter": "139",
+      "title": "Komik The Long Way of the Warrior Chapter 139",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvbmctd2F5LW9mLXRoZS13YXJyaW9yLWNoYXB0ZXItMTM5Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "138",
       "title": "Komik The Long Way of the Warrior Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvbmctd2F5LW9mLXRoZS13YXJyaW9yLWNoYXB0ZXItMTM4Lw==",
-      "date": "2 jam yang lalu"
+      "date": "10 jam yang lalu"
     },
     {
       "chapter": "137",
       "title": "Komik The Long Way of the Warrior Chapter 137",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvbmctd2F5LW9mLXRoZS13YXJyaW9yLWNoYXB0ZXItMTM3Lw==",
-      "date": "2 jam yang lalu"
+      "date": "10 jam yang lalu"
     },
     {
       "chapter": "136",
       "title": "Komik The Long Way of the Warrior Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWxvbmctd2F5LW9mLXRoZS13YXJyaW9yLWNoYXB0ZXItMTM2Lw==",
-      "date": "5 jam yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "135",
@@ -867,5 +873,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 140
+  "total_chapters": 141
 }
