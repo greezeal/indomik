@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-08T05:49:36.506528",
-  "alternative_titles": "A Girl Clumsy With Her Words, The Girl Who's Bad at Expressing Herself, 표현이 서툰 여자애",
+  "scraped_at": "2026-11-06T06:43:38.654053",
+  "alternative_titles": "A Girl Clumsy With Her Words, The Girl Who\\'s Bad at Expressing Herself, 표현이 서툰 여자애",
   "status": "Berjalan",
   "author": "pulpit",
   "illustrator": "Gegegek",
@@ -19,47 +19,65 @@
   "synopsis": "Manhwa                    A Girl Who’s Bad at Expressing Herself yang dibuat oleh komikus bernama\n                    pulpit ini bercerita tentang\n                    Di balik auranya yang sedingin es, murid pindahan Lee Ha-rin ternyata sangat jago bermain game dan diam-diam menyukai Choi Do-chan—cowok…",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTEwLw==",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTkv",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "8",
+      "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTgv",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTcv",
-      "date": "1 jam yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTYv",
-      "date": "1 hari yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTUv",
-      "date": "1 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTQv",
-      "date": "1 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTMv",
-      "date": "1 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTIv",
-      "date": "1 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik A Girl Who’s Bad at Expressing Herself Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1naXJsLXdob3MtYmFkLWF0LWV4cHJlc3NpbmctaGVyc2VsZi1jaGFwdGVyLTEv",
-      "date": "1 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 10
 }
