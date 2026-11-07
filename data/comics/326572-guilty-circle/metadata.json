@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-10-31T18:04:10.357795",
+  "scraped_at": "2026-11-07T18:18:50.638709",
   "alternative_titles": "ギルティサークル, Giruti Saakuru, 罪恶社团, 罪惡社團, 길티 서클, Guilty Circle",
   "status": "Berjalan",
   "author": "Monma Tsukasa",
@@ -20,22 +20,28 @@
   "synopsis": "Manga                    Guilty Circle yang dibuat oleh komikus bernama\n                    Monma Tsukasa ini bercerita tentang\n                    April! Kehidupan kuliah Sawaya Doji di sekolah mimpinya Universitas Seio dimulai dengan pertemuan dengan indah Kaede Hoshimi selama perekrutan klub. Sawaya percaya bahwa jika ia pergi ke Tokyo... jika ia bergabung dengan universitas... jika ia bergabung dengan klub, ia bisa mendapatkan pacar! Ini adalah cara yang bagus untuk bertemu orang baru, tapi apa jenis klub telah dia mendapatkan dirinya ke?",
   "chapters": [
     {
+      "chapter": "62",
+      "title": "Komik Guilty Circle Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3VpbHR5LWNpcmNsZS1jaGFwdGVyLTYyLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "61",
       "title": "Komik Guilty Circle Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3VpbHR5LWNpcmNsZS1jaGFwdGVyLTYxLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Guilty Circle Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3VpbHR5LWNpcmNsZS1jaGFwdGVyLTYwLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Guilty Circle Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3VpbHR5LWNpcmNsZS1jaGFwdGVyLTU5Lw==",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "58",
@@ -89,19 +95,19 @@
       "chapter": "50",
       "title": "Komik Guilty Circle Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3VpbHR5LWNpcmNsZS1jaGFwdGVyLTUwLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "49",
       "title": "Komik Guilty Circle Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3VpbHR5LWNpcmNsZS1jaGFwdGVyLTQ5Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik Guilty Circle Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ3VpbHR5LWNpcmNsZS1jaGFwdGVyLTQ4Lw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "47",
@@ -386,5 +392,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 62
 }

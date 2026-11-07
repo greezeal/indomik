@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-02T09:23:38.107972",
-  "alternative_titles": "Can\\'t the Ultimate Assassin Retire?, Emekli Suikastçı Sakin Bir Hayat İstiyor, The Retired Killer Just Wants a Peaceful Life, The Retired Killer Wants a Quiet Life, Tên Sát Thủ Đã Giải Nghệ Chỉ Muốn Một Cuộc Sống Bình Yên, สุดยอดมือสังหารขอลาวงการไม่ได้ห",
+  "scraped_at": "2026-11-07T18:20:12.851523",
+  "alternative_titles": "Can't the Ultimate Assassin Retire?, Emekli Suikastçı Sakin Bir Hayat İstiyor, The Retired Killer Just Wants a Peaceful Life, The Retired Killer Wants a Quiet Life, Tên Sát Thủ Đã Giải Nghệ Chỉ Muốn Một Cuộc Sống Bình Yên, สุดยอดมือสังหารขอลาวงการไม่ได้หรือไง, อดีตนักฆ่าขอหนีมาฮีลใจ, 은퇴한 킬러는 힐링하고 싶다",
   "status": "Berjalan",
   "author": "Nasty Cat",
   "illustrator": "Nasty Cat",
@@ -18,16 +18,22 @@
   "synopsis": "Manhwa                    The Retired Killer Wants a Quiet Life yang dibuat oleh komikus bernama\n                    Nasty Cat ini bercerita tentang\n                    Yoo Ji-an, dengan nama sandi “Saber,” adalah seorang pembunuh bayaran peringkat S pemerintah yang telah menyelesaikan lebih dari 300 misi. Setelah 20 tahun berkecimpung dalam bisnis ini, ia akhirnya pensiun untuk mengejar kehidupan yang damai. Tujuan pertamanya sederhana: menghasilkan uang secara legal tanpa membunuh siapa pun. Namun, saat ia memulai kehidupan barunya yang biasa, insiden misterius dan seorang wanita yang mencurigakan terus menghalangi jalannya. Dapatkah pembunuh bayaran peringkat S legendaris ini akhirnya menemukan kebahagiaan tanpa kembali ke kebiasaan lamanya?",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik The Retired Killer Wants a Quiet Life Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldGlyZWQta2lsbGVyLXdhbnRzLWEtcXVpZXQtbGlmZS1jaGFwdGVyLTI3Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik The Retired Killer Wants a Quiet Life Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldGlyZWQta2lsbGVyLXdhbnRzLWEtcXVpZXQtbGlmZS1jaGFwdGVyLTI2Lw==",
-      "date": "10 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Retired Killer Wants a Quiet Life Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldGlyZWQta2lsbGVyLXdhbnRzLWEtcXVpZXQtbGlmZS1jaGFwdGVyLTI1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
@@ -39,13 +45,13 @@
       "chapter": "23",
       "title": "Komik The Retired Killer Wants a Quiet Life Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldGlyZWQta2lsbGVyLXdhbnRzLWEtcXVpZXQtbGlmZS1jaGFwdGVyLTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Retired Killer Wants a Quiet Life Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldGlyZWQta2lsbGVyLXdhbnRzLWEtcXVpZXQtbGlmZS1jaGFwdGVyLTIyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -57,7 +63,7 @@
       "chapter": "20",
       "title": "Komik The Retired Killer Wants a Quiet Life Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXJldGlyZWQta2lsbGVyLXdhbnRzLWEtcXVpZXQtbGlmZS1jaGFwdGVyLTIwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -174,5 +180,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

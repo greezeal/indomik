@@ -2,36 +2,42 @@
   "slug": "ashita-mo-mata-yuusha-no-tonari",
   "title": "Ashita mo Mata Yuusha no Tonari",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYXNoaXRhLW1vLW1hdGEteXV1c2hhLW5vLXRvbmFyaS8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDUvS29taWstQXNoaXRhLW1vLU1hdGEtWXV1c2hhLW5vLVRvbmFyaS0yMzZ4MzE3LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI1MDMxMy8yZTY2Njk2Ni0yMTIzLTQ2ZjEtYmY0Yy1hMDlkNWY5YmY1NDYva29taWstYXNoaXRhLW1vLW1hdGEteXV1c2hhLW5vLXRvbmFyaS0yMjN4MzE5LmpwZw==",
   "type": "Manga",
   "is_colored": false,
-  "rating": 7.21,
-  "scraped_at": "2026-07-05T12:10:16.644062",
-  "alternative_titles": "明日もまた勇者のとなり, Tomorrow Will Be Another Day Next to the Hero",
+  "rating": 8.29,
+  "scraped_at": "2026-11-07T18:19:34.622827",
+  "alternative_titles": "明日もまた勇者のとなり, Tomorrow Will Be Another Day Next to the Hero, Ashita mo Mata Yuusha no Tonari",
   "status": "Berjalan",
-  "author": "KAIJI Supana, 梶井スパナ",
-  "illustrator": "KAIJI Supana, 梶井スパナ",
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Isekai",
-    "Romance",
-    "Shoujo Ai",
-    "Slice of Life"
+  "author": "Kajii Supana",
+  "illustrator": "Kajii Supana",
+  "themes": [
+    "Reincarnation"
   ],
-  "synopsis": "Manga                    Ashita mo Mata Yuusha no Tonari yang dibuat oleh komikus bernama\n                    KAIJI Supana, 梶井スパナ ini bercerita tentang\n                    Mao Kurose tertarik dengan teman sekelasnya, Kanade Momomiya, yang duduk di sebelahnya. Dia memiliki perasaan campur aduk yang tidak dapat dia pahami ketika tiba-tiba, dia ingat saat dia, sebagai Ratu Iblis, membunuh Pahlawan. Dan Hero itu memiliki wajah yang sama dengan Momomiya...\r\n\r\nKisah seorang gadis yang melampaui waktu!",
+  "genres": [
+    "Romance",
+    "Slice of Life",
+    "Yuri"
+  ],
+  "synopsis": "Manga                    Ashita mo Mata Yuusha no Tonari yang dibuat oleh komikus bernama\n                    Kajii Supana ini bercerita tentang\n                    Mao Kurose tidak bisa berhenti memikirkan Kanade Momoiya, teman sekelas duduk di sampingnya. Kurose menemukan kenangan masa lalunya sebagai Raja Iblis, dan mengingat saat Raja Iblis membunuh sang Pahlawan. Pahlawan dengan wajah yang sama persis dengan Momomiya.\n\nDi sinilah gadis-cinta cerita yang melampaui waktu!",
   "chapters": [
+    {
+      "chapter": "12",
+      "title": "Komik Ashita mo Mata Yuusha no Tonari Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNoaXRhLW1vLW1hdGEteXV1c2hhLW5vLXRvbmFyaS1jaGFwdGVyLTEyLw==",
+      "date": "1 jam yang lalu"
+    },
     {
       "chapter": "11",
       "title": "Komik Ashita mo Mata Yuusha no Tonari Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNoaXRhLW1vLW1hdGEteXV1c2hhLW5vLXRvbmFyaS1jaGFwdGVyLTExLw==",
-      "date": "6 jam yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Ashita mo Mata Yuusha no Tonari Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYXNoaXRhLW1vLW1hdGEteXV1c2hhLW5vLXRvbmFyaS1jaGFwdGVyLTEwLw==",
-      "date": "21 jam yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -88,5 +94,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }

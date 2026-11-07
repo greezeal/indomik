@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.9,
-  "scraped_at": "2026-11-04T02:19:43.801504",
+  "scraped_at": "2026-11-07T18:20:21.702572",
   "alternative_titles": "ストラテジックラバーズ, 戰略情人, Strategic Lovers",
   "status": "Berjalan",
   "author": "Sanshoku Amido",
@@ -25,16 +25,22 @@
   "synopsis": "Manga                    Strategic Lovers yang dibuat oleh komikus bernama\n                    Sanshoku Amido ini bercerita tentang\n                    Kouta, seorang anak SMA yang ayahnya adalah ketua Grup Higashiyama, sebuah perusahaan besar yang terlibat dalam pengembangan kereta api, department store, dan fasilitas resor, memainkan peran utama dalam permainan bertahan hidup romantis. Sebagai putra dari simpanan 23 ayahnya, Kota tidak benar-benar merasa seperti anak ketua. Meskipun demikian, dia tiba-tiba dipilih sebagai ketua Grup Higashiyama berikutnya dan ditugaskan seorang gadis untuk menjadi gundiknya.",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik Strategic Lovers Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTMzLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Strategic Lovers Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTMyLw==",
-      "date": "14 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Strategic Lovers Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTMxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -142,7 +148,7 @@
       "chapter": "13",
       "title": "Komik Strategic Lovers Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTEzLw==",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "12",
@@ -217,5 +223,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }
