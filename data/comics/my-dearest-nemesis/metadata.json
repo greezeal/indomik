@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.82,
-  "scraped_at": "2026-11-08T01:26:56.215972",
+  "scraped_at": "2026-11-08T15:03:56.495683",
   "alternative_titles": "Qin'ai De Siduitou, Dear Arch-Enemy, My Dear Enemy, Qīn'ài De Sǐduìtóu, Đối Thủ Thân Yêu, 亲爱的死对头",
   "status": "Berjalan",
   "author": "Xian Jun",
@@ -21,11 +21,17 @@
   "synopsis": "Manhua                    My Dearest Nemesis yang dibuat oleh komikus bernama\n                    Xian Jun ini bercerita tentang\n                    Seluruh perusahaan tahu bahwa mereka berlawanan kutub yang berjuang seperti kucing dan anjing. Namun selama pesta akhir tahun, dinding antara mereka hancur setelah mereka mabuk! Dan jadi mereka berdua pergi dari selalu menjadi dekat untuk pergi pada satu sama lain untuk merasakan hal-hal yang sangat aneh berikut kecelakaan disengaja...",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik My Dearest Nemesis Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGVhcmVzdC1uZW1lc2lzLWNoYXB0ZXItMi8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik My Dearest Nemesis Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXktZGVhcmVzdC1uZW1lc2lzLWNoYXB0ZXItMS8=",
-      "date": "11 menit yang lalu"
+      "date": "21 jam yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }
