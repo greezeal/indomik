@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-04T17:38:52.326663",
+  "scraped_at": "2026-11-08T19:35:57.820983",
   "alternative_titles": "에리카 - 친구가 내게 집착할 때",
   "status": "Berjalan",
   "author": "Jenui",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    Erica, When a Friend Is Obsessed With Me yang dibuat oleh komikus bernama\n                    Jenui ini bercerita tentang\n                    Erica adalah kekuatan alam di medan perang, seorang tentara bayaran kelas S yang keahliannya luar biasa hanya meninggalkan kekaguman dan kehancuran di belakangnya, namun dia tidak bisa melepaskan bayangannya yang sama mematikannya: Chaud. Didorong oleh intensitas yang gila, dia memojokkannya dengan tuntutan yang keras. “Mari kita bentuk pasangan tetap. Hanya memikirkanmu dengan pecundang menyedihkan lainnya membuatku sangat marah hingga aku tidak bisa tidur.” Seusia, tak tertandingi dalam keahlian, dan berbagi kenekatan yang sama-sama gila, keduanya menjalin ikatan yang kacau namun tak terbantahkan. Namun saat mereka bertahan dari pertempuran demi pertempuran, kesetiaan Chaud berubah menjadi obsesi yang putus asa. “Ada sesuatu yang sangat kuinginkan,” dia memperingatkannya suatu malam, tatapannya terkunci berbahaya pada matanya. “Jika orang lain mengambilnya dariku, akan terjadi perang.” Tidak menyadari bahwa dia adalah hadiah utamanya, Erica mengabaikan ancaman itu. Baru bertahun-tahun kemudian, terpojok oleh pengabdiannya yang membara, dia akhirnya menyadari kedalaman mengerikan dari jebakan yang telah dia masuki. “Sudah kubilang, Erica,” gumamnya pelan. “Jika orang lain mengambilnya dariku… itu perang.” Apa yang dimulai sebagai kisah bertahan hidup yang kacau antara dua tentara bayaran yang sangat kuat meledak menjadi kisah cinta pertempuran yang penuh risiko… sebuah perjalanan penyelamatan bersama yang ditempa dalam darah, baja, dan obsesi yang berbahaya namun manis.",
   "chapters": [
     {
+      "chapter": "30",
+      "title": "Komik Erica, When a Friend Is Obsessed With Me Chapter 30",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJpY2Etd2hlbi1hLWZyaWVuZC1pcy1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItMzAv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "29",
       "title": "Komik Erica, When a Friend Is Obsessed With Me Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJpY2Etd2hlbi1hLWZyaWVuZC1pcy1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItMjkv",
-      "date": "3 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Erica, When a Friend Is Obsessed With Me Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJpY2Etd2hlbi1hLWZyaWVuZC1pcy1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItMjgv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Erica, When a Friend Is Obsessed With Me Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJpY2Etd2hlbi1hLWZyaWVuZC1pcy1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItMjcv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Erica, When a Friend Is Obsessed With Me Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJpY2Etd2hlbi1hLWZyaWVuZC1pcy1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItMjYv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Erica, When a Friend Is Obsessed With Me Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJpY2Etd2hlbi1hLWZyaWVuZC1pcy1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItMjUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "24",
@@ -58,7 +64,7 @@
       "chapter": "23",
       "title": "Komik Erica, When a Friend Is Obsessed With Me Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXJpY2Etd2hlbi1hLWZyaWVuZC1pcy1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItMjMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -193,5 +199,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 30
 }

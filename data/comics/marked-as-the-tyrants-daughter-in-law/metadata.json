@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-25T23:45:33.469131",
-  "alternative_titles": "Chosen as the Tyrant's Daughter-in-Law, I Was Picked as the Tyrant's Daughter-in-Law, 폭군의 며느리로 점찍혔습니다",
+  "scraped_at": "2026-11-08T19:37:49.996283",
+  "alternative_titles": "Chosen as the Tyrant\\'s Daughter-in-Law, I Was Picked as the Tyrant\\'s Daughter-in-Law, 폭군의 며느리로 점찍혔습니다",
   "status": "Berjalan",
   "author": "Junye, Kim Gae",
   "illustrator": "SALTY",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    Marked as the Tyrant’s Daughter-in-law yang dibuat oleh komikus bernama\n                    Junye, Kim Gae ini bercerita tentang\n                    Seorang gadis berusia sepuluh tahun terlahir kembali sebagai warga biasa di sebuah kekaisaran yang dilanda tirani dan kelaparan. Dengan menggunakan ingatan dari kehidupan sebelumnya, ia mempersiapkan diri menghadapi bencana yang akan datang dengan bertani di sebuah desa yang tenang bersama para tetangga yang tampaknya sangat menyayanginya. Tetapi ketika semua orang tiba-tiba menghilang, hanya meninggalkan janji untuk kembali, ia ditinggalkan sendirian—sampai ia diculik dan dibawa ke istana kekaisaran. Di sana, ia menemukan bahwa tetangganya yang ramah sebenarnya adalah tiran yang ditakuti, yang menyatakannya sebagai calon menantunya menggunakan coretan masa kecil sebagai kontrak pernikahan. Saat kebenaran tentang mendiang ayahnya dan garis keturunannya yang tersembunyi terungkap, ia menyadari bahwa ia mungkin bukan sekadar figuran biasa.",
   "chapters": [
     {
+      "chapter": "31",
+      "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 31",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTMxLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "30",
       "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTMwLw==",
-      "date": "8 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTI5Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTI4Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTI3Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTI2Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -64,13 +70,13 @@
       "chapter": "23",
       "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTIzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Marked as the Tyrant’s Daughter-in-law Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFya2VkLWFzLXRoZS10eXJhbnRzLWRhdWdodGVyLWluLWxhdy1jaGFwdGVyLTIyLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -199,5 +205,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 30
+  "total_chapters": 31
 }

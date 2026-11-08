@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-03T08:45:44.112195",
+  "scraped_at": "2026-11-08T19:38:12.307144",
   "alternative_titles": "A Villain\\'s Pure Love, 빌런의 순정",
   "status": "Berjalan",
   "author": "Rose Bean",
@@ -19,34 +19,40 @@
   "synopsis": "Manhwa                    The Villain’s Pure Love yang dibuat oleh komikus bernama\n                    Rose Bean ini bercerita tentang\n                    Yeon-woo, seorang sekretaris, melarikan diri ke kampung halamannya di Moksan-gun untuk menghindari manipulasi dan pelecehan dari Wakil Presiden Yun-seok. Di sana, ia bertemu Seong-heon, Direktur Eksekutif Seolyang Construction. Hati Seong-heon, yang dulunya sedingin es, mulai melunak terhadap Yeon-woo, yang bagaikan mata air hangat.\r\n\r\nSementara itu, Yun-seok memulai perburuannya terhadap Yeon-woo…",
   "chapters": [
     {
+      "chapter": "50",
+      "title": "Komik The Villain’s Pure Love Chapter 50",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW5zLXB1cmUtbG92ZS1jaGFwdGVyLTUwLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "49",
       "title": "Komik The Villain’s Pure Love Chapter 49",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW5zLXB1cmUtbG92ZS1jaGFwdGVyLTQ5Lw==",
-      "date": "16 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "48",
       "title": "Komik The Villain’s Pure Love Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW5zLXB1cmUtbG92ZS1jaGFwdGVyLTQ4Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "47",
       "title": "Komik The Villain’s Pure Love Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW5zLXB1cmUtbG92ZS1jaGFwdGVyLTQ3Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik The Villain’s Pure Love Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW5zLXB1cmUtbG92ZS1jaGFwdGVyLTQ2Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik The Villain’s Pure Love Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW5zLXB1cmUtbG92ZS1jaGFwdGVyLTQ1Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "44",
@@ -58,7 +64,7 @@
       "chapter": "43",
       "title": "Komik The Villain’s Pure Love Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXZpbGxhaW5zLXB1cmUtbG92ZS1jaGFwdGVyLTQzLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -313,5 +319,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 49
+  "total_chapters": 50
 }

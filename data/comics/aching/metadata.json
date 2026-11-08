@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-02T09:22:55.678856",
+  "scraped_at": "2026-11-08T19:36:14.928481",
   "alternative_titles": "Heart Aching, Heart-Aching, Lingering Pain, 艳光之痛, 아리도록",
   "status": "Berjalan",
   "author": "Grass Roll Bread",
@@ -18,28 +18,34 @@
   "synopsis": "Manhwa                    Aching yang dibuat oleh komikus bernama\n                    Grass Roll Bread ini bercerita tentang\n                    Cinta pertamaku, Joo Arin, yang kutemui lagi setelah lima tahun. Mengapa dia berubah begitu banyak?",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik Aching Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMzMv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik Aching Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMzIv",
-      "date": "10 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Aching Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMzEv",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Aching Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMzAv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Aching Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMjkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -57,7 +63,7 @@
       "chapter": "26",
       "title": "Komik Aching Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMjYv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -75,13 +81,13 @@
       "chapter": "23",
       "title": "Komik Aching Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMjMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Aching Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMjIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -105,7 +111,7 @@
       "chapter": "18",
       "title": "Komik Aching Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMTgv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "17",
@@ -129,7 +135,7 @@
       "chapter": "14",
       "title": "Komik Aching Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWNoaW5nLWNoYXB0ZXItMTQv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -210,5 +216,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }
