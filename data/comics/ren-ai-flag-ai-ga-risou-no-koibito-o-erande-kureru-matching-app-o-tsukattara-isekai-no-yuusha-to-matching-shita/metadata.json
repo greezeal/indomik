@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.94,
-  "scraped_at": "2026-11-04T02:21:14.375240",
+  "scraped_at": "2026-11-08T08:02:44.664050",
   "alternative_titles": "恋AIフラグ～AIが理想の恋人を選んでくれるマッチングアプリを使ったら異世界の勇者とマッチングした～, Ren AI Flag: When I Used a Matching App Where AI Chooses Your Ideal Lover, I Matched with a Hero from Another World",
   "status": "Berjalan",
   "author": "Manashiro Kanata (マナシロカナタ)",
@@ -20,17 +20,35 @@
   "synopsis": "Manga                    Ren AI Flag ~AI ga Risou no Koibito o Erande Kureru Matching App o Tsukattara Isekai no Yuusha to Matching Shita~ yang dibuat oleh komikus bernama\n                    Manashiro Kanata (マナシロカナタ) ini bercerita tentang\n                    Midou Ryouta, senang dengan kehidupan kampus yang dia rindukan, meratapi bahwa dia masih belum bisa mendapatkan pacar sama sekali. Ketika ia mulai menggunakan aplikasi yang cocok \"Ren AI Flag\" bahwa seorang teman direkomendasikan, menempel sebagai harapan terakhir, ia mencetak pertandingan besar dengan Lilia, seorang gadis pirang yang cantik! Tapi dia adalah pahlawan yang datang dari dunia lain! Dia seharusnya memenangkan hatinya, tapi dia ditekan ke dalam hubungan dengan pernikahan dalam pikiran - dan di atas itu, mereka akhirnya hidup bersama!? Tirai naik pada komedi romantis yang sedikit tidak biasa tentang mahasiswa universitas laki-laki yang rindu untuk romantis biasa!",
   "chapters": [
     {
+      "chapter": "4.1",
+      "title": "Komik Ren AI Flag ~AI ga Risou no Koibito o Erande Kureru Matching App o Tsukattara Isekai no Yuusha to Matching Shita~ Chapter 4.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVuLWFpLWZsYWctYWktZ2Etcmlzb3Utbm8ta29pYml0by1vLWVyYW5kZS1rdXJlcnUtbWF0Y2hpbmctYXBwLW8tdHN1a2F0dGFyYS1pc2VrYWktbm8teXV1c2hhLXRvLW1hdGNoaW5nLXNoaXRhLWNoYXB0ZXItNC0xLw==",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "3.2",
+      "title": "Komik Ren AI Flag ~AI ga Risou no Koibito o Erande Kureru Matching App o Tsukattara Isekai no Yuusha to Matching Shita~ Chapter 3.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVuLWFpLWZsYWctYWktZ2Etcmlzb3Utbm8ta29pYml0by1vLWVyYW5kZS1rdXJlcnUtbWF0Y2hpbmctYXBwLW8tdHN1a2F0dGFyYS1pc2VrYWktbm8teXV1c2hhLXRvLW1hdGNoaW5nLXNoaXRhLWNoYXB0ZXItMy0yLw==",
+      "date": "4 jam yang lalu"
+    },
+    {
+      "chapter": "3.1",
+      "title": "Komik Ren AI Flag ~AI ga Risou no Koibito o Erande Kureru Matching App o Tsukattara Isekai no Yuusha to Matching Shita~ Chapter 3.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVuLWFpLWZsYWctYWktZ2Etcmlzb3Utbm8ta29pYml0by1vLWVyYW5kZS1rdXJlcnUtbWF0Y2hpbmctYXBwLW8tdHN1a2F0dGFyYS1pc2VrYWktbm8teXV1c2hhLXRvLW1hdGNoaW5nLXNoaXRhLWNoYXB0ZXItMy0xLw==",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Ren AI Flag ~AI ga Risou no Koibito o Erande Kureru Matching App o Tsukattara Isekai no Yuusha to Matching Shita~ Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVuLWFpLWZsYWctYWktZ2Etcmlzb3Utbm8ta29pYml0by1vLWVyYW5kZS1rdXJlcnUtbWF0Y2hpbmctYXBwLW8tdHN1a2F0dGFyYS1pc2VrYWktbm8teXV1c2hhLXRvLW1hdGNoaW5nLXNoaXRhLWNoYXB0ZXItMi8=",
-      "date": "2 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Ren AI Flag ~AI ga Risou no Koibito o Erande Kureru Matching App o Tsukattara Isekai no Yuusha to Matching Shita~ Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmVuLWFpLWZsYWctYWktZ2Etcmlzb3Utbm8ta29pYml0by1vLWVyYW5kZS1rdXJlcnUtbWF0Y2hpbmctYXBwLW8tdHN1a2F0dGFyYS1pc2VrYWktbm8teXV1c2hhLXRvLW1hdGNoaW5nLXNoaXRhLWNoYXB0ZXItMS8=",
-      "date": "5 hari yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 5
 }
