@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.42,
-  "scraped_at": "2026-11-08T07:58:58.118410",
+  "scraped_at": "2026-11-09T10:29:27.082397",
   "alternative_titles": "双子まとめて『カノジョ』にしない？, Why Don't You Make the Twins Your \"Girlfriend\" Together?, Why Not Make Both Twins \"Girlfriends\"?, ¿Por qué no juntar a las gemelas y convertirlas en una novia?, Sao lại không biến cặp chị em song sinh thành \"bạn gái\" luôn nhỉ?, 不和双胞胎一起“谈恋爱”吗？, Futago Matomete “Kanojo” ni Shinai?",
   "status": "Berjalan",
   "author": "Shirai Muku",
@@ -25,34 +25,40 @@
   "synopsis": "Manga                    Futago Matomete “Kanojo” ni Shinai? yang dibuat oleh komikus bernama\n                    Shirai Muku ini bercerita tentang\n                    Usami adalah teman sekelas yang baik dengan moral dan nilai atas. Di sekolah, dia memandang Sakuto sebagai saingannya. Tapi ketika dia bertemu dengannya sepulang sekolah, dia melihat sisi lain dari dirinya. Dia bermain di arcade setelah kelas, dan dia memiliki senyum polos yang tidak bisa dibayangkan di sekolah. Demi bergaul dengan dia, ia akan dekat dengannya di sekolah dan kemudian bermain bersama-sama dengan dia setelah sekolah. Mereka masing-masing memiliki tempat mereka di mana mereka dapat memperdalam obligasi mereka, dan akhirnya...",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Futago Matomete “Kanojo” ni Shinai? Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YWdvLW1hdG9tZXRlLWthbm9qby1uaS1zaGluYWktY2hhcHRlci0yMi8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Futago Matomete “Kanojo” ni Shinai? Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YWdvLW1hdG9tZXRlLWthbm9qby1uaS1zaGluYWktY2hhcHRlci0yMS8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "20.5",
       "title": "Komik Futago Matomete “Kanojo” ni Shinai? Chapter 20.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YWdvLW1hdG9tZXRlLWthbm9qby1uaS1zaGluYWktY2hhcHRlci0yMC01Lw==",
-      "date": "22 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Futago Matomete “Kanojo” ni Shinai? Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YWdvLW1hdG9tZXRlLWthbm9qby1uaS1zaGluYWktY2hhcHRlci0yMC8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "19.5",
       "title": "Komik Futago Matomete “Kanojo” ni Shinai? Chapter 19.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YWdvLW1hdG9tZXRlLWthbm9qby1uaS1zaGluYWktY2hhcHRlci0xOS01Lw==",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Futago Matomete “Kanojo” ni Shinai? Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnV0YWdvLW1hdG9tZXRlLWthbm9qby1uaS1zaGluYWktY2hhcHRlci0xOS8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "18",
@@ -307,5 +313,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 47
+  "total_chapters": 48
 }

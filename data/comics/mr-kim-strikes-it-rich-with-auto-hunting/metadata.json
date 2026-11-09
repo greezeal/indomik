@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-02T02:00:17.097636",
+  "scraped_at": "2026-11-09T10:30:18.755082",
   "alternative_titles": "노가다 김씨, 자동사냥으로 꿀 빱니다",
   "status": "Berjalan",
   "author": "Shorts, Wonha",
@@ -18,34 +18,40 @@
   "synopsis": "Manhwa                    Mr. Kim Strikes It Rich with Auto-Hunting yang dibuat oleh komikus bernama\n                    Shorts, Wonha ini bercerita tentang\n                    Era di mana untuk Terbangun dan Pemburu beraksi.\r\nHa-jun, seorang pekerja harian di lokasi konstruksi, terbangun sebagai ‘Kepala Kantor Manajemen Tenaga Kerja’.\r\n\r\nNamun... para pekerja yang ia panggil justru menduduki dungeon dengan sendirinya?!\r\n\r\nSambil merekrut mulai dari Orc hingga pekerja kelas atas,\r\nHa-jun membangun tim 'Auto Hunting' miliknya sendiri.\r\n\r\nHa-jun terus memperkuat kekuatannya sambil menyembunyikan identitasnya,\r\nnamun keberadaannya mulai menarik perhatian para Pemburu teratas di dalam negeri\r\nserta negara-negara adidaya di luar negeri...!",
   "chapters": [
     {
+      "chapter": "28",
+      "title": "Komik Mr. Kim Strikes It Rich with Auto-Hunting Chapter 28",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXIta2ltLXN0cmlrZXMtaXQtcmljaC13aXRoLWF1dG8taHVudGluZy1jaGFwdGVyLTI4Lw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "27",
       "title": "Komik Mr. Kim Strikes It Rich with Auto-Hunting Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXIta2ltLXN0cmlrZXMtaXQtcmljaC13aXRoLWF1dG8taHVudGluZy1jaGFwdGVyLTI3Lw==",
-      "date": "5 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Mr. Kim Strikes It Rich with Auto-Hunting Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXIta2ltLXN0cmlrZXMtaXQtcmljaC13aXRoLWF1dG8taHVudGluZy1jaGFwdGVyLTI2Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Mr. Kim Strikes It Rich with Auto-Hunting Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXIta2ltLXN0cmlrZXMtaXQtcmljaC13aXRoLWF1dG8taHVudGluZy1jaGFwdGVyLTI1Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Mr. Kim Strikes It Rich with Auto-Hunting Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXIta2ltLXN0cmlrZXMtaXQtcmljaC13aXRoLWF1dG8taHVudGluZy1jaGFwdGVyLTI0Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Mr. Kim Strikes It Rich with Auto-Hunting Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXIta2ltLXN0cmlrZXMtaXQtcmljaC13aXRoLWF1dG8taHVudGluZy1jaGFwdGVyLTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -57,7 +63,7 @@
       "chapter": "21",
       "title": "Komik Mr. Kim Strikes It Rich with Auto-Hunting Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXIta2ltLXN0cmlrZXMtaXQtcmljaC13aXRoLWF1dG8taHVudGluZy1jaGFwdGVyLTIxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -180,5 +186,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 28
 }

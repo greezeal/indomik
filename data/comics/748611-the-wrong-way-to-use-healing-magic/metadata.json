@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.59,
-  "scraped_at": "2026-11-08T08:00:47.537812",
+  "scraped_at": "2026-11-09T10:31:13.847893",
   "alternative_titles": "Chiyu Mahou no Machigatta Tsukaikata ~Senjou wo Kakeru Kaifuku Youin~, 治癒魔法の間違った使い方～戦場を駆ける回復要員～, Chiyu Mahou no Machigatta Tsukaikata ~Senjou o Kakeru Kaifuku Youin~, 치유마법의 잘못된 사용법 ~전장을 달리는 회복 요원~, 治愈魔法的错误使用法～奔赴战场的回复要员～, La mauvaise façon d'utiliser la magie de soin: Le personnel soignant fonçant à travers le champ de bataille, O jeito errado de usar magia de cura, Неправильный способ использования Исцеляющей Магии, Cách Dùng Sai Của Ma Thuật Chữa Trị, Là Healer Nhưng Lại Có Mặt Trên Chiến Trường, 治癒魔法的錯誤使用法～奔赴戰場的回復要員～, Хибний спосіб використання магії зцілення, Come usare nel modo sbagliato la magia curativa: un membro principale della squadra di soccorso attraversa il campo di battaglia, Хибний спосіб використання магії зцілення (Ukranian), เวทรักษาที่ไหนเขาใช้กันแบบนี้ ~สายฮีลพันธุ์ใหม่ใส่ไม่ยั้ง, The Wrong Way to use Healing Magic",
   "status": "Berjalan",
   "author": "Kurokata",
@@ -26,16 +26,22 @@
   "synopsis": "Manga                    The Wrong Way to Use Healing Magic yang dibuat oleh komikus bernama\n                    Kurokata ini bercerita tentang\n                    Usato, seorang SMA biasa, kebetulan berlari ke dua siswa sesama setelah sekolah satu hari hujan. Tiba-tiba, mereka bertiga ditelan dalam lingkaran sihir dan diangkut ke dunia fantasi. Hanya ada satu masalah kecil - Usato hanya diseret bersama oleh kecelakaan! Selain itu, Usato belajar bahwa ia mampu menggunakan sihir penyembuhan - afinitas yang luar biasa langka di dunia baru ini. Sekarang Usato harus menghabiskan hari-harinya dengan tim penyelamat preman, berjuang melalui mereka neraka pelatihan resimen - belajar cara yang salah untuk menggunakan sihir penyembuhan.",
   "chapters": [
     {
+      "chapter": "92",
+      "title": "Komik The Wrong Way to Use Healing Magic Chapter 92",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdyb25nLXdheS10by11c2UtaGVhbGluZy1tYWdpYy1jaGFwdGVyLTkyLw==",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "91",
       "title": "Komik The Wrong Way to Use Healing Magic Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdyb25nLXdheS10by11c2UtaGVhbGluZy1tYWdpYy1jaGFwdGVyLTkxLw==",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "90",
       "title": "Komik The Wrong Way to Use Healing Magic Chapter 90",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXdyb25nLXdheS10by11c2UtaGVhbGluZy1tYWdpYy1jaGFwdGVyLTkwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "89",
@@ -626,5 +632,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 100
+  "total_chapters": 101
 }
