@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.19,
-  "scraped_at": "2026-11-08T15:01:53.769623",
+  "scraped_at": "2026-11-09T21:05:43.092847",
   "alternative_titles": "暴力万歳, Violence Hurrah, Violence Hurray, 暴力萬歲, 暴力万岁, Bōryoku Banzai, Bouryoku Banzai",
   "status": "Berjalan",
   "author": "Kawamoto Homura",
@@ -26,22 +26,28 @@
   "synopsis": "Manga                    Bouryoku Banzai yang dibuat oleh komikus bernama\n                    Kawamoto Homura ini bercerita tentang\n                    Masamichi Akita, seorang mahasiswa SMA yang motto untuk hidup dengan bijak, yang memenuhi Setsuna Rikudou, seorang gadis SMA dengan sikap supremasi kekerasan. Akita diselamatkan oleh Rikudou ketika ia terjerat dengan nakal, dan tertarik oleh kekuatannya yang luar biasa, memintanya untuk mengajarinya bagaimana untuk melawan. Namun, Akita dihancurkan oleh Rikudou, yang menyatakan bahwa \"kekerasan adalah satu-satunya aturan di dunia ini\". Akita bertemu dengan Rikudou membawanya ke dunia \"kekerasan\".",
   "chapters": [
     {
+      "chapter": "76",
+      "title": "Komik Bouryoku Banzai Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNzYv",
+      "date": "54 menit yang lalu"
+    },
+    {
       "chapter": "75",
       "title": "Komik Bouryoku Banzai Chapter 75",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNzUv",
-      "date": "40 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "74",
       "title": "Komik Bouryoku Banzai Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNzQv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Bouryoku Banzai Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNzMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "72",
@@ -59,7 +65,7 @@
       "chapter": "70",
       "title": "Komik Bouryoku Banzai Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNzAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "69",
@@ -431,31 +437,31 @@
       "chapter": "9",
       "title": "Komik Bouryoku Banzai Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItOS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Bouryoku Banzai Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItOC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Bouryoku Banzai Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNy8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Bouryoku Banzai Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNi8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Bouryoku Banzai Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYm91cnlva3UtYmFuemFpLWNoYXB0ZXItNS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "4",
@@ -482,5 +488,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 76
+  "total_chapters": 77
 }

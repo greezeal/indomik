@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-08T15:06:05.883088",
+  "scraped_at": "2026-11-09T21:07:36.923766",
   "alternative_titles": "Praise and Conquer: I Formed the Strongest Party Just by Praising Awkward Overpowered Girls, ホメちょろ無双〜こじらせ最強女達をホメただけで最強PTに〜",
   "status": "Berjalan",
   "author": "Karashito",
@@ -23,22 +23,28 @@
   "synopsis": "Manga                    Homechoro Musou yang dibuat oleh komikus bernama\n                    Karashito ini bercerita tentang\n                    Deskripsi\r\nSemakin kuat mereka, semakin kesepian dan semakin canggung mereka... dan jika Anda memuji mereka, mereka menjadi mudah ditangani secara tak terduga?! Setelah protagonis terkena mantra yang membuat semua pikiran sebenarnya keluar tanpa terkendali, pujiannya yang tanpa filter membuat para wanita terkuat di dunia menjadi kacau balau.\r\n\r\nSebuah fantasi santai (...mungkin?) di mana para gadis yang sangat kuat tidak berdaya menghadapi pujian jujur ​​yang tak disengaja!",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Homechoro Musou Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZWNob3JvLW11c291LWNoYXB0ZXItOS8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Homechoro Musou Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZWNob3JvLW11c291LWNoYXB0ZXItOC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Homechoro Musou Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZWNob3JvLW11c291LWNoYXB0ZXItNy8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Homechoro Musou Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZWNob3JvLW11c291LWNoYXB0ZXItNi8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "5",
@@ -56,20 +62,20 @@
       "chapter": "3",
       "title": "Komik Homechoro Musou Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZWNob3JvLW11c291LWNoYXB0ZXItMy8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Homechoro Musou Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZWNob3JvLW11c291LWNoYXB0ZXItMi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Homechoro Musou Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG9tZWNob3JvLW11c291LWNoYXB0ZXItMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }
