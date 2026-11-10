@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.0,
-  "scraped_at": "2026-11-08T01:28:08.000841",
+  "scraped_at": "2026-11-10T11:44:32.703367",
   "alternative_titles": "ガラス工房の錬金術師, The Glass Atelier Alchemist, Garasu Koubou no Renkinjutsushi, Garasu Kōbō no Renkinjutsushi, Glass Kobo no Renkinjutsushi, Glass Kōbō no Renkinjutsushi, Garasu Kobo no Renkinjutsushi",
   "status": "Berjalan",
   "author": "Maki Sakura",
@@ -23,16 +23,34 @@
   "synopsis": "Manga                    Glass Koubou no Renkinjutsushi yang dibuat oleh komikus bernama\n                    Maki Sakura ini bercerita tentang\n                    Luo adalah reinkarnasi sebagai anak tertua dari keluarga penguasa perbatasan. Setelah bertemu semangat api Lava, ia teringat mimpinya dari kehidupan sebelumnya menjadi seorang seniman kaca. Dia ingin membuat seni kaca yang indah dengan tangannya sendiri sekali lagi. Ketika dia tahu bahwa kaca tidak digunakan secara luas, ia menantang dirinya sendiri untuk menciptakan kaca dengan kekuatan alkimia bersama-sama dengan Lava. Bersama dengan master alkemis terkenal, ia menciptakan ramuan, gelas bir, dan cermin kaca pertama di dunia lain.",
   "chapters": [
     {
+      "chapter": "16",
+      "title": "Komik Glass Koubou no Renkinjutsushi Chapter 16",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMTYv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "15",
+      "title": "Komik Glass Koubou no Renkinjutsushi Chapter 15",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMTUv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "14",
+      "title": "Komik Glass Koubou no Renkinjutsushi Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMTQv",
+      "date": "2 hari yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Glass Koubou no Renkinjutsushi Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMTMv",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Glass Koubou no Renkinjutsushi Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMTIv",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "11",
@@ -86,20 +104,20 @@
       "chapter": "3",
       "title": "Komik Glass Koubou no Renkinjutsushi Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Glass Koubou no Renkinjutsushi Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Glass Koubou no Renkinjutsushi Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xhc3Mta291Ym91LW5vLXJlbmtpbmp1dHN1c2hpLWNoYXB0ZXItMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 16
 }

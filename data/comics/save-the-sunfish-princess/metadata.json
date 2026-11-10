@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-10T03:29:04.457985",
+  "scraped_at": "2026-11-10T11:48:17.884969",
   "alternative_titles": "Save the Ocean Sunfish Princess!, Save Princess Sunfish!, 개복치 공주를 살려라!",
   "status": "Berjalan",
   "author": "Kkulbeol",
@@ -20,23 +20,41 @@
   "synopsis": "Manhwa                    Save the Sunfish Princess! yang dibuat oleh komikus bernama\n                    Kkulbeol ini bercerita tentang\n                    Bambieta, Kanselir yang ditikam dan dibunuh oleh pedang Lusley - yang sangat raja ia dibesarkan ke takhta. Di ambang kematian, dia memasuki kontrak dengan monster misterius dan menyesal 10 tahun ke masa lalu.\n\nKontraknya hanya memiliki satu syarat: Tempat Nenya, seorang gadis biasa, di atas takhta Kekaisaran Karia.\nNamun, jika Nenya meninggal, Bambieta dipaksa untuk mundur ke masa lalu sekali lagi.\n\nAmbisi percaya dirinya adalah..",
   "chapters": [
     {
+      "chapter": "6",
+      "title": "Komik Save the Sunfish Princess! Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2F2ZS10aGUtc3VuZmlzaC1wcmluY2Vzcy1jaGFwdGVyLTYv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Save the Sunfish Princess! Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2F2ZS10aGUtc3VuZmlzaC1wcmluY2Vzcy1jaGFwdGVyLTUv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Save the Sunfish Princess! Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2F2ZS10aGUtc3VuZmlzaC1wcmluY2Vzcy1jaGFwdGVyLTQv",
+      "date": "11 jam yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Save the Sunfish Princess! Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2F2ZS10aGUtc3VuZmlzaC1wcmluY2Vzcy1jaGFwdGVyLTMv",
-      "date": "1 menit yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Save the Sunfish Princess! Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2F2ZS10aGUtc3VuZmlzaC1wcmluY2Vzcy1jaGFwdGVyLTIv",
-      "date": "1 menit yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Save the Sunfish Princess! Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2F2ZS10aGUtc3VuZmlzaC1wcmluY2Vzcy1jaGFwdGVyLTEv",
-      "date": "1 jam yang lalu"
+      "date": "20 jam yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 6
 }
