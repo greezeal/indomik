@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 8.72,
-  "scraped_at": "2026-11-10T03:32:45.265459",
+  "scraped_at": "2026-11-10T18:56:12.709702",
   "alternative_titles": "Quánqiú Guǐyì Shídài, 全球诡异时代, Age of Terror (Side Story), Global Weird Age, Kỷ Nguyên Kỳ Lạ, Quanqiu Guiyi Shidai, Worldwide Strange Era, ゴースト・エイジ～最強鬼霊を操る俺は世界を制する～, 최강 퇴마사 임태풍, Era of the Haunted, Age of Terror",
   "status": "Berjalan",
   "author": "Strange Mobs",
@@ -25,28 +25,40 @@
   "synopsis": "Manhua                    Age of Terror yang dibuat oleh komikus bernama\n                    Strange Mobs ini bercerita tentang\n                    Setelah seratus tahun aneh di mana hantu muncul, hanya satu-kesepuluh manusia tetap dan jumlah hantu melampaui jumlah manusia yang tersisa! Dalam rangka untuk bertahan hidup, manusia perlu memilih \"hantu pendamping\" dari lahir, dan terus-menerus menumbuhkan teman hantu mereka sendiri sehingga mereka dapat digunakan untuk melawan hantu lain. Dunia telah memasuki era aneh kebersamaan dengan hantu! Dengan bantuan sistem, hantu yang tak terkalahkan dibudidayakan oleh Lin Feng menyebabkan seluruh dunia gemetar",
   "chapters": [
     {
+      "chapter": "329",
+      "title": "Komik Age of Terror Chapter 329",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMyOS8=",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "328",
+      "title": "Komik Age of Terror Chapter 328",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMyOC8=",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "327",
       "title": "Komik Age of Terror Chapter 327",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMyNy8=",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "326",
       "title": "Komik Age of Terror Chapter 326",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMyNi8=",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "325",
       "title": "Komik Age of Terror Chapter 325",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMyNS8=",
-      "date": "23 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "324",
       "title": "Komik Age of Terror Chapter 324",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMyNC8=",
-      "date": "23 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "323",
@@ -82,19 +94,19 @@
       "chapter": "318",
       "title": "Komik Age of Terror Chapter 318",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMxOC8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "317",
       "title": "Komik Age of Terror Chapter 317",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMxNy8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "316",
       "title": "Komik Age of Terror Chapter 316",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTMxNi8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "315",
@@ -202,13 +214,13 @@
       "chapter": "298",
       "title": "Komik Age of Terror Chapter 298",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTI5OC8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "297",
       "title": "Komik Age of Terror Chapter 297",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWdlLW9mLXRlcnJvci1jaGFwdGVyLTI5Ny8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "296",
@@ -1999,5 +2011,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 329
+  "total_chapters": 331
 }

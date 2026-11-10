@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.91,
-  "scraped_at": "2026-11-02T09:24:11.114094",
+  "scraped_at": "2026-11-10T18:57:04.328578",
   "alternative_titles": "Coma héroïque dans un autre monde, Isekai Uncle, Ojisan in Another World, Uncle from Another World, 異世界おじさん, Переродження дядька, Chú Tôi Trở Về Từ Dị Giới, Mi tío es de otro mundo, O Tio de Outro Mundo, Paman dari Dunia Lain, ยอดคุณน้าจากต่างโลก (Phoenix Next), 异世界舅舅, 異世界叔叔, 이세계 삼촌, Isekai Ojisan",
   "status": "Berjalan",
   "author": "Hotondo Shindeiru",
@@ -26,16 +26,22 @@
   "synopsis": "Manga                    Isekai Ojisan yang dibuat oleh komikus bernama\n                    Hotondo Shindeiru ini bercerita tentang\n                    Setelah selamat dari sebuah isekai selama 17 tahun, berusia 34 tahun Ojisan (paman) kembali ke hari modern Jepang. Takafumi, keponakan Ojisan, sekarang bisa menyaksikan apa yang membuat penggemar berat kepala Sega menjadi sebuah isekai selama 17 tahun tidak untuk berbagai hal dan orang, baik masa lalu dan sekarang.",
   "chapters": [
     {
+      "chapter": "81",
+      "title": "Komik Isekai Ojisan Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW9qaXNhbi1jaGFwdGVyLTgxLw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "80.6",
       "title": "Komik Isekai Ojisan Chapter 80.6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW9qaXNhbi1jaGFwdGVyLTgwLTYv",
-      "date": "15 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "80.5",
       "title": "Komik Isekai Ojisan Chapter 80.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW9qaXNhbi1jaGFwdGVyLTgwLTUv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "80",
@@ -119,7 +125,7 @@
       "chapter": "72",
       "title": "Komik Isekai Ojisan Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW9qaXNhbi1jaGFwdGVyLTcyLw==",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "71",
@@ -173,7 +179,7 @@
       "chapter": "67",
       "title": "Komik Isekai Ojisan Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLW9qaXNhbi1jaGFwdGVyLTY3Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "66.8",
@@ -722,5 +728,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 116
+  "total_chapters": 117
 }

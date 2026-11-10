@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 9.07,
-  "scraped_at": "2026-11-10T03:33:14.374525",
+  "scraped_at": "2026-11-10T19:00:32.703857",
   "alternative_titles": "Neo man Boindan Mariya, I Can Only See You, I'm Telling You, I Only See You, 너만 보인단 말이야, All I Can See Is You, Only Eyes For You, Riêng Mình Em, ぼくの目には、君だけ。, I Only See You, You’re the Only One I Can See",
   "status": "Berjalan",
   "author": "ChaeGun",
@@ -23,10 +23,16 @@
   "synopsis": "Manhwa                    You’re the Only One I Can See yang dibuat oleh komikus bernama\n                    ChaeGun ini bercerita tentang\n                    Mengikuti saran dari teman imajiner nya Jason, yang mengatakan kepadanya, \"Perlakukan semua gadis seperti batu,\" Park Jin-yong mulai melihat setiap gadis sebagai batu. Tapi kemudian Sunwoo, seorang mahasiswa perempuan yang tidak terlihat seperti batu, muncul di depannya, dan untuk pertama kalinya dalam lima tahun, melihat wajah seorang gadis mengirimkan sirkuit kecil Jin-yong bahagia ke overdrive...",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik You’re the Only One I Can See Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTM3Lw==",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik You’re the Only One I Can See Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gveW91cmUtdGhlLW9ubHktb25lLWktY2FuLXNlZS1jaGFwdGVyLTM2Lw==",
-      "date": "1 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "35",
@@ -239,5 +245,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-05T03:28:37.321570",
+  "scraped_at": "2026-11-10T18:59:45.718787",
   "alternative_titles": "오답 없는 방정식",
   "status": "Berjalan",
   "author": "Gomjigong",
@@ -19,28 +19,34 @@
   "synopsis": "Manhwa                    Equation Without Error yang dibuat oleh komikus bernama\n                    Gomjigong ini bercerita tentang\n                    Kang Je-yi, yang dijuluki \"penggila belajar,\" selalu menjalani hidupnya dengan rencana dan rutinitas. Namun, kehidupan sehari-hari Jay yang sempurna mulai goyah sedikit demi sedikit karena Hai-sol, siswa pindahan yang duduk di sebelahnya. Taruhan mereka tentang nilai dimulai dengan kesan pertama yang terburuk. Kedua remaja yang sangat berbeda ini saling memahami dan secara bertahap mengubah dunia masing-masing. Sebuah kisah romantis remaja yang ditulis bersama oleh seorang siswa teladan yang hanya percaya pada jawaban yang benar dan seorang siswa pindahan yang berjiwa bebas.",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Equation Without Error Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTE0Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Equation Without Error Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTEzLw==",
-      "date": "9 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Equation Without Error Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTEyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Equation Without Error Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTExLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Equation Without Error Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTEwLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "9",
@@ -76,26 +82,26 @@
       "chapter": "4",
       "title": "Komik Equation Without Error Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTQv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Equation Without Error Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTMv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Equation Without Error Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Equation Without Error Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZXF1YXRpb24td2l0aG91dC1lcnJvci1jaGFwdGVyLTEv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }
