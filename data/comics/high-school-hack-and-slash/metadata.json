@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-09T02:43:25.767472",
+  "scraped_at": "2026-11-11T14:09:04.810329",
   "alternative_titles": "ハイスクールハックアンドスラッシュ, [High!] School Hack & Slash, High School Hack and Slash",
   "status": "Berjalan",
   "author": "Ryuutei Kenji",
@@ -22,10 +22,16 @@
   "synopsis": "Manga                    High School Hack and Slash yang dibuat oleh komikus bernama\n                    Ryuutei Kenji ini bercerita tentang\n                    Touma Funasaka menawarkan rekomendasi yang tidak biasa untuk sekolah berikutnya oleh guru wali kelasnya. Sekolah yang bersangkutan adalah Akademi Toyshihara - lembaga berasrama nasional yang menerima hanya siswa melalui rekomendasi, tanpa penerimaan umum. Ini juga kebetulan guru nya almamater.\n\nUang kuliah rendah dan penuh-boarding sistem tampak seperti kesempatan yang sempurna, jadi Touma memutuskan untuk mendaftar. Tapi apa yang menunggunya adalah akademi yang menantang akal sehat - tempat dibangun di atas sebuah penjara bawah tanah yang luas, diperintah oleh seks dan kekerasan.\n\nMeskipun bingung pada awalnya, Toma cepat beradaptasi dengan kehidupan akademi dekaden. Sementara memanjakan dalam muda korup dan hedonistik, ia juga bergabung rekan untuk membentuk partai dan menantang kedalaman penjara bawah tanah!",
   "chapters": [
     {
+      "chapter": "8.1",
+      "title": "Komik High School Hack and Slash Chapter 8.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1zY2hvb2wtaGFjay1hbmQtc2xhc2gtY2hhcHRlci04LTEv",
+      "date": "4 jam yang lalu"
+    },
+    {
       "chapter": "7.2",
       "title": "Komik High School Hack and Slash Chapter 7.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGlnaC1zY2hvb2wtaGFjay1hbmQtc2xhc2gtY2hhcHRlci03LTIv",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "7.1",
@@ -100,5 +106,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }

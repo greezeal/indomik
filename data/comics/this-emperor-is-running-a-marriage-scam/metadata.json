@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-29T01:44:50.119395",
-  "alternative_titles": "이 황제는 결혼 사기를 칩니다, This Emperor Runs a Marriage Scam, The Emperor's Marriage Fraud, The Emperor's Marriage Scam, Этот император совершает фиктивный брак, Hoàng đế lừa đảo hôn nhân",
+  "scraped_at": "2026-11-11T14:05:52.803774",
+  "alternative_titles": "이 황제는 결혼 사기를 칩니다, This Emperor Runs a Marriage Scam, The Emperor\\'s Marriage Fraud, The Emperor\\'s Marriage Scam, Этот император совершает фиктивный брак, Hoàng đế lừa đảo hôn nhân",
   "status": "Berjalan",
   "author": "The4Devas",
   "illustrator": "Super Comics Studio",
@@ -23,34 +23,46 @@
   "synopsis": "Manhwa                    This Emperor Is Running a Marriage Scam yang dibuat oleh komikus bernama\n                    The4Devas ini bercerita tentang\n                    Setelah beradaptasi dengan dunia novel, dengan kemampuan bertahan hidupku yang luar biasa, seorang anak kecil yang aneh tiba-tiba muncul dalam hidupku. Meskipun aku hampir tidak bisa memenuhi kebutuhan hidup, aku tidak bisa mengabaikan matanya yang imut, jadi aku merawatnya dengan penuh kasih sayang.“Aku akan menikahimu, noona. Tolong tanda tangani akta nikah.”“Nanti saja~ Jika kamu masih merasakan hal yang sama saat dewasa nanti, maka aku akan menuliskan namamu.”Anak di bawah umur bahkan tidak bisa mendaftar, jadi aku hanya menandatanganinya dengan main-main… tapi pernikahan itu benar-benar terdaftar?!Dan yang lebih parah lagi… anak kecil yang kubesarkan ternyata adalah kaisar?!Aku akhirnya menikah dengannya setelah tertipu oleh tokoh utama pria yang licik yang menyamar!",
   "chapters": [
     {
+      "chapter": "49",
+      "title": "Komik This Emperor Is Running a Marriage Scam Chapter 49",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDkv",
+      "date": "27 menit yang lalu"
+    },
+    {
+      "chapter": "48",
+      "title": "Komik This Emperor Is Running a Marriage Scam Chapter 48",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDgv",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "47",
       "title": "Komik This Emperor Is Running a Marriage Scam Chapter 47",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDcv",
-      "date": "19 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "46",
       "title": "Komik This Emperor Is Running a Marriage Scam Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDYv",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik This Emperor Is Running a Marriage Scam Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDUv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik This Emperor Is Running a Marriage Scam Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDQv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik This Emperor Is Running a Marriage Scam Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDMv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -62,7 +74,7 @@
       "chapter": "41",
       "title": "Komik This Emperor Is Running a Marriage Scam Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhpcy1lbXBlcm9yLWlzLXJ1bm5pbmctYS1tYXJyaWFnZS1zY2FtLWNoYXB0ZXItNDEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "40",
@@ -305,5 +317,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 47
+  "total_chapters": 49
 }
