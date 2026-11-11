@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-10-28T11:45:12.479759",
+  "scraped_at": "2026-11-11T05:59:52.698722",
   "alternative_titles": "Le Retour du Roi des Morts, Return: Reborn as the Strongest Undead King, The Return of the King of Death, 伝説のネクロマンサーは名家の落ちこぼれとして回帰する, 重生亡灵法师",
   "status": "Berjalan",
   "author": "Tetrodotoxin (II)",
@@ -19,52 +19,64 @@
   "synopsis": "Manhua                    Rebirth: Monarch of the Dead yang dibuat oleh komikus bernama\n                    Tetrodotoxin (II) ini bercerita tentang\n                    Setelah dipindahkan ke dunia lain dan menjadi ahli sihir necromancy terkuat, Rhode tanpa diduga mendapati dirinya kembali ke masa mudanya. Di dunia asalnya, ia adalah tuan muda keluarga Morris yang tidak berguna—seorang bangsawan manja di mata semua orang. Tak seorang pun tahu bahwa ia telah membawa kembali sihir necromancy unik yang dikuasainya di dunia lain. Saat Rhode berupaya mendapatkan kembali kekuatan penuh yang pernah dimilikinya sebagai ahli sihir necromancy, ia menyembunyikan kekuatan sebenarnya dan mulai membalikkan keadaan terhadap mereka yang meremehkannya. Keluarga, orang-orang terkasih, dan teman-temannya... Diberi kesempatan kedua dalam hidup, kali ini ia akan melindungi semua yang penting baginya dan sepenuhnya mengubah takdir dirinya sendiri dan orang-orang yang disayanginya!",
   "chapters": [
     {
+      "chapter": "42",
+      "title": "Komik Rebirth: Monarch of the Dead Chapter 42",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItNDIv",
+      "date": "11 menit yang lalu"
+    },
+    {
+      "chapter": "41",
+      "title": "Komik Rebirth: Monarch of the Dead Chapter 41",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItNDEv",
+      "date": "7 hari yang lalu"
+    },
+    {
       "chapter": "40",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItNDAv",
-      "date": "1 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItMzkv",
-      "date": "6 hari yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItMzgv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItMzcv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItMzYv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItMzUv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItMzQv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Rebirth: Monarch of the Dead Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmViaXJ0aC1tb25hcmNoLW9mLXRoZS1kZWFkLWNoYXB0ZXItMzMv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "32",
@@ -259,5 +271,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 42
 }

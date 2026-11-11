@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-04T17:42:20.622527",
+  "scraped_at": "2026-11-11T06:00:32.530733",
   "alternative_titles": "The Baby Raising a Devil, เมื่อยัยหนูตัวร้าย เลี้ยงดูคุณพ่อจอมโหด, 今度のパパは大悪党, 아기는 악당을 키운다",
   "status": "Berjalan",
   "author": "Lysha",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    The Baby Raises a Villain yang dibuat oleh komikus bernama\n                    Lysha ini bercerita tentang\n                    Setelah tiga kali menjalani regresi sebagai pengorbanan untuk \"anak takdir sejati,\" LeBlain memutuskan bahwa kehidupan keempatnya akan berbeda: ia akan melarikan diri.\r\n\r\nUntuk membiayai pengasingannya, ia memilih adopsi—hanya untuk diasuh oleh keluarga penjahat terkenal. Apa yang dimulai sebagai rencana bertahan hidup yang putus asa perlahan berubah menjadi sesuatu yang jauh lebih tak terduga: seorang anak yang menaklukkan para penjahat dengan kebaikan, tekad, dan hati yang tak tergoyahkan.\r\n\r\nSebuah fantasi romantis penyembuhan tentang pertumbuhan, penebusan, dan menemukan cinta di tempat yang paling tak terduga.",
   "chapters": [
     {
+      "chapter": "61",
+      "title": "Komik The Baby Raises a Villain Chapter 61",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTYxLw==",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "60",
       "title": "Komik The Baby Raises a Villain Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTYwLw==",
-      "date": "5 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik The Baby Raises a Villain Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTU5Lw==",
-      "date": "5 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik The Baby Raises a Villain Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTU4Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik The Baby Raises a Villain Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTU3Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "56",
       "title": "Komik The Baby Raises a Villain Chapter 56",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTU2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "55",
@@ -83,7 +89,7 @@
       "chapter": "50",
       "title": "Komik The Baby Raises a Villain Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTUwLw==",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "49",
@@ -107,7 +113,7 @@
       "chapter": "46",
       "title": "Komik The Baby Raises a Villain Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWJhYnktcmFpc2VzLWEtdmlsbGFpbi1jaGFwdGVyLTQ2Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "45",
@@ -380,5 +386,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 60
+  "total_chapters": 61
 }
