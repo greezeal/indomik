@@ -2,89 +2,91 @@
   "slug": "kono-oto-tomare",
   "title": "Kono Oto Tomare!",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsva29uby1vdG8tdG9tYXJlLw==",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTIvS29taWstS29uby1PdG8tVG9tYXJlLTIwM3gzMTkuanBn",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzMwOTk0LzcyZjE5NGZmLWQxZjMtNGE3NS1iZWY4LWNhMjlmZWZhNTU0Ni9rb21pay1rb25vLW90by10b21hcmUtMjAzeDMxOS5qcGc=",
   "type": "Manga",
   "is_colored": false,
-  "rating": 9.37,
-  "scraped_at": "2026-09-13T05:34:49.192825",
-  "alternative_titles": "Arrête-toi au son !, Bu Ses Durdursun!, Sounds of Life, Stop at This Sound!, Stop by This Sound!, Задержите этот звук!, この音とまれ！, 一弦定音!",
+  "rating": 9.59,
+  "scraped_at": "2026-11-11T21:26:35.577574",
+  "alternative_titles": "Arrête-toi au son !, Bu Ses Durdursun!, Stop at This Sound!, Задержите этот звук!, この音とまれ！, 一弦定音!, Kono Oto Tomare! Sounds of Life, यो ध्वनि रोक!, Sounds of Life, Stop This Sound!, ฝากฝันไว้ที่เสียงโคโตะ! (Thai), Kono Oto Tomare!",
   "status": "Berjalan",
   "author": "Sakura Amyuu",
   "illustrator": "Sakura Amyuu",
   "demographic": "Shounen",
   "themes": [
-    "Delinquents",
     "Music",
     "School Life"
   ],
   "genres": [
-    "Comedy",
     "Drama",
-    "Romance",
-    "Slice of Life",
-    "Sports"
+    "Slice of Life"
   ],
-  "synopsis": "Manga                    Kono Oto Tomare! yang dibuat oleh komikus bernama\n                    Sakura Amyuu ini bercerita tentang\n                    Sejak kelulusan anggota senior klub, Takezou akhirnya menjadi satu-satunya anggota klub \"Koto\" (instrumen senar tradisional Jepang). Sekarang tahun ajaran baru telah dimulai, Takezou harus mencari anggota baru untuk klub, atau klub akan dibubarkan. Entah dari mana, seorang anggota baru menerobos masuk ke ruang klub yang hampir terbengkalai, menuntut untuk bergabung dengan klub. Bagaimana Takezou bisa menjaga klubnya tetap hidup dan menangani bajingan anggota baru ini?",
+  "synopsis": "Manga                    Kono Oto Tomare! yang dibuat oleh komikus bernama\n                    Sakura Amyuu ini bercerita tentang\n                    Sejak lulus dari anggota senior klub, Takezou berakhir menjadi satu-satunya anggota \"Koto\" (tradisional instrumen string Jepang) klub. Sekarang tahun baru sekolah telah dimulai, Takezou harus mencari anggota baru untuk klub, atau klub akan dihentikan. Entah dari mana, anggota baru menerobos ke dekat - ditinggalkan ruang klub, menuntut untuk bergabung dengan klub. Bagaimana Takezou akan mampu menjaga klub hidup dan berurusan dengan bajingan ini dari anggota baru?",
   "chapters": [
+    {
+      "chapter": "157",
+      "title": "Komik Kono Oto Tomare! Chapter 157",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTU3Lw==",
+      "date": "6 menit yang lalu"
+    },
     {
       "chapter": "156",
       "title": "Komik Kono Oto Tomare! Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTU2Lw==",
-      "date": "46 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "155",
       "title": "Komik Kono Oto Tomare! Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTU1Lw==",
-      "date": "5 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "154",
       "title": "Komik Kono Oto Tomare! Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTU0Lw==",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "153",
       "title": "Komik Kono Oto Tomare! Chapter 153",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTUzLw==",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "152",
       "title": "Komik Kono Oto Tomare! Chapter 152",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTUyLw==",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "151",
       "title": "Komik Kono Oto Tomare! Chapter 151",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTUxLw==",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "150",
       "title": "Komik Kono Oto Tomare! Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTUwLw==",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "149",
       "title": "Komik Kono Oto Tomare! Chapter 149",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTQ5Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "148",
       "title": "Komik Kono Oto Tomare! Chapter 148",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTQ4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "147",
       "title": "Komik Kono Oto Tomare! Chapter 147",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTQ3Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "146",
@@ -108,13 +110,13 @@
       "chapter": "143",
       "title": "Komik Kono Oto Tomare! Chapter 143",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTQzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "142",
       "title": "Komik Kono Oto Tomare! Chapter 142",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTQyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "141",
@@ -228,7 +230,7 @@
       "chapter": "123",
       "title": "Komik Kono Oto Tomare! Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItMTIzLw==",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "122",
@@ -570,73 +572,73 @@
       "chapter": "68",
       "title": "Komik Kono Oto Tomare! Chapter 68",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjgv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "67",
       "title": "Komik Kono Oto Tomare! Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjcv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "66",
       "title": "Komik Kono Oto Tomare! Chapter 66",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjYv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "65",
       "title": "Komik Kono Oto Tomare! Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjUv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "64",
       "title": "Komik Kono Oto Tomare! Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjQv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "63",
       "title": "Komik Kono Oto Tomare! Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjMv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Kono Oto Tomare! Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjIv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "61",
       "title": "Komik Kono Oto Tomare! Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjEv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik Kono Oto Tomare! Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNjAv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "59",
       "title": "Komik Kono Oto Tomare! Chapter 59",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNTkv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "58",
       "title": "Komik Kono Oto Tomare! Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNTgv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "57",
       "title": "Komik Kono Oto Tomare! Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29uby1vdG8tdG9tYXJlLWNoYXB0ZXItNTcv",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "56",
@@ -975,5 +977,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 158
+  "total_chapters": 159
 }
