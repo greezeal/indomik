@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-06T06:39:39.245745",
+  "scraped_at": "2026-11-12T18:26:58.259639",
   "alternative_titles": "The Baby Villain Who Foretells the Future, 악당 아기님이 예언을 함",
   "status": "Berjalan",
   "author": "Ja Eun-Hyang",
@@ -19,16 +19,22 @@
   "synopsis": "Manhwa                    The Oracle of the Villainous Baby yang dibuat oleh komikus bernama\n                    Ja Eun-Hyang ini bercerita tentang\n                    Bunny adalah seorang yatim piatu berusia empat tahun yang mengira dirinya telah mendapatkan keberuntungan besar ketika diterima di keluarga bangsawan. Namun, alih-alih kehidupan bak dongeng, ia mendapati dirinya berada di tempat di mana bertahan hidup bukanlah hal yang mudah. ​​Untungnya, Bunny memiliki \"buku catatan rahasia jenius\" misterius yang memberinya nasihat penyelamat hidup, membantunya mendapatkan sekutu yang kuat, dan bahkan mengungkapkan peristiwa masa depan yang mengejutkan. Dengan pesona, kecerdasan, dan bimbingannya yang luar biasa, Bunny perlahan-lahan merebut hati keluarga bangsawan tersebut. Namun di balik wajahnya yang menggemaskan, tersembunyi rahasia yang jauh lebih besar, rahasia yang terkait dengan takdir gelap yang mungkin belum sepenuhnya ia pahami. Seiring bertambahnya usia, Bunny harus mengandalkan buku catatannya dan kecerdasannya sendiri untuk mengubah takdirnya dan menjadi pribadi luar biasa seperti yang seharusnya.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik The Oracle of the Villainous Baby Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yYWNsZS1vZi10aGUtdmlsbGFpbm91cy1iYWJ5LWNoYXB0ZXItMzcv",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik The Oracle of the Villainous Baby Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yYWNsZS1vZi10aGUtdmlsbGFpbm91cy1iYWJ5LWNoYXB0ZXItMzYv",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik The Oracle of the Villainous Baby Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yYWNsZS1vZi10aGUtdmlsbGFpbm91cy1iYWJ5LWNoYXB0ZXItMzUv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "34",
@@ -82,7 +88,7 @@
       "chapter": "26",
       "title": "Komik The Oracle of the Villainous Baby Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLW9yYWNsZS1vZi10aGUtdmlsbGFpbm91cy1iYWJ5LWNoYXB0ZXItMjYv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "25",
@@ -235,5 +241,5 @@
       "date": "6 bulan yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }
