@@ -1,0 +1,67 @@
+{
+  "slug": "noise-ring",
+  "title": "Noise Ring",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvbm9pc2UtcmluZy8=",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTEvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ2Mzk1MS9iYmQyNzNkMy1mMWI4LTQ5MmUtOTVjZi02MjZlODhjZDQ2MDAva29taWstbm9pc2UtcmluZy0yMjR4MzE5LmpwZw==",
+  "type": "Manga",
+  "is_colored": false,
+  "rating": 6.01,
+  "scraped_at": "2026-11-12T10:16:35.506224",
+  "alternative_titles": "Noisering, ノイズリング",
+  "status": "Berjalan",
+  "author": "Tsubasa (翼)",
+  "illustrator": "AKI Kanya",
+  "demographic": "Shounen",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "synopsis": "Manga                    Noise Ring yang dibuat oleh komikus bernama\n                    Tsubasa (翼) ini bercerita tentang\n                    \"Mereka\" adalah nyata... Satu bulan telah berlalu sejak gempa bumi Besar Shizuoka. Organisasi Penelitian Marinir JANSTEC telah melakukan pengamatan kesalahan kapal selam untuk mengungkap penyebab gempa besar. Yadorigi, seorang pemuda buta bekerja sebagai sonarman, membantu dalam navigasi laut submersible berawak ketika mereka membuat penemuan...",
+  "chapters": [
+    {
+      "chapter": "7",
+      "title": "Komik Noise Ring Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9pc2UtcmluZy1jaGFwdGVyLTcv",
+      "date": "29 menit yang lalu"
+    },
+    {
+      "chapter": "6",
+      "title": "Komik Noise Ring Chapter 6",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9pc2UtcmluZy1jaGFwdGVyLTYv",
+      "date": "29 menit yang lalu"
+    },
+    {
+      "chapter": "5",
+      "title": "Komik Noise Ring Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9pc2UtcmluZy1jaGFwdGVyLTUv",
+      "date": "30 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Noise Ring Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9pc2UtcmluZy1jaGFwdGVyLTQv",
+      "date": "30 menit yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Noise Ring Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9pc2UtcmluZy1jaGFwdGVyLTMv",
+      "date": "31 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Noise Ring Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9pc2UtcmluZy1jaGFwdGVyLTIv",
+      "date": "31 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Noise Ring Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm9pc2UtcmluZy1jaGFwdGVyLTEv",
+      "date": "32 menit yang lalu"
+    }
+  ],
+  "total_chapters": 7
+}

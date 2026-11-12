@@ -6,8 +6,8 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-05T03:28:32.020489",
-  "alternative_titles": "Everyone: Summoner of the Undead, I Alone Am a Natural Disaster, Global Job Change: As a Necromancer, I Alone Am a Natural Disaster, Toàn Dân Triệu Hồi Sư Vong Linh, Một Mình Ta Chính Là Thiên Tai, Toàn Dân: Triệu Hoán Sư Vong Linh, Một Mình Ta Là Thiên T",
+  "scraped_at": "2026-11-12T10:16:11.613728",
+  "alternative_titles": "Everyone: Summoner of the Undead, I Alone Am a Natural Disaster, Global Job Change: As a Necromancer, I Alone Am a Natural Disaster, Toàn Dân Triệu Hồi Sư Vong Linh, Một Mình Ta Chính Là Thiên Tai, Toàn Dân: Triệu Hoán Sư Vong Linh, Một Mình Ta Là Thiên Tai, 全民：亡灵召唤师，我一人即天灾",
   "status": "Berjalan",
   "author": "GRA工作组",
   "illustrator": "GRA工作组",
@@ -20,34 +20,40 @@
   "synopsis": "Manhua                    Global Awakening: I’m a Necromancer, and I Alone Am a Disaster yang dibuat oleh komikus bernama\n                    GRA工作组 ini bercerita tentang\n                    Di era ketika setiap orang membangkitkan kelas unik, Wei Xiaosu membangkitkan kelas tersembunyi: Necromancer. Bersamaan dengan itu, ia memperoleh keterampilan bakat peringkat SSS bernama \"Immortality\" (Keabadian) serta senjata yang terikat pada jiwanya—sebuah sekop bernama \"The Mourning of the Deceased\" (Ratapan Sang Mendiang). Berbekal kemampuan yang mengerikan ini, Wei Xiaosu dengan cepat menjadi sosok legendaris; namanya saja sudah menebar ketakutan luar biasa di hati tak terhitung banyaknya monster kuat di seluruh dunia.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Global Awakening: I’m a Necromancer, and I Alone Am a Disaster Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWF3YWtlbmluZy1pbS1hLW5lY3JvbWFuY2VyLWFuZC1pLWFsb25lLWFtLWEtZGlzYXN0ZXItY2hhcHRlci0xMC8=",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Global Awakening: I’m a Necromancer, and I Alone Am a Disaster Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWF3YWtlbmluZy1pbS1hLW5lY3JvbWFuY2VyLWFuZC1pLWFsb25lLWFtLWEtZGlzYXN0ZXItY2hhcHRlci05Lw==",
-      "date": "8 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Global Awakening: I’m a Necromancer, and I Alone Am a Disaster Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWF3YWtlbmluZy1pbS1hLW5lY3JvbWFuY2VyLWFuZC1pLWFsb25lLWFtLWEtZGlzYXN0ZXItY2hhcHRlci04Lw==",
-      "date": "5 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Global Awakening: I’m a Necromancer, and I Alone Am a Disaster Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWF3YWtlbmluZy1pbS1hLW5lY3JvbWFuY2VyLWFuZC1pLWFsb25lLWFtLWEtZGlzYXN0ZXItY2hhcHRlci03Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Global Awakening: I’m a Necromancer, and I Alone Am a Disaster Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWF3YWtlbmluZy1pbS1hLW5lY3JvbWFuY2VyLWFuZC1pLWFsb25lLWFtLWEtZGlzYXN0ZXItY2hhcHRlci02Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Global Awakening: I’m a Necromancer, and I Alone Am a Disaster Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWF3YWtlbmluZy1pbS1hLW5lY3JvbWFuY2VyLWFuZC1pLWFsb25lLWFtLWEtZGlzYXN0ZXItY2hhcHRlci01Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
@@ -80,5 +86,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 10
+  "total_chapters": 11
 }

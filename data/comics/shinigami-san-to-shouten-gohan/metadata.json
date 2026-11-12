@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.63,
-  "scraped_at": "2026-10-30T11:41:30.717121",
+  "scraped_at": "2026-11-12T10:15:10.339722",
   "alternative_titles": "死神さんと昇天ごはん, Miss Reaper and Heavenly Meals",
   "status": "Berjalan",
   "author": "Sugano Manami",
@@ -24,17 +24,23 @@
   "synopsis": "Manga                    Shinigami san to Shouten Gohan yang dibuat oleh komikus bernama\n                    Sugano Manami ini bercerita tentang\n                    Sora, seorang gadis yang tidak pernah baik dengan orang-orang dan hanya melayang melalui hari-harinya, suatu hari datang di seorang gadis bernama Nadestako runtuh di pinggir jalan. Dan ternyata dia tidak cukup manusia - jiwanya tergelincir langsung dari tubuhnya pada hal sedikit pun...\nSebuah komedi gourmet tentang hidup di bawah satu atap, dari Susano Manami, pencipta Himalaya-san!",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Shinigami san to Shouten Gohan Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpbmlnYW1pLXNhbi10by1zaG91dGVuLWdvaGFuLWNoYXB0ZXItMy8=",
+      "date": "13 menit yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Shinigami san to Shouten Gohan Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpbmlnYW1pLXNhbi10by1zaG91dGVuLWdvaGFuLWNoYXB0ZXItMi8=",
-      "date": "12 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Shinigami san to Shouten Gohan Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpbmlnYW1pLXNhbi10by1zaG91dGVuLWdvaGFuLWNoYXB0ZXItMS8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }
