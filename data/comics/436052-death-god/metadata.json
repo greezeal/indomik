@@ -2,14 +2,14 @@
   "slug": "436052-death-god",
   "title": "Death God",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvNDM2MDUyLWRlYXRoLWdvZC8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjIvMDkvS29taWstU2hhc2hpbi0yMjN4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzIwNDEyNy9kMGRhYzhkZC1kYTgzLTQ2ZTMtODkyZC05ZDFkMGQyMDYyYTkva29taWstZGVhdGgtZ29kLTIyM3gzMTkuanBn",
   "type": "Manhwa",
   "is_colored": true,
-  "rating": 7.08,
-  "scraped_at": "2026-09-08T23:26:05.960353",
-  "alternative_titles": "Shashin, 사신, 死神",
+  "rating": 8.63,
+  "scraped_at": "2026-11-13T03:52:15.836921",
+  "alternative_titles": "Shashin, 사신, 死神, Reaper, Segador, 夺命刺客, 死神 (Lim Jae Won), Death God",
   "status": "Berjalan",
-  "author": "Lim Jae-Won, Seol Bong",
+  "author": "Seol Bong, Lim Jae-Won",
   "illustrator": "Lim Jae-Won",
   "demographic": "Seinen",
   "themes": [
@@ -20,295 +20,373 @@
     "Drama",
     "Historical"
   ],
-  "synopsis": "Manhwa                    Death God yang dibuat oleh komikus bernama\n                    Lim Jae-Won, Seol Bong ini bercerita tentang\n                    Anak laki-laki Zhong Li Chu, yang membunuh Musa Huangjung dari Sal Tianmen untuk balas dendam saudaranya. Untuk menghindari dikejar oleh Gerbang Astronomi Sal, dia tersapu oleh pusaran besar yang disebut Sepuluh Mang saat dia mempercayakan dirinya kepada musuh penyiram Salhonbu. Untuk melarikan diri dari bayang-bayang Sepuluh Jaringan, Anda harus menjadi komandan klerikal, ranah legenda! Bisakah Zhong Li Chu menjadi perwira klerikal dan menemukan kebebasan dalam disiplin menakjubkan yang telah diciptakan Jungfa Murim?",
+  "synopsis": "Manhwa                    Death God yang dibuat oleh komikus bernama\n                    Seol Bong, Lim Jae-Won ini bercerita tentang\n                    Jongli Chu, prajurit dari sekte Kematian Surgawi yang membunuh Hwang Jung untuk membalaskan dendam kakaknya. Dalam rangka untuk menghindari mengejar Sekte Kematian Surgawi, ia mencari pembunuh dari Death Soul Agency, Crimson Assassin, untuk bantuan dan tersapu ke kekacauan besar dikenal sebagai Obliteration. Dalam rangka untuk melarikan diri dari bayang-bayang Kelahiran, ia tidak punya pilihan selain menjadi Dewa Kematian legendaris! Dapatkah Jong Lichu menjadi Dewa Kematian dan menemukan kebebasan dalam aturan yang di buat oleh sekte ortodoks?",
   "chapters": [
+    {
+      "chapter": "152",
+      "title": "Komik Death God Chapter 152",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTUyLw==",
+      "date": "8 menit yang lalu"
+    },
+    {
+      "chapter": "151",
+      "title": "Komik Death God Chapter 151",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTUxLw==",
+      "date": "9 menit yang lalu"
+    },
+    {
+      "chapter": "150",
+      "title": "Komik Death God Chapter 150",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTUwLw==",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "149",
+      "title": "Komik Death God Chapter 149",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQ5Lw==",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "148",
+      "title": "Komik Death God Chapter 148",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQ4Lw==",
+      "date": "24 menit yang lalu"
+    },
+    {
+      "chapter": "147",
+      "title": "Komik Death God Chapter 147",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQ3Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "146",
+      "title": "Komik Death God Chapter 146",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQ2Lw==",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "145",
+      "title": "Komik Death God Chapter 145",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQ1Lw==",
+      "date": "26 menit yang lalu"
+    },
+    {
+      "chapter": "144",
+      "title": "Komik Death God Chapter 144",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQ0Lw==",
+      "date": "26 menit yang lalu"
+    },
+    {
+      "chapter": "143",
+      "title": "Komik Death God Chapter 143",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQzLw==",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "142",
+      "title": "Komik Death God Chapter 142",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQyLw==",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "141",
+      "title": "Komik Death God Chapter 141",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQxLw==",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "140",
+      "title": "Komik Death God Chapter 140",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTQwLw==",
+      "date": "2 bulan yang lalu"
+    },
     {
       "chapter": "139",
       "title": "Komik Death God Chapter 139",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTM5Lw==",
-      "date": "19 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "138",
       "title": "Komik Death God Chapter 138",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTM4Lw==",
-      "date": "19 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "137",
       "title": "Komik Death God Chapter 137",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTM3Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "136",
       "title": "Komik Death God Chapter 136",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTM2Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "135",
       "title": "Komik Death God Chapter 135",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTM1Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "134",
       "title": "Komik Death God Chapter 134",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTM0Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "133",
       "title": "Komik Death God Chapter 133",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTMzLw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "132",
       "title": "Komik Death God Chapter 132",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTMyLw==",
-      "date": "3 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "130",
       "title": "Komik Death God Chapter 130",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTMwLw==",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "129",
       "title": "Komik Death God Chapter 129",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI5Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "128",
       "title": "Komik Death God Chapter 128",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI4Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "127",
       "title": "Komik Death God Chapter 127",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI3Lw==",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "126",
       "title": "Komik Death God Chapter 126",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "125",
       "title": "Komik Death God Chapter 125",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "124",
       "title": "Komik Death God Chapter 124",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTI0Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "123",
       "title": "Komik Death God Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTIzLw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "122",
       "title": "Komik Death God Chapter 122",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTIyLw==",
-      "date": "8 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "121",
       "title": "Komik Death God Chapter 121",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTIxLw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "120",
       "title": "Komik Death God Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTIwLw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "119",
       "title": "Komik Death God Chapter 119",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTE5Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "118",
       "title": "Komik Death God Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTE4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Death God Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTE3Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik Death God Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTE2Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "115",
       "title": "Komik Death God Chapter 115",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTE1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "114",
       "title": "Komik Death God Chapter 114",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTE0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "113",
       "title": "Komik Death God Chapter 113",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTEzLw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "112",
       "title": "Komik Death God Chapter 112",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTEyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "111",
       "title": "Komik Death God Chapter 111",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTExLw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "110",
       "title": "Komik Death God Chapter 110",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTEwLw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "109",
       "title": "Komik Death God Chapter 109",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA5Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "108",
       "title": "Komik Death God Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA4Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik Death God Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA3Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik Death God Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA2Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "105",
       "title": "Komik Death God Chapter 105",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA1Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "104",
       "title": "Komik Death God Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTA0Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik Death God Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTAzLw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik Death God Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTAyLw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "101",
       "title": "Komik Death God Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTAxLw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "100",
       "title": "Komik Death God Chapter 100",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMTAwLw==",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "99",
       "title": "Komik Death God Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTkv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "98",
       "title": "Komik Death God Chapter 98",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTgv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "97",
       "title": "Komik Death God Chapter 97",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTcv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "96",
       "title": "Komik Death God Chapter 96",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTYv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "95",
       "title": "Komik Death God Chapter 95",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTUv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "94",
       "title": "Komik Death God Chapter 94",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTQv",
-      "date": "10 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "93",
       "title": "Komik Death God Chapter 93",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTMv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "92",
       "title": "Komik Death God Chapter 92",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTIv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "91",
       "title": "Komik Death God Chapter 91",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItOTEv",
-      "date": "11 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "90",
@@ -632,37 +710,37 @@
       "chapter": "37",
       "title": "Komik Death God Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMzcv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Death God Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMzYv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Death God Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMzUv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Death God Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMzQv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Death God Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMzMv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Death God Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGVhdGgtZ29kLWNoYXB0ZXItMzIv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "31",
@@ -851,5 +929,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 138
+  "total_chapters": 151
 }
