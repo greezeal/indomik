@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T11:52:40.603076",
-  "total_comics": 2580,
+  "last_updated": "2026-11-13T18:55:09.461512",
+  "total_comics": 2581,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -152,7 +152,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.18,
-      "total_chapters": 118
+      "total_chapters": 119
     },
     {
       "slug": "idle-player-returns-as-a-god",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 943
+      "total_chapters": 944
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -2384,7 +2384,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.0,
-      "total_chapters": 580
+      "total_chapters": 581
     },
     {
       "slug": "859904-festival-of-warriors",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.6,
-      "total_chapters": 103
+      "total_chapters": 105
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -4368,7 +4368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.35,
-      "total_chapters": 131
+      "total_chapters": 133
     },
     {
       "slug": "345461-overgeared",
@@ -13231,8 +13231,8 @@
       "title": "Dungeon de Tatakai Tsudzukette 20-nen no Doutei Yuusha, Chijou ni Modottara Danjouhi 1:1000 no Sekai Datta",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 10
+      "rating": 6.73,
+      "total_chapters": 15
     },
     {
       "slug": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-erufu-musume-no-kishi-pet-toshite-kurashitemasu",
@@ -20641,6 +20641,14 @@
       "status": "Berjalan",
       "rating": 6.33,
       "total_chapters": 20
+    },
+    {
+      "slug": "shinkon-quest-maou-no-musume-wa-majime-yuusha-o-otoshitai-%e2%99%a1",
+      "title": "Shinkon Quest: Maou no Musume wa Majime Yuusha o Otoshitai ♡",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.32,
+      "total_chapters": 10
     }
   ]
 }
