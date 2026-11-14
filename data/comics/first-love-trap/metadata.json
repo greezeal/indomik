@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-13T18:53:51.969048",
+  "scraped_at": "2026-11-14T00:07:14.895265",
   "alternative_titles": "첫사랑 트랩",
   "status": "Berjalan",
   "author": "haeseo",
@@ -21,10 +21,16 @@
   "synopsis": "Manhwa                    First Love Trap yang dibuat oleh komikus bernama\n                    haeseo ini bercerita tentang\n                    Sebuah kehidupan sharehouse yang dimulai bersama dengan transfer sekolah.\nTunggu, teman serumah adalah seorang gadis dari kelas yang sama?\nSemakin banyak waktu yang mereka habiskan bersama, semakin dia terus bermain di pikiranku...",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik First Love Trap Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtbG92ZS10cmFwLWNoYXB0ZXItNS8=",
+      "date": "28 menit yang lalu"
+    },
+    {
       "chapter": "4",
       "title": "Komik First Love Trap Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlyc3QtbG92ZS10cmFwLWNoYXB0ZXItNC8=",
-      "date": "22 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "3",
@@ -45,5 +51,5 @@
       "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-08T15:04:16.798533",
+  "scraped_at": "2026-11-14T00:01:32.531071",
   "alternative_titles": "幼ロボとあぶない博士, The Young Robot and the Dangerous Professor, The Little Girl Robot and the Perverted Professor, 幼女ロボと変態博士, Youjo Robot to Hentai Hakase",
   "status": "Berjalan",
   "author": "Ino (いの)",
@@ -22,22 +22,28 @@
   "synopsis": "Manga                    Osana Robot to Abunai Hakase yang dibuat oleh komikus bernama\n                    Ino (いの) ini bercerita tentang\n                    Komik web baru karya kreator Happy Happia. Kisahnya mengikuti seorang profesor mesum yang jatuh cinta pada ciptaannya, sebuah robot muda yang sangat membencinya.",
   "chapters": [
     {
+      "chapter": "75",
+      "title": "Komik Osana Robot to Abunai Hakase Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmEtcm9ib3QtdG8tYWJ1bmFpLWhha2FzZS1jaGFwdGVyLTc1Lw==",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "74",
       "title": "Komik Osana Robot to Abunai Hakase Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmEtcm9ib3QtdG8tYWJ1bmFpLWhha2FzZS1jaGFwdGVyLTc0Lw==",
-      "date": "1 jam yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik Osana Robot to Abunai Hakase Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmEtcm9ib3QtdG8tYWJ1bmFpLWhha2FzZS1jaGFwdGVyLTczLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik Osana Robot to Abunai Hakase Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmEtcm9ib3QtdG8tYWJ1bmFpLWhha2FzZS1jaGFwdGVyLTcyLw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "71",
@@ -97,7 +103,7 @@
       "chapter": "62",
       "title": "Komik Osana Robot to Abunai Hakase Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmEtcm9ib3QtdG8tYWJ1bmFpLWhha2FzZS1jaGFwdGVyLTYyLw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "61",
@@ -145,7 +151,7 @@
       "chapter": "54",
       "title": "Komik Osana Robot to Abunai Hakase Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmEtcm9ib3QtdG8tYWJ1bmFpLWhha2FzZS1jaGFwdGVyLTU0Lw==",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "53",
@@ -199,7 +205,7 @@
       "chapter": "46",
       "title": "Komik Osana Robot to Abunai Hakase Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3NhbmEtcm9ib3QtdG8tYWJ1bmFpLWhha2FzZS1jaGFwdGVyLTQ2Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "45",
@@ -478,5 +484,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 76
+  "total_chapters": 77
 }
