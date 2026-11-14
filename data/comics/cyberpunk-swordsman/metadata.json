@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 6.18,
-  "scraped_at": "2026-11-14T06:13:44.466132",
+  "scraped_at": "2026-11-14T18:57:56.181923",
   "alternative_titles": "Cyberpunk Chivalry, Pendekar Pedang Cyberpunk, จอมยุทธ์ไซเบอร์พังก์, ตำนานจอมยุทธ์ไซเบอร์พังก์, 사이버펑크 협객전",
   "status": "Berjalan",
   "author": "Double Time",
@@ -23,40 +23,46 @@
   "synopsis": "Manhwa                    Cyberpunk Swordsman yang dibuat oleh komikus bernama\n                    Double Time ini bercerita tentang\n                    Seorang pendekar yang dikenal sebagai Darah Abadi Kunlun menutup matanya setelah menyelesaikan balas dendamnya. Saat dia membukanya lagi, dia menemukan dirinya di tempat pembuangan kota futuristik, terlahir kembali sebagai Ash, seorang humanoid bergabung dari besi tua. Ini adalah tubuh mekanis tanpa dantian atau energi batin... tapi bagaimana jika dia dapat menyalurkan listrik untuk melakukan seni bela diri?\n\n\"Aku ingin balas dendam\".\n\nDi Akina, gadis yang menghidupkannya kembali, dia melihat refleksi dari dirinya yang dulu. Meskipun ia tahu kekosongan yang menunggu di akhir balas dendam, ia mengambil pedangnya sekali lagi untuk melindunginya. Dalam dunia yang dikuasai oleh senjata tepi-pemotongan, pendekar pedang seni bela diri usia telah kembali.",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Cyberpunk Swordsman Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3liZXJwdW5rLXN3b3Jkc21hbi1jaGFwdGVyLTgv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Cyberpunk Swordsman Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3liZXJwdW5rLXN3b3Jkc21hbi1jaGFwdGVyLTcv",
-      "date": "10 jam yang lalu"
+      "date": "19 jam yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Cyberpunk Swordsman Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3liZXJwdW5rLXN3b3Jkc21hbi1jaGFwdGVyLTYv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Cyberpunk Swordsman Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3liZXJwdW5rLXN3b3Jkc21hbi1jaGFwdGVyLTUv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Cyberpunk Swordsman Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3liZXJwdW5rLXN3b3Jkc21hbi1jaGFwdGVyLTQv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Cyberpunk Swordsman Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3liZXJwdW5rLXN3b3Jkc21hbi1jaGFwdGVyLTMv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Cyberpunk Swordsman Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3liZXJwdW5rLXN3b3Jkc21hbi1jaGFwdGVyLTIv",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
@@ -65,5 +71,5 @@
       "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }

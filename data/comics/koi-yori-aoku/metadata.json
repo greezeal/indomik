@@ -2,140 +2,150 @@
   "slug": "koi-yori-aoku",
   "title": "Koi Yori Aoku",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsva29pLXlvcmktYW9rdS8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjMvMDQvS29taWstS29pLVlvcmktQW9rdS0yMjN4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzI0MzE1Mi84Njk5MmQ1Yy0wYzc1LTRhMjgtODAyMy1kOTI0OWVhYzA1OTMva29taWsta29pLXlvcmktYW9rdS0yMjN4MzE5LmpwZw==",
   "type": "Manga",
   "is_colored": false,
-  "rating": 7.24,
-  "scraped_at": "2026-10-10T13:59:05.457915",
-  "alternative_titles": "恋より青く, A Love Yet To Bloom",
+  "rating": 8.59,
+  "scraped_at": "2026-11-14T18:56:00.573364",
+  "alternative_titles": "Koi Yori Aoku (Oneshot), 恋より青く, A Love Yet To Bloom, Bluer Than Love, ยามรักยังเยาว์, 사랑보다 푸른, Koi Yori Aoku",
   "status": "Tamat",
   "author": "Fukaumi Kon",
   "illustrator": "Fukaumi Kon",
+  "themes": [
+    "School Life"
+  ],
   "genres": [
     "Romance",
-    "Shoujo Ai"
+    "Slice of Life",
+    "Yuri"
   ],
   "synopsis": "Manga                    Koi Yori Aoku yang dibuat oleh komikus bernama\n                    Fukaumi Kon ini bercerita tentang\n                    Takamine, yang tak dapat menemukan sesuatu yang disukai. Dan Sakura, yang menyukai buku. Keduanya bertemu secara kebetulan saat sepulang sekolah.",
   "chapters": [
     {
+      "chapter": "44",
+      "title": "Komik Koi Yori Aoku Chapter 44",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTQ0Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "43",
       "title": "Komik Koi Yori Aoku Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTQzLw==",
-      "date": "24 menit yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "42",
       "title": "Komik Koi Yori Aoku Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTQyLw==",
-      "date": "7 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik Koi Yori Aoku Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTQxLw==",
-      "date": "7 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Koi Yori Aoku Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTQwLw==",
-      "date": "7 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Koi Yori Aoku Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTM5Lw==",
-      "date": "7 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "38",
       "title": "Komik Koi Yori Aoku Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTM4Lw==",
-      "date": "7 jam yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Koi Yori Aoku Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTM3Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Koi Yori Aoku Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTM2Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Koi Yori Aoku Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTM1Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Koi Yori Aoku Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTM0Lw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Koi Yori Aoku Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTMzLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Koi Yori Aoku Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTMyLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Koi Yori Aoku Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTMxLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Koi Yori Aoku Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTMwLw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Koi Yori Aoku Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTI5Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Koi Yori Aoku Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTI4Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Koi Yori Aoku Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTI3Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik Koi Yori Aoku Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTI2Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Koi Yori Aoku Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTI1Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Koi Yori Aoku Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTI0Lw==",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "23",
@@ -201,31 +211,31 @@
       "chapter": "14",
       "title": "Komik Koi Yori Aoku Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTE0Lw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik Koi Yori Aoku Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTEzLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Koi Yori Aoku Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTEyLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "11",
       "title": "Komik Koi Yori Aoku Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTExLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Koi Yori Aoku Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29pLXlvcmktYW9rdS1jaGFwdGVyLTEwLw==",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "9",
@@ -294,5 +304,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 46
+  "total_chapters": 47
 }
