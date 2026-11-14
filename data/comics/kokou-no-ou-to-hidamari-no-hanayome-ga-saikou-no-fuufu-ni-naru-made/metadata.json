@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.39,
-  "scraped_at": "2026-11-10T03:29:47.427336",
+  "scraped_at": "2026-11-14T13:33:46.683376",
   "alternative_titles": "孤高の王と陽だまりの花嫁が最幸の夫婦になるまで, The Lonely King and His Sunshine Bride’s Happily Ever After, Until the Solitary King and the Sunshine Bride Become the Happiest Couple, Kokō no Ō to Hidamari no Hanayome ga Saikō no Fūfu ni Naru made, Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made",
   "status": "Berjalan",
   "author": "Takayama Seiichi",
@@ -20,22 +20,28 @@
   "synopsis": "Manga                    Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made yang dibuat oleh komikus bernama\n                    Takayama Seiichi ini bercerita tentang\n                    Raja Wilfred ditakuti sebagai \"Raja Iblis Brutal dan Tyranic\". Alicia, seorang putri dibesarkan di antara rakyat jelata, bertunangan dengannya dalam pernikahan politik. Meskipun awalnya diintimidasi oleh Wilfred 's tabah dan memaksakan alam, Alicia perlahan-lahan menemukan kebaikan canggung tersembunyi di bawah bagian es nya. Ketika Alicia cerah, terbuka kepribadian-hati mulai menghangatkan hatinya, apa yang dimulai sebagai pernikahan politik bergelombang berubah menjadi asmara yang unik!",
   "chapters": [
     {
+      "chapter": "9",
+      "title": "Komik Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29rb3Utbm8tb3UtdG8taGlkYW1hcmktbm8taGFuYXlvbWUtZ2Etc2Fpa291LW5vLWZ1dWZ1LW5pLW5hcnUtbWFkZS1jaGFwdGVyLTkv",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29rb3Utbm8tb3UtdG8taGlkYW1hcmktbm8taGFuYXlvbWUtZ2Etc2Fpa291LW5vLWZ1dWZ1LW5pLW5hcnUtbWFkZS1jaGFwdGVyLTgv",
-      "date": "33 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29rb3Utbm8tb3UtdG8taGlkYW1hcmktbm8taGFuYXlvbWUtZ2Etc2Fpa291LW5vLWZ1dWZ1LW5pLW5hcnUtbWFkZS1jaGFwdGVyLTcv",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29rb3Utbm8tb3UtdG8taGlkYW1hcmktbm8taGFuYXlvbWUtZ2Etc2Fpa291LW5vLWZ1dWZ1LW5pLW5hcnUtbWFkZS1jaGFwdGVyLTYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "5",
@@ -68,5 +74,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 9
 }

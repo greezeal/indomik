@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.31,
-  "scraped_at": "2026-11-11T00:02:25.904726",
+  "scraped_at": "2026-11-14T13:35:41.797771",
   "alternative_titles": "となりの猫と恋知らず, Learning to Love My Cat-like Classmate, The Feline Neighbor and the Unversed-in-Love, 與貓相鄰尚不識戀, Une fille si féline, Cô nàng mèo ngủ gật và Chàng trai hướng nội, となねこ, TonaNeko, TonaNeko – Meine katzenhafte Mitschülerin, The Deskmate Cat and the Love Novice, تَعَلُم حب زميلتي القططية, Cô mèo bàn bên và cậu bạn nai tơ, 与猫相邻尚不识恋, 옆자리 고양이와 사랑을 모르는 아이, Tonari no Neko to Koi Shirazu",
   "status": "Berjalan",
   "author": "Akinoko",
@@ -24,28 +24,34 @@
   "synopsis": "Manga                    Tonari no Neko to Koi Shirazu yang dibuat oleh komikus bernama\n                    Akinoko ini bercerita tentang\n                    Kehidupan SMA Minato Seno baru saja dimulai ketika guru wali kelasnya meminta bantuannya dengan Nekozane, kucing - seperti napper kronis yang duduk di sampingnya di kelas. Pemalu dan gelisah secara sosial, Minato tidak pernah berbicara dengannya atau bahkan melihat wajahnya. Tapi ketika ia akhirnya mengumpulkan keberanian untuk membangunkan Nekozane, dia tiba-tiba memeluknya di tempat! Jadi dimulai kisah manis dua remaja aneh tersandung menjadi persahabatan baru, tidak menyadari bahwa perasaan mereka perlahan-lahan berubah menjadi sesuatu yang lebih!",
   "chapters": [
     {
+      "chapter": "38",
+      "title": "Komik Tonari no Neko to Koi Shirazu Chapter 38",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0zOC8=",
+      "date": "58 menit yang lalu"
+    },
+    {
       "chapter": "37",
       "title": "Komik Tonari no Neko to Koi Shirazu Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0zNy8=",
-      "date": "3 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "36",
       "title": "Komik Tonari no Neko to Koi Shirazu Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0zNi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik Tonari no Neko to Koi Shirazu Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0zNS8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Tonari no Neko to Koi Shirazu Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0zNC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "33",
@@ -63,19 +69,19 @@
       "chapter": "31",
       "title": "Komik Tonari no Neko to Koi Shirazu Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0zMS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Tonari no Neko to Koi Shirazu Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0zMC8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "29",
       "title": "Komik Tonari no Neko to Koi Shirazu Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9uYXJpLW5vLW5la28tdG8ta29pLXNoaXJhenUtY2hhcHRlci0yOS8=",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "28",
@@ -264,5 +270,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 40
+  "total_chapters": 41
 }

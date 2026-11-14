@@ -6,8 +6,8 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-14T06:10:00.264779",
-  "alternative_titles": "Murim Loan Shark King, Murim\\'s Debt King, 무림사채왕, 무림의 빚왕",
+  "scraped_at": "2026-11-14T13:37:00.919826",
+  "alternative_titles": "Murim Loan Shark King, Murim's Debt King, 무림사채왕, 무림의 빚왕",
   "status": "Berjalan",
   "author": "Hongsil, Sallyeojuseyo",
   "illustrator": "Huran",
@@ -20,10 +20,16 @@
   "synopsis": "Manhwa                    Murim’s Debt King yang dibuat oleh komikus bernama\n                    Hongsil, Sallyeojuseyo ini bercerita tentang\n                    Tempat di mana uang dibutuhkan untuk mengasah pedang, untuk memberi makan dan pakaian kepada murid-muridmu—tidak, hanya untuk bernapas.\r\n\r\nMurim.\r\n\r\nApakah Anda butuh uang? Apakah peringkat kredit Anda turun? Kalau begitu, datanglah ke Medan Perang Kontinental. Persetujuan pinjaman tanpa jaminan di hari yang sama.\r\n\r\nAnda tidak punya uang untuk membayar? Ah. Jangan khawatir. Kami menerima tubuh Anda. Tenang! Anda akan terluka! Terima kasih, Tuan!",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Murim’s Debt King Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTI3Lw==",
+      "date": "4 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Murim’s Debt King Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTI2Lw==",
-      "date": "14 menit yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "25",
@@ -41,7 +47,7 @@
       "chapter": "23",
       "title": "Komik Murim’s Debt King Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbXVyaW1zLWRlYnQta2luZy1jaGFwdGVyLTIzLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "22",
@@ -176,5 +182,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

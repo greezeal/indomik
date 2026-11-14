@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-10T11:44:42.788993",
+  "scraped_at": "2026-11-14T13:33:51.521659",
   "alternative_titles": "Fighting Is Just Too Easy, Fighting Is Too Easy, Luchar es muy facil, 싸움이 너무 쉽다",
   "status": "Berjalan",
   "author": "Bluetiful, Jeongsan",
@@ -18,16 +18,22 @@
   "synopsis": "Manhwa                    Fighting Is Too Easy yang dibuat oleh komikus bernama\n                    Bluetiful, Jeongsan ini bercerita tentang\n                    Sepanjang hidupnya, Lee Jae-ha selalu menghindari perkelahian. Tanpa impian atau bakat khusus, Jae-ha tiba-tiba menyadari bahwa ia memiliki bakat alami yang luar biasa dalam seni bela diri. Meski temannya, Lim Myung-in, terus-menerus membujuknya untuk mencoba seni bela diri campuran (MMA), Jae-ha tetap tidak tertarik dan berpikir, \"Apa gunanya jago berkelahi...\"\r\n\r\nTanpa sepengetahuan Jae-ha, Myung-in diam-diam mendaftarkannya ke 'Never Back Down', sebuah acara realitas yang mencari talenta seni bela diri terpendam yang belum terasah...",
   "chapters": [
     {
+      "chapter": "14",
+      "title": "Komik Fighting Is Too Easy Chapter 14",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlnaHRpbmctaXMtdG9vLWVhc3ktY2hhcHRlci0xNC8=",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "13",
       "title": "Komik Fighting Is Too Easy Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlnaHRpbmctaXMtdG9vLWVhc3ktY2hhcHRlci0xMy8=",
-      "date": "2 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "12",
       "title": "Komik Fighting Is Too Easy Chapter 12",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZmlnaHRpbmctaXMtdG9vLWVhc3ktY2hhcHRlci0xMi8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "11",
@@ -96,5 +102,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 13
+  "total_chapters": 14
 }
