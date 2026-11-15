@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.25,
-  "scraped_at": "2026-11-10T11:41:22.064794",
+  "scraped_at": "2026-11-15T16:58:25.099852",
   "alternative_titles": "집구석 절대자, The Absolute Ruler of the House, Absolute Person in Every Corner, Absolute Dweller",
   "status": "Berjalan",
   "author": "bihyeon,maeng ju-gyeong",
@@ -22,28 +22,34 @@
   "synopsis": "Manhwa                    The Ultimate Shut-In yang dibuat oleh komikus bernama\n                    bihyeon,maeng ju-gyeong ini bercerita tentang\n                    Suatu hari, kiamat tiba-tiba datang.\r\n\r\n[Makhluk yang berada di sudut rumah tidak dapat meninggalkan sudut rumah itu.]\r\n\r\nKamu harus bertahan hidup untuk menyelamatkan keluargamu.",
   "chapters": [
     {
+      "chapter": "105",
+      "title": "Komik The Ultimate Shut-In Chapter 105",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci0xMDUv",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "104",
       "title": "Komik The Ultimate Shut-In Chapter 104",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci0xMDQv",
-      "date": "7 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "103",
       "title": "Komik The Ultimate Shut-In Chapter 103",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci0xMDMv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "102",
       "title": "Komik The Ultimate Shut-In Chapter 102",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci0xMDIv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "101",
       "title": "Komik The Ultimate Shut-In Chapter 101",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci0xMDEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "100",
@@ -55,7 +61,7 @@
       "chapter": "99",
       "title": "Komik The Ultimate Shut-In Chapter 99",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci05OS8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "98",
@@ -133,7 +139,7 @@
       "chapter": "86",
       "title": "Komik The Ultimate Shut-In Chapter 86",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci04Ni8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "85",
@@ -259,7 +265,7 @@
       "chapter": "65",
       "title": "Komik The Ultimate Shut-In Chapter 65",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci02NS8=",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "64",
@@ -475,13 +481,13 @@
       "chapter": "29",
       "title": "Komik The Ultimate Shut-In Chapter 29",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci0yOS8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik The Ultimate Shut-In Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXVsdGltYXRlLXNodXQtaW4tY2hhcHRlci0yOC8=",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "27",
@@ -646,5 +652,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 104
+  "total_chapters": 105
 }

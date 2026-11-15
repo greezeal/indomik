@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T10:03:41.763759",
-  "total_comics": 2592,
+  "last_updated": "2026-11-15T17:05:15.264028",
+  "total_comics": 2596,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -182,9 +182,9 @@
       "slug": "iron-ladies",
       "title": "Iron Ladies",
       "type": "Manhua",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Tamat",
+      "rating": 8.15,
+      "total_chapters": 706
     },
     {
       "slug": "isekai-yakkyoku",
@@ -1296,7 +1296,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.84,
-      "total_chapters": 203
+      "total_chapters": 205
     },
     {
       "slug": "game-online-unrivaled-in-the-world-remake",
@@ -3135,8 +3135,8 @@
       "title": "A Guide to the Right Life for Rankers",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.27,
-      "total_chapters": 89
+      "rating": 8.09,
+      "total_chapters": 91
     },
     {
       "slug": "a-gyaru-and-otaku-who-have-entered-a-school-where-they-will-have-to-dropout-if-they-cannot-get-a-lover",
@@ -4136,7 +4136,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.25,
-      "total_chapters": 240
+      "total_chapters": 242
     },
     {
       "slug": "the-eight-empresses-betrayed-me-only-to-deeply-regret-it-after-being-reborn",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.92,
-      "total_chapters": 125
+      "total_chapters": 126
     },
     {
       "slug": "colorist",
@@ -4638,9 +4638,9 @@
       "slug": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
       "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.8,
+      "total_chapters": 2
     },
     {
       "slug": "713196-otherworldly-sword-kings-survival-records",
@@ -5192,7 +5192,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.2,
-      "total_chapters": 189
+      "total_chapters": 190
     },
     {
       "slug": "876010-insanely-talented-player",
@@ -5368,7 +5368,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.25,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita",
@@ -6160,7 +6160,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 9.34,
-      "total_chapters": 167
+      "total_chapters": 168
     },
     {
       "slug": "the-politician-who-sees-the-future",
@@ -9120,7 +9120,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.4,
-      "total_chapters": 205
+      "total_chapters": 206
     },
     {
       "slug": "apocalypse-smuggler-trading-spicy-strips-for-gold-bars",
@@ -9407,8 +9407,8 @@
       "title": "A Wicked Husband",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 27
+      "rating": 7.71,
+      "total_chapters": 34
     },
     {
       "slug": "the-baby-raises-a-villain",
@@ -9526,9 +9526,9 @@
       "slug": "chigau-miyahara-omae-janai",
       "title": "Chigau Miyahara Omae Janai!",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.47,
-      "total_chapters": 38
+      "status": "Tamat",
+      "rating": 7.79,
+      "total_chapters": 68
     },
     {
       "slug": "leu-leu-leu",
@@ -9775,8 +9775,8 @@
       "title": "Bonkotsu Shinpei No Monster Life",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 16
+      "rating": 8.55,
+      "total_chapters": 21
     },
     {
       "slug": "haimiya-senpai-wa-kowakute-kawaii",
@@ -10312,7 +10312,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 50
+      "total_chapters": 51
     },
     {
       "slug": "danshi-kinsei-game-sekai-de-ore-ga-yarubeki-yuiitsu-no-koto-yuri-no-ma-ni-hasamaru-otoko-to-shite-tensei-shite-shimaimashita",
@@ -10928,7 +10928,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 37
     },
     {
       "slug": "a-match-with-me",
@@ -11336,7 +11336,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.56,
-      "total_chapters": 44
+      "total_chapters": 45
     },
     {
       "slug": "ai-to-ningyo-hime",
@@ -12119,8 +12119,8 @@
       "title": "Monster Pet Evolution",
       "type": "Manhua",
       "status": "Tamat",
-      "rating": 7.0,
-      "total_chapters": 398
+      "rating": 8.16,
+      "total_chapters": 413
     },
     {
       "slug": "i-randomly-have-a-new-career-every-week",
@@ -12295,8 +12295,8 @@
       "title": "Hinekure Ryoushu no Koufukutan",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.23,
-      "total_chapters": 24
+      "rating": 7.55,
+      "total_chapters": 25
     },
     {
       "slug": "nengan-no-akuyaku-reijo-last-boss-no-karada-o-te-ni-ireta-zo",
@@ -12392,7 +12392,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.94,
-      "total_chapters": 78
+      "total_chapters": 82
     },
     {
       "slug": "kami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita",
@@ -12864,7 +12864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 28
     },
     {
       "slug": "risou-no-kanojo",
@@ -14424,7 +14424,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 48
+      "total_chapters": 49
     },
     {
       "slug": "i-was-thrown-into-an-unfamiliar-manga",
@@ -14704,7 +14704,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 26
     },
     {
       "slug": "mob-kara-hajimaru-tansaku-eiyuutan",
@@ -15248,7 +15248,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 10
     },
     {
       "slug": "the-ruined-world-was-mistaken-for-a-game",
@@ -15824,7 +15824,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "kakunaru-ue-wa",
@@ -15840,7 +15840,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.88,
-      "total_chapters": 78
+      "total_chapters": 79
     },
     {
       "slug": "30-years-have-passed-since-the-prologue",
@@ -15991,8 +15991,8 @@
       "title": "Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo datta Ken",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 16
+      "rating": 8.1,
+      "total_chapters": 19
     },
     {
       "slug": "datte-watashi-wa-freedom-makou-shi-fey-kodai-bunmei-ni-idomimasu",
@@ -16080,7 +16080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 31
+      "total_chapters": 32
     },
     {
       "slug": "munou-no-akudou-ouji-wa-ikinokoritai-renai-rpg-no-akuyaku-mob-ni-tensei-shita-kedo-gensaku-mushi-shite-saikyou-o-mezasu",
@@ -16712,7 +16712,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 162
+      "total_chapters": 163
     },
     {
       "slug": "582289-max-level-player",
@@ -17520,7 +17520,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "809047-otherworldly-sword-kings-survival-records",
@@ -17896,7 +17896,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "baka-deka-imouto-ga-yatte-kuru",
@@ -18080,7 +18080,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "585459-hero-kariel",
@@ -18112,7 +18112,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 26
+      "total_chapters": 28
     },
     {
       "slug": "the-vengeful-villain-slayer",
@@ -19784,7 +19784,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.58,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "infinite-titles",
@@ -20680,7 +20680,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 20
+      "total_chapters": 21
     },
     {
       "slug": "saving-the-male-leads-brother-before-his-time-runs-out",
@@ -20712,7 +20712,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.07,
-      "total_chapters": 5
+      "total_chapters": 6
     },
     {
       "slug": "obsidian-bride",
@@ -20728,7 +20728,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.44,
-      "total_chapters": 8
+      "total_chapters": 10
     },
     {
       "slug": "yasei-no-last-boss-ga-arawareta",
@@ -20737,6 +20737,38 @@
       "status": "Berjalan",
       "rating": 8.52,
       "total_chapters": 75
+    },
+    {
+      "slug": "306949-gokurakugai-sanbandori-no-ken",
+      "title": "Gokurakugai Sanbandori no Ken",
+      "type": "Manga",
+      "status": "Tamat",
+      "rating": 9.0,
+      "total_chapters": 2
+    },
+    {
+      "slug": "the-villainess-is-me",
+      "title": "The Villainess Is Me",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 7.17,
+      "total_chapters": 2
+    },
+    {
+      "slug": "negatibu-yuusha-to-maougunkanbu",
+      "title": "Negatibu Yuusha to Maougunkanbu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.29,
+      "total_chapters": 19
+    },
+    {
+      "slug": "returned-from-hell",
+      "title": "Returned From Hell",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.95,
+      "total_chapters": 145
     }
   ]
 }
