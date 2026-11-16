@@ -1,0 +1,41 @@
+{
+  "slug": "zombie-prison",
+  "title": "Zombie Prison",
+  "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvem9tYmllLXByaXNvbi8=",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTEvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ2NTU5OC8zMWE1OGI2ZS00MjdhLTQ0NzktYTViZS03OTA3OTI1ZWE5NTcva29taWstem9tYmllLXByaXNvbi0yMzB4MzE5LmpwZw==",
+  "type": "Manhwa",
+  "is_colored": true,
+  "rating": 7.0,
+  "scraped_at": "2026-11-16T18:59:57.337747",
+  "alternative_titles": "좀비교도소",
+  "status": "Berjalan",
+  "author": "Cho Hyebin",
+  "illustrator": "Sio",
+  "demographic": "Seinen",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "synopsis": "Manhwa                    Zombie Prison yang dibuat oleh komikus bernama\n                    Cho Hyebin ini bercerita tentang",
+  "chapters": [
+    {
+      "chapter": "3",
+      "title": "Komik Zombie Prison Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLXByaXNvbi1jaGFwdGVyLTMv",
+      "date": "31 menit yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Zombie Prison Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLXByaXNvbi1jaGFwdGVyLTIv",
+      "date": "31 menit yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Zombie Prison Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvem9tYmllLXByaXNvbi1jaGFwdGVyLTEv",
+      "date": "31 menit yang lalu"
+    }
+  ],
+  "total_chapters": 3
+}

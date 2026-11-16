@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-10T03:32:58.835961",
+  "scraped_at": "2026-11-16T18:57:31.223643",
   "alternative_titles": "My Alter Ego’s Path to Greatness, The One-Man Tycoon, The Real Tycoon, All By Myself, The Self-Made Real Tycoon, The True Tycoon Who Rose Alone, Đại Tài Phiệt Chân Chính Chỉ Có Mình Tôi, 나혼자 진짜 재벌",
   "status": "Berjalan",
   "author": "Dan Kim, King of Stamina",
@@ -18,22 +18,28 @@
   "synopsis": "Manhwa                    I Alone Am the True Chaebol yang dibuat oleh komikus bernama\n                    Dan Kim, King of Stamina ini bercerita tentang\n                    Lee Gyeong-suk — seorang ibu yang menghabiskan seluruh hidupnya mengorbankan segalanya untuk keluarganya. Ia adalah simbol pengabdian, namun putranya, Seo Min-wook, tak pernah sekalipun mengucapkan \"terima kasih.\" Setelah ibunya meninggal, Min-wook hidup diliputi penyesalan — hingga sebuah keajaiban luar biasa mengirimnya kembali ke masa lalu, ke dalam tubuh pamannya dari pihak ibu, Lee Dong-ho, tepat pada hari tragedi keluarga itu dimulai.\r\n\r\nLee Dong-ho.\r\n\r\nSeorang pria yang menginjak-injak mimpi dan harapan keluarganya, menghabiskan seluruh kekayaan mereka, dan meninggalkan segalanya dalam reruntuhan. Kembali ke masa lalu, Min-wook bertekad untuk memperbaiki keadaan — tetapi dihadapkan dengan pertanyaan-pertanyaan yang semakin dalam seiring waktu.\r\n\r\n\"Seandainya keluarga kita bisa menghindari hujan yang menimpa seluruh dunia ini… apakah itu benar-benar cukup untuk memuaskan saya?\"\r\n\r\nBisakah pilihannya untuk menebus masa lalu membuat ibunya benar-benar bahagia? Kisah pengorbanan, penyesalan, dan penebusan dimulai sekarang!",
   "chapters": [
     {
+      "chapter": "33",
+      "title": "Komik I Alone Am the True Chaebol Chapter 33",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbG9uZS1hbS10aGUtdHJ1ZS1jaGFlYm9sLWNoYXB0ZXItMzMv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "32",
       "title": "Komik I Alone Am the True Chaebol Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbG9uZS1hbS10aGUtdHJ1ZS1jaGFlYm9sLWNoYXB0ZXItMzIv",
-      "date": "1 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik I Alone Am the True Chaebol Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbG9uZS1hbS10aGUtdHJ1ZS1jaGFlYm9sLWNoYXB0ZXItMzEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik I Alone Am the True Chaebol Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbG9uZS1hbS10aGUtdHJ1ZS1jaGFlYm9sLWNoYXB0ZXItMzAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "29",
@@ -45,7 +51,7 @@
       "chapter": "28",
       "title": "Komik I Alone Am the True Chaebol Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1hbG9uZS1hbS10aGUtdHJ1ZS1jaGFlYm9sLWNoYXB0ZXItMjgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -210,5 +216,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 32
+  "total_chapters": 33
 }
