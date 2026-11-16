@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-10T11:46:18.883633",
+  "scraped_at": "2026-11-16T08:36:22.913093",
   "alternative_titles": "Demonic Beast Hunter Survival Guide, 마수 사냥꾼이 살아가는 법",
   "status": "Berjalan",
   "author": "Bactrian Camel 3, Buffering",
@@ -20,16 +20,22 @@
   "synopsis": "Manhwa                    A Beast Hunter’s Way Of Life yang dibuat oleh komikus bernama\n                    Bactrian Camel 3, Buffering ini bercerita tentang\n                    Setelah dua belas tahun menderita mimpi buruk yang tak dapat dijelaskan, Woojin tiba-tiba menemui ajalnya... Ia membuka matanya di dunia mimpi buruk, \"Alam Sihir.\" Dengan menggunakan keahliannya yang diasah untuk memburu binatang buas iblis, Woojin menjadi lebih kuat dan memulai kehidupan baru sebagai pemburu binatang buas. Ini adalah dunia fantasi gelap di mana semakin banyak Anda berburu, semakin kuat Anda jadinya. Ia justru menyukainya.",
   "chapters": [
     {
+      "chapter": "43",
+      "title": "Komik A Beast Hunter’s Way Of Life Chapter 43",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItNDMv",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "42",
       "title": "Komik A Beast Hunter’s Way Of Life Chapter 42",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItNDIv",
-      "date": "2 jam yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "41",
       "title": "Komik A Beast Hunter’s Way Of Life Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItNDEv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "40",
@@ -41,7 +47,7 @@
       "chapter": "39",
       "title": "Komik A Beast Hunter’s Way Of Life Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItMzkv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "38",
@@ -83,7 +89,7 @@
       "chapter": "32",
       "title": "Komik A Beast Hunter’s Way Of Life Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItMzIv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -107,7 +113,7 @@
       "chapter": "28",
       "title": "Komik A Beast Hunter’s Way Of Life Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItMjgv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "27",
@@ -161,7 +167,7 @@
       "chapter": "19",
       "title": "Komik A Beast Hunter’s Way Of Life Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItMTkv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -185,7 +191,7 @@
       "chapter": "15",
       "title": "Komik A Beast Hunter’s Way Of Life Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYS1iZWFzdC1odW50ZXJzLXdheS1vZi1saWZlLWNoYXB0ZXItMTUv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -278,5 +284,5 @@
       "date": "8 bulan yang lalu"
     }
   ],
-  "total_chapters": 43
+  "total_chapters": 44
 }

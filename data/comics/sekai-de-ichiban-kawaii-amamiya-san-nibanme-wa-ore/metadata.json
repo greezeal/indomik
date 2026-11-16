@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.88,
-  "scraped_at": "2026-11-09T10:27:30.372987",
+  "scraped_at": "2026-11-16T08:33:38.015482",
   "alternative_titles": "世界で一番『可愛い』雨宮さん、二番目は俺。, The World's Most 'Cutest' is Amamiya-san, and the Second is Me., Người “dễ thương” nhất thế giới là Amamiya, đứng thứ hai là tôi.",
   "status": "Berjalan",
   "author": "Amino Hada, Hennohada",
@@ -25,10 +25,16 @@
   "synopsis": "Manga                    Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore. yang dibuat oleh komikus bernama\n                    Amino Hada, Hennohada ini bercerita tentang\n                    Hikari adalah model yang sangat populer yang disebut sebagai gadis \"terlucu\" di dunia. Misteri diselimuti misteri, identitas aslinya adalah anak SMA biasa—Haruma Mitsuki, yang bisa ditemukan di mana saja! Mitsuki khawatir dia terlalu imut sebagai gadis cross-dressing dan tidak bisa menganggap gadis lain imut, namun, secara kebetulan, dia menyadari bahwa teman sekelasnya Amamiya-san lebih cantik dari dirinya...?!\r\n\r\nAnak laki-laki cross-dresser yang terlalu percaya diri ✖ gadis yang dipoles dan sehat! Komedi cinta dewasa yang dipenuhi dengan \"kelucuan\"!",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore. Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VrYWktZGUtaWNoaWJhbi1rYXdhaWktYW1hbWl5YS1zYW4tbmliYW5tZS13YS1vcmUtY2hhcHRlci0xNy8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore. Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VrYWktZGUtaWNoaWJhbi1rYXdhaWktYW1hbWl5YS1zYW4tbmliYW5tZS13YS1vcmUtY2hhcHRlci0xNi8=",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "15",
@@ -133,5 +139,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }
