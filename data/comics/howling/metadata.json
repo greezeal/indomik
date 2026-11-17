@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-12T10:17:39.099724",
+  "scraped_at": "2026-11-17T11:05:58.362208",
   "alternative_titles": "Howling (WANKE), The Howling Plague, 하울링",
   "status": "Berjalan",
   "author": "WANKE",
@@ -19,28 +19,34 @@
   "synopsis": "Manhwa                    Howling yang dibuat oleh komikus bernama\n                    WANKE ini bercerita tentang\n                    Seoul dilanda \"Wabah Binatang Buas,\" sebuah bencana yang mengubah manusia menjadi monster.\r\n\r\nLir, seorang anak laki-laki dengan insting tajam, berjuang untuk bertahan hidup sambil merawat adik laki-lakinya yang sakit.\r\n\r\nSuatu hari, sebuah kejadian misterius terjadi di rumah sakit.\r\n\r\nDalam upaya putus asa untuk melindungi satu-satunya keluarganya, Lir terbangun di garis tipis antara manusia dan binatang buas.\r\n\r\n\"Aku berjanji padamu—aku akan membawamu kembali, apa pun yang terjadi.\"\r\n\r\n\"Bahkan jika aku harus menjadi binatang buas untuk melakukannya.\"",
   "chapters": [
     {
+      "chapter": "12",
+      "title": "Komik Howling Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93bGluZy1jaGFwdGVyLTEyLw==",
+      "date": "19 menit yang lalu"
+    },
+    {
       "chapter": "11",
       "title": "Komik Howling Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93bGluZy1jaGFwdGVyLTExLw==",
-      "date": "37 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik Howling Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93bGluZy1jaGFwdGVyLTEwLw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik Howling Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93bGluZy1jaGFwdGVyLTkv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Howling Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaG93bGluZy1jaGFwdGVyLTgv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "7",
@@ -85,5 +91,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 11
+  "total_chapters": 12
 }
