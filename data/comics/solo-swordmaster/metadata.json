@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-11T06:00:43.236341",
+  "scraped_at": "2026-11-18T18:56:19.813237",
   "alternative_titles": "I\\'m the Only Sword Master, Solo Sword Master, The Lone Sword Master, 나 혼자 소드 마스터",
   "status": "Berjalan",
   "author": "Kwak Do-Woo, Mu Yeongja, Yang Min-Seok",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    Solo Swordmaster yang dibuat oleh komikus bernama\n                    Kwak Do-Woo, Mu Yeongja, Yang Min-Seok ini bercerita tentang\n                    Di dunia tempat naga dan sihir telah menjadi sekadar legenda, para Konstelasi yang perkasa menganugerahkan kemampuan kepada manusia yang terikat kontrak dengan mereka, serta memerintah melalui para Pemain pilihan mereka. Seorang pria sebenarnya hanya ingin menjalani hidup dengan tenang, namun setelah para Konstelasi melampaui batas yang seharusnya tidak mereka langgar, ia terpaksa harus bertindak.\r\n\r\nDemi melawan para Konstelasi yang menginvasi dunia, ia bekerja sama dengan musuh terbesar umat manusia: Tujuh Putri dari Sekte Iblis. Kini, sang *Sword Master* terakhir—sosok yang telah melindungi umat manusia selama berabad-abad—harus kembali menghunus pedangnya dan berjuang demi nasib umat manusia.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Solo Swordmaster Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1zd29yZG1hc3Rlci1jaGFwdGVyLTI3Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik Solo Swordmaster Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1zd29yZG1hc3Rlci1jaGFwdGVyLTI2Lw==",
-      "date": "22 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik Solo Swordmaster Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1zd29yZG1hc3Rlci1jaGFwdGVyLTI1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Solo Swordmaster Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1zd29yZG1hc3Rlci1jaGFwdGVyLTI0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Solo Swordmaster Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1zd29yZG1hc3Rlci1jaGFwdGVyLTIzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Solo Swordmaster Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1zd29yZG1hc3Rlci1jaGFwdGVyLTIyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -177,5 +183,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

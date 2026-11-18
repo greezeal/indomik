@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-09T02:44:43.667341",
+  "scraped_at": "2026-11-18T18:55:48.665635",
   "alternative_titles": "알고보니 재벌 3세",
   "status": "Berjalan",
   "author": "Bathed in Moonlight, Fantera, Han",
@@ -18,34 +18,40 @@
   "synopsis": "Manhwa                    Turns Out to Be a Third-Generation Chaebol yang dibuat oleh komikus bernama\n                    Bathed in Moonlight, Fantera, Han ini bercerita tentang\n                    \"Ternyata aku tidak terlahir dengan sendok tanah.\"\r\n\r\nDi penghujung hidupku yang berada di titik terendah, aku menemukan bahwa hidupku—yang seharusnya menjadi kehidupan pewaris chaebol generasi ketiga—telah sepenuhnya tertukar! Tepat ketika aku hampir menyerah dalam keputusasaan, aku mendengar suara roh leluhur yang mengganggu, dan aku dikembalikan ke sebelum hidupku berubah drastis. Aku tidak akan membiarkan hidup ini direbut dariku. Tantangan sejati seorang pewaris chaebol generasi ketiga untuk mengelola bisnis keluarga, dimulai dari tempatku yang seharusnya!",
   "chapters": [
     {
+      "chapter": "26",
+      "title": "Komik Turns Out to Be a Third-Generation Chaebol Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHVybnMtb3V0LXRvLWJlLWEtdGhpcmQtZ2VuZXJhdGlvbi1jaGFlYm9sLWNoYXB0ZXItMjYv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Turns Out to Be a Third-Generation Chaebol Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHVybnMtb3V0LXRvLWJlLWEtdGhpcmQtZ2VuZXJhdGlvbi1jaGFlYm9sLWNoYXB0ZXItMjUv",
-      "date": "4 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Turns Out to Be a Third-Generation Chaebol Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHVybnMtb3V0LXRvLWJlLWEtdGhpcmQtZ2VuZXJhdGlvbi1jaGFlYm9sLWNoYXB0ZXItMjQv",
-      "date": "6 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Turns Out to Be a Third-Generation Chaebol Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHVybnMtb3V0LXRvLWJlLWEtdGhpcmQtZ2VuZXJhdGlvbi1jaGFlYm9sLWNoYXB0ZXItMjMv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Turns Out to Be a Third-Generation Chaebol Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHVybnMtb3V0LXRvLWJlLWEtdGhpcmQtZ2VuZXJhdGlvbi1jaGFlYm9sLWNoYXB0ZXItMjIv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Turns Out to Be a Third-Generation Chaebol Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHVybnMtb3V0LXRvLWJlLWEtdGhpcmQtZ2VuZXJhdGlvbi1jaGFlYm9sLWNoYXB0ZXItMjEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -168,5 +174,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }

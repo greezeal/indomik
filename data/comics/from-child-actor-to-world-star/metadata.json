@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-10T03:32:48.013423",
+  "scraped_at": "2026-11-18T18:57:18.438300",
   "alternative_titles": "A Child Star to a Global Superstar, Child Actor to World Star!, 아역부터 월드스타!",
   "status": "Berjalan",
   "author": "Eunjeong, Taehae",
@@ -19,40 +19,46 @@
   "synopsis": "Manhwa                    From Child Actor to World Star! yang dibuat oleh komikus bernama\n                    Eunjeong, Taehae ini bercerita tentang\n                    Sejak lahir, Lee Dohyun hanya memiliki kenangan tumbuh besar di rumah sakit, merasa sendirian dan diabaikan bahkan oleh orang tuanya sendiri. Suatu hari, ia bertemu Jung Heesung, seorang pemain biola yang seluruh hidupnya berputar di sekitar keahliannya, dan merasakan kehangatan persahabatan untuk pertama kalinya. Perjalanan dan jiwa mereka serupa, dan mereka menemukan penghiburan satu sama lain. Tetapi ketika Dohyun secara ajaib keluar dari rumah sakit, hidupnya berubah total. Bakat aktingnya yang luar biasa mulai menggemparkan dunia, dan Dohyun memulai perjalanannya untuk menjadi bintang dunia.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik From Child Actor to World Star! Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMzcv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "36",
       "title": "Komik From Child Actor to World Star! Chapter 36",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMzYv",
-      "date": "1 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "35",
       "title": "Komik From Child Actor to World Star! Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMzUv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik From Child Actor to World Star! Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMzQv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik From Child Actor to World Star! Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMzMv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik From Child Actor to World Star! Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMzIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik From Child Actor to World Star! Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMzEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -112,7 +118,7 @@
       "chapter": "21",
       "title": "Komik From Child Actor to World Star! Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnJvbS1jaGlsZC1hY3Rvci10by13b3JsZC1zdGFyLWNoYXB0ZXItMjEv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "20",
@@ -235,5 +241,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 36
+  "total_chapters": 37
 }
