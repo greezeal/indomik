@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.44,
-  "scraped_at": "2026-11-18T02:00:16.072943",
+  "scraped_at": "2026-11-18T10:03:02.855518",
   "alternative_titles": "Demon Devourer, 재능 삼킨 마법사, Mago Traga-Talentos, El Mago Devorador de Talentos, Jaeneung Samkin Mabeopsa, Le Dévoreur de démons, The Mage Who Absorbs Abilities, 才能を喰らった魔法使い, 有才能的魔法师, Talent-Swallowing Magician",
   "status": "Berjalan",
   "author": "Younggeun (Story Plus), Bread squirrel (빵먹는다람쥐)",
@@ -27,16 +27,22 @@
   "synopsis": "Manhwa                    Talent-Swallowing Magician yang dibuat oleh komikus bernama\n                    Younggeun (Story Plus), Bread squirrel (빵먹는다람쥐) ini bercerita tentang\n                    Keturunan dari keluarga penyihir besar, Elric Mervinger tidak mampu melakukan sihir karena kondisi medis langka.\n\nSementara berusaha menyembuhkan penyakitnya, dia tersandung iblis Mephistopheles, yang mencoba merasuki Elric untuk membebaskan dirinya dari perangkap naga. Tapi ketika Elric akhirnya menyerap Mephisto, keduanya menjadi terikat bersama-sama.\n\nDengan Mephisto di sisinya, akankah kekuatan baru ini memungkinkan Elric untuk mengembalikan keluarganya ke kejayaannya? Atau akan dia hanya berakhir dimakan?",
   "chapters": [
     {
+      "chapter": "151",
+      "title": "Komik Talent-Swallowing Magician Chapter 151",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZW50LXN3YWxsb3dpbmctbWFnaWNpYW4tY2hhcHRlci0xNTEv",
+      "date": "12 menit yang lalu"
+    },
+    {
       "chapter": "150",
       "title": "Komik Talent-Swallowing Magician Chapter 150",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZW50LXN3YWxsb3dpbmctbWFnaWNpYW4tY2hhcHRlci0xNTAv",
-      "date": "13 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "149",
       "title": "Komik Talent-Swallowing Magician Chapter 149",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZW50LXN3YWxsb3dpbmctbWFnaWNpYW4tY2hhcHRlci0xNDkv",
-      "date": "13 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "148",
@@ -192,7 +198,7 @@
       "chapter": "123",
       "title": "Komik Talent-Swallowing Magician Chapter 123",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZW50LXN3YWxsb3dpbmctbWFnaWNpYW4tY2hhcHRlci0xMjMv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "122",
@@ -210,6 +216,12 @@
       "chapter": "120",
       "title": "Komik Talent-Swallowing Magician Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZW50LXN3YWxsb3dpbmctbWFnaWNpYW4tY2hhcHRlci0xMjAv",
+      "date": "11 bulan yang lalu"
+    },
+    {
+      "chapter": "119",
+      "title": "Komik Talent-Swallowing Magician Chapter 119",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFsZW50LXN3YWxsb3dpbmctbWFnaWNpYW4tY2hhcHRlci0xMTkv",
       "date": "11 bulan yang lalu"
     },
     {
@@ -927,5 +939,5 @@
       "date": "5 tahun yang lalu"
     }
   ],
-  "total_chapters": 150
+  "total_chapters": 152
 }

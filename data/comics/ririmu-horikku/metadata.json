@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.72,
-  "scraped_at": "2026-11-10T11:43:38.680262",
+  "scraped_at": "2026-11-18T10:02:53.099944",
   "alternative_titles": "Lilim Holic, りりむホリック, Kecanduan Lilim, Adicto a Lilim, Ririmu Horikku",
   "status": "Berjalan",
   "author": "Tsumugi Musawo",
@@ -25,22 +25,28 @@
   "synopsis": "Manga                    Ririmu Horikku yang dibuat oleh komikus bernama\n                    Tsumugi Musawo ini bercerita tentang\n                    Di masyarakat tempat succubus dan manusia hidup berdampingan, seorang otaku sekaligus siswa kasta teratas bernama Yui Hayato jatuh cinta pada teman sekelasnya, succubus bernama Katou Emu. Namun karena sifatnya yang negatif, ia terus berpikir kalau “tidak mungkin seseorang seperti dirinya bisa disukai.” Sementara itu, Emu yang sebenarnya juga menyukainya ingin menjadi lebih dekat dengannya…!? Romcom salah paham saat perasaan keduanya terus saling bersilangan!!",
   "chapters": [
     {
+      "chapter": "22",
+      "title": "Komik Ririmu Horikku Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlyaW11LWhvcmlra3UtY2hhcHRlci0yMi8=",
+      "date": "10 menit yang lalu"
+    },
+    {
       "chapter": "21",
       "title": "Komik Ririmu Horikku Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlyaW11LWhvcmlra3UtY2hhcHRlci0yMS8=",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Ririmu Horikku Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlyaW11LWhvcmlra3UtY2hhcHRlci0yMC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Ririmu Horikku Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlyaW11LWhvcmlra3UtY2hhcHRlci0xOS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "18",
@@ -70,7 +76,7 @@
       "chapter": "14",
       "title": "Komik Ririmu Horikku Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlyaW11LWhvcmlra3UtY2hhcHRlci0xNC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -88,7 +94,7 @@
       "chapter": "11",
       "title": "Komik Ririmu Horikku Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmlyaW11LWhvcmlra3UtY2hhcHRlci0xMS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "10",
@@ -151,5 +157,5 @@
       "date": "5 bulan yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 22
 }
