@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.6,
-  "scraped_at": "2026-11-18T18:53:07.354541",
+  "scraped_at": "2026-11-19T00:54:59.315684",
   "alternative_titles": "Immortal Detective, Reidou Momiji, 不死探偵・冷堂紅葉",
   "status": "Berjalan",
   "author": "Shizuku Rei",
@@ -23,11 +23,17 @@
   "synopsis": "Manga                    Fushi Tantei: Reidou Momiji yang dibuat oleh komikus bernama\n                    Shizuku Rei ini bercerita tentang\n                    Amanai Haruma adalah kekasih misterius di Klub Sastra, sebuah klub di ambang perpecahan.\n\nSetelah menunjukkan siswa misterius pindahan yang cantik, Reidou Momiji mengelilingi sekolah dan klub, keduanya berharap untuk memulai kehidupan baru mereka.\n\nTapi saat itu, teman sekelas dibunuh di gym.\n\nLalu, Amanai dan Reidou harus menghadapi pembunuhan di kamar terkunci yang mengguncang sekolah mereka sampai ke intinya...",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Fushi Tantei: Reidou Momiji Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVzaGktdGFudGVpLXJlaWRvdS1tb21pamktY2hhcHRlci0yLw==",
+      "date": "1 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Fushi Tantei: Reidou Momiji Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZnVzaGktdGFudGVpLXJlaWRvdS1tb21pamktY2hhcHRlci0xLw==",
-      "date": "2 jam yang lalu"
+      "date": "6 jam yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }
