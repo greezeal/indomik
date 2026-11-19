@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.44,
-  "scraped_at": "2026-11-14T13:32:38.437726",
+  "scraped_at": "2026-11-19T08:39:55.732380",
   "alternative_titles": "時森さんが無防備です！！, Tokimori-san is Completely Defenseless!!, 時森小姐毫無防備!!, คุณโทคิโมริไม่ระวังตัวเลยครับ!!, Tokimori-san Chẳng Chút Phòng Bị!!, Tokimari-san Is Completely Defenseless!!, Tokimori-san ga Muboubi desu!!",
   "status": "Berjalan",
   "author": "Tazawa",
@@ -23,16 +23,22 @@
   "synopsis": "Manga                    Tokimori-san ga Muboubi desu!! yang dibuat oleh komikus bernama\n                    Tazawa ini bercerita tentang\n                    Tokimori- san adalah wanita cantik dan sukses. Tapi ketika dia keluar dari pekerjaan, dia cenderung agak marah! Hidup bersama dengan Tokimori- san selalu membuat saya gugup!",
   "chapters": [
     {
+      "chapter": "56",
+      "title": "Komik Tokimori-san ga Muboubi desu!! Chapter 56",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9raW1vcmktc2FuLWdhLW11Ym91YmktZGVzdS1jaGFwdGVyLTU2Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "55",
       "title": "Komik Tokimori-san ga Muboubi desu!! Chapter 55",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9raW1vcmktc2FuLWdhLW11Ym91YmktZGVzdS1jaGFwdGVyLTU1Lw==",
-      "date": "32 menit yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "54",
       "title": "Komik Tokimori-san ga Muboubi desu!! Chapter 54",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9raW1vcmktc2FuLWdhLW11Ym91YmktZGVzdS1jaGFwdGVyLTU0Lw==",
-      "date": "4 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "53",
@@ -50,7 +56,7 @@
       "chapter": "51",
       "title": "Komik Tokimori-san ga Muboubi desu!! Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9raW1vcmktc2FuLWdhLW11Ym91YmktZGVzdS1jaGFwdGVyLTUxLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -68,7 +74,7 @@
       "chapter": "48",
       "title": "Komik Tokimori-san ga Muboubi desu!! Chapter 48",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG9raW1vcmktc2FuLWdhLW11Ym91YmktZGVzdS1jaGFwdGVyLTQ4Lw==",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "47",
@@ -359,5 +365,5 @@
       "date": "4 tahun yang lalu"
     }
   ],
-  "total_chapters": 56
+  "total_chapters": 57
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-12T02:31:12.616870",
+  "scraped_at": "2026-11-19T08:43:45.983034",
   "alternative_titles": "나 혼자만 레벨업 : 라그나로크",
   "status": "Berjalan",
   "author": "DAUL",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    Solo Leveling: Ragnarok yang dibuat oleh komikus bernama\n                    DAUL ini bercerita tentang\n                    Eksistensi Bumi sekali lagi terancam ketika Itarim, dewa alam semesta lain, berusaha mengisi kekosongan yang ditinggalkan oleh Makhluk Absolut. Sung Jinwoo tidak punya pilihan selain mengirim Beru, raja semut bayangan, untuk membangkitkan kekuatan putranya dan memulai perjalanan yang pernah ia lalui. Suho harus menaklukkan ruang bawah tanah bayangan dan mendapatkan tempatnya di dunia pemburu saat dia menavigasi dunia baru melawan kejahatan baru yang ingin menelan seluruh dunia.",
   "chapters": [
     {
+      "chapter": "73",
+      "title": "Komik Solo Leveling: Ragnarok Chapter 73",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1sZXZlbGluZy1yYWduYXJvay1jaGFwdGVyLTczLw==",
+      "date": "9 jam yang lalu"
+    },
+    {
       "chapter": "72",
       "title": "Komik Solo Leveling: Ragnarok Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1sZXZlbGluZy1yYWduYXJvay1jaGFwdGVyLTcyLw==",
-      "date": "19 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "71",
       "title": "Komik Solo Leveling: Ragnarok Chapter 71",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1sZXZlbGluZy1yYWduYXJvay1jaGFwdGVyLTcxLw==",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "70",
       "title": "Komik Solo Leveling: Ragnarok Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1sZXZlbGluZy1yYWduYXJvay1jaGFwdGVyLTcwLw==",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "69",
       "title": "Komik Solo Leveling: Ragnarok Chapter 69",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1sZXZlbGluZy1yYWduYXJvay1jaGFwdGVyLTY5Lw==",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "68",
@@ -53,7 +59,7 @@
       "chapter": "67",
       "title": "Komik Solo Leveling: Ragnarok Chapter 67",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1sZXZlbGluZy1yYWduYXJvay1jaGFwdGVyLTY3Lw==",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "66",
@@ -71,7 +77,7 @@
       "chapter": "64",
       "title": "Komik Solo Leveling: Ragnarok Chapter 64",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc29sby1sZXZlbGluZy1yYWduYXJvay1jaGFwdGVyLTY0Lw==",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "63",
@@ -464,5 +470,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 74
+  "total_chapters": 75
 }
