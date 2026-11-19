@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 6.76,
-  "scraped_at": "2026-11-19T08:40:59.559180",
+  "scraped_at": "2026-11-19T17:43:40.317210",
   "alternative_titles": "It Starts With a Kingpin Account, 开局就有王者帐号",
   "status": "Berjalan",
   "author": "Renshan Animation",
@@ -26,16 +26,28 @@
   "synopsis": "Manhua                    King Account At The Start yang dibuat oleh komikus bernama\n                    Renshan Animation ini bercerita tentang\n                    Krisis mendadak membawa bumi langsung ke era OL, dan seluruh umat manusia direduksi menjadi telapak tangan kekuatan yang tidak diketahui. Setiap orang menjadi terompet kelas satu. Di era kejam yang lemah dan kuat, siswa sekolah menengah Ye Hao hanya bisa naik menjadi tiga. Level, ketika dia akan mati, secara tidak sengaja membuka sistem peningkatan akun raja, dapatkah Ye Hao menjadi raja terkuat?",
   "chapters": [
     {
+      "chapter": "434",
+      "title": "Komik King Account At The Start Chapter 434",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTQzNC8=",
+      "date": "48 menit yang lalu"
+    },
+    {
+      "chapter": "433",
+      "title": "Komik King Account At The Start Chapter 433",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTQzMy8=",
+      "date": "48 menit yang lalu"
+    },
+    {
       "chapter": "431",
       "title": "Komik King Account At The Start Chapter 431",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTQzMS8=",
-      "date": "2 jam yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "430",
       "title": "Komik King Account At The Start Chapter 430",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTQzMC8=",
-      "date": "2 jam yang lalu"
+      "date": "13 jam yang lalu"
     },
     {
       "chapter": "428",
@@ -89,7 +101,7 @@
       "chapter": "420",
       "title": "Komik King Account At The Start Chapter 420",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTQyMC8=",
-      "date": "7 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "419",
@@ -869,7 +881,7 @@
       "chapter": "290",
       "title": "Komik King Account At The Start Chapter 290",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2luZy1hY2NvdW50LWF0LXRoZS1zdGFydC1jaGFwdGVyLTI5MC8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "289",
@@ -2612,5 +2624,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 431
+  "total_chapters": 433
 }

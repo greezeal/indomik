@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-13T18:54:09.602034",
+  "scraped_at": "2026-11-19T17:43:29.489748",
   "alternative_titles": "나 혼자 EX급 소환수",
   "status": "Berjalan",
   "author": "임제열",
@@ -20,28 +20,34 @@
   "synopsis": "Manhwa                    Only I Have An EX-Grade Summon yang dibuat oleh komikus bernama\n                    임제열 ini bercerita tentang\n                    Makhluk yang dipanggil memiliki peringkat, dari rank F terendah hingga peringkat S tertinggi… tetapi ada yang aneh. “Mengapa makhluk panggilanku EX-Rank?”",
   "chapters": [
     {
+      "chapter": "47",
+      "title": "Komik Only I Have An EX-Grade Summon Chapter 47",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItNDcv",
+      "date": "47 menit yang lalu"
+    },
+    {
       "chapter": "46",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 46",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItNDYv",
-      "date": "22 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "45",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 45",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItNDUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "44",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 44",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItNDQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "43",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItNDMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -71,13 +77,13 @@
       "chapter": "38",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 38",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItMzgv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "37",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 37",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItMzcv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "36",
@@ -95,19 +101,19 @@
       "chapter": "34",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItMzQv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItMzMv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItMzIv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "31",
@@ -137,7 +143,7 @@
       "chapter": "27",
       "title": "Komik Only I Have An EX-Grade Summon Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb25seS1pLWhhdmUtYW4tZXgtZ3JhZGUtc3VtbW9uLWNoYXB0ZXItMjcv",
-      "date": "5 bulan yang lalu"
+      "date": "6 bulan yang lalu"
     },
     {
       "chapter": "26",
@@ -296,5 +302,5 @@
       "date": "7 bulan yang lalu"
     }
   ],
-  "total_chapters": 46
+  "total_chapters": 47
 }
