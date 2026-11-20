@@ -2,15 +2,16 @@
   "slug": "ogamida-san-wa-hetare-gao-ga-mitai",
   "title": "Ogamida-san wa Hetare-Gao ga Mitai",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvb2dhbWlkYS1zYW4td2EtaGV0YXJlLWdhby1nYS1taXRhaS8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDcvS29taWstT2dhbWlkYS1zYW4td2EtSGV0YXJlLUdhby1nYS1NaXRhaS0yMjN4MzE5LmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQzMDkxOC83MjdmZGRjNi01YmI4LTQ4MGItYTQ4MC0xMDMwOWRjZGI3Zjkva29taWstb2dhbWlkYS1zYW4td2EtaGV0YXJlLWdhby1nYS1taXRhaS0yMjN4MzE5LmpwZw==",
   "type": "Manga",
   "is_colored": false,
-  "rating": 7.0,
-  "scraped_at": "2026-07-18T15:44:20.362771",
-  "alternative_titles": "拝田さんはヘタレ顔が見たい, Ogamida-san Wants To See Your Blushing Face, Ogamida-san Wants to See His Pathetic Face",
+  "rating": 7.94,
+  "scraped_at": "2026-11-20T16:02:40.605060",
+  "alternative_titles": "拝田さんはヘタレ顔が見たい, Ogamida-san Wants To See Your Blushing Face, Ogamida-san Wants to See His Pathetic Face, Ogamida-san Wants to See My Blushing Face, Ogamida-san wa Hetaregao ga Mitai, Ogamida-san wa Hetare-Gao ga Mitai",
   "status": "Berjalan",
   "author": "Urano Ritsu",
   "illustrator": "Urano Ritsu",
+  "demographic": "Shounen",
   "themes": [
     "School Life"
   ],
@@ -19,20 +20,38 @@
     "Romance",
     "Slice of Life"
   ],
-  "synopsis": "Manga                    Ogamida-san wa Hetare-Gao ga Mitai yang dibuat oleh komikus bernama\n                    Urano Ritsu ini bercerita tentang\n                    Sagahara-kun, seorang seniman manga shoujo yang menggunakan teman sekelasnya, Ogamida-san, sebagai model, selalu mendapati dirinya dalam situasi memalukan yang disebabkan olehnya karena suatu alasan…!?",
+  "synopsis": "Manga                    Ogamida-san wa Hetare-Gao ga Mitai yang dibuat oleh komikus bernama\n                    Urano Ritsu ini bercerita tentang\n                    Sagahara-kun, seorang seniman manga shoujo yang menggunakan teman sekelasnya Ogamida- san sebagai model, selalu menemukan dirinya dalam situasi memalukan yang disebabkan oleh dia untuk beberapa alasan...?",
   "chapters": [
+    {
+      "chapter": "5",
+      "title": "Komik Ogamida-san wa Hetare-Gao ga Mitai Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2dhbWlkYS1zYW4td2EtaGV0YXJlLWdhby1nYS1taXRhaS1jaGFwdGVyLTUv",
+      "date": "1 menit yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Ogamida-san wa Hetare-Gao ga Mitai Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2dhbWlkYS1zYW4td2EtaGV0YXJlLWdhby1nYS1taXRhaS1jaGFwdGVyLTQv",
+      "date": "2 bulan yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Ogamida-san wa Hetare-Gao ga Mitai Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2dhbWlkYS1zYW4td2EtaGV0YXJlLWdhby1nYS1taXRhaS1jaGFwdGVyLTMv",
+      "date": "2 bulan yang lalu"
+    },
     {
       "chapter": "2",
       "title": "Komik Ogamida-san wa Hetare-Gao ga Mitai Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2dhbWlkYS1zYW4td2EtaGV0YXJlLWdhby1nYS1taXRhaS1jaGFwdGVyLTIv",
-      "date": "50 menit yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Ogamida-san wa Hetare-Gao ga Mitai Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb2dhbWlkYS1zYW4td2EtaGV0YXJlLWdhby1nYS1taXRhaS1jaGFwdGVyLTEv",
-      "date": "50 menit yang lalu"
+      "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 5
 }

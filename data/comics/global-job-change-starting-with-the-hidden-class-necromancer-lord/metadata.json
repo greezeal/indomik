@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-15T02:32:50.139993",
+  "scraped_at": "2026-11-20T16:07:13.193412",
   "alternative_titles": "Global Class Change: Starting with the Hidden Class, Undead Monarch, Hidden Profession: Undead Monarch, 全民转职：开局隐藏职业亡灵君主",
   "status": "Berjalan",
   "author": "东南枝儿, 爱豆喵漫画",
@@ -19,34 +19,40 @@
   "synopsis": "Manhua                    Global Job Change: Starting With the Hidden Class Necromancer Lord yang dibuat oleh komikus bernama\n                    东南枝儿, 爱豆喵漫画 ini bercerita tentang\n                    Sebuah bencana global melanda dunia, monster-monster mengacaukan daratan, dan setiap orang yang menginjak usia delapan belas tahun harus menjalani proses kebangkitan untuk memilih antara kelas tempur atau kelas pendukung. Lü Yan membangkitkan kelas tempur terlemah—*necromancer*—dan diam-diam pergi di tengah cemoohan orang lain. Tak lama kemudian, Lü Yan muncul kembali dengan mengenakan zirah *undead*, menggenggam Sabit Dunia Bawah (*Netherworld Scythe*), serta memimpin pasukan yang terdiri dari 100.000 *undead*, sembari dengan santai membelah monster tingkat *epic* menjadi dua bagian. \"Kalian bilang *necromancer* itu lemah? Apa urusannya denganku, sang Penguasa *Undead*?\"",
   "chapters": [
     {
+      "chapter": "19",
+      "title": "Komik Global Job Change: Starting With the Hidden Class Necromancer Lord Chapter 19",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc3RhcnRpbmctd2l0aC10aGUtaGlkZGVuLWNsYXNzLW5lY3JvbWFuY2VyLWxvcmQtY2hhcHRlci0xOS8=",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "18",
       "title": "Komik Global Job Change: Starting With the Hidden Class Necromancer Lord Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc3RhcnRpbmctd2l0aC10aGUtaGlkZGVuLWNsYXNzLW5lY3JvbWFuY2VyLWxvcmQtY2hhcHRlci0xOC8=",
-      "date": "17 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Global Job Change: Starting With the Hidden Class Necromancer Lord Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc3RhcnRpbmctd2l0aC10aGUtaGlkZGVuLWNsYXNzLW5lY3JvbWFuY2VyLWxvcmQtY2hhcHRlci0xNy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Global Job Change: Starting With the Hidden Class Necromancer Lord Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc3RhcnRpbmctd2l0aC10aGUtaGlkZGVuLWNsYXNzLW5lY3JvbWFuY2VyLWxvcmQtY2hhcHRlci0xNi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Global Job Change: Starting With the Hidden Class Necromancer Lord Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc3RhcnRpbmctd2l0aC10aGUtaGlkZGVuLWNsYXNzLW5lY3JvbWFuY2VyLWxvcmQtY2hhcHRlci0xNS8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Global Job Change: Starting With the Hidden Class Necromancer Lord Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZ2xvYmFsLWpvYi1jaGFuZ2Utc3RhcnRpbmctd2l0aC10aGUtaGlkZGVuLWNsYXNzLW5lY3JvbWFuY2VyLWxvcmQtY2hhcHRlci0xNC8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
@@ -127,5 +133,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 18
+  "total_chapters": 19
 }

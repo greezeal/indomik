@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.29,
-  "scraped_at": "2026-11-19T00:56:38.837409",
+  "scraped_at": "2026-11-20T16:05:51.240252",
   "alternative_titles": "Karetsu na Seijo-sama ~Seijo Shoukan?! Kore wa Kadowakashidashi, Sonata-tachi wa Zenin Zainin Ja!!~, 苛烈な聖女様～聖女召喚？！これは拐かしだし、其方達は全員罪人じゃ！！～, The Fierce Saintess, The Furious Saintess, 苛烈な聖女様",
   "status": "Berjalan",
   "author": "Chika (千椛)",
@@ -24,22 +24,28 @@
   "synopsis": "Manga                    Karetsu na Seijo-sama yang dibuat oleh komikus bernama\n                    Chika (千椛) ini bercerita tentang\n                    Kerajaan Lestwick berada dalam kesulitan terbesar sejak didirikan karena wabah aneh binatang ajaib yang telah berlangsung selama dua tahun, dan mereka memutuskan untuk memanggil orang suci. Dan siapa pun yang muncul adalah cantik namun sengit gadis berpakaian asing!\n\n\"Ini penculikan, dan kalian semua adalah penjahat!!\"\n\nSanto Kana menggunakan kekuatannya untuk melawan orang-orang dari dunia lain dengan kasar.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Karetsu na Seijo-sama Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FyZXRzdS1uYS1zZWlqby1zYW1hLWNoYXB0ZXItMTAv",
+      "date": "26 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Karetsu na Seijo-sama Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FyZXRzdS1uYS1zZWlqby1zYW1hLWNoYXB0ZXItOS8=",
-      "date": "3 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Karetsu na Seijo-sama Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FyZXRzdS1uYS1zZWlqby1zYW1hLWNoYXB0ZXItOC8=",
-      "date": "5 hari yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Karetsu na Seijo-sama Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FyZXRzdS1uYS1zZWlqby1zYW1hLWNoYXB0ZXItNy8=",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "6",
@@ -69,7 +75,7 @@
       "chapter": "2",
       "title": "Komik Karetsu na Seijo-sama Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FyZXRzdS1uYS1zZWlqby1zYW1hLWNoYXB0ZXItMi8=",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "1",
@@ -78,5 +84,5 @@
       "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }

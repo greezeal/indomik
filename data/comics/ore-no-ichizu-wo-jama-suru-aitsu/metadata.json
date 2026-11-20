@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.68,
-  "scraped_at": "2026-11-13T18:55:07.094865",
+  "scraped_at": "2026-11-20T16:04:35.716438",
   "alternative_titles": "Ore no Ichizu o Jama Suru Aitsu, The Girl Who Gets In The Way of My One True Love, オレの一途を邪魔するアイツ, Temen Masa Kecilku Si Perusak Suasana, A garota que se mete no caminho do meu único e verdadeiro amor, Tình Yêu Đích Thực Của Tôi Bị Cản Trở Bởi Một Cô Gái, Celle Qui Se Met Entre Moi Et Mon Amour, Ore no Ichizu wo Jama Suru Aitsu",
   "status": "Berjalan",
   "author": "Toriburi",
@@ -23,22 +23,34 @@
   "synopsis": "Manga                    Ore no Ichizu wo Jama Suru Aitsu yang dibuat oleh komikus bernama\n                    Toriburi ini bercerita tentang\n                    Osanai Wakaba, anak kelas lima, sedang jatuh cinta dengan guru wali kelasnya! Untuk menjadi seorang pria yang layak untuk gurunya, dia berpura-pura menjadi lebih dewasa daripada dia sebenarnya! Tapi teman masa kecilnya, Wakunouchi Kai, mulai menggodanya setelah ia mengungkapkan perasaannya untuk gurunya. Kai memiliki perasaan padanya juga... dan dia mencoba untuk menangkap adalah perhatian dengan menggoda!\n\nJadi dimulai \"cinta tak berbalas ganda\" romcom, menampilkan anak laki-laki berjuang melawan menggoda kejenakaan teman masa kecilnya!",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Ore no Ichizu wo Jama Suru Aitsu Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5vLWljaGl6dS13by1qYW1hLXN1cnUtYWl0c3UtY2hhcHRlci0xMC8=",
+      "date": "5 menit yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Ore no Ichizu wo Jama Suru Aitsu Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5vLWljaGl6dS13by1qYW1hLXN1cnUtYWl0c3UtY2hhcHRlci05Lw==",
+      "date": "5 menit yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Ore no Ichizu wo Jama Suru Aitsu Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5vLWljaGl6dS13by1qYW1hLXN1cnUtYWl0c3UtY2hhcHRlci04Lw==",
-      "date": "22 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Ore no Ichizu wo Jama Suru Aitsu Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5vLWljaGl6dS13by1qYW1hLXN1cnUtYWl0c3UtY2hhcHRlci03Lw==",
-      "date": "22 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Ore no Ichizu wo Jama Suru Aitsu Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5vLWljaGl6dS13by1qYW1hLXN1cnUtYWl0c3UtY2hhcHRlci02Lw==",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "5",
@@ -50,7 +62,7 @@
       "chapter": "4",
       "title": "Komik Ore no Ichizu wo Jama Suru Aitsu Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5vLWljaGl6dS13by1qYW1hLXN1cnUtYWl0c3UtY2hhcHRlci00Lw==",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "3",
@@ -68,8 +80,8 @@
       "chapter": "1",
       "title": "Komik Ore no Ichizu wo Jama Suru Aitsu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3JlLW5vLWljaGl6dS13by1qYW1hLXN1cnUtYWl0c3UtY2hhcHRlci0xLw==",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 10
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.71,
-  "scraped_at": "2026-11-19T17:45:35.659742",
+  "scraped_at": "2026-11-20T16:03:52.191454",
   "alternative_titles": "Slime Seijo, スライム聖女, 슬라임 성녀, La Sainte Slime, Слизь, ставшая святой, 史莱姆圣女, Slime Saint",
   "status": "Berjalan",
   "author": "Yao Aira",
@@ -24,28 +24,40 @@
   "synopsis": "Manga                    Slime Saint yang dibuat oleh komikus bernama\n                    Yao Aira ini bercerita tentang\n                    Monster terlemah (lendir) yang ingin menjadi manusia direinkarnasi sebagai orang suci, tetapi dengan karakter terburuk dari semua, seorang gadis mulia jahat. Dari status terendah, membenci dan membenci; eksistensi di mana dia akan dihentikan segera jika identitas sebenarnya sebagai lendir ditemukan, dia akan menjadi orang suci tercinta dalam rangka untuk hidup yang aman dan aman!",
   "chapters": [
     {
+      "chapter": "35",
+      "title": "Komik Slime Saint Chapter 35",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0zNS8=",
+      "date": "2 menit yang lalu"
+    },
+    {
+      "chapter": "34",
+      "title": "Komik Slime Saint Chapter 34",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0zNC8=",
+      "date": "3 menit yang lalu"
+    },
+    {
       "chapter": "31",
       "title": "Komik Slime Saint Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0zMS8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Slime Saint Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0zMC8=",
-      "date": "3 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "28",
       "title": "Komik Slime Saint Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0yOC8=",
-      "date": "12 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik Slime Saint Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2xpbWUtc2FpbnQtY2hhcHRlci0yNy8=",
-      "date": "12 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "25",
@@ -198,5 +210,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 29
+  "total_chapters": 31
 }
