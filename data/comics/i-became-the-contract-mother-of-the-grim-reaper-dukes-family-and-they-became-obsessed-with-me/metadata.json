@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 6.86,
-  "scraped_at": "2026-11-18T02:00:00.191491",
+  "scraped_at": "2026-11-19T23:57:57.480497",
   "alternative_titles": "Shinigami Koushakuka no Heiyaku Haha ni Nattara Shuushaku Saresugimashita, 死神公爵家の契約母になったら執着されすぎました, I Became the Contract Mother of the Grim Reaper's Household, and He Got Way Too Obsessed With Me, The Grim Reaper Duke's Obsessive Contract Mother, 사신 공작가의 계모가 됐더니 모두가 집착한다, I Became the Contract Mother of the Grim Reaper Duke’s Family and They Became Obsessed With Me",
   "status": "Berjalan",
   "author": "sunag_IM",
@@ -22,22 +22,34 @@
   "synopsis": "Manga                    I Became the Contract Mother of the Grim Reaper Duke’s Family and They Became Obsessed With Me yang dibuat oleh komikus bernama\n                    sunag_IM ini bercerita tentang\n                    Dibunuh oleh suaminya sendiri, sang pangeran, Lady Amelie terbangun setahun sebelum pernikahannya berakhir. Bermaksud untuk mengubah nasibnya, dia mengusulkan pernikahan kontrak dengan Duke Gazelle Isaac - terkenal dikenal sebagai \"Grim Reaper\".\n\nKondisi satu-satunya?\n\nDia harus menjalin ikatan dengan anak kembarnya yang terluka.\n\nDikelilingi oleh rahasia dan bayangan, bisakah Amelie menulis ulang takdir untuk dirinya sendiri dan Duke yang ditakuti?",
   "chapters": [
     {
+      "chapter": "76",
+      "title": "Komik I Became the Contract Mother of the Grim Reaper Duke’s Family and They Became Obsessed With Me Chapter 76",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLWNvbnRyYWN0LW1vdGhlci1vZi10aGUtZ3JpbS1yZWFwZXItZHVrZXMtZmFtaWx5LWFuZC10aGV5LWJlY2FtZS1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItNzYv",
+      "date": "2 jam yang lalu"
+    },
+    {
+      "chapter": "75",
+      "title": "Komik I Became the Contract Mother of the Grim Reaper Duke’s Family and They Became Obsessed With Me Chapter 75",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLWNvbnRyYWN0LW1vdGhlci1vZi10aGUtZ3JpbS1yZWFwZXItZHVrZXMtZmFtaWx5LWFuZC10aGV5LWJlY2FtZS1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItNzUv",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "74",
       "title": "Komik I Became the Contract Mother of the Grim Reaper Duke’s Family and They Became Obsessed With Me Chapter 74",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLWNvbnRyYWN0LW1vdGhlci1vZi10aGUtZ3JpbS1yZWFwZXItZHVrZXMtZmFtaWx5LWFuZC10aGV5LWJlY2FtZS1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItNzQv",
-      "date": "4 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "73",
       "title": "Komik I Became the Contract Mother of the Grim Reaper Duke’s Family and They Became Obsessed With Me Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLWNvbnRyYWN0LW1vdGhlci1vZi10aGUtZ3JpbS1yZWFwZXItZHVrZXMtZmFtaWx5LWFuZC10aGV5LWJlY2FtZS1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItNzMv",
-      "date": "4 menit yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "72",
       "title": "Komik I Became the Contract Mother of the Grim Reaper Duke’s Family and They Became Obsessed With Me Chapter 72",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaS1iZWNhbWUtdGhlLWNvbnRyYWN0LW1vdGhlci1vZi10aGUtZ3JpbS1yZWFwZXItZHVrZXMtZmFtaWx5LWFuZC10aGV5LWJlY2FtZS1vYnNlc3NlZC13aXRoLW1lLWNoYXB0ZXItNzIv",
-      "date": "1 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "71",
@@ -466,5 +478,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 74
+  "total_chapters": 76
 }
