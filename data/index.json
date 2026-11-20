@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T00:00:08.341844",
-  "total_comics": 2640,
+  "last_updated": "2026-11-20T07:06:09.822348",
+  "total_comics": 2654,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -336,7 +336,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.89,
-      "total_chapters": 946
+      "total_chapters": 947
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -432,7 +432,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.86,
-      "total_chapters": 144
+      "total_chapters": 145
     },
     {
       "slug": "269600-the-little-brother-is-the-academys-hotshot",
@@ -1200,7 +1200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 145
+      "total_chapters": 147
     },
     {
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
@@ -2128,7 +2128,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 44
+      "total_chapters": 47
     },
     {
       "slug": "the-ultimate-of-all-ages",
@@ -3440,7 +3440,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 36
+      "total_chapters": 39
     },
     {
       "slug": "a-relationship-communicated-through-hm-and-mhm",
@@ -3847,8 +3847,8 @@
       "title": "Koi to Yobu ni wa Sasayaka desu ga",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 9
+      "rating": 8.97,
+      "total_chapters": 12
     },
     {
       "slug": "kaji-daikou-no-arubaito-wo-hajimetara-gakuen-ichi-no-bishoujo-no-kazoku-ni-kiniirarechaimashita",
@@ -4328,7 +4328,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.1,
-      "total_chapters": 61
+      "total_chapters": 62
     },
     {
       "slug": "it-all-starts-with-trillions-of-nether-currency",
@@ -5424,7 +5424,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.28,
-      "total_chapters": 147
+      "total_chapters": 153
     },
     {
       "slug": "hochiya-san-wa-amariaru",
@@ -6496,7 +6496,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.55,
-      "total_chapters": 94
+      "total_chapters": 96
     },
     {
       "slug": "214767-the-novels-extra",
@@ -6968,7 +6968,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.62,
-      "total_chapters": 19
+      "total_chapters": 22
     },
     {
       "slug": "henkyou-mob-kizoku-no-uchi-ni-totsui-de-kita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nandaga",
@@ -12864,7 +12864,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 41
     },
     {
       "slug": "risou-no-kanojo",
@@ -15784,7 +15784,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 24
+      "total_chapters": 25
     },
     {
       "slug": "academy-saikyou-no-mob-healer-shinigee-sekai-no-mob-ni-tensei-shita-ore-wa-hazure-job-healer-to-gensaku-chishiki-de-musou-suru",
@@ -15976,7 +15976,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 40
+      "total_chapters": 41
     },
     {
       "slug": "the-transcendent-holy-swordsman-regresses-as-the-youngest-son-of-a-magic-swordsman-family",
@@ -18685,10 +18685,10 @@
     {
       "slug": "register",
       "title": "Register!",
-      "type": "",
+      "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.0,
-      "total_chapters": 17
+      "rating": 7.7,
+      "total_chapters": 24
     },
     {
       "slug": "a-strange-but-effective-villainess-life",
@@ -19104,7 +19104,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.77,
-      "total_chapters": 17
+      "total_chapters": 18
     },
     {
       "slug": "watashi-no-otto-wa-reitouko-ni-nemutte-iru",
@@ -20048,7 +20048,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.39,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "mitame-to-urahara",
@@ -20576,7 +20576,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.01,
-      "total_chapters": 7
+      "total_chapters": 11
     },
     {
       "slug": "hoshikita-kirara-wa-kiramekitai",
@@ -20856,7 +20856,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 6.05,
-      "total_chapters": 2
+      "total_chapters": 3
     },
     {
       "slug": "otokonoko-mo-meidofuku-de-kawaiku-natte-idesu-ka",
@@ -20952,7 +20952,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.72,
-      "total_chapters": 5
+      "total_chapters": 7
     },
     {
       "slug": "24-hours-resurrection-of-the-villainess",
@@ -21000,7 +21000,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.83,
-      "total_chapters": 17
+      "total_chapters": 21
     },
     {
       "slug": "isekai-man-chikin-hp-1-no-mama-de-saikyou-saisoku-danjon-kouryaku",
@@ -21121,6 +21121,118 @@
       "status": "Berjalan",
       "rating": 7.0,
       "total_chapters": 7
+    },
+    {
+      "slug": "oops-i-raised-the-world-destroyer-wrongly",
+      "title": "Oops, I Raised the World Destroyer Wrongly",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.33,
+      "total_chapters": 6
+    },
+    {
+      "slug": "musume-ga-kanojo-wo-tsuretekita-hanashi",
+      "title": "Musume ga Kanojo wo Tsuretekita Hanashi",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.47,
+      "total_chapters": 4
+    },
+    {
+      "slug": "the-demon-queen-keeps-forcing-me-to-make-wishes",
+      "title": "The Demon Queen Keeps Forcing Me to Make Wishes",
+      "type": "Manhua",
+      "status": "Berjalan",
+      "rating": 6.16,
+      "total_chapters": 14
+    },
+    {
+      "slug": "nami-no-shijima-no-horizont",
+      "title": "Nami no Shijima no Horizont",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.63,
+      "total_chapters": 1
+    },
+    {
+      "slug": "maou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru",
+      "title": "Maou ni Natte node – Dungeon Tsukutte Jingai Musume to Honobono suru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.4,
+      "total_chapters": 0
+    },
+    {
+      "slug": "sonna-koto-kaite-iin-desu-ka",
+      "title": "Sonna Koto, Kaite Iin desu ka!?",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.56,
+      "total_chapters": 20
+    },
+    {
+      "slug": "the-sergeants-dragon",
+      "title": "The Sergeant’s Dragon",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.28,
+      "total_chapters": 11
+    },
+    {
+      "slug": "reteen-mayu-no-naka-de-mou-ichido-10-dai-no-kimi-to-au",
+      "title": "Re:teen – Mayu no Naka de Mou Ichido 10-dai no Kimi to Au",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.48,
+      "total_chapters": 1
+    },
+    {
+      "slug": "logging-out-is-too-hard",
+      "title": "Logging Out Is Too Hard",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.36,
+      "total_chapters": 22
+    },
+    {
+      "slug": "mahoutsukai-no-yoru",
+      "title": "Mahoutsukai no Yoru",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.97,
+      "total_chapters": 0
+    },
+    {
+      "slug": "kakuzukesareru-sekai-de-ikiteiku",
+      "title": "Kakuzukesareru Sekai de Ikiteiku",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.16,
+      "total_chapters": 9
+    },
+    {
+      "slug": "kimi-wa-shuumatsu",
+      "title": "Kimi wa Shuumatsu",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.11,
+      "total_chapters": 4
+    },
+    {
+      "slug": "gakuen-ichi-kawaii-kouhai-no-inochi-no-onjin-ni-nattara-kayoizuma-ni-natte-kankei-wo-sematte-kuru",
+      "title": "Gakuen Ichi Kawaii Kouhai no Inochi no Onjin ni Nattara, Kayoizuma ni Natte Kankei wo Sematte Kuru.",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.46,
+      "total_chapters": 10
+    },
+    {
+      "slug": "konyaku-kaihi-no-tame-koe-wo-dasanai-to-kimemashita",
+      "title": "Konyaku Kaihi no Tame, Koe wo Dasanai to Kimemashita!!",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 6.67,
+      "total_chapters": 9
     }
   ]
 }

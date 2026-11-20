@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-13T18:52:44.241809",
+  "scraped_at": "2026-11-20T07:01:32.383998",
   "alternative_titles": "Supreme Job Change, The Former Absolute Supreme, The Former Supreme, 轉職至尊, 전직지존",
   "status": "Berjalan",
   "author": "Jang Yeonghun, KHJ",
@@ -20,34 +20,40 @@
   "synopsis": "Manhwa                    The Former Absolute Supreme yang dibuat oleh komikus bernama\n                    Jang Yeonghun, KHJ ini bercerita tentang\n                    Baek Socheon, yang dulunya adalah master Jianghu yang tak tertandingi, kini hanya memiliki jabatan administratif semata.\r\n\r\nMeskipun telah kehilangan kemampuan bela diri dan kehormatannya, semangatnya tetap tak tergoyahkan...\r\n\r\nMemulai kembali dari titik terendah, mantan penguasa tertinggi ini bertekad untuk merebut kembali kekuasaan yang hilang dan waktu yang telah ditinggalkannya.\r\n\r\nDemikianlah dimulainya legenda bela diri kedua dari pria yang dulunya terkuat.",
   "chapters": [
     {
+      "chapter": "25",
+      "title": "Komik The Former Absolute Supreme Chapter 25",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMjUv",
+      "date": "1 jam yang lalu"
+    },
+    {
       "chapter": "24",
       "title": "Komik The Former Absolute Supreme Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMjQv",
-      "date": "13 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Former Absolute Supreme Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMjMv",
-      "date": "7 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Former Absolute Supreme Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMjIv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik The Former Absolute Supreme Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMjEv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik The Former Absolute Supreme Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMjAv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -83,7 +89,7 @@
       "chapter": "14",
       "title": "Komik The Former Absolute Supreme Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMTQv",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "13",
@@ -107,13 +113,13 @@
       "chapter": "10",
       "title": "Komik The Former Absolute Supreme Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItMTAv",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik The Former Absolute Supreme Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWZvcm1lci1hYnNvbHV0ZS1zdXByZW1lLWNoYXB0ZXItOS8=",
-      "date": "3 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -164,5 +170,5 @@
       "date": "4 bulan yang lalu"
     }
   ],
-  "total_chapters": 24
+  "total_chapters": 25
 }
