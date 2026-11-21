@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.97,
-  "scraped_at": "2026-11-20T07:03:41.374059",
+  "scraped_at": "2026-11-21T18:22:20.060306",
   "alternative_titles": "魔法使いの夜, Witch on the Holy Night, Mahōtsukai no Yoru - Les évènements de la journée",
   "status": "Berjalan",
   "author": "TYPE-MOON",
@@ -19,6 +19,19 @@
     "Slice of Life"
   ],
   "synopsis": "Manga                    Mahoutsukai no Yoru yang dibuat oleh komikus bernama\n                    TYPE-MOON ini bercerita tentang",
-  "chapters": [],
-  "total_chapters": 0
+  "chapters": [
+    {
+      "chapter": "2",
+      "title": "Komik Mahoutsukai no Yoru Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFob3V0c3VrYWktbm8teW9ydS1jaGFwdGVyLTIv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "1",
+      "title": "Komik Mahoutsukai no Yoru Chapter 1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFob3V0c3VrYWktbm8teW9ydS1jaGFwdGVyLTEv",
+      "date": "1 hari yang lalu"
+    }
+  ],
+  "total_chapters": 2
 }

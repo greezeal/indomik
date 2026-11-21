@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 6.9,
-  "scraped_at": "2026-11-12T02:30:58.080244",
+  "scraped_at": "2026-11-21T18:23:14.528091",
   "alternative_titles": "ストラテジックラバーズ, 戰略情人, Strategic Lovers",
   "status": "Berjalan",
   "author": "Sanshoku Amido",
@@ -25,34 +25,46 @@
   "synopsis": "Manga                    Strategic Lovers yang dibuat oleh komikus bernama\n                    Sanshoku Amido ini bercerita tentang\n                    Kouta, seorang anak SMA yang ayahnya adalah ketua Grup Higashiyama, sebuah perusahaan besar yang terlibat dalam pengembangan kereta api, department store, dan fasilitas resor, memainkan peran utama dalam permainan bertahan hidup romantis. Sebagai putra dari simpanan 23 ayahnya, Kota tidak benar-benar merasa seperti anak ketua. Meskipun demikian, dia tiba-tiba dipilih sebagai ketua Grup Higashiyama berikutnya dan ditugaskan seorang gadis untuk menjadi gundiknya.",
   "chapters": [
     {
+      "chapter": "37",
+      "title": "Komik Strategic Lovers Chapter 37",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTM3Lw==",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "36",
+      "title": "Komik Strategic Lovers Chapter 36",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTM2Lw==",
+      "date": "1 minggu yang lalu"
+    },
+    {
       "chapter": "35",
       "title": "Komik Strategic Lovers Chapter 35",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTM1Lw==",
-      "date": "8 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "34",
       "title": "Komik Strategic Lovers Chapter 34",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTM0Lw==",
-      "date": "2 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "33",
       "title": "Komik Strategic Lovers Chapter 33",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTMzLw==",
-      "date": "4 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "32",
       "title": "Komik Strategic Lovers Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTMyLw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Strategic Lovers Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3RyYXRlZ2ljLWxvdmVycy1jaGFwdGVyLTMxLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "30",
@@ -235,5 +247,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 35
+  "total_chapters": 37
 }
