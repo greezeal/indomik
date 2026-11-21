@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.83,
-  "scraped_at": "2026-11-20T06:57:47.201815",
+  "scraped_at": "2026-11-21T11:48:48.256635",
   "alternative_titles": "Dokushin Ojisan no Isekai Life ~Kekkon Shimasen, Free na Dokushin Koso Saikou desu~, 独身おじさんの異世界ライフ～結婚しません、フリーな独身こそ最高です～, Middle-Aged Bachelor's Isekai Life, A Vida de Um Tio Solteiro em Outro Mundo, Single Middle-Aged Man’s Isekai Life ~Staying Free and Unmarried Is the Best!~, Dokushin Ojisan no Isekai Life",
   "status": "Berjalan",
   "author": "Sato",
@@ -23,40 +23,52 @@
   "synopsis": "Manga                    Dokushin Ojisan no Isekai Life yang dibuat oleh komikus bernama\n                    Sato ini bercerita tentang\n                    Oda Gentoku, seorang tukang yang menjalankan sebuah toko kecil \"odd-jobs\" di kota, menjalani kehidupan riang sementara dengan bangga menyatakan dia akan tinggal sendiri selamanya. Tapi suatu hari, saat mengerjakan perbaikan listrik, dia tiba-tiba tersengat listrik dan bangun di dunia lain! Ini adalah kisah seorang pria berusia menengah yang tetap tetap tunggal, mengambil pengrajin perdagangan sekali lagi, dan menikmati kehidupan bebas dan mudah di dunia lain.",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Dokushin Ojisan no Isekai Life Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMjQv",
+      "date": "37 menit yang lalu"
+    },
+    {
+      "chapter": "23",
+      "title": "Komik Dokushin Ojisan no Isekai Life Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMjMv",
+      "date": "38 menit yang lalu"
+    },
+    {
       "chapter": "22",
       "title": "Komik Dokushin Ojisan no Isekai Life Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMjIv",
-      "date": "6 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Dokushin Ojisan no Isekai Life Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMjEv",
-      "date": "6 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Dokushin Ojisan no Isekai Life Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMjAv",
-      "date": "20 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Dokushin Ojisan no Isekai Life Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMTkv",
-      "date": "20 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Dokushin Ojisan no Isekai Life Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMTgv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Dokushin Ojisan no Isekai Life Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG9rdXNoaW4tb2ppc2FuLW5vLWlzZWthaS1saWZlLWNoYXB0ZXItMTcv",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "15",
@@ -149,5 +161,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 21
+  "total_chapters": 23
 }

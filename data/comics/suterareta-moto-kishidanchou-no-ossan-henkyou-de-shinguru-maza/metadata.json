@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.96,
-  "scraped_at": "2026-11-21T03:33:26.986434",
+  "scraped_at": "2026-11-21T11:52:19.568725",
   "alternative_titles": "捨てられた元騎士団長のおっさん、辺境でシングルマザ, The Discarded Former Knight Commander Is Taken in by a Single Mother, Suterareta Moto Kishi Danchou no Ossan, Henkyou de Single Mother ni Hirowareru, 捨てられた元騎士団長のおっさん、辺境でシングルマザーに拾われる",
   "status": "Berjalan",
   "author": "Aomoto Haru",
@@ -24,17 +24,23 @@
   "synopsis": "Manga                    Suterareta Moto Kishidanchou no Ossan, Henkyou de Shinguru Maza yang dibuat oleh komikus bernama\n                    Aomoto Haru ini bercerita tentang\n                    Kau dengan ini dihukum permanen pengasingan di Dawnbarth, perbatasan terpencil di mana manusia dan monster terkunci dalam perjuangan konstan untuk bertahan hidup!\n\nSuatu hari, Gale Coltrane, Komandan Ksatria Kerajaan, tiba-tiba dilucuti dari posisinya setelah dituduh melakukan kejahatan yang tidak pernah dilakukannya. Setelah kehilangan status dan reputasinya, Gale menyaksikan semua orang yang pernah dia kenal berpaling darinya saat mereka mengetahui kejatuhannya.\n\nMeskipun belas kasihan raja menyelamatkan hidupnya, Gale dibuang ke jangkauan terjauh dari kerajaan, perbatasan terpencil di mana manusia dan monster berjuang hari demi hari untuk hak untuk bertahan hidup. Tidak bisa mempercayai siapa pun lagi, Gale jatuh dalam keputusasaan dan mulai hidup sembarangan. Entah itu menyebar ke dalam Hutan Iblis dengan peralatan apapun atau menenggelamkan dirinya dalam alkohol, tindakannya secara praktis merusak diri sendiri.\n\nKemudian, suatu hari, Gale runtuh di pinggir jalan, di mana ia ditemukan oleh Alisha, ibu tunggal membesarkan anak kembar semua sendiri. Berbelas kasihan padanya, dia memutuskan untuk membawanya.",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Suterareta Moto Kishidanchou no Ossan, Henkyou de Shinguru Maza Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3V0ZXJhcmV0YS1tb3RvLWtpc2hpZGFuY2hvdS1uby1vc3Nhbi1oZW5reW91LWRlLXNoaW5ndXJ1LW1hemEtY2hhcHRlci0zLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Suterareta Moto Kishidanchou no Ossan, Henkyou de Shinguru Maza Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3V0ZXJhcmV0YS1tb3RvLWtpc2hpZGFuY2hvdS1uby1vc3Nhbi1oZW5reW91LWRlLXNoaW5ndXJ1LW1hemEtY2hhcHRlci0yLw==",
-      "date": "2 menit yang lalu"
+      "date": "15 jam yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Suterareta Moto Kishidanchou no Ossan, Henkyou de Shinguru Maza Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3V0ZXJhcmV0YS1tb3RvLWtpc2hpZGFuY2hvdS1uby1vc3Nhbi1oZW5reW91LWRlLXNoaW5ndXJ1LW1hemEtY2hhcHRlci0xLw==",
-      "date": "2 menit yang lalu"
+      "date": "15 jam yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

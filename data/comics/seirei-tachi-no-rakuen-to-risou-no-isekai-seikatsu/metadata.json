@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.68,
-  "scraped_at": "2026-11-15T02:34:23.371388",
+  "scraped_at": "2026-11-21T11:52:47.463150",
   "alternative_titles": "精霊達の楽園と理想の異世界生活, The Spirits’ Paradise and the Ideal Otherworldly Life, Paradise of Spirits and Ideal Life of Different World, Spirits Paradise and The Idle Another World Life, 정령들의 낙원과 이상적인 이세계 생활, 精靈們的樂園與理想的異世界生活, 精灵们的乐园与理想的异世界生活, Рай духов и идеальная жизнь в другом мире, Seirei-tachi no Rakuen to Risō no Isekai Seikatsu, Seirei-tachi no Rakuen to Risou no Isekai Seikatsu",
   "status": "Berjalan",
   "author": "Tamutamu",
@@ -33,16 +33,22 @@
   "synopsis": "Manga                    Seirei-tachi no Rakuen to Risou no Isekai Seikatsu yang dibuat oleh komikus bernama\n                    Tamutamu ini bercerita tentang\n                    Ini adalah Golden Week, dan Moderono Yuuta tidak sabar untuk menghabiskan 11 hari berikutnya tinggal di rumah dan menaklukkan semua permainan dan manga. Setelah perjalanan ke supermarket untuk persediaan makanan Namun, ia menemukan dirinya terdampar di sebuah gurun tanpa melihat manusia. Sekarang dia hanya harus menemukan cara untuk hidup di dunia ini hanya dibantu oleh beberapa alat sihir dan banyak Roh yang dia temui.",
   "chapters": [
     {
+      "chapter": "80",
+      "title": "Komik Seirei-tachi no Rakuen to Risou no Isekai Seikatsu Chapter 80",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLXRhY2hpLW5vLXJha3Vlbi10by1yaXNvdS1uby1pc2VrYWktc2Vpa2F0c3UtY2hhcHRlci04MC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "79",
       "title": "Komik Seirei-tachi no Rakuen to Risou no Isekai Seikatsu Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLXRhY2hpLW5vLXJha3Vlbi10by1yaXNvdS1uby1pc2VrYWktc2Vpa2F0c3UtY2hhcHRlci03OS8=",
-      "date": "1 jam yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik Seirei-tachi no Rakuen to Risou no Isekai Seikatsu Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLXRhY2hpLW5vLXJha3Vlbi10by1yaXNvdS1uby1pc2VrYWktc2Vpa2F0c3UtY2hhcHRlci03OC8=",
-      "date": "3 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "77",
@@ -168,7 +174,7 @@
       "chapter": "57",
       "title": "Komik Seirei-tachi no Rakuen to Risou no Isekai Seikatsu Chapter 57",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLXRhY2hpLW5vLXJha3Vlbi10by1yaXNvdS1uby1pc2VrYWktc2Vpa2F0c3UtY2hhcHRlci01Ny8=",
-      "date": "2 tahun yang lalu"
+      "date": "3 tahun yang lalu"
     },
     {
       "chapter": "56",
@@ -264,19 +270,19 @@
       "chapter": "41",
       "title": "Komik Seirei-tachi no Rakuen to Risou no Isekai Seikatsu Chapter 41",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLXRhY2hpLW5vLXJha3Vlbi10by1yaXNvdS1uby1pc2VrYWktc2Vpa2F0c3UtY2hhcHRlci00MS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "40",
       "title": "Komik Seirei-tachi no Rakuen to Risou no Isekai Seikatsu Chapter 40",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLXRhY2hpLW5vLXJha3Vlbi10by1yaXNvdS1uby1pc2VrYWktc2Vpa2F0c3UtY2hhcHRlci00MC8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "39",
       "title": "Komik Seirei-tachi no Rakuen to Risou no Isekai Seikatsu Chapter 39",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2VpcmVpLXRhY2hpLW5vLXJha3Vlbi10by1yaXNvdS1uby1pc2VrYWktc2Vpa2F0c3UtY2hhcHRlci0zOS8=",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "38",
@@ -507,5 +513,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 79
+  "total_chapters": 80
 }

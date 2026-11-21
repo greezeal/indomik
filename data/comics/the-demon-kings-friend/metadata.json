@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-11T14:06:00.692368",
+  "scraped_at": "2026-11-21T11:52:04.898081",
   "alternative_titles": "Friend of the Demon King, 마왕의 친구",
   "status": "Berjalan",
   "author": "Skulley",
@@ -19,28 +19,34 @@
   "synopsis": "Manhwa                    The Demon King’s Friend yang dibuat oleh komikus bernama\n                    Skulley ini bercerita tentang\n                    \"Hari ini, seluruh kaum iblis di dunia akan lenyap.\"\r\n\r\n'Formasi Penyegel Iblis Kontinental'—kartu as terakhir umat manusia untuk mengakhiri perang seratus tahun melawan kaum iblis.\r\n\r\nSang pahlawan, Part, dan penyihir kekaisaran, Noah, dikerahkan untuk menuntaskan misi ini.\r\n\r\nBersama Roro, seorang gembala muda yang mereka temui di tujuan akhir perjalanan, mereka akhirnya berada di ambang penyelesaian rencana besar tersebut.\r\n\r\nNamun pada hari itu, segalanya berubah total.",
   "chapters": [
     {
+      "chapter": "17",
+      "title": "Komik The Demon King’s Friend Chapter 17",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTE3Lw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "16",
       "title": "Komik The Demon King’s Friend Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTE2Lw==",
-      "date": "36 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Demon King’s Friend Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTE1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Demon King’s Friend Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTE0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The Demon King’s Friend Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTEzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -52,19 +58,19 @@
       "chapter": "11",
       "title": "Komik The Demon King’s Friend Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTExLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The Demon King’s Friend Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTEwLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "9",
       "title": "Komik The Demon King’s Friend Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRlbW9uLWtpbmdzLWZyaWVuZC1jaGFwdGVyLTkv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "8",
@@ -115,5 +121,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 16
+  "total_chapters": 17
 }

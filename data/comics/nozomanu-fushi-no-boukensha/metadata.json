@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.6,
-  "scraped_at": "2026-11-21T03:34:49.022317",
+  "scraped_at": "2026-11-21T11:48:02.241983",
   "alternative_titles": "望まぬ不死の冒険者, The Unwanted Undead Adventurer, 바라지 않는 불사의 모험자, 事與願違的不死冒險者, L'aventurier immortel indésiré, Нежеланно бессмертный авантюрист, เส้นทางพลิกผันของราชันอมตะ (DEXPRESS), 事与愿违的不死冒险者, Nozomanu Fushi no Boukensha",
   "status": "Berjalan",
   "author": "Okano Yuu",
@@ -31,10 +31,16 @@
   "synopsis": "Manga                    Nozomanu Fushi no Boukensha yang dibuat oleh komikus bernama\n                    Okano Yuu ini bercerita tentang\n                    Sudah sepuluh tahun sejak Rentt Faina, down- on keberuntungannya Bronze- kelas petualang, menetapkan matanya pada menjadi Mitheri- kelas. Sayangnya, Rentt menemukan dirinya tak berdaya ketika dihadapkan dengan seorang Dragon legendaris di Labyrinth of the Moon 's Reflection... dan kemudian dimakan. Tapi Rentt secara ajaib telah bangkit kembali... sebagai kerangka?",
   "chapters": [
     {
+      "chapter": "71",
+      "title": "Komik Nozomanu Fushi no Boukensha Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm96b21hbnUtZnVzaGktbm8tYm91a2Vuc2hhLWNoYXB0ZXItNzEv",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "70",
       "title": "Komik Nozomanu Fushi no Boukensha Chapter 70",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbm96b21hbnUtZnVzaGktbm8tYm91a2Vuc2hhLWNoYXB0ZXItNzAv",
-      "date": "1 jam yang lalu"
+      "date": "16 jam yang lalu"
     },
     {
       "chapter": "69",
@@ -511,5 +517,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 80
+  "total_chapters": 81
 }

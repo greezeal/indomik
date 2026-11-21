@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.5,
-  "scraped_at": "2026-11-20T16:07:37.120650",
+  "scraped_at": "2026-11-21T11:47:57.189234",
   "alternative_titles": "今朝も揺られてます, They are Still Being Shaken This Morning, 今朝摇曳依旧, Трясучка по утрам, Цього ранку їх досі трясе, Thình thịch mỗi sớm mai, They're Being Shaken This Morning Too, Kessa mo Yuraretemasu, Kesa Mo Yuraretemasu",
   "status": "Berjalan",
   "author": "Masuda Eiji",
@@ -24,34 +24,40 @@
   "synopsis": "Manga                    Kesa Mo Yuraretemasu yang dibuat oleh komikus bernama\n                    Masuda Eiji ini bercerita tentang\n                    Setiap pagi jam 6: 58, komuter bergegas ke kereta di stasiun Sakuratoniya. Selama beberapa bulan terakhir, asmara sementara telah menyeduh antara dua siswa dari sekolah yang berbeda. Pemuda itu mudah bingung, selalu mencuri sekilas pada wanita muda, tetapi tidak pernah membuat bergerak - banyak kekecewaan penumpang lain, yang telah bersorak mereka secara rahasia. Akankah kisah cinta ini pernah berkembang?",
   "chapters": [
     {
+      "chapter": "54",
+      "title": "Komik Kesa Mo Yuraretemasu Chapter 54",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci01NC8=",
+      "date": "29 menit yang lalu"
+    },
+    {
       "chapter": "53.5",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 53.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci01My01Lw==",
-      "date": "42 menit yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "53",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 53",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci01My8=",
-      "date": "42 menit yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "52",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 52",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci01Mi8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "51",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci01MS8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "50",
       "title": "Komik Kesa Mo Yuraretemasu Chapter 50",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2VzYS1tby15dXJhcmV0ZW1hc3UtY2hhcHRlci01MC8=",
-      "date": "4 hari yang lalu"
+      "date": "5 hari yang lalu"
     },
     {
       "chapter": "49",
@@ -348,5 +354,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 54
+  "total_chapters": 55
 }
