@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.74,
-  "scraped_at": "2026-11-09T02:44:41.460321",
+  "scraped_at": "2026-11-22T12:01:23.286523",
   "alternative_titles": "桃源暗鬼",
   "status": "Berjalan",
   "author": "Urushibara Yura",
@@ -22,40 +22,58 @@
   "synopsis": "Manga                    Tougen Anki yang dibuat oleh komikus bernama\n                    Urushibara Yura ini bercerita tentang\n                    Ichinose Shiki, pewaris darah Oni telah menjalani seluruh masa kecilnya tanpa menyadari fakta ini. Namun, ketika seorang pria tak dikenal datang bergegas ke rumahnya dalam upaya untuk membunuhnya, ayah angkatnya akhirnya mengungkapkan kebenarannya. Di dunia di mana Oni dan Momotarou tidak pernah bisa hidup berdampingan, bergabunglah dengan Ichinose dalam perjuangannya untuk merebut kekuasaan dan mempersatukan dua ras!",
   "chapters": [
     {
+      "chapter": "247",
+      "title": "Komik Tougen Anki Chapter 247",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDcv",
+      "date": "1 jam yang lalu"
+    },
+    {
+      "chapter": "246",
+      "title": "Komik Tougen Anki Chapter 246",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDYv",
+      "date": "5 hari yang lalu"
+    },
+    {
+      "chapter": "245",
+      "title": "Komik Tougen Anki Chapter 245",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDUv",
+      "date": "5 hari yang lalu"
+    },
+    {
       "chapter": "244",
       "title": "Komik Tougen Anki Chapter 244",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDQv",
-      "date": "4 jam yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "243",
       "title": "Komik Tougen Anki Chapter 243",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDMv",
-      "date": "1 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "242",
       "title": "Komik Tougen Anki Chapter 242",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDIv",
-      "date": "1 hari yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "241",
       "title": "Komik Tougen Anki Chapter 241",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDEv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "240",
       "title": "Komik Tougen Anki Chapter 240",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yNDAv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "239",
       "title": "Komik Tougen Anki Chapter 239",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMzkv",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "238",
@@ -79,7 +97,7 @@
       "chapter": "235",
       "title": "Komik Tougen Anki Chapter 235",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMzUv",
-      "date": "6 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "234",
@@ -97,7 +115,7 @@
       "chapter": "232",
       "title": "Komik Tougen Anki Chapter 232",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMzIv",
-      "date": "7 bulan yang lalu"
+      "date": "8 bulan yang lalu"
     },
     {
       "chapter": "231",
@@ -109,13 +127,13 @@
       "chapter": "230",
       "title": "Komik Tougen Anki Chapter 230",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMzAv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "229",
       "title": "Komik Tougen Anki Chapter 229",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjkv",
-      "date": "8 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     },
     {
       "chapter": "228",
@@ -127,43 +145,43 @@
       "chapter": "227",
       "title": "Komik Tougen Anki Chapter 227",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjcv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "226",
       "title": "Komik Tougen Anki Chapter 226",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjYv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "225",
       "title": "Komik Tougen Anki Chapter 225",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjUv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "224",
       "title": "Komik Tougen Anki Chapter 224",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjQv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "223",
       "title": "Komik Tougen Anki Chapter 223",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjMv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "222",
       "title": "Komik Tougen Anki Chapter 222",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjIv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "221",
       "title": "Komik Tougen Anki Chapter 221",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMjEv",
-      "date": "9 bulan yang lalu"
+      "date": "10 bulan yang lalu"
     },
     {
       "chapter": "220",
@@ -181,13 +199,13 @@
       "chapter": "218",
       "title": "Komik Tougen Anki Chapter 218",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMTgv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "217",
       "title": "Komik Tougen Anki Chapter 217",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMTcv",
-      "date": "10 bulan yang lalu"
+      "date": "11 bulan yang lalu"
     },
     {
       "chapter": "216",
@@ -205,37 +223,37 @@
       "chapter": "214",
       "title": "Komik Tougen Anki Chapter 214",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMTQv",
-      "date": "11 bulan yang lalu"
+      "date": "12 bulan yang lalu"
     },
     {
       "chapter": "213",
       "title": "Komik Tougen Anki Chapter 213",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMTMv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "212",
       "title": "Komik Tougen Anki Chapter 212",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMTIv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "211",
       "title": "Komik Tougen Anki Chapter 211",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMTEv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "210",
       "title": "Komik Tougen Anki Chapter 210",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMTAv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "209",
       "title": "Komik Tougen Anki Chapter 209",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0yMDkv",
-      "date": "12 bulan yang lalu"
+      "date": "1 tahun yang lalu"
     },
     {
       "chapter": "208",
@@ -523,55 +541,55 @@
       "chapter": "162",
       "title": "Komik Tougen Anki Chapter 162",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNjIv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "161",
       "title": "Komik Tougen Anki Chapter 161",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNjEv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "160",
       "title": "Komik Tougen Anki Chapter 160",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNjAv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "159",
       "title": "Komik Tougen Anki Chapter 159",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNTkv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "158",
       "title": "Komik Tougen Anki Chapter 158",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNTgv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "157",
       "title": "Komik Tougen Anki Chapter 157",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNTcv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "156",
       "title": "Komik Tougen Anki Chapter 156",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNTYv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "155",
       "title": "Komik Tougen Anki Chapter 155",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNTUv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "154",
       "title": "Komik Tougen Anki Chapter 154",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xNTQv",
-      "date": "1 tahun yang lalu"
+      "date": "2 tahun yang lalu"
     },
     {
       "chapter": "153",
@@ -787,19 +805,19 @@
       "chapter": "118",
       "title": "Komik Tougen Anki Chapter 118",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xMTgv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "117",
       "title": "Komik Tougen Anki Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xMTcv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "116",
       "title": "Komik Tougen Anki Chapter 116",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0xMTYv",
-      "date": "3 tahun yang lalu"
+      "date": "4 tahun yang lalu"
     },
     {
       "chapter": "115",
@@ -1117,13 +1135,13 @@
       "chapter": "63",
       "title": "Komik Tougen Anki Chapter 63",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci02My8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "62",
       "title": "Komik Tougen Anki Chapter 62",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci02Mi8=",
-      "date": "4 tahun yang lalu"
+      "date": "5 tahun yang lalu"
     },
     {
       "chapter": "61",
@@ -1303,19 +1321,19 @@
       "chapter": "32",
       "title": "Komik Tougen Anki Chapter 32",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0zMi8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "31",
       "title": "Komik Tougen Anki Chapter 31",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0zMS8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "30",
       "title": "Komik Tougen Anki Chapter 30",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdG91Z2VuLWFua2ktY2hhcHRlci0zMC8=",
-      "date": "5 tahun yang lalu"
+      "date": "6 tahun yang lalu"
     },
     {
       "chapter": "29",
@@ -1510,5 +1528,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 248
+  "total_chapters": 251
 }

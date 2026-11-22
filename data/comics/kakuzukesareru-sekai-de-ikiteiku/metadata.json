@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": true,
   "rating": 7.16,
-  "scraped_at": "2026-11-20T07:03:44.054221",
+  "scraped_at": "2026-11-22T11:57:21.519998",
   "alternative_titles": "Kakuzuke sareru Sekai de Ikiteiku, 格付けされる世界で生きていく, Living in a World Where I’m Rated",
   "status": "Berjalan",
   "author": "Ki no Bou",
@@ -21,59 +21,65 @@
   "synopsis": "Manga                    Kakuzukesareru Sekai de Ikiteiku yang dibuat oleh komikus bernama\n                    Ki no Bou ini bercerita tentang\n                    Aku bangun untuk menemukan diriku di dunia di mana rasio jantan-untuk-perempuan adalah 1: 10.000 -.\nSebagai salah satu dari sedikit orang, Aku sangat dikelola oleh negara. Tugasku? Untuk \"melayani\" wanita yang jarang mendapatkan kesempatan untuk berinteraksi dengan seorang pria.\nTanggal, waktu mandi, dan bahkan itu...?\nDi dunia ini, semakin saya lakukan untuk perempuan, semakin tinggi saya dihargai. Dan di sinilah aku akan tinggal.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci0xMC8=",
+      "date": "35 menit yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci05Lw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci04Lw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci03Lw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci02Lw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci01Lw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci00Lw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci0zLw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci0yLw==",
-      "date": "10 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Kakuzukesareru Sekai de Ikiteiku Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2FrdXp1a2VzYXJlcnUtc2VrYWktZGUtaWtpdGVpa3UtY2hhcHRlci0xLw==",
-      "date": "11 jam yang lalu"
+      "date": "2 hari yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }
