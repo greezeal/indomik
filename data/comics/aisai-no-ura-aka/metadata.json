@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-19T23:59:24.699155",
+  "scraped_at": "2026-11-23T20:17:46.969494",
   "alternative_titles": "愛妻の裏アカ, It's not Just Adultery., Tài khoản bí mật của vợ yêu, Aisai no Ura Aka - It's not Just Adultery., My Beloved Wife's Secret Account, 爱妻的私密帐号, Aisai no Ura Aka",
   "status": "Berjalan",
   "author": "MITA",
@@ -20,10 +20,16 @@
   "synopsis": "Manga                    Aisai no Ura Aka yang dibuat oleh komikus bernama\n                    MITA ini bercerita tentang\n                    Ketika Sousuke Yamada tersandung pada video online yang mengejutkan, hidupnya hancur. Seorang wanita yang tampak persis seperti istrinya tertangkap dalam sebuah tindakan intim, difilmkan di putri mereka kelas SD. Apakah itu benar-benar dia? Siapa orang lain ini? Bagaimana Sousuke akan mengungkap pelakunya yang bersembunyi di antara anggota PTA?",
   "chapters": [
     {
+      "chapter": "8",
+      "title": "Komik Aisai no Ura Aka Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWlzYWktbm8tdXJhLWFrYS1jaGFwdGVyLTgv",
+      "date": "40 menit yang lalu"
+    },
+    {
       "chapter": "7",
       "title": "Komik Aisai no Ura Aka Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWlzYWktbm8tdXJhLWFrYS1jaGFwdGVyLTcv",
-      "date": "2 jam yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "6",
@@ -62,5 +68,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 7
+  "total_chapters": 8
 }

@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-16T08:34:40.646839",
+  "scraped_at": "2026-11-23T20:15:19.109516",
   "alternative_titles": "I\\'m Strangely Very Handsome, Ta Đẹp Trai Một Cách Quỷ Dị, 我帅得诡异",
   "status": "Berjalan",
   "author": "花香蘑菇",
@@ -21,22 +21,52 @@
   "synopsis": "Manhua                    Handsomely Monstrous yang dibuat oleh komikus bernama\n                    花香蘑菇 ini bercerita tentang\n                    Kamu sudah tampan sejak kecil. Namun, suatu hari saat terbangun, taman, sekolah, perpustakaan, dan kolam renang yang dulu kamu kenal telah dikuasai oleh makhluk asing dan diubah menjadi ruang penyiksaan yang mengerikan. Anehnya, para penguasa asing ini justru jatuh cinta padamu, sehingga pada akhirnya, kamulah yang harus menanggung penderitaan menggantikan orang lain…",
   "chapters": [
     {
+      "chapter": "13",
+      "title": "Komik Handsomely Monstrous Chapter 13",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci0xMy8=",
+      "date": "25 menit yang lalu"
+    },
+    {
+      "chapter": "12",
+      "title": "Komik Handsomely Monstrous Chapter 12",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci0xMi8=",
+      "date": "26 menit yang lalu"
+    },
+    {
+      "chapter": "11",
+      "title": "Komik Handsomely Monstrous Chapter 11",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci0xMS8=",
+      "date": "2 hari yang lalu"
+    },
+    {
+      "chapter": "10",
+      "title": "Komik Handsomely Monstrous Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci0xMC8=",
+      "date": "4 hari yang lalu"
+    },
+    {
+      "chapter": "9",
+      "title": "Komik Handsomely Monstrous Chapter 9",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci05Lw==",
+      "date": "6 hari yang lalu"
+    },
+    {
       "chapter": "8",
       "title": "Komik Handsomely Monstrous Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci04Lw==",
-      "date": "17 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Handsomely Monstrous Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci03Lw==",
-      "date": "17 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Handsomely Monstrous Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuZHNvbWVseS1tb25zdHJvdXMtY2hhcHRlci02Lw==",
-      "date": "18 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
@@ -69,5 +99,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 8
+  "total_chapters": 13
 }
