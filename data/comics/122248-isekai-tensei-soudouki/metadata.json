@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.47,
-  "scraped_at": "2026-11-22T11:59:28.169656",
+  "scraped_at": "2026-11-23T08:05:38.612430",
   "alternative_titles": "異世界転生騒動記, Multi-Mind Mayhem: Isekai Tensei Soudouki, Annals Of Otherworld Reincarnation Strife, Different World Reincarnation Riot Report, Multi-mind Mayhem, Notes de ma réincarnation dans un autre monde, Реинкарнация и растроение личности, 이세계 전생 소동기, 异世界转生骚动记, Isekai Tensei Soudouki",
   "status": "Berjalan",
   "author": "Takami Ryousen",
@@ -31,22 +31,28 @@
   "synopsis": "Manga                    Isekai Tensei Soudouki yang dibuat oleh komikus bernama\n                    Takami Ryousen ini bercerita tentang\n                    Di Kerajaan Mauricia, Bard Cornelius jatuh sakit, dan alasannya adalah karena dua orang yang berbeda telah terlahir kembali ke tubuhnya. Dia punya kepribadian sendiri, Bard, tapi ada dua kepribadian lainnya juga! Seorang panglima perang feodal yang pelit, Oka \"Sanai\" Samatoshi, dan seorang mahasiswa SMA kutu buku, Oka Masaharu, yang memiliki jimat untuk telinga binatang!\n\nTiga jiwa sebagai satu; ia mampu melawan, memulai bisnisnya sendiri dan mengelola tanah dengan kompetensi seperti jika dia menggunakan kode cheat...!",
   "chapters": [
     {
+      "chapter": "109",
+      "title": "Komik Isekai Tensei Soudouki Chapter 109",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXRlbnNlaS1zb3Vkb3VraS1jaGFwdGVyLTEwOS8=",
+      "date": "2 menit yang lalu"
+    },
+    {
       "chapter": "108",
       "title": "Komik Isekai Tensei Soudouki Chapter 108",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXRlbnNlaS1zb3Vkb3VraS1jaGFwdGVyLTEwOC8=",
-      "date": "53 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "107",
       "title": "Komik Isekai Tensei Soudouki Chapter 107",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXRlbnNlaS1zb3Vkb3VraS1jaGFwdGVyLTEwNy8=",
-      "date": "1 hari yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "106",
       "title": "Komik Isekai Tensei Soudouki Chapter 106",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaXNla2FpLXRlbnNlaS1zb3Vkb3VraS1jaGFwdGVyLTEwNi8=",
-      "date": "2 hari yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "105",
@@ -691,5 +697,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 110
+  "total_chapters": 111
 }

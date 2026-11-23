@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-17T02:28:34.291667",
+  "scraped_at": "2026-11-23T08:07:44.234071",
   "alternative_titles": "Otokonoko mo Maid-fuku de kawaikunatte Ii desu ka?, Can Boys Be Cute in Maid Dresses Too?, 男の子もメイド服でかわいくなっていいですか？",
   "status": "Berjalan",
   "author": "YUKI Madoka",
@@ -18,11 +18,17 @@
   "synopsis": "Manga                    Otokonoko mo Meidofuku de Kawaiku Natte Idesu ka? yang dibuat oleh komikus bernama\n                    YUKI Madoka ini bercerita tentang\n                    Siswa SMA berpakaian seperti pembantu untuk pekerjaan paruh waktu.",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Otokonoko mo Meidofuku de Kawaiku Natte Idesu ka? Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Rva29ub2tvLW1vLW1laWRvZnVrdS1kZS1rYXdhaWt1LW5hdHRlLWlkZXN1LWthLWNoYXB0ZXItMi8=",
+      "date": "18 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Otokonoko mo Meidofuku de Kawaiku Natte Idesu ka? Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb3Rva29ub2tvLW1vLW1laWRvZnVrdS1kZS1rYXdhaWt1LW5hdHRlLWlkZXN1LWthLWNoYXB0ZXItMS8=",
-      "date": "54 menit yang lalu"
+      "date": "7 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }

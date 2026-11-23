@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-22T11:55:48.962790",
+  "scraped_at": "2026-11-23T08:09:27.856068",
   "alternative_titles": "무적호위",
   "status": "Berjalan",
   "author": "메리",
@@ -20,22 +20,28 @@
   "synopsis": "Manhwa                    The Invincible Escort yang dibuat oleh komikus bernama\n                    메리 ini bercerita tentang\n                    Setelah menyelamatkan seorang pendekar tua misterius, Jang Cheoneun memperoleh kekuatan bela diri melalui mimpi-mimpi aneh. Takdir membawa menjadi pengawal pribadi Benteng Tuan Muda Gucheon, tetapi ditempatkan jauh lebih berbahaya dari sekedar melindungi nyawa. Di tengah pengkhianatan, pengkhianatan, dan upaya pembunuhan, Cheoneun bersumpah untuk menjadi tidak berdaya demi melindungi keselamatan dan menentukan nasibnya sendiri!",
   "chapters": [
     {
+      "chapter": "29",
+      "title": "Komik The Invincible Escort Chapter 29",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmluY2libGUtZXNjb3J0LWNoYXB0ZXItMjkv",
+      "date": "14 jam yang lalu"
+    },
+    {
       "chapter": "28",
       "title": "Komik The Invincible Escort Chapter 28",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmluY2libGUtZXNjb3J0LWNoYXB0ZXItMjgv",
-      "date": "10 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "27",
       "title": "Komik The Invincible Escort Chapter 27",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmluY2libGUtZXNjb3J0LWNoYXB0ZXItMjcv",
-      "date": "11 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "26",
       "title": "Komik The Invincible Escort Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWludmluY2libGUtZXNjb3J0LWNoYXB0ZXItMjYv",
-      "date": "17 jam yang lalu"
+      "date": "2 hari yang lalu"
     },
     {
       "chapter": "25",
@@ -182,5 +188,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 27
+  "total_chapters": 28
 }
