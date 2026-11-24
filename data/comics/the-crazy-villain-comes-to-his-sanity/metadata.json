@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-18T02:00:48.049597",
+  "scraped_at": "2026-11-24T15:26:23.726669",
   "alternative_titles": "The Crazy Villain Regains His Sanity",
   "status": "Berjalan",
   "author": "KIM Woo Hyun",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    The Crazy Villain Comes to His Sanity yang dibuat oleh komikus bernama\n                    KIM Woo Hyun ini bercerita tentang\n                    Tokoh utamanya, Choi Jun-ho, yang sebelumnya menjalani hidup sebagai penjahat kejam yang haus akan kekuasaan dan pertumpahan darah, suatu hari kembali ke masa lalu saat ia masih menjadi pengangguran yang mengurung diri di rumah. Ia memutuskan untuk mengubah hidupnya dan menggunakan kekuatannya demi kebaikan, sembari menghadapi berbagai tantangan dan rintangan di sepanjang perjalanannya.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik The Crazy Villain Comes to His Sanity Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyYXp5LXZpbGxhaW4tY29tZXMtdG8taGlzLXNhbml0eS1jaGFwdGVyLTI3Lw==",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "26",
       "title": "Komik The Crazy Villain Comes to His Sanity Chapter 26",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyYXp5LXZpbGxhaW4tY29tZXMtdG8taGlzLXNhbml0eS1jaGFwdGVyLTI2Lw==",
-      "date": "15 menit yang lalu"
+      "date": "7 hari yang lalu"
     },
     {
       "chapter": "25",
       "title": "Komik The Crazy Villain Comes to His Sanity Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyYXp5LXZpbGxhaW4tY29tZXMtdG8taGlzLXNhbml0eS1jaGFwdGVyLTI1Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik The Crazy Villain Comes to His Sanity Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyYXp5LXZpbGxhaW4tY29tZXMtdG8taGlzLXNhbml0eS1jaGFwdGVyLTI0Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik The Crazy Villain Comes to His Sanity Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyYXp5LXZpbGxhaW4tY29tZXMtdG8taGlzLXNhbml0eS1jaGFwdGVyLTIzLw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik The Crazy Villain Comes to His Sanity Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWNyYXp5LXZpbGxhaW4tY29tZXMtdG8taGlzLXNhbml0eS1jaGFwdGVyLTIyLw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "21",
@@ -177,5 +183,5 @@
       "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 26
+  "total_chapters": 27
 }

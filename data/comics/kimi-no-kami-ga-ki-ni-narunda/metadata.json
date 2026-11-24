@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.83,
-  "scraped_at": "2026-11-18T10:02:42.852200",
+  "scraped_at": "2026-11-24T15:30:09.988263",
   "alternative_titles": "君の髪が気になるんだ, Since I'm Interested In Your Hair, Can't Stop Thinking About Your Hair, Rambutmu Menarik Perhatianku, Tóc mây của cậu, ngây ngất hồn tôi, Меня так привлекают твои волосы, Kimi no Kami ga Ki ni Naru nda, Kimi no Kami ga Ki ni Narunda",
   "status": "Berjalan",
   "author": "Kaneda Ryou",
@@ -23,34 +23,40 @@
   "synopsis": "Manga                    Kimi no Kami ga Ki ni Narunda yang dibuat oleh komikus bernama\n                    Kaneda Ryou ini bercerita tentang\n                    Setelah keluar dari klub baseball, Suzuhara tiba-tiba dicampakkan oleh pacarnya - dan semuanya disaksikan oleh Miyashita, yang duduk di sampingnya di kelas.\n\nDi musim panas tahun ketiga mereka di SMA, dengan kelulusan mendekat, Suzuhara mulai menumbuhkan rambutnya. Dia segera menemukan dirinya aneh tertarik ke Miyashita, yang mengubah gaya rambutnya setiap hari.\n\nDan dimulailah cerita tentangmu, rambut, dan cinta.",
   "chapters": [
     {
+      "chapter": "10",
+      "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 10",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci0xMC8=",
+      "date": "2 jam yang lalu"
+    },
+    {
       "chapter": "9",
       "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 9",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci05Lw==",
-      "date": "3 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "8",
       "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 8",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci04Lw==",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "7",
       "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 7",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci03Lw==",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "6",
       "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci02Lw==",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci01Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "4",
@@ -68,14 +74,14 @@
       "chapter": "2",
       "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci0yLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Kimi no Kami ga Ki ni Narunda Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva2ltaS1uby1rYW1pLWdhLWtpLW5pLW5hcnVuZGEtY2hhcHRlci0xLw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 9
+  "total_chapters": 10
 }

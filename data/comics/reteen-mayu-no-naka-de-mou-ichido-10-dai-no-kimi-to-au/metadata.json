@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.48,
-  "scraped_at": "2026-11-20T07:03:06.959550",
+  "scraped_at": "2026-11-24T15:26:57.956349",
   "alternative_titles": "Re:teen - I'll meet you as a Teenager Again in the Cocoon, Re:teen, Re:teen 繭の中でもう一度10代のキミと会う, Re:teen - Maou no Naka de Mou Ichido 10 Dai no Kimi to Au, Re:teen - Mayou no Naka de Mou Ichido Juudai no Kimi to Au",
   "status": "Berjalan",
   "author": "Masanori Date",
@@ -19,11 +19,17 @@
   "synopsis": "Manga                    Re:teen – Mayu no Naka de Mou Ichido 10-dai no Kimi to Au yang dibuat oleh komikus bernama\n                    Masanori Date ini bercerita tentang\n                    13 tahun yang lalu, dinding cahaya tak dikenal tiba-tiba muncul di sekitar Sumihama. Dalam rangka untuk kembali ke kampung halamannya, yang telah terputus dari dunia luar sejak hari itu, Gataka Oro (24 tahun) menyeberangi dinding. Pada saat itu, ia ditelan oleh cahaya menyilaukan, dan ketika ia bangun, ia menemukan dirinya dalam tubuh seorang anak. Selain itu, teman masa kecilnya yang terasing, Hime, muncul di depannya sama seperti saat itu. Tubuhnya dan penampilannya, pemandangan nostalgia, tempat yang akrab... Apakah ini dunia tiga belas tahun yang lalu?",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Re:teen – Mayu no Naka de Mou Ichido 10-dai no Kimi to Au Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0ZWVuLW1heXUtbm8tbmFrYS1kZS1tb3UtaWNoaWRvLTEwLWRhaS1uby1raW1pLXRvLWF1LWNoYXB0ZXItMi8=",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Re:teen – Mayu no Naka de Mou Ichido 10-dai no Kimi to Au Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvcmV0ZWVuLW1heXUtbm8tbmFrYS1kZS1tb3UtaWNoaWRvLTEwLWRhaS1uby1raW1pLXRvLWF1LWNoYXB0ZXItMS8=",
-      "date": "10 jam yang lalu"
+      "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }

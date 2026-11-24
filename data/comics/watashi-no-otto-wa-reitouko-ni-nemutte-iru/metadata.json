@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.07,
-  "scraped_at": "2026-11-15T10:01:31.280932",
+  "scraped_at": "2026-11-24T15:25:18.880458",
   "alternative_titles": "私の夫は冷凍庫に眠っている, My Husband Is Sleeping in the Freezer, Mi esposo está durmiendo en el refrigerador, 我的丈夫在冰箱裏沉眠, Mio marito dorme nel freezer, Mon mari dort dans le congélateur (French), Watashi no Otto wa Reitouko ni Nemutteiru, Мой муж спит в морозильной камере, Watashi no Otto wa Reitouko ni Nemutte Iru",
   "status": "Berjalan",
   "author": "Yazuki Misaki",
@@ -29,41 +29,47 @@
   "synopsis": "Manga                    Watashi no Otto wa Reitouko ni Nemutte Iru yang dibuat oleh komikus bernama\n                    Yazuki Misaki ini bercerita tentang\n                    Suatu hari, Nana, yang selalu ingin menikah, memiliki pertemuan yang menentukan. Sayangnya, dia harus menanggung kekerasan sejak pernikahan, jadi dia memutuskan untuk membunuh suaminya dan menempatkan mayatnya dalam freezer, tapi hal-hal yang tidak selalu seperti orang inginkan saat dia tahu ketika dia kembali..",
   "chapters": [
     {
+      "chapter": "7",
+      "title": "Komik Watashi no Otto wa Reitouko ni Nemutte Iru Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1vdHRvLXdhLXJlaXRvdWtvLW5pLW5lbXV0dGUtaXJ1LWNoYXB0ZXItNy8=",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "6",
       "title": "Komik Watashi no Otto wa Reitouko ni Nemutte Iru Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1vdHRvLXdhLXJlaXRvdWtvLW5pLW5lbXV0dGUtaXJ1LWNoYXB0ZXItNi8=",
-      "date": "14 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik Watashi no Otto wa Reitouko ni Nemutte Iru Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1vdHRvLXdhLXJlaXRvdWtvLW5pLW5lbXV0dGUtaXJ1LWNoYXB0ZXItNS8=",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik Watashi no Otto wa Reitouko ni Nemutte Iru Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1vdHRvLXdhLXJlaXRvdWtvLW5pLW5lbXV0dGUtaXJ1LWNoYXB0ZXItNC8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Watashi no Otto wa Reitouko ni Nemutte Iru Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1vdHRvLXdhLXJlaXRvdWtvLW5pLW5lbXV0dGUtaXJ1LWNoYXB0ZXItMy8=",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Watashi no Otto wa Reitouko ni Nemutte Iru Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1vdHRvLXdhLXJlaXRvdWtvLW5pLW5lbXV0dGUtaXJ1LWNoYXB0ZXItMi8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Watashi no Otto wa Reitouko ni Nemutte Iru Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd2F0YXNoaS1uby1vdHRvLXdhLXJlaXRvdWtvLW5pLW5lbXV0dGUtaXJ1LWNoYXB0ZXItMS8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 7
 }
