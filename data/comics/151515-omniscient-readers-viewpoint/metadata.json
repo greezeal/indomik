@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 9.17,
-  "scraped_at": "2026-11-25T00:06:14.957558",
+  "scraped_at": "2026-11-25T08:29:11.477386",
   "alternative_titles": "Jeonjijeok Dokja Sijeom, Lecteur omniscient, Lector omnisciente, ORV, Punkt Widzenia Wszechwiedzącego Czytelnika, Всеведущий читатель, دیدگاه خواننده‌ی همه‌چی‌دون, وجهة نظر القارئ العراف, อ่านชะตาวันสิ้นโลก, 全知的な読者の視点から, 全知讀者視角, 全知读者, 전독시, 전지적 독자 시점",
   "status": "Berjalan",
   "author": "Sing-Shong, UMI",
@@ -24,22 +24,28 @@
   "synopsis": "Manhwa                    Omniscient Reader’s Viewpoint yang dibuat oleh komikus bernama\n                    Sing-Shong, UMI ini bercerita tentang\n                    'Ini adalah perkembangan yang saya ketahui.' Saat dia mengira bahwa dunia telah dihancurkan, dan alam semesta baru telah terbuka. Kehidupan baru seorang pembaca biasa dimulai dalam dunia novel, sebuah novel yang dia selesaikan sendiri.",
   "chapters": [
     {
+      "chapter": "316",
+      "title": "Komik Omniscient Reader’s Viewpoint Chapter 316",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb21uaXNjaWVudC1yZWFkZXJzLXZpZXdwb2ludC1jaGFwdGVyLTMxNi8=",
+      "date": "57 detik yang lalu"
+    },
+    {
       "chapter": "315",
       "title": "Komik Omniscient Reader’s Viewpoint Chapter 315",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb21uaXNjaWVudC1yZWFkZXJzLXZpZXdwb2ludC1jaGFwdGVyLTMxNS8=",
-      "date": "7 menit yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "314",
       "title": "Komik Omniscient Reader’s Viewpoint Chapter 314",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb21uaXNjaWVudC1yZWFkZXJzLXZpZXdwb2ludC1jaGFwdGVyLTMxNC8=",
-      "date": "7 menit yang lalu"
+      "date": "12 jam yang lalu"
     },
     {
       "chapter": "312",
       "title": "Komik Omniscient Reader’s Viewpoint Chapter 312",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvb21uaXNjaWVudC1yZWFkZXJzLXZpZXdwb2ludC1jaGFwdGVyLTMxMi8=",
-      "date": "5 jam yang lalu"
+      "date": "17 jam yang lalu"
     },
     {
       "chapter": "311",
@@ -1932,5 +1938,5 @@
       "date": "6 tahun yang lalu"
     }
   ],
-  "total_chapters": 318
+  "total_chapters": 319
 }

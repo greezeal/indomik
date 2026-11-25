@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.86,
-  "scraped_at": "2026-11-25T00:05:05.451944",
+  "scraped_at": "2026-11-25T08:28:37.483827",
   "alternative_titles": "Storms among Flowers, Nanoha to Chidori, Tormenta de Flores, Наноха и Чидори, はなにあらし, Badai di antara Bunga",
   "status": "Berjalan",
   "author": "Kobachi Ruka",
@@ -26,7 +26,7 @@
       "chapter": "109.5",
       "title": "Komik Hana ni Arashi Chapter 109.5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS1uaS1hcmFzaGktY2hhcHRlci0xMDktNS8=",
-      "date": "5 menit yang lalu"
+      "date": "11 jam yang lalu"
     },
     {
       "chapter": "109",
@@ -212,6 +212,18 @@
       "chapter": "73",
       "title": "Komik Hana ni Arashi Chapter 73",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS1uaS1hcmFzaGktY2hhcHRlci03My8=",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "72",
+      "title": "Komik Hana ni Arashi Chapter 72",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS1uaS1hcmFzaGktY2hhcHRlci03Mi8=",
+      "date": "1 bulan yang lalu"
+    },
+    {
+      "chapter": "71",
+      "title": "Komik Hana ni Arashi Chapter 71",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaGFuYS1uaS1hcmFzaGktY2hhcHRlci03MS8=",
       "date": "1 bulan yang lalu"
     },
     {
@@ -659,5 +671,5 @@
       "date": "3 tahun yang lalu"
     }
   ],
-  "total_chapters": 106
+  "total_chapters": 108
 }
