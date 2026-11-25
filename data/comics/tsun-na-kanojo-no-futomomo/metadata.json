@@ -2,46 +2,53 @@
   "slug": "tsun-na-kanojo-no-futomomo",
   "title": "Tsun na Kanojo no Futomomo",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvdHN1bi1uYS1rYW5vam8tbm8tZnV0b21vbW8v",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDkvS29taWstVHN1bi1uYS1LYW5vam8tbm8tRnV0b21vbW8tMjM2eDEzMy5qcGc=",
-  "type": "",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQ0MzU5NC82MzE1NDg5Ni0xYzg0LTRmNDgtOGNjYS1lODZkY2MwOTMxNzEva29taWstdHN1bi1uYS1rYW5vam8tbm8tZnV0b21vbW8tMjM2eDEzMi5qcGc=",
+  "type": "Manga",
   "is_colored": false,
-  "rating": 7.0,
-  "scraped_at": "2026-09-16T06:40:40.190815",
-  "alternative_titles": "My Tsundere Girlfriend's Thick Thighs Situation, ツンな彼女の太もも事情",
+  "rating": 8.41,
+  "scraped_at": "2026-11-25T18:57:22.520436",
+  "alternative_titles": "Tsun na Kanojo no Futomomo Jijou, My Tsundere Girlfriend's Thick Thighs Situation, ツンな彼女の太もも事情, Tsun na Kanojo no Futomomo",
   "status": "Berjalan",
   "author": "Niijima Narui",
   "illustrator": "Niijima Narui",
+  "demographic": "Shounen",
   "genres": [
     "Comedy",
     "Romance",
     "Slice of Life"
   ],
-  "synopsis": "Tsun na Kanojo no Futomomo yang dibuat oleh komikus bernama\n                    Niijima Narui ini bercerita tentang\n                    Apa yang mendukung kecepatannya? Itu adalah pahanya yang berkembang dengan baik!Pacar Makoto, Rise Kurokawa, adalah atlet lari cepat andalan yang dihormati oleh semua orang di sekitarnya. Tapi dia selalu mengenakan pakaian olahraga atau celana panjang, sepertinya ada sesuatu yang mengganggunya...?Komedi romantis pendek tentang paha besar ini berkembang dari cerita satu bab dan kembali dengan megah!!",
+  "synopsis": "Manga                    Tsun na Kanojo no Futomomo yang dibuat oleh komikus bernama\n                    Niijima Narui ini bercerita tentang\n                    Apa yang mendukung kecepatannya? Ini adalah baik nya-dikembangkan paha!\n\nPacar Makoto, Rise Kurokawa, adalah pemain olahraga andalan yang memerintah menghormati semua orang di sekitarnya. Tapi dia selalu memakai pakaian olahraga atau celana, tampaknya terganggu oleh sesuatu...?\n\nRom pendek ini - com tentang paha tebal berevolusi dari satu tembakan dan membuat kembali grand!!",
   "chapters": [
+    {
+      "chapter": "5",
+      "title": "Komik Tsun na Kanojo no Futomomo Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bi1uYS1rYW5vam8tbm8tZnV0b21vbW8tY2hhcHRlci01Lw==",
+      "date": "3 jam yang lalu"
+    },
     {
       "chapter": "4",
       "title": "Komik Tsun na Kanojo no Futomomo Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bi1uYS1rYW5vam8tbm8tZnV0b21vbW8tY2hhcHRlci00Lw==",
-      "date": "31 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik Tsun na Kanojo no Futomomo Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bi1uYS1rYW5vam8tbm8tZnV0b21vbW8tY2hhcHRlci0zLw==",
-      "date": "4 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Tsun na Kanojo no Futomomo Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bi1uYS1rYW5vam8tbm8tZnV0b21vbW8tY2hhcHRlci0yLw==",
-      "date": "4 hari yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Tsun na Kanojo no Futomomo Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdHN1bi1uYS1rYW5vam8tbm8tZnV0b21vbW8tY2hhcHRlci0xLw==",
-      "date": "1 minggu yang lalu"
+      "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 4
+  "total_chapters": 5
 }

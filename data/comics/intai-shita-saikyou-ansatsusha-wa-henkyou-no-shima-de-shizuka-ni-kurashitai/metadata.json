@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.11,
-  "scraped_at": "2026-11-23T00:29:36.857442",
+  "scraped_at": "2026-11-25T18:54:46.215602",
   "alternative_titles": "隠退した最強暗殺者は辺境の島で静かに暮らしたい, The Retired Most Powerful Assassin Wants to Live Quietly on a Remote Island",
   "status": "Berjalan",
   "author": "Heisei Owari",
@@ -23,11 +23,17 @@
   "synopsis": "Manga                    Intai Shita Saikyou Ansatsusha wa Henkyou no Shima de Shizuka ni Kurashitai yang dibuat oleh komikus bernama\n                    Heisei Owari ini bercerita tentang\n                    Dunia yang kembali damai setelah Raja Iblis menghilang. Di sebuah pulau terpencil di perbatasan, Shinenai, pemilik toko item, hidup dengan tenang bersama istri Luna dan putrinya Rin. Kemudian suatu hari, dipicu oleh penampilan \"penjara bawah tanah\" di pulau itu, Royal Knights dan petualang dari seluruh datang berkerumun masuk Pada saat yang sama, nasib dan ikatan dari masa lalu creep up pada keluarga - -. Perjuangan yang tenang dari seorang pria yang diam-diam terkubur begitu banyak, semua untuk hidup dengan keluarganya curhat",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Intai Shita Saikyou Ansatsusha wa Henkyou no Shima de Shizuka ni Kurashitai Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW50YWktc2hpdGEtc2Fpa3lvdS1hbnNhdHN1c2hhLXdhLWhlbmt5b3Utbm8tc2hpbWEtZGUtc2hpenVrYS1uaS1rdXJhc2hpdGFpLWNoYXB0ZXItMi8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Intai Shita Saikyou Ansatsusha wa Henkyou no Shima de Shizuka ni Kurashitai Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvaW50YWktc2hpdGEtc2Fpa3lvdS1hbnNhdHN1c2hhLXdhLWhlbmt5b3Utbm8tc2hpbWEtZGUtc2hpenVrYS1uaS1rdXJhc2hpdGFpLWNoYXB0ZXItMS8=",
-      "date": "1 jam yang lalu"
+      "date": "3 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }

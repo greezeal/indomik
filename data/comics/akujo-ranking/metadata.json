@@ -2,60 +2,77 @@
   "slug": "akujo-ranking",
   "title": "AKUJO RANKING",
   "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gva29taWsvYWt1am8tcmFua2luZy8=",
-  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMDMvS29taWstQWt1am8tUmFua2luZy0yMzZ4MTcwLmpwZw==",
+  "cover_url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvbWFzdGVyaW1hZ2Utc2VyaWVzLzQwNjA4MS83NjFkNGJjNS1lNjBiLTRhYzEtODZmMy03ZWE0NGE0MjllM2Yva29taWstYWt1am8tcmFua2luZy0yMjR4MzE5LmpwZw==",
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-09-14T16:44:23.834068",
-  "alternative_titles": "悪女ランキング, Villainess Ranking",
+  "scraped_at": "2026-11-25T18:53:38.415051",
+  "alternative_titles": "悪女ランキング, Villainess Ranking, AKUJO RANKING",
   "status": "Berjalan",
   "author": "Murata Shinya",
   "illustrator": "Wakuta Wakata",
+  "demographic": "Shounen",
   "themes": [
+    "Magic",
+    "Supernatural",
     "Villainess"
   ],
   "genres": [
+    "Action",
     "Drama",
-    "Fantasy"
+    "Fantasy",
+    "Historical"
   ],
-  "synopsis": "Manga                    AKUJO RANKING yang dibuat oleh komikus bernama\n                    Murata Shinya ini bercerita tentang\n                    Ini adalah kisah yang menggambarkan pertarungan dunia bawah yang dikenal sebagai Peringkat Penjahat Wanita, di mana para penjahat wanita bersejarah saling bertarung. Tokoh protagonis, Otori Kujiramaru, seorang pria yang dikhianati oleh seorang wanita yang menipunya hingga kehilangan 50 juta yen, tidak dapat menerima kenyataan, berpikir,\"Tidak mungkin Rika-chan adalah penjahat wanita yang menipu pria dan mencuri uang mereka...\"Saat ia tenggelam dalam pikirannya, seorang wanita yang tiba-tiba muncul di kamarnya berbicara kepadanya, mengatakan,\"Gadis itu bukanlah penjahat wanita.\"Nama wanita itu adalah Marie Antoinette. Melalui pertemuannya dengan seorang penjahat wanita sejati, Kujiramaru terjebak dalam pertarungan Peringkat Penjahat Wanita.",
+  "synopsis": "Manga                    AKUJO RANKING yang dibuat oleh komikus bernama\n                    Murata Shinya ini bercerita tentang\n                    Kujimaru Otori adalah penulis komik 25 tahun yang telah mengalami masa sulit. Pacarnya yang disebut Rika telah diperah dia untuk 50 juta yen sebelum memblokir nomor teleponnya, dan telah meninggalkan hidupnya berantakan. Sementara menyelesaikan dirinya untuk mencoba untuk menang kembali, aneh (dan aneh berpakaian) wanita asing tiba-tiba muncul di kamar Kujimaru, mengklaim menjadi Ratu lama almarhum Perancis, Marie Antoinette. Meskipun dimengerti skeptis, \"Ratu Guillotine\" segera membuktikan identitasnya benar.\n\nDengan demikian, Kujimaru adalah tali ke dalam sekali dalam turnamen supranatural abad, di mana jiwa \"heroik\" sejarah wanita paling berbahaya bentuk kontrak dengan hidup dalam rangka untuk pertempuran itu keluar untuk kesempatan untuk berharap untuk apa pun hati fana mereka keinginan. Sebuah turnamen yang disebut \"Peringkat Penjahat\"...",
   "chapters": [
+    {
+      "chapter": "8",
+      "title": "Komik AKUJO RANKING Chapter 8",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTgv",
+      "date": "21 menit yang lalu"
+    },
+    {
+      "chapter": "7",
+      "title": "Komik AKUJO RANKING Chapter 7",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTcv",
+      "date": "2 minggu yang lalu"
+    },
     {
       "chapter": "6",
       "title": "Komik AKUJO RANKING Chapter 6",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTYv",
-      "date": "53 menit yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "5",
       "title": "Komik AKUJO RANKING Chapter 5",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTUv",
-      "date": "2 bulan yang lalu"
+      "date": "4 bulan yang lalu"
     },
     {
       "chapter": "4",
       "title": "Komik AKUJO RANKING Chapter 4",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTQv",
-      "date": "3 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "3",
       "title": "Komik AKUJO RANKING Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTMv",
-      "date": "4 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik AKUJO RANKING Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTIv",
-      "date": "5 bulan yang lalu"
+      "date": "7 bulan yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik AKUJO RANKING Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvYWt1am8tcmFua2luZy1jaGFwdGVyLTEv",
-      "date": "6 bulan yang lalu"
+      "date": "9 bulan yang lalu"
     }
   ],
-  "total_chapters": 6
+  "total_chapters": 8
 }

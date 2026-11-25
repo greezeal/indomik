@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.9,
-  "scraped_at": "2026-11-21T03:33:29.617127",
+  "scraped_at": "2026-11-25T18:55:52.267400",
   "alternative_titles": "死霊魔術の容疑者, Shiryoumajutsu no Yougisha, The Suspects of Necromancy, Suspeitos de Necromancia, Shiryō Majutsu no Yōgisha",
   "status": "Berjalan",
   "author": "Daken (駄犬)",
@@ -24,11 +24,17 @@
   "synopsis": "Manga                    Shiryou Majutsu no Yougisha yang dibuat oleh komikus bernama\n                    Daken (駄犬) ini bercerita tentang\n                    Putri bulan, yang menjadi penyihir untuk mencari cinta daripada keabadian. Apa yang dia cari adalah dunia kebahagiaan. Raja Matahari, dalam usahanya untuk memenangkan cinta putri bulan, menyatakan kekuasaan atas dunia, semua demi satu bukti.\n\nApa kau ingin hidup abadi?\n\nMata merah, kulit putih, rambut emas... Luna, protagonis kami, adalah seorang pesulap magang yang dibeli oleh Khan, seorang penyihir tua lusuh. Luna adalah seorang gadis sombong yang menghabiskan hari-harinya belajar sihir untuk mengesankan Khan, yang tidak tertarik pada apa pun selain studi sihir. Kemudian, raja sebelumnya meninggal karena penyakit, dan pemberontakan meletus di berbagai bagian negara. Kerajaan di ambang kehancuran, tetapi tentara mayat hidup menyerang pemberontak dan menempatkan mereka ke bawah. Siapa di dunia telah menggunakan necromancy terlarang?\n\nBeli Bab Individu:\n\nTaut Tambahan:",
   "chapters": [
     {
+      "chapter": "2",
+      "title": "Komik Shiryou Majutsu no Yougisha Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpcnlvdS1tYWp1dHN1LW5vLXlvdWdpc2hhLWNoYXB0ZXItMi8=",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Shiryou Majutsu no Yougisha Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc2hpcnlvdS1tYWp1dHN1LW5vLXlvdWdpc2hhLWNoYXB0ZXItMS8=",
-      "date": "4 menit yang lalu"
+      "date": "5 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }
