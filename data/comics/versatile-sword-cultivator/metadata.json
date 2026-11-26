@@ -6,7 +6,7 @@
   "type": "Manhua",
   "is_colored": true,
   "rating": 6.41,
-  "scraped_at": "2026-11-26T02:01:07.750331",
+  "scraped_at": "2026-11-26T19:59:12.379901",
   "alternative_titles": "Quan Zhi Jian Xiu, Unbeatable Sword Master Cultivator, Full-time Swordsman, 全职剑修",
   "status": "Berjalan",
   "author": "原点格子漫画, 塔读文学",
@@ -24,10 +24,16 @@
   "synopsis": "Manhua                    Versatile Sword Cultivator yang dibuat oleh komikus bernama\n                    原点格子漫画, 塔读文学 ini bercerita tentang\n                    Ketika video game dan kehidupan nyata mulai menyatu, Lin Jichen—pemain terbaik di Dunia Dao dan praktisi terbaik \"Delapan Dunia\"—meninggal akibat pengkhianatan terhadap pacar dan saudara laki-lakinya. Dia dengan keras menolak aturan dalam kehidupan barunya dan menganut pedang, memotong masa depan dan menulis ulang nasibnya dengan pedang itu! Ini juga memungkinkan dia untuk mengendarai game tersebut sebelum diintegrasikan ke dalam kenyataan!",
   "chapters": [
     {
+      "chapter": "121",
+      "title": "Komik Versatile Sword Cultivator Chapter 121",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc2F0aWxlLXN3b3JkLWN1bHRpdmF0b3ItY2hhcHRlci0xMjEv",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "120",
       "title": "Komik Versatile Sword Cultivator Chapter 120",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc2F0aWxlLXN3b3JkLWN1bHRpdmF0b3ItY2hhcHRlci0xMjAv",
-      "date": "10 menit yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "119",
@@ -45,7 +51,7 @@
       "chapter": "117",
       "title": "Komik Versatile Sword Cultivator Chapter 117",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdmVyc2F0aWxlLXN3b3JkLWN1bHRpdmF0b3ItY2hhcHRlci0xMTcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "116",
@@ -744,5 +750,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 120
+  "total_chapters": 121
 }

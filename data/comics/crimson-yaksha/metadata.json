@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-14T13:35:03.014101",
+  "scraped_at": "2026-11-26T19:55:49.488710",
   "alternative_titles": "Huyết Dạ Xoa, 红夜叉, 붉은 야차",
   "status": "Berjalan",
   "author": "Pig Rabbit",
@@ -19,28 +19,40 @@
   "synopsis": "Manhwa                    Crimson Yaksha yang dibuat oleh komikus bernama\n                    Pig Rabbit ini bercerita tentang\n                    Para pengganggu sekolah itu mati sebelum dia bisa membalas dendam atas kematian adik perempuannya. Satu-satunya tempat yang bisa dituju oleh sampah masyarakat ini setelah kematian adalah neraka, dan Lee Seong-yul, mengakhiri hidupnya sendiri untuk mengejar mereka sampai ke ujung neraka itu dan membalas dendam.",
   "chapters": [
     {
+      "chapter": "27",
+      "title": "Komik Crimson Yaksha Chapter 27",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0yNy8=",
+      "date": "10 menit yang lalu"
+    },
+    {
+      "chapter": "26",
+      "title": "Komik Crimson Yaksha Chapter 26",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0yNi8=",
+      "date": "5 jam yang lalu"
+    },
+    {
       "chapter": "25",
       "title": "Komik Crimson Yaksha Chapter 25",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0yNS8=",
-      "date": "51 menit yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "24",
       "title": "Komik Crimson Yaksha Chapter 24",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0yNC8=",
-      "date": "1 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "23",
       "title": "Komik Crimson Yaksha Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0yMy8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Crimson Yaksha Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0yMi8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "21",
@@ -52,7 +64,7 @@
       "chapter": "20",
       "title": "Komik Crimson Yaksha Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0yMC8=",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "19",
@@ -70,19 +82,19 @@
       "chapter": "17",
       "title": "Komik Crimson Yaksha Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0xNy8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Crimson Yaksha Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0xNi8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Crimson Yaksha Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY3JpbXNvbi15YWtzaGEtY2hhcHRlci0xNS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "14",
@@ -169,5 +181,5 @@
       "date": "3 bulan yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 27
 }
