@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 8.13,
-  "scraped_at": "2026-11-22T11:55:13.734428",
+  "scraped_at": "2026-11-26T10:48:40.897610",
   "alternative_titles": "재벌의 품격, Chaebol's Dignity, The Dignity of a Conglomerate, 財閥の品格～転生した会長の企業再興～, The Dignity of a Chaebol",
   "status": "Berjalan",
   "author": "Seo Inha (서인하), 오츠 이치",
@@ -24,16 +24,28 @@
   "synopsis": "Manhwa                    The Dignity of a Chaebol yang dibuat oleh komikus bernama\n                    Seo Inha (서인하), 오츠 이치 ini bercerita tentang\n                    Son Joong- gil, ketua Grup Jae Kyung, tokoh terkemuka di Korea Selatan selama tahun 1990-an, menutup matanya dan, 30 tahun kemudian, membukanya sebagai cucunya, Anak Jung- hoon, pada tahun 2022. Dibandingkan dengan 30 tahun yang lalu, Grup Jae Kyung telah jelas ditolak. Putra Joonggil bertekad untuk mengembalikan kelompok yang dia bangun kembali ke kejayaannya.",
   "chapters": [
     {
+      "chapter": "23",
+      "title": "Komik The Dignity of a Chaebol Chapter 23",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpZ25pdHktb2YtYS1jaGFlYm9sLWNoYXB0ZXItMjMv",
+      "date": "13 menit yang lalu"
+    },
+    {
+      "chapter": "22",
+      "title": "Komik The Dignity of a Chaebol Chapter 22",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpZ25pdHktb2YtYS1jaGFlYm9sLWNoYXB0ZXItMjIv",
+      "date": "14 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik The Dignity of a Chaebol Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpZ25pdHktb2YtYS1jaGFlYm9sLWNoYXB0ZXItMjAv",
-      "date": "7 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik The Dignity of a Chaebol Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWRpZ25pdHktb2YtYS1jaGFlYm9sLWNoYXB0ZXItMTkv",
-      "date": "8 menit yang lalu"
+      "date": "4 hari yang lalu"
     },
     {
       "chapter": "13",
@@ -114,5 +126,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 15
+  "total_chapters": 17
 }
