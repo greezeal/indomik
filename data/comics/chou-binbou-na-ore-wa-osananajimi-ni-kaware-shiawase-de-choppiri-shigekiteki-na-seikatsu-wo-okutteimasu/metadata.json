@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-18T02:02:13.681399",
+  "scraped_at": "2026-11-27T11:33:01.516085",
   "alternative_titles": "The Dirt-Poor Me Was Bought by My Childhood Friend, and Now I'm Living a Slightly Thrilling Life, 超貧乏な俺は幼馴染みに買われ、幸せでちょっぴり刺激的な生活を送っています",
   "status": "Berjalan",
   "author": "",
@@ -20,23 +20,29 @@
   "synopsis": "Manga                    Chou Binbou na Ore wa Osananajimi ni Kaware, Shiawase de Choppiri Shigekiteki na Seikatsu wo Okutteimasu yang dibuat oleh komikus bernama\n                     ini bercerita tentang",
   "chapters": [
     {
+      "chapter": "4.1",
+      "title": "Komik Chou Binbou na Ore wa Osananajimi ni Kaware, Shiawase de Choppiri Shigekiteki na Seikatsu wo Okutteimasu Chapter 4.1",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hvdS1iaW5ib3UtbmEtb3JlLXdhLW9zYW5hbmFqaW1pLW5pLWthd2FyZS1zaGlhd2FzZS1kZS1jaG9wcGlyaS1zaGlnZWtpdGVraS1uYS1zZWlrYXRzdS13by1va3V0dGVpbWFzdS1jaGFwdGVyLTQtMS8=",
+      "date": "31 menit yang lalu"
+    },
+    {
       "chapter": "3",
       "title": "Komik Chou Binbou na Ore wa Osananajimi ni Kaware, Shiawase de Choppiri Shigekiteki na Seikatsu wo Okutteimasu Chapter 3",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hvdS1iaW5ib3UtbmEtb3JlLXdhLW9zYW5hbmFqaW1pLW5pLWthd2FyZS1zaGlhd2FzZS1kZS1jaG9wcGlyaS1zaGlnZWtpdGVraS1uYS1zZWlrYXRzdS13by1va3V0dGVpbWFzdS1jaGFwdGVyLTMv",
-      "date": "32 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "2",
       "title": "Komik Chou Binbou na Ore wa Osananajimi ni Kaware, Shiawase de Choppiri Shigekiteki na Seikatsu wo Okutteimasu Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hvdS1iaW5ib3UtbmEtb3JlLXdhLW9zYW5hbmFqaW1pLW5pLWthd2FyZS1zaGlhd2FzZS1kZS1jaG9wcGlyaS1zaGlnZWtpdGVraS1uYS1zZWlrYXRzdS13by1va3V0dGVpbWFzdS1jaGFwdGVyLTIv",
-      "date": "32 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Chou Binbou na Ore wa Osananajimi ni Kaware, Shiawase de Choppiri Shigekiteki na Seikatsu wo Okutteimasu Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvY2hvdS1iaW5ib3UtbmEtb3JlLXdhLW9zYW5hbmFqaW1pLW5pLWthd2FyZS1zaGlhd2FzZS1kZS1jaG9wcGlyaS1zaGlnZWtpdGVraS1uYS1zZWlrYXRzdS13by1va3V0dGVpbWFzdS1jaGFwdGVyLTEv",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 3
+  "total_chapters": 4
 }

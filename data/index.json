@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T02:51:01.732501",
-  "total_comics": 2697,
+  "last_updated": "2026-11-27T11:34:43.233941",
+  "total_comics": 2698,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -335,8 +335,8 @@
       "title": "Magic Emperor",
       "type": "Manhua",
       "status": "Berjalan",
-      "rating": 8.89,
-      "total_chapters": 949
+      "rating": 8.9,
+      "total_chapters": 950
     },
     {
       "slug": "noble-lady-reformation-guide",
@@ -2943,8 +2943,8 @@
       "title": "Terminally-Ill Genius Dark Knight",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 8.37,
-      "total_chapters": 174
+      "rating": 8.35,
+      "total_chapters": 175
     },
     {
       "slug": "155895-nano-machine",
@@ -3440,7 +3440,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 39
+      "total_chapters": 40
     },
     {
       "slug": "a-relationship-communicated-through-hm-and-mhm",
@@ -3968,7 +3968,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.6,
-      "total_chapters": 106
+      "total_chapters": 107
     },
     {
       "slug": "559645-the-world-after-the-fall",
@@ -3992,7 +3992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.08,
-      "total_chapters": 78
+      "total_chapters": 80
     },
     {
       "slug": "my-death-flags-show-no-sign-of-ending",
@@ -4024,7 +4024,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 116
+      "total_chapters": 117
     },
     {
       "slug": "this-is-the-law",
@@ -4056,7 +4056,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.33,
-      "total_chapters": 129
+      "total_chapters": 131
     },
     {
       "slug": "to-hell-with-the-status-window",
@@ -6088,7 +6088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.07,
-      "total_chapters": 159
+      "total_chapters": 161
     },
     {
       "slug": "chronicle-of-runes",
@@ -6232,7 +6232,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.79,
-      "total_chapters": 92
+      "total_chapters": 93
     },
     {
       "slug": "375645-the-knight-king-who-returned-with-a-god",
@@ -7120,7 +7120,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.63,
-      "total_chapters": 66
+      "total_chapters": 67
     },
     {
       "slug": "demon-evolution",
@@ -13344,7 +13344,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.06,
-      "total_chapters": 198
+      "total_chapters": 199
     },
     {
       "slug": "about-perfect-revenge",
@@ -13816,7 +13816,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.66,
-      "total_chapters": 74
+      "total_chapters": 77
     },
     {
       "slug": "otona-wo-shiritai-onnatomodachi",
@@ -14248,7 +14248,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 29
+      "total_chapters": 30
     },
     {
       "slug": "gomi-ika-da-to-tsuihousareta-shounin-jitsu-wa-zensei-kensha-desu",
@@ -14480,7 +14480,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 25
+      "total_chapters": 27
     },
     {
       "slug": "the-mansion-awaits-spring",
@@ -19512,7 +19512,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 9.31,
-      "total_chapters": 47
+      "total_chapters": 48
     },
     {
       "slug": "maou-taoshita-shi-kaeru-ka",
@@ -20671,8 +20671,8 @@
       "title": "Cyberpunk Swordsman",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 6.18,
-      "total_chapters": 8
+      "rating": 6.75,
+      "total_chapters": 12
     },
     {
       "slug": "i-will-repay-you-with-marriage",
@@ -20880,7 +20880,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 3
+      "total_chapters": 4
     },
     {
       "slug": "dai-107-majuu-sensen-no-kishidan-futoshi-odyssey",
@@ -20952,7 +20952,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.73,
-      "total_chapters": 23
+      "total_chapters": 24
     },
     {
       "slug": "24-hours-resurrection-of-the-villainess",
@@ -21392,7 +21392,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.37,
-      "total_chapters": 2
+      "total_chapters": 6
     },
     {
       "slug": "807233-ochikobore-datta-ani-ga-jitsuha-saikyou-shijou-saikyou-no-yuusha-wa-tensei-shi-gakuen-de-mujikaku-ni-musou-suru",
@@ -21577,6 +21577,14 @@
       "status": "Berjalan",
       "rating": 6.33,
       "total_chapters": 8
+    },
+    {
+      "slug": "397955-one-piece",
+      "title": "One Piece",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 9.33,
+      "total_chapters": 1264
     }
   ]
 }
