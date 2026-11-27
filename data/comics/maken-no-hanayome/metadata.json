@@ -6,8 +6,8 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-22T03:29:33.279992",
-  "alternative_titles": "魔剣の花嫁, The Bride of the Demon Sword, Bride of the Demon Sword",
+  "scraped_at": "2026-11-27T20:17:59.781418",
+  "alternative_titles": "魔剣の花嫁, The Bride of the Demon Sword, Bride of the Demon Sword, Maken no Hanayome",
   "status": "Berjalan",
   "author": "Aohashi Yutaka",
   "illustrator": "Aohashi Yutaka",
@@ -25,11 +25,17 @@
   "synopsis": "Manga                    Maken no Hanayome yang dibuat oleh komikus bernama\n                    Aohashi Yutaka ini bercerita tentang\n                    Setiap teman sekelas adalah seorang gadis cantik! Dunia itu adalah salah satu di mana monster merajalela. Dan Pedang Ajaib yang digunakan untuk berburu monster hanya bisa dikendalikan oleh wanita... Atau seharusnya begitu. Naoto Fujiwara menjadi orang pertama dalam sejarah yang dipilih sebagai rekan dari \"Pedang Ajaib\". Terlebih lagi, dia dipilih oleh Magic Sword legendaris, Pedang sihir leluhur 00 (Double Oh).",
   "chapters": [
     {
+      "chapter": "1.2",
+      "title": "Komik Maken no Hanayome Chapter 1.2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFrZW4tbm8taGFuYXlvbWUtY2hhcHRlci0xLTIv",
+      "date": "11 menit yang lalu"
+    },
+    {
       "chapter": "1.1",
       "title": "Komik Maken no Hanayome Chapter 1.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvbWFrZW4tbm8taGFuYXlvbWUtY2hhcHRlci0xLTEv",
-      "date": "47 menit yang lalu"
+      "date": "6 hari yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 2
 }

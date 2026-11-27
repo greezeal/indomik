@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 8.08,
-  "scraped_at": "2026-11-27T11:32:16.418524",
+  "scraped_at": "2026-11-27T20:18:44.670782",
   "alternative_titles": "Rise of the Fallen Kingdom's Third Prince, 멸망한 왕국의 3왕자가 회귀했다, myeolmanghan wang-gug-ui 3wangjaga hoegwihaessda, Возвращение третьего принца падшего королевства, დაცემული სამეფოს მესამე პრინცის დაბრუნება, The Three Princes of the Fallen Kingdom Have Returned, 回帰した亡国の第３王子, 灭亡国家的三皇子重生归来, Regression of the Third Prince, The Third Prince Of The Fallen Kingdom has Regressed",
   "status": "Berjalan",
   "author": "Lee Jung-Min (이정민)",
@@ -24,34 +24,46 @@
   "synopsis": "Manhwa                    The Third Prince Of The Fallen Kingdom has Regressed yang dibuat oleh komikus bernama\n                    Lee Jung-Min (이정민) ini bercerita tentang\n                    Pangeran ketiga dari Briall Kingdom, Yuri, melarikan diri sendirian dan menyelamatkan nyawanya pada saat terakhir ketika kerajaan akan runtuh. Berkeliaran dengan penyesalan dan rasa bersalah, dia akhirnya bertemu dengan kematian.\n\nTapi ketika ia membuka matanya lagi, ia melihat wajah ayahnya akrab...?\n\nSatu penyesalan saja sudah cukup. Yuri akan menyelamatkan kerajaan dari kehancuran!",
   "chapters": [
     {
+      "chapter": "82",
+      "title": "Komik The Third Prince Of The Fallen Kingdom has Regressed Chapter 82",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXRoaXJkLXByaW5jZS1vZi10aGUtZmFsbGVuLWtpbmdkb20taGFzLXJlZ3Jlc3NlZC1jaGFwdGVyLTgyLw==",
+      "date": "22 menit yang lalu"
+    },
+    {
+      "chapter": "81",
+      "title": "Komik The Third Prince Of The Fallen Kingdom has Regressed Chapter 81",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXRoaXJkLXByaW5jZS1vZi10aGUtZmFsbGVuLWtpbmdkb20taGFzLXJlZ3Jlc3NlZC1jaGFwdGVyLTgxLw==",
+      "date": "3 jam yang lalu"
+    },
+    {
       "chapter": "80",
       "title": "Komik The Third Prince Of The Fallen Kingdom has Regressed Chapter 80",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXRoaXJkLXByaW5jZS1vZi10aGUtZmFsbGVuLWtpbmdkb20taGFzLXJlZ3Jlc3NlZC1jaGFwdGVyLTgwLw==",
-      "date": "20 menit yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "79",
       "title": "Komik The Third Prince Of The Fallen Kingdom has Regressed Chapter 79",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXRoaXJkLXByaW5jZS1vZi10aGUtZmFsbGVuLWtpbmdkb20taGFzLXJlZ3Jlc3NlZC1jaGFwdGVyLTc5Lw==",
-      "date": "20 menit yang lalu"
+      "date": "14 jam yang lalu"
     },
     {
       "chapter": "78",
       "title": "Komik The Third Prince Of The Fallen Kingdom has Regressed Chapter 78",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXRoaXJkLXByaW5jZS1vZi10aGUtZmFsbGVuLWtpbmdkb20taGFzLXJlZ3Jlc3NlZC1jaGFwdGVyLTc4Lw==",
-      "date": "13 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "77",
       "title": "Komik The Third Prince Of The Fallen Kingdom has Regressed Chapter 77",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXRoaXJkLXByaW5jZS1vZi10aGUtZmFsbGVuLWtpbmdkb20taGFzLXJlZ3Jlc3NlZC1jaGFwdGVyLTc3Lw==",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "76",
       "title": "Komik The Third Prince Of The Fallen Kingdom has Regressed Chapter 76",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXRoaXJkLXByaW5jZS1vZi10aGUtZmFsbGVuLWtpbmdkb20taGFzLXJlZ3Jlc3NlZC1jaGFwdGVyLTc2Lw==",
-      "date": "15 jam yang lalu"
+      "date": "1 hari yang lalu"
     },
     {
       "chapter": "75",
@@ -504,5 +516,5 @@
       "date": "1 tahun yang lalu"
     }
   ],
-  "total_chapters": 80
+  "total_chapters": 82
 }

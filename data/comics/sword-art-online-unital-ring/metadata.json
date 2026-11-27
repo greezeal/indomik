@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 9.01,
-  "scraped_at": "2026-11-25T08:31:13.868748",
+  "scraped_at": "2026-11-27T20:17:32.875585",
   "alternative_titles": "ソードアート・オンライン　ユナイタル・リング, Sword Art Online Anillo Unital, Sword Art Online Unital Ring",
   "status": "Berjalan",
   "author": "Kawahara Reki",
@@ -24,16 +24,22 @@
   "synopsis": "Manga                    Sword Art Online Unital Ring yang dibuat oleh komikus bernama\n                    Kawahara Reki ini bercerita tentang\n                    Diatur oleh ilmuwan jenius Akihiko Kayaba, SAO Insiden menciptakan permainan Anda tidak bisa meninggalkan sampai Anda mengalahkan itu.\nSatu di mana kematian dalam permainan berarti kematian di dunia nyata... Kirito adalah orang yang selamat dari SAO yang sekarang menghabiskan waktunya bermain VRMORPG Alfheim baru secara online dengan teman SAO lamanya, Asuna dan Alice.\nTapi Kirito segera menemukan dirinya terjebak dalam permainan misterius ia tidak pernah diharapkan...",
   "chapters": [
     {
+      "chapter": "21",
+      "title": "Komik Sword Art Online Unital Ring Chapter 21",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTIxLw==",
+      "date": "9 menit yang lalu"
+    },
+    {
       "chapter": "20",
       "title": "Komik Sword Art Online Unital Ring Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTIwLw==",
-      "date": "4 jam yang lalu"
+      "date": "3 hari yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Sword Art Online Unital Ring Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE5Lw==",
-      "date": "6 hari yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "18.2",
@@ -45,37 +51,37 @@
       "chapter": "18.1",
       "title": "Komik Sword Art Online Unital Ring Chapter 18.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE4LTEv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "17.2",
       "title": "Komik Sword Art Online Unital Ring Chapter 17.2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE3LTIv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "17.1",
       "title": "Komik Sword Art Online Unital Ring Chapter 17.1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE3LTEv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik Sword Art Online Unital Ring Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE2Lw==",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik Sword Art Online Unital Ring Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE1Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik Sword Art Online Unital Ring Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvc3dvcmQtYXJ0LW9ubGluZS11bml0YWwtcmluZy1jaGFwdGVyLTE0Lw==",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "13.2",
@@ -174,5 +180,5 @@
       "date": "2 tahun yang lalu"
     }
   ],
-  "total_chapters": 25
+  "total_chapters": 26
 }

@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 7.65,
-  "scraped_at": "2026-10-30T11:41:38.128531",
+  "scraped_at": "2026-11-27T20:21:56.963739",
   "alternative_titles": "Fun with Music, たのしい音楽",
   "status": "Berjalan",
   "author": "Io Naomichi",
@@ -24,11 +24,35 @@
   "synopsis": "Manga                    Tanoshii Ongaku yang dibuat oleh komikus bernama\n                    Io Naomichi ini bercerita tentang\n                    Murid SMA Chatora Uozumi entah bagaimana menemukan dirinya bermain drum di sebuah band! Tapi ada menangkap: anggota band lain adalah gadis menawan...!\nDia di tebal remaja, dan tidak seperti dia tidak tertarik pada hal-hal nakal (jika ada, dia sedikit terlalu tertarik!). Bisakah Chatora menikmati musik dengan band ini tanpa membiarkan hormonnya lebih baik darinya!",
   "chapters": [
     {
+      "chapter": "5",
+      "title": "Komik Tanoshii Ongaku Chapter 5",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFub3NoaWktb25nYWt1LWNoYXB0ZXItNS8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "4",
+      "title": "Komik Tanoshii Ongaku Chapter 4",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFub3NoaWktb25nYWt1LWNoYXB0ZXItNC8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "3",
+      "title": "Komik Tanoshii Ongaku Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFub3NoaWktb25nYWt1LWNoYXB0ZXItMy8=",
+      "date": "2 minggu yang lalu"
+    },
+    {
+      "chapter": "2",
+      "title": "Komik Tanoshii Ongaku Chapter 2",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFub3NoaWktb25nYWt1LWNoYXB0ZXItMi8=",
+      "date": "3 minggu yang lalu"
+    },
+    {
       "chapter": "1",
       "title": "Komik Tanoshii Ongaku Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGFub3NoaWktb25nYWt1LWNoYXB0ZXItMS8=",
-      "date": "14 jam yang lalu"
+      "date": "4 minggu yang lalu"
     }
   ],
-  "total_chapters": 1
+  "total_chapters": 5
 }

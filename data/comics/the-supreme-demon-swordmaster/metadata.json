@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 10.0,
-  "scraped_at": "2026-11-22T11:56:22.151498",
+  "scraped_at": "2026-11-27T20:21:49.490559",
   "alternative_titles": "Madojeilgeom, 마도제일검, The Supreme Demonic Sword, 魔道第一剣, The Demonic Supreme Sword, The Supreme Demon Swordmaster",
   "status": "Berjalan",
   "author": "Behwa, CHO Don-Hyung (조돈형)",
@@ -23,16 +23,28 @@
   "synopsis": "Manhwa                    The Supreme Demon Swordmaster yang dibuat oleh komikus bernama\n                    Behwa, CHO Don-Hyung (조돈형) ini bercerita tentang\n                    Setelah mencapai penyatuan Sekte Iblis Tongcheon untuk pertama kalinya dalam 300 tahun,\n\nSatu-satunya keinginan Sama Geon adalah sederhana: menjalani kehidupan biasa bersama keluarganya.\n\nKembali ke kampung halamannya, dia belajar pembantaian dan memulai bisnis.\n\nNamun penyakit adiknya memaksa kembali pedang ke tangannya, dan Sekte Iblis Tongcheon mulai mengancam pintunya.\n\nDemi perdamaian, ia sekarang harus mengambil pisau sekali lagi!",
   "chapters": [
     {
+      "chapter": "63",
+      "title": "Komik The Supreme Demon Swordmaster Chapter 63",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1cHJlbWUtZGVtb24tc3dvcmRtYXN0ZXItY2hhcHRlci02My8=",
+      "date": "3 jam yang lalu"
+    },
+    {
+      "chapter": "62",
+      "title": "Komik The Supreme Demon Swordmaster Chapter 62",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1cHJlbWUtZGVtb24tc3dvcmRtYXN0ZXItY2hhcHRlci02Mi8=",
+      "date": "1 hari yang lalu"
+    },
+    {
       "chapter": "61",
       "title": "Komik The Supreme Demon Swordmaster Chapter 61",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1cHJlbWUtZGVtb24tc3dvcmRtYXN0ZXItY2hhcHRlci02MS8=",
-      "date": "12 menit yang lalu"
+      "date": "6 hari yang lalu"
     },
     {
       "chapter": "60",
       "title": "Komik The Supreme Demon Swordmaster Chapter 60",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1cHJlbWUtZGVtb24tc3dvcmRtYXN0ZXItY2hhcHRlci02MC8=",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "59",
@@ -44,7 +56,7 @@
       "chapter": "58",
       "title": "Komik The Supreme Demon Swordmaster Chapter 58",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1cHJlbWUtZGVtb24tc3dvcmRtYXN0ZXItY2hhcHRlci01OC8=",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "57",
@@ -86,7 +98,7 @@
       "chapter": "51",
       "title": "Komik The Supreme Demon Swordmaster Chapter 51",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1cHJlbWUtZGVtb24tc3dvcmRtYXN0ZXItY2hhcHRlci01MS8=",
-      "date": "2 bulan yang lalu"
+      "date": "3 bulan yang lalu"
     },
     {
       "chapter": "50",
@@ -134,7 +146,7 @@
       "chapter": "43",
       "title": "Komik The Supreme Demon Swordmaster Chapter 43",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLXN1cHJlbWUtZGVtb24tc3dvcmRtYXN0ZXItY2hhcHRlci00My8=",
-      "date": "4 bulan yang lalu"
+      "date": "5 bulan yang lalu"
     },
     {
       "chapter": "42",
@@ -389,5 +401,5 @@
       "date": "10 bulan yang lalu"
     }
   ],
-  "total_chapters": 61
+  "total_chapters": 63
 }
