@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T11:10:48.654467",
-  "total_comics": 2708,
+  "last_updated": "2026-11-28T19:00:46.532951",
+  "total_comics": 2717,
   "comics": [
     {
       "slug": "134898-mercenary-enrollment",
@@ -64,7 +64,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.9,
-      "total_chapters": 222
+      "total_chapters": 223
     },
     {
       "slug": "593213-the-lords-coins-arent-decreasing",
@@ -1096,7 +1096,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.04,
-      "total_chapters": 120
+      "total_chapters": 121
     },
     {
       "slug": "i-was-more-overpowered-than-the-hero-so-i-hid-my-power",
@@ -1200,7 +1200,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 147
+      "total_chapters": 148
     },
     {
       "slug": "700562-kage-no-jitsuryokusha-ni-naritakute",
@@ -1431,8 +1431,8 @@
       "title": "My Female Apprentices Are All Big Shots From the Future",
       "type": "Manhua",
       "status": "Berjalan",
-      "rating": 7.68,
-      "total_chapters": 422
+      "rating": 7.71,
+      "total_chapters": 424
     },
     {
       "slug": "extremely-evil-game",
@@ -2720,7 +2720,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.24,
-      "total_chapters": 58
+      "total_chapters": 59
     },
     {
       "slug": "kiraware-majo-to-karada-ga-irekawatta-keredo-watashi-wa-kyou-mo-genki-ni-kurashiteimasu",
@@ -2895,8 +2895,8 @@
       "title": "Supreme Curse Master",
       "type": "Manhua",
       "status": "Berjalan",
-      "rating": 8.35,
-      "total_chapters": 94
+      "rating": 8.36,
+      "total_chapters": 95
     },
     {
       "slug": "soshiki-no-shukuteki-to-kekkon-shitara-mecha-amai",
@@ -3064,7 +3064,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.57,
-      "total_chapters": 45
+      "total_chapters": 46
     },
     {
       "slug": "tensei-shitara-sainou-ga-atta-ken-isekai-itte-mo-doryoku-suru",
@@ -4431,8 +4431,8 @@
       "title": "Killer Peter",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 9.03,
-      "total_chapters": 158
+      "rating": 9.04,
+      "total_chapters": 159
     },
     {
       "slug": "arifureta-shokugyou-de-sekai-saikyou",
@@ -4568,7 +4568,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 8.92,
-      "total_chapters": 128
+      "total_chapters": 129
     },
     {
       "slug": "colorist",
@@ -4584,7 +4584,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 177
+      "total_chapters": 179
     },
     {
       "slug": "885552-manager-kim",
@@ -4607,8 +4607,8 @@
       "title": "Osananajimi(♂) wo Onnanoko ni Shiteshimatta",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 8.58,
-      "total_chapters": 158
+      "rating": 9.19,
+      "total_chapters": 162
     },
     {
       "slug": "global-gao-wu",
@@ -5398,9 +5398,9 @@
       "slug": "939344-magic-academys-genius-blinker",
       "title": "Magic Academy’s Genius Blinker",
       "type": "Manhwa",
-      "status": "Berjalan",
-      "rating": 8.83,
-      "total_chapters": 103
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "becoming-the-cheon-clans-mad-dog",
@@ -7007,8 +7007,8 @@
       "title": "Please Bully Me, Miss Villainess!",
       "type": "Manhua",
       "status": "Berjalan",
-      "rating": 6.96,
-      "total_chapters": 159
+      "rating": 9.34,
+      "total_chapters": 168
     },
     {
       "slug": "the-girl-who-see-it",
@@ -7406,9 +7406,9 @@
       "slug": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
       "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
       "type": "Manga",
-      "status": "",
-      "rating": 0.0,
-      "total_chapters": 0
+      "status": "Berjalan",
+      "rating": 8.04,
+      "total_chapters": 247
     },
     {
       "slug": "the-black-haired-american-grand-marshal",
@@ -7767,8 +7767,8 @@
       "title": "Replica Datte, Koi wo suru.",
       "type": "Manga",
       "status": "Berjalan",
-      "rating": 7.84,
-      "total_chapters": 15
+      "rating": 8.52,
+      "total_chapters": 16
     },
     {
       "slug": "virgin-killer-ninpouchou",
@@ -7840,7 +7840,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 37
+      "total_chapters": 38
     },
     {
       "slug": "saigo-no-natsu-wo-hitozuma-to",
@@ -9198,9 +9198,9 @@
       "slug": "mairimashita-iruma-kun-mafia-au",
       "title": "Mairimashita! Iruma-kun Mafia AU",
       "type": "Manga",
-      "status": "Berjalan",
-      "rating": 7.98,
-      "total_chapters": 45
+      "status": "",
+      "rating": 0.0,
+      "total_chapters": 0
     },
     {
       "slug": "mairimashita-iruma-kun",
@@ -9920,7 +9920,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.23,
-      "total_chapters": 102
+      "total_chapters": 104
     },
     {
       "slug": "597501-standard-of-reincarnation",
@@ -10895,8 +10895,8 @@
       "title": "The Regressed Doctor Just Wanted to Live Quietly",
       "type": "Manhwa",
       "status": "Berjalan",
-      "rating": 7.03,
-      "total_chapters": 73
+      "rating": 8.65,
+      "total_chapters": 74
     },
     {
       "slug": "dragon-master",
@@ -11216,7 +11216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 104
+      "total_chapters": 105
     },
     {
       "slug": "the-smiling-boxer",
@@ -12552,7 +12552,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 71
+      "total_chapters": 74
     },
     {
       "slug": "villain-at-work-is-crushing-the-boss-my-kpi",
@@ -12992,7 +12992,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 27
+      "total_chapters": 28
     },
     {
       "slug": "tongari-boushi-no-atelier",
@@ -13032,7 +13032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 38
+      "total_chapters": 41
     },
     {
       "slug": "the-lawyer-who-sees-spirits",
@@ -16032,7 +16032,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 6.76,
-      "total_chapters": 449
+      "total_chapters": 451
     },
     {
       "slug": "sekkaku-nouka-ni-tensei-shitanode-yuusha-wa-mezashimasen",
@@ -16184,7 +16184,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 8.52,
-      "total_chapters": 16
+      "total_chapters": 18
     },
     {
       "slug": "the-old-man-vows-revenge-against-his-demon-wife",
@@ -18088,7 +18088,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 8.82,
-      "total_chapters": 30
+      "total_chapters": 32
     },
     {
       "slug": "dame-ningen-no-aishikata",
@@ -18464,7 +18464,7 @@
       "type": "Manhua",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 12
+      "total_chapters": 13
     },
     {
       "slug": "heavenly-demon-apocalypse",
@@ -19216,7 +19216,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 7.0,
-      "total_chapters": 11
+      "total_chapters": 12
     },
     {
       "slug": "youjo-na-majo-to-mori-no-kuma-san-isekai-de-potion-tsukutte-nonbiri-slow-life-ga-shitai-no-jaga",
@@ -19616,7 +19616,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.75,
-      "total_chapters": 4
+      "total_chapters": 5
     },
     {
       "slug": "awai-no-homura",
@@ -20520,7 +20520,7 @@
       "type": "Manga",
       "status": "Berjalan",
       "rating": 7.92,
-      "total_chapters": 16
+      "total_chapters": 17
     },
     {
       "slug": "seirei-tachi-no-rakuen-to-risou-no-isekai-seikatsu",
@@ -21512,7 +21512,7 @@
       "type": "Manhwa",
       "status": "Berjalan",
       "rating": 6.33,
-      "total_chapters": 7
+      "total_chapters": 11
     },
     {
       "slug": "in-her-eyes",
@@ -21665,6 +21665,78 @@
       "status": "Berjalan",
       "rating": 7.68,
       "total_chapters": 218
+    },
+    {
+      "slug": "rta-sousha-wa-game-sekai-kara-kaerenai",
+      "title": "RTA Sousha wa Game Sekai kara Kaerenai",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.99,
+      "total_chapters": 17
+    },
+    {
+      "slug": "467056-suterare-ouji-ga-saizensen-de-tekikoku-no-heishi-wo-chiryou-shitara-jitsu-wa-dainana-oujo-datta-ken",
+      "title": "Suterare Ouji ga Saizensen de Tekikoku no Heishi wo Chiryou Shitara Jitsu wa Dainana Oujo datta Ken",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.1,
+      "total_chapters": 20
+    },
+    {
+      "slug": "the-baby-dragon-only-wants-to-live-alone-with-the-princess",
+      "title": "The Baby Dragon Only Wants To Live Alone With The Princess",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.3,
+      "total_chapters": 3
+    },
+    {
+      "slug": "dont-act-like-were-strangers",
+      "title": "Don’t Act Like We’re Strangers",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.06,
+      "total_chapters": 3
+    },
+    {
+      "slug": "looking-for-my-fiances-lover",
+      "title": "Looking for My Fiancé’s Lover",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 6.29,
+      "total_chapters": 5
+    },
+    {
+      "slug": "im-only-shy-in-front-of-you",
+      "title": "I’m Only Shy in Front of You",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 9.23,
+      "total_chapters": 1
+    },
+    {
+      "slug": "i-was-chosen-by-a-woman-who-was-on-the-verge-of-freezing-to-death",
+      "title": "I Was Chosen by a Woman Who Was on the Verge of Freezing to Death",
+      "type": "Manhwa",
+      "status": "Berjalan",
+      "rating": 7.0,
+      "total_chapters": 5
+    },
+    {
+      "slug": "526459-kakkou-no-iinazuke",
+      "title": "Kakkou no Iinazuke",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 7.66,
+      "total_chapters": 322
+    },
+    {
+      "slug": "doumo-butsuyoku-no-seijo-desu-musou-skill-clear-houshuu-de-seidai-ni-kanchigai-saremashita",
+      "title": "Doumo, Butsuyoku no Seijo desu: Musou Skill “Clear Houshuu” de Seidai ni Kanchigai Saremashita",
+      "type": "Manga",
+      "status": "Berjalan",
+      "rating": 8.81,
+      "total_chapters": 12
     }
   ]
 }
