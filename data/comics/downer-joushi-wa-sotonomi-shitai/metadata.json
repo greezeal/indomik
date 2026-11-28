@@ -6,7 +6,7 @@
   "type": "Manga",
   "is_colored": false,
   "rating": 8.25,
-  "scraped_at": "2026-11-19T00:55:06.461637",
+  "scraped_at": "2026-11-28T11:03:31.415331",
   "alternative_titles": "My Downer Boss Wants to Drink Outdoors..., ダウナー上司は外吞みしたい…, Daunaa Joushi wa Sotonomi Shitai…, Mi Jefa Downer Quiere Beber En El parque...",
   "status": "Berjalan",
   "author": "Izumi Minami",
@@ -23,17 +23,23 @@
   "synopsis": "Manga                    Downer Joushi wa Sotonomi Shitai… yang dibuat oleh komikus bernama\n                    Izumi Minami ini bercerita tentang\n                    \"Aku akan mengajarimu bagaimana orang dewasa bersenang-senang\".\n\nSuatu hari, pekerja kantor Saeki tiba-tiba diundang keluar untuk minum-minum oleh bosnya, Minase. Dan di mana dia membawanya adalah... taman di malam hari?\nMinase, seorang diri-proclaimed pro di luar minum, mengatakan kepadanya, \"Taman sebenarnya tempat tersembunyi terbaik untuk minum.\"\n\nSeorang drinking-buddy romcom menampilkan alkohol, angin malam, dan sedikit seksi Boss Downer",
   "chapters": [
     {
+      "chapter": "3",
+      "title": "Komik Downer Joushi wa Sotonomi Shitai… Chapter 3",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG93bmVyLWpvdXNoaS13YS1zb3Rvbm9taS1zaGl0YWktY2hhcHRlci0zLw==",
+      "date": "7 menit yang lalu"
+    },
+    {
       "chapter": "2",
       "title": "Komik Downer Joushi wa Sotonomi Shitai… Chapter 2",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG93bmVyLWpvdXNoaS13YS1zb3Rvbm9taS1zaGl0YWktY2hhcHRlci0yLw==",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "1",
       "title": "Komik Downer Joushi wa Sotonomi Shitai… Chapter 1",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZG93bmVyLWpvdXNoaS13YS1zb3Rvbm9taS1zaGl0YWktY2hhcHRlci0xLw==",
-      "date": "2 jam yang lalu"
+      "date": "1 minggu yang lalu"
     }
   ],
-  "total_chapters": 2
+  "total_chapters": 3
 }

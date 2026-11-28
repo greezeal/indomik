@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": false,
   "rating": 7.0,
-  "scraped_at": "2026-11-18T10:08:04.843788",
+  "scraped_at": "2026-11-28T11:07:51.907742",
   "alternative_titles": "神眼のリヒト〜全盲の最強復讐者〜,",
   "status": "Berjalan",
   "author": "SYNAPSE HEART",
@@ -20,46 +20,52 @@
   "synopsis": "Manhwa                    Divine-Eyed Licht: The Strongest Blind Avenger yang dibuat oleh komikus bernama\n                    SYNAPSE HEART ini bercerita tentang\n                    Licht Arimiya kehilangan penglihatan dan kedua orang tuanya akibat serangan monster tingkat tinggi \"Demon\" yang juga mengubah sang kakak menjadi salah satu dari mereka.\r\n\r\nDidorong dendam dan tekad menyelamatkan kakaknya, Licht berusaha keras menjadi Hunter, namun nasib hanya menjadikannya seorang \"Guide\" rendahan yang kerap diremehkan.\r\nSaat dikhianati dan dijadikan umpan oleh rekan-rekannya di hadapan Demon yang kuat, sosok misterius muncul dan membangkitkan kekuatan tersembunyi Licht.\r\n\r\nSenjata baru untuk membalikkan takdir tragisnya.",
   "chapters": [
     {
+      "chapter": "24",
+      "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 24",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMjQv",
+      "date": "17 menit yang lalu"
+    },
+    {
       "chapter": "23",
       "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 23",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMjMv",
-      "date": "43 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "22",
       "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 22",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMjIv",
-      "date": "45 menit yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "21",
       "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 21",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMjEv",
-      "date": "2 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "20",
       "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 20",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMjAv",
-      "date": "3 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "19",
       "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 19",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMTkv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "18",
       "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 18",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMTgv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "17",
       "title": "Komik Divine-Eyed Licht: The Strongest Blind Avenger Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvZGl2aW5lLWV5ZWQtbGljaHQtdGhlLXN0cm9uZ2VzdC1ibGluZC1hdmVuZ2VyLWNoYXB0ZXItMTcv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "16",
@@ -158,5 +164,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 23
+  "total_chapters": 24
 }

@@ -6,7 +6,7 @@
   "type": "Manhwa",
   "is_colored": true,
   "rating": 7.0,
-  "scraped_at": "2026-11-21T11:50:13.624410",
+  "scraped_at": "2026-11-28T11:03:36.206302",
   "alternative_titles": "용사는 쉴 수 없다",
   "status": "Berjalan",
   "author": "FLAME, Panthera",
@@ -21,34 +21,40 @@
   "synopsis": "Manhwa                    The Hero Can’t Rest yang dibuat oleh komikus bernama\n                    FLAME, Panthera ini bercerita tentang\n                    Seorang pahlawan bernama Raon berhasil membunuh Raja Iblis, namun tetap tidak bisa kembali ke dunia asalnya.\r\n\r\nIni adalah kisah tentang perjalanan kedua seorang pahlawan yang hanya mendambakan istirahat... namun harus menyelamatkan dunia lain sebelum akhirnya bisa pulang.",
   "chapters": [
     {
+      "chapter": "18",
+      "title": "Komik The Hero Can’t Rest Chapter 18",
+      "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTgv",
+      "date": "8 menit yang lalu"
+    },
+    {
       "chapter": "17",
       "title": "Komik The Hero Can’t Rest Chapter 17",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTcv",
-      "date": "3 jam yang lalu"
+      "date": "1 minggu yang lalu"
     },
     {
       "chapter": "16",
       "title": "Komik The Hero Can’t Rest Chapter 16",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTYv",
-      "date": "1 minggu yang lalu"
+      "date": "2 minggu yang lalu"
     },
     {
       "chapter": "15",
       "title": "Komik The Hero Can’t Rest Chapter 15",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTUv",
-      "date": "2 minggu yang lalu"
+      "date": "3 minggu yang lalu"
     },
     {
       "chapter": "14",
       "title": "Komik The Hero Can’t Rest Chapter 14",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTQv",
-      "date": "3 minggu yang lalu"
+      "date": "4 minggu yang lalu"
     },
     {
       "chapter": "13",
       "title": "Komik The Hero Can’t Rest Chapter 13",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTMv",
-      "date": "4 minggu yang lalu"
+      "date": "1 bulan yang lalu"
     },
     {
       "chapter": "12",
@@ -60,13 +66,13 @@
       "chapter": "11",
       "title": "Komik The Hero Can’t Rest Chapter 11",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTEv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "10",
       "title": "Komik The Hero Can’t Rest Chapter 10",
       "url": "b64:aHR0cHM6Ly9rb21pa2luZG8uY2gvdGhlLWhlcm8tY2FudC1yZXN0LWNoYXB0ZXItMTAv",
-      "date": "1 bulan yang lalu"
+      "date": "2 bulan yang lalu"
     },
     {
       "chapter": "9",
@@ -123,5 +129,5 @@
       "date": "2 bulan yang lalu"
     }
   ],
-  "total_chapters": 17
+  "total_chapters": 18
 }
